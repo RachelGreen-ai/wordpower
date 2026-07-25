@@ -6,8 +6,8 @@ hidden through-line, with pronunciation audio, etymology, word-family expansion,
 and bilingual example sentences.
 
 This repo is **self-contained**: it holds the site, all lesson content, all
-audio, and the tooling to author new lessons. It has no dependency on any other
-project.
+audio, the tooling to author new lessons, and a video generator. It has no
+dependency on any other project.
 
 ## Layout
 
@@ -17,19 +17,25 @@ wordpower-made-easy/
 │   ├── src/routes/          Home · LessonPage · MethodPage · TestPage
 │   ├── src/components/      AudioButton · WordEntry · BilingualLine · TwistCompare · VocabularyExpansion
 │   ├── src/corpus/          ← canonical lessons: lesson-*.json  (single source of truth)
-│   ├── src/corpus-types/    ← vocab.ts — the Zod schema shared by site + authoring
+│   ├── src/corpus-types/    ← vocab.ts — the Zod schema shared across all three parts
 │   └── public/audio/vocab/  ← canonical pronunciation audio (.wav per slot)
 │
-└── authoring/               Tooling to add new lessons (dev-only; not deployed)
-    ├── generateVocabAudio.ts   read a lesson JSON → synthesize audio → write into web/
-    ├── lib/tts.ts              Node → Python bridge
-    ├── tts/                    Python mlx-audio TTS (setup.sh builds a local .venv)
-    └── AUTHORING.md            how to write a lesson + generate its audio
+├── authoring/               Tooling to add new lessons (dev-only; not deployed)
+│   ├── generateVocabAudio.ts   read a lesson JSON → synthesize audio → write into web/
+│   ├── lib/tts.ts              Node → Python bridge
+│   ├── tts/                    Python mlx-audio TTS (setup.sh builds a local .venv)
+│   └── AUTHORING.md            how to write a lesson + generate its audio
+│
+└── video/                   Remotion 9:16 short videos, one per lesson (for Reels/Shorts/RedNote)
+    ├── src/Root.tsx            registers 37 vocab compositions from ../web/src/corpus
+    ├── src/VocabLesson.tsx     the composition
+    └── remotion.config.ts      publicDir → ../web/public (reads the shared audio)
 ```
 
 **Data flow (single source of truth):** the `authoring/` tool writes lessons and
-audio directly into `web/`, and the site auto-discovers them via
-`import.meta.glob`. There is exactly one copy of each lesson and its audio.
+audio directly into `web/`; the site auto-discovers them via `import.meta.glob`,
+and `video/` imports the same lesson JSONs and reads the same audio. There is
+exactly **one** copy of each lesson and its audio — no forks, no sync.
 
 ## Study (run the site)
 
@@ -54,6 +60,20 @@ npm install
 npm run setup      # one-time: build the Python venv (~1.3 GB), Apple Silicon
 npm run tts:vocab -- --lesson ../web/src/corpus/lesson-<slug>.json
 ```
+
+## Make short videos
+
+Render a vertical 9:16 video for any lesson (reads the same lessons + audio).
+See [`video/README.md`](video/README.md).
+
+```bash
+cd video
+npm install
+npm run dev                       # Remotion Studio — preview all 37 compositions
+npm run render:vocab-intro        # → out/vocab/intro-extro-ambi.mp4
+```
+
+Rendering works on any OS (headless Chromium); only audio *authoring* needs Apple Silicon.
 
 ## Notes
 

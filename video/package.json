@@ -1,0 +1,46 @@
+{
+  "name": "wordpower-video",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Remotion vertical (9:16) vocab-lesson short videos for Word Power Made Easy. Reads the shared corpus in ../web/src/corpus and audio in ../web/public — single source of truth with the learning site.",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render",
+    "build": "remotion bundle",
+    "lint": "tsc --noEmit",
+    "render:vocab-ego": "remotion render VocabEgoEgoAlt out/vocab/ego-ego-alt.mp4",
+    "render:vocab-intro": "remotion render VocabIntroExtroAmbi out/vocab/intro-extro-ambi.mp4",
+    "render:vocab-haters": "remotion render VocabHaters out/vocab/misanthrope-misogynist-misogamist.mp4",
+    "render:vocab-restraint": "remotion render VocabRestraint out/vocab/ascetic-austere-stoic.mp4",
+    "render:vocab-cardio": "remotion render VocabCardioNeuroPsych out/vocab/cardio-neuro-psych.mp4",
+    "render:vocab-derm": "remotion render VocabDermOphthOrtho out/vocab/derm-ophth-ortho.mp4",
+    "render:vocab-gyn": "remotion render VocabGynObstetricPediatric out/vocab/gyn-obstetric-pediatric.mp4",
+    "render:vocab-psych": "remotion render VocabPsychAnalystGrapho out/vocab/psych-analyst-grapho.mp4",
+    "render:vocab-ortho": "remotion render VocabOrthoOptomPodo out/vocab/ortho-optom-podo.mp4",
+    "render:vocab-osteo": "remotion render VocabOsteoChiroGeron out/vocab/osteo-chiro-geron.mp4",
+    "render:vocab-anthro": "remotion render VocabAnthroSocioPhilo out/vocab/anthro-socio-philo.mp4",
+    "render:vocab-astro": "remotion render VocabAstroGeoBio out/vocab/astro-geo-bio.mp4",
+    "render:vocab-botany": "remotion render VocabBotanyZooEnto out/vocab/botany-zoo-ento.mp4",
+    "render:vocab-notor": "remotion render VocabNotorConsumGlib out/vocab/notorious-consummate-glib.mp4",
+    "render:vocab-incorrig": "remotion render VocabIncorrigInvetChronic out/vocab/incorrigible-inveterate-chronic.mp4",
+    "render:vocab-path": "remotion render VocabPathUnconsEgreg out/vocab/pathological-unconscionable-egregious.mp4",
+    "render:vocab-disparage": "remotion render VocabDisparageMalignEquiv out/vocab/disparage-malign-equivocate.mp4",
+    "render:vocab-adulate": "remotion render VocabAdulateTitillatePlacate out/vocab/adulate-titillate-placate.mp4",
+    "render:vocab-proscribe": "remotion render VocabProscribeMilitateObviate out/vocab/proscribe-militate-obviate.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "^4.0.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@remotion/bundler": "^4.0.0",
+    "@remotion/renderer": "^4.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.7.0"
+  }
+}

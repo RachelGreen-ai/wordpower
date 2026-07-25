@@ -11,6 +11,11 @@ dist/
 dist-ssr/
 *.tsbuildinfo
 
+# Remotion video render output + bundle (regenerable)
+out/
+build/
+.remotion/
+
 # Local / editor
 *.local
 .DS_Store
