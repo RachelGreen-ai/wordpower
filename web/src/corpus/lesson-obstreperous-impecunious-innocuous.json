@@ -1,0 +1,499 @@
+{
+  "lessonId": "obstreperous-impecunious-innocuous",
+  "hook": {
+    "headline": {
+      "en": "Three -ous adjectives — rowdy, broke, harmless.",
+      "zh": "三个 -ous 形容词 — 喧闹的、囊中羞涩的、无害的。"
+    },
+    "subtext": {
+      "en": "Three states everyone passes through. None of them is the end of the story.",
+      "zh": "每个人都会经过的三种状态。没有哪一种是故事的结尾。"
+    }
+  },
+  "words": [
+    {
+      "word": "Obstreperous",
+      "phonetic": "ab-STREP'-ar-as",
+      "chinese": "喧闹的、难以管束的",
+      "definition": {
+        "en": "Noisily defiant — making such a racket that the room can't return to its task. Often kids; sometimes adults at meetings.",
+        "zh": "吵闹且不服管 — 闹得整间屋子没法回去做事。常见于小孩，也见于会议上的某些大人。"
+      },
+      "etymology": {
+        "root": "strepere",
+        "meaning": "to make noise",
+        "meaningZh": "发出噪声",
+        "en": "From Latin ob- (against) + strepere (to make a loud noise). Literally 'making noise AGAINST.' Same strepere is the root of 'strepitus' (din) — preserved in scientific names like 'strepitococcus.' The image is precise: noise as a form of refusal.",
+        "zh": "拉丁 ob-（对抗）+ strepere（发出大声响）。字面是'用噪声反对'。同一个 strepere 是 strepitus（喧响）的词根，在科学名 'strepitococcus' 里还看得到。意象很准：把噪声当作一种拒绝。",
+        "relatives": [
+          {
+            "word": "stertor",
+            "zh": "鼾声（医学）"
+          },
+          {
+            "word": "strepitus",
+            "zh": "喧响（拉丁原词）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "parenting",
+          "en": "An obstreperous three-year-old isn't bad — they've just discovered that 'no' has weight, and they're testing the muscle.",
+          "zh": "一个吵翻天的三岁孩子并不'坏' — 他刚发现'不'是有分量的，正在试这块肌肉。"
+        },
+        {
+          "context": "workplace",
+          "en": "The obstreperous voice in the meeting isn't always wrong — but you have to mute it long enough to find out.",
+          "zh": "会议上那个最吵的声音不一定错 — 但你得让它先安静一会儿才能查清楚。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "喧闹",
+      "tint": "a06a4f",
+      "mnemonic": {
+        "en": "Ob + Strepere = NOISE-AGAINST. Obstreperousness is the body's first language of refusal. Some never outgrow it.",
+        "zh": "Ob + Strepere = 用噪声反对。喧闹是身体最初的'拒绝'语言。有些人一辈子也没长大。"
+      },
+      "commonConfusions": [
+        "unruly",
+        "boisterous",
+        "rowdy"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Boisterous and obstreperous both mean loud. What's the difference?",
+            "zh": "Boisterous 和 obstreperous 都形容吵。区别在哪？"
+          },
+          "answer": {
+            "en": "Boisterous = lively and loud (often friendly). Obstreperous = loud AND defiant — the noise has a 'no' in it.",
+            "zh": "Boisterous = 又活泼又吵（常是友好的）。Obstreperous = 又吵又抗拒 — 噪声里带着一个'不'。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "British police records from the 1800s called drunken pubgoers 'obstreperous' — a fancy word for 'won't go home.' Most legal English is just Latin trying to look professional.",
+        "zh": "19世纪英国警察记录里把醉酒不愿离开酒馆的人称为'obstreperous' — 一个比'不肯回家'听上去更高级的词。多数法律英语，只是拉丁语在装一本正经。"
+      }
+    },
+    {
+      "word": "Impecunious",
+      "phonetic": "im'-pa-KYOO'-nee-as",
+      "chinese": "囊中羞涩的、贫困的",
+      "definition": {
+        "en": "Habitually short of money — broke, but in a way that's an ongoing condition, not a panicked moment. The student-with-loans, the artist-between-shows kind of poor.",
+        "zh": "长期手头紧 — 不是某一刻的危机，是持续的状态。学生背着贷款、艺术家两次展览之间的那种'穷'。"
+      },
+      "etymology": {
+        "root": "pecunia",
+        "meaning": "money",
+        "meaningZh": "钱",
+        "en": "From Latin in- (not) + pecunia (money). Literally 'without money.' Pecunia originally came from pecus (cattle) — wealth in ancient Rome was counted in herds. Same pecunia in 'pecuniary' and 'peculiar' (originally 'private property,' your peculium).",
+        "zh": "拉丁 in-（没有）+ pecunia（钱）。字面就是'没钱'。Pecunia 原本来自 pecus（牲畜）— 古罗马的财富是按牛羊群数算的。同一个 pecunia 出现在 pecuniary（金钱的）、peculiar（独特的，原意'私有财产'）里。",
+        "relatives": [
+          {
+            "word": "pecuniary",
+            "zh": "金钱的、财务的"
+          },
+          {
+            "word": "peculiar",
+            "zh": "独特的（原意'私有财产'）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "His impecunious graduate years taught him a trick — to value time more than money, because money was always going to come back later.",
+          "zh": "他读研那些囊中羞涩的年头教会了他一件事 — 把时间看得比钱重，因为钱迟早会回来。"
+        },
+        {
+          "context": "social",
+          "en": "Some of the best dinners happen during impecunious years — pasta and an open bottle, six people on the floor.",
+          "zh": "最好的几顿饭常常发生在没钱的那些年 — 一锅意面，一瓶开了的酒，六个人坐在地上。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "拮据",
+      "tint": "8a8a5a",
+      "mnemonic": {
+        "en": "Im + Pecunia = NOT-MONEY. Pecunia comes from CATTLE — when 'broke' meant 'no cows.' The word remembers what wealth used to look like.",
+        "zh": "Im + Pecunia = 没钱。Pecunia 来自'牛' — 那时候'穷'的意思是'没牛'。这个词记得'财富'原本长什么样。"
+      },
+      "commonConfusions": [
+        "broke",
+        "destitute",
+        "poor"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Destitute, impecunious, broke. Which one is gentlest?",
+            "zh": "Destitute、impecunious、broke — 哪个语气最温柔？"
+          },
+          "answer": {
+            "en": "Destitute = severe, lasting poverty. Impecunious = ongoing but bearable shortage, often with hope. Broke = momentary, fixable. Three rungs on the same ladder.",
+            "zh": "Destitute = 严重、持续的贫困。Impecunious = 长期但可承受的拮据，常带希望。Broke = 一时的，能修复。同一架梯子的三阶。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Vincent van Gogh was impecunious his entire painting life — his brother Theo wired him francs from Paris just to buy paint. He sold one painting before he died. The impecunious aren't always failing — sometimes the world hasn't caught up yet.",
+        "zh": "梵高画画的整段人生都是拮据的 — 他弟弟提奥从巴黎汇钱给他买颜料。他生前只卖出过一幅画。'拮据'的人不总是失败 — 有时只是世界还没赶上来。"
+      }
+    },
+    {
+      "word": "Innocuous",
+      "phonetic": "i-NOK'-yoo-as",
+      "chinese": "无害的、无伤大雅的",
+      "definition": {
+        "en": "Harmless — produces no real damage. An innocuous remark, an innocuous spider, an innocuous-looking pill. Often the safest things are also the least memorable.",
+        "zh": "无害 — 不会造成实际伤害。一句无伤大雅的话、一只没毒的蜘蛛、一颗看上去毫无杀伤力的药丸。最安全的东西常常也是最难记住的。"
+      },
+      "etymology": {
+        "root": "nocere",
+        "meaning": "to harm",
+        "meaningZh": "伤害",
+        "en": "From Latin in- (not) + nocere (to harm). Literally 'not harmful.' Same nocere in 'noxious' (harmful), 'obnoxious' (in the way of harm), and the medical oath 'first, do no harm' (primum non nocere). Also a cousin of 'innocent' — literally 'not-harming.'",
+        "zh": "拉丁 in-（不）+ nocere（伤害）。字面是'不会伤害'。同一个 nocere 出现在 noxious（有毒的）、obnoxious（讨厌的）、医学誓言 primum non nocere（首先，不要伤害）里。也是 innocent（无辜，'不伤害'）的近亲。",
+        "relatives": [
+          {
+            "word": "noxious",
+            "zh": "有毒的、有害的"
+          },
+          {
+            "word": "obnoxious",
+            "zh": "讨厌的、令人厌恶的"
+          },
+          {
+            "word": "innocent",
+            "zh": "无辜的、'不伤害的'"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The innocuous email — three lines, no attachments — turned out to contain the line everyone would quote for years.",
+          "zh": "那封看上去毫无杀伤力的邮件 — 三行字，没附件 — 结果里面那一句被人引用了好多年。"
+        },
+        {
+          "context": "social",
+          "en": "An innocuous question can do real work: 'how are you, really?' — said the right way, it crosses a room.",
+          "zh": "一个看上去无害的问题可以做很多事：'你最近，真的怎么样？' — 语气对了，它能横穿一整间屋子。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "无害",
+      "tint": "6a8a6a",
+      "mnemonic": {
+        "en": "In + Nocere = NOT-HARMING. Innocuous = without teeth. Sometimes the gentlest thing in the room is also the most powerful.",
+        "zh": "In + Nocere = 不伤人。Innocuous = 没有牙齿。有时候屋子里最温柔的东西，也是最有力量的。"
+      },
+      "commonConfusions": [
+        "harmless",
+        "benign",
+        "inoffensive"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Innocuous and benign both mean 'safe.' What's the difference?",
+            "zh": "Innocuous 和 benign 都意味着'安全'。区别在哪？"
+          },
+          "answer": {
+            "en": "Innocuous = does no harm. Benign = does no harm AND tends toward kindness. One is neutral safety; the other is warm safety.",
+            "zh": "Innocuous = 不害人。Benign = 不害人且偏向友善。一个是中性的安全，一个是带温度的安全。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Hippocrates' oath included 'do no harm' — primum non nocere, the same nocere inside 'innocuous.' Twenty-five centuries later, doctors still take it. Of all the promises a person can make, 'I won't make this worse' has survived best.",
+        "zh": "希波克拉底誓言里有一句'不可伤人' — primum non nocere，与 innocuous 是同一个 nocere。二十五个世纪过去，医生还在宣这誓。在人能做的所有承诺里，'我不会让这件事变得更糟'活得最久。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Obstreperous and innocuous sit on opposite ends of a noise dial. But the truth is rarely at either end.",
+      "zh": "Obstreperous 和 innocuous 是音量刻度盘的两端。但真相很少在两端。"
+    },
+    "leftLabel": "Obstreperous",
+    "leftLine": {
+      "en": "Loud, defiant, hard to ignore.",
+      "zh": "吵、抗拒、难以忽视。"
+    },
+    "leftMnemonic": {
+      "en": "Ob + Strepere = NOISE-AGAINST · refusal made audible.",
+      "zh": "Ob + Strepere = 用噪声反对 · 把拒绝变成可听见的。"
+    },
+    "rightLabel": "Innocuous",
+    "rightLine": {
+      "en": "Quiet, harmless, easy to miss.",
+      "zh": "安静、无害、容易错过。"
+    },
+    "rightMnemonic": {
+      "en": "In + Nocere = NOT-HARMING · safety as a soft default.",
+      "zh": "In + Nocere = 不伤人 · 把安全当作柔软的默认。"
+    },
+    "closing": {
+      "en": "Loud isn't dangerous. Quiet isn't safe. Volume is a poor guide to harm.",
+      "zh": "吵不等于危险。安静不等于安全。音量不是判断'伤害'的好向导。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "We learn to fear what's loud and trust what's quiet — and that's exactly how the careful liar gets through. Listen for the meaning, not the volume.",
+      "zh": "我们学会害怕大声、信任安静 — 而这正是用心的骗子能溜过去的方式。听内容，别只听音量。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/obstreperous-impecunious-innocuous/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/obstreperous-impecunious-innocuous/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/obstreperous-impecunious-innocuous/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/obstreperous-impecunious-innocuous/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/obstreperous-impecunious-innocuous/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/obstreperous-impecunious-innocuous/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/obstreperous-impecunious-innocuous/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/obstreperous-impecunious-innocuous/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/obstreperous-impecunious-innocuous/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/obstreperous-impecunious-innocuous/twist.left.wav",
+    "twist.right": "audio/vocab/obstreperous-impecunious-innocuous/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/obstreperous-impecunious-innocuous/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/obstreperous-impecunious-innocuous/hook.headline.wav",
+    "word.0.definition": "audio/vocab/obstreperous-impecunious-innocuous/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/obstreperous-impecunious-innocuous/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/obstreperous-impecunious-innocuous/word.2.definition.wav",
+    "twist.setup": "audio/vocab/obstreperous-impecunious-innocuous/twist.setup.wav",
+    "twist.closing": "audio/vocab/obstreperous-impecunious-innocuous/twist.closing.wav",
+    "recap.reflection": "audio/vocab/obstreperous-impecunious-innocuous/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 16,
+    "session": 45,
+    "pages": [
+      478,
+      505
+    ],
+    "theme": "Personal Characteristics",
+    "subtheme": "Rowdy, broke, harmless"
+  },
+  "tags": [
+    "characteristics",
+    "states",
+    "ch16",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "pecuniary",
+      "zh": "金钱的、财务的",
+      "root": "pecunia",
+      "partOfSpeech": "adj.",
+      "phonetic": "pi-KYOO'-nee-air-ee",
+      "gloss": {
+        "en": "Of money — directly from pecunia. Used in legal and formal contexts: 'pecuniary damages.'",
+        "zh": "和钱有关的 — 直接来自 pecunia。在法律和正式语境里使用：'金钱性损害赔偿'。"
+      },
+      "usage": {
+        "en": "Pecuniary loss is the part of a lawsuit you can count. The rest — pride, time, peace — has no line item.",
+        "zh": "金钱损失是诉讼里能数得清的那部分。其他的 — 自尊、时间、平静 — 没有'明细栏'。"
+      }
+    },
+    {
+      "word": "peculiar",
+      "zh": "独特的、奇特的",
+      "root": "pecunia",
+      "partOfSpeech": "adj.",
+      "phonetic": "pi-KYOO'-lee-ar",
+      "gloss": {
+        "en": "Originally 'one's own private property' — Latin peculium (private estate), from pecunia. The meaning drifted from 'one's own' to 'unique to one' to 'oddly specific.'",
+        "zh": "原本意思是'某人的私有财产' — 拉丁 peculium（私产），来自 pecunia。意思从'自己的'漂移到'独有的'，再到'奇特的'。"
+      },
+      "usage": {
+        "en": "Each person has peculiar habits — keeping the orange juice in the freezer, talking to plants. Peculiar is just identity with a magnifying glass on it.",
+        "zh": "每个人都有些'独特'的习惯 — 把橙汁放冷冻库，对着植物说话。'独特'只是被放大镜放大了的'我'。"
+      }
+    },
+    {
+      "word": "noxious",
+      "zh": "有毒的、有害的",
+      "root": "nocere",
+      "partOfSpeech": "adj.",
+      "phonetic": "NOK'-shas",
+      "gloss": {
+        "en": "Harmful, often toxic — directly from nocere. The dark twin of innocuous.",
+        "zh": "有害的，常指有毒 — 直接来自 nocere。是 innocuous 的暗面孪生。"
+      },
+      "usage": {
+        "en": "Some opinions are noxious — they poison the room without anyone noticing the smell.",
+        "zh": "有些观点是有毒的 — 它们污染整间屋子，却没人闻到。"
+      }
+    },
+    {
+      "word": "obnoxious",
+      "zh": "讨厌的、令人厌恶的",
+      "root": "nocere",
+      "partOfSpeech": "adj.",
+      "phonetic": "ab-NOK'-shas",
+      "gloss": {
+        "en": "Literally 'in the way of harm' — ob- (toward, against) + nocere. Originally meant 'exposed to injury'; modern meaning is 'irritatingly offensive.'",
+        "zh": "字面是'处于伤害的方向上' — ob-（朝、对）+ nocere。最初指'易受伤的'，现代意思是'讨厌得让人受不了'。"
+      },
+      "usage": {
+        "en": "Obnoxious isn't always loud — sometimes it's a quiet correction, repeated until you can't take another one.",
+        "zh": "讨厌不一定是大声的 — 有时只是一个安静的纠正，反复地说，直到你再也受不了。"
+      }
+    },
+    {
+      "word": "innocent",
+      "zh": "无辜的、清白的",
+      "root": "nocere",
+      "partOfSpeech": "adj.",
+      "phonetic": "IN'-a-sant",
+      "gloss": {
+        "en": "Literally 'not-harming' — in- (not) + nocere. Same root as innocuous; one shifted to legal/moral status, the other to the everyday safe.",
+        "zh": "字面是'不伤害' — in-（不）+ nocere。和 innocuous 同根；一个转向法律/道德层面，一个留在日常的'无害'。"
+      },
+      "usage": {
+        "en": "Innocent isn't naive — it's the rare state of not yet having needed to harm anyone, and choosing not to start.",
+        "zh": "无辜不等于天真 — 是一种稀有的状态：还没需要去伤人，并选择不开始。"
+      }
+    },
+    {
+      "word": "stertor",
+      "zh": "鼾声、粗喘声",
+      "root": "strepere",
+      "partOfSpeech": "n.",
+      "phonetic": "STUR'-tor",
+      "gloss": {
+        "en": "A heavy, snoring breath — medical term, same noise-family as strepere. The body's obstreperous sleep.",
+        "zh": "沉重的鼾声 — 医学术语，和 strepere 同噪声词族。身体在'喧闹地'睡觉。"
+      },
+      "usage": {
+        "en": "Stertor in an unconscious patient is a warning sign — the airway is partially closed, and the body is fighting to breathe.",
+        "zh": "昏迷病人发出鼾声是危险信号 — 气道部分关闭，身体在挣扎着呼吸。"
+      }
+    },
+    {
+      "word": "destitute",
+      "zh": "穷困潦倒的",
+      "root": "stare",
+      "partOfSpeech": "adj.",
+      "phonetic": "DES'-ti-toot",
+      "gloss": {
+        "en": "Literally 'left standing apart' — de- (down, away) + stare (to stand). Standing without support, without resources.",
+        "zh": "字面是'被丢在一旁站着' — de-（向下、离开）+ stare（站）。没有依靠、没有资源地站着。"
+      },
+      "usage": {
+        "en": "Destitution isn't just lack of money — it's lack of the people who would have stood beside you while you found more.",
+        "zh": "穷困潦倒不只是没钱 — 是身边没有那些'本会陪你站着、直到你重新找到资源'的人。"
+      },
+      "rootMeaning": "to stand (Latin)",
+      "rootMeaningZh": "站立（拉丁）",
+      "rootTint": "6a5a5a"
+    },
+    {
+      "word": "rowdy",
+      "zh": "喧闹的、粗野的",
+      "root": "rude",
+      "partOfSpeech": "adj.",
+      "phonetic": "ROW'-dee",
+      "gloss": {
+        "en": "Boisterously disorderly — origin uncertain, possibly from 'rude' (raw). A close cousin in meaning to obstreperous, with a more casual register.",
+        "zh": "吵闹无序 — 词源不明，可能来自 rude（粗糙）。意思上是 obstreperous 的表亲，语气更口语化。"
+      },
+      "usage": {
+        "en": "A rowdy kid is fixed by sleep; a rowdy adult is fixed by being heard once, properly.",
+        "zh": "吵闹的小孩用睡眠解决；吵闹的大人用'被认真听一次'解决。"
+      },
+      "rootMeaning": "uncultivated (English)",
+      "rootMeaningZh": "粗糙、未开化（英语）",
+      "rootTint": "8a5a5a"
+    },
+    {
+      "word": "benign",
+      "zh": "良性的、和善的",
+      "root": "bene",
+      "partOfSpeech": "adj.",
+      "phonetic": "bi-NIN'",
+      "gloss": {
+        "en": "Kind, gentle, not harmful — bene (well) + gnus (born). 'Well-born' in spirit. In medicine, a benign tumor isn't malignant.",
+        "zh": "和善、温和、无害 — bene（好）+ gnus（出生）。精神上的'出身好'。医学里，良性肿瘤是相对于恶性的。"
+      },
+      "usage": {
+        "en": "A benign authority figure is rarer than a kind one — kindness can be a performance, benignity tends to be a habit.",
+        "zh": "和善的权威比仁慈的权威稀有 — 仁慈可以是表演，'良性'多半已经是一种习惯。"
+      },
+      "rootMeaning": "well, good (Latin)",
+      "rootMeaningZh": "好、善（拉丁）",
+      "rootTint": "6a8a8a"
+    },
+    {
+      "word": "benefit",
+      "zh": "好处、益处",
+      "root": "bene",
+      "partOfSpeech": "n.",
+      "phonetic": "BEN'-i-fit",
+      "gloss": {
+        "en": "Literally 'well-doing' — bene + facere (to do). Same bene as in benign.",
+        "zh": "字面是'做得好' — bene + facere（做）。和 benign 同样的 bene。"
+      },
+      "usage": {
+        "en": "Giving someone the benefit of the doubt isn't gullible — it's a small loan of trust the world rarely pays back, but should.",
+        "zh": "给别人'存疑的好处'不是好骗 — 是一笔小小的信任贷款。世界很少还，但应该还。"
+      }
+    },
+    {
+      "word": "destitution",
+      "zh": "赤贫",
+      "root": "stare",
+      "partOfSpeech": "n.",
+      "phonetic": "des'-ti-TOO'-shan",
+      "gloss": {
+        "en": "The state of being destitute — the noun. Beyond impecunious; the place where there's not just no money but no fallback.",
+        "zh": "穷困潦倒的状态 — 名词。比'拮据'更深；不仅没钱，连退路都没了。"
+      },
+      "usage": {
+        "en": "What separates the impecunious from the destitute is who would catch them — a sister, a friend, a country with a safety net.",
+        "zh": "拮据和赤贫之间的差别，是'谁会接住他们' — 一个姐妹、一个朋友、一个有安全网的国家。"
+      }
+    },
+    {
+      "word": "unruly",
+      "zh": "难以管束的、不守规矩的",
+      "root": "regere",
+      "partOfSpeech": "adj.",
+      "phonetic": "un-ROO'-lee",
+      "gloss": {
+        "en": "Hard to rule — un- (not) + rule (from Latin regere via French). A polite cousin of obstreperous.",
+        "zh": "难以管 — un-（不）+ rule（来自拉丁 regere，经法语进入英语）。Obstreperous 礼貌的表亲。"
+      },
+      "usage": {
+        "en": "An unruly child often has unruly thoughts — and one of them, given time, might be the one nobody else would have had.",
+        "zh": "一个难以管束的孩子，往往脑子里也'难以管束' — 而其中之一，假以时日，可能正是别人都没想到的那个。"
+      },
+      "rootMeaning": "to rule (Latin, via 'rule')",
+      "rootMeaningZh": "管、规则（拉丁，经'rule'）",
+      "rootTint": "8a7a55"
+    }
+  ]
+}

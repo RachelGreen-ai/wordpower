@@ -1,0 +1,530 @@
+{
+  "lessonId": "ortho-optom-podo",
+  "hook": {
+    "headline": {
+      "en": "Three practitioners. Three small fixes that change everything.",
+      "zh": "三位从业者，三个改变一切的小修复。"
+    },
+    "subtext": {
+      "en": "Teeth, eyes, feet — what most of us take for granted until we can't.",
+      "zh": "牙齿、眼睛、脚 — 多数人不当回事，直到无法忽视。"
+    }
+  },
+  "words": [
+    {
+      "word": "Orthodontist",
+      "phonetic": "or-tho-DON'-tist",
+      "chinese": "正畸医生",
+      "definition": {
+        "en": "A dental specialist who straightens teeth and corrects bite — the engineer of the smile.",
+        "zh": "矫正牙齿与咬合的牙科专科 — 微笑的工程师。"
+      },
+      "etymology": {
+        "root": "odont",
+        "meaning": "tooth",
+        "meaningZh": "牙",
+        "en": "From Greek odous/odont- (tooth) + orthos (straight). The straight-tooth specialist.",
+        "zh": "希腊词根 odous / odont（牙齿）+ orthos（直）。让牙齿变直的专科。",
+        "relatives": [
+          {
+            "word": "orthodontics",
+            "zh": "正畸学"
+          },
+          {
+            "word": "periodontal",
+            "zh": "牙周的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "parenting",
+          "en": "Two years of orthodontist visits and one retainer later — her teenage daughter's smile would stay straight for life.",
+          "zh": "两年的正畸就诊加一副保持器之后 — 女儿青春期的笑容，会整齐一生。"
+        },
+        {
+          "context": "workplace",
+          "en": "He saved up for adult orthodontist work in his thirties — and quietly noticed how much more often people smiled back.",
+          "zh": "他三十多岁攒钱去做成人正畸 — 然后悄悄发现，别人对他笑的次数多了不少。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "牙",
+      "tint": "5fa098",
+      "mnemonic": {
+        "en": "ORTHODONTIST = orthos (straight) + odont (tooth). The straight-tooth maker.",
+        "zh": "orthodontist = orthos（直）+ odont（牙）。让牙齿变直的人。"
+      },
+      "commonConfusions": [
+        "dentist",
+        "oral surgeon"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Orthodontist vs dentist — what's the difference?",
+            "zh": "正畸医生和普通牙医的区别？"
+          },
+          "answer": {
+            "en": "Dentist = general dental care (cleaning, fillings, extractions). Orthodontist = a dentist with 2–3 extra years specialized in alignment — braces, aligners, bite correction.",
+            "zh": "普通牙医做常规牙科（洁牙、补牙、拔牙）；正畸医生是多读了 2–3 年专攻牙齿排列的牙医 — 牙套、隐形矫正、咬合矫正。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why has adult orthodontics become so common?",
+            "zh": "为什么成人正畸现在这么普遍？"
+          },
+          "answer": {
+            "en": "Clear aligners removed the social cost — invisible to coworkers, removable for meals. Adults who skipped braces as kids can finally fix what bothered them for decades.",
+            "zh": "隐形矫正消除了社交成本 — 同事看不见，吃饭能取下。小时候没戴牙套的成年人，终于可以处理困扰了几十年的事。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The 45-year-old who got braces alongside her 13-year-old daughter — and said the awkward year of selfies together became one of their best memories.",
+        "zh": "那位 45 岁和 13 岁女儿一起戴牙套的妈妈 — 她说一起拍的那些尴尬合照，反而成了最珍贵的回忆。"
+      }
+    },
+    {
+      "word": "Optometrist",
+      "phonetic": "op-TOM'-uh-trist",
+      "chinese": "验光师",
+      "definition": {
+        "en": "A practitioner who measures vision and prescribes corrective lenses — the doctor between you and a clear page.",
+        "zh": "测量视力并开具矫正镜片处方的从业者 — 你与一张清晰书页之间的那位医生。"
+      },
+      "etymology": {
+        "root": "metron",
+        "meaning": "measure",
+        "meaningZh": "测量",
+        "en": "From Greek optos (seen) + metron (measure). Literally 'one who measures sight.'",
+        "zh": "希腊词 optos（所见）+ metron（测量）— 字面意思'测量视觉的人'。",
+        "relatives": [
+          {
+            "word": "geometry",
+            "zh": "几何（同源远亲）"
+          },
+          {
+            "word": "optician",
+            "zh": "配镜师"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "An annual optometrist visit catches drift you don't notice — your eyes adjust until one day they can't.",
+          "zh": "每年一次的验光能发现你察觉不到的变化 — 眼睛一直在适应，直到有一天适应不动了。"
+        },
+        {
+          "context": "parenting",
+          "en": "Their seven-year-old failed the school eye test — the optometrist found mild astigmatism, and his reading scores jumped within a month.",
+          "zh": "他们七岁的儿子学校视力测试没过 — 验光师查出轻度散光，戴上眼镜一个月，阅读成绩就跳了一大截。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "视力",
+      "tint": "7898c4",
+      "mnemonic": {
+        "en": "OPTOMETRIST = optos (seen) + metron (measure). Same metron in geometry, thermometer, kilometer.",
+        "zh": "optometrist = optos（所见）+ metron（测量）。geometry、thermometer、kilometer 里都是同一个 metron。"
+      },
+      "commonConfusions": [
+        "ophthalmologist",
+        "optician"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Optometrist vs ophthalmologist — when do you see which?",
+            "zh": "验光师和眼科医生 — 什么时候找哪个？"
+          },
+          "answer": {
+            "en": "Optometrist = vision exams, glasses/contact prescriptions, basic eye health. Ophthalmologist = MD who handles disease, injury, surgery. Start with the optometrist; escalate when needed.",
+            "zh": "验光师做视力检查、眼镜或隐形眼镜处方、基础眼部健康；眼科医生是医学博士，处理疾病、外伤、手术。先看验光师，需要时再升级。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is 'optometrist' built on the metron root?",
+            "zh": "为什么 optometrist 用 metron 这个词根？"
+          },
+          "answer": {
+            "en": "Their core craft is precise measurement — diopters, axes, prism, pupillary distance. Same Greek 'metron' you see in every measuring word: geometry, barometer, kilometer.",
+            "zh": "他们的核心技艺就是精确测量 — 屈光度、轴向、棱镜、瞳距。和所有'测量'词共享同一个 metron：geometry、barometer、kilometer。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The 60-year-old who finally got progressive lenses — and said the simplest thing changed: he could read a menu without taking off his glasses.",
+        "zh": "那位 60 岁终于配了渐进镜的人 — 他说一件小事变了：看菜单不用再摘眼镜了。"
+      }
+    },
+    {
+      "word": "Podiatrist",
+      "phonetic": "puh-DY'-uh-trist",
+      "chinese": "足科医生",
+      "definition": {
+        "en": "A practitioner who treats foot, ankle, and lower-limb problems — corns, bunions, fallen arches, diabetic foot care.",
+        "zh": "治疗足部、踝部及下肢问题的从业者 — 鸡眼、拇外翻、扁平足、糖尿病足部护理。"
+      },
+      "etymology": {
+        "root": "podos",
+        "meaning": "foot",
+        "meaningZh": "脚",
+        "en": "From Greek podos (foot) + iatros (healer). The foot's specialist.",
+        "zh": "希腊词 podos（脚）+ iatros（医者）— 脚的专科。",
+        "relatives": [
+          {
+            "word": "podium",
+            "zh": "讲台 / 领奖台"
+          },
+          {
+            "word": "tripod",
+            "zh": "三脚架"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "After years of ignoring foot pain, his first podiatrist visit identified plantar fasciitis — and a $30 insole fixed what painkillers couldn't.",
+          "zh": "忍了多年脚痛之后，第一次看足科医生就查出足底筋膜炎 — 30 美元的鞋垫解决了止痛药一直没解决的问题。"
+        },
+        {
+          "context": "parenting",
+          "en": "Their grandfather's diabetes meant podiatrist visits every three months — small checks that prevented the kind of complications nobody wants to think about.",
+          "zh": "他们的爷爷有糖尿病，每三个月要看足科 — 一次次小检查，避开了那种没人愿意去想的并发症。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "足",
+      "tint": "b89870",
+      "mnemonic": {
+        "en": "PODIATRIST = podos (foot) + iatros (healer). Same podos in podium (foot-stand) and tripod (three-foot).",
+        "zh": "podiatrist = podos（脚）+ iatros（医者）。podium（讲台 = 脚下站台）和 tripod（三脚架）里都是同一个 podos。"
+      },
+      "commonConfusions": [
+        "orthopedist",
+        "chiropractor"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Podiatrist vs orthopedist — both treat bones, right?",
+            "zh": "足科医生和骨科医生 — 都治骨头，对吧？"
+          },
+          "answer": {
+            "en": "Orthopedist treats the whole musculoskeletal system. Podiatrist specializes specifically in the foot and ankle — corns, bunions, diabetic foot care, custom orthotics. Narrower scope, deeper expertise.",
+            "zh": "骨科医生处理整个肌肉骨骼系统；足科医生专攻足部与踝部 — 鸡眼、拇外翻、糖尿病足、定制矫形鞋垫。范围更窄，钻得更深。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does diabetes make podiatry so important?",
+            "zh": "为什么糖尿病让足科变得这么重要？"
+          },
+          "answer": {
+            "en": "Diabetes damages nerves and circulation in the feet first — small wounds heal slowly, get infected, and can lead to amputation. Regular podiatrist visits catch problems before they cascade.",
+            "zh": "糖尿病最早损伤的是脚部的神经和血液循环 — 小伤口愈合缓慢，容易感染，严重可能导致截肢。定期看足科能在问题级联之前发现。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The marathon runner who refused podiatrist visits for years — until plantar fasciitis took her out of three races. One pair of custom orthotics later, she ran her first sub-3:30.",
+        "zh": "那位多年拒绝看足科的马拉松跑者 — 直到足底筋膜炎让她退出三场比赛。一副定制鞋垫之后，她跑出了人生第一个 3:30 以内。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both started by measuring something small.",
+      "zh": "都从测量一件小事开始。"
+    },
+    "leftLabel": "Orthodontist",
+    "leftLine": {
+      "en": "measures and moves teeth",
+      "zh": "测量并移动牙齿"
+    },
+    "leftMnemonic": {
+      "en": "orthos + odont · the straightener of the smile",
+      "zh": "orthos + odont · 微笑的矫正者"
+    },
+    "rightLabel": "Optometrist",
+    "rightLine": {
+      "en": "measures and corrects sight",
+      "zh": "测量并矫正视力"
+    },
+    "rightMnemonic": {
+      "en": "optos + metron · the measurer of vision",
+      "zh": "optos + metron · 视觉的丈量者"
+    },
+    "closing": {
+      "en": "The smallest measurements often change the most.",
+      "zh": "最小的测量，往往带来最大的改变。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "We don't notice teeth, eyes, or feet — until they fail. These three are why we get to keep ignoring them.",
+      "zh": "我们平时不会留意牙齿、眼睛、脚 — 直到它们出问题。这三位，让我们可以一直不必留意。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/ortho-optom-podo/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/ortho-optom-podo/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/ortho-optom-podo/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/ortho-optom-podo/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/ortho-optom-podo/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/ortho-optom-podo/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/ortho-optom-podo/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/ortho-optom-podo/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/ortho-optom-podo/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/ortho-optom-podo/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/ortho-optom-podo/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/ortho-optom-podo/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/ortho-optom-podo/twist.left.wav",
+    "twist.right": "audio/vocab/ortho-optom-podo/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/ortho-optom-podo/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/ortho-optom-podo/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/ortho-optom-podo/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/ortho-optom-podo/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/ortho-optom-podo/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/ortho-optom-podo/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/ortho-optom-podo/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/ortho-optom-podo/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/ortho-optom-podo/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/ortho-optom-podo/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/ortho-optom-podo/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/ortho-optom-podo/expansion.11.pronunciation.wav",
+    "expansion.12.pronunciation": "audio/vocab/ortho-optom-podo/expansion.12.pronunciation.wav",
+    "hook.headline": "audio/vocab/ortho-optom-podo/hook.headline.wav",
+    "word.0.definition": "audio/vocab/ortho-optom-podo/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/ortho-optom-podo/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/ortho-optom-podo/word.2.definition.wav",
+    "twist.setup": "audio/vocab/ortho-optom-podo/twist.setup.wav",
+    "twist.closing": "audio/vocab/ortho-optom-podo/twist.closing.wav",
+    "recap.reflection": "audio/vocab/ortho-optom-podo/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 5,
+    "session": 1,
+    "pages": [
+      100,
+      130
+    ],
+    "theme": "How to Talk About Various Practitioners",
+    "subtheme": "Small Fixes"
+  },
+  "tags": [
+    "practitioners",
+    "sensory",
+    "specialists",
+    "ch5",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "orthodontics",
+      "zh": "正畸学",
+      "root": "odont",
+      "partOfSpeech": "n.",
+      "phonetic": "or-tho-DON'-tiks",
+      "gloss": {
+        "en": "The branch of dentistry that aligns teeth — the field, not the practitioner.",
+        "zh": "矫正牙齿排列的牙科分支 — 学科本身，而不是从业者。"
+      },
+      "usage": {
+        "en": "Modern orthodontics is less about metal in the mouth and more about 3D scans and printed aligners.",
+        "zh": "现代正畸更多关于 3D 扫描和定制透明矫正器，而不再是嘴里那一堆金属。"
+      }
+    },
+    {
+      "word": "periodontal",
+      "zh": "牙周的",
+      "root": "odont",
+      "partOfSpeech": "adj.",
+      "phonetic": "per-ee-oh-DON'-tul",
+      "gloss": {
+        "en": "Relating to the gums around the teeth — peri (around) + odont (tooth).",
+        "zh": "与牙齿周围的牙龈相关 — peri（周围）+ odont（牙齿）。"
+      },
+      "usage": {
+        "en": "Periodontal disease is one of the most underrated long-term risks — gums silently recede before teeth start to go.",
+        "zh": "牙周病是最被低估的长期健康风险之一 — 牙龈悄悄萎缩，牙齿才开始掉。"
+      }
+    },
+    {
+      "word": "geometry",
+      "zh": "几何",
+      "root": "metron",
+      "partOfSpeech": "n.",
+      "phonetic": "jee-OM'-i-tree",
+      "gloss": {
+        "en": "The math of shape and space — geo (earth) + metron (measure). Originally 'earth-measuring' for surveying land.",
+        "zh": "形状与空间的数学 — geo（地球）+ metron（测量）。最初是为了测量土地的'量地'学。"
+      },
+      "usage": {
+        "en": "The Egyptians invented geometry to redraw farm boundaries after the Nile flooded each year — math born of necessity.",
+        "zh": "古埃及人发明了几何 — 因为尼罗河每年泛滥之后，要重新画出田地的边界。数学，是被需要逼出来的。"
+      }
+    },
+    {
+      "word": "barometer",
+      "zh": "气压计",
+      "root": "metron",
+      "partOfSpeech": "n.",
+      "phonetic": "buh-ROM'-i-tur",
+      "gloss": {
+        "en": "An instrument that measures atmospheric pressure — baros (weight) + metron (measure). Also figurative: a sign of broader change.",
+        "zh": "测量大气压力的仪器 — baros（重量）+ metron（测量）。也常引申为'风向标'。"
+      },
+      "usage": {
+        "en": "Consumer spending is the barometer most economists watch first — falling confidence shows up in receipts before headlines.",
+        "zh": "消费者支出是大多数经济学家首先看的风向标 — 信心下滑会先体现在收据上，然后才登上头条。"
+      }
+    },
+    {
+      "word": "thermometer",
+      "zh": "温度计",
+      "root": "metron",
+      "partOfSpeech": "n.",
+      "phonetic": "thur-MOM'-i-tur",
+      "gloss": {
+        "en": "An instrument that measures temperature — thermo (heat) + metron (measure).",
+        "zh": "测量温度的仪器 — thermo（热）+ metron（测量）。"
+      },
+      "usage": {
+        "en": "She kept a thermometer in the nursery — and learned over twenty years that a baby's fever rarely meant what panic suggested.",
+        "zh": "她在育儿室里放了一支温度计 — 二十年下来，她渐渐明白：婴儿发烧，很少是恐慌想象的那种事。"
+      }
+    },
+    {
+      "word": "diameter",
+      "zh": "直径",
+      "root": "metron",
+      "partOfSpeech": "n.",
+      "phonetic": "dy-AM'-i-tur",
+      "gloss": {
+        "en": "The straight measurement across a circle — dia (across / through) + metron (measure).",
+        "zh": "横穿圆心的直线长度 — dia（穿过）+ metron（测量）。"
+      },
+      "usage": {
+        "en": "A pizza's diameter is the only spec worth comparing — square inches scale fast, and 'large' means very different things at different shops.",
+        "zh": "比较披萨大小，直径才是唯一值得看的指标 — 面积按平方涨得快，不同店里'大'的意思差别巨大。"
+      }
+    },
+    {
+      "word": "kilometer",
+      "zh": "千米",
+      "root": "metron",
+      "partOfSpeech": "n.",
+      "phonetic": "ki-LOM'-i-tur",
+      "gloss": {
+        "en": "One thousand meters — kilo (thousand) + metron (measure). The unit most of the world runs on.",
+        "zh": "一千米 — kilo（千）+ metron（测量）。世界上多数国家通用的距离单位。"
+      },
+      "usage": {
+        "en": "Her first 5-kilometer run was harder than her later marathons — beginners feel every step in a way you eventually forget.",
+        "zh": "她的第一个 5 公里跑，比后来的马拉松都难 — 新手会感受到每一步，那种感觉以后你会慢慢忘掉。"
+      }
+    },
+    {
+      "word": "podium",
+      "zh": "讲台 / 领奖台",
+      "root": "podos",
+      "partOfSpeech": "n.",
+      "phonetic": "POH'-dee-um",
+      "gloss": {
+        "en": "A raised platform — literally 'a place for the feet,' from Greek podos (foot).",
+        "zh": "升高的台子 — 字面是'放脚的地方'，来自希腊词 podos（脚）。"
+      },
+      "usage": {
+        "en": "Hours of preparation, three minutes on the podium — most speeches owe more to the writing than to the moment.",
+        "zh": "几小时的准备，三分钟在讲台上 — 大多数演讲，靠的不是那一刻，而是之前写出来的东西。"
+      }
+    },
+    {
+      "word": "antipode",
+      "zh": "对跖点 / 截然相反的事物",
+      "root": "podos",
+      "partOfSpeech": "n.",
+      "phonetic": "AN'-ti-pohd",
+      "gloss": {
+        "en": "The exact opposite point on the globe — anti (against) + podos (foot). The place 'under your feet' all the way through.",
+        "zh": "地球上完全对应的另一点 — anti（反）+ podos（脚）。字面是'脚下穿过去'的那一点。"
+      },
+      "usage": {
+        "en": "His grandmother in Shanghai and his roommate in Buenos Aires were near antipodes — same clock, opposite seasons.",
+        "zh": "他上海的奶奶和布宜诺斯艾利斯的室友差不多是地球的对跖点 — 时钟一致，季节相反。"
+      }
+    },
+    {
+      "word": "tripod",
+      "zh": "三脚架",
+      "root": "podos",
+      "partOfSpeech": "n.",
+      "phonetic": "TRY'-pod",
+      "gloss": {
+        "en": "A three-legged stand — tri (three) + podos (foot). Same podos as podiatrist.",
+        "zh": "三条腿的支架 — tri（三）+ podos（脚）。和 podiatrist 共享 podos 词根。"
+      },
+      "usage": {
+        "en": "Every photographer eventually buys the expensive tripod they swore they'd never need — the difference is visible from the first sharp shot.",
+        "zh": "每个摄影师最终都会买下那台'我永远不需要'的昂贵三脚架 — 拍出的第一张清晰照片就让人明白差别。"
+      }
+    },
+    {
+      "word": "optic",
+      "zh": "视觉的 / 光学的",
+      "root": "optos",
+      "partOfSpeech": "adj.",
+      "phonetic": "OP'-tik",
+      "gloss": {
+        "en": "Relating to the eye or vision — same Greek optos as optometrist.",
+        "zh": "与眼睛或视觉相关 — 与 optometrist 共享同一个希腊词 optos。"
+      },
+      "usage": {
+        "en": "The optic nerve is so dense with information that the brain devotes a third of its cortex to processing it.",
+        "zh": "视神经携带的信息量极大 — 大脑用了三分之一的皮层来处理它。"
+      },
+      "rootMeaning": "seen / vision",
+      "rootMeaningZh": "视觉",
+      "rootTint": "6b8aa4"
+    },
+    {
+      "word": "optical",
+      "zh": "光学的 / 视觉的",
+      "root": "optos",
+      "partOfSpeech": "adj.",
+      "phonetic": "OP'-ti-kul",
+      "gloss": {
+        "en": "Relating to sight or to light-based devices — lenses, fiber, instruments.",
+        "zh": "与视觉或光学设备相关 — 镜头、光纤、光学仪器。"
+      },
+      "usage": {
+        "en": "Optical illusions reveal not flaws in the eye but assumptions in the brain — what you 'see' is mostly inference.",
+        "zh": "光学错觉揭示的不是眼睛的缺陷，而是大脑的假设 — 你'看到的'东西，大半是推断出来的。"
+      }
+    },
+    {
+      "word": "optician",
+      "zh": "配镜师",
+      "root": "optos",
+      "partOfSpeech": "n.",
+      "phonetic": "op-TISH'-un",
+      "gloss": {
+        "en": "A craftsperson who fits and dispenses corrective lenses — works from an optometrist's or ophthalmologist's prescription.",
+        "zh": "根据验光师或眼科医生的处方制作并配戴眼镜的技师。"
+      },
+      "usage": {
+        "en": "A good optician adjusts the frame on your face for ten minutes — and the glasses you've been fighting all month suddenly disappear.",
+        "zh": "一位好的配镜师会花十分钟调整眼镜在你脸上的位置 — 那副和你斗了一个月的眼镜，忽然就'消失'了。"
+      }
+    }
+  ]
+}

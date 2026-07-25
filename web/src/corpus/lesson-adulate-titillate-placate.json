@@ -1,0 +1,502 @@
+{
+  "lessonId": "adulate-titillate-placate",
+  "hook": {
+    "headline": {
+      "en": "Three ways to lift the mood — flatter, delight, soothe.",
+      "zh": "三种让气氛变柔软的方式 — 奉承、轻触、安抚。"
+    },
+    "subtext": {
+      "en": "Each helps. Each can go too far. Knowing the difference is half of grace.",
+      "zh": "每一种都有用，也都可能过头。分得清，就是半个'得体'。"
+    }
+  },
+  "words": [
+    {
+      "word": "Adulate",
+      "phonetic": "AJ'-a-layt",
+      "chinese": "奉承、阿谀",
+      "definition": {
+        "en": "To praise far beyond the truth — to flatter someone as if they had no flaws. Adulation isn't admiration. It's admiration with the volume turned too high.",
+        "zh": "把称赞说得远远超出实际 — 像对方没有任何缺点一样地夸他。'奉承'不是欣赏。是把欣赏的音量开得过大。"
+      },
+      "etymology": {
+        "root": "adulari",
+        "meaning": "to fawn (like a dog wagging its tail)",
+        "meaningZh": "摇尾乞怜般地讨好",
+        "en": "From Latin adulari = 'to fawn upon' — the image is a dog wagging its tail too eagerly for its master. The Romans coined this word for the kind of admiration that loses its dignity.",
+        "zh": "拉丁词根 adulari = '摇尾乞怜地讨好' — 画面是一只狗对主人摇尾巴摇得过头。罗马人用这个词描述那种已经失了体面的崇拜。",
+        "relatives": [
+          {
+            "word": "adulator",
+            "zh": "奉承者"
+          },
+          {
+            "word": "adulatory",
+            "zh": "奉承的（形）"
+          },
+          {
+            "word": "fawn",
+            "zh": "讨好（同义）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The team didn't just respect her — they adulated her, which is harder to live with than you'd think.",
+          "zh": "团队不只是尊重她 — 他们简直在奉承她，那比想象的更难承受。"
+        },
+        {
+          "context": "friends",
+          "en": "Don't adulate someone before you know them — it's a debt they didn't ask for, and you'll resent paying.",
+          "zh": "在还不了解一个人之前别先奉承他 — 那是他没要求的债，最后你会怪自己当初说得太满。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "奉承",
+      "tint": "d9b755",
+      "mnemonic": {
+        "en": "Adulari = TO FAWN. Adulation = admiration with too much tail-wag. Even the admired person can feel it.",
+        "zh": "Adulari = 摇尾乞怜。奉承 = 摇尾巴摇得太厉害的欣赏。连被夸的人都能察觉。"
+      },
+      "commonConfusions": [
+        "admire",
+        "flatter",
+        "worship"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Admire, flatter, adulate. What's the gradient?",
+            "zh": "Admire（欣赏）、flatter（恭维）、adulate（奉承）— 程度如何递进？"
+          },
+          "answer": {
+            "en": "Admire = honest respect. Flatter = praise beyond what's earned. Adulate = praise so excessive it embarrasses everyone, including the admired.",
+            "zh": "Admire = 诚实的尊重。Flatter = 称赞超出了应得的程度。Adulate = 夸得太过，连被夸的人都尴尬。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Marcus Aurelius opens his Meditations by thanking his teachers — and the first thing he thanks one of them for is teaching him to recognize adulation, and to refuse it. An emperor surrounded by yes-men learned to want a real opinion more than a flattering one.",
+        "zh": "马可·奥勒留在《沉思录》开篇感谢他的老师们 — 他最先感谢一位老师的，是教他如何识别奉承、并拒绝它。一个被点头者围绕的皇帝学到的是：真实的意见比讨好的意见更值得追求。"
+      }
+    },
+    {
+      "word": "Titillate",
+      "phonetic": "TIT'-a-layt",
+      "chinese": "撩拨、轻轻引起愉悦",
+      "definition": {
+        "en": "To excite pleasantly — but lightly. To titillate is to tickle the senses without stirring them deeply. A small delight that passes.",
+        "zh": "轻轻地引起愉悦 — 但不深。Titillate 是搔了一下感官，并没有真的撼动它。是一种会过去的小小快乐。"
+      },
+      "etymology": {
+        "root": "titillare",
+        "meaning": "to tickle",
+        "meaningZh": "搔痒、撩拨",
+        "en": "From Latin titillare = 'to tickle.' The word almost sounds like what it means — a quick, repeating, light touch. English 'tickle' is its Germanic cousin.",
+        "zh": "拉丁词根 titillare = 搔痒。这个词的发音几乎就是它的意思 — 一种轻巧、反复的触碰。英文 'tickle' 是它的日耳曼表亲。",
+        "relatives": [
+          {
+            "word": "titillation",
+            "zh": "撩拨、轻微的愉悦"
+          },
+          {
+            "word": "tickle",
+            "zh": "搔痒（同义）"
+          },
+          {
+            "word": "tantalize",
+            "zh": "撩逗、诱惑（近义）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "A small win in the morning can titillate a team for the rest of the day — start the standup with one.",
+          "zh": "早上一个小胜利，能让一个团队一整天都有点小兴奋 — 站会就从这个开始。"
+        },
+        {
+          "context": "social",
+          "en": "Some books don't move you — they just titillate you, like a feather across the wrist. There's a place for both.",
+          "zh": "有些书并不打动你 — 它只是像一根羽毛轻扫过手腕，让你浅浅地愉悦。两种书都有它们的位置。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "轻触",
+      "tint": "d68aa6",
+      "mnemonic": {
+        "en": "Titillare = TO TICKLE. Light, quick, gone. It doesn't stay — that's the whole point.",
+        "zh": "Titillare = 搔痒。轻、快、过去了。它不停留 — 这正是它的本意。"
+      },
+      "commonConfusions": [
+        "excite",
+        "tantalize",
+        "delight"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Titillate and tantalize both tease the senses. What's the difference?",
+            "zh": "Titillate 和 tantalize 都在挑逗感官。区别在哪？"
+          },
+          "answer": {
+            "en": "Titillate gives a quick small pleasure. Tantalize gives the pleasure of ALMOST — promising and withholding. One delivers; the other delays.",
+            "zh": "Titillate 给的是一闪而过的小愉悦。Tantalize 给的是'差一点点'的滋味 — 答应给但偏偏不给。一个给到了，一个吊着不给。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The Romans believed that titillation in moderation was one of life's small medicines — a glass of wine, a clever phrase, a soft tune. Not the grand pleasures. The small, frequent ones that quietly add up to a life worth being in.",
+        "zh": "罗马人相信，适度的'titillation'是生活里的一味小药 — 一杯酒、一句俏皮话、一段轻柔的旋律。不是壮观的快乐，而是那些小而频繁的、悄悄累加成'值得活在其中'的日子的东西。"
+      }
+    },
+    {
+      "word": "Placate",
+      "phonetic": "PLAY'-kayt",
+      "chinese": "安抚、平息",
+      "definition": {
+        "en": "To calm someone's anger — to take a relationship that's gone sharp and let it settle. Placating isn't pretending. It's the active work of making peace.",
+        "zh": "平息别人的怒气 — 把一段已经变紧的关系慢慢放松回来。安抚不是装作什么没发生，而是主动去修复。"
+      },
+      "etymology": {
+        "root": "placare",
+        "meaning": "to soothe, to calm",
+        "meaningZh": "安抚、使平静",
+        "en": "From Latin placare = 'to soothe,' a close cousin of placere = 'to please.' Same root family that gives us 'please,' 'pleasant,' 'placid,' 'complacent,' and 'placebo' (literally 'I shall please').",
+        "zh": "拉丁词根 placare = 安抚，是 placere（让人愉悦）的近亲。同一个词族给了我们 please、pleasant、placid（平静）、complacent（自满）、placebo（字面是'我将取悦你'）。",
+        "relatives": [
+          {
+            "word": "please",
+            "zh": "使愉悦"
+          },
+          {
+            "word": "placid",
+            "zh": "平静的"
+          },
+          {
+            "word": "placebo",
+            "zh": "安慰剂（'我将取悦你'）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He flew out the same night to placate the client face-to-face — text messages weren't going to fix it.",
+          "zh": "他当晚就飞过去当面安抚客户 — 这事不是发几条消息能解决的。"
+        },
+        {
+          "context": "parenting",
+          "en": "Don't placate a child with sweets every time — they learn that what they feel is a problem to be made to go away.",
+          "zh": "别每次都用糖安抚孩子 — 他会学到：自己的感受是需要让它消失的'问题'。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "安抚",
+      "tint": "8aa68a",
+      "mnemonic": {
+        "en": "Placare = TO SOOTHE. Same family as 'please' — placating someone is the active form of pleasing them when they're upset.",
+        "zh": "Placare = 安抚。和 please（让人愉悦）同族 — 安抚就是在对方生气时，把'让人愉悦'变成主动行动。"
+      },
+      "commonConfusions": [
+        "appease",
+        "pacify",
+        "mollify"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Placate and appease both calm anger. Which one tends to be unhealthy?",
+            "zh": "Placate 和 appease 都是平息怒气。哪一个更接近'不健康'？"
+          },
+          "answer": {
+            "en": "Placate can be honest — you address the real grievance. Appease often means giving in just to avoid the conflict, without solving anything. Placation can heal; appeasement usually postpones.",
+            "zh": "Placate 可以是诚恳的 — 你真的回应了对方的不满。Appease 往往是为了避免冲突就让步，并没真的解决问题。安抚可以治愈；姑息只是推迟。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The placebo effect got its name in the 18th century from medieval funeral hymns that began with 'Placebo Domino' — 'I shall please the Lord.' Mourners hired to sing them were called 'placebos' — people offering soothing presence without real grief. Centuries later, the same word came to mean a pill that soothes without curing. Both meanings sit close to placate.",
+        "zh": "'安慰剂效应'这个词来自18世纪，最早是中世纪葬礼上一首挽歌的开头：'Placebo Domino' — '我将取悦主'。被雇来唱挽歌的人被叫作'placebos' — 带着'安抚式的在场'，并没有真的悲伤。几个世纪后，同一个词变成了'能安抚却不能治愈'的药丸。两个意思都站在'安抚'旁边。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both lift the mood. But one bows too low. The other dances by.",
+      "zh": "两人都让气氛变好。但一个鞠躬得太低，一个像跳着走过。"
+    },
+    "leftLabel": "Adulate",
+    "leftLine": {
+      "en": "Praise turned up so loud it sounds hollow.",
+      "zh": "夸张到声音都变得空。"
+    },
+    "leftMnemonic": {
+      "en": "Adulari = TO FAWN · admiration with too much tail-wag.",
+      "zh": "Adulari = 摇尾巴 · 摇得太过的欣赏。"
+    },
+    "rightLabel": "Titillate",
+    "rightLine": {
+      "en": "A small, harmless delight.",
+      "zh": "一种轻巧、无害的小愉悦。"
+    },
+    "rightMnemonic": {
+      "en": "Titillare = TO TICKLE · the brief lift, then gone.",
+      "zh": "Titillare = 搔痒 · 一下扬起，然后过去。"
+    },
+    "closing": {
+      "en": "One wants something back. The other was just passing through.",
+      "zh": "一个想要回报，一个只是路过。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Pleasing people isn't a flaw — it's a craft. Knowing when to praise, when to delight, and when to soothe takes a kind of grace most of us only learn slowly.",
+      "zh": "让人高兴不是缺点 — 它是一门手艺。什么时候赞美、什么时候轻巧地逗笑、什么时候安抚 — 这种分寸感，大多数人都是慢慢才学到的。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/adulate-titillate-placate/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/adulate-titillate-placate/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/adulate-titillate-placate/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/adulate-titillate-placate/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/adulate-titillate-placate/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/adulate-titillate-placate/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/adulate-titillate-placate/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/adulate-titillate-placate/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/adulate-titillate-placate/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/adulate-titillate-placate/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/adulate-titillate-placate/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/adulate-titillate-placate/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/adulate-titillate-placate/twist.left.wav",
+    "twist.right": "audio/vocab/adulate-titillate-placate/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/adulate-titillate-placate/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/adulate-titillate-placate/hook.headline.wav",
+    "word.0.definition": "audio/vocab/adulate-titillate-placate/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/adulate-titillate-placate/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/adulate-titillate-placate/word.2.definition.wav",
+    "twist.setup": "audio/vocab/adulate-titillate-placate/twist.setup.wav",
+    "twist.closing": "audio/vocab/adulate-titillate-placate/twist.closing.wav",
+    "recap.reflection": "audio/vocab/adulate-titillate-placate/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 9,
+    "session": 17,
+    "pages": [
+      191,
+      215
+    ],
+    "theme": "Actions",
+    "subtheme": "Sweet-talking too much — flatter, delight, soothe"
+  },
+  "tags": [
+    "actions",
+    "verbs",
+    "social-grace",
+    "ch9",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "please",
+      "zh": "使愉悦、请",
+      "root": "placere",
+      "partOfSpeech": "v.",
+      "phonetic": "PLEEZ",
+      "gloss": {
+        "en": "To make someone happy — from Latin placere. The everyday verb of pleasure. Same root as 'placate.'",
+        "zh": "让某人高兴 — 来自拉丁 placere。表达愉悦的日常动词。和 placate 同根。"
+      },
+      "usage": {
+        "en": "Trying to please everyone is a slow way to please no one — including yourself.",
+        "zh": "想让所有人都满意，是一种慢慢地让所有人都失望的方法 — 包括你自己。"
+      }
+    },
+    {
+      "word": "pleasant",
+      "zh": "愉快的",
+      "root": "placere",
+      "partOfSpeech": "adj.",
+      "phonetic": "PLEZ'-ant",
+      "gloss": {
+        "en": "Giving a feeling of pleasure — directly from placere. The adjective form of 'please.'",
+        "zh": "带来愉悦的感觉 — 直接来自 placere。'please'的形容词形式。"
+      },
+      "usage": {
+        "en": "A pleasant person isn't pretending. They've just chosen to make the air around them easier.",
+        "zh": "一个让人舒服的人不是在装 — 他们只是选择让自己周围的空气变得轻一些。"
+      }
+    },
+    {
+      "word": "placid",
+      "zh": "平静的、温和的",
+      "root": "placere",
+      "partOfSpeech": "adj.",
+      "phonetic": "PLAS'-id",
+      "gloss": {
+        "en": "Calm, untroubled — directly from placare. A placid lake. A placid temperament.",
+        "zh": "平静、不受扰 — 直接来自 placare。平静的湖。平和的性情。"
+      },
+      "usage": {
+        "en": "Placid water reflects the most clearly — both for lakes and for people.",
+        "zh": "最平静的水照得最清楚 — 湖如此，人也如此。"
+      }
+    },
+    {
+      "word": "complacent",
+      "zh": "自满的、安于现状的",
+      "root": "placere",
+      "partOfSpeech": "adj.",
+      "phonetic": "kam-PLAY'-sant",
+      "gloss": {
+        "en": "Pleased WITH oneself, often too pleased — com- (with) + placere. The state right before you stop trying.",
+        "zh": "对自己满意 — 通常是过分满意。com-（与）+ placere。它来到的那一刻，往往就是你停止努力的那一刻。"
+      },
+      "usage": {
+        "en": "Complacency isn't laziness. It's the comfort of having stopped noticing.",
+        "zh": "自满不是懒 — 是'停止察觉'后那种舒服。"
+      }
+    },
+    {
+      "word": "placebo",
+      "zh": "安慰剂",
+      "root": "placere",
+      "partOfSpeech": "n.",
+      "phonetic": "pla-SEE'-bo",
+      "gloss": {
+        "en": "Literally 'I shall please' — placere in the future tense. A pill that soothes without curing.",
+        "zh": "字面意思是'我将取悦你' — placere 的将来时。一颗能安抚却治不了病的药。"
+      },
+      "usage": {
+        "en": "The placebo effect is the body believing in the story the mind was told.",
+        "zh": "安慰剂效应，是身体在相信脑子被讲过的故事。"
+      }
+    },
+    {
+      "word": "pleasure",
+      "zh": "快乐、愉悦",
+      "root": "placere",
+      "partOfSpeech": "n.",
+      "phonetic": "PLEZH'-ar",
+      "gloss": {
+        "en": "The state of being pleased — the noun of placere. Pleasure ranges from a sip of coffee to a life's work.",
+        "zh": "愉悦的状态 — placere 的名词形式。愉悦的范围，从一口咖啡到一辈子的事业。"
+      },
+      "usage": {
+        "en": "Real pleasure usually arrives quietly — loud pleasures wear off fast.",
+        "zh": "真正的快乐通常安静地到来 — 喧嚣的快乐消退得最快。"
+      }
+    },
+    {
+      "word": "adulator",
+      "zh": "奉承者",
+      "root": "adulari",
+      "partOfSpeech": "n.",
+      "phonetic": "AJ'-a-lay-tar",
+      "gloss": {
+        "en": "One who adulates — the person doing the fawning. Direct from adulari.",
+        "zh": "做奉承动作的人 — 直接来自 adulari。"
+      },
+      "usage": {
+        "en": "Powerful people are surrounded by adulators — and quietly hungry for one honest sentence.",
+        "zh": "权力高的人身边总是围着奉承者 — 而他们悄悄渴望一句真话。"
+      }
+    },
+    {
+      "word": "adulatory",
+      "zh": "奉承的、阿谀的",
+      "root": "adulari",
+      "partOfSpeech": "adj.",
+      "phonetic": "AJ'-a-la-tor-ee",
+      "gloss": {
+        "en": "Excessively flattering — the adjective form of adulate. Describes speech, tone, or writing that bows too low.",
+        "zh": "过度恭维的 — adulate 的形容词。形容那种鞠躬得太低的说话、语气或写作。"
+      },
+      "usage": {
+        "en": "The adulatory tone of the press release fooled no one — including its subject.",
+        "zh": "那篇新闻稿奉承得太明显 — 谁都没被骗到，包括被夸的那个人。"
+      }
+    },
+    {
+      "word": "titillation",
+      "zh": "撩拨、轻微的愉悦",
+      "root": "titillare",
+      "partOfSpeech": "n.",
+      "phonetic": "tit'-a-LAY'-shan",
+      "gloss": {
+        "en": "The state or act of being titillated — a light pleasure that doesn't last. The noun of titillate.",
+        "zh": "被轻巧引起的愉悦 — 不会停留太久。Titillate 的名词形式。"
+      },
+      "usage": {
+        "en": "Social media specializes in titillation — the briefest dopamine, the easiest cost.",
+        "zh": "社交媒体专攻'titillation' — 最短的多巴胺，最低的代价。"
+      }
+    },
+    {
+      "word": "mollify",
+      "zh": "缓和、安抚",
+      "root": "mollire",
+      "partOfSpeech": "v.",
+      "phonetic": "MOL'-a-fi",
+      "gloss": {
+        "en": "To soften — from Latin mollire (to make soft). Closer to 'placate' than its Latin root suggests: you mollify by removing the sharp edge.",
+        "zh": "使变软 — 来自拉丁 mollire（使柔软）。意思上和 placate 很近：你通过去掉锋利让对方放松。"
+      },
+      "usage": {
+        "en": "A mollified opponent isn't an ally — but they're no longer the enemy.",
+        "zh": "一个被'缓和'下来的对手不会变成同盟 — 但他至少不再是敌人。"
+      },
+      "rootMeaning": "to soften",
+      "rootMeaningZh": "使柔软",
+      "rootTint": "a08aa6"
+    },
+    {
+      "word": "emollient",
+      "zh": "润肤剂、缓和的",
+      "root": "mollire",
+      "partOfSpeech": "n./adj.",
+      "phonetic": "i-MOL'-yant",
+      "gloss": {
+        "en": "Something that softens — usually skin, but also used for speech ('emollient words'). Same mollire as 'mollify.'",
+        "zh": "让东西变软的东西 — 通常指护肤膏，也能用于说话（'缓和的话'）。和 mollify 同根。"
+      },
+      "usage": {
+        "en": "Good diplomats keep emollient phrases ready — the sentence that lets everyone keep their face.",
+        "zh": "好的外交家随时备着几句'软化句' — 那种让所有人都还能保住面子的话。"
+      }
+    },
+    {
+      "word": "lenient",
+      "zh": "宽容的",
+      "root": "lenis",
+      "partOfSpeech": "adj.",
+      "phonetic": "LEEN'-yant",
+      "gloss": {
+        "en": "Soft in judgment — from Latin lenis (gentle). A lenient teacher, a lenient sentence: less weight than the situation could allow.",
+        "zh": "在判罚上放轻 — 来自拉丁 lenis（温和）。宽容的老师、宽大的判决：比情况允许的'更轻一点'。"
+      },
+      "usage": {
+        "en": "Lenient isn't the same as forgiving — leniency reduces the cost; forgiveness erases it.",
+        "zh": "宽容和原谅不是一回事 — 宽容是减轻代价；原谅是把代价抹掉。"
+      },
+      "rootMeaning": "gentle, soft",
+      "rootMeaningZh": "温和、柔",
+      "rootTint": "8eb09a"
+    }
+  ]
+}

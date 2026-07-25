@@ -1,0 +1,629 @@
+{
+  "lessonId": "ego-ego-alt",
+  "hook": {
+    "headline": {
+      "en": "Three personalities. Three perspectives on self and others.",
+      "zh": "三种性格，三种看自己与他人的视角。"
+    },
+    "subtext": {
+      "en": "Which one are you living through right now?",
+      "zh": "你此刻活在哪一种里？"
+    }
+  },
+  "words": [
+    {
+      "word": "Egoist",
+      "phonetic": "EE'-go-ist",
+      "chinese": "利己主义者",
+      "definition": {
+        "en": "A person who wants everything for themselves, and so can let go of nothing.",
+        "zh": "想为自己得到一切的人 — 所以什么都放不下。"
+      },
+      "etymology": {
+        "root": "ego",
+        "meaning": "I",
+        "meaningZh": "我",
+        "en": "From Latin ego = I.",
+        "zh": "拉丁词根 ego = 我。",
+        "relatives": [
+          {
+            "word": "egocentric",
+            "zh": "自我中心"
+          },
+          {
+            "word": "alter ego",
+            "zh": "另一个自己"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "An egoist wants both the safe job AND the dream — so they keep neither.",
+          "zh": "利己主义者想要稳定的工作，也想要真正的梦想 — 结果两个都抓不住。"
+        },
+        {
+          "context": "parenting",
+          "en": "An egoist parent remembers every sacrifice they make.",
+          "zh": "利己主义的父母，会记得每一次付出。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "纠结",
+      "tint": "e8a76a",
+      "mnemonic": {
+        "en": "Ego-I = Inside. The grip is in their actions, not their talk.",
+        "zh": "带 I 的 = Inside · 抓得紧的是行动，不是嘴。"
+      },
+      "commonConfusions": [
+        "egotist",
+        "selfish"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Which one acts for personal gain but rarely brags about it?",
+            "zh": "哪种人为自己谋利，但很少炫耀？"
+          },
+          "answer": {
+            "en": "The egoist — the grip is inside, in choices, not in speech.",
+            "zh": "利己主义者 — 抓得紧的是选择本身，不是嘴上的话。"
+          }
+        },
+        {
+          "question": {
+            "en": "What's the egoist's hidden cost?",
+            "zh": "利己主义者真正的代价是什么？"
+          },
+          "answer": {
+            "en": "Refusing to let any option go — and so never truly choosing one.",
+            "zh": "什么都不愿放下 — 所以也从未真正选定过任何一个。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The 35-year-old who can't quit a job they hate because the next promotion is 'almost there.' Years pass; the real dream walks away.",
+        "zh": "那个 35 岁不敢辞掉自己讨厌的工作的人 — 因为下一次升职'就差一点点'。几年过去，真正想做的事悄悄走开了。"
+      }
+    },
+    {
+      "word": "Egotist",
+      "phonetic": "EE'-go-tist",
+      "chinese": "自吹自擂者",
+      "definition": {
+        "en": "A person who needs to be seen — every conversation circles back to them.",
+        "zh": "需要被看见的人 — 每个对话最后都绕回自己身上。"
+      },
+      "etymology": {
+        "root": "ego",
+        "meaning": "I",
+        "meaningZh": "我",
+        "en": "Same root: ego.",
+        "zh": "同一个词根 ego = 我。亲戚：egocentric 自我中心、alter ego 另一个自己。",
+        "relatives": [
+          {
+            "word": "egocentric",
+            "zh": "自我中心"
+          },
+          {
+            "word": "alter ego",
+            "zh": "另一个自己"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Every meeting with Mark turns into a 20-minute monologue — that's the egotist.",
+          "zh": "每次和 Mark 开会都变成 20 分钟的独角戏 — 这就是自吹型。"
+        },
+        {
+          "context": "friends",
+          "en": "An egotist makes every story about himself — even the ones that started about you.",
+          "zh": "自吹型的人会把每个故事都讲回自己身上 — 哪怕话题本来是关于你的。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "浮夸",
+      "tint": "e06464",
+      "mnemonic": {
+        "en": "Ego-T = Talks. The show is outside, in the mouth — not in real action.",
+        "zh": "带 T 的 = Talks · 表演在嘴上，不在行动里。"
+      },
+      "commonConfusions": [
+        "egoist",
+        "narcissist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Which one needs an audience to feel real?",
+            "zh": "哪种人需要观众才能感到'我活着'？"
+          },
+          "answer": {
+            "en": "The egotist — without applause, the self feels invisible.",
+            "zh": "自吹型的人 — 没有掌声，自我就像消失了一样。"
+          }
+        },
+        {
+          "question": {
+            "en": "What separates egotist from egoist in one word?",
+            "zh": "用一个词说出'自吹型'和'利己型'最大的差别？"
+          },
+          "answer": {
+            "en": "Display. Egotist performs; egoist acts.",
+            "zh": "表演。自吹在演，利己在做。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The coworker whose every standup is a 20-minute monologue — or the friend whose every story ends with themselves as the hero.",
+        "zh": "那个把每次站会都变成 20 分钟独角戏的同事 — 或者那个无论讲什么故事，自己都是主角的朋友。"
+      }
+    },
+    {
+      "word": "Altruist",
+      "phonetic": "AL'-troo-ist",
+      "chinese": "利他主义者",
+      "definition": {
+        "en": "A person who acts for others — with the clarity to choose and the courage to give.",
+        "zh": "为他人行动的人 — 有选择的清醒，也有给予的魄力。"
+      },
+      "etymology": {
+        "root": "alter",
+        "meaning": "other",
+        "meaningZh": "他人",
+        "en": "From Latin alter = other.",
+        "zh": "拉丁词根 alter = 他人。",
+        "relatives": [
+          {
+            "word": "alternative",
+            "zh": "另一种选择"
+          },
+          {
+            "word": "altercation",
+            "zh": "争吵"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Maya is a real altruist — she mentors juniors on her own time, no agenda.",
+          "zh": "Maya 是真正的利他主义者 — 她用自己的时间带新人，没有任何目的。"
+        },
+        {
+          "context": "parenting",
+          "en": "Reading bedtime stories at the end of a tiring day — that's the altruist in every parent.",
+          "zh": "累瘫了还坚持讲睡前故事 — 这就是每个家长心里的利他主义者。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "通透",
+      "tint": "7ac79a",
+      "mnemonic": {
+        "en": "ALTRUIST has ALTER ('other') inside it — their compass points outward.",
+        "zh": "altruist 里藏着 alter（他人） — 指南针朝外。"
+      },
+      "commonConfusions": [
+        "philanthropist",
+        "selfless"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "What separates a real altruist from someone just doing kind acts?",
+            "zh": "真正的利他主义者和'只是做好事的人'最大的区别？"
+          },
+          "answer": {
+            "en": "They don't keep score, and they don't perform it.",
+            "zh": "他们不算账，也不表演。"
+          }
+        },
+        {
+          "question": {
+            "en": "Where does the word's root point?",
+            "zh": "altruist 的词根指向什么？"
+          },
+          "answer": {
+            "en": "From Latin alter = 'other' — the same root in alternative and altercation.",
+            "zh": "拉丁词根 alter = 他人 — 和 alternative（另一种选择）、altercation（争吵）同源。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The founder who walks away from her startup and equity to chase a dream that finally feels true — that 魄力 is what most egoists lack. Real altruism shows up as the courage to choose, not just the willingness to give.",
+        "zh": "那个放弃自己公司和股权、去追真正心动的梦想的创业者 — 这种魄力正是利己主义者缺的。真正的利他不只是愿意给，更是有勇气做出选择。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both want too much from themselves.",
+      "zh": "利己 和 自吹，都是对自己要得太多。"
+    },
+    "leftLabel": "Egoist",
+    "leftLine": {
+      "en": "hoards options",
+      "zh": "囤选项"
+    },
+    "leftMnemonic": {
+      "en": "Ego-I = Inside · the grip inside",
+      "zh": "带 I = Inside · 行动上的执着"
+    },
+    "rightLabel": "Egotist",
+    "rightLine": {
+      "en": "hoards attention",
+      "zh": "囤目光"
+    },
+    "rightMnemonic": {
+      "en": "Ego-T = Talks · the show outside",
+      "zh": "带 T = Talks · 嘴上的表演"
+    },
+    "closing": {
+      "en": "Different symptoms. Same disease — can't escape themselves.",
+      "zh": "症状不同，病根一样 — 离不开自己。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "You can't choose who you were. You can choose which one you're becoming.",
+      "zh": "你无法选择自己曾是哪一种，但你可以选择正在成为哪一种。"
+    }
+  },
+  "audio": {
+    "hook.headline": "audio/vocab/ego-ego-alt/hook.headline.wav",
+    "word.0.pronunciation": "audio/vocab/ego-ego-alt/word.0.pronunciation.wav",
+    "word.0.definition": "audio/vocab/ego-ego-alt/word.0.definition.wav",
+    "word.0.etymology": "audio/vocab/ego-ego-alt/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/ego-ego-alt/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/ego-ego-alt/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/ego-ego-alt/word.1.pronunciation.wav",
+    "word.1.definition": "audio/vocab/ego-ego-alt/word.1.definition.wav",
+    "word.1.etymology": "audio/vocab/ego-ego-alt/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/ego-ego-alt/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/ego-ego-alt/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/ego-ego-alt/word.2.pronunciation.wav",
+    "word.2.definition": "audio/vocab/ego-ego-alt/word.2.definition.wav",
+    "word.2.etymology": "audio/vocab/ego-ego-alt/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/ego-ego-alt/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/ego-ego-alt/word.2.sentence.1.wav",
+    "twist.setup": "audio/vocab/ego-ego-alt/twist.setup.wav",
+    "twist.left": "audio/vocab/ego-ego-alt/twist.left.wav",
+    "twist.right": "audio/vocab/ego-ego-alt/twist.right.wav",
+    "twist.closing": "audio/vocab/ego-ego-alt/twist.closing.wav",
+    "recap.reflection": "audio/vocab/ego-ego-alt/recap.reflection.wav",
+    "expansion.0.pronunciation": "audio/vocab/ego-ego-alt/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/ego-ego-alt/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/ego-ego-alt/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/ego-ego-alt/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/ego-ego-alt/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/ego-ego-alt/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/ego-ego-alt/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/ego-ego-alt/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/ego-ego-alt/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/ego-ego-alt/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/ego-ego-alt/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/ego-ego-alt/expansion.11.pronunciation.wav",
+    "expansion.12.pronunciation": "audio/vocab/ego-ego-alt/expansion.12.pronunciation.wav",
+    "expansion.13.pronunciation": "audio/vocab/ego-ego-alt/expansion.13.pronunciation.wav",
+    "expansion.14.pronunciation": "audio/vocab/ego-ego-alt/expansion.14.pronunciation.wav",
+    "expansion.15.pronunciation": "audio/vocab/ego-ego-alt/expansion.15.pronunciation.wav",
+    "expansion.16.pronunciation": "audio/vocab/ego-ego-alt/expansion.16.pronunciation.wav",
+    "expansion.17.pronunciation": "audio/vocab/ego-ego-alt/expansion.17.pronunciation.wav",
+    "expansion.18.pronunciation": "audio/vocab/ego-ego-alt/expansion.18.pronunciation.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 3,
+    "session": 1,
+    "pages": [
+      56,
+      75
+    ],
+    "theme": "Personality Types",
+    "subtheme": "Self vs Others"
+  },
+  "tags": [
+    "personality",
+    "self-vs-others",
+    "ego-roots",
+    "ch3",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "ego",
+      "zh": "自我",
+      "root": "ego",
+      "partOfSpeech": "n.",
+      "phonetic": "EE'-go",
+      "gloss": {
+        "en": "Your sense of self — the part of you that says \"I.\"",
+        "zh": "自我意识 — 心里那个说'我'的部分。"
+      },
+      "usage": {
+        "en": "His ego won't let him admit he was wrong, even when the data is on the table.",
+        "zh": "他的自我不肯让他承认错了 — 哪怕数据就摆在桌上。"
+      }
+    },
+    {
+      "word": "egocentric",
+      "zh": "以自我为中心的",
+      "root": "ego",
+      "partOfSpeech": "adj.",
+      "phonetic": "ee-go-SEN'-trik",
+      "gloss": {
+        "en": "Treating yourself as the center of every situation.",
+        "zh": "把自己当成每个场景的中心。"
+      },
+      "usage": {
+        "en": "He's so egocentric he forgets to ask how anyone else's week went.",
+        "zh": "他太以自我为中心，从来想不起问问别人这周过得怎么样。"
+      }
+    },
+    {
+      "word": "egomaniac",
+      "zh": "自大狂",
+      "root": "ego",
+      "partOfSpeech": "n.",
+      "phonetic": "ee-go-MAY'-nee-ak",
+      "gloss": {
+        "en": "Someone obsessively focused on their own greatness.",
+        "zh": "对自己的'伟大'近乎着迷的人。"
+      },
+      "usage": {
+        "en": "Every conversation with that egomaniac somehow ends with his accomplishments.",
+        "zh": "和那个自大狂聊什么，最后都能绕回他的丰功伟绩。"
+      }
+    },
+    {
+      "word": "alter ego",
+      "zh": "另一个自己",
+      "root": "ego",
+      "partOfSpeech": "n.",
+      "phonetic": "AWL'-tur EE'-go",
+      "gloss": {
+        "en": "A second self — a different side of you, often shown in a different context.",
+        "zh": "你的另一面 — 在另一个场景中展现的、不太一样的自己。"
+      },
+      "usage": {
+        "en": "She writes serious essays by day, but her alter ego on TikTok is hilarious.",
+        "zh": "她白天写严肃的文章，但她在 TikTok 上的'另一个自己'特别搞笑。"
+      }
+    },
+    {
+      "word": "alter",
+      "zh": "改动 / 改变",
+      "root": "alter",
+      "partOfSpeech": "v.",
+      "phonetic": "AWL'-tur",
+      "gloss": {
+        "en": "To change something — often a plan, a document, or a design.",
+        "zh": "修改某样东西 — 通常是计划、文件或设计。"
+      },
+      "usage": {
+        "en": "Please don't alter the deadline without checking with the team first.",
+        "zh": "改动期限之前，请先和团队确认一下。"
+      }
+    },
+    {
+      "word": "alteration",
+      "zh": "修改 / 改动",
+      "root": "alter",
+      "partOfSpeech": "n.",
+      "phonetic": "awl-tur-AY'-shun",
+      "gloss": {
+        "en": "A change made to something existing.",
+        "zh": "对现有事物做的一次修改。"
+      },
+      "usage": {
+        "en": "The tailor finished the alterations on the suit just in time for the wedding.",
+        "zh": "婚礼前，裁缝刚好改完了那套西装。"
+      }
+    },
+    {
+      "word": "alternate",
+      "zh": "交替的 / 轮流",
+      "root": "alter",
+      "partOfSpeech": "adj./v.",
+      "phonetic": "AWL'-tur-nut (adj.) · AWL'-tur-nayt (v.)",
+      "gloss": {
+        "en": "Switching back and forth between two things.",
+        "zh": "在两件事之间来回切换。"
+      },
+      "usage": {
+        "en": "My partner and I alternate weeks doing the school pickup.",
+        "zh": "我和伴侣每周轮流接孩子放学。"
+      }
+    },
+    {
+      "word": "alternative",
+      "zh": "另一种选择",
+      "root": "alter",
+      "partOfSpeech": "n.",
+      "phonetic": "awl-TUR'-nuh-tiv",
+      "gloss": {
+        "en": "A different option from the one being considered.",
+        "zh": "和当前选项不同的另一种可能。"
+      },
+      "usage": {
+        "en": "Working from home is a real alternative now — not just a backup.",
+        "zh": "在家办公现在是个真正可行的选择 — 不再只是退路。"
+      }
+    },
+    {
+      "word": "altercation",
+      "zh": "争吵 / 口角",
+      "root": "alter",
+      "partOfSpeech": "n.",
+      "phonetic": "awl-tur-KAY'-shun",
+      "gloss": {
+        "en": "A loud argument — literally a clash with \"the other.\"",
+        "zh": "一场激烈的争执 — 字面意思就是和'他人'的冲撞。"
+      },
+      "usage": {
+        "en": "Their late-night altercation in the hallway woke half the apartment.",
+        "zh": "他们半夜在走廊的争吵把半栋楼都吵醒了。"
+      }
+    },
+    {
+      "word": "altruism",
+      "zh": "利他主义",
+      "root": "alter",
+      "partOfSpeech": "n.",
+      "phonetic": "AL'-troo-iz-um",
+      "gloss": {
+        "en": "The principle of acting for the welfare of others.",
+        "zh": "为他人福祉而行动的原则。"
+      },
+      "usage": {
+        "en": "True altruism doesn't keep a tally of who owes who.",
+        "zh": "真正的利他不会去记谁欠谁。"
+      }
+    },
+    {
+      "word": "altruistic",
+      "zh": "利他的 / 无私的",
+      "root": "alter",
+      "partOfSpeech": "adj.",
+      "phonetic": "al-troo-IS'-tik",
+      "gloss": {
+        "en": "Acting from concern for others rather than for oneself.",
+        "zh": "出于关心他人而非为己的行动。"
+      },
+      "usage": {
+        "en": "Her altruistic streak shows in how patiently she treats strangers on the phone.",
+        "zh": "她的利他在她接陌生人电话时的耐心里就能看出来。"
+      }
+    },
+    {
+      "word": "eccentric",
+      "zh": "古怪的 / 偏离中心的",
+      "root": "centric",
+      "partOfSpeech": "adj.",
+      "phonetic": "ek-SEN'-trik",
+      "gloss": {
+        "en": "Off-center — behaving in an unconventional way. From ek (out) + centrum (center).",
+        "zh": "偏离中心的 — 行为与众不同。ek（向外）+ centrum（中心）。"
+      },
+      "usage": {
+        "en": "He's not crazy, he's eccentric — and the team benefits from someone who refuses to think from the obvious center.",
+        "zh": "他不是疯，他是古怪 — 团队需要一个不肯从'常规中心'思考的人。"
+      },
+      "rootMeaning": "center",
+      "rootMeaningZh": "中心",
+      "rootTint": "9a6e80"
+    },
+    {
+      "word": "concentric",
+      "zh": "同心的",
+      "root": "centric",
+      "partOfSpeech": "adj.",
+      "phonetic": "kon-SEN'-trik",
+      "gloss": {
+        "en": "Sharing the same center — like rings spreading out from one point.",
+        "zh": "共享同一个中心 — 像从一个点向外扩散的环。"
+      },
+      "usage": {
+        "en": "Her career grew in concentric circles — each new role wider, but always anchored in the same core craft.",
+        "zh": "她的事业像同心圆向外扩展 — 每个新角色更宽，但核心始终是同一门手艺。"
+      }
+    },
+    {
+      "word": "kleptomania",
+      "zh": "盗窃癖",
+      "root": "mania",
+      "partOfSpeech": "n.",
+      "phonetic": "klep-toh-MAY'-nee-uh",
+      "gloss": {
+        "en": "An uncontrollable urge to steal — klepto (steal) + mania (obsession).",
+        "zh": "无法控制的偷窃冲动 — klepto（偷）+ mania（癖好）。"
+      },
+      "usage": {
+        "en": "It wasn't poverty that made her shoplift — doctors later diagnosed kleptomania, which therapy can treat.",
+        "zh": "她偷店里的东西不是因为穷 — 医生后来诊断是盗窃癖，是可以通过治疗缓解的。"
+      },
+      "rootMeaning": "madness / obsession",
+      "rootMeaningZh": "癖好 / 狂热",
+      "rootTint": "c89866"
+    },
+    {
+      "word": "maniacal",
+      "zh": "狂妄的 / 着魔似的",
+      "root": "mania",
+      "partOfSpeech": "adj.",
+      "phonetic": "muh-NY'-uh-kul",
+      "gloss": {
+        "en": "Wildly possessed — like someone gripped by mania.",
+        "zh": "像被癖好攥住似的 — 狂妄、入魔。"
+      },
+      "usage": {
+        "en": "His maniacal focus on the deadline was impressive — until you realized he hadn't slept in three days.",
+        "zh": "他对截止期的狂热专注令人佩服 — 直到你发现他已经三天没睡了。"
+      }
+    },
+    {
+      "word": "geocentric",
+      "zh": "地心的 / 以地球为中心的",
+      "root": "centric",
+      "partOfSpeech": "adj.",
+      "phonetic": "jee-oh-SEN'-trik",
+      "gloss": {
+        "en": "Earth-centered — geo (earth) + centric. The model the world believed until Copernicus.",
+        "zh": "以地球为中心的 — geo（地球）+ centric。哥白尼之前，世界相信的模型。"
+      },
+      "usage": {
+        "en": "For 1,500 years, geocentric astronomy was the official truth — until one set of careful measurements quietly broke it.",
+        "zh": "地心说当了 1500 年的官方真理 — 直到一组细致的天文测量悄悄把它推翻。"
+      }
+    },
+    {
+      "word": "anthropocentric",
+      "zh": "人类中心的",
+      "root": "centric",
+      "partOfSpeech": "adj.",
+      "phonetic": "an-thro-poh-SEN'-trik",
+      "gloss": {
+        "en": "Human-centered — anthropo (human) + centric. Treating humans as the measure of all value.",
+        "zh": "以人类为中心 — anthropo（人）+ centric。把人类当作衡量一切价值的尺度。"
+      },
+      "usage": {
+        "en": "Climate ethics is partly about loosening our anthropocentric grip — remembering that other species also have stakes.",
+        "zh": "气候伦理的一部分，就是松开我们以人类为中心的执念 — 记得其他物种也有自己的利益。"
+      }
+    },
+    {
+      "word": "megalomania",
+      "zh": "夸大狂 / 自大狂",
+      "root": "mania",
+      "partOfSpeech": "n.",
+      "phonetic": "meg-uh-loh-MAY'-nee-uh",
+      "gloss": {
+        "en": "Obsession with one's own greatness or power — megalo (great) + mania.",
+        "zh": "对自身伟大或权力的执念 — megalo（巨大）+ mania（癖好）。"
+      },
+      "usage": {
+        "en": "Founder megalomania is the silicon-valley failure mode that no investor warns you about loudly enough.",
+        "zh": "创始人的夸大狂是硅谷常见的失败模式 — 但没有投资人会大声警告你。"
+      }
+    },
+    {
+      "word": "pyromania",
+      "zh": "纵火癖",
+      "root": "mania",
+      "partOfSpeech": "n.",
+      "phonetic": "py-roh-MAY'-nee-uh",
+      "gloss": {
+        "en": "A compulsive urge to start fires — pyro (fire) + mania.",
+        "zh": "无法控制的纵火冲动 — pyro（火）+ mania（癖好）。"
+      },
+      "usage": {
+        "en": "Most arson is cold — money, revenge. True pyromania, the clinical kind, is rarer and far stranger.",
+        "zh": "大多数纵火是冷血的 — 为了钱，为了报复。真正的纵火癖（临床意义上的）少得多，也奇怪得多。"
+      }
+    }
+  ]
+}

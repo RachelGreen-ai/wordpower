@@ -1,0 +1,498 @@
+{
+  "lessonId": "insinuate-dissimulate-commiserate",
+  "hook": {
+    "headline": {
+      "en": "Three sideways verbs — hint, pretend, share the ache.",
+      "zh": "三个'从侧面来'的动词 — 暗示、假装、一起难过。"
+    },
+    "subtext": {
+      "en": "Not all direct speech is honest, and not all sidelong speech is dishonest.",
+      "zh": "不是所有直话都是诚实的，也不是所有'拐弯'的话都不诚实。"
+    }
+  },
+  "words": [
+    {
+      "word": "Insinuate",
+      "phonetic": "in-SIN'-yoo-ayt",
+      "chinese": "暗示、影射",
+      "definition": {
+        "en": "To suggest something — usually unflattering — without saying it directly. The insinuator never has to defend the accusation. They never made one.",
+        "zh": "暗中表达某种意思 — 通常是不太好听的 — 但从不直接说出来。暗示者永远不需要为指控辩护。他根本没'指控'过。"
+      },
+      "etymology": {
+        "root": "sinuare",
+        "meaning": "to curve, to wind",
+        "meaningZh": "弯曲、蜿蜒",
+        "en": "From Latin in- (in) + sinuare (to curve), from sinus (a curve, a fold). Literally 'to wind one's way IN.' Same sinus in 'sinuous' (curving) and the math word 'sine' (the curve in the wave).",
+        "zh": "拉丁 in-（进入）+ sinuare（弯曲），来自 sinus（弯、褶）。字面意思是'弯弯曲曲地钻进去'。同一个 sinus 出现在 sinuous（蜿蜒的）和数学的 sine（正弦曲线）里。",
+        "relatives": [
+          {
+            "word": "sinuous",
+            "zh": "蜿蜒的、曲折的"
+          },
+          {
+            "word": "sine",
+            "zh": "正弦（数学）"
+          },
+          {
+            "word": "sinus",
+            "zh": "鼻窦（医学）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He didn't accuse her outright — he insinuated. 'Interesting how Q3 numbers always come from her team.' The doubt landed without a fingerprint.",
+          "zh": "他没直接指控她 — 是暗示。'有意思啊，Q3 数字总是从她团队那边来的。'怀疑落下了，却没留下指纹。"
+        },
+        {
+          "context": "social",
+          "en": "What's insinuated is twice as memorable as what's said outright — because the listener does half the work of finishing the sentence.",
+          "zh": "暗示出来的事，比直说的更难忘 — 因为听者自己把那句话补完了一半。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "暗示",
+      "tint": "8a6aa6",
+      "mnemonic": {
+        "en": "In + Sinuare = WINDING-IN. Insinuation slips into the room sideways, like a snake through a doorway.",
+        "zh": "In + Sinuare = 弯弯地钻进来。Insinuation 是从侧面溜进屋子，像一条蛇从门缝穿过去。"
+      },
+      "commonConfusions": [
+        "imply",
+        "hint",
+        "suggest"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Imply, hint, insinuate. What's the moral gradient?",
+            "zh": "Imply（暗示）、hint（提示）、insinuate（影射）— 道德上的递进是什么？"
+          },
+          "answer": {
+            "en": "Imply = leave something unstated (often neutral). Hint = quietly point at something (often helpful). Insinuate = leave something damaging unstated, so it can't be challenged.",
+            "zh": "Imply = 留下一些未说的（常常中性）。Hint = 安静地指向某事（常常是好意）。Insinuate = 把伤人的东西留着不说出来，这样它没法被反驳。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "In Othello, Iago doesn't say 'your wife is unfaithful.' He insinuates — 'I think you should observe her,' 'I wouldn't say more without proof.' Each careful winding-in plants doubt that Othello fertilizes himself. The most dangerous lies are the ones the listener completes.",
+        "zh": "《奥赛罗》里，伊阿古从没直说'你妻子不忠'。他在暗示 — '我觉得你应该留心',  '我没证据，不便多说'。每一次小心翼翼的'钻进来'都种下怀疑，再由奥赛罗自己浇水。最危险的谎言，是听者自己完成的那种。"
+      }
+    },
+    {
+      "word": "Dissimulate",
+      "phonetic": "di-SIM'-yoo-layt",
+      "chinese": "掩饰、假装",
+      "definition": {
+        "en": "To hide one's true feelings or motives behind a false appearance. Not lying with words — lying with composure.",
+        "zh": "把真实的感受或动机藏在一个假的外表后面。不是用话撒谎 — 是用'神色'撒谎。"
+      },
+      "etymology": {
+        "root": "simulare",
+        "meaning": "to feign similar, to imitate",
+        "meaningZh": "假装相似",
+        "en": "From Latin dis- (apart) + simulare (to make similar). Where 'simulate' makes the false look real, 'dissimulate' makes the real look false-or-hidden. Same simulare in 'simulate,' 'similar,' 'simile,' 'semblance,' and 'assemble.'",
+        "zh": "拉丁 dis-（分开）+ simulare（使相似、模仿）。Simulate 是把'假的'弄得像真的；Dissimulate 是把'真的'弄得像不存在。同一个 simulare 出现在 simulate（模拟）、similar（相似的）、simile（明喻）、semblance（外表）、assemble（聚集）里。",
+        "relatives": [
+          {
+            "word": "simulate",
+            "zh": "模拟、假装"
+          },
+          {
+            "word": "similar",
+            "zh": "相似的"
+          },
+          {
+            "word": "semblance",
+            "zh": "外表、表象"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She dissimulated through the whole meeting — face calm, even smiling — while inside, the decision to leave was already made.",
+          "zh": "整场会议她都在掩饰 — 脸上平静甚至带笑 — 而内心，离开的决定早已做出。"
+        },
+        {
+          "context": "social",
+          "en": "Polite society runs on a small, daily dissimulation. The trouble starts when it leaks into the rooms where honesty was the contract.",
+          "zh": "礼貌社会靠每天一点小小的掩饰来运转。麻烦从'它溜进那些以诚实为契约的房间'开始。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "掩饰",
+      "tint": "5a6a8a",
+      "mnemonic": {
+        "en": "Dis + Simulare = APART-FROM-LOOKING-SIMILAR. Dissimulation hides the real by making it unfindable — even your face is part of the cover.",
+        "zh": "Dis + Simulare = 把'看起来一样'弄反。Dissimulate 把真实藏起来 — 连你的脸也是封面的一部分。"
+      },
+      "commonConfusions": [
+        "simulate",
+        "feign",
+        "dissemble"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Simulate and dissimulate sound similar — but do opposite things. What?",
+            "zh": "Simulate 和 dissimulate 听起来像 — 但做相反的事。各做什么？"
+          },
+          "answer": {
+            "en": "Simulate = pretend something IS there that isn't. Dissimulate = pretend something ISN'T there that is. One adds. The other subtracts.",
+            "zh": "Simulate = 假装'有'本来没有的东西。Dissimulate = 假装'没有'本来有的东西。一个加，一个减。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Spies are trained in dissimulation as a craft — not just lying, but holding a real life inside a false one while neither leaks. The civilian version is gentler but uses the same muscles: the friend who's hurting at the party, the executive holding bad news through one more meeting.",
+        "zh": "间谍把掩饰当作一门手艺来训练 — 不只是撒谎，而是把真实的生活装在假的生活里，两边都不渗漏。平民版本更温和，但用的是同一组肌肉：派对上心里在痛的朋友、再撑一个会才说坏消息的高管。"
+      }
+    },
+    {
+      "word": "Commiserate",
+      "phonetic": "ka-MIZ'-ar-ayt",
+      "chinese": "同情、一起难过",
+      "definition": {
+        "en": "To share in another's sorrow — to sit with their hurt, not as a fixer but as a fellow human who's also been hurt.",
+        "zh": "和另一个人一起难过 — 不是要解决，是作为'也曾受伤过'的人，陪着那份痛。"
+      },
+      "etymology": {
+        "root": "miser",
+        "meaning": "wretched, suffering",
+        "meaningZh": "可怜的、受苦的",
+        "en": "From Latin com- (with) + miser (wretched). Literally 'to be wretched WITH someone.' Same miser in 'misery,' 'miserable,' and 'miser' (the modern stingy person — originally just 'pitiable').",
+        "zh": "拉丁 com-（一起）+ miser（可怜的）。字面意思是'和某人一起'可怜'。同一个 miser 出现在 misery（苦难）、miserable（可怜的）、miser（吝啬鬼，原意只是'可怜的人'）里。",
+        "relatives": [
+          {
+            "word": "misery",
+            "zh": "苦难"
+          },
+          {
+            "word": "miserable",
+            "zh": "悲惨的"
+          },
+          {
+            "word": "miser",
+            "zh": "吝啬鬼（原意'可怜的人'）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "After the layoffs, the team didn't celebrate or strategize — they commiserated. Sometimes that's the only useful move.",
+          "zh": "裁员之后，团队没庆祝也没做战略 — 他们只是一起难过了一会儿。有时候那是唯一有用的动作。"
+        },
+        {
+          "context": "social",
+          "en": "A good friend commiserates without trying to make it better — the trying-to-make-it-better often is the wound.",
+          "zh": "好朋友只是和你一起难过，不急着让它变好 — '急着让它变好'本身常常就是新的伤口。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "同悲",
+      "tint": "6a7a9a",
+      "mnemonic": {
+        "en": "Com + Miser = WITH + WRETCHED. To commiserate is to refuse to be alright while the person beside you is not.",
+        "zh": "Com + Miser = 与 + 可怜。Commiserate = 在你旁边的人不好的时候，拒绝独自'我没事'。"
+      },
+      "commonConfusions": [
+        "sympathize",
+        "console",
+        "pity"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Sympathize and commiserate are close. What's the small difference?",
+            "zh": "Sympathize 和 commiserate 接近。细微差别在哪？"
+          },
+          "answer": {
+            "en": "Sympathize can be felt at a distance ('I sympathize with the protesters'). Commiserate is closer — you're in the room, often with shared pain. One is acknowledgement. The other is company.",
+            "zh": "Sympathize 可以隔着距离（'我同情那些抗议者'）。Commiserate 更近 — 你在屋子里，常常共享同一份痛。一个是承认，一个是陪伴。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "In Jewish tradition, 'sitting shiva' is a week of pure commiseration — friends come over not to fix or distract, just to BE there. No advice. Often no words. The mourner sets the pace. Most cultures, sooner or later, invent the same ritual: a room where you don't have to be okay.",
+        "zh": "犹太传统里有'守shiva'的一周 — 朋友来不是为了修补或转移注意力，只是来'在场'。不给建议。常常一言不发。节奏由哀悼者决定。每个文化迟早都会发明同一种仪式：一个'不必假装没事'的房间。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Insinuate and dissimulate both move sideways. But one is offensive. The other is defensive.",
+      "zh": "Insinuate 和 dissimulate 都是从侧面走。但一个是出招，一个是护身。"
+    },
+    "leftLabel": "Insinuate",
+    "leftLine": {
+      "en": "Slips in a doubt that wasn't there.",
+      "zh": "悄悄塞进一个本来没有的怀疑。"
+    },
+    "leftMnemonic": {
+      "en": "In + Sinuare = WINDING-IN · doubt smuggled.",
+      "zh": "In + Sinuare = 弯弯钻进来 · 走私进来的怀疑。"
+    },
+    "rightLabel": "Dissimulate",
+    "rightLine": {
+      "en": "Hides a feeling that was already there.",
+      "zh": "把已经存在的感受藏起来。"
+    },
+    "rightMnemonic": {
+      "en": "Dis + Simulare = NOT-SHOWING-SIMILAR · feeling hidden.",
+      "zh": "Dis + Simulare = 不让'像' · 把感受藏起来。"
+    },
+    "closing": {
+      "en": "One adds a doubt. The other subtracts a truth. Both are sideways.",
+      "zh": "一个加上一个怀疑。一个减掉一个真相。两个都是侧着走的。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Sideways isn't always sneaky. Sometimes it's how grief, kindness, or self-protection has to enter the room — because the front door is too hard.",
+      "zh": "'从侧面'不一定是耍滑头。有时悲伤、善意、或自我保护只能从侧面进屋 — 因为正门太难推开。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/insinuate-dissimulate-commiserate/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/insinuate-dissimulate-commiserate/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/insinuate-dissimulate-commiserate/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/insinuate-dissimulate-commiserate/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/insinuate-dissimulate-commiserate/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/insinuate-dissimulate-commiserate/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/insinuate-dissimulate-commiserate/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/insinuate-dissimulate-commiserate/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/insinuate-dissimulate-commiserate/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/insinuate-dissimulate-commiserate/twist.left.wav",
+    "twist.right": "audio/vocab/insinuate-dissimulate-commiserate/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/insinuate-dissimulate-commiserate/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/insinuate-dissimulate-commiserate/hook.headline.wav",
+    "word.0.definition": "audio/vocab/insinuate-dissimulate-commiserate/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/insinuate-dissimulate-commiserate/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/insinuate-dissimulate-commiserate/word.2.definition.wav",
+    "twist.setup": "audio/vocab/insinuate-dissimulate-commiserate/twist.setup.wav",
+    "twist.closing": "audio/vocab/insinuate-dissimulate-commiserate/twist.closing.wav",
+    "recap.reflection": "audio/vocab/insinuate-dissimulate-commiserate/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 15,
+    "session": 44,
+    "pages": [
+      451,
+      490
+    ],
+    "theme": "What Goes On",
+    "subtheme": "Three sideways verbs — hint, pretend, share the ache"
+  },
+  "tags": [
+    "actions",
+    "indirection",
+    "ch15",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "sinuous",
+      "zh": "蜿蜒的、曲折的",
+      "root": "sinuare",
+      "partOfSpeech": "adj.",
+      "phonetic": "SIN'-yoo-as",
+      "gloss": {
+        "en": "Curving and winding — directly from sinuare. Used for rivers, dancers, arguments that don't go in a straight line.",
+        "zh": "弯曲蜿蜒 — 直接来自 sinuare。用于河流、舞者、不走直线的论证。"
+      },
+      "usage": {
+        "en": "A sinuous argument is harder to refute — there's no straight line to push back against.",
+        "zh": "一个弯弯曲曲的论证更难反驳 — 没有一条直线可以推回去。"
+      }
+    },
+    {
+      "word": "sine",
+      "zh": "正弦",
+      "root": "sinuare",
+      "partOfSpeech": "n.",
+      "phonetic": "SINE",
+      "gloss": {
+        "en": "The math curve — from sinus (curve). Translated from Sanskrit jya through Arabic jayb, which sounded like Latin sinus, so the curve kept its name.",
+        "zh": "数学里的正弦曲线 — 来自 sinus（弯）。从梵语 jya 翻译，经阿拉伯语 jayb，发音像拉丁 sinus，于是这个'弯'留下了它的名字。"
+      },
+      "usage": {
+        "en": "Most natural rhythms are sine waves — your mood, the tide, attention, breath. Up and down is the world's default.",
+        "zh": "大多数自然节律都是正弦波 — 心情、潮汐、注意力、呼吸。'上下起伏'是世界的默认设置。"
+      }
+    },
+    {
+      "word": "sinus",
+      "zh": "鼻窦",
+      "root": "sinuare",
+      "partOfSpeech": "n.",
+      "phonetic": "SI'-nas",
+      "gloss": {
+        "en": "A cavity in the body — from sinus (a fold, curve). The hollow spaces in your face share their name with curving rivers.",
+        "zh": "身体里的空腔 — 来自 sinus（折、弯）。你脸上的空腔，和蜿蜒河流共享同一个名字。"
+      },
+      "usage": {
+        "en": "When your sinuses hurt, your whole face seems to be made of sinus — pain has that recruiting effect.",
+        "zh": "鼻窦疼的时候，整张脸好像都是鼻窦做的 — 疼痛有那种'拉人入伙'的效果。"
+      }
+    },
+    {
+      "word": "simulate",
+      "zh": "模拟、假装",
+      "root": "simulare",
+      "partOfSpeech": "v.",
+      "phonetic": "SIM'-yoo-layt",
+      "gloss": {
+        "en": "To imitate, to pretend — directly from simulare. Same root family as dissimulate, but with opposite spin.",
+        "zh": "模仿、假装 — 直接来自 simulare。和 dissimulate 同族，但旋转方向相反。"
+      },
+      "usage": {
+        "en": "Simulations are useful when reality would be too costly to try — but a simulation that hides its assumptions is just a confident guess.",
+        "zh": "现实成本太高时，模拟有用 — 但一个隐藏假设的模拟，只是一个自信的猜测。"
+      }
+    },
+    {
+      "word": "similar",
+      "zh": "相似的",
+      "root": "simulare",
+      "partOfSpeech": "adj.",
+      "phonetic": "SIM'-i-lar",
+      "gloss": {
+        "en": "Looking alike — same root family. 'Similar' is the calm noun-cousin of 'simulate' (the verb of pretense).",
+        "zh": "看起来像 — 同族。'Similar'是 simulate（假装的动词）安静的名词表亲。"
+      },
+      "usage": {
+        "en": "Similar isn't the same — and a lot of bad decisions come from treating similar as if it were.",
+        "zh": "Similar 不等于相同 — 许多糟糕的决定来自把'相似'当作'相同'。"
+      }
+    },
+    {
+      "word": "simile",
+      "zh": "明喻",
+      "root": "simulare",
+      "partOfSpeech": "n.",
+      "phonetic": "SIM'-a-lee",
+      "gloss": {
+        "en": "A comparison using 'like' or 'as' — directly from similis (like). The honest cousin of metaphor: 'my love is LIKE a red rose.'",
+        "zh": "用 like 或 as 的比喻 — 直接来自 similis（像）。是隐喻（metaphor）诚实的表亲：'我的爱像一朵红玫瑰'。"
+      },
+      "usage": {
+        "en": "A good simile is more useful than a metaphor — it tells the reader you know you're stretching.",
+        "zh": "好的明喻比隐喻更有用 — 它告诉读者：'我知道我在用比喻'。"
+      }
+    },
+    {
+      "word": "semblance",
+      "zh": "外表、表象",
+      "root": "simulare",
+      "partOfSpeech": "n.",
+      "phonetic": "SEM'-blans",
+      "gloss": {
+        "en": "Outward appearance — from Old French sembler (to seem), from Latin similis. A 'semblance of order' is the look without the reality.",
+        "zh": "外在的样子 — 来自古法语 sembler（似乎），源自拉丁 similis。'一种秩序的表象'，是有看相而无实体。"
+      },
+      "usage": {
+        "en": "Most institutions keep a semblance of stability while changing underneath — the trick is to be the second person who notices.",
+        "zh": "大多数机构都维持着'稳定的表象'，底下却在变 — 诀窍是当第二个注意到的人。"
+      }
+    },
+    {
+      "word": "assemble",
+      "zh": "聚集、组装",
+      "root": "simulare",
+      "partOfSpeech": "v.",
+      "phonetic": "a-SEM'-bal",
+      "gloss": {
+        "en": "Literally 'to make similar together' — ad- (toward) + simul (together). Bring like things into one place.",
+        "zh": "字面是'让它们一起变成相似的' — ad-（向）+ simul（一起）。把同类的东西聚到一处。"
+      },
+      "usage": {
+        "en": "Assembling a team is choosing a shared shape — every new hire either fits the shape or quietly reshapes it.",
+        "zh": "组建一个团队，是选一个共同的形状 — 每个新成员要么贴合那个形状，要么悄悄把它改了。"
+      }
+    },
+    {
+      "word": "misery",
+      "zh": "苦难、悲惨",
+      "root": "miser",
+      "partOfSpeech": "n.",
+      "phonetic": "MIZ'-a-ree",
+      "gloss": {
+        "en": "Deep suffering — directly from miser (wretched). The state commiserate is sharing.",
+        "zh": "深切的苦难 — 直接来自 miser（可怜）。Commiserate 共享的，就是这种状态。"
+      },
+      "usage": {
+        "en": "Misery loves company, the saying goes — but real comfort doesn't multiply the misery, it just keeps it from being alone.",
+        "zh": "俗话说'同病相怜'。但真正的安慰不让苦难翻倍 — 只是让它不再孤单。"
+      }
+    },
+    {
+      "word": "miserable",
+      "zh": "悲惨的、痛苦的",
+      "root": "miser",
+      "partOfSpeech": "adj.",
+      "phonetic": "MIZ'-ar-a-bal",
+      "gloss": {
+        "en": "Wretched, deeply unhappy — directly from miser. The adjective form of misery.",
+        "zh": "可怜、深切不快乐 — 直接来自 miser。Misery 的形容词形式。"
+      },
+      "usage": {
+        "en": "There's miserable weather and miserable feeling — both pass faster if someone names them and stays.",
+        "zh": "有糟糕的天气和糟糕的心情 — 两者都会更快过去，只要有人愿意点出来、然后留下来。"
+      }
+    },
+    {
+      "word": "miser",
+      "zh": "吝啬鬼",
+      "root": "miser",
+      "partOfSpeech": "n.",
+      "phonetic": "MI'-zar",
+      "gloss": {
+        "en": "Originally just 'a wretched person' — the stinginess meaning grew because misers, despite hoarding, were considered miserable. Same miser as 'misery.'",
+        "zh": "原本意思只是'可怜的人' — 后来变成'吝啬鬼'，因为人们觉得守财奴尽管藏着钱，却活得可怜。和 misery 同根。"
+      },
+      "usage": {
+        "en": "A miser hoards what isn't earning interest — money in a mattress, love in a closed heart.",
+        "zh": "吝啬鬼囤着的，都是不再产生利息的东西 — 床垫里的钱、紧闭心门里的爱。"
+      }
+    },
+    {
+      "word": "sympathy",
+      "zh": "同情",
+      "root": "pathos",
+      "partOfSpeech": "n.",
+      "phonetic": "SIM'-pa-thee",
+      "gloss": {
+        "en": "Feeling-with — syn- (together) + pathos (feeling). Greek cousin of the Latin commiserate. Same idea, different ancestor.",
+        "zh": "一起感受 — syn-（一起）+ pathos（感）。Commiserate 的希腊表亲。同一概念，不同祖先。"
+      },
+      "usage": {
+        "en": "Sympathy at a distance is easy. Commiserating in the same room is the harder kindness.",
+        "zh": "隔着距离同情很容易。在同一个房间里一起难过，是更难的那种善意。"
+      },
+      "rootMeaning": "feeling, suffering (Greek)",
+      "rootMeaningZh": "感受、受苦（希腊）",
+      "rootTint": "7a8a9a"
+    }
+  ]
+}

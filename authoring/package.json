@@ -1,0 +1,18 @@
+{
+  "name": "wordpower-authoring",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lesson-audio authoring for Word Power Made Easy. Reads a lesson JSON from web/src/corpus/, generates one TTS .wav per audio slot into web/public/audio/vocab/, and writes the resolved audio map back into the lesson JSON.",
+  "scripts": {
+    "setup": "bash tts/setup.sh",
+    "tts:vocab": "tsx generateVocabAudio.ts",
+    "tts:test": "bash tts/test_tts.sh"
+  },
+  "dependencies": {
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "lessonId": "martinet-sycophant-dilettante",
+  "hook": {
+    "headline": {
+      "en": "Three labels. Three little origin stories hiding inside.",
+      "zh": "三个标签。每个里面都藏着一个小小的起源故事。"
+    },
+    "subtext": {
+      "en": "A real general. A fig-trader's accusation. A delighted dabbler.",
+      "zh": "一个真实的将军。一个无花果商人的告发。一个'喜欢就好'的爱好者。"
+    }
+  },
+  "words": [
+    {
+      "word": "Martinet",
+      "phonetic": "mar'-ti-NET'",
+      "chinese": "严苛的纪律执行者",
+      "definition": {
+        "en": "A rigid disciplinarian — someone who demands strict, often unreasonable, obedience to rules. A martinet doesn't bend, even when bending would be wise.",
+        "zh": "严苛的纪律执行者 — 强求严格、往往不通情理的服从规则。这种人不肯弯腰，即使弯一下才是聪明的做法。"
+      },
+      "etymology": {
+        "root": "Jean Martinet",
+        "meaning": "the name of a real 17th-century French general",
+        "meaningZh": "17世纪法国一位真实将军的名字",
+        "en": "Named after Jean Martinet, drill master under Louis XIV. His training was so famously brutal that his name became the word for any inflexible disciplinarian. Same eponym pattern that gave us 'boycott' (Charles Boycott), 'maverick' (Samuel Maverick), and 'draconian' (Draco of Athens).",
+        "zh": "得名于让·马蒂内特 — 路易十四麾下的训练总指挥。他的训练严酷出了名，于是他的名字本身变成了'死板执行纪律者'的代名词。和 boycott（Charles Boycott）、maverick（Samuel Maverick）、draconian（Draco）一样，都是用真人名字造出来的词。",
+        "relatives": [
+          {
+            "word": "boycott",
+            "zh": "抵制（来自 Charles Boycott）"
+          },
+          {
+            "word": "maverick",
+            "zh": "特立独行者（来自 Samuel Maverick）"
+          },
+          {
+            "word": "draconian",
+            "zh": "苛刻的（来自 Draco）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The new manager was a martinet about timesheets — and the team's morale died on a Tuesday.",
+          "zh": "新上任的经理对考勤特别严苛 — 团队的士气在一个周二就死掉了。"
+        },
+        {
+          "context": "parenting",
+          "en": "Don't be a martinet at home — your kids will obey, and then quietly stop telling you anything.",
+          "zh": "别在家做严苛的纪律执行者 — 孩子会服从，然后悄悄地什么都不再告诉你。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "苛严",
+      "tint": "5a5e6b",
+      "mnemonic": {
+        "en": "Martinet = a man's NAME turned into a word. When one person's reputation does the work of a whole adjective, that's how strict they were.",
+        "zh": "Martinet = 一个人的名字变成了一个词。当一个人的名声本身能当形容词使，他严到了什么程度，可想而知。"
+      },
+      "commonConfusions": [
+        "disciplinarian",
+        "tyrant",
+        "stickler"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Stickler and martinet both insist on rules. What's the difference?",
+            "zh": "Stickler 和 martinet 都在乎规则。区别在哪？"
+          },
+          "answer": {
+            "en": "A stickler insists on getting it right — for the work's sake. A martinet insists on obedience — for the rule's sake. One serves the work. The other serves the rule.",
+            "zh": "Stickler 是为了把事情做对而较真 — 服务的是工作。Martinet 是为了服从而较真 — 服务的是规则本身。一个为工作，一个为规则。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The historical Jean Martinet was actually a military innovator — his drilling created the first standardized infantry in Europe. He died in 1672, accidentally killed by his own artillery during a siege. The world remembered the strictness, forgot the innovation. The eponym only kept the bad part.",
+        "zh": "历史上的让·马蒂内特其实是军事革新者 — 他的训练造就了欧洲第一支标准化步兵。1672 年他在围攻战中被自己的炮兵误伤而死。世界记住了他的严苛，忘了他的创新。这个用人名造的词，只留下了坏的那一面。"
+      }
+    },
+    {
+      "word": "Sycophant",
+      "phonetic": "SIK'-a-fant",
+      "chinese": "马屁精、谄媚者",
+      "definition": {
+        "en": "A self-serving flatterer — someone who shows excessive admiration to people in power, hoping to benefit. The praise isn't real. The benefit is.",
+        "zh": "出于私利的拍马屁者 — 对有权有势的人过分恭维，目的是从中获益。称赞不是真的，获益是真的。"
+      },
+      "etymology": {
+        "root": "phainein",
+        "meaning": "to show, to appear",
+        "meaningZh": "显示、显露",
+        "en": "From Greek sykon (fig) + phainein (to show). Origin story: in ancient Athens, professional informers got rich by accusing others of illegal fig exports — they 'showed the fig.' The word came to mean anyone who curried favor for personal gain. Same phainein hides in 'phenomenon,' 'epiphany,' 'fantasy,' and 'emphasis.'",
+        "zh": "来自希腊 sykon（无花果）+ phainein（显示）。起源故事：古雅典有职业告发者，通过指控别人非法出口无花果（'举出无花果'）来发财。这个词后来扩展为'为自己谋利而讨好的人'。同一个 phainein 藏在 phenomenon、epiphany、fantasy、emphasis 里。",
+        "relatives": [
+          {
+            "word": "phenomenon",
+            "zh": "现象（'出现的东西'）"
+          },
+          {
+            "word": "epiphany",
+            "zh": "顿悟（'显露在上'）"
+          },
+          {
+            "word": "fantasy",
+            "zh": "幻想（'显现的画面'）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Every executive eventually figures out who the sycophants are — the question is whether they enjoy being surrounded by them.",
+          "zh": "每个高管迟早会看清谁是身边的马屁精 — 真正的问题是：他们是不是享受被这种人围着。"
+        },
+        {
+          "context": "friends",
+          "en": "A sycophant agrees with everything you say — until the room changes, and then they agree with everything THAT says.",
+          "zh": "马屁精会同意你说的每一句话 — 直到屋里换了人，然后他又会同意新那个人说的每一句话。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "谄媚",
+      "tint": "b08855",
+      "mnemonic": {
+        "en": "Sykon + Phainein = SHOWING THE FIG. The flattery is the fig — pointed at power, in exchange for favor.",
+        "zh": "Sykon + Phainein = 举出无花果。讨好就是那颗无花果 — 指向权力，换来好处。"
+      },
+      "commonConfusions": [
+        "flatterer",
+        "toady",
+        "yes-man"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "A flatterer and a sycophant both praise. What's the difference?",
+            "zh": "Flatterer 和 sycophant 都在称赞。区别在哪？"
+          },
+          "answer": {
+            "en": "A flatterer might just be charming. A sycophant is flattering with an agenda — the praise is currency, not feeling.",
+            "zh": "Flatterer 可能只是讨人喜欢。Sycophant 是带着目的的恭维 — 称赞是货币，不是感情。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "In Athenian courts, professional sycophants would file dozens of frivolous lawsuits a year. The threat alone was enough — wealthy citizens paid them off to make the cases disappear. The sycophant didn't need to win. They just needed to be a threat. Modern flattery works the same way: not for love, but for leverage.",
+        "zh": "在雅典法庭上，职业告发者一年能提几十个无聊的诉讼。光是这个威胁就够了 — 有钱人花钱让案子消失。马屁精不需要赢，只需要让人觉得他能造成麻烦。现代的讨好运作方式一样：不是为爱，而是为筹码。"
+      }
+    },
+    {
+      "word": "Dilettante",
+      "phonetic": "dil'-a-TAHNT'",
+      "chinese": "半瓶水的爱好者、肤浅的票友",
+      "definition": {
+        "en": "Someone who dabbles — engages in an art or subject for the pleasure of it, without the discipline to go deep. Originally not an insult; it became one when 'delight' stopped being enough.",
+        "zh": "浅尝辄止的人 — 因为喜欢而接触一门艺术或学问，但缺少深入下去的功夫。这个词原本不是骂人 — 是后来当'只图开心'不再够用时，才变成了贬义。"
+      },
+      "etymology": {
+        "root": "delectare",
+        "meaning": "to delight",
+        "meaningZh": "使愉悦",
+        "en": "From Italian dilettare = 'to delight,' itself from Latin delectare. A dilettante literally is 'one who finds delight in' an art. Same delectare gives us 'delight,' 'delectable,' and 'delicious.' The word's slide into mockery says something about how seriously the world takes mastery now.",
+        "zh": "来自意大利语 dilettare = 享受愉悦，最终源自拉丁 delectare。Dilettante 字面是'在一门艺术里找到快乐的人'。同一个 delectare 给了我们 delight（喜悦）、delectable（美味的）、delicious（美味的）。这个词从褒到贬的滑落，反映了今天世界对'精通'有多苛求。",
+        "relatives": [
+          {
+            "word": "delight",
+            "zh": "喜悦"
+          },
+          {
+            "word": "delectable",
+            "zh": "令人愉悦的"
+          },
+          {
+            "word": "delicious",
+            "zh": "美味的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She approached the redesign as a dilettante — five reviews in, every comment was a different vague aesthetic preference.",
+          "zh": "她对重新设计的态度像个半瓶水的票友 — 改了五版，每条意见都是模糊的、不同方向的审美偏好。"
+        },
+        {
+          "context": "social",
+          "en": "A serious amateur takes a craft far. A dilettante just samples it — and then complains the craft is hard.",
+          "zh": "认真的业余爱好者能把一门手艺学得很深。半瓶水的票友只是尝两口 — 然后抱怨这门手艺太难。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "票友",
+      "tint": "a06fa6",
+      "mnemonic": {
+        "en": "Dilettare = TO DELIGHT. A dilettante stays for the delight and leaves before the difficulty. The word once described every art lover. Now it describes the ones who never went deep.",
+        "zh": "Dilettare = 享受愉悦。Dilettante 留在'愉悦'那一段，在'变难'之前就走了。这个词曾经形容所有爱艺术的人，如今只形容那些没深入的。"
+      },
+      "commonConfusions": [
+        "amateur",
+        "hobbyist",
+        "dabbler"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Amateur and dilettante sound similar but feel different. What's the texture?",
+            "zh": "Amateur（业余者）和 dilettante 听上去差不多，但感觉不同。质感在哪？"
+          },
+          "answer": {
+            "en": "Amateur = does it for love, often seriously, even when not paid. Dilettante = does it for show, lightly, often pretending more depth than they have.",
+            "zh": "Amateur = 出于爱而做，常常很认真，不在乎是否收报酬。Dilettante = 做来给别人看，浅浅地碰一下，常装得比实际更懂。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "In 18th-century England, 'dilettanti' were aristocrats who funded expeditions to Italy and collected antiquities. They formed clubs. They published books. Some were among the founders of modern archaeology. The word that now means 'pretender' once meant 'patron of beauty.' Almost every insult has a kinder ancestor.",
+        "zh": "在18世纪英国，'dilettanti' 是出资去意大利考察、收藏古物的贵族。他们建俱乐部、出书。其中一些人甚至是现代考古学的奠基人。今天意为'装模作样'的这个词，曾经意为'美的赞助人'。几乎每个用来骂人的词，都有一个更温柔的祖先。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both bend the room around power. But one IS the power. The other serves it.",
+      "zh": "两种人都把屋子绕着权力扭。但一个本身就是权力。另一个在服务它。"
+    },
+    "leftLabel": "Martinet",
+    "leftLine": {
+      "en": "Demands obedience. Bends the room from above.",
+      "zh": "要求服从。从上方把屋子压下去。"
+    },
+    "leftMnemonic": {
+      "en": "Martinet = a man's NAME · strictness became identity.",
+      "zh": "Martinet = 一个人的名字 · 严苛已经变成身份。"
+    },
+    "rightLabel": "Sycophant",
+    "rightLine": {
+      "en": "Offers flattery. Bends the room from below.",
+      "zh": "送上恭维。从下方把屋子拢过去。"
+    },
+    "rightMnemonic": {
+      "en": "Sykon + Phainein = SHOWING THE FIG · praise as currency.",
+      "zh": "Sykon + Phainein = 举出无花果 · 把恭维当货币。"
+    },
+    "closing": {
+      "en": "One demands. One offers. Both make the room smaller.",
+      "zh": "一个索取。一个奉上。两种都让屋子变小了。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Each of these names started small — a real general, a fig-trader, a delighted dabbler. A whole personality has to fit into one word. And one word has to do the work of explaining it.",
+      "zh": "每个标签都是从一个小起点开始的 — 一个真实的将军、一个无花果商、一个'喜欢就好'的票友。一整个人格要塞进一个词，而那一个词，要负责把它讲清楚。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/martinet-sycophant-dilettante/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/martinet-sycophant-dilettante/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/martinet-sycophant-dilettante/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/martinet-sycophant-dilettante/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/martinet-sycophant-dilettante/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/martinet-sycophant-dilettante/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/martinet-sycophant-dilettante/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/martinet-sycophant-dilettante/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/martinet-sycophant-dilettante/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/martinet-sycophant-dilettante/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/martinet-sycophant-dilettante/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/martinet-sycophant-dilettante/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/martinet-sycophant-dilettante/twist.left.wav",
+    "twist.right": "audio/vocab/martinet-sycophant-dilettante/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/martinet-sycophant-dilettante/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/martinet-sycophant-dilettante/hook.headline.wav",
+    "word.0.definition": "audio/vocab/martinet-sycophant-dilettante/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/martinet-sycophant-dilettante/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/martinet-sycophant-dilettante/word.2.definition.wav",
+    "twist.setup": "audio/vocab/martinet-sycophant-dilettante/twist.setup.wav",
+    "twist.closing": "audio/vocab/martinet-sycophant-dilettante/twist.closing.wav",
+    "recap.reflection": "audio/vocab/martinet-sycophant-dilettante/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 11,
+    "session": 28,
+    "pages": [
+      282,
+      305
+    ],
+    "theme": "Insults and Labels",
+    "subtheme": "Three social postures — control, fawn, dabble"
+  },
+  "tags": [
+    "insults",
+    "labels",
+    "social-types",
+    "ch11",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "phenomenon",
+      "zh": "现象",
+      "root": "phainein",
+      "partOfSpeech": "n.",
+      "phonetic": "fa-NOM'-a-non",
+      "gloss": {
+        "en": "Literally 'a thing that appears' — directly from phainein. Anything observable, noteworthy enough to deserve a name.",
+        "zh": "字面是'出现的东西' — 直接来自 phainein。任何可观察、值得被命名的事物。"
+      },
+      "usage": {
+        "en": "A phenomenon repeated enough times stops being a phenomenon — and becomes just 'normal.'",
+        "zh": "一个现象重复够多次，就不再是现象 — 变成了'正常'。"
+      }
+    },
+    {
+      "word": "epiphany",
+      "zh": "顿悟",
+      "root": "phainein",
+      "partOfSpeech": "n.",
+      "phonetic": "i-PIF'-a-nee",
+      "gloss": {
+        "en": "Literally 'a showing upon' — epi- (upon) + phainein. A sudden moment when the answer reveals itself.",
+        "zh": "字面是'显露在上' — epi-（上）+ phainein。答案突然显现出来的那一刻。"
+      },
+      "usage": {
+        "en": "Most epiphanies aren't sudden — they're slow, with a final inch that LOOKS sudden.",
+        "zh": "大多数'顿悟'其实不是突然的 — 它们是慢慢积累，只有最后那一寸看上去像突然。"
+      }
+    },
+    {
+      "word": "fantasy",
+      "zh": "幻想",
+      "root": "phainein",
+      "partOfSpeech": "n.",
+      "phonetic": "FAN'-ta-see",
+      "gloss": {
+        "en": "Originally 'an appearance' — phainein. The image the mind shows itself, with no obligation to match the world.",
+        "zh": "最初意思是'显现的画面' — 来自 phainein。心给自己看的画面，不必和真实世界对得上。"
+      },
+      "usage": {
+        "en": "Fantasies are useful — they show what you actually want, even when reality won't admit it yet.",
+        "zh": "幻想是有用的 — 它显出你真正想要什么，哪怕现实暂时还不肯承认。"
+      }
+    },
+    {
+      "word": "phantom",
+      "zh": "幽灵、幻影",
+      "root": "phainein",
+      "partOfSpeech": "n.",
+      "phonetic": "FAN'-tam",
+      "gloss": {
+        "en": "An appearance without substance — phainein. The shape of something that isn't actually there.",
+        "zh": "无实体的显现 — phainein。看见了形状，但其实那里什么都没有。"
+      },
+      "usage": {
+        "en": "Most of what we fear is a phantom — the shape of a thing we haven't actually met yet.",
+        "zh": "我们害怕的大多是幻影 — 一个我们其实还没真正遇见的东西的形状。"
+      }
+    },
+    {
+      "word": "emphasis",
+      "zh": "强调、重点",
+      "root": "phainein",
+      "partOfSpeech": "n.",
+      "phonetic": "EM'-fa-sis",
+      "gloss": {
+        "en": "Literally 'showing in' — en- (in) + phainein. Making something stand out from what surrounds it.",
+        "zh": "字面是'向内显示' — en-（在内）+ phainein。让某件事从周围的东西里凸显出来。"
+      },
+      "usage": {
+        "en": "Emphasis is a privilege — when you can only stress one word in a sentence, you have to mean it.",
+        "zh": "强调是一种特权 — 当一句话里你只能加重一个词，那这个重音必须是真的。"
+      }
+    },
+    {
+      "word": "diaphanous",
+      "zh": "透明的、薄如蝉翼的",
+      "root": "phainein",
+      "partOfSpeech": "adj.",
+      "phonetic": "di-AF'-a-nas",
+      "gloss": {
+        "en": "Literally 'showing through' — dia- (through) + phainein. Fabric so thin the light passes through it.",
+        "zh": "字面是'光从中透过来' — dia-（穿过）+ phainein。薄到光能穿过去的织物。"
+      },
+      "usage": {
+        "en": "A diaphanous excuse fools no one — the light goes right through it.",
+        "zh": "薄如蝉翼的借口骗不了人 — 光直接就穿过去了。"
+      }
+    },
+    {
+      "word": "delight",
+      "zh": "喜悦",
+      "root": "delectare",
+      "partOfSpeech": "n./v.",
+      "phonetic": "di-LIT'",
+      "gloss": {
+        "en": "Pleasure — directly from delectare. Same root as 'dilettante': both are about finding joy. The word kept its goodness; the person didn't.",
+        "zh": "愉悦 — 直接来自 delectare。和 dilettante 同根：都是关于找到喜悦。词保留了它的美好；那种人没有。"
+      },
+      "usage": {
+        "en": "A child's delight isn't loud. It's a held breath followed by a smile that takes up the whole face.",
+        "zh": "孩子的喜悦不是大声的。是先屏一口气，再用整张脸笑开。"
+      }
+    },
+    {
+      "word": "delectable",
+      "zh": "令人愉悦的、美味的",
+      "root": "delectare",
+      "partOfSpeech": "adj.",
+      "phonetic": "di-LEK'-ta-bal",
+      "gloss": {
+        "en": "Producing delight — directly from delectare. Often used for food, but also for any moment that earns its way into memory.",
+        "zh": "让人愉悦的 — 直接来自 delectare。常用于食物，也用于任何'值得被记住'的时刻。"
+      },
+      "usage": {
+        "en": "A delectable meal isn't the most expensive one — it's the one cooked by someone paying attention.",
+        "zh": "最让人愉悦的一餐不是最贵的 — 是被一个用心的人做出来的那一餐。"
+      }
+    },
+    {
+      "word": "delicious",
+      "zh": "美味的",
+      "root": "delectare",
+      "partOfSpeech": "adj.",
+      "phonetic": "di-LISH'-as",
+      "gloss": {
+        "en": "Causing intense delight — the everyday form of delectare. Used mostly for taste, but extending to any sense.",
+        "zh": "引起强烈愉悦的 — delectare 的日常形式。主要用于味觉，也可以扩展到其他感官。"
+      },
+      "usage": {
+        "en": "Some words taste delicious in the mouth — 'serendipity,' 'effervescent,' 'meander.' Language has flavors too.",
+        "zh": "有些词在嘴里就很美味 — 'serendipity'、'effervescent'、'meander'。语言也是有味道的。"
+      }
+    },
+    {
+      "word": "boycott",
+      "zh": "抵制",
+      "root": "eponym",
+      "partOfSpeech": "v./n.",
+      "phonetic": "BOY'-kot",
+      "gloss": {
+        "en": "From Charles Boycott, a 19th-century Irish land agent. When tenants refused to deal with him over unfair rents, the world borrowed his name for the act itself.",
+        "zh": "来自19世纪爱尔兰的土地管理员查尔斯·博伊科特。佃农因不公平的租金拒绝和他打交道 — 世界借走了他的名字，用来描述这种集体拒绝。"
+      },
+      "usage": {
+        "en": "A boycott works when it's organized — and stops working the moment people forget why it started.",
+        "zh": "抵制有效，是因为它被组织起来 — 它失效的那一刻，是人们忘了为什么开始的那一刻。"
+      },
+      "rootMeaning": "named after a real person",
+      "rootMeaningZh": "用真人名字造的词",
+      "rootTint": "5e6a7d"
+    },
+    {
+      "word": "maverick",
+      "zh": "特立独行者",
+      "root": "eponym",
+      "partOfSpeech": "n.",
+      "phonetic": "MAV'-ar-ik",
+      "gloss": {
+        "en": "From Samuel Maverick, a Texas rancher who refused to brand his cattle. Unbranded cattle came to be called 'mavericks' — and then so did anyone who refused to wear the herd's mark.",
+        "zh": "来自德州牧场主萨缪尔·马维瑞克 — 他拒绝给自己的牛打烙印。没烙印的牛被叫作 'mavericks'，后来这个词也用来形容拒绝戴上'群体烙印'的人。"
+      },
+      "usage": {
+        "en": "Every team needs at least one maverick — the person willing to be slightly wrong in public so the right answer can find them.",
+        "zh": "每个团队都需要至少一个特立独行的人 — 那个愿意当众有一点点错、好让正确答案能找上他的人。"
+      }
+    },
+    {
+      "word": "draconian",
+      "zh": "极其严苛的",
+      "root": "eponym",
+      "partOfSpeech": "adj.",
+      "phonetic": "dra-KO'-nee-an",
+      "gloss": {
+        "en": "From Draco, the 7th-century BC Athenian lawgiver who prescribed death for the smallest crimes. His name became the word for any punishment that's wildly out of proportion. Same eponym pattern as 'martinet.'",
+        "zh": "来自公元前7世纪雅典的立法者德拉古 — 他给最小的罪也定下死刑。他的名字变成了'惩罚远超过错本身'的代名词。和 martinet 同样是用真人名字造词。"
+      },
+      "usage": {
+        "en": "Draconian rules don't end behavior. They just move it where you can't see.",
+        "zh": "极其严苛的规定不会让行为消失。它只是把行为推到你看不见的地方。"
+      }
+    }
+  ]
+}

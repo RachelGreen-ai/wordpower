@@ -1,0 +1,499 @@
+{
+  "lessonId": "ingenuous-perspicacious-suave",
+  "hook": {
+    "headline": {
+      "en": "Three character textures — transparent, sharp, smooth.",
+      "zh": "三种性格的质地 — 透明、锋利、圆润。"
+    },
+    "subtext": {
+      "en": "How a person shows up changes what's possible in the room.",
+      "zh": "一个人如何出现，决定了这屋子里能发生什么。"
+    }
+  },
+  "words": [
+    {
+      "word": "Ingenuous",
+      "phonetic": "in-JEN'-yoo-as",
+      "chinese": "天真坦率的、不设防的",
+      "definition": {
+        "en": "Honest, straightforward, without guile — saying what they think because hiding it didn't occur to them. Ingenuous isn't naïve. It's brave-by-default.",
+        "zh": "诚实、直率、不耍心眼 — 想什么说什么，因为'藏起来'这个念头根本没出现。Ingenuous 不是天真 — 是一种默认的勇气。"
+      },
+      "etymology": {
+        "root": "ingenuus",
+        "meaning": "freeborn, native",
+        "meaningZh": "生而自由、本土的",
+        "en": "From Latin ingenuus = 'freeborn' — in- (in) + gignere (to be born). Originally meant 'native, freeborn' — someone with nothing to hide because they had no master. The frankness came with the freedom. Same gignere root as 'genesis,' 'genuine,' and 'genuine.'",
+        "zh": "拉丁 ingenuus = 生而自由 — in-（在内）+ gignere（生）。原本意思是'本土、生而自由' — 那种没有主子、所以不必藏什么的人。坦率，是与自由一同来的。同一个 gignere 也给了我们 genesis（起源）、genuine（真正的）、gene（基因）。",
+        "relatives": [
+          {
+            "word": "genuine",
+            "zh": "真正的、纯真的"
+          },
+          {
+            "word": "genesis",
+            "zh": "起源"
+          },
+          {
+            "word": "gene",
+            "zh": "基因"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Her ingenuous question — 'why do we do this?' — saved the team six months. No one else dared to ask.",
+          "zh": "她那一句天真的问题 — '我们为什么这样做？' — 给团队省下了六个月。没人敢问。"
+        },
+        {
+          "context": "parenting",
+          "en": "Children are ingenuous by default — the lesson of growing up is learning when to keep that quality and when to soften it.",
+          "zh": "小孩默认是不设防的 — 长大要学的，是分辨什么时候保留这种品质，什么时候稍稍收一点。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "坦率",
+      "tint": "6a9ac4",
+      "mnemonic": {
+        "en": "In + Gignere = BORN-IN (freeborn). Ingenuous = honest as a default setting, not a strategy.",
+        "zh": "In + Gignere = 生于本土（生而自由）。Ingenuous = 默认的诚实，不是一种策略。"
+      },
+      "commonConfusions": [
+        "naive",
+        "candid",
+        "guileless"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Naive and ingenuous sound the same. What's the dignity difference?",
+            "zh": "Naive 和 ingenuous 听上去差不多。在'尊严'上有什么差别？"
+          },
+          "answer": {
+            "en": "Naive = doesn't know better. Ingenuous = knows perfectly well, and tells the truth anyway. One is uninformed. The other is unguarded.",
+            "zh": "Naive = 没经验，不知道。Ingenuous = 知道得很清楚，但还是说真话。一个是不懂，一个是不设防。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The little boy who said 'but the emperor has no clothes' was ingenuous, not stupid — every adult could see the same truth, but they had all calculated reasons to look away. Ingenuous is the rare adult who keeps that childhood ability.",
+        "zh": "童话里那个说'国王没穿衣服'的小男孩，是不设防 — 不是傻。每个大人都看见了同样的事实，但他们都算计过该如何避开。Ingenuous 是少数留住了那种童年能力的成年人。"
+      }
+    },
+    {
+      "word": "Perspicacious",
+      "phonetic": "pur'-spi-KAY'-shus",
+      "chinese": "敏锐的、洞察力强的",
+      "definition": {
+        "en": "Sharp-minded — sees through what others stop at the surface of. A perspicacious person doesn't just notice; they understand what they're noticing.",
+        "zh": "心思敏锐 — 看穿别人停在表面的东西。敏锐的人不只是注意到 — 还理解自己注意到的东西。"
+      },
+      "etymology": {
+        "root": "specere",
+        "meaning": "to look",
+        "meaningZh": "看",
+        "en": "From Latin perspicere = 'to see through' — per- (through) + specere (to look). Same specere is hidden in 'inspect,' 'respect,' 'suspect,' 'spectator,' 'aspect,' and 'perspective.'",
+        "zh": "拉丁 perspicere = 看穿 — per-（穿过）+ specere（看）。同一个 specere 藏在 inspect（检查）、respect（尊重，'回头看'）、suspect（怀疑，'向下看'）、spectator（旁观者）、aspect（方面）、perspective（视角）里。",
+        "relatives": [
+          {
+            "word": "inspect",
+            "zh": "检查（'看入'）"
+          },
+          {
+            "word": "respect",
+            "zh": "尊重（'再看'）"
+          },
+          {
+            "word": "perspective",
+            "zh": "视角（'透看'）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "His perspicacious read of the customer email — 'they're not asking what they're asking' — saved the deal.",
+          "zh": "他对那封客户邮件敏锐的解读 — '他们问的不是他们真正想问的' — 救下了那单生意。"
+        },
+        {
+          "context": "social",
+          "en": "A perspicacious friend is rare and exhausting — they see what you're avoiding, and won't pretend they didn't.",
+          "zh": "一个敏锐的朋友很稀有，也很累人 — 他能看见你在回避什么，且不肯假装没看见。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "敏锐",
+      "tint": "7a5fa6",
+      "mnemonic": {
+        "en": "Per + Specere = SEE-THROUGH. Perspicacious = the gaze that doesn't stop at the surface.",
+        "zh": "Per + Specere = 看穿。Perspicacious = 不停在表面的目光。"
+      },
+      "commonConfusions": [
+        "perceptive",
+        "shrewd",
+        "astute"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Perceptive and perspicacious are close. What does perspicacious add?",
+            "zh": "Perceptive 和 perspicacious 接近。Perspicacious 多了什么？"
+          },
+          "answer": {
+            "en": "Perceptive = notices subtle things. Perspicacious = notices AND draws the right conclusion. One is good eyes. The other is good eyes plus good reading.",
+            "zh": "Perceptive = 注意到细微的东西。Perspicacious = 注意到，且能得出正确结论。一个是好眼睛，一个是好眼睛加好判断。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Sherlock Holmes wasn't a wizard — he was perspicacious. He saw what everyone else saw: scuffed shoes, a tan line, the slight slump of a shoulder. The difference was reading them in the right order. Most insight is paying attention plus drawing the line.",
+        "zh": "夏洛克·福尔摩斯不是魔法师 — 他只是 perspicacious。他看到的东西和别人一样：磨破的鞋、晒痕、肩膀微微下沉。区别只是把它们按对的顺序串起来。大部分的洞察，是注意力加上画出那条线。"
+      }
+    },
+    {
+      "word": "Suave",
+      "phonetic": "SWAHV",
+      "chinese": "温文尔雅的、圆润的",
+      "definition": {
+        "en": "Smoothly polished in manner — graceful, charming, never awkward. Suave isn't slick (which implies dishonesty). It's the social ease that comes from genuinely caring how others feel.",
+        "zh": "举止圆润优雅 — 得体、迷人、不会让场面尴尬。Suave 不是'油滑'（那带欺骗意味）— 是因为真正在意别人感受而形成的从容。"
+      },
+      "etymology": {
+        "root": "suavis",
+        "meaning": "sweet, agreeable",
+        "meaningZh": "甜美、令人愉悦",
+        "en": "From Latin suavis = 'sweet, pleasant.' Same suavis hidden in 'persuade' (per- + suadere, 'sweet-talking through to'), 'dissuade,' and 'assuage.' The whole family is about softening the receiving ear.",
+        "zh": "拉丁 suavis = 甜美、令人愉悦。同一个 suavis 藏在 persuade（说服，'用甜话穿过去'）、dissuade（劝阻）、assuage（缓解）里。整族词都是关于'让听的耳朵变软'。",
+        "relatives": [
+          {
+            "word": "persuade",
+            "zh": "说服"
+          },
+          {
+            "word": "dissuade",
+            "zh": "劝阻"
+          },
+          {
+            "word": "assuage",
+            "zh": "缓解、安抚"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He's suave with clients — disagreement comes out as a thoughtful follow-up question, never a 'but.'",
+          "zh": "他和客户打交道很圆润 — 反对意见以一个深思熟虑的追问出现，从来不是'可是'。"
+        },
+        {
+          "context": "social",
+          "en": "Suave isn't a costume you put on. It's the patience to notice what the room needs before you say what YOU need.",
+          "zh": "Suave 不是一套穿上的衣服 — 是先看清屋子需要什么、再说出你需要什么的那种耐心。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "圆润",
+      "tint": "5a8a7a",
+      "mnemonic": {
+        "en": "Suavis = SWEET. A suave person doesn't sweeten by adding sugar — they sweeten by removing what would have hurt.",
+        "zh": "Suavis = 甜。圆润的人不是靠加糖让事情变甜 — 是靠去掉本来会让人受伤的东西。"
+      },
+      "commonConfusions": [
+        "sophisticated",
+        "polished",
+        "smooth"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Suave and slick both describe smoothness. Where's the moral line?",
+            "zh": "Suave 和 slick 都形容圆滑。道德上的界线在哪？"
+          },
+          "answer": {
+            "en": "Suave is smoothness that respects the listener. Slick is smoothness that USES the listener. Same skill, opposite motive.",
+            "zh": "Suave 是尊重听者的圆润。Slick 是利用听者的油滑。同样的本事，方向相反。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The diplomat Richard Holbrooke was suave in negotiations — he could disagree with a warlord, in front of cameras, and somehow leave the room with both his message delivered and a handshake. Suave at the highest level isn't charm. It's the engineering of consent.",
+        "zh": "外交官理查德·霍尔布鲁克在谈判桌上是 suave 的典范 — 他能当着摄像机和军阀唱反调，最后还能留下'传达了立场，并握了手'两件事。最高层的 suave 不是魅力，是'让别人愿意点头'的工程学。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Ingenuous and suave are far apart in style. But both are about HOW a person carries themselves into a room.",
+      "zh": "Ingenuous 和 suave 风格相差很远。但两者都关乎一个人怎样'把自己带进屋子'。"
+    },
+    "leftLabel": "Ingenuous",
+    "leftLine": {
+      "en": "Carries nothing in. No mask, no plan.",
+      "zh": "什么也不带进来。没有面具，没有计划。"
+    },
+    "leftMnemonic": {
+      "en": "In + Gignere = BORN-IN (freeborn) · transparent.",
+      "zh": "In + Gignere = 生而自由 · 透明。"
+    },
+    "rightLabel": "Suave",
+    "rightLine": {
+      "en": "Carries a lot in — and makes it weigh nothing.",
+      "zh": "带很多东西进来 — 却让它们看上去毫无分量。"
+    },
+    "rightMnemonic": {
+      "en": "Suavis = SWEET · polished.",
+      "zh": "Suavis = 甜 · 圆润。"
+    },
+    "closing": {
+      "en": "One trusts the room with the unvarnished. The other trusts the room with the varnished. Both can be honest.",
+      "zh": "一个相信屋子能接受'未上漆的'。另一个相信屋子能接受'上了漆的'。两种都可以是诚实的。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Different textures suit different rooms. The trouble starts when we wear the wrong one — ingenuous in a diplomatic dinner, suave with a friend who needed the truth fast.",
+      "zh": "不同的质地适合不同的屋子。麻烦出现在我们穿错了 — 在外交晚宴上太天真，对一个急需真话的朋友太圆润。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/ingenuous-perspicacious-suave/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/ingenuous-perspicacious-suave/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/ingenuous-perspicacious-suave/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/ingenuous-perspicacious-suave/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/ingenuous-perspicacious-suave/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/ingenuous-perspicacious-suave/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/ingenuous-perspicacious-suave/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/ingenuous-perspicacious-suave/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/ingenuous-perspicacious-suave/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/ingenuous-perspicacious-suave/twist.left.wav",
+    "twist.right": "audio/vocab/ingenuous-perspicacious-suave/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/ingenuous-perspicacious-suave/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/ingenuous-perspicacious-suave/hook.headline.wav",
+    "word.0.definition": "audio/vocab/ingenuous-perspicacious-suave/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/ingenuous-perspicacious-suave/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/ingenuous-perspicacious-suave/word.2.definition.wav",
+    "twist.setup": "audio/vocab/ingenuous-perspicacious-suave/twist.setup.wav",
+    "twist.closing": "audio/vocab/ingenuous-perspicacious-suave/twist.closing.wav",
+    "recap.reflection": "audio/vocab/ingenuous-perspicacious-suave/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 12,
+    "session": 34,
+    "pages": [
+      341,
+      400
+    ],
+    "theme": "Flattery (positive labels)",
+    "subtheme": "Three character textures — transparent, sharp, smooth"
+  },
+  "tags": [
+    "flattery",
+    "virtues",
+    "character",
+    "ch12",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "genuine",
+      "zh": "真正的、纯正的",
+      "root": "ingenuus",
+      "partOfSpeech": "adj.",
+      "phonetic": "JEN'-yoo-in",
+      "gloss": {
+        "en": "Real, not fake — from the same gignere (to be born) as 'ingenuous.' A genuine smile is the one that didn't have to be assembled.",
+        "zh": "真的，不是假的 — 来自和 ingenuous 同一个 gignere（生）。真正的微笑，是不必组装的那一种。"
+      },
+      "usage": {
+        "en": "Genuine kindness costs more than performative kindness — you can't budget for it in advance.",
+        "zh": "真正的善意比'表演的善意'更费力 — 因为你没法预先安排它的预算。"
+      }
+    },
+    {
+      "word": "genesis",
+      "zh": "起源、创世",
+      "root": "ingenuus",
+      "partOfSpeech": "n.",
+      "phonetic": "JEN'-i-sis",
+      "gloss": {
+        "en": "The beginning — directly from Greek genesis (birth), the same root family as ingenuus. The Bible's first book gets its name from this.",
+        "zh": "起源 — 直接来自希腊 genesis（生），与 ingenuus 同一词族。圣经的第一本书因此得名。"
+      },
+      "usage": {
+        "en": "Every long story has a small genesis — a meeting, a sentence, a refused offer.",
+        "zh": "每个长故事都有一个小小的起源 — 一次会面、一句话、一份被拒绝的邀请。"
+      }
+    },
+    {
+      "word": "gene",
+      "zh": "基因",
+      "root": "ingenuus",
+      "partOfSpeech": "n.",
+      "phonetic": "JEEN",
+      "gloss": {
+        "en": "Unit of heredity — from the same gignere (to be born). What gets carried forward when life is born again.",
+        "zh": "遗传单位 — 来自同一个 gignere（生）。当生命再被生下时，被携带向前的东西。"
+      },
+      "usage": {
+        "en": "We share more genes with a banana than the family resemblance suggests — biology is humbling.",
+        "zh": "我们和香蕉共享的基因比'像不像家人'暗示的还多 — 生物学是让人谦卑的。"
+      }
+    },
+    {
+      "word": "inspect",
+      "zh": "检查、视察",
+      "root": "specere",
+      "partOfSpeech": "v.",
+      "phonetic": "in-SPEKT'",
+      "gloss": {
+        "en": "To look into — in- (in, into) + specere (look). Same root family as 'perspicacious.'",
+        "zh": "看入 — in-（向内）+ specere（看）。和 perspicacious 同一词族。"
+      },
+      "usage": {
+        "en": "Code that's never inspected develops its own ecology — bugs that have been thriving for years.",
+        "zh": "从不被检查的代码会发展出自己的生态 — 那些已经繁衍多年的 bug。"
+      }
+    },
+    {
+      "word": "respect",
+      "zh": "尊重",
+      "root": "specere",
+      "partOfSpeech": "n./v.",
+      "phonetic": "ri-SPEKT'",
+      "gloss": {
+        "en": "Literally 'to look back' — re- (back) + specere. To look again — and take what you see seriously.",
+        "zh": "字面是'回头看' — re-（回）+ specere。再看一次 — 并且认真对待看到的东西。"
+      },
+      "usage": {
+        "en": "Real respect isn't deference — it's the willingness to look at someone twice instead of glancing once.",
+        "zh": "真正的尊重不是恭敬 — 是愿意把目光在某人身上停两次，而不是瞥一眼就走。"
+      }
+    },
+    {
+      "word": "perspective",
+      "zh": "视角、看法",
+      "root": "specere",
+      "partOfSpeech": "n.",
+      "phonetic": "par-SPEK'-tiv",
+      "gloss": {
+        "en": "Literally 'a seeing-through' — per- (through) + specere. The angle from which you see the picture.",
+        "zh": "字面是'透视而看' — per-（穿过）+ specere。看到画面的那个角度。"
+      },
+      "usage": {
+        "en": "Perspective doesn't change the facts — it changes which facts you notice.",
+        "zh": "视角不改变事实 — 它改变你注意到的是哪些事实。"
+      }
+    },
+    {
+      "word": "suspect",
+      "zh": "怀疑、嫌疑",
+      "root": "specere",
+      "partOfSpeech": "v./n.",
+      "phonetic": "sa-SPEKT' (v.) / SUS'-pekt (n.)",
+      "gloss": {
+        "en": "Literally 'to look from below' — sub- (under) + specere. A suspicious look comes from below — gauging, not greeting.",
+        "zh": "字面是'从下往上看' — sub-（在下）+ specere。怀疑的目光是从下方来的 — 在掂量，而不是在打招呼。"
+      },
+      "usage": {
+        "en": "We suspect what we don't yet understand — sometimes accurately, sometimes only because the shape is new.",
+        "zh": "我们怀疑还不理解的东西 — 有时怀疑得对，有时只是因为形状陌生。"
+      }
+    },
+    {
+      "word": "spectator",
+      "zh": "旁观者",
+      "root": "specere",
+      "partOfSpeech": "n.",
+      "phonetic": "SPEK'-tay-tar",
+      "gloss": {
+        "en": "One who watches — directly from specere. The role most of us play most of the time.",
+        "zh": "在看的人 — 直接来自 specere。我们大多数人，大多数时候在扮演的角色。"
+      },
+      "usage": {
+        "en": "Being a spectator is comfortable — but a life made entirely of spectatorship eventually feels like missing your own movie.",
+        "zh": "做旁观者很舒服 — 但一辈子完全做旁观者，最终会感觉像错过了自己的那部电影。"
+      }
+    },
+    {
+      "word": "persuade",
+      "zh": "说服",
+      "root": "suavis",
+      "partOfSpeech": "v.",
+      "phonetic": "par-SWAYD'",
+      "gloss": {
+        "en": "Literally 'to sweet-talk through' — per- (through) + suadere (urge, from suavis 'sweet'). Same suavis as 'suave.'",
+        "zh": "字面是'甜言软语地穿过去' — per-（穿过）+ suadere（劝，从 suavis '甜'派生）。和 suave 同根。"
+      },
+      "usage": {
+        "en": "You can't persuade someone past their identity — only past their position. Know which one you're up against.",
+        "zh": "你说服不了一个人放下他的身份 — 你只能让他放下他的立场。要分清自己面对的是哪一个。"
+      }
+    },
+    {
+      "word": "dissuade",
+      "zh": "劝阻、劝退",
+      "root": "suavis",
+      "partOfSpeech": "v.",
+      "phonetic": "di-SWAYD'",
+      "gloss": {
+        "en": "Literally 'to sweet-talk away from' — dis- (away) + suadere. Talking someone OUT of an action, gently.",
+        "zh": "字面是'用软话把人引开' — dis-（离开）+ suadere。温和地把人从一个行动里劝出来。"
+      },
+      "usage": {
+        "en": "It's easier to dissuade than to persuade — taking something off the table costs less than putting something new on.",
+        "zh": "劝阻比说服容易 — 把一个选项从桌上拿掉，比把新东西放上去成本低。"
+      }
+    },
+    {
+      "word": "assuage",
+      "zh": "缓和、平息",
+      "root": "suavis",
+      "partOfSpeech": "v.",
+      "phonetic": "a-SWAYJ'",
+      "gloss": {
+        "en": "To soothe — from suavis (sweet). To make something less sharp: anger, hunger, grief.",
+        "zh": "缓和 — 来自 suavis（甜）。让某种东西不那么锋利：怒气、饥饿、悲伤。"
+      },
+      "usage": {
+        "en": "Time doesn't heal grief — it just assuages it. The shape stays. The edges round.",
+        "zh": "时间并不治愈悲伤 — 它只是缓和它。形状还在，棱角变圆。"
+      }
+    },
+    {
+      "word": "candid",
+      "zh": "坦率的、直言不讳的",
+      "root": "candidus",
+      "partOfSpeech": "adj.",
+      "phonetic": "KAN'-did",
+      "gloss": {
+        "en": "Frank and honest — from Latin candidus (white, shining). In ancient Rome, candidates for office wore white togas to signal their purity of intention — hence 'candidate.' Frankness was the visible sign.",
+        "zh": "坦率诚实 — 来自拉丁 candidus（白、亮）。古罗马，竞选公职的人穿白色长袍以示意图纯净 — 所以叫 candidate（候选人）。坦率，是可见的标志。"
+      },
+      "usage": {
+        "en": "Be candid in private and tactful in public — the same truth, told at the right altitude.",
+        "zh": "私下坦率，公开得体 — 同一句真话，在不同的高度说出来。"
+      },
+      "rootMeaning": "white, bright (Latin)",
+      "rootMeaningZh": "白、亮（拉丁）",
+      "rootTint": "8a8aa6"
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "lessonId": "disparage-malign-equivocate",
+  "hook": {
+    "headline": {
+      "en": "Three verbs that quietly do harm — with nothing but words.",
+      "zh": "三个安静地造成伤害的动词 — 只用语言。"
+    },
+    "subtext": {
+      "en": "Trim them down, tear at them, or dodge the truth — all three leave a mark.",
+      "zh": "把人削一点、撕咬一下、或干脆回避 — 三种都会留下印子。"
+    }
+  },
+  "words": [
+    {
+      "word": "Disparage",
+      "phonetic": "dis-PAIR'-ij",
+      "chinese": "贬低、轻视",
+      "definition": {
+        "en": "To talk down — to lower someone or something in worth, often subtly, sometimes with a smile.",
+        "zh": "把人或事说低 — 削减它的价值，通常是含蓄的，有时甚至带着笑。"
+      },
+      "etymology": {
+        "root": "par",
+        "meaning": "equal",
+        "meaningZh": "相等、对等",
+        "en": "From Latin par = 'equal' — same par as 'compare,' 'parity,' 'peer.' Dis- (apart, away) + parage (rank, equality). Literally: 'to treat as unequal' — to push someone below their level.",
+        "zh": "拉丁词根 par = 相等。同根的有 compare（比较）、parity（对等）、peer（同辈）。Dis-（分开、向下）+ parage（等级、对等）。字面意思：把人当作不对等的 — 把他往下推。",
+        "relatives": [
+          {
+            "word": "compare",
+            "zh": "比较（一同看作对等）"
+          },
+          {
+            "word": "parity",
+            "zh": "对等"
+          },
+          {
+            "word": "peer",
+            "zh": "同辈、平等的人"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She doesn't openly disparage her colleagues — she just asks, 'oh, did they work on that?' with the slightest pause.",
+          "zh": "她不会公开贬低同事 — 她只是带着一丁点儿停顿，问一句'哦，是他们做的那个项目？'"
+        },
+        {
+          "context": "social",
+          "en": "Don't disparage your own ideas before pitching them — the room will believe whatever you tell it first.",
+          "zh": "提案之前别先贬低自己的想法 — 你先说什么，整屋人就先信什么。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "贬低",
+      "tint": "b86464",
+      "mnemonic": {
+        "en": "Dis + Par = NOT + EQUAL. The art of taking one polite step down a person's standing — and then pretending you didn't.",
+        "zh": "Dis + Par = 不 + 对等。把一个人的地位很礼貌地往下踩半步，然后装作没踩。"
+      },
+      "commonConfusions": [
+        "belittle",
+        "criticize",
+        "demean"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Belittle and disparage are close. What's the texture difference?",
+            "zh": "Belittle 和 disparage 接近。质感上有什么差别？"
+          },
+          "answer": {
+            "en": "Belittle is direct — 'that's small.' Disparage is sideways — 'compared to real work…' One punches. The other trims.",
+            "zh": "Belittle 是直接的 — '这没什么大不了'。Disparage 是侧面的 — '跟真正的工作比起来…' 一个是拳头，一个是修剪。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The most disparaging review I ever read of a friend's book was just one sentence: 'Ambitious, for a first attempt.' Nothing in it was technically wrong. The harm lived in 'for.' The reader gets to feel charitable. The author has to walk around with it for years.",
+        "zh": "我读过对朋友的书最贬低的一条书评，只有一句话：'对于首次尝试来说，挺有野心的。'里面没有一个词技术上是错的。伤害藏在'对于…来说'这五个字里。读者享受'我已经够宽容了'的感觉，作者却要带着这句话走好多年。"
+      }
+    },
+    {
+      "word": "Malign",
+      "phonetic": "ma-LIN'",
+      "chinese": "诋毁、中伤",
+      "definition": {
+        "en": "To speak evil of someone — to actively damage their reputation with words.",
+        "zh": "公开说一个人的坏话 — 用语言主动伤害他的名誉。"
+      },
+      "etymology": {
+        "root": "mal",
+        "meaning": "bad, evil",
+        "meaningZh": "坏、恶",
+        "en": "From Latin malignus = 'of bad nature' — mal (bad) + gignere (to be born). Same mal as 'malicious,' 'malevolent,' 'malady,' 'malware.' When mal- appears in a word, expect harm.",
+        "zh": "拉丁 malignus = '本性恶' — mal（坏）+ gignere（生）。同一个 mal 出现在 malicious（恶意的）、malevolent（怀有恶意的）、malady（疾病）、malware 里。一看到 mal-，就要小心。",
+        "relatives": [
+          {
+            "word": "malicious",
+            "zh": "恶意的"
+          },
+          {
+            "word": "malevolent",
+            "zh": "心怀恶意的"
+          },
+          {
+            "word": "malady",
+            "zh": "疾病、弊端"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He was maligned in three meetings before anyone told him — by then the room had already decided.",
+          "zh": "他在三次会议里被中伤，才有人告诉他 — 那时整间屋子已经下了结论。"
+        },
+        {
+          "context": "friends",
+          "en": "Don't malign someone who isn't in the room — the only person you tell something about is yourself.",
+          "zh": "别在背后中伤一个不在场的人 — 你说的关于他的事，其实是在告诉别人你是谁。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "诋毁",
+      "tint": "6e4870",
+      "mnemonic": {
+        "en": "Mal = BAD. Malign = speak BAD — with intent. Not gossip that slipped out, but reputation-damage on purpose.",
+        "zh": "Mal = 坏。Malign = 说坏 — 故意的。不是不小心说漏嘴，是有意伤害名声。"
+      },
+      "commonConfusions": [
+        "slander",
+        "defame",
+        "vilify"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Slander and malign are close. Which one is more legal?",
+            "zh": "Slander 和 malign 接近。哪个更'法律'？"
+          },
+          "answer": {
+            "en": "Slander is a legal term — spoken false statements that cause harm. Malign is broader — true or false, the act of speaking ill in a way that damages.",
+            "zh": "Slander 是法律术语 — 说出的虚假陈述并造成伤害。Malign 范围更广 — 不论真假，凡是说话伤害他人名声的行为都算。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Lincoln's law partner once said: 'Lincoln would refuse a case if he had to malign someone he didn't believe deserved it.' He kept the bar lower than the law — that the words spoken in court still had to be true to the person speaking them.",
+        "zh": "林肯的律师合伙人曾说：'如果案件要求中伤一个林肯不认为该被中伤的人，他会拒绝接案。'他给自己定的底线比法律还高 — 法庭上说出的话，必须对得起说话的那个人。"
+      }
+    },
+    {
+      "word": "Equivocate",
+      "phonetic": "ee-KWIV'-a-kayt",
+      "chinese": "含糊其辞、模棱两可",
+      "definition": {
+        "en": "To use language that could be taken two ways — on purpose. The equivocator hasn't lied. They've just made sure you can't pin them down.",
+        "zh": "故意用可以理解成两种意思的话 — 含糊其辞的人没说谎，但他让你抓不住他到底说了什么。"
+      },
+      "etymology": {
+        "root": "aequus",
+        "meaning": "equal",
+        "meaningZh": "对等、相等",
+        "en": "From Latin aequi (equal) + vocare (to call). Literally: 'to call equally' — to leave both interpretations equally available. Same aequus that gives us 'equal,' 'equity,' 'equanimity,' and 'equilibrium.'",
+        "zh": "拉丁 aequi（相等）+ vocare（叫、说）。字面意思：'平等地说' — 让两种解释一样成立。同根的还有 equal、equity（公平）、equanimity（平心静气）、equilibrium（平衡）。",
+        "relatives": [
+          {
+            "word": "equal",
+            "zh": "对等"
+          },
+          {
+            "word": "equity",
+            "zh": "公平、权益"
+          },
+          {
+            "word": "equanimity",
+            "zh": "平心静气"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "When asked if the launch was on track, he equivocated — and everyone walked out knowing the answer was no.",
+          "zh": "被问到发布是否按计划进行时，他含糊其辞 — 所有人散会时都已经知道答案是'没有'。"
+        },
+        {
+          "context": "friends",
+          "en": "If you have to ask twice whether they love you, they're equivocating — and that's already an answer.",
+          "zh": "如果你得问两次'你爱不爱我'，他在含糊其辞 — 那本身就是答案。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "模棱",
+      "tint": "889aac",
+      "mnemonic": {
+        "en": "Aequi + Voc = EQUAL-VOICE. Two readings, kept perfectly balanced. Whichever one bites you, the speaker can claim they meant the other.",
+        "zh": "Aequi + Voc = 平等-说话。两种解释，被完美地放在天平上。无论哪种伤到你，他都可以说自己其实指的是另一种。"
+      },
+      "commonConfusions": [
+        "evade",
+        "prevaricate",
+        "hedge"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Hedge and equivocate both dodge. Where's the line?",
+            "zh": "Hedge 和 equivocate 都在闪躲。区别在哪？"
+          },
+          "answer": {
+            "en": "Hedging protects YOU from being wrong. Equivocating protects you from being PINNED. Hedging hedges. Equivocating misleads.",
+            "zh": "Hedge 是保护自己不被证明错。Equivocate 是保护自己不被'钉死'。Hedge 在留余地，equivocate 在误导。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "In Macbeth, Shakespeare invented a porter who imagines welcoming an 'equivocator' to hell — 'who could swear in both the scales against either scale, who committed treason enough for God's sake, yet could not equivocate to heaven.' He saw equivocation as a kind of moral fog — the lie that's technically not a lie.",
+        "zh": "在《麦克白》里，莎士比亚写了一个守门人，想象自己迎接一个'含糊其辞之人'下地狱 — '他能在两边天平上各立一誓、骂尽对面，犯下足够多的叛国之罪，到了天堂之门却含糊不过去了。'他把'含糊其辞'看作一种道德上的迷雾 — 那种技术上不算说谎的谎。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both speak ill. But one trims you down. The other tears at you.",
+      "zh": "两人都在说坏话。但一个把你削小一圈，一个直接咬你一口。"
+    },
+    "leftLabel": "Disparage",
+    "leftLine": {
+      "en": "Downplays. Subtle. Polite even.",
+      "zh": "贬低。轻巧。甚至礼貌。"
+    },
+    "leftMnemonic": {
+      "en": "Dis + Par = NOT-EQUAL · the quiet 'less than.'",
+      "zh": "Dis + Par = 不 + 对等 · 安静的'低你一截'。"
+    },
+    "rightLabel": "Malign",
+    "rightLine": {
+      "en": "Attacks the reputation. No subtlety.",
+      "zh": "直击名声。毫不含蓄。"
+    },
+    "rightMnemonic": {
+      "en": "Mal = BAD · speaks evil on purpose.",
+      "zh": "Mal = 坏 · 有意地说坏话。"
+    },
+    "closing": {
+      "en": "One says you're not enough. The other says you're bad. Both leave a mark.",
+      "zh": "一个说你不够好，一个说你坏。两种都留印子。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Most damage isn't done by big words — it's done by small ones, said often. The careful listener learns to notice the trim, the slander, and the dodge.",
+      "zh": "大多数伤害不是大词造成的 — 是小词，说多了的小词。会听话的人，慢慢学会分辨贬低、中伤、和闪躲。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/disparage-malign-equivocate/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/disparage-malign-equivocate/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/disparage-malign-equivocate/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/disparage-malign-equivocate/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/disparage-malign-equivocate/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/disparage-malign-equivocate/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/disparage-malign-equivocate/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/disparage-malign-equivocate/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/disparage-malign-equivocate/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/disparage-malign-equivocate/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/disparage-malign-equivocate/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/disparage-malign-equivocate/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/disparage-malign-equivocate/twist.left.wav",
+    "twist.right": "audio/vocab/disparage-malign-equivocate/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/disparage-malign-equivocate/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/disparage-malign-equivocate/hook.headline.wav",
+    "word.0.definition": "audio/vocab/disparage-malign-equivocate/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/disparage-malign-equivocate/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/disparage-malign-equivocate/word.2.definition.wav",
+    "twist.setup": "audio/vocab/disparage-malign-equivocate/twist.setup.wav",
+    "twist.closing": "audio/vocab/disparage-malign-equivocate/twist.closing.wav",
+    "recap.reflection": "audio/vocab/disparage-malign-equivocate/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 9,
+    "session": 17,
+    "pages": [
+      191,
+      215
+    ],
+    "theme": "Actions",
+    "subtheme": "Tearing down with words"
+  },
+  "tags": [
+    "actions",
+    "verbs",
+    "speech-harm",
+    "ch9",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "compare",
+      "zh": "比较",
+      "root": "par",
+      "partOfSpeech": "v.",
+      "phonetic": "kam-PAIR'",
+      "gloss": {
+        "en": "To place side by side as equals — com- (together) + par (equal). Comparison assumes the two are worth measuring against each other.",
+        "zh": "把两个东西并排，当作可以比较的对等 — com-（一起）+ par（对等）。'比较'前提是两者值得放在一起衡量。"
+      },
+      "usage": {
+        "en": "Comparison is the thief of joy — until you compare yourself to who you were five years ago.",
+        "zh": "比较是快乐的小偷 — 除非你和五年前的自己比。"
+      }
+    },
+    {
+      "word": "parity",
+      "zh": "对等、平价",
+      "root": "par",
+      "partOfSpeech": "n.",
+      "phonetic": "PAIR'-i-tee",
+      "gloss": {
+        "en": "The state of being equal — directly from par. Used in pay parity, currency parity, and parliamentary debate.",
+        "zh": "对等的状态 — 直接来自 par。常用于薪资对等、汇率对等、议会辩论。"
+      },
+      "usage": {
+        "en": "Pay parity isn't generosity — it's the absence of taking a discount on someone's work.",
+        "zh": "薪资对等不是慷慨 — 是不再从某些人的劳动上打折扣。"
+      }
+    },
+    {
+      "word": "peer",
+      "zh": "同辈、平等者",
+      "root": "par",
+      "partOfSpeech": "n.",
+      "phonetic": "PEER",
+      "gloss": {
+        "en": "Someone of equal standing — from Old French per, from Latin par. Same par as 'parity' and 'compare.'",
+        "zh": "地位对等的人 — 来自古法语 per，源自拉丁 par。和 parity、compare 同根。"
+      },
+      "usage": {
+        "en": "A peer can disagree with you without diminishing you. That's what makes them peers.",
+        "zh": "一个同辈可以和你意见不同而不矮化你。正因为如此，他才是同辈。"
+      }
+    },
+    {
+      "word": "malicious",
+      "zh": "恶意的",
+      "root": "mal",
+      "partOfSpeech": "adj.",
+      "phonetic": "ma-LISH'-as",
+      "gloss": {
+        "en": "Full of malice — wishing harm. From Latin malitia (badness), built on mal.",
+        "zh": "充满恶意 — 希望对方受到伤害。来自拉丁 malitia（坏），由 mal 构成。"
+      },
+      "usage": {
+        "en": "Never attribute to malice what can be explained by carelessness — but stay alert if carelessness keeps choosing the same victim.",
+        "zh": "能用'粗心'解释的事情，不要轻易归为'恶意' — 但如果'粗心'总是挑同一个对象，要警觉。"
+      }
+    },
+    {
+      "word": "malevolent",
+      "zh": "心怀恶意的",
+      "root": "mal",
+      "partOfSpeech": "adj.",
+      "phonetic": "ma-LEV'-a-lant",
+      "gloss": {
+        "en": "Wishing evil — mal (bad) + velle (to wish). The opposite of 'benevolent' (wishing good).",
+        "zh": "希望对方倒霉 — mal（坏）+ velle（希望）。和 benevolent（希望对方好）正好相反。"
+      },
+      "usage": {
+        "en": "Most cruelty isn't malevolent — it's just convenience that forgot to ask who'd pay for it.",
+        "zh": "大多数的残忍并非真正心怀恶意 — 只是某种便利忘了问'谁要为这个付出代价'。"
+      }
+    },
+    {
+      "word": "malady",
+      "zh": "疾病、弊端",
+      "root": "mal",
+      "partOfSpeech": "n.",
+      "phonetic": "MAL'-a-dee",
+      "gloss": {
+        "en": "An illness — physical or social. Literally a 'bad-state.' Same mal as 'malign' and 'malicious.'",
+        "zh": "疾病 — 身体的或社会的。字面意思是'糟糕的状态'。和 malign、malicious 同根。"
+      },
+      "usage": {
+        "en": "Loneliness is the modern malady — we connect more and reach each other less.",
+        "zh": "孤独是这个时代的病 — 我们联系得更多，却更难真正抵达彼此。"
+      }
+    },
+    {
+      "word": "equity",
+      "zh": "公平、权益",
+      "root": "aequus",
+      "partOfSpeech": "n.",
+      "phonetic": "EK'-wi-tee",
+      "gloss": {
+        "en": "Fairness — the state of treating people equally based on need. Directly from aequus.",
+        "zh": "公平 — 根据需要平等对待每一个人的状态。直接来自 aequus。"
+      },
+      "usage": {
+        "en": "Equality gives everyone the same shoes. Equity gives everyone shoes that fit.",
+        "zh": "平等是给每个人一样的鞋。公平是给每个人一双合脚的鞋。"
+      }
+    },
+    {
+      "word": "equanimity",
+      "zh": "平心静气、镇定",
+      "root": "aequus",
+      "partOfSpeech": "n.",
+      "phonetic": "ee'-kwa-NIM'-i-tee",
+      "gloss": {
+        "en": "Calm of mind — aequus (equal) + animus (mind, spirit). A mind kept level when life isn't.",
+        "zh": "心境的平稳 — aequus（平等）+ animus（心、灵）。当生活不平时，心保持平。"
+      },
+      "usage": {
+        "en": "Equanimity isn't not feeling. It's feeling — and then continuing to make sense.",
+        "zh": "平心静气不是没感觉 — 是感觉到了，然后依然能讲清道理。"
+      }
+    },
+    {
+      "word": "equilibrium",
+      "zh": "平衡、均衡",
+      "root": "aequus",
+      "partOfSpeech": "n.",
+      "phonetic": "ee'-kwa-LIB'-ree-am",
+      "gloss": {
+        "en": "Balance — aequus (equal) + libra (scale, balance). The state when two forces hold each other steady.",
+        "zh": "平衡 — aequus（平等）+ libra（天平）。两种力量互相稳住的状态。"
+      },
+      "usage": {
+        "en": "Equilibrium isn't stillness — it's two opposite things pulling at exactly the same strength.",
+        "zh": "平衡不是静止 — 是两个相反的力，用完全相同的力气在拉。"
+      }
+    },
+    {
+      "word": "advocate",
+      "zh": "倡导者、辩护",
+      "root": "vox",
+      "partOfSpeech": "n./v.",
+      "phonetic": "AD'-va-kit (n.) / AD'-va-kayt (v.)",
+      "gloss": {
+        "en": "One who speaks FOR someone — ad- (toward) + vocare (to call). Same vox/vocare hidden inside 'equivocate.'",
+        "zh": "替别人说话的人 — ad-（向）+ vocare（叫、说）。和 equivocate 里藏的是同一个 vox/vocare。"
+      },
+      "usage": {
+        "en": "A real advocate doesn't speak louder — they make the quietest person in the room audible.",
+        "zh": "真正的倡导者不是嗓门更大 — 而是让屋子里最安静的那个人也能被听见。"
+      },
+      "rootMeaning": "voice, to call",
+      "rootMeaningZh": "声音、呼唤",
+      "rootTint": "8e6ea8"
+    },
+    {
+      "word": "invoke",
+      "zh": "援引、唤起",
+      "root": "vox",
+      "partOfSpeech": "v.",
+      "phonetic": "in-VOK'",
+      "gloss": {
+        "en": "To call something in — in- (in) + vocare (to call). To summon a name, a right, a memory.",
+        "zh": "把某样东西召唤进来 — in-（向内）+ vocare（叫）。召唤一个名字、一项权利、一段记忆。"
+      },
+      "usage": {
+        "en": "She invoked her grandmother's name like a charm — and the room quieted as if her grandmother had walked in.",
+        "zh": "她像念咒一样唤出祖母的名字 — 整间屋子瞬间安静，仿佛祖母真的走了进来。"
+      }
+    },
+    {
+      "word": "provoke",
+      "zh": "激起、引发",
+      "root": "vox",
+      "partOfSpeech": "v.",
+      "phonetic": "pra-VOK'",
+      "gloss": {
+        "en": "To call forth a reaction — pro- (forth) + vocare (to call). Often used for stirring up emotion or action.",
+        "zh": "唤出一种反应 — pro-（向前）+ vocare（叫）。常用于激起情绪或行动。"
+      },
+      "usage": {
+        "en": "Good questions provoke better than answers do — answers close. Questions open.",
+        "zh": "好的问题比答案更能激发思考 — 答案关上一扇门，问题打开一扇门。"
+      }
+    }
+  ]
+}

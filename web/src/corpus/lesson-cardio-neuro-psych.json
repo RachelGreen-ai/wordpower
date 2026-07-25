@@ -1,0 +1,613 @@
+{
+  "lessonId": "cardio-neuro-psych",
+  "hook": {
+    "headline": {
+      "en": "Three doctors. Three invisible territories.",
+      "zh": "三位医生，三个看不见的领域。"
+    },
+    "subtext": {
+      "en": "Heart, nerves, mind — the body's quiet engines.",
+      "zh": "心脏、神经、心灵 — 身体里安静运转的引擎。"
+    }
+  },
+  "words": [
+    {
+      "word": "Cardiologist",
+      "phonetic": "kahr-dee-OL'-o-jist",
+      "chinese": "心脏病医生",
+      "definition": {
+        "en": "A doctor who specializes in the heart and circulatory system — the body's central pump.",
+        "zh": "专攻心脏与循环系统的医生 — 身体的中央泵。"
+      },
+      "etymology": {
+        "root": "cardia",
+        "meaning": "heart",
+        "meaningZh": "心脏",
+        "en": "From Greek kardia = heart, plus -logist (one who studies).",
+        "zh": "希腊词根 kardia = 心脏，加 -logist（研究者）。",
+        "relatives": [
+          {
+            "word": "cardiac",
+            "zh": "心脏的"
+          },
+          {
+            "word": "cardiovascular",
+            "zh": "心血管的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "After his father's heart attack, he started seeing a cardiologist every six months — preventive, not panicked.",
+          "zh": "父亲心脏病发作之后，他每半年看一次心脏病医生 — 是预防，不是恐慌。"
+        },
+        {
+          "context": "workplace",
+          "en": "She left finance to become a cardiologist — twelve years of training to do work that actually keeps people alive.",
+          "zh": "她离开金融业去做心脏病医生 — 用十二年的训练，去做真正让人活下来的工作。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "心脏",
+      "tint": "c84a4a",
+      "mnemonic": {
+        "en": "CARDIOLOGIST = kardia (heart) + logist (one who studies). The heart's expert.",
+        "zh": "cardiologist = kardia（心脏）+ logist（研究者）。心脏的专家。"
+      },
+      "commonConfusions": [
+        "cardiac surgeon",
+        "general practitioner"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Is a cardiologist the same as a cardiac surgeon?",
+            "zh": "心脏病医生（cardiologist）和心脏外科医生（cardiac surgeon）一样吗？"
+          },
+          "answer": {
+            "en": "No. A cardiologist diagnoses and manages heart conditions, often with medication. A cardiac surgeon operates. You usually see the cardiologist first.",
+            "zh": "不一样。心脏病医生诊断和管理心脏疾病，多用药物；心脏外科医生做手术。通常你先看的是心脏病医生。"
+          }
+        },
+        {
+          "question": {
+            "en": "What does the 'cardio' in cardio workout share with cardiologist?",
+            "zh": "健身房说的'cardio'和 cardiologist 共享什么？"
+          },
+          "answer": {
+            "en": "The Greek root kardia = heart. Cardio exercise trains your heart; a cardiologist studies it.",
+            "zh": "都是希腊词根 kardia = 心脏。Cardio 运动训练心脏；心脏病医生研究心脏。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The 50-year-old who hadn't seen a doctor in a decade — until his Apple Watch flagged an irregular rhythm. One cardiologist visit later, he was on medication that probably added 20 years to his life.",
+        "zh": "那个十年没看医生的 50 岁男人 — 直到 Apple Watch 提示心律异常。一次心脏病医生的就诊后，他开始服药 — 这很可能给他多续了二十年。"
+      }
+    },
+    {
+      "word": "Neurologist",
+      "phonetic": "noor-OL'-o-jist",
+      "chinese": "神经科医生",
+      "definition": {
+        "en": "A doctor who specializes in the brain, spinal cord, and nervous system — the body's wiring.",
+        "zh": "专攻大脑、脊髓和神经系统的医生 — 身体的线路网。"
+      },
+      "etymology": {
+        "root": "neuron",
+        "meaning": "nerve",
+        "meaningZh": "神经",
+        "en": "From Greek neuron = nerve, plus -logist (one who studies).",
+        "zh": "希腊词根 neuron = 神经，加 -logist（研究者）。",
+        "relatives": [
+          {
+            "word": "neuron",
+            "zh": "神经元"
+          },
+          {
+            "word": "neurology",
+            "zh": "神经学"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "Her migraines got severe enough to send her to a neurologist — and the answer turned out to be a simple sleep schedule fix.",
+          "zh": "她偏头痛严重到要去看神经科医生 — 结果答案竟然是调整作息。"
+        },
+        {
+          "context": "parenting",
+          "en": "When our son's seizures started, the pediatric neurologist became part of the family — first the diagnosis, then the slow work of finding the right medication.",
+          "zh": "儿子开始抽搐时，儿童神经科医生几乎成了家人 — 先是确诊，然后是慢慢摸索出对的药。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "信号",
+      "tint": "4a78c8",
+      "mnemonic": {
+        "en": "NEUROLOGIST = neuron (nerve) + logist. The wiring's expert.",
+        "zh": "neurologist = neuron（神经）+ logist。线路的专家。"
+      },
+      "commonConfusions": [
+        "neurosurgeon",
+        "psychiatrist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "What's the difference between a neurologist and a psychiatrist?",
+            "zh": "神经科医生和精神科医生的区别是什么？"
+          },
+          "answer": {
+            "en": "Neurologist treats physical problems in the brain and nerves — strokes, seizures, migraines. Psychiatrist treats mental and emotional conditions — depression, anxiety, psychosis.",
+            "zh": "神经科医生治大脑和神经的物理问题 — 中风、癫痫、偏头痛；精神科医生治心理与情绪 — 抑郁、焦虑、精神病。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why don't we see a neurologist for ordinary headaches?",
+            "zh": "为什么普通头痛不需要看神经科医生？"
+          },
+          "answer": {
+            "en": "Most headaches resolve with rest, hydration, or basic medication. Neurologists specialize in patterns that point to deeper issues — recurring, severe, or accompanied by other symptoms.",
+            "zh": "大多数头痛靠休息、喝水或常用药就能缓解。神经科医生处理的是指向更深问题的模式 — 反复发作、严重、或伴随其他症状的头痛。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The grandmother whose 'forgetfulness' her family kept brushing off — until a neurologist visit turned years of small symptoms into a clear early-Alzheimer's diagnosis. Earlier was better.",
+        "zh": "那位被家人一直当作'记性差'的奶奶 — 直到一次神经科就诊，把多年小症状串成了早期阿尔茨海默的明确诊断。早一点知道，反而是好事。"
+      }
+    },
+    {
+      "word": "Psychiatrist",
+      "phonetic": "si-KI'-a-trist",
+      "chinese": "精神科医生",
+      "definition": {
+        "en": "A medical doctor who specializes in mental and emotional disorders — and can prescribe medication.",
+        "zh": "专攻心理与情绪疾病的医学博士 — 可以开药。"
+      },
+      "etymology": {
+        "root": "psyche",
+        "meaning": "mind / soul",
+        "meaningZh": "心灵",
+        "en": "From Greek psyche (mind, soul) + iatros (healer).",
+        "zh": "希腊词根 psyche（心灵、灵魂）+ iatros（医者）。",
+        "relatives": [
+          {
+            "word": "psychology",
+            "zh": "心理学"
+          },
+          {
+            "word": "psychiatry",
+            "zh": "精神病学"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "After two years of trying to 'tough it out,' he finally saw a psychiatrist — and was surprised how much lighter life felt within months.",
+          "zh": "硬扛了两年之后，他终于去看了精神科医生 — 几个月内生活变轻盈的程度让他吃惊。"
+        },
+        {
+          "context": "workplace",
+          "en": "Big tech companies now cover psychiatrist visits as standard benefits — the stigma is fading, the queue is getting longer.",
+          "zh": "大公司现在把精神科医生就诊纳入了基础福利 — 偏见在消退，预约的队伍却越来越长。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "心灵",
+      "tint": "8a6ec8",
+      "mnemonic": {
+        "en": "PSYCHIATRIST = psyche (mind) + iatros (healer). A healer of the mind.",
+        "zh": "psychiatrist = psyche（心灵）+ iatros（医者）。心灵的医者。"
+      },
+      "commonConfusions": [
+        "psychologist",
+        "therapist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "What's the difference between a psychiatrist and a psychologist?",
+            "zh": "精神科医生（psychiatrist）和心理学家（psychologist）有什么区别？"
+          },
+          "answer": {
+            "en": "Psychiatrist = medical doctor, can prescribe medication. Psychologist = trained in therapy and assessment, usually cannot prescribe (varies by country). Many people benefit from seeing both.",
+            "zh": "精神科医生是医学博士，能开药；心理学家受过治疗和评估训练，通常不开药（各国不同）。很多人两位都看。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is psychiatry harder to 'see' than cardiology or neurology?",
+            "zh": "为什么精神病学比心脏病或神经病学更难'看见'？"
+          },
+          "answer": {
+            "en": "The heart and nerves leave physical traces. The mind doesn't — there's no scan that shows depression. The diagnosis lives in conversation and pattern.",
+            "zh": "心脏和神经会留下物理痕迹；心灵不会 — 没有扫描能显示抑郁。诊断活在对话和模式之中。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The high-performing manager who finally told HR she was 'fine, just tired' for the fifth time — and on a colleague's gentle nudge, booked a psychiatrist. Six months later she was the same person on the outside, but the engine inside had been quietly repaired.",
+        "zh": "那位连续第五次跟 HR 说'我没事，就是累'的高绩效经理 — 在同事温和的提醒下，预约了精神科医生。半年后，外表看似如故，内里的引擎却悄悄修好了。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "All three study what you cannot see.",
+      "zh": "三位医生研究的，都是你看不见的东西。"
+    },
+    "leftLabel": "Cardiologist",
+    "leftLine": {
+      "en": "studies the engine",
+      "zh": "研究引擎"
+    },
+    "leftMnemonic": {
+      "en": "cardia = heart · the pump that decides life",
+      "zh": "cardia = 心脏 · 决定生死的泵"
+    },
+    "rightLabel": "Neurologist",
+    "rightLine": {
+      "en": "studies the wiring",
+      "zh": "研究线路"
+    },
+    "rightMnemonic": {
+      "en": "neuron = nerve · the signals that decide sensation",
+      "zh": "neuron = 神经 · 决定感觉的信号"
+    },
+    "closing": {
+      "en": "One pumps. One signals. Both are silent — until they aren't.",
+      "zh": "一个泵动。一个传导。两个都安静 — 直到不再安静。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "We trust them with what we can't see — the parts that decide everything.",
+      "zh": "我们把看不见的东西交给他们 — 那些决定一切的部分。"
+    }
+  },
+  "audio": {
+    "hook.headline": "audio/vocab/cardio-neuro-psych/hook.headline.wav",
+    "word.0.pronunciation": "audio/vocab/cardio-neuro-psych/word.0.pronunciation.wav",
+    "word.0.definition": "audio/vocab/cardio-neuro-psych/word.0.definition.wav",
+    "word.0.etymology": "audio/vocab/cardio-neuro-psych/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/cardio-neuro-psych/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/cardio-neuro-psych/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/cardio-neuro-psych/word.1.pronunciation.wav",
+    "word.1.definition": "audio/vocab/cardio-neuro-psych/word.1.definition.wav",
+    "word.1.etymology": "audio/vocab/cardio-neuro-psych/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/cardio-neuro-psych/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/cardio-neuro-psych/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/cardio-neuro-psych/word.2.pronunciation.wav",
+    "word.2.definition": "audio/vocab/cardio-neuro-psych/word.2.definition.wav",
+    "word.2.etymology": "audio/vocab/cardio-neuro-psych/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/cardio-neuro-psych/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/cardio-neuro-psych/word.2.sentence.1.wav",
+    "twist.setup": "audio/vocab/cardio-neuro-psych/twist.setup.wav",
+    "twist.left": "audio/vocab/cardio-neuro-psych/twist.left.wav",
+    "twist.right": "audio/vocab/cardio-neuro-psych/twist.right.wav",
+    "twist.closing": "audio/vocab/cardio-neuro-psych/twist.closing.wav",
+    "recap.reflection": "audio/vocab/cardio-neuro-psych/recap.reflection.wav",
+    "expansion.0.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.11.pronunciation.wav",
+    "expansion.12.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.12.pronunciation.wav",
+    "expansion.13.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.13.pronunciation.wav",
+    "expansion.14.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.14.pronunciation.wav",
+    "expansion.15.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.15.pronunciation.wav",
+    "expansion.16.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.16.pronunciation.wav",
+    "expansion.17.pronunciation": "audio/vocab/cardio-neuro-psych/expansion.17.pronunciation.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 4,
+    "session": 1,
+    "pages": [
+      76,
+      100
+    ],
+    "theme": "How to Talk About Doctors",
+    "subtheme": "Invisible Interiors"
+  },
+  "tags": [
+    "doctors",
+    "medicine",
+    "invisible-organs",
+    "ch4",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "cardiology",
+      "zh": "心脏病学",
+      "root": "cardia",
+      "partOfSpeech": "n.",
+      "phonetic": "kahr-dee-OL'-o-jee",
+      "gloss": {
+        "en": "The branch of medicine that studies the heart.",
+        "zh": "研究心脏的医学分支。"
+      },
+      "usage": {
+        "en": "She published two papers in cardiology before finishing her residency.",
+        "zh": "住院医师还没读完，她就已经在心脏病学领域发表了两篇论文。"
+      }
+    },
+    {
+      "word": "cardiac",
+      "zh": "心脏的",
+      "root": "cardia",
+      "partOfSpeech": "adj.",
+      "phonetic": "KAHR'-dee-ak",
+      "gloss": {
+        "en": "Relating to the heart — as in cardiac arrest, cardiac surgery.",
+        "zh": "与心脏相关的 — 如 cardiac arrest（心脏骤停）、cardiac surgery（心脏手术）。"
+      },
+      "usage": {
+        "en": "He survived a cardiac arrest at 42 because a coworker happened to know CPR.",
+        "zh": "他在 42 岁那年心脏骤停活了下来 — 因为一位同事刚好会心肺复苏。"
+      }
+    },
+    {
+      "word": "cardiovascular",
+      "zh": "心血管的",
+      "root": "cardia",
+      "partOfSpeech": "adj.",
+      "phonetic": "kahr-dee-o-VAS'-kyoo-lur",
+      "gloss": {
+        "en": "Relating to the heart AND blood vessels together — cardia (heart) + vascular (vessels).",
+        "zh": "心脏与血管的合称 — cardia（心脏）+ vascular（血管）。"
+      },
+      "usage": {
+        "en": "Thirty minutes of cardiovascular exercise four times a week is the most evidence-backed thing you can do for long-term health.",
+        "zh": "每周四次、每次三十分钟的心血管运动 — 是目前证据最充分的长寿习惯。"
+      }
+    },
+    {
+      "word": "electrocardiogram",
+      "zh": "心电图 (EKG / ECG)",
+      "root": "cardia",
+      "partOfSpeech": "n.",
+      "phonetic": "ee-lek-tro-KAHR'-dee-o-gram",
+      "gloss": {
+        "en": "A recording of the heart's electrical activity — also known as EKG or ECG.",
+        "zh": "记录心脏电活动的图 — 也叫 EKG 或 ECG。"
+      },
+      "usage": {
+        "en": "The annual physical includes an electrocardiogram once you turn 40 — it takes five minutes and can catch silent issues.",
+        "zh": "40 岁起，年度体检会加做一次心电图 — 五分钟，能发现没有症状的隐患。"
+      }
+    },
+    {
+      "word": "neuron",
+      "zh": "神经元",
+      "root": "neuron",
+      "partOfSpeech": "n.",
+      "phonetic": "NOOR'-on",
+      "gloss": {
+        "en": "A single nerve cell — the building block of the nervous system.",
+        "zh": "一个神经细胞 — 神经系统的基本单元。"
+      },
+      "usage": {
+        "en": "An adult brain has about 86 billion neurons, and somehow they coordinate into a person.",
+        "zh": "成人大脑约有 860 亿个神经元 — 它们竟然能协调成一个完整的人。"
+      }
+    },
+    {
+      "word": "neurology",
+      "zh": "神经学",
+      "root": "neuron",
+      "partOfSpeech": "n.",
+      "phonetic": "noor-OL'-o-jee",
+      "gloss": {
+        "en": "The branch of medicine that studies the nervous system.",
+        "zh": "研究神经系统的医学分支。"
+      },
+      "usage": {
+        "en": "Modern neurology can map exactly which part of the brain a memory lives in — and watch it fade.",
+        "zh": "现代神经学可以精确画出某段记忆住在大脑哪个区域 — 也能看着它一点点消逝。"
+      }
+    },
+    {
+      "word": "neurosis",
+      "zh": "神经症 / 神经质",
+      "root": "neuron",
+      "partOfSpeech": "n.",
+      "phonetic": "noor-O'-sis",
+      "gloss": {
+        "en": "An old term for mild mental disturbance — anxiety, obsessive thoughts — rooted (the Greeks believed) in the nerves.",
+        "zh": "对轻度心理紊乱（焦虑、强迫念头）的旧称 — 希腊人相信源头在神经。"
+      },
+      "usage": {
+        "en": "Woody Allen built a career on neurosis — the witty, hand-wringing kind that becomes someone's whole personality.",
+        "zh": "Woody Allen 凭神经质起家 — 那种机智又焦虑、占据整个人格的样貌。"
+      }
+    },
+    {
+      "word": "psychology",
+      "zh": "心理学",
+      "root": "psyche",
+      "partOfSpeech": "n.",
+      "phonetic": "sy-KOL'-o-jee",
+      "gloss": {
+        "en": "The science of the mind and behavior — psyche (mind) + logos (study).",
+        "zh": "研究心灵与行为的科学 — psyche（心灵）+ logos（学问）。"
+      },
+      "usage": {
+        "en": "She switched majors from economics to psychology in junior year — and finally felt like she was studying something true.",
+        "zh": "大三她从经济学转去读心理学 — 第一次觉得自己在研究真实的东西。"
+      }
+    },
+    {
+      "word": "psychosis",
+      "zh": "精神病 / 精神错乱",
+      "root": "psyche",
+      "partOfSpeech": "n.",
+      "phonetic": "sy-KO'-sis",
+      "gloss": {
+        "en": "A severe mental state where someone loses touch with reality — hallucinations, delusions.",
+        "zh": "失去现实感的严重精神状态 — 幻觉、妄想。"
+      },
+      "usage": {
+        "en": "Postpartum psychosis is rare but serious — and one reason new mothers should never be left isolated.",
+        "zh": "产后精神病罕见但严重 — 这也是新妈妈不该被独自隔离的原因之一。"
+      }
+    },
+    {
+      "word": "psychosomatic",
+      "zh": "心身性的",
+      "root": "psyche",
+      "partOfSpeech": "adj.",
+      "phonetic": "sy-ko-suh-MAT'-ik",
+      "gloss": {
+        "en": "Physical symptoms caused or worsened by the mind — psyche (mind) + soma (body).",
+        "zh": "由心理引发或加重的身体症状 — psyche（心灵）+ soma（身体）。"
+      },
+      "usage": {
+        "en": "Years of stomach pain turned out to be psychosomatic — once she addressed the anxiety, the symptoms quieted.",
+        "zh": "多年的胃痛原来是心身性的 — 一旦处理了焦虑，症状就安静了。"
+      }
+    },
+    {
+      "word": "psychoanalysis",
+      "zh": "精神分析",
+      "root": "psyche",
+      "partOfSpeech": "n.",
+      "phonetic": "sy-ko-uh-NAL'-uh-sis",
+      "gloss": {
+        "en": "The Freudian therapy method — long conversations to surface unconscious patterns.",
+        "zh": "弗洛伊德式疗法 — 通过长时间对话浮出无意识的模式。"
+      },
+      "usage": {
+        "en": "Classical psychoanalysis has fallen out of fashion in the US, but it still shapes how we talk about ourselves — even when we don't realize it.",
+        "zh": "古典精神分析在美国不再流行，但仍塑造着我们谈论自己的方式 — 哪怕我们没意识到。"
+      }
+    },
+    {
+      "word": "psychiatry",
+      "zh": "精神病学",
+      "root": "iatros",
+      "partOfSpeech": "n.",
+      "phonetic": "sy-KI'-uh-tree",
+      "gloss": {
+        "en": "The medical field of mental health — psyche (mind) + iatros (healer).",
+        "zh": "心理健康的医学领域 — psyche（心灵）+ iatros（医者）。"
+      },
+      "usage": {
+        "en": "Modern psychiatry has shifted away from long-term hospitalization toward community care and medication.",
+        "zh": "现代精神病学的重心，从长期住院治疗转向了社区照护与药物。"
+      },
+      "rootMeaning": "healer",
+      "rootMeaningZh": "医者",
+      "rootTint": "5f9a9a"
+    },
+    {
+      "word": "pediatrics",
+      "zh": "儿科学",
+      "root": "iatros",
+      "partOfSpeech": "n.",
+      "phonetic": "pee-dee-AT'-riks",
+      "gloss": {
+        "en": "The medical specialty of children's health — paid (child) + iatros (healer).",
+        "zh": "儿童健康的医学专科 — paid（儿童）+ iatros（医者）。"
+      },
+      "usage": {
+        "en": "Pediatrics is the only field where the patient and the customer are different people — the kid feels bad, the parent decides.",
+        "zh": "儿科是唯一一个'病人和顾客不是同一个人'的领域 — 孩子难受，家长拍板。"
+      }
+    },
+    {
+      "word": "geriatrics",
+      "zh": "老年医学",
+      "root": "iatros",
+      "partOfSpeech": "n.",
+      "phonetic": "jer-ee-AT'-riks",
+      "gloss": {
+        "en": "The medical specialty of older adults — geri (old) + iatros (healer).",
+        "zh": "针对老年人的医学专科 — geri（老）+ iatros（医者）。"
+      },
+      "usage": {
+        "en": "Geriatrics is the fastest-growing specialty as countries age — and one of the most under-trained.",
+        "zh": "随着各国老龄化，老年医学是增长最快的专科 — 也是医生培训最不足的领域之一。"
+      }
+    },
+    {
+      "word": "somatic",
+      "zh": "身体的 / 躯体的",
+      "root": "soma",
+      "partOfSpeech": "adj.",
+      "phonetic": "so-MAT'-ik",
+      "gloss": {
+        "en": "Relating to the body, especially as distinct from the mind — the other half of psychosomatic.",
+        "zh": "与身体相关的，尤其相对于心灵而言 — psychosomatic 的另一半。"
+      },
+      "usage": {
+        "en": "Trauma therapists now talk about 'somatic memory' — what the body remembers even after the mind has buried it.",
+        "zh": "创伤治疗师如今会谈'身体记忆' — 哪怕心灵已经埋藏，身体仍记得。"
+      },
+      "rootMeaning": "body",
+      "rootMeaningZh": "身体",
+      "rootTint": "b88a7a"
+    },
+    {
+      "word": "neurotic",
+      "zh": "神经质的",
+      "root": "neuron",
+      "partOfSpeech": "adj.",
+      "phonetic": "noor-OT'-ik",
+      "gloss": {
+        "en": "Marked by anxiety or obsessive worry — the adjective form of neurosis.",
+        "zh": "被焦虑或强迫念头笼罩 — neurosis 的形容词形式。"
+      },
+      "usage": {
+        "en": "A little neurotic checking can save your life on a roof — a lot of it can take over it.",
+        "zh": "在屋顶上一点点神经质的反复检查能救命 — 太多则会反过来吞掉你的生活。"
+      }
+    },
+    {
+      "word": "psychic",
+      "zh": "心灵的 / 通灵的",
+      "root": "psyche",
+      "partOfSpeech": "adj./n.",
+      "phonetic": "SY'-kik",
+      "gloss": {
+        "en": "Relating to the mind or soul — as adjective; also (informally) one who claims paranormal mental powers.",
+        "zh": "与心灵或灵魂相关（形容词）— 口语中也指自称有超能力者。"
+      },
+      "usage": {
+        "en": "Long-term partners develop a psychic shortcut — they finish each other's sentences and know which silence means what.",
+        "zh": "长期伴侣会发展出一种心灵默契 — 互相接话，也读得懂不同的沉默。"
+      }
+    },
+    {
+      "word": "podiatry",
+      "zh": "足病学 / 足科",
+      "root": "iatros",
+      "partOfSpeech": "n.",
+      "phonetic": "puh-DY'-uh-tree",
+      "gloss": {
+        "en": "The medical specialty of the feet — pod (foot) + iatros (healer).",
+        "zh": "足部医学专科 — pod（脚）+ iatros（医者）。"
+      },
+      "usage": {
+        "en": "Podiatry sounds minor until you've had a foot problem — then you realize how much of life depends on the body's most-ignored joints.",
+        "zh": "足科听起来不起眼 — 直到你脚出问题时才意识到，生活有多少事，都靠这些最被忽略的关节撑着。"
+      }
+    }
+  ]
+}

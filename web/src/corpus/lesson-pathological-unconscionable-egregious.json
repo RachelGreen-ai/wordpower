@@ -1,0 +1,496 @@
+{
+  "lessonId": "pathological-unconscionable-egregious",
+  "hook": {
+    "headline": {
+      "en": "Three liars beyond the small ones. Where lying becomes harm.",
+      "zh": "三种已经不是'小骗子'的骗子。在他们这里，说谎已经成了伤害。"
+    },
+    "subtext": {
+      "en": "When does a lie stop being personal and start being dangerous?",
+      "zh": "一个谎言什么时候不再是'个人问题'，而变成了对别人的危险？"
+    }
+  },
+  "words": [
+    {
+      "word": "Pathological",
+      "phonetic": "path'-a-LOJ'-i-kal",
+      "chinese": "病态的",
+      "definition": {
+        "en": "Caused by mental illness — not a choice, but a symptom. A pathological liar lies even when the truth would help more.",
+        "zh": "由心理或精神疾病引起 — 不是选择，是症状。病态说谎的人，哪怕说实话对自己更有利，也还是会撒谎。"
+      },
+      "etymology": {
+        "root": "pathos",
+        "meaning": "suffering, disease",
+        "meaningZh": "受苦、疾病",
+        "en": "From Greek pathos = 'suffering, disease' + logos = 'study.' Same pathos hides in 'empathy' (feeling-in) and 'sympathy' (feeling-with). When suffering and lying combine, you get the pathological.",
+        "zh": "希腊词根 pathos = 受苦、疾病 + logos = 学问。同一个 pathos 藏在 empathy（感同身受）和 sympathy（同情）里。受苦与说谎结合，就是'病态'。",
+        "relatives": [
+          {
+            "word": "pathology",
+            "zh": "病理学"
+          },
+          {
+            "word": "empathy",
+            "zh": "共情（同感）"
+          },
+          {
+            "word": "sympathy",
+            "zh": "同情（同感）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "His résumé crossed from polished into pathological — six awards no one had ever heard of, all unverifiable.",
+          "zh": "他的简历从'打磨过头'走到了'病态' — 六个没人听过的奖，全部查无实据。"
+        },
+        {
+          "context": "social",
+          "en": "Pathological lying isn't strategic — the person lies even when telling the truth would help more.",
+          "zh": "病态说谎不是为了利益 — 哪怕说实话对自己更有利，他还是会说谎。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "病态",
+      "tint": "7d6aa8",
+      "mnemonic": {
+        "en": "Pathos = SUFFERING. Pathological = the behavior IS the illness. The lie is the symptom, not the choice.",
+        "zh": "Pathos = 受苦、疾病。Pathological = 这个行为本身就是病。谎言是症状，不是选择。"
+      },
+      "commonConfusions": [
+        "compulsive",
+        "habitual",
+        "deceptive"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Habitual and pathological both describe constant lying. Which is darker?",
+            "zh": "Habitual 和 pathological 都形容总是在撒谎。哪个更深？"
+          },
+          "answer": {
+            "en": "Habitual = formed by repetition, can be broken with awareness. Pathological = the person can't separate truth from invention — there's no door for awareness to walk through.",
+            "zh": "Habitual = 因为反复形成，意识到了就能打断。Pathological = 这个人根本分不清真实与虚构 — 没有'觉察'能走进去的门。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Pseudologia fantastica is the clinical name for pathological lying — invented as a diagnosis in 1891. The strange part: many patients believed their own stories by the third telling. The lie wasn't aimed at others. It was aimed at the lie-teller themselves.",
+        "zh": "病态说谎的医学名是 pseudologia fantastica — 1891 年被定为一种诊断。怪异之处：很多病人到第三次讲同一个故事时，自己已经信了。这种谎不是说给别人听的，是说给说谎者自己听的。"
+      }
+    },
+    {
+      "word": "Unconscionable",
+      "phonetic": "un-KON'-sha-na-bal",
+      "chinese": "没良心的、丧尽天良的",
+      "definition": {
+        "en": "Without conscience — knowing it's wrong, and doing it anyway. The unconscionable liar isn't confused. They just don't care.",
+        "zh": "没有良知 — 明知道是错的，还是去做。没良心的骗子不是糊涂，他只是不在乎。"
+      },
+      "etymology": {
+        "root": "scire",
+        "meaning": "to know",
+        "meaningZh": "知道",
+        "en": "From Latin con- (with) + scire (to know) → conscientia = 'knowing-with-oneself' = conscience. Unconscionable means literally 'without inner-knowing.' Same scire gives us 'science' and 'conscious.'",
+        "zh": "拉丁 con-（与）+ scire（知道）→ conscientia = '与自己共知' = 良知。Unconscionable 字面意思是'没有内在的知'。同一个 scire 还给了我们 science（科学）和 conscious（清醒）。",
+        "relatives": [
+          {
+            "word": "conscience",
+            "zh": "良知"
+          },
+          {
+            "word": "conscious",
+            "zh": "有意识的"
+          },
+          {
+            "word": "science",
+            "zh": "科学（知识体系）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Charging that price during the disaster was unconscionable — they knew, and they did it anyway.",
+          "zh": "灾难期间还卖那个价钱，是丧尽天良的 — 他们清楚，但他们还是这么做了。"
+        },
+        {
+          "context": "friends",
+          "en": "She made an unconscionable choice — and the hardest part is, she made it with a clear head.",
+          "zh": "她做了一个没良心的决定 — 最难接受的是，她是清醒地做出这个决定的。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "无良",
+      "tint": "4f5566",
+      "mnemonic": {
+        "en": "Un + Con-Scire = NO + KNOWING-WITH-SELF. The conscience that should have whispered 'stop' was switched off.",
+        "zh": "Un + Con-Scire = 没有 + 与自己共知。那个本来应该轻声说'停'的良知，被关掉了。"
+      },
+      "commonConfusions": [
+        "immoral",
+        "ruthless",
+        "outrageous"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Immoral and unconscionable both describe bad acts. Where's the line?",
+            "zh": "Immoral（不道德）和 unconscionable（没良心）都在讲坏事。区别在哪？"
+          },
+          "answer": {
+            "en": "Immoral = breaks a moral rule. Unconscionable = breaks the moral rule KNOWINGLY and without shame. One stumbles. The other walks in straight.",
+            "zh": "Immoral = 违反道德准则。Unconscionable = 明知道还故意违反，毫无羞愧。一个是绊倒，一个是抬头走进去。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "In American contract law, courts use the word 'unconscionable' as a real legal standard — a contract too one-sided to enforce. The judge isn't asking 'is this fair?' but 'would any conscientious person sign this with their eyes open?' If no, the contract dies.",
+        "zh": "在美国合同法里，'unconscionable'是真正的法律标准 — 太过单方有利的合同，法庭可以不执行。法官问的不是'这公平吗？'，而是'任何一个有良知的人，会睁着眼睛签这个吗？'如果不会，这份合同就作废。"
+      }
+    },
+    {
+      "word": "Egregious",
+      "phonetic": "i-GREE'-jas",
+      "chinese": "明目张胆的、骇人听闻的",
+      "definition": {
+        "en": "Outstandingly bad — wrong in a way you can't miss. An egregious lie isn't subtle; it's the kind everyone in the room notices, even the polite ones.",
+        "zh": "差到出格 — 错得藏不住。明目张胆的谎言一点也不微妙，是连屋子里最礼貌的人都会注意到的那种。"
+      },
+      "etymology": {
+        "root": "grex",
+        "meaning": "flock, herd",
+        "meaningZh": "群、群体",
+        "en": "From Latin ex- (out of) + grex (flock). Literally 'standing out from the herd.' Originally it meant 'remarkable' — could be good. Now it almost always means remarkably BAD. The word fell.",
+        "zh": "拉丁 ex-（出）+ grex（群）。字面是'从群中突出'。最初意思是'引人注目' — 可能是好的。如今几乎只用来形容'特别坏'。这个词的命运向下走了。",
+        "relatives": [
+          {
+            "word": "gregarious",
+            "zh": "合群的、爱社交的"
+          },
+          {
+            "word": "aggregate",
+            "zh": "聚合、总和"
+          },
+          {
+            "word": "congregate",
+            "zh": "聚集"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "That was an egregious mistake — not 'oh well,' but 'we have to call the client now.'",
+          "zh": "这是个明目张胆的错 — 不是'算了下次注意'级别，是'马上给客户打电话'那种。"
+        },
+        {
+          "context": "social",
+          "en": "Some egregious lies survive precisely because no one believes anyone would dare to tell them.",
+          "zh": "有些明目张胆的谎之所以活下来，正是因为没人相信居然有人敢这么说。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "出格",
+      "tint": "b07840",
+      "mnemonic": {
+        "en": "E + Grex = OUT-OF + FLOCK. So far outside the norm that even strangers can spot it from across the room.",
+        "zh": "E + Grex = 出 + 群。错得离正常太远，远到陌生人在屋子另一头都能看见。"
+      },
+      "commonConfusions": [
+        "flagrant",
+        "blatant",
+        "outrageous"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Egregious, flagrant, and blatant all describe obvious wrongs. What's egregious's twist?",
+            "zh": "Egregious、flagrant、blatant 都讲明显的错。Egregious 多了什么？"
+          },
+          "answer": {
+            "en": "All three are 'obvious.' But egregious carries a sense of magnitude — not just visible, but conspicuously, embarrassingly BAD. Flagrant is loud. Blatant is brazen. Egregious is large.",
+            "zh": "三个都'明显'。但 egregious 多了'量级'感 — 不只是看得见，而是显眼地、让人尴尬地坏。Flagrant 是大声，blatant 是无耻，egregious 是大。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "In Shakespeare's time, 'egregious' could be a compliment — 'egregious in valor' meant remarkably brave. Over four centuries, the word slid into its opposite. Words, like reputations, can fall and never come back.",
+        "zh": "在莎士比亚的时代，'egregious'可以是夸奖 — 'egregious in valor'意思是'勇得出众'。四百年过去，这个词滑到了它的反义。词，和名声一样，可以一路向下，再也回不来。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both keep lying. But one can't see truth. The other can — and chooses anyway.",
+      "zh": "两人都在不停地说谎。但一个看不见真相，另一个看得见 — 却还是选了说谎。"
+    },
+    "leftLabel": "Pathological",
+    "leftLine": {
+      "en": "Lies aren't choices. They're symptoms.",
+      "zh": "谎言不是选择，是症状。"
+    },
+    "leftMnemonic": {
+      "en": "Pathos = SUFFERING · the lying IS the illness.",
+      "zh": "Pathos = 受苦 · 说谎本身就是病。"
+    },
+    "rightLabel": "Unconscionable",
+    "rightLine": {
+      "en": "Knows the truth. Lies anyway.",
+      "zh": "知道真相。还是选择说谎。"
+    },
+    "rightMnemonic": {
+      "en": "Con-Scire = KNOWING-WITH-SELF · the conscience that's been switched off.",
+      "zh": "Con-Scire = 与自己共知 · 那个良知被关掉了。"
+    },
+    "closing": {
+      "en": "One can't tell the difference. The other can — and shrugged.",
+      "zh": "一个分不清真假。一个分得清 — 然后耸了耸肩。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "The lie that hurts most isn't the cleverest one. It's the one told by someone who knew better — and did it anyway.",
+      "zh": "伤人最深的谎言不是最聪明的那一个 — 而是出自一个本来知道更好的选择的人 — 而他还是选了说谎。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/pathological-unconscionable-egregious/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/pathological-unconscionable-egregious/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/pathological-unconscionable-egregious/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/pathological-unconscionable-egregious/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/pathological-unconscionable-egregious/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/pathological-unconscionable-egregious/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/pathological-unconscionable-egregious/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/pathological-unconscionable-egregious/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/pathological-unconscionable-egregious/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/pathological-unconscionable-egregious/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/pathological-unconscionable-egregious/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/pathological-unconscionable-egregious/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/pathological-unconscionable-egregious/twist.left.wav",
+    "twist.right": "audio/vocab/pathological-unconscionable-egregious/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/pathological-unconscionable-egregious/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/pathological-unconscionable-egregious/hook.headline.wav",
+    "word.0.definition": "audio/vocab/pathological-unconscionable-egregious/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/pathological-unconscionable-egregious/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/pathological-unconscionable-egregious/word.2.definition.wav",
+    "twist.setup": "audio/vocab/pathological-unconscionable-egregious/twist.setup.wav",
+    "twist.closing": "audio/vocab/pathological-unconscionable-egregious/twist.closing.wav",
+    "recap.reflection": "audio/vocab/pathological-unconscionable-egregious/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 7,
+    "session": 15,
+    "pages": [
+      148,
+      175
+    ],
+    "theme": "Liars and Lying",
+    "subtheme": "Crossing the line — delusional, conscienceless, conspicuous"
+  },
+  "tags": [
+    "liars",
+    "lying",
+    "harm",
+    "ch7",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "pathology",
+      "zh": "病理学",
+      "root": "pathos",
+      "partOfSpeech": "n.",
+      "phonetic": "pa-THOL'-a-jee",
+      "gloss": {
+        "en": "The study of disease — pathos (suffering) + logos (study). Once a medical word, now also used metaphorically: 'the pathology of an organization.'",
+        "zh": "研究疾病的学科 — pathos（受苦）+ logos（学问）。原本是医学词，现在也常用作比喻：'一个组织的病理'。"
+      },
+      "usage": {
+        "en": "Every dysfunctional team has its own pathology — a private illness it has stopped noticing.",
+        "zh": "每一个失灵的团队都有自己的病理 — 一种它已经停止察觉的私人疾病。"
+      }
+    },
+    {
+      "word": "empathy",
+      "zh": "共情、同感",
+      "root": "pathos",
+      "partOfSpeech": "n.",
+      "phonetic": "EM'-pa-thee",
+      "gloss": {
+        "en": "Feeling INTO another's experience — em- (in) + pathos. You aren't sad about their pain; you're carrying a piece of it.",
+        "zh": "走进对方的感受里 — em-（入）+ pathos。不是为他们的痛而难过，而是把那痛的一小块自己背着。"
+      },
+      "usage": {
+        "en": "Empathy is exhausting because it works — you cannot fake having felt what they felt.",
+        "zh": "共情累人，正是因为它真的'发生了' — 你假装不出'感受过他所感受的'。"
+      }
+    },
+    {
+      "word": "sympathy",
+      "zh": "同情",
+      "root": "pathos",
+      "partOfSpeech": "n.",
+      "phonetic": "SIM'-pa-thee",
+      "gloss": {
+        "en": "Feeling WITH someone — syn- (together) + pathos. Standing alongside their suffering without taking it into yourself.",
+        "zh": "和对方一起感受 — syn-（一起）+ pathos。站在他的痛旁边，不把它收进自己里面。"
+      },
+      "usage": {
+        "en": "Sympathy says 'I see your pain.' Empathy says 'I feel some of it.' Both matter; one costs more.",
+        "zh": "同情说的是'我看见你的痛'。共情说的是'我感受到了一些'。两个都重要，后者更费一点。"
+      }
+    },
+    {
+      "word": "apathy",
+      "zh": "冷漠",
+      "root": "pathos",
+      "partOfSpeech": "n.",
+      "phonetic": "AP'-a-thee",
+      "gloss": {
+        "en": "NO feeling — a- (without) + pathos. Not coldness on purpose, but absence of care. The opposite of both empathy and sympathy.",
+        "zh": "没有感受 — a-（无）+ pathos。不是故意的冷，而是关心的缺席。同时是共情和同情的反面。"
+      },
+      "usage": {
+        "en": "The opposite of love isn't hate. It's apathy — when someone stops mattering enough to upset you.",
+        "zh": "爱的反义不是恨，而是冷漠 — 当一个人已经不再重要到能让你难过。"
+      }
+    },
+    {
+      "word": "conscience",
+      "zh": "良知",
+      "root": "scire",
+      "partOfSpeech": "n.",
+      "phonetic": "KON'-shans",
+      "gloss": {
+        "en": "Inner knowing of right and wrong — con- (with) + scire (to know). What 'unconscionable' lacks.",
+        "zh": "对'对与错'的内在知 — con-（与）+ scire（知道）。Unconscionable 失去的，正是这个。"
+      },
+      "usage": {
+        "en": "Conscience isn't loud — it's the small voice that's already spoken before you can pretend you didn't hear it.",
+        "zh": "良知声音不大 — 是那种在你还来不及装没听见时，就已经说过话的小小声音。"
+      }
+    },
+    {
+      "word": "conscious",
+      "zh": "有意识的、清醒的",
+      "root": "scire",
+      "partOfSpeech": "adj.",
+      "phonetic": "KON'-shas",
+      "gloss": {
+        "en": "Knowing-with — con- + scire. Awake to what's happening inside and around you.",
+        "zh": "与自己共知 — con- + scire。对内在和外在正在发生的事保持清醒。"
+      },
+      "usage": {
+        "en": "Being conscious is the easy part. Being conscious of the same thing two days in a row is the discipline.",
+        "zh": "保持清醒不难。难的是对同一件事连续两天都保持清醒 — 那才是修行。"
+      }
+    },
+    {
+      "word": "science",
+      "zh": "科学",
+      "root": "scire",
+      "partOfSpeech": "n.",
+      "phonetic": "SI'-ans",
+      "gloss": {
+        "en": "Organized knowledge — directly from scire, 'to know.' Same root as conscience. Knowing the world; knowing yourself; same verb.",
+        "zh": "有系统的知识 — 直接来自 scire（知道）。和良知是同根。'认识世界'和'认识自己' — 用的是同一个动词。"
+      },
+      "usage": {
+        "en": "Science teaches you to doubt your favorite answer. Conscience teaches you to doubt your favorite excuse.",
+        "zh": "科学教你怀疑自己最喜欢的答案。良知教你怀疑自己最喜欢的借口。"
+      }
+    },
+    {
+      "word": "prescient",
+      "zh": "有先见之明的",
+      "root": "scire",
+      "partOfSpeech": "adj.",
+      "phonetic": "PRESH'-ant",
+      "gloss": {
+        "en": "Knowing in advance — pre- (before) + scire (know). What looks like prophecy is usually just careful pattern recognition.",
+        "zh": "提前就知道 — pre-（之前）+ scire（知）。看上去像预言的事，多半只是认真观察出的规律。"
+      },
+      "usage": {
+        "en": "She wasn't prescient — she just listened to people everyone else dismissed.",
+        "zh": "她不是有先见之明 — 她只是听了一些别人懒得听的人。"
+      }
+    },
+    {
+      "word": "gregarious",
+      "zh": "合群的、爱社交的",
+      "root": "grex",
+      "partOfSpeech": "adj.",
+      "phonetic": "gri-GAIR'-ee-us",
+      "gloss": {
+        "en": "Of the flock — grex. A gregarious person thrives in groups. Same root as 'egregious,' minus the 'out of.'",
+        "zh": "属于群体的 — grex（群）。合群的人在人群里如鱼得水。和 egregious 同根，少了'出'。"
+      },
+      "usage": {
+        "en": "Most gregarious people aren't avoiding silence — they're just better at thinking out loud.",
+        "zh": "大部分爱社交的人，不是在躲避安静 — 他们只是更擅长'出声地思考'。"
+      }
+    },
+    {
+      "word": "aggregate",
+      "zh": "聚合、总和",
+      "root": "grex",
+      "partOfSpeech": "v./n.",
+      "phonetic": "AG'-ra-gayt",
+      "gloss": {
+        "en": "Gathered together — ad- (to) + grex (flock). To collect many small things into one number, one heap, one whole.",
+        "zh": "聚到一起 — ad-（向）+ grex（群）。把许多小的东西汇成一个数、一堆、一个整体。"
+      },
+      "usage": {
+        "en": "The aggregate of small kindnesses is what a long marriage really is.",
+        "zh": "一段长久的婚姻，其实就是无数小小善意的总和。"
+      }
+    },
+    {
+      "word": "congregate",
+      "zh": "聚集",
+      "root": "grex",
+      "partOfSpeech": "v.",
+      "phonetic": "KON'-gri-gayt",
+      "gloss": {
+        "en": "To flock together — con- (together) + grex. What people do at funerals, weddings, and the coffee machine.",
+        "zh": "聚拢在一起 — con-（一起）+ grex（群）。葬礼、婚礼、咖啡机旁，人们做的同一件事。"
+      },
+      "usage": {
+        "en": "People congregate around food and grief — both demand company.",
+        "zh": "人们聚在食物旁，也聚在悲伤旁 — 这两样都需要有人陪着。"
+      }
+    },
+    {
+      "word": "segregate",
+      "zh": "隔离、分开",
+      "root": "grex",
+      "partOfSpeech": "v.",
+      "phonetic": "SEG'-ri-gayt",
+      "gloss": {
+        "en": "To set apart from the flock — se- (apart) + grex. A neutral word with a heavy history — used in laws of racial separation.",
+        "zh": "把某些个体从群中分开 — se-（分开）+ grex（群）。这个词本身中性，历史上却很重 — 曾用于种族隔离的法律。"
+      },
+      "usage": {
+        "en": "Most segregation isn't enforced by law anymore — it's enforced by who sits where, and which questions stay unasked.",
+        "zh": "大部分隔离不再靠法律执行 — 它靠的是谁坐在哪儿，以及哪些问题没人问。"
+      }
+    }
+  ]
+}

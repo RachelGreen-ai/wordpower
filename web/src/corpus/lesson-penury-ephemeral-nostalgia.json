@@ -1,0 +1,500 @@
+{
+  "lessonId": "penury-ephemeral-nostalgia",
+  "hook": {
+    "headline": {
+      "en": "Three facts every life eventually meets — poverty, brevity, longing.",
+      "zh": "每个人迟早会撞上的三件事 — 贫穷、短暂、思念。"
+    },
+    "subtext": {
+      "en": "One about money. One about time. One about the past.",
+      "zh": "一个关于钱。一个关于时间。一个关于过去。"
+    }
+  },
+  "words": [
+    {
+      "word": "Penury",
+      "phonetic": "PEN'-ya-ree",
+      "chinese": "赤贫、一贫如洗",
+      "definition": {
+        "en": "Extreme poverty — not 'tight this month' but the deeper kind: no margin, no buffer, no hope of either appearing soon.",
+        "zh": "极度的贫困 — 不是'这个月手头紧'，而是更深的那一种：没有余地、没有缓冲、也看不到这两样什么时候会出现。"
+      },
+      "etymology": {
+        "root": "penuria",
+        "meaning": "want, scarcity",
+        "meaningZh": "匮乏、缺",
+        "en": "From Latin penuria = 'need, want, scarcity.' A small root, but a sharp one — Latin had a dedicated word for the specific weight of being out of what you need.",
+        "zh": "拉丁词根 penuria = 缺、匮乏。词根不大，但很尖锐 — 拉丁语专门有一个词，用来形容'你缺少所需之物'的那种特定重量。",
+        "relatives": [
+          {
+            "word": "penurious",
+            "zh": "贫困的（形容词）"
+          },
+          {
+            "word": "pauper",
+            "zh": "穷人（近义根）"
+          },
+          {
+            "word": "impoverished",
+            "zh": "贫穷化的（近义根）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She grew up in penury and never lost the habit of saving the rubber band off the broccoli.",
+          "zh": "她在赤贫里长大 — 一辈子都没改过把西兰花上那根橡皮筋留下来的习惯。"
+        },
+        {
+          "context": "social",
+          "en": "Penury isn't only about money — it's about the closing of options. Some richer lives feel that way too.",
+          "zh": "赤贫不只是钱的事 — 是选择被一个个关上的感觉。有些更富的生活也有这种感觉。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "贫",
+      "tint": "6a5a5a",
+      "mnemonic": {
+        "en": "Penuria = SCARCITY. Penury isn't 'broke for a week' — it's broke with the knob stuck.",
+        "zh": "Penuria = 匮乏。Penury 不是'这周没钱'，是'卡死'状态下的没钱。"
+      },
+      "commonConfusions": [
+        "poverty",
+        "destitution",
+        "want"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Poverty and penury both mean being poor. What's the difference?",
+            "zh": "Poverty 和 penury 都指穷。区别在哪？"
+          },
+          "answer": {
+            "en": "Poverty is the general state. Penury is the extreme — when even small things become unaffordable. One is a level. The other is its rock-bottom.",
+            "zh": "Poverty 是普通'穷'。Penury 是极端 — 连小东西都买不起。一个是层级，一个是层级的最底。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Charles Dickens grew up watching his father go to debtors' prison and his family fall into penury. His novels are full of poor characters because he KNEW what penury rearranged in a child's mind. Most great writers about poverty have lived it — the rest borrow.",
+        "zh": "狄更斯小时候眼看父亲进债务监狱、全家陷入赤贫。他小说里全是穷人，因为他真的知道贫穷把一个孩子的脑子重排成了什么样。大多数写贫穷写得好的作家都亲身经历过 — 其余都是借用。"
+      }
+    },
+    {
+      "word": "Ephemeral",
+      "phonetic": "i-FEM'-ar-al",
+      "chinese": "短暂的、转瞬即逝的",
+      "definition": {
+        "en": "Lasting only a short time — beautiful precisely because it won't stay. Cherry blossoms, viral songs, a perfect sentence said once.",
+        "zh": "只持续很短的时间 — 美正在'它不会停留'本身。樱花、爆红的歌、一句只说过一次的完美句子。"
+      },
+      "etymology": {
+        "root": "hemera",
+        "meaning": "day",
+        "meaningZh": "一天",
+        "en": "From Greek epi- (upon, for) + hemera (day). Literally 'lasting for a day.' Originally a biology term for insects with one-day lifespans — mayflies. The word kept the wing-flutter quality.",
+        "zh": "希腊 epi-（在…上、为期）+ hemera（一天）。字面是'为期一天'。最初是生物学术语，用来形容寿命只有一天的昆虫 — 蜉蝣。这个词留住了那种'翅膀扑动'的质感。",
+        "relatives": [
+          {
+            "word": "ephemera",
+            "zh": "短暂之物（名词）"
+          },
+          {
+            "word": "ephemeron",
+            "zh": "蜉蝣类"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The early morale boost was ephemeral — by Thursday the team was back to its usual quiet grumble.",
+          "zh": "那波早期的士气提升是短暂的 — 到了周四，团队又回到了平常那种安静的小抱怨。"
+        },
+        {
+          "context": "social",
+          "en": "Some pleasures are ephemeral by design — the first sip of coffee, the snow on a streetlight, your child saying something quotable.",
+          "zh": "有些快乐本来就是短暂的 — 第一口咖啡、街灯上的雪、孩子说出一句值得记住的话。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "短暂",
+      "tint": "8aa6b0",
+      "mnemonic": {
+        "en": "Epi + Hemera = FOR-A-DAY. The mayfly lives one day. Notice it anyway.",
+        "zh": "Epi + Hemera = 为期一天。蜉蝣只活一天。也要去看它。"
+      },
+      "commonConfusions": [
+        "transient",
+        "fleeting",
+        "transitory"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Ephemeral, transient, fleeting. Same idea, different texture — what?",
+            "zh": "Ephemeral、transient、fleeting 想法相同，质感不同。怎么不同？"
+          },
+          "answer": {
+            "en": "Ephemeral leans poetic (beautiful AND brief). Transient is neutral (just passing). Fleeting is hurried (gone before you notice). Same brevity. Different mood.",
+            "zh": "Ephemeral 偏诗意（美且短）。Transient 中性（只是路过）。Fleeting 急促（还没注意就走了）。同样的短暂，不同的心情。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The Japanese aesthetic of 'mono no aware' — the gentle sadness of things passing — is essentially the ephemeral, turned into a way of seeing. Cherry blossoms aren't beautiful despite falling. They are beautiful because they fall.",
+        "zh": "日本人的美学概念'物哀'（mono no aware）— 对事物逝去的那种轻微哀感 — 本质上就是把'短暂'变成一种看世界的方式。樱花不是'尽管会落但依然美'，而是'因为会落，才美'。"
+      }
+    },
+    {
+      "word": "Nostalgia",
+      "phonetic": "nos-TAL'-ja",
+      "chinese": "怀旧、思乡",
+      "definition": {
+        "en": "A wistful longing for the past — sometimes for a real one, sometimes for one that's been edited by memory into something gentler than it was.",
+        "zh": "对过去的一种带着哀伤的渴望 — 有时是对真实的过去，有时是对'被记忆修过、比实际更温柔'的过去。"
+      },
+      "etymology": {
+        "root": "nostos + algos",
+        "meaning": "homecoming + pain",
+        "meaningZh": "归家 + 痛",
+        "en": "From Greek nostos (return home) + algos (pain). Coined in 1688 by a Swiss medical student to describe Swiss mercenaries dying of homesickness in foreign wars. Same algos in 'neuralgia' (nerve pain) and 'analgesic' (no pain).",
+        "zh": "希腊 nostos（归家）+ algos（痛）。1688年由一位瑞士医学生造词，用来描述在外国当兵的瑞士雇佣兵因思乡而病死。同一个 algos 出现在 neuralgia（神经痛）、analgesic（止痛药）里。",
+        "relatives": [
+          {
+            "word": "neuralgia",
+            "zh": "神经痛"
+          },
+          {
+            "word": "analgesic",
+            "zh": "止痛药"
+          },
+          {
+            "word": "nostalgic",
+            "zh": "怀旧的（形）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Don't let nostalgia run hiring — 'we used to do it this way' has retired more good ideas than any budget cut.",
+          "zh": "别让怀旧主导招聘 — '我们以前就是这么做的'，比任何预算削减都更能让好想法退休。"
+        },
+        {
+          "context": "social",
+          "en": "Nostalgia is a kind editor — it deletes the bad weather from every childhood summer.",
+          "zh": "怀旧是个温柔的剪辑师 — 它会把每一个童年夏天里的坏天气都剪掉。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "怀旧",
+      "tint": "a08a6a",
+      "mnemonic": {
+        "en": "Nostos + Algos = HOME + PAIN. Nostalgia is the ache of a place that may no longer exist outside of memory.",
+        "zh": "Nostos + Algos = 归家 + 痛。怀旧是一种疼 — 思念一个或许只活在记忆里的地方。"
+      },
+      "commonConfusions": [
+        "homesickness",
+        "longing",
+        "wistfulness"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Homesickness and nostalgia both ache for a place. What's the difference?",
+            "zh": "Homesickness 和 nostalgia 都是想念某个地方。区别在哪？"
+          },
+          "answer": {
+            "en": "Homesickness misses a place that exists — you can return. Nostalgia misses a place that may have only existed in memory — you can't.",
+            "zh": "Homesickness 想念的是一个真实存在的地方 — 你可以回去。Nostalgia 想念的是一个也许只活在记忆里的地方 — 你回不去。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Doctors once thought nostalgia could kill — and they weren't entirely wrong. Soldiers stationed far from home died at higher rates from infections their bodies were too sad to fight. The cure prescribed in 1700s Europe: send them home. Sometimes the diagnosis is correct AND the treatment is just kindness.",
+        "zh": "医生曾经认为怀旧能致死 — 而他们并没全错。远离故土的士兵，感染时死亡率更高 — 因为身体太悲伤，没力气抵抗。十八世纪欧洲的处方是：送他们回家。有时诊断是对的，而治疗，就只是温柔本身。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Penury and nostalgia both ache. But one is about now. The other is about then.",
+      "zh": "贫穷和怀旧都让人疼。但一个关于此刻，一个关于过去。"
+    },
+    "leftLabel": "Penury",
+    "leftLine": {
+      "en": "No money, no margin, no buffer.",
+      "zh": "没钱、没余地、没缓冲。"
+    },
+    "leftMnemonic": {
+      "en": "Penuria = SCARCITY · pain in the present.",
+      "zh": "Penuria = 匮乏 · 当下的痛。"
+    },
+    "rightLabel": "Nostalgia",
+    "rightLine": {
+      "en": "Memory of a place that may no longer exist.",
+      "zh": "对一个可能不再存在的地方的思念。"
+    },
+    "rightMnemonic": {
+      "en": "Nostos + Algos = HOME + PAIN · pain about the past.",
+      "zh": "Nostos + Algos = 家 + 痛 · 关于过去的痛。"
+    },
+    "closing": {
+      "en": "One can be fixed by money. The other has to be fixed by attention.",
+      "zh": "一个能用钱解决。另一个只能用注意力解决。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Most lives meet all three — the lean year, the brief joy, the longing afterward. Naming them is the first quiet act of carrying them well.",
+      "zh": "大多数人生都会撞上这三件事 — 紧巴的那一年、短暂的欢喜、过后的思念。给它们起名字，是好好地把它们带在身上的第一个动作。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/penury-ephemeral-nostalgia/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/penury-ephemeral-nostalgia/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/penury-ephemeral-nostalgia/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/penury-ephemeral-nostalgia/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/penury-ephemeral-nostalgia/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/penury-ephemeral-nostalgia/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/penury-ephemeral-nostalgia/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/penury-ephemeral-nostalgia/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/penury-ephemeral-nostalgia/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/penury-ephemeral-nostalgia/twist.left.wav",
+    "twist.right": "audio/vocab/penury-ephemeral-nostalgia/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/penury-ephemeral-nostalgia/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/penury-ephemeral-nostalgia/hook.headline.wav",
+    "word.0.definition": "audio/vocab/penury-ephemeral-nostalgia/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/penury-ephemeral-nostalgia/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/penury-ephemeral-nostalgia/word.2.definition.wav",
+    "twist.setup": "audio/vocab/penury-ephemeral-nostalgia/twist.setup.wav",
+    "twist.closing": "audio/vocab/penury-ephemeral-nostalgia/twist.closing.wav",
+    "recap.reflection": "audio/vocab/penury-ephemeral-nostalgia/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 14,
+    "session": 39,
+    "pages": [
+      401,
+      425
+    ],
+    "theme": "Common Phenomena",
+    "subtheme": "Poverty, brevity, longing"
+  },
+  "tags": [
+    "common-phenomena",
+    "feelings",
+    "ch14",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "penurious",
+      "zh": "贫困的、拮据的",
+      "root": "penuria",
+      "partOfSpeech": "adj.",
+      "phonetic": "pa-NOOR'-ee-as",
+      "gloss": {
+        "en": "Adjective form of penury — describes the person or condition, not just the noun.",
+        "zh": "Penury 的形容词形式 — 描述处于贫困状态的人或情况。"
+      },
+      "usage": {
+        "en": "A penurious upbringing teaches a strange skill — the ability to enjoy what costs nothing.",
+        "zh": "在贫困中长大教会一种奇怪的能力 — 能享受那些不需要花钱的东西。"
+      }
+    },
+    {
+      "word": "pauper",
+      "zh": "穷人",
+      "root": "pauper",
+      "partOfSpeech": "n.",
+      "phonetic": "PAW'-par",
+      "gloss": {
+        "en": "From Latin pauper (poor). A historical word for one with nothing — used in old legal documents and Dickens novels.",
+        "zh": "来自拉丁 pauper（穷）。一个历史词，指身无分文的人 — 出现在旧法律文书和狄更斯小说里。"
+      },
+      "usage": {
+        "en": "'A king who lives like a pauper' is the rare honest leader — the kind history records gently.",
+        "zh": "'活得像穷人的国王'是少数诚实的领导者 — 历史会用温和的语气记下他们。"
+      },
+      "rootMeaning": "poor (Latin)",
+      "rootMeaningZh": "穷（拉丁）",
+      "rootTint": "8a6a5a"
+    },
+    {
+      "word": "poverty",
+      "zh": "贫穷",
+      "root": "pauper",
+      "partOfSpeech": "n.",
+      "phonetic": "POV'-ar-tee",
+      "gloss": {
+        "en": "The general state of being poor — directly from pauper. The everyday word, broader than penury.",
+        "zh": "穷的普遍状态 — 直接来自 pauper。日常用语，比 penury 范围更广。"
+      },
+      "usage": {
+        "en": "Poverty isn't only material — there's also a poverty of attention, of time, of imagination. The material kind is just the most visible.",
+        "zh": "贫困不仅是物质上的 — 还有注意力的贫困、时间的贫困、想象力的贫困。物质那种只是最显眼的一种。"
+      }
+    },
+    {
+      "word": "impoverished",
+      "zh": "贫穷化的、贫乏的",
+      "root": "pauper",
+      "partOfSpeech": "adj.",
+      "phonetic": "im-POV'-ar-isht",
+      "gloss": {
+        "en": "Made poor — pauper as a verb. Often used for soil, language, ecosystems, not just bank accounts.",
+        "zh": "被弄穷的 — pauper 作为动词形式。常用于土地、语言、生态系统，不只是钱。"
+      },
+      "usage": {
+        "en": "A vocabulary impoverished by avoidance — you stop using certain words, and lose the ability to think the thoughts they carry.",
+        "zh": "一个因为'回避'而变得贫乏的词汇 — 你停止用某些词，慢慢就失去了它们能承载的那些思考。"
+      }
+    },
+    {
+      "word": "ephemera",
+      "zh": "短暂之物、零碎纪念品",
+      "root": "hemera",
+      "partOfSpeech": "n.",
+      "phonetic": "i-FEM'-ar-a",
+      "gloss": {
+        "en": "Things made to last only briefly — tickets, programs, posters, leaflets. Collectors of ephemera save what was meant to be thrown away.",
+        "zh": "本来只为短暂使用的东西 — 票根、节目单、海报、传单。收藏'ephemera'的人，保留的是本该被丢掉的东西。"
+      },
+      "usage": {
+        "en": "The most poignant museum exhibits are usually ephemera — a child's drawing, a soldier's last letter, a grocery list from 1942.",
+        "zh": "博物馆里最打动人的展品，常常是这种'短暂之物' — 一张儿童画、一封士兵的最后一封信、1942年的一张购物清单。"
+      }
+    },
+    {
+      "word": "diurnal",
+      "zh": "昼行性的、每日的",
+      "root": "dies",
+      "partOfSpeech": "adj.",
+      "phonetic": "di-UR'-nal",
+      "gloss": {
+        "en": "Active during the day — from Latin dies (day). Latin's cousin to Greek hemera. Same dies in 'journal,' 'diary,' 'sojourn,' and 'adjourn.'",
+        "zh": "白天活动的 — 来自拉丁 dies（日）。是希腊 hemera 的表亲。同一个 dies 出现在 journal、diary、sojourn、adjourn 里。"
+      },
+      "usage": {
+        "en": "Humans are diurnal animals trying to live nocturnal schedules — and then wondering why we're tired.",
+        "zh": "人类是昼行动物，却试图过夜行生活 — 然后还纳闷为什么这么累。"
+      },
+      "rootMeaning": "day (Latin)",
+      "rootMeaningZh": "日、白天（拉丁）",
+      "rootTint": "8aa68a"
+    },
+    {
+      "word": "journal",
+      "zh": "日记、期刊",
+      "root": "dies",
+      "partOfSpeech": "n.",
+      "phonetic": "JUR'-nal",
+      "gloss": {
+        "en": "Originally a daily record — from Old French jurnal, from Latin diurnalis (of a day). Now: any periodical, or a personal diary.",
+        "zh": "原本指每日的记录 — 来自古法语 jurnal，源自拉丁 diurnalis（每日的）。现在指期刊，或个人日记。"
+      },
+      "usage": {
+        "en": "A journal kept for a year teaches you what you actually think — most of which is different from what you think you think.",
+        "zh": "写一年日记会让你看清自己真正在想什么 — 多半和你以为自己在想的不一样。"
+      }
+    },
+    {
+      "word": "diary",
+      "zh": "日记本",
+      "root": "dies",
+      "partOfSpeech": "n.",
+      "phonetic": "DI'-ar-ee",
+      "gloss": {
+        "en": "A daily record — directly from dies (day). Same root family as 'journal' and 'diurnal.'",
+        "zh": "每日的记录 — 直接来自 dies（日）。和 journal、diurnal 同根。"
+      },
+      "usage": {
+        "en": "A diary survives you. Choose what to put in it as if someone gentle might read it later.",
+        "zh": "日记会比你活得长。写它的时候，要像有人将来会温柔地读它一样去选内容。"
+      }
+    },
+    {
+      "word": "neuralgia",
+      "zh": "神经痛",
+      "root": "algos",
+      "partOfSpeech": "n.",
+      "phonetic": "noo-RAL'-ja",
+      "gloss": {
+        "en": "Nerve pain — neuro- (nerve) + algos (pain). Same algos as 'nostalgia' — both are pains, one in the body, one in the memory.",
+        "zh": "神经的痛 — neuro-（神经）+ algos（痛）。和 nostalgia 同根 — 都是痛，一个在身体，一个在记忆。"
+      },
+      "usage": {
+        "en": "Neuralgia teaches you that pain isn't always 'damage' — sometimes the wire is just sending the signal too easily.",
+        "zh": "神经痛让你明白：'痛'不一定等于'有伤' — 有时候只是那根线把信号传得太容易了。"
+      },
+      "rootMeaning": "pain (Greek)",
+      "rootMeaningZh": "痛（希腊）",
+      "rootTint": "956a6a"
+    },
+    {
+      "word": "analgesic",
+      "zh": "止痛药、止痛的",
+      "root": "algos",
+      "partOfSpeech": "n./adj.",
+      "phonetic": "an'-al-JEE'-zik",
+      "gloss": {
+        "en": "Pain-relieving — an- (without) + algos (pain). Aspirin and ibuprofen are analgesics. So is being heard.",
+        "zh": "止痛的 — an-（没有）+ algos（痛）。阿司匹林、布洛芬都是 analgesic。'被认真听'也是。"
+      },
+      "usage": {
+        "en": "The strongest analgesic in the room is often just someone who stays.",
+        "zh": "屋子里最强的止痛药，常常只是一个愿意留下来的人。"
+      }
+    },
+    {
+      "word": "nostalgic",
+      "zh": "怀旧的",
+      "root": "algos",
+      "partOfSpeech": "adj.",
+      "phonetic": "nos-TAL'-jik",
+      "gloss": {
+        "en": "Adjective form of nostalgia — describes the feeling, the song, the food that triggers it.",
+        "zh": "Nostalgia 的形容词形式 — 描述感觉、歌曲、或唤起怀旧的食物。"
+      },
+      "usage": {
+        "en": "A nostalgic playlist is a self-portrait — every song picked because it remembered something about you.",
+        "zh": "一个怀旧的歌单就是一份自画像 — 每首歌都被选中，是因为它记得你身上的某件事。"
+      }
+    },
+    {
+      "word": "adjourn",
+      "zh": "休会、推迟",
+      "root": "dies",
+      "partOfSpeech": "v.",
+      "phonetic": "a-JURN'",
+      "gloss": {
+        "en": "Literally 'to put to a (later) day' — ad- (to) + jurn (day, from diurnal). When a meeting adjourns, it's deferred to another day.",
+        "zh": "字面是'推到（另一个）日子' — ad-（向）+ jurn（日，来自 diurnal）。会议 adjourn，就是延到另一天。"
+      },
+      "usage": {
+        "en": "A meeting wisely adjourned is better than a decision badly made — but most teams find that hard to remember.",
+        "zh": "一个明智地休会的会议，胜过一个仓促做出的坏决定 — 大多数团队记不住这件事。"
+      }
+    }
+  ]
+}

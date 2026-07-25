@@ -1,0 +1,499 @@
+{
+  "lessonId": "taciturn-laconic-inarticulate",
+  "hook": {
+    "headline": {
+      "en": "Three reasons someone says little. They are not the same.",
+      "zh": "一个人话少，有三种原因。它们不是同一件事。"
+    },
+    "subtext": {
+      "en": "By choice. By craft. By being overwhelmed.",
+      "zh": "出于选择。出于讲究。出于被淹没。"
+    }
+  },
+  "words": [
+    {
+      "word": "Taciturn",
+      "phonetic": "TAS'-i-turn",
+      "chinese": "沉默寡言的",
+      "definition": {
+        "en": "Disinclined to talk — not shy, not unable. Simply prefers silence. A taciturn person isn't hiding anything; they're just not in the mood to translate it into words.",
+        "zh": "不爱说话的 — 不是害羞，也不是说不出来。只是更喜欢安静。沉默寡言的人不是在隐瞒什么 — 他们只是不想把心里的东西翻译成话。"
+      },
+      "etymology": {
+        "root": "tacere",
+        "meaning": "to be silent",
+        "meaningZh": "沉默",
+        "en": "From Latin tacere = 'to be silent.' Same root that gives us 'tacit' (unspoken but understood) and 'reticent' (re- + tacere, holding speech back).",
+        "zh": "拉丁词根 tacere = 沉默。同根的还有 tacit（心照不宣）和 reticent（re- + tacere，把话留着不说）。",
+        "relatives": [
+          {
+            "word": "tacit",
+            "zh": "心照不宣的、默许的"
+          },
+          {
+            "word": "reticent",
+            "zh": "缄默的"
+          },
+          {
+            "word": "taciturnity",
+            "zh": "沉默寡言（名）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She's taciturn in meetings — but pay attention when she does speak. She's been listening longer than anyone.",
+          "zh": "她在会上很沉默 — 但她一开口就要认真听。她比任何人都听得更久。"
+        },
+        {
+          "context": "parenting",
+          "en": "Some kids are simply taciturn — not shy, not anxious. Just preferring their own quiet.",
+          "zh": "有些孩子就是不爱说话 — 不害羞，不焦虑，只是喜欢自己的安静。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "沉默",
+      "tint": "5e7a99",
+      "mnemonic": {
+        "en": "Tacere = TO BE SILENT. Taciturn = silence as a settled trait — not a moment of it, a whole disposition.",
+        "zh": "Tacere = 沉默。Taciturn 是把沉默当成性格的底色 — 不是一阵安静，是整个人的气质。"
+      },
+      "commonConfusions": [
+        "shy",
+        "reticent",
+        "withdrawn"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Shy and taciturn both involve quiet. What's the difference?",
+            "zh": "Shy（害羞）和 taciturn（沉默寡言）都包含'安静'。区别在哪？"
+          },
+          "answer": {
+            "en": "Shy = wants to talk, can't. Taciturn = doesn't particularly want to talk. One is held back; the other simply isn't pulled forward.",
+            "zh": "Shy = 想说，但说不出来。Taciturn = 本来就不想说。一个是被拽住，一个是没有被吸引出来。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Abraham Lincoln was famously taciturn around strangers — long pauses, few words. People mistook it for slowness. His law partner later wrote that those silences were the loudest thinking in the room.",
+        "zh": "林肯在陌生人面前出了名的沉默 — 长久的停顿，寥寥几句话。人们误以为他迟钝。他的律师合伙人后来写道：那些沉默，是屋子里最响亮的思考。"
+      }
+    },
+    {
+      "word": "Laconic",
+      "phonetic": "la-KON'-ik",
+      "chinese": "简练的、言简意赅的",
+      "definition": {
+        "en": "Brief and to the point — saying a great deal in very few words. Laconic isn't lazy speech; it's polished speech, with everything unnecessary cut away.",
+        "zh": "简练的、字字到位 — 用极少的字说出很多。Laconic 不是懒得说话，而是磨过的说话方式 — 多余的全被切掉。"
+      },
+      "etymology": {
+        "root": "Lakonikos",
+        "meaning": "of Laconia (Sparta)",
+        "meaningZh": "斯巴达（拉科尼亚）的",
+        "en": "From Greek Lakonikos = 'of Laconia,' the region of ancient Sparta. The Spartans were famous for crushing speech down to its bones. When Philip of Macedon threatened, 'If I invade Laconia, I will raze it to the ground,' the Spartans replied: 'If.' That's laconic.",
+        "zh": "希腊 Lakonikos = '拉科尼亚的'，也就是古斯巴达地区。斯巴达人以把话切到只剩骨头出名。马其顿王腓力威胁说：'如果我入侵拉科尼亚，我会把它夷为平地。'斯巴达人只回了一个字：'如果。'这就是 laconic。",
+        "relatives": [
+          {
+            "word": "Sparta",
+            "zh": "斯巴达（古希腊城邦）"
+          },
+          {
+            "word": "spartan",
+            "zh": "简朴的、严苛的"
+          },
+          {
+            "word": "Laconia",
+            "zh": "拉科尼亚（古希腊地区）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "His emails are laconic — three lines, the answer, sign-off. You don't realize how much you appreciate it until you go back to longer ones.",
+          "zh": "他的邮件很简练 — 三行，答案，落款。你只有回去看长邮件，才意识到自己有多想念这种简洁。"
+        },
+        {
+          "context": "friends",
+          "en": "When asked how the date went, she gave a laconic 'fine' — and you knew not to ask a follow-up.",
+          "zh": "问她约会怎么样，她简练地回了一句'还行' — 你就知道不用再问了。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "简练",
+      "tint": "595e6b",
+      "mnemonic": {
+        "en": "Lakonikos = SPARTAN. Spartans cut their speech the way they cut their bread — no excess. Laconic is brevity that's been EARNED.",
+        "zh": "Lakonikos = 斯巴达式的。斯巴达人切话像切面包 — 没有多余。Laconic 的简短，是磨出来的。"
+      },
+      "commonConfusions": [
+        "terse",
+        "concise",
+        "curt"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Laconic, terse, and curt are all short. Which one is rude?",
+            "zh": "Laconic、terse、curt 都'短'。哪一个是粗鲁的？"
+          },
+          "answer": {
+            "en": "Laconic = brief with elegance. Terse = brief and businesslike, maybe a little blunt. Curt = brief AND impolite — the shortness IS the rudeness.",
+            "zh": "Laconic = 短得优雅。Terse = 短得务实，也许有点直。Curt = 短得无礼 — 短本身就是粗鲁。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Calvin Coolidge, the famously laconic American president, was once challenged by a dinner guest: 'I have a bet I can get you to say more than two words.' Coolidge looked up and replied: 'You lose.' Two words. The bet was paid.",
+        "zh": "出了名简练的美国总统柯立芝，曾被一位晚宴宾客挑衅：'我打了赌，要让你说出超过两个词。'柯立芝抬头回答：'You lose.'（你输了。）两个词。赌付清了。"
+      }
+    },
+    {
+      "word": "Inarticulate",
+      "phonetic": "in'-ar-TIK'-ya-lit",
+      "chinese": "说不出话的、不善表达的",
+      "definition": {
+        "en": "Unable to express yourself in words — usually because emotion or pressure has stripped the words away. The thoughts are there. The bridge to language is washed out.",
+        "zh": "说不出话来 — 通常是因为情绪或压力把语言冲走了。想法是存在的，只是通向语言的那座桥断了。"
+      },
+      "etymology": {
+        "root": "artus",
+        "meaning": "joint, joining",
+        "meaningZh": "关节、连接",
+        "en": "From Latin in- (not) + articulus (a small joint) — itself from artus (joint). To articulate is to JOIN your thoughts into words; inarticulate means those joints failed. Same artus is hidden inside 'article,' 'artisan,' 'joint,' and even 'art.'",
+        "zh": "拉丁 in-（不）+ articulus（小关节），articulus 又来自 artus（关节）。Articulate 的意思是把想法'连接'成话；inarticulate 就是那些关节脱开了。同一个 artus 藏在 article、artisan、joint，甚至 art 里。",
+        "relatives": [
+          {
+            "word": "articulate",
+            "zh": "清晰表达"
+          },
+          {
+            "word": "article",
+            "zh": "文章、条款"
+          },
+          {
+            "word": "joint",
+            "zh": "关节"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He was so angry he became inarticulate — and people stopped taking him seriously, even though he was right.",
+          "zh": "他气得说不出话 — 大家就不再认真听他，哪怕他说得是对的。"
+        },
+        {
+          "context": "social",
+          "en": "Grief makes everyone inarticulate at first. The words come back later, in their own time.",
+          "zh": "悲伤最初让所有人都说不出话。词语会再回来，但是按它自己的节奏。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "失语",
+      "tint": "8a7f7f",
+      "mnemonic": {
+        "en": "In + Articulus = NOT-JOINTED. The thoughts are there. The joints between thought and word came apart.",
+        "zh": "In + Articulus = 没有关节。想法在那里，但'想法'和'语言'之间的关节脱了。"
+      },
+      "commonConfusions": [
+        "mute",
+        "stammering",
+        "speechless"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Speechless and inarticulate are close. What's the difference?",
+            "zh": "Speechless 和 inarticulate 接近。区别在哪？"
+          },
+          "answer": {
+            "en": "Speechless = momentarily can't speak (usually from shock). Inarticulate = the words come out, but they don't connect — the joining is broken.",
+            "zh": "Speechless = 一时说不出话（通常是被震到了）。Inarticulate = 话能说出来，但接不上 — '连接'是坏的。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "When Helen Keller, deaf and blind from infancy, first learned that things had names, she ran around the house touching objects and demanding their names. She'd been inarticulate not for lack of mind, but for lack of bridge. The bridge changed everything.",
+        "zh": "海伦·凯勒从婴儿期起就又聋又盲。她第一次明白事物可以有名字时，绕着屋子跑，摸到什么就要那个名字。她之前的'说不出'，不是缺少思想 — 是缺少那座桥。桥一搭起来，一切都变了。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both say little. But one is silent. The other is precise.",
+      "zh": "两人话都少。但一个是沉默，一个是精准。"
+    },
+    "leftLabel": "Taciturn",
+    "leftLine": {
+      "en": "Withholds speech. Prefers the quiet.",
+      "zh": "留住话。偏爱安静。"
+    },
+    "leftMnemonic": {
+      "en": "Tacere = TO BE SILENT · the door stays closed.",
+      "zh": "Tacere = 沉默 · 门是关着的。"
+    },
+    "rightLabel": "Laconic",
+    "rightLine": {
+      "en": "Speaks once, exactly.",
+      "zh": "开一次口，正中要害。"
+    },
+    "rightMnemonic": {
+      "en": "Lakonikos = SPARTAN · words cut to the bone.",
+      "zh": "Lakonikos = 斯巴达式 · 话切到只剩骨头。"
+    },
+    "closing": {
+      "en": "Taciturn won't speak. Laconic speaks once, perfectly.",
+      "zh": "Taciturn 不说。Laconic 说一次，但说得完美。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Silence isn't one thing — it can be a choice, a craft, or a sign of being overwhelmed. Learn to tell them apart in others. And in yourself.",
+      "zh": "沉默不是一种东西 — 它可能是选择、可能是讲究、也可能是被淹没。学会在别人身上分清这三种，也在自己身上分清。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/taciturn-laconic-inarticulate/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/taciturn-laconic-inarticulate/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/taciturn-laconic-inarticulate/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/taciturn-laconic-inarticulate/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/taciturn-laconic-inarticulate/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/taciturn-laconic-inarticulate/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/taciturn-laconic-inarticulate/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/taciturn-laconic-inarticulate/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/taciturn-laconic-inarticulate/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/taciturn-laconic-inarticulate/twist.left.wav",
+    "twist.right": "audio/vocab/taciturn-laconic-inarticulate/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/taciturn-laconic-inarticulate/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/taciturn-laconic-inarticulate/hook.headline.wav",
+    "word.0.definition": "audio/vocab/taciturn-laconic-inarticulate/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/taciturn-laconic-inarticulate/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/taciturn-laconic-inarticulate/word.2.definition.wav",
+    "twist.setup": "audio/vocab/taciturn-laconic-inarticulate/twist.setup.wav",
+    "twist.closing": "audio/vocab/taciturn-laconic-inarticulate/twist.closing.wav",
+    "recap.reflection": "audio/vocab/taciturn-laconic-inarticulate/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 10,
+    "session": 24,
+    "pages": [
+      239,
+      260
+    ],
+    "theme": "Speech Habits",
+    "subtheme": "Saying little — silence in three flavors"
+  },
+  "tags": [
+    "speech",
+    "speech-habits",
+    "silence",
+    "ch10",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "tacit",
+      "zh": "心照不宣的、默许的",
+      "root": "tacere",
+      "partOfSpeech": "adj.",
+      "phonetic": "TAS'-it",
+      "gloss": {
+        "en": "Understood without being said — directly from tacere (to be silent). The agreement no one wrote down, but everyone follows.",
+        "zh": "不必明说就被理解的 — 直接来自 tacere（沉默）。那种没人写下来、但每个人都遵守的默契。"
+      },
+      "usage": {
+        "en": "Every team has tacit rules — who arrives early, who runs the meeting if the boss is out. The unwritten ones often matter most.",
+        "zh": "每个团队都有心照不宣的规则 — 谁先到、老板不在时由谁主持。这些没写下来的规则，常常是最重要的。"
+      }
+    },
+    {
+      "word": "reticent",
+      "zh": "缄默的、不愿多说的",
+      "root": "tacere",
+      "partOfSpeech": "adj.",
+      "phonetic": "RET'-i-sant",
+      "gloss": {
+        "en": "Holding speech back — re- (back) + tacere. Different from taciturn: reticent suggests you have something to say but choose not to.",
+        "zh": "把话留着不说 — re-（回）+ tacere。和 taciturn 不同：reticent 暗示你有话要说，只是选择不说。"
+      },
+      "usage": {
+        "en": "She was reticent about her past — not ashamed, just careful about who got which pieces of it.",
+        "zh": "她对过去很缄默 — 不是羞耻，只是谨慎地决定谁能得到哪一块。"
+      }
+    },
+    {
+      "word": "taciturnity",
+      "zh": "沉默寡言（名词）",
+      "root": "tacere",
+      "partOfSpeech": "n.",
+      "phonetic": "tas'-i-TURN'-i-tee",
+      "gloss": {
+        "en": "The quality of being taciturn — the disposition itself, not just one quiet moment.",
+        "zh": "沉默寡言这种性情 — 是底色，不是某一刻的安静。"
+      },
+      "usage": {
+        "en": "His taciturnity was sometimes mistaken for coldness — but his closest friends knew it was just where his thinking lived.",
+        "zh": "他的沉默常被误读为冷漠 — 但最亲近的朋友知道，那只是他思考的地方。"
+      }
+    },
+    {
+      "word": "articulate",
+      "zh": "表达清晰的、清楚地说",
+      "root": "artus",
+      "partOfSpeech": "adj./v.",
+      "phonetic": "ar-TIK'-ya-lit (adj.) / ar-TIK'-ya-layt (v.)",
+      "gloss": {
+        "en": "Able to join thoughts into clear words — directly from articulus (small joint). What inarticulate has lost.",
+        "zh": "能把想法连接成清晰话语的 — 直接来自 articulus（小关节）。是 inarticulate 失去的能力。"
+      },
+      "usage": {
+        "en": "Being articulate isn't about big words. It's about the joints between small ones — putting them in the right order.",
+        "zh": "表达清晰不是用大词，而是把小词之间的关节接好 — 把它们放在正确的顺序里。"
+      }
+    },
+    {
+      "word": "article",
+      "zh": "文章、条款",
+      "root": "artus",
+      "partOfSpeech": "n.",
+      "phonetic": "AR'-ti-kal",
+      "gloss": {
+        "en": "Literally 'a small joint' — articulus. The word came to mean a separate piece (of writing, of clothing, of a contract).",
+        "zh": "字面是'小关节' — articulus。后来指'一段独立的东西'（一篇文章、一件衣服、合同的一条）。"
+      },
+      "usage": {
+        "en": "A good article has joints you can feel — paragraphs that connect, sentences that turn at the right moment.",
+        "zh": "好的文章有能摸到的关节 — 段落与段落相连，句子在恰当的地方转弯。"
+      }
+    },
+    {
+      "word": "articulation",
+      "zh": "发音、阐述",
+      "root": "artus",
+      "partOfSpeech": "n.",
+      "phonetic": "ar-tik'-ya-LAY'-shan",
+      "gloss": {
+        "en": "The act of joining — used for pronunciation (joining sounds into words) AND for body joints (where bones meet).",
+        "zh": "'连接'这个动作 — 既用于发音（把声音连成词），也用于身体关节（骨头相接的地方）。"
+      },
+      "usage": {
+        "en": "A good speaker's articulation isn't perfect — it's just clear enough that the listener never has to do the joining themselves.",
+        "zh": "好的演说者的吐字并不完美 — 只是清晰到让听众不必自己去'拼接'。"
+      }
+    },
+    {
+      "word": "artisan",
+      "zh": "手艺人、匠人",
+      "root": "artus",
+      "partOfSpeech": "n.",
+      "phonetic": "AR'-ti-zan",
+      "gloss": {
+        "en": "A skilled maker — from the same artus (joint). The original meaning: someone who JOINS materials into a whole.",
+        "zh": "技艺娴熟的制作者 — 来自同一个 artus（关节）。最初意思：把材料连接成整体的人。"
+      },
+      "usage": {
+        "en": "A factory makes ten thousand identical chairs. An artisan makes one that knows your back.",
+        "zh": "工厂能造一万把一模一样的椅子。手艺人造的一把，会认识你的背。"
+      }
+    },
+    {
+      "word": "art",
+      "zh": "艺术、技艺",
+      "root": "artus",
+      "partOfSpeech": "n.",
+      "phonetic": "ART",
+      "gloss": {
+        "en": "Originally a skill of joining — the same family as artus. Art was first a CRAFT, not a gallery. The joining is still in the word.",
+        "zh": "最初意思是'连接的技艺' — 和 artus 同族。Art 最早指手艺，不是画廊里的东西。'连接'这层意思一直留在词里。"
+      },
+      "usage": {
+        "en": "All art is a kind of joining — colors to canvas, notes to silence, words to the moment that needed them.",
+        "zh": "一切艺术都是某种连接 — 颜色和画布、音符和寂静、词与那个正需要它们的时刻。"
+      }
+    },
+    {
+      "word": "joint",
+      "zh": "关节、接合处",
+      "root": "artus",
+      "partOfSpeech": "n.",
+      "phonetic": "JOINT",
+      "gloss": {
+        "en": "Where two things meet — Old French joint, ultimately from Latin junctus, cousin to artus. Body joints, wood joints, family joints.",
+        "zh": "两物相接的地方 — 古法语 joint，最终来自拉丁 junctus，与 artus 是远亲。身体的关节、木工的接合、家庭里的衔接。"
+      },
+      "usage": {
+        "en": "The strength of any structure is in its joints. The same is true of relationships.",
+        "zh": "任何结构的力量都在它的接合处。人和人的关系也是一样。"
+      }
+    },
+    {
+      "word": "silent",
+      "zh": "安静的、寂静的",
+      "root": "silere",
+      "partOfSpeech": "adj.",
+      "phonetic": "SI'-lant",
+      "gloss": {
+        "en": "Making no sound — from Latin silere (to be quiet). A sibling root to tacere, but more about the absence of sound than the choice not to speak.",
+        "zh": "不发出声音 — 来自拉丁 silere（安静）。和 tacere 是亲戚根，但 silere 更强调'声音不在'，而非'选择不说'。"
+      },
+      "usage": {
+        "en": "A silent room and a silent person are different. One has no sound. The other has chosen.",
+        "zh": "安静的房间和安静的人不是一回事。前者没有声音，后者做了选择。"
+      },
+      "rootMeaning": "to be quiet",
+      "rootMeaningZh": "安静",
+      "rootTint": "6a7d99"
+    },
+    {
+      "word": "silence",
+      "zh": "寂静、沉默",
+      "root": "silere",
+      "partOfSpeech": "n.",
+      "phonetic": "SI'-lans",
+      "gloss": {
+        "en": "The state of being silent — the noun of silere. Used for both literal quiet and meaningful pauses.",
+        "zh": "安静的状态 — silere 的名词形式。既用于真正的无声，也用于有意味的停顿。"
+      },
+      "usage": {
+        "en": "There's a silence that means 'I don't know,' and a silence that means 'I know exactly, and won't say.' Learn the difference.",
+        "zh": "有一种沉默是'我不知道'。有一种沉默是'我完全知道，但不说'。要学会分清。"
+      }
+    },
+    {
+      "word": "inarticulacy",
+      "zh": "言不达意（名词）",
+      "root": "artus",
+      "partOfSpeech": "n.",
+      "phonetic": "in'-ar-TIK'-ya-la-see",
+      "gloss": {
+        "en": "The state or quality of being inarticulate — the noun form. The broken bridge between thought and speech.",
+        "zh": "言不达意的状态 — 形容词的名词化。想法与言语之间那座断了的桥。"
+      },
+      "usage": {
+        "en": "Children's inarticulacy is charming. Adults' inarticulacy in important moments is heartbreaking.",
+        "zh": "孩子的说不清，是可爱的。成年人在重要时刻说不清，是心碎的。"
+      }
+    }
+  ]
+}

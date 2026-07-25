@@ -1,0 +1,489 @@
+{
+  "lessonId": "obsequious-supercilious-querulous",
+  "hook": {
+    "headline": {
+      "en": "Three -ous adjectives — fawning, haughty, complaining.",
+      "zh": "三个 -ous 形容词 — 谄媚的、傲慢的、爱抱怨的。"
+    },
+    "subtext": {
+      "en": "Three difficult ways of being in a room with other people.",
+      "zh": "和别人共处一室时，三种比较累的'存在方式'。"
+    }
+  },
+  "words": [
+    {
+      "word": "Obsequious",
+      "phonetic": "ab-SEE'-kwee-as",
+      "chinese": "谄媚的、卑躬屈膝的",
+      "definition": {
+        "en": "Excessively eager to please — bowing too low, agreeing too fast, looking up too often. An obsequious person isn't being kind. They're following.",
+        "zh": "过分热衷于讨好 — 鞠躬太低、附和太快、太频繁地抬头看上方。谄媚的人不是在做好事，他是在'跟随'。"
+      },
+      "etymology": {
+        "root": "sequi",
+        "meaning": "to follow",
+        "meaningZh": "跟随",
+        "en": "From Latin ob- (toward) + sequi (to follow). Literally 'to follow toward.' Same sequi in 'sequence,' 'sequel,' 'consequence,' 'subsequent,' and 'pursue.' The obsequious person is always following something — usually power.",
+        "zh": "拉丁 ob-（朝向）+ sequi（跟随）。字面是'朝着某人跟过去'。同一个 sequi 出现在 sequence（顺序）、sequel（续集）、consequence（后果）、subsequent（随后的）、pursue（追求）里。谄媚的人总在跟着什么 — 通常是权力。",
+        "relatives": [
+          {
+            "word": "sequence",
+            "zh": "顺序、序列"
+          },
+          {
+            "word": "sequel",
+            "zh": "续集"
+          },
+          {
+            "word": "consequence",
+            "zh": "后果"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He was obsequious with the executives and curt with the interns — the same person, two different rooms, no overlap.",
+          "zh": "他对高管谄媚，对实习生不耐烦 — 同一个人，两个房间，毫无重叠。"
+        },
+        {
+          "context": "social",
+          "en": "Obsequious agreement feels nice for thirty seconds — then you realize you've stopped getting anyone's actual opinion.",
+          "zh": "谄媚式的附和让人爽三十秒 — 然后你意识到自己已经听不到任何人真正的意见了。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "谄媚",
+      "tint": "a08855",
+      "mnemonic": {
+        "en": "Ob + Sequi = TOWARD-FOLLOWING. The obsequious person isn't deciding — they're tracking. Always one step behind whoever has power.",
+        "zh": "Ob + Sequi = 朝着跟随。谄媚的人不是在做决定 — 是在追踪。永远比手握权力的人慢半步。"
+      },
+      "commonConfusions": [
+        "servile",
+        "fawning",
+        "sycophantic"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Polite and obsequious both involve deference. Where's the line?",
+            "zh": "礼貌和谄媚都涉及'让步'。界限在哪？"
+          },
+          "answer": {
+            "en": "Polite is for everyone, equally. Obsequious is selective — only directed at those who can give you something.",
+            "zh": "礼貌是给所有人一样的。谄媚是有选择的 — 只对那些能给你好处的人。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "In Dickens's 'David Copperfield,' Uriah Heep keeps saying he's 'ever so 'umble' — the most famous obsequious character in English literature. His humility is a weapon disguised as a bow. Real humility doesn't keep announcing itself.",
+        "zh": "狄更斯《大卫·科波菲尔》里的尤利亚·希普一直说自己'非常之卑微' — 英国文学里最著名的谄媚角色。他的'谦卑'是一把伪装成鞠躬的武器。真正的谦卑从不会一直宣告自己。"
+      }
+    },
+    {
+      "word": "Supercilious",
+      "phonetic": "soo'-par-SIL'-ee-as",
+      "chinese": "傲慢的、不屑的",
+      "definition": {
+        "en": "Looking down on others — the raised-eyebrow attitude. A supercilious person doesn't argue; they look at you, slowly, and let the silence judge.",
+        "zh": "看不起别人 — 一种'眉毛挑起来'的态度。傲慢的人不和你争 — 他只是慢慢地看你一眼，让那段沉默替他下判决。"
+      },
+      "etymology": {
+        "root": "cilium",
+        "meaning": "eyelid, eyebrow",
+        "meaningZh": "眼睑、眉毛",
+        "en": "From Latin super- (above) + cilium (eyebrow). Literally 'above-the-eyebrow' — the raised brow that says 'I see, but I am not interested.' The Romans built a whole adjective around one facial gesture.",
+        "zh": "拉丁 super-（在上）+ cilium（眉毛）。字面是'眉毛之上' — 那种挑起来的眉，说着'我看见了，但我不感兴趣'。罗马人围着一个表情，造出了一整个形容词。",
+        "relatives": [
+          {
+            "word": "cilia",
+            "zh": "纤毛（眉、毛）"
+          },
+          {
+            "word": "super-",
+            "zh": "超过、之上（前缀）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "His supercilious 'interesting' was always the death of an idea — half the meeting could hear the eyebrow without looking up.",
+          "zh": "他那句傲慢的'有意思'，是想法的死讯 — 半个会议室不抬头都能听见他挑起来的眉。"
+        },
+        {
+          "context": "social",
+          "en": "Supercilious people rarely know they are — they think they're just 'discerning.' The audience disagrees, quietly.",
+          "zh": "傲慢的人很少知道自己傲慢 — 他们以为自己只是'有鉴别力'。观众心里有数，但不会说。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "傲慢",
+      "tint": "6a5a7d",
+      "mnemonic": {
+        "en": "Super + Cilium = ABOVE-EYEBROW. The lifted brow is the whole word. The Romans saw it and never needed another image.",
+        "zh": "Super + Cilium = 在眉之上。挑起的眉就是整个词。罗马人看见了它，再也不需要别的画面。"
+      },
+      "commonConfusions": [
+        "haughty",
+        "arrogant",
+        "condescending"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Arrogant and supercilious are close. What's the difference in delivery?",
+            "zh": "Arrogant 和 supercilious 接近。表达方式上的区别是什么？"
+          },
+          "answer": {
+            "en": "Arrogant is loud about its superiority. Supercilious is silent about it — the look does the work. One shouts. The other smirks.",
+            "zh": "Arrogant 把'优越感'大声说出来。Supercilious 是安静的 — 那个表情替它说了。一个吼，一个冷笑。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Cats are the patron animal of the supercilious — they watch you, blink slowly, and walk away. Humans do the same with smaller eyebrows. The cat at least has the dignity of not pretending interest.",
+        "zh": "猫是傲慢的守护神 — 它们看你一眼，慢慢眨眼，然后走开。人也做同样的事，只是眉毛小一点。猫至少还有不假装感兴趣的尊严。"
+      }
+    },
+    {
+      "word": "Querulous",
+      "phonetic": "KWER'-ya-las",
+      "chinese": "爱抱怨的、牢骚满腹的",
+      "definition": {
+        "en": "Habitually complaining — in a low-grade, ongoing way. Not big grievances; small ones, said often, in a tone that drags.",
+        "zh": "习惯性地抱怨 — 是低度但持续的那种。不是大冤大屈，是小小的、反复说、语气下沉的那种。"
+      },
+      "etymology": {
+        "root": "queri",
+        "meaning": "to complain",
+        "meaningZh": "抱怨",
+        "en": "From Latin queri = 'to complain.' Same queri in 'quarrel' — what happens when two querulous people put their complaints in the same room. The root carries the small, persistent friction of dissatisfaction.",
+        "zh": "拉丁 queri = 抱怨。同一个 queri 出现在 quarrel（争吵）里 — 两个 querulous 的人把抱怨放进同一个房间会发生什么。这个词根承载的是'不满'的小而持续的摩擦。",
+        "relatives": [
+          {
+            "word": "quarrel",
+            "zh": "争吵"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The team had one querulous member whose complaints were never wrong — just constant, until you stopped hearing them.",
+          "zh": "团队里有个爱抱怨的成员，抱怨的内容从不算错 — 只是太频繁，慢慢就没人听了。"
+        },
+        {
+          "context": "parenting",
+          "en": "A querulous child is sometimes just a tired one — the complaints are real, but the source is sleep, not the world.",
+          "zh": "爱抱怨的孩子，有时候只是累了 — 抱怨是真的，但根源是睡眠，不是世界。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "牢骚",
+      "tint": "8a6a4f",
+      "mnemonic": {
+        "en": "Queri = TO COMPLAIN. Querulous = the complaining hasn't stopped — it's become the weather of being around this person.",
+        "zh": "Queri = 抱怨。Querulous = 抱怨没停下来 — 它已经变成'和这个人在一起'的天气。"
+      },
+      "commonConfusions": [
+        "whining",
+        "grumbling",
+        "petulant"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Petulant and querulous both complain. What's the texture difference?",
+            "zh": "Petulant 和 querulous 都在抱怨。质感差别在哪？"
+          },
+          "answer": {
+            "en": "Petulant = sulky, easily offended, often childish. Querulous = chronically dissatisfied, in a low murmur. One is a flare-up. The other is steady rain.",
+            "zh": "Petulant = 闹小性子、容易被惹到、常带孩子气。Querulous = 长期不满，低沉地嘀咕。一个是突然冒火，一个是绵绵的雨。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Studies of long marriages find that querulousness predicts divorce better than any single conflict — not the loud fights, but the daily small complaints, said in the same tone, that wear the rope thin. The fix isn't bigger gestures. It's noticing the tone before it becomes the weather.",
+        "zh": "关于长期婚姻的研究发现：能预测离婚的，不是某次大吵 — 而是日常的牢骚，同样的语气说出来，慢慢把绳子磨细。修补的方法不是更大的姿态，而是 — 在'牢骚变成天气'之前就察觉语气。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Obsequious and supercilious both rearrange status. But one bows. The other looks down.",
+      "zh": "Obsequious 和 supercilious 都在排位置。但一个低头，一个俯视。"
+    },
+    "leftLabel": "Obsequious",
+    "leftLine": {
+      "en": "Bows too low. Always following.",
+      "zh": "鞠躬太低。永远在跟着。"
+    },
+    "leftMnemonic": {
+      "en": "Ob + Sequi = TOWARD-FOLLOWING · the chase.",
+      "zh": "Ob + Sequi = 朝着跟随 · 追逐。"
+    },
+    "rightLabel": "Supercilious",
+    "rightLine": {
+      "en": "Looks down. The eyebrow does the work.",
+      "zh": "俯视。眉毛替他说话。"
+    },
+    "rightMnemonic": {
+      "en": "Super + Cilium = ABOVE-EYEBROW · the look.",
+      "zh": "Super + Cilium = 眉之上 · 那个眼神。"
+    },
+    "closing": {
+      "en": "One climbs from below. The other freezes from above. Both make the room about hierarchy.",
+      "zh": "一个从下面攀爬。一个从上面冻住。两个都让整间屋子变成'谁高谁低'的事。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "The hardest rooms to be in aren't loud — they're the ones where someone is busy with status while everyone else is busy with the work.",
+      "zh": "最难待的屋子不是吵闹的 — 是有人忙着排座次，而其他人忙着做事的那种。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/obsequious-supercilious-querulous/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/obsequious-supercilious-querulous/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/obsequious-supercilious-querulous/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/obsequious-supercilious-querulous/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/obsequious-supercilious-querulous/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/obsequious-supercilious-querulous/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/obsequious-supercilious-querulous/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/obsequious-supercilious-querulous/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/obsequious-supercilious-querulous/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/obsequious-supercilious-querulous/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/obsequious-supercilious-querulous/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/obsequious-supercilious-querulous/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/obsequious-supercilious-querulous/twist.left.wav",
+    "twist.right": "audio/vocab/obsequious-supercilious-querulous/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/obsequious-supercilious-querulous/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/obsequious-supercilious-querulous/hook.headline.wav",
+    "word.0.definition": "audio/vocab/obsequious-supercilious-querulous/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/obsequious-supercilious-querulous/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/obsequious-supercilious-querulous/word.2.definition.wav",
+    "twist.setup": "audio/vocab/obsequious-supercilious-querulous/twist.setup.wav",
+    "twist.closing": "audio/vocab/obsequious-supercilious-querulous/twist.closing.wav",
+    "recap.reflection": "audio/vocab/obsequious-supercilious-querulous/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 16,
+    "session": 45,
+    "pages": [
+      478,
+      500
+    ],
+    "theme": "Personal Characteristics",
+    "subtheme": "Fawning, haughty, complaining"
+  },
+  "tags": [
+    "characteristics",
+    "social-difficulty",
+    "ch16",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "sequence",
+      "zh": "顺序、序列",
+      "root": "sequi",
+      "partOfSpeech": "n.",
+      "phonetic": "SEE'-kwans",
+      "gloss": {
+        "en": "Things following one another — directly from sequi (to follow). Same root as obsequious.",
+        "zh": "一个跟一个地排列 — 直接来自 sequi（跟随）。和 obsequious 同根。"
+      },
+      "usage": {
+        "en": "The right sequence saves more than the right ingredients — knowing what comes after what is half of cooking, and most of life.",
+        "zh": "对的顺序比对的材料更省事 — 知道什么在什么之后，是烹饪的一半，也是人生的大半。"
+      }
+    },
+    {
+      "word": "sequel",
+      "zh": "续集",
+      "root": "sequi",
+      "partOfSpeech": "n.",
+      "phonetic": "SEE'-kwal",
+      "gloss": {
+        "en": "Something that follows — sequi. Usually used for stories that continue, but also for events that grow out of earlier ones.",
+        "zh": "随后到来的东西 — sequi。常指延续的故事，也用于'从早期事件长出来'的后续事件。"
+      },
+      "usage": {
+        "en": "The sequel rarely lives up to the original — and that's a clue about how memory works, not about what's actually different.",
+        "zh": "续集很少超过初作 — 这是个关于记忆运作方式的线索，不一定是质量真的差。"
+      }
+    },
+    {
+      "word": "consequence",
+      "zh": "后果",
+      "root": "sequi",
+      "partOfSpeech": "n.",
+      "phonetic": "KON'-si-kwens",
+      "gloss": {
+        "en": "What follows from something — con- (with) + sequi. The thing that comes WITH the action.",
+        "zh": "由某事产生的后续 — con-（一起）+ sequi。和某个动作一起到来的那个东西。"
+      },
+      "usage": {
+        "en": "Most people fear consequences less than they should — and choose actions whose consequences they haven't actually pictured.",
+        "zh": "大多数人对'后果'的害怕比他们该有的要少 — 他们选择动作时，并没有真正想象过那个后果。"
+      }
+    },
+    {
+      "word": "subsequent",
+      "zh": "随后的、后续的",
+      "root": "sequi",
+      "partOfSpeech": "adj.",
+      "phonetic": "SUB'-si-kwant",
+      "gloss": {
+        "en": "Coming after — sub- (under, after) + sequi. The bureaucrat's word for 'later.'",
+        "zh": "之后的 — sub-（在下、之后）+ sequi。是行政体系里'后来'的说法。"
+      },
+      "usage": {
+        "en": "'Subsequent investigations' usually means 'we found out more, and someone has to update the email.'",
+        "zh": "'随后的调查'通常意味着'我们又查到一些，得有人去更新那封邮件了'。"
+      }
+    },
+    {
+      "word": "pursue",
+      "zh": "追求、追赶",
+      "root": "sequi",
+      "partOfSpeech": "v.",
+      "phonetic": "par-SOO'",
+      "gloss": {
+        "en": "To follow after — pro- (forward) + sequi. Active following. The hunter's verb.",
+        "zh": "向前追赶 — pro-（向前）+ sequi。主动的跟随。是猎人的动词。"
+      },
+      "usage": {
+        "en": "Pursue something for ten years and you become it — careful what you choose to chase.",
+        "zh": "追一件事追十年，你就会变成它 — 选你要追什么，要慎重。"
+      }
+    },
+    {
+      "word": "obsequies",
+      "zh": "葬礼仪式",
+      "root": "sequi",
+      "partOfSpeech": "n.",
+      "phonetic": "OB'-sa-kweez",
+      "gloss": {
+        "en": "Funeral rites — same sequi as obsequious. Mourners 'follow' the body. The word didn't intend irony, but here we are.",
+        "zh": "葬礼仪式 — 和 obsequious 同根（sequi）。送葬者'跟在'灵柩之后。这个词本无讽刺意味，但同根的偶然让它显得讽刺。"
+      },
+      "usage": {
+        "en": "We attend obsequies for ourselves as much as for the dead — to say out loud, 'I am still here.'",
+        "zh": "我们参加葬礼，一半是为亡者，一半是为自己 — 要大声地告诉自己：'我还在。'"
+      }
+    },
+    {
+      "word": "cilia",
+      "zh": "纤毛、睫毛",
+      "root": "cilium",
+      "partOfSpeech": "n.",
+      "phonetic": "SIL'-ee-a",
+      "gloss": {
+        "en": "Tiny hair-like structures — plural of cilium (eyelash). Used in biology for the microscopic fibers that move cells along.",
+        "zh": "细小的毛状结构 — cilium（睫毛）的复数。生物学里指带动细胞移动的微小纤维。"
+      },
+      "usage": {
+        "en": "Your lungs are kept clean by cilia waving constantly — a microscopic broom you never thank.",
+        "zh": "你的肺保持干净，靠的是无数纤毛不停地挥动 — 一把你从没感谢过的显微镜级扫帚。"
+      }
+    },
+    {
+      "word": "supernova",
+      "zh": "超新星",
+      "root": "super",
+      "partOfSpeech": "n.",
+      "phonetic": "SOO'-par-no-va",
+      "gloss": {
+        "en": "Literally 'above-the-new(-star)' — a star exploding so brightly it looks like a new star, but bigger. Same super- as in supercilious.",
+        "zh": "字面是'在新（星）之上' — 一颗爆发得太亮、像是一颗新星但更大的星。和 supercilious 同样的 super-。"
+      },
+      "usage": {
+        "en": "Most heavy elements in your body came from a supernova — your atoms once lit up a galaxy from many light-years away.",
+        "zh": "你身体里大部分重元素都来自一次超新星爆发 — 你身上的原子曾经在好几光年外，照亮过一个星系。"
+      },
+      "rootMeaning": "above (Latin)",
+      "rootMeaningZh": "在上（拉丁）",
+      "rootTint": "5a5e8a"
+    },
+    {
+      "word": "supervise",
+      "zh": "监督、督导",
+      "root": "super",
+      "partOfSpeech": "v.",
+      "phonetic": "SOO'-par-vize",
+      "gloss": {
+        "en": "Literally 'to oversee' — super- (over) + videre (to see). To watch from above.",
+        "zh": "字面是'在上面看' — super-（在上）+ videre（看）。从上方注视。"
+      },
+      "usage": {
+        "en": "The best supervisors don't watch — they make sure the conditions are right, then leave the work to be done.",
+        "zh": "最好的督导者不'盯着' — 他们确保条件对了，然后把工作留给别人去做。"
+      }
+    },
+    {
+      "word": "quarrel",
+      "zh": "争吵",
+      "root": "queri",
+      "partOfSpeech": "n./v.",
+      "phonetic": "KWOR'-al",
+      "gloss": {
+        "en": "A dispute — from queri (complain). What happens when two querulous people meet.",
+        "zh": "争执 — 来自 queri（抱怨）。两个 querulous 的人相遇时会发生的事。"
+      },
+      "usage": {
+        "en": "Most quarrels aren't about the topic — they're about being heard. Listen first, and the quarrel often forgets why it started.",
+        "zh": "大多数争吵的真正主题不是它表面的题目 — 是想被听见。先听，争吵常常就忘了自己为什么开始。"
+      }
+    },
+    {
+      "word": "complaint",
+      "zh": "抱怨、投诉",
+      "root": "plangere",
+      "partOfSpeech": "n.",
+      "phonetic": "kam-PLAYNT'",
+      "gloss": {
+        "en": "Expression of dissatisfaction — from Latin com- + plangere (to lament, to beat the breast in grief). The first complainers were grieving, not griping.",
+        "zh": "对不满的表达 — 来自拉丁 com- + plangere（哀叹、捶胸悲叹）。最初的'抱怨者'是在哀悼，不是在发牢骚。"
+      },
+      "usage": {
+        "en": "Every chronic complaint contains an unprocessed grief — the lost version of what 'should have been.'",
+        "zh": "每个长期的抱怨里，都藏着一段未被消化的悲伤 — 是那个'本来该有的版本'的失落。"
+      },
+      "rootMeaning": "to lament, to beat (Latin)",
+      "rootMeaningZh": "哀叹、捶打（拉丁）",
+      "rootTint": "8a6a6a"
+    },
+    {
+      "word": "lament",
+      "zh": "哀叹",
+      "root": "plangere",
+      "partOfSpeech": "n./v.",
+      "phonetic": "la-MENT'",
+      "gloss": {
+        "en": "An expression of grief — same root family as complaint, but kept the deeper meaning. To lament is to complain about what cannot be fixed.",
+        "zh": "对悲伤的表达 — 和 complaint 同族，但保留了更深的本意。Lament 是为'无法修补的事'抱怨。"
+      },
+      "usage": {
+        "en": "Some things deserve a lament more than a fix — old griefs, lost cities, people who left without explaining.",
+        "zh": "有些事值得哀叹，多过值得修补 — 旧伤、消失的城、不告而别的人。"
+      }
+    }
+  ]
+}

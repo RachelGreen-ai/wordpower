@@ -1,0 +1,499 @@
+{
+  "lessonId": "castigate-abnegate-recapitulate",
+  "hook": {
+    "headline": {
+      "en": "Three verbs for handling what's already happened — scold, deny, summarize.",
+      "zh": "三个动词，对应'已经发生的事'三种处理 — 训斥、否认、归纳。"
+    },
+    "subtext": {
+      "en": "How you close a loop says more than how you opened it.",
+      "zh": "你怎样把一件事'收尾'，比怎样开始它，说出更多关于你的事。"
+    }
+  },
+  "words": [
+    {
+      "word": "Castigate",
+      "phonetic": "KAS'-ti-gayt",
+      "chinese": "严厉斥责、惩戒",
+      "definition": {
+        "en": "To scold severely — not casual complaint, but a deliberate, often public correction. Castigation has a moral weight: you're being told you fell short of a standard.",
+        "zh": "严厉地训斥 — 不是顺口抱怨，而是有意的、常常是公开的纠正。'castigate'带着道德的重量：你被告知没达到某个标准。"
+      },
+      "etymology": {
+        "root": "castus",
+        "meaning": "pure, chaste",
+        "meaningZh": "纯净的、贞洁的",
+        "en": "From Latin castigare = 'to make pure' — castus (pure) + agere (to drive). Literally 'to drive someone TOWARD purity.' Same castus in 'caste,' 'chaste,' 'chastity,' and 'chastise.'",
+        "zh": "拉丁 castigare = 使变纯 — castus（纯净）+ agere（驱动）。字面意思是'把人朝纯净那边赶'。同一个 castus 出现在 caste（种姓）、chaste（贞洁的）、chastity（贞操）、chastise（惩戒）里。",
+        "relatives": [
+          {
+            "word": "chastise",
+            "zh": "惩戒、责备"
+          },
+          {
+            "word": "chaste",
+            "zh": "贞洁的"
+          },
+          {
+            "word": "caste",
+            "zh": "种姓、阶级"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She castigated the team for the missed deadline — but only after she'd asked, in private, why it happened.",
+          "zh": "她为错过截止日期严厉训了团队 — 但只在私下问清原因之后才训。"
+        },
+        {
+          "context": "parenting",
+          "en": "Don't castigate a child for the same thing twice — the second time isn't correction, it's punishment with a different name.",
+          "zh": "别为同一件事训孩子两次 — 第二次已经不是纠正了，是换了名字的惩罚。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "严训",
+      "tint": "a04f4f",
+      "mnemonic": {
+        "en": "Castus + Agere = DRIVE-TOWARD-PURE. Castigation isn't punishment for its own sake — it's pushing someone toward who they're supposed to be.",
+        "zh": "Castus + Agere = 朝着'纯净'驱赶。Castigate 不是为了惩罚本身 — 是把一个人推向'他本来该成为的样子'。"
+      },
+      "commonConfusions": [
+        "scold",
+        "chastise",
+        "reprimand"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Scold and castigate both correct. What's the difference?",
+            "zh": "Scold 和 castigate 都是纠正。区别在哪？"
+          },
+          "answer": {
+            "en": "Scold is everyday, often emotional. Castigate is formal, deliberate, often moral. One is a parent's voice. The other is a judge's.",
+            "zh": "Scold 是日常的，常带情绪。Castigate 是正式的、有意的、常带道德判断。一个是家长的声音，一个是法官的。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Roman writers castigated themselves in private journals — Marcus Aurelius did it every morning. Self-castigation done well isn't self-hatred. It's a quiet check: am I still walking toward who I said I'd be?",
+        "zh": "罗马作家会在私人日记里 castigate 自己 — 马可·奥勒留每天早上都做。做得好的'自我训斥'不是自我憎恨 — 是安静地核对：我还在朝着'我说过我要成为的那个人'走吗？"
+      }
+    },
+    {
+      "word": "Abnegate",
+      "phonetic": "AB'-ni-gayt",
+      "chinese": "放弃、克制、自我否定",
+      "definition": {
+        "en": "To deny oneself — to give up a pleasure, right, or claim, often deliberately. Not because you can't have it, but because you've decided not to.",
+        "zh": "自我克制 — 放弃一种愉悦、权利或要求，常常是有意的。不是因为得不到，而是因为决定不要。"
+      },
+      "etymology": {
+        "root": "negare",
+        "meaning": "to deny",
+        "meaningZh": "否认",
+        "en": "From Latin ab- (away) + negare (to deny). Literally 'to deny AWAY from oneself.' Same negare in 'negate,' 'negative,' 'deny,' and 'renege.' The 'no' inside is the same 'no.'",
+        "zh": "拉丁 ab-（离开）+ negare（否认）。字面是'从自己身上否定掉'。同一个 negare 出现在 negate（否定）、negative（负的）、deny（拒认）、renege（食言）里。里面的'不'，是同一个'不'。",
+        "relatives": [
+          {
+            "word": "negate",
+            "zh": "否定"
+          },
+          {
+            "word": "negative",
+            "zh": "负面的"
+          },
+          {
+            "word": "deny",
+            "zh": "拒认"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She abnegated the corner office — a small ego-cost that bought her years of being seen as someone who didn't keep score.",
+          "zh": "她主动放弃了那间角落办公室 — 一个小小的虚荣成本，却换来好几年被看作'不计较的人'。"
+        },
+        {
+          "context": "social",
+          "en": "Self-abnegation is a fine art — when it's chosen, it builds character. When it's forced, it just builds resentment.",
+          "zh": "自我克制是门细腻的艺术 — 出于选择，它塑造人；被迫做的，只会积累怨。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "克制",
+      "tint": "6a7d9a",
+      "mnemonic": {
+        "en": "Ab + Negare = AWAY + DENY. Abnegation = the 'no' you turn on yourself, on purpose.",
+        "zh": "Ab + Negare = 离开 + 否认。Abnegate = 你有意地对自己说的那个'不'。"
+      },
+      "commonConfusions": [
+        "renounce",
+        "abstain",
+        "deny"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Abnegate and abstain both involve refusing. What's the difference?",
+            "zh": "Abnegate 和 abstain 都涉及'不要'。区别在哪？"
+          },
+          "answer": {
+            "en": "Abstain = don't take. Abnegate = give up something you already have, or could have. One refuses the offer; the other releases the grip.",
+            "zh": "Abstain = 不去拿。Abnegate = 放掉自己已经拥有、或可以拥有的东西。一个是拒绝，一个是松手。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Mahatma Gandhi famously abnegated salt, sex, sugar, and possessions — each one a deliberate denial that reshaped how India saw resistance. The lesson isn't that you should give up everything. It's that one chosen 'no' can be louder than a hundred shouted 'yeses.'",
+        "zh": "甘地有意地放弃过盐、性、糖、和财物 — 每一次克制都重新塑造了印度对'抵抗'的理解。要学的不是'你应该放弃一切'。是：一个有意选择的'不'，可以比一百个喊出来的'是'更响。"
+      }
+    },
+    {
+      "word": "Recapitulate",
+      "phonetic": "ree'-ka-PIT'-yoo-layt",
+      "chinese": "概述、重述要点",
+      "definition": {
+        "en": "To summarize — to restate the main points, briefly. The good recap doesn't repeat everything; it lifts out the bones.",
+        "zh": "把要点再说一遍 — 简短地重述主要内容。好的归纳不是重复全部，是把骨头拎出来。"
+      },
+      "etymology": {
+        "root": "caput",
+        "meaning": "head",
+        "meaningZh": "头",
+        "en": "From Latin re- (again) + capitulum (little head, chapter), from caput (head). Literally 'to go through the heads again' — visit each chapter's main point. Same caput in 'capital,' 'captain,' 'chapter,' 'decapitate,' and 'capitalize.'",
+        "zh": "拉丁 re-（再）+ capitulum（小头、章节），来自 caput（头）。字面意思是'再走一遍那些'头' — 也就是每一章的要点。同一个 caput 出现在 capital（首都、资本）、captain（船长）、chapter（章节）、decapitate（斩首）、capitalize（大写、利用）里。",
+        "relatives": [
+          {
+            "word": "capital",
+            "zh": "首都、资本"
+          },
+          {
+            "word": "captain",
+            "zh": "船长、队长"
+          },
+          {
+            "word": "chapter",
+            "zh": "章节"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Let me recapitulate before we close — saves the room from leaving with three different versions of what was decided.",
+          "zh": "结束前我先把要点过一遍 — 免得整间屋子各自带着三种不同版本的'刚才到底定了什么'离开。"
+        },
+        {
+          "context": "social",
+          "en": "A friend who recapitulates your story back to you is doing real work — they're showing you what they actually heard.",
+          "zh": "把你讲过的故事重新归纳给你听的朋友，做的是真功夫 — 他在告诉你：他真正听见的是什么。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "归纳",
+      "tint": "5a8a8a",
+      "mnemonic": {
+        "en": "Re + Capitulum = AGAIN + HEAD (chapter). Recapitulate = walk back through the headings, not every line.",
+        "zh": "Re + Capitulum = 再 + 头（章节）。Recapitulate = 把标题再走一遍 — 不是每一行。"
+      },
+      "commonConfusions": [
+        "summarize",
+        "review",
+        "restate"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Summarize and recapitulate. Same thing — different feel. What?",
+            "zh": "Summarize 和 recapitulate 是一回事 — 但感觉不同。差在哪？"
+          },
+          "answer": {
+            "en": "Summarize = give the gist. Recapitulate = walk through the structure, point by point. One condenses. The other organizes.",
+            "zh": "Summarize = 给个大意。Recapitulate = 按结构一条条走。一个是压缩，一个是组织。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Music has 'recapitulation' as a formal term — in sonata form, the section where the opening themes return. The composer recapitulates so the listener can hear what changed. Most good endings, in any form, work the same way: they bring back the beginning so you can see how far you came.",
+        "zh": "音乐里 'recapitulation' 是个正式术语 — 在奏鸣曲式里，是开头主题再次出现的那一段。作曲家'再归纳'，让听众听见'变化了什么'。任何形式里好的结尾都是这样：把开头带回来，让你看见自己走了多远。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Castigate and recapitulate both look backward. But one judges. The other organizes.",
+      "zh": "Castigate 和 recapitulate 都回望。但一个在判断，一个在整理。"
+    },
+    "leftLabel": "Castigate",
+    "leftLine": {
+      "en": "Names the wrong. Pushes toward the right.",
+      "zh": "点出错处。把人推向对处。"
+    },
+    "leftMnemonic": {
+      "en": "Castus + Agere = DRIVE-TO-PURE · the correction.",
+      "zh": "Castus + Agere = 朝纯净驱赶 · 纠正。"
+    },
+    "rightLabel": "Recapitulate",
+    "rightLine": {
+      "en": "Walks the heads back. No verdict.",
+      "zh": "把要点过一遍。不下判决。"
+    },
+    "rightMnemonic": {
+      "en": "Re + Caput = AGAIN-HEAD · the map of what happened.",
+      "zh": "Re + Caput = 再过一遍'头' · 把发生的事画成地图。"
+    },
+    "closing": {
+      "en": "One judges. One just shows. Both are ways of refusing to forget.",
+      "zh": "一个判断。一个只是展示。两种都是'拒绝遗忘'的方式。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "How you close something tells the future more about you than how you started. Choose your closing verb on purpose.",
+      "zh": "你怎样收尾一件事，比你怎样开始它，更能告诉未来你是谁。要有意地选'收尾的那个动词'。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/castigate-abnegate-recapitulate/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/castigate-abnegate-recapitulate/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/castigate-abnegate-recapitulate/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/castigate-abnegate-recapitulate/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/castigate-abnegate-recapitulate/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/castigate-abnegate-recapitulate/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/castigate-abnegate-recapitulate/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/castigate-abnegate-recapitulate/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/castigate-abnegate-recapitulate/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/castigate-abnegate-recapitulate/twist.left.wav",
+    "twist.right": "audio/vocab/castigate-abnegate-recapitulate/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/castigate-abnegate-recapitulate/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/castigate-abnegate-recapitulate/hook.headline.wav",
+    "word.0.definition": "audio/vocab/castigate-abnegate-recapitulate/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/castigate-abnegate-recapitulate/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/castigate-abnegate-recapitulate/word.2.definition.wav",
+    "twist.setup": "audio/vocab/castigate-abnegate-recapitulate/twist.setup.wav",
+    "twist.closing": "audio/vocab/castigate-abnegate-recapitulate/twist.closing.wav",
+    "recap.reflection": "audio/vocab/castigate-abnegate-recapitulate/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 15,
+    "session": 43,
+    "pages": [
+      451,
+      480
+    ],
+    "theme": "What Goes On",
+    "subtheme": "Three verbs for handling what's done"
+  },
+  "tags": [
+    "actions",
+    "verbs",
+    "closure",
+    "ch15",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "chastise",
+      "zh": "惩戒、责备",
+      "root": "castus",
+      "partOfSpeech": "v.",
+      "phonetic": "chas-TIZE'",
+      "gloss": {
+        "en": "To punish or rebuke — same root as castigate. The English doublet: castigate (Latin route, formal), chastise (French route, more emotional).",
+        "zh": "惩罚或责备 — 和 castigate 同根。英语里同根双词：castigate（拉丁路径，正式）、chastise（法语路径，情感更重）。"
+      },
+      "usage": {
+        "en": "Chastising someone who already knows they were wrong adds nothing — it just makes you feel righteous twice.",
+        "zh": "对一个已经知道自己错了的人责备，没有意义 — 只是让你自己'觉得自己对'两次。"
+      }
+    },
+    {
+      "word": "chaste",
+      "zh": "贞洁的、纯净的",
+      "root": "castus",
+      "partOfSpeech": "adj.",
+      "phonetic": "CHAYST",
+      "gloss": {
+        "en": "Pure — directly from castus. Originally sexual, now also used for restrained design ('a chaste palette').",
+        "zh": "纯净 — 直接来自 castus。原本指性的洁净，现在也用于克制的设计（'克制的色彩'）。"
+      },
+      "usage": {
+        "en": "A chaste sentence cuts away everything that wasn't earning its place.",
+        "zh": "一个'纯净'的句子，把所有没在'值这个位置'的字都砍掉。"
+      }
+    },
+    {
+      "word": "caste",
+      "zh": "种姓、阶级",
+      "root": "castus",
+      "partOfSpeech": "n.",
+      "phonetic": "KAST",
+      "gloss": {
+        "en": "A fixed social class — from castus (pure). The Portuguese used 'casta' (pure lineage) for Hindu social divisions; the word stuck in English.",
+        "zh": "固定的社会阶层 — 来自 castus（纯净）。葡萄牙人用 casta（纯血脉）形容印度的社会分层；这个词留在了英语里。"
+      },
+      "usage": {
+        "en": "Every society has caste of some kind — only some have the honesty to admit it.",
+        "zh": "每个社会都有某种'阶层' — 只是少数有诚实承认它。"
+      }
+    },
+    {
+      "word": "negate",
+      "zh": "否定",
+      "root": "negare",
+      "partOfSpeech": "v.",
+      "phonetic": "ni-GAYT'",
+      "gloss": {
+        "en": "To make null, to cancel — directly from negare (to deny). The 'no' in its purest form.",
+        "zh": "使无效、否定 — 直接来自 negare（拒认）。最纯粹形态的那个'不'。"
+      },
+      "usage": {
+        "en": "One late apology rarely negates the silence that preceded it — the silence has already done its work.",
+        "zh": "一句晚到的道歉，很少能否定之前那段沉默 — 沉默已经做完了它的工作。"
+      }
+    },
+    {
+      "word": "negative",
+      "zh": "负面的、消极的",
+      "root": "negare",
+      "partOfSpeech": "adj.",
+      "phonetic": "NEG'-a-tiv",
+      "gloss": {
+        "en": "Expressing 'no' — from negare. In math, the side below zero. In speech, the half of a story we usually skip first.",
+        "zh": "表达'不' — 来自 negare。在数学里是零以下；在话里，是我们通常先想跳过的那一半。"
+      },
+      "usage": {
+        "en": "Negative feedback works only when it arrives faster than the praise — late critique just feels like a setup.",
+        "zh": "负面反馈起作用的前提是它比表扬更快到达 — 来得晚的批评，只会感觉像是'埋伏'。"
+      }
+    },
+    {
+      "word": "deny",
+      "zh": "拒认、否认",
+      "root": "negare",
+      "partOfSpeech": "v.",
+      "phonetic": "di-NI'",
+      "gloss": {
+        "en": "To refuse to admit — directly from negare. Same root family as 'negate' and 'abnegate.'",
+        "zh": "拒绝承认 — 直接来自 negare。和 negate、abnegate 同根。"
+      },
+      "usage": {
+        "en": "People who deny most loudly are often the ones closest to admitting — the volume is the resistance.",
+        "zh": "否认得最响的人，往往离承认最近 — 那个音量本身就是抵抗。"
+      }
+    },
+    {
+      "word": "renege",
+      "zh": "食言、违约",
+      "root": "negare",
+      "partOfSpeech": "v.",
+      "phonetic": "ri-NEG'",
+      "gloss": {
+        "en": "To go back on a promise — re- (back) + negare (deny). To deny what you previously said.",
+        "zh": "违背承诺 — re-（回）+ negare（拒认）。否认自己之前说过的话。"
+      },
+      "usage": {
+        "en": "Each time someone reneges, the next promise weighs less. Trust is a small currency, easily spent.",
+        "zh": "每一次食言，下一个承诺的分量就轻一点。信任是一种很小的货币，很容易花掉。"
+      }
+    },
+    {
+      "word": "capital",
+      "zh": "首都、资本、大写",
+      "root": "caput",
+      "partOfSpeech": "n./adj.",
+      "phonetic": "KAP'-i-tal",
+      "gloss": {
+        "en": "The head of something — a country's main city, a fund's main money, a letter's main form. Directly from caput.",
+        "zh": "某物之'头' — 国家的主城、资金的本金、字母的大写形式。直接来自 caput。"
+      },
+      "usage": {
+        "en": "Capital flows where it's treated best — money, like attention, leaves rooms that punish it.",
+        "zh": "资本流向被最好对待的地方 — 钱和注意力一样，会离开'惩罚它'的房间。"
+      }
+    },
+    {
+      "word": "captain",
+      "zh": "船长、队长",
+      "root": "caput",
+      "partOfSpeech": "n.",
+      "phonetic": "KAP'-tin",
+      "gloss": {
+        "en": "Head of a group — directly from caput. The 'top of the body' translated into a leadership role.",
+        "zh": "一群人的'头' — 直接来自 caput。'身体的顶端'被翻译成领导角色。"
+      },
+      "usage": {
+        "en": "A good captain stays on the ship — not because they have to, but because they understand what their staying means to everyone else.",
+        "zh": "好的船长留在船上 — 不是因为不得不留，而是因为他懂'他留下'对其他每个人意味着什么。"
+      }
+    },
+    {
+      "word": "chapter",
+      "zh": "章节",
+      "root": "caput",
+      "partOfSpeech": "n.",
+      "phonetic": "CHAP'-tar",
+      "gloss": {
+        "en": "A 'little head' of a book — capitulum from caput. Same root as recapitulate. Walking the chapters again IS recapitulation.",
+        "zh": "一本书的'小头' — capitulum 来自 caput。和 recapitulate 同根。把章节再走一遍，就是 recapitulation。"
+      },
+      "usage": {
+        "en": "Treating your life as chapters helps — endings stop feeling like death and start feeling like punctuation.",
+        "zh": "把人生当作章节来看，会有帮助 — '结束'不再感觉像死亡，而像是标点。"
+      }
+    },
+    {
+      "word": "decapitate",
+      "zh": "斩首",
+      "root": "caput",
+      "partOfSpeech": "v.",
+      "phonetic": "di-KAP'-i-tayt",
+      "gloss": {
+        "en": "To remove the head — de- (off) + caput. Literal in history, metaphorical in modern usage ('decapitate the strategy').",
+        "zh": "把头切掉 — de-（脱离）+ caput。历史上是字面的，现代多为比喻（'砍掉策略的核心'）。"
+      },
+      "usage": {
+        "en": "Decapitating a project's plan means cutting the goal — sometimes a kindness, often a disaster.",
+        "zh": "把一个项目的'头'砍掉，意思是把目标本身砍掉 — 有时是仁慈，常常是灾难。"
+      }
+    },
+    {
+      "word": "abstain",
+      "zh": "戒除、弃权",
+      "root": "tenere",
+      "partOfSpeech": "v.",
+      "phonetic": "ab-STAYN'",
+      "gloss": {
+        "en": "To hold oneself away from — abs- (away) + tenere (to hold). A close cousin in spirit to abnegate, different root.",
+        "zh": "把自己从某事里抽出来 — abs-（离开）+ tenere（握、保持）。精神上和 abnegate 是表亲，词根不同。"
+      },
+      "usage": {
+        "en": "To abstain is to keep the option open — you didn't say no forever, only no today.",
+        "zh": "戒除是把'选项'留着 — 你没说永远不要，只说今天不要。"
+      },
+      "rootMeaning": "to hold (Latin)",
+      "rootMeaningZh": "握、保持（拉丁）",
+      "rootTint": "6a9aa6"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# MLX-Audio: native Apple Silicon TTS library
+# Supports Kokoro 82M (default, expressive voices) and Higgs Audio v2 (voice cloning)
+mlx-audio>=0.2.0
+mlx>=0.18.0
+
+# Kokoro text preprocessor — includes English + Chinese support
+misaki[en,zh]>=0.7.0
+
+# Audio I/O
+soundfile>=0.12.0
+numpy>=1.26.0
+
+# CLI / config
+click>=8.1.0
+python-dotenv>=1.0.0
+
+# Hugging Face hub (model downloads)
+huggingface-hub>=0.25.0
+
+# Optional: ElevenLabs fallback backend (uncomment to install)
+# elevenlabs>=1.0.0

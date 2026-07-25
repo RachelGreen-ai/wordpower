@@ -1,0 +1,495 @@
+{
+  "lessonId": "cacophony-bovine-carnivorous",
+  "hook": {
+    "headline": {
+      "en": "Three sensory facts — harsh sound, cowlike stillness, meat-eating life.",
+      "zh": "三种感官事实 — 刺耳的声音、牛一般的安稳、吃肉的生命。"
+    },
+    "subtext": {
+      "en": "Words for things you've noticed all your life but never named.",
+      "zh": "你一辈子都注意到、却从没给它命过名的东西。"
+    }
+  },
+  "words": [
+    {
+      "word": "Cacophony",
+      "phonetic": "ka-KOF'-a-nee",
+      "chinese": "刺耳的杂音、嘈杂",
+      "definition": {
+        "en": "A harsh, dissonant mixture of sounds — many voices, none of them agreeing. The opposite of euphony.",
+        "zh": "一片刺耳、不和谐的声音 — 许多声音同时响，谁也不和谁配合。Euphony（悦耳）的反义。"
+      },
+      "etymology": {
+        "root": "kakos + phone",
+        "meaning": "bad sound",
+        "meaningZh": "坏的声音",
+        "en": "From Greek kakos (bad) + phone (sound). Same kakos in 'cacography' (bad handwriting). Same phone in 'phonics,' 'telephone,' 'symphony' (sounds together), and 'euphony' (good sound).",
+        "zh": "希腊 kakos（坏）+ phone（声音）。同一个 kakos 出现在 cacography（鬼画符）里。同一个 phone 出现在 phonics（语音）、telephone（电话）、symphony（交响，'一起的声音'）、euphony（悦耳）里。",
+        "relatives": [
+          {
+            "word": "telephone",
+            "zh": "电话（'远处的声音'）"
+          },
+          {
+            "word": "symphony",
+            "zh": "交响乐（'一起的声音'）"
+          },
+          {
+            "word": "euphony",
+            "zh": "悦耳（'好的声音'）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "An open office is a cacophony you can't unhear — every keystroke, every call, every microwave beep, all at once.",
+          "zh": "开放办公室是一种你关不掉的嘈杂 — 每次敲键盘、每通电话、每次微波炉响铃，全都在一起。"
+        },
+        {
+          "context": "social",
+          "en": "Social media has a cacophony problem — every voice equally loud, and the listener with no way to tune.",
+          "zh": "社交媒体有个'嘈杂'问题 — 每种声音音量都一样，听的人没法调出哪个是真的。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "嘈杂",
+      "tint": "a04f4f",
+      "mnemonic": {
+        "en": "Kakos + Phone = BAD-SOUND. Cacophony is when every voice insists on being heard, so none of them is.",
+        "zh": "Kakos + Phone = 坏声音。嘈杂是每个声音都坚持要被听见，结果谁都听不见。"
+      },
+      "commonConfusions": [
+        "noise",
+        "din",
+        "discord"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Noise and cacophony both describe unwanted sound. What's the texture?",
+            "zh": "Noise 和 cacophony 都形容不想要的声音。质感差别在哪？"
+          },
+          "answer": {
+            "en": "Noise is any unwanted sound — even a steady hum. Cacophony is MANY clashing sounds at once — the texture of disagreement made audible.",
+            "zh": "Noise 是任何不想要的声音 — 哪怕只是平稳的嗡嗡声。Cacophony 是许多声音同时打架 — 是把'不一致'变成可听见的东西。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "When Stravinsky's 'Rite of Spring' premiered in 1913, the audience rioted — what they heard as cacophony, the century would come to call music. Sometimes the cacophony is just the form of the next harmony we haven't learned to hear.",
+        "zh": "1913年斯特拉文斯基的《春之祭》首演时，观众暴动 — 他们听到的'嘈杂'，整个二十世纪后来称之为'音乐'。有时候'嘈杂'，只是下一种我们还没学会听的'和谐'的形状。"
+      }
+    },
+    {
+      "word": "Bovine",
+      "phonetic": "BO'-vin",
+      "chinese": "牛一般的、迟钝安稳的",
+      "definition": {
+        "en": "Cowlike — slow, placid, stolid, content. Sometimes affectionate (calm and unbothered), sometimes critical (dull, unresponsive).",
+        "zh": "像牛一样 — 缓慢、平静、迟钝、满足。有时是亲切的（不慌不忙），有时是批评的（迟钝、没反应）。"
+      },
+      "etymology": {
+        "root": "bos",
+        "meaning": "ox, cow",
+        "meaningZh": "牛",
+        "en": "From Latin bos, bovis (cow, ox). Same bos in 'beef' (via French boeuf) and 'bovid' (the cattle family). One Latin word, many ways the cow walked into English.",
+        "zh": "拉丁 bos, bovis（牛）。同一个 bos 出现在 beef（牛肉，经古法语 boeuf 传入）和 bovid（牛科动物）里。一个拉丁词，让牛通过好多扇门走进英文。",
+        "relatives": [
+          {
+            "word": "beef",
+            "zh": "牛肉"
+          },
+          {
+            "word": "bovid",
+            "zh": "牛科动物"
+          },
+          {
+            "word": "bucolic",
+            "zh": "田园的（近义概念）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The team's response to the news was bovine — they chewed on it slowly and went back to lunch.",
+          "zh": "团队对消息的反应很'牛' — 他们慢慢咀嚼了一下，然后回去继续吃午饭。"
+        },
+        {
+          "context": "social",
+          "en": "There's a kind of bovine peace that long-married couples have — neither of them surprised by anything anymore.",
+          "zh": "长久夫妻间会有一种'牛式'的平静 — 两个人对什么都不再吃惊。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "牛性",
+      "tint": "8a7a5a",
+      "mnemonic": {
+        "en": "Bos = COW. Bovine = the unhurried disposition of an animal that doesn't have any meetings to get to.",
+        "zh": "Bos = 牛。Bovine = 一种不慌不忙的气质 — 一个'没有会议要赶'的动物所拥有的。"
+      },
+      "commonConfusions": [
+        "placid",
+        "stolid",
+        "dull"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "When is 'bovine' a compliment, and when is it an insult?",
+            "zh": "'牛一般的'什么时候是夸奖，什么时候是骂人？"
+          },
+          "answer": {
+            "en": "Compliment when describing calm under chaos. Insult when describing a mind that won't respond to anything new.",
+            "zh": "夸奖：在混乱中保持平静。骂人：对新事物毫无反应。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Tibetan monks practice a kind of bovine attention — the patience to watch a candle, or a thought, without intervening. The English word smuggles a critique. The Tibetan tradition treats the same stillness as a high achievement.",
+        "zh": "藏传僧人练习一种'牛式'的注意力 — 静观一根蜡烛、或一个念头，而不去干预。英文这个词偷藏了一点批评。但藏传传统把同样的静定当作很高的修为。"
+      }
+    },
+    {
+      "word": "Carnivorous",
+      "phonetic": "kar-NIV'-ar-as",
+      "chinese": "食肉的",
+      "definition": {
+        "en": "Meat-eating — as a biological fact (lions, hawks, Venus flytraps) or metaphorically (a carnivorous appetite for news, for stock movements, for gossip).",
+        "zh": "吃肉的 — 可以是生物学事实（狮子、鹰、捕蝇草），也可以是比喻（贪婪地吃新闻、看股价、吞八卦）。"
+      },
+      "etymology": {
+        "root": "caro + vorare",
+        "meaning": "flesh + to devour",
+        "meaningZh": "肉 + 吞食",
+        "en": "From Latin caro, carnis (flesh) + vorare (to devour). Same caro in 'carnal,' 'carnage,' 'carnival' (literally 'farewell to meat' before Lent). Same vorare in 'voracious,' 'devour,' 'herbivore,' and 'omnivore.'",
+        "zh": "拉丁 caro, carnis（肉）+ vorare（吞食）。同一个 caro 出现在 carnal（肉体的）、carnage（屠杀）、carnival（嘉年华，字面是'告别肉'，斋戒前的狂欢）里。同一个 vorare 出现在 voracious（贪婪的）、devour（吞食）、herbivore（食草动物）、omnivore（杂食动物）里。",
+        "relatives": [
+          {
+            "word": "carnal",
+            "zh": "肉体的"
+          },
+          {
+            "word": "carnival",
+            "zh": "嘉年华（'告别肉'）"
+          },
+          {
+            "word": "voracious",
+            "zh": "贪婪的、狼吞虎咽的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He had a carnivorous attention to client feedback — read every word, twice, looking for what they didn't say.",
+          "zh": "他对客户反馈的关注是'食肉性'的 — 每个字读两遍，找他们没说出来的部分。"
+        },
+        {
+          "context": "social",
+          "en": "Some online communities are carnivorous — they consume the energy of new members until the new members go quiet.",
+          "zh": "有些网上的社群是'食肉的' — 它们消耗新成员的能量，直到新成员沉默。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "食肉",
+      "tint": "a05548",
+      "mnemonic": {
+        "en": "Caro + Vorare = FLESH-DEVOURING. The word is honest about what predators do — the rest of biology is just variants.",
+        "zh": "Caro + Vorare = 吞食肉。这个词对'掠食者做什么'很诚实 — 其余的生物分类，只是它的变体。"
+      },
+      "commonConfusions": [
+        "predatory",
+        "voracious",
+        "rapacious"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Carnivorous and voracious are close — but not the same. What's each?",
+            "zh": "Carnivorous 和 voracious 接近 — 但不一样。各是什么？"
+          },
+          "answer": {
+            "en": "Carnivorous = eats meat (vs. plants). Voracious = eats A LOT (of anything). A herbivore can be voracious. A carnivore might be a slow eater.",
+            "zh": "Carnivorous = 吃肉（相对于吃植物）。Voracious = 吃得多（不管吃什么）。食草动物也能 voracious。食肉动物也可能是慢吃者。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Venus flytraps are carnivorous because the soil they grow in is so poor — they evolved to catch insects when nitrogen wasn't coming from below. Most surprising adaptations are responses to scarcity. The flytrap had to invent a new way to eat.",
+        "zh": "捕蝇草吃肉，是因为它生长的土壤太贫瘠 — 它进化出抓昆虫的能力，因为底下拿不到氮。最令人意外的进化，都是对'匮乏'的回应。捕蝇草不得不发明一种新的吃法。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Cacophony and bovine sit on opposite ends of a sensory dial — too much noise, and not enough.",
+      "zh": "Cacophony 和 bovine 是感官刻度盘的两端 — 一个太吵，一个不动。"
+    },
+    "leftLabel": "Cacophony",
+    "leftLine": {
+      "en": "Sound everywhere. Meaning nowhere.",
+      "zh": "声音到处都是，意义无处可寻。"
+    },
+    "leftMnemonic": {
+      "en": "Kakos + Phone = BAD-SOUND · the noise of disagreement.",
+      "zh": "Kakos + Phone = 坏声音 · 分歧的噪声。"
+    },
+    "rightLabel": "Bovine",
+    "rightLine": {
+      "en": "Sound or no sound — the cow keeps chewing.",
+      "zh": "无论有没有声音 — 牛继续嚼着。"
+    },
+    "rightMnemonic": {
+      "en": "Bos = COW · undisturbed.",
+      "zh": "Bos = 牛 · 不被扰动。"
+    },
+    "closing": {
+      "en": "One is overwhelm. The other is the absence of being overwhelmed.",
+      "zh": "一个是被淹没。一个是'淹没'不存在。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "The senses pick up much more than the mind names. Naming what we notice is the small daily act of turning experience into something we can carry.",
+      "zh": "感官接收到的，远多于头脑能命名的。给注意到的东西命名，是日常一个小动作 — 把经验变成你能带在身上的东西。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/cacophony-bovine-carnivorous/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/cacophony-bovine-carnivorous/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/cacophony-bovine-carnivorous/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/cacophony-bovine-carnivorous/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/cacophony-bovine-carnivorous/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/cacophony-bovine-carnivorous/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/cacophony-bovine-carnivorous/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/cacophony-bovine-carnivorous/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/cacophony-bovine-carnivorous/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/cacophony-bovine-carnivorous/twist.left.wav",
+    "twist.right": "audio/vocab/cacophony-bovine-carnivorous/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/cacophony-bovine-carnivorous/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/cacophony-bovine-carnivorous/hook.headline.wav",
+    "word.0.definition": "audio/vocab/cacophony-bovine-carnivorous/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/cacophony-bovine-carnivorous/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/cacophony-bovine-carnivorous/word.2.definition.wav",
+    "twist.setup": "audio/vocab/cacophony-bovine-carnivorous/twist.setup.wav",
+    "twist.closing": "audio/vocab/cacophony-bovine-carnivorous/twist.closing.wav",
+    "recap.reflection": "audio/vocab/cacophony-bovine-carnivorous/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 14,
+    "session": 41,
+    "pages": [
+      401,
+      450
+    ],
+    "theme": "Common Phenomena",
+    "subtheme": "Sound, stillness, meat — three sensory facts"
+  },
+  "tags": [
+    "common-phenomena",
+    "senses",
+    "ch14",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "telephone",
+      "zh": "电话",
+      "root": "phone",
+      "partOfSpeech": "n.",
+      "phonetic": "TEL'-a-fon",
+      "gloss": {
+        "en": "Literally 'sound from afar' — tele- (far) + phone (sound). Same phone as 'cacophony.'",
+        "zh": "字面是'远处的声音' — tele-（远）+ phone（声）。和 cacophony 同根。"
+      },
+      "usage": {
+        "en": "The telephone used to be the most intimate medium — now it's the one we use when something matters too much for text.",
+        "zh": "电话曾经是最亲密的媒介 — 现在它是'有什么事重要到不能用文字'时才用的那个。"
+      }
+    },
+    {
+      "word": "symphony",
+      "zh": "交响乐",
+      "root": "phone",
+      "partOfSpeech": "n.",
+      "phonetic": "SIM'-fa-nee",
+      "gloss": {
+        "en": "Literally 'sounds together' — syn- (together) + phone. The opposite organizational principle of cacophony.",
+        "zh": "字面是'一起的声音' — syn-（一起）+ phone。Cacophony 的反向组织原则。"
+      },
+      "usage": {
+        "en": "A symphony works because every instrument knows when not to play — silence is half the score.",
+        "zh": "交响乐之所以成立，是因为每件乐器都知道什么时候不该响 — 静默占了乐谱的一半。"
+      }
+    },
+    {
+      "word": "phonics",
+      "zh": "拼读法、语音学",
+      "root": "phone",
+      "partOfSpeech": "n.",
+      "phonetic": "FON'-iks",
+      "gloss": {
+        "en": "Teaching reading through sound — the system of mapping letters to phonemes. From phone (sound).",
+        "zh": "通过声音教阅读 — 把字母对应到音素的系统。来自 phone（声）。"
+      },
+      "usage": {
+        "en": "Phonics turns reading into a code-breaking game — once a kid hears the code, the book stops being a wall.",
+        "zh": "拼读法把阅读变成解码游戏 — 孩子一旦听见这套密码，书就不再是一堵墙。"
+      }
+    },
+    {
+      "word": "beef",
+      "zh": "牛肉",
+      "root": "bos",
+      "partOfSpeech": "n.",
+      "phonetic": "BEEF",
+      "gloss": {
+        "en": "Cow meat — came into English through Old French boeuf, ultimately from Latin bos. After the Norman conquest, English farmers raised 'cows' but Norman lords ate 'boeuf.'",
+        "zh": "牛肉 — 通过古法语 boeuf 进入英语，最终来自拉丁 bos。诺曼征服后，英国农民养'cows'，诺曼领主吃'boeuf'。"
+      },
+      "usage": {
+        "en": "English's split between cow-words (Anglo-Saxon) and beef-words (Norman) is a fossil of who tended the field and who ate at the table.",
+        "zh": "英语里 'cow'（盎格鲁-撒克逊语）和 'beef'（诺曼法语）的分裂，是一块化石 — 记录着谁在田里干活、谁坐在桌前吃。"
+      }
+    },
+    {
+      "word": "bovid",
+      "zh": "牛科动物",
+      "root": "bos",
+      "partOfSpeech": "n.",
+      "phonetic": "BO'-vid",
+      "gloss": {
+        "en": "Any member of the cattle family — cows, goats, sheep, antelope, buffalo. Bos as a taxonomic root.",
+        "zh": "牛科里的任何成员 — 牛、山羊、绵羊、羚羊、水牛。Bos 作为分类学词根。"
+      },
+      "usage": {
+        "en": "Most of human civilization has been built on the labor of bovids — the cow is the unsung cofounder of agriculture.",
+        "zh": "人类文明大半建在牛科动物的劳动上 — 牛是农业'无名联合创始人'。"
+      }
+    },
+    {
+      "word": "carnal",
+      "zh": "肉体的、世俗的",
+      "root": "caro",
+      "partOfSpeech": "adj.",
+      "phonetic": "KAR'-nal",
+      "gloss": {
+        "en": "Pertaining to the flesh — directly from caro (flesh). Used for physical desires, sensual matters, the body's preoccupations.",
+        "zh": "和肉体有关的 — 直接来自 caro（肉）。指身体的欲望、感官的事、肉身的牵挂。"
+      },
+      "usage": {
+        "en": "Religions often treat carnal as the opposite of spiritual — but the body is where every spiritual lesson eventually has to land.",
+        "zh": "宗教常把'肉体'当作'精神'的反面 — 但身体，是每个精神课题最终必须落地的地方。"
+      }
+    },
+    {
+      "word": "carnival",
+      "zh": "嘉年华、狂欢节",
+      "root": "caro",
+      "partOfSpeech": "n.",
+      "phonetic": "KAR'-na-val",
+      "gloss": {
+        "en": "Literally 'farewell to meat' — caro (flesh) + levare (to remove). The festival before Lent, when Christians ate up everything before fasting.",
+        "zh": "字面是'告别肉' — caro（肉）+ levare（除去）。斋戒前的节日，基督徒在斋戒前先把肉吃光。"
+      },
+      "usage": {
+        "en": "Every carnival is a small permission society gives itself before going back to its rules.",
+        "zh": "每个狂欢节都是一个社会在回到规则之前，给自己的一点小许可。"
+      }
+    },
+    {
+      "word": "carnage",
+      "zh": "屠杀、大杀戮",
+      "root": "caro",
+      "partOfSpeech": "n.",
+      "phonetic": "KAR'-nij",
+      "gloss": {
+        "en": "Slaughter, especially on a large scale — from caro. The word's bluntness reflects what it describes.",
+        "zh": "屠杀，尤其是大规模的 — 来自 caro。这个词的粗粝，对应它描述的事本身。"
+      },
+      "usage": {
+        "en": "History books smooth over carnage with words like 'pacification' — euphemisms doing their darkest work.",
+        "zh": "历史书用'绥靖'这样的词把屠杀抚平 — 委婉语在做它最黑暗的活。"
+      }
+    },
+    {
+      "word": "voracious",
+      "zh": "贪婪的、狼吞虎咽的",
+      "root": "vorare",
+      "partOfSpeech": "adj.",
+      "phonetic": "vo-RAY'-shus",
+      "gloss": {
+        "en": "Greedy in appetite — from vorare (to devour). Used for hunger, reading, attention, anything consumed in bulk.",
+        "zh": "胃口贪婪 — 来自 vorare（吞食）。用于饥饿、阅读、注意力，任何被大量吞下的东西。"
+      },
+      "usage": {
+        "en": "A voracious reader isn't always a careful one — sometimes the appetite IS the appetite, regardless of what it's eating.",
+        "zh": "贪婪的读者不总是细致的读者 — 有时候'胃口'就是'胃口'，吃什么并不重要。"
+      }
+    },
+    {
+      "word": "devour",
+      "zh": "吞食",
+      "root": "vorare",
+      "partOfSpeech": "v.",
+      "phonetic": "di-VOWR'",
+      "gloss": {
+        "en": "To eat hungrily, completely — de- (down) + vorare (devour). Often metaphorical: 'devoured the book in one sitting.'",
+        "zh": "饥饿地、彻底地吃光 — de-（向下）+ vorare（吞食）。常作比喻：'一口气把书吞完'。"
+      },
+      "usage": {
+        "en": "A book devoured in one sitting isn't always the best — sometimes the slow ones change you more.",
+        "zh": "一口气读完的书未必最好 — 有时候慢的那些更能改变你。"
+      }
+    },
+    {
+      "word": "herbivore",
+      "zh": "食草动物",
+      "root": "vorare",
+      "partOfSpeech": "n.",
+      "phonetic": "HUR'-ba-vor",
+      "gloss": {
+        "en": "Plant-eating — herba (plant) + vorare. Cows, deer, elephants — most large animals are herbivores.",
+        "zh": "食草动物 — herba（草）+ vorare。牛、鹿、象 — 大多数大型动物都是食草动物。"
+      },
+      "usage": {
+        "en": "It's strange that the gentlest large animals — elephants, cows, gorillas — are herbivores. Strength rarely needs flesh.",
+        "zh": "有意思的是，最温和的大型动物 — 象、牛、大猩猩 — 都是食草动物。力量很少需要靠肉。"
+      }
+    },
+    {
+      "word": "omnivore",
+      "zh": "杂食动物",
+      "root": "vorare",
+      "partOfSpeech": "n.",
+      "phonetic": "OM'-ni-vor",
+      "gloss": {
+        "en": "Eats everything — omni- (all) + vorare. Humans, pigs, bears, crows. The most adaptable diet.",
+        "zh": "什么都吃 — omni-（一切）+ vorare。人类、猪、熊、乌鸦。是最有适应力的食性。"
+      },
+      "usage": {
+        "en": "Omnivores survive change better than specialists — same is true of careers.",
+        "zh": "杂食动物比专食者更能挺过环境变化 — 这一点对职业生涯也成立。"
+      }
+    }
+  ]
+}

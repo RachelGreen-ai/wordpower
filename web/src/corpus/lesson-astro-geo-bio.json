@@ -1,0 +1,499 @@
+{
+  "lessonId": "astro-geo-bio",
+  "hook": {
+    "headline": {
+      "en": "Three scientists. Three realms — sky, earth, and life.",
+      "zh": "三个科学家，三个领域 — 天空、大地、生命。"
+    },
+    "subtext": {
+      "en": "Which one pulled you in first when you looked up as a kid?",
+      "zh": "小时候抬头看世界，最先把你拉进去的是哪一个？"
+    }
+  },
+  "words": [
+    {
+      "word": "Astronomer",
+      "phonetic": "a-STRON'-a-mar",
+      "chinese": "天文学家",
+      "definition": {
+        "en": "A scientist who studies the heavens — stars, planets, galaxies, and the laws that govern them.",
+        "zh": "研究天空的科学家 — 恒星、行星、星系，以及支配它们的规律。"
+      },
+      "etymology": {
+        "root": "astron",
+        "meaning": "star",
+        "meaningZh": "星",
+        "en": "From Greek astron = 'star' + nomos = 'law, arrangement'. Literally: 'one who measures the laws of stars.'",
+        "zh": "希腊词根 astron = 星 + nomos = 规律、安排。字面意思：丈量星辰规律的人。",
+        "relatives": [
+          {
+            "word": "astronaut",
+            "zh": "宇航员（星之航行者）"
+          },
+          {
+            "word": "astrology",
+            "zh": "占星术"
+          },
+          {
+            "word": "disaster",
+            "zh": "灾难（坏星）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The astronomer spent twelve years verifying a single dataset — patience is half the job.",
+          "zh": "天文学家花了十二年核实一组数据 — 耐心是这份工作的一半。"
+        },
+        {
+          "context": "parenting",
+          "en": "An astronomer tells children: the star you're pointing at may have stopped burning before you were born.",
+          "zh": "天文学家会告诉孩子：你指着的那颗星，可能在你出生前就已经熄灭了。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "看天",
+      "tint": "6a8ad8",
+      "mnemonic": {
+        "en": "Astron = STAR. The astronomer reads light that's been traveling longer than any of us has been alive.",
+        "zh": "Astron = 星。天文学家读的是光 — 它已经赶了比我们任何人都长的路。"
+      },
+      "commonConfusions": [
+        "astrologer",
+        "cosmologist",
+        "astrophysicist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "An astronomer and an astrologer share the same root. What's the difference?",
+            "zh": "天文学家和占星师共用同一个词根。区别在哪里？"
+          },
+          "answer": {
+            "en": "The astronomer measures the stars. The astrologer reads them like a horoscope. One is science, one is storytelling.",
+            "zh": "天文学家在丈量星辰。占星师把星辰读成命运。一个是科学，一个是讲故事。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Vera Rubin spent decades counting starlight in distant galaxies and found something nobody could explain — galaxies were spinning too fast. Her quiet measurements gave us the idea of 'dark matter.' One astronomer, patient enough to trust her numbers.",
+        "zh": "薇拉·鲁宾用几十年数遥远星系的星光，发现一件没人能解释的事 — 星系转得太快了。她安静的测量给了我们'暗物质'这个概念。一个天文学家，愿意相信自己的数字到底。"
+      }
+    },
+    {
+      "word": "Geologist",
+      "phonetic": "jee-OL'-a-jist",
+      "chinese": "地质学家",
+      "definition": {
+        "en": "A scientist who studies the earth itself — its rocks, layers, minerals, and the deep history pressed into them.",
+        "zh": "研究地球本身的科学家 — 岩石、地层、矿物，以及压在其中的深远历史。"
+      },
+      "etymology": {
+        "root": "ge",
+        "meaning": "earth",
+        "meaningZh": "大地",
+        "en": "From Greek ge = 'earth' + logos = 'study'. Literally: 'the study of the earth.'",
+        "zh": "希腊词根 ge = 大地 + logos = 学问。字面意思：研究大地的学问。",
+        "relatives": [
+          {
+            "word": "geography",
+            "zh": "地理（写大地）"
+          },
+          {
+            "word": "geometry",
+            "zh": "几何（量大地）"
+          },
+          {
+            "word": "geothermal",
+            "zh": "地热的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The geologist looked at the cliff face for an hour and read it like a book — every band a chapter.",
+          "zh": "地质学家盯着悬崖看了一个小时，像读书一样把它读完了 — 每一层颜色都是一章。"
+        },
+        {
+          "context": "parenting",
+          "en": "Every pebble in your hand was once part of a mountain — that's the first sentence a geologist learns.",
+          "zh": "你手心里的每一颗石子，曾经都是一座山的一部分 — 这是地质学家学到的第一句话。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "看地",
+      "tint": "b08660",
+      "mnemonic": {
+        "en": "Ge = EARTH. The geologist reads rock the way you'd read a diary the planet kept for itself.",
+        "zh": "Ge = 大地。地质学家读岩石的方式，就像在读地球给自己写的日记。"
+      },
+      "commonConfusions": [
+        "geographer",
+        "seismologist",
+        "paleontologist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "A geographer and a geologist both study the earth. What's the difference?",
+            "zh": "地理学家和地质学家都研究地球。区别在哪里？"
+          },
+          "answer": {
+            "en": "The geographer studies the SURFACE — rivers, cities, climate. The geologist studies what's UNDERNEATH — layers, time, deep structure.",
+            "zh": "地理学家研究表面 — 河流、城市、气候。地质学家研究底下 — 地层、时间、深层结构。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "When the Grand Canyon was first measured, geologists realized its bottom layers were two billion years old — older than most multicellular life. Visitors came to see scenery. The geologists were looking at time.",
+        "zh": "当大峡谷第一次被测量时，地质学家意识到它最底层的岩石有二十亿年 — 比大多数多细胞生命都古老。游客来看风景，地质学家来看的是时间。"
+      }
+    },
+    {
+      "word": "Biologist",
+      "phonetic": "bi-OL'-a-jist",
+      "chinese": "生物学家",
+      "definition": {
+        "en": "A scientist who studies living things — from a single cell to a whole forest — and the rules that life follows.",
+        "zh": "研究生命的科学家 — 从一个细胞到一整片森林，以及生命遵循的规律。"
+      },
+      "etymology": {
+        "root": "bios",
+        "meaning": "life",
+        "meaningZh": "生命",
+        "en": "From Greek bios = 'life' + logos = 'study'. Literally: 'the study of life.'",
+        "zh": "希腊词根 bios = 生命 + logos = 学问。字面意思：研究生命的学问。",
+        "relatives": [
+          {
+            "word": "biography",
+            "zh": "传记（写生命）"
+          },
+          {
+            "word": "antibiotic",
+            "zh": "抗生素（对抗生命）"
+          },
+          {
+            "word": "symbiosis",
+            "zh": "共生（一起生活）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "A biologist watches one tide pool for a year and learns more than most labs learn in a decade.",
+          "zh": "生物学家盯一个潮池盯一年，学到的，比许多实验室十年还多。"
+        },
+        {
+          "context": "parenting",
+          "en": "Every biologist's favorite line: life finds a way — and it does, again and again.",
+          "zh": "每个生物学家最喜欢的一句话：生命总会找到出路 — 而且它真的会，一次又一次。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "看生命",
+      "tint": "6fb86f",
+      "mnemonic": {
+        "en": "Bios = LIFE. From the bacteria on your skin to the whales in the deep — every living thing is the biologist's office.",
+        "zh": "Bios = 生命。从你皮肤上的细菌到深海的鲸鱼 — 每一个活物都是生物学家的办公室。"
+      },
+      "commonConfusions": [
+        "zoologist",
+        "botanist",
+        "ecologist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "A biologist studies LIFE. So what's the difference between a biologist and a zoologist or botanist?",
+            "zh": "生物学家研究生命。那他和动物学家、植物学家的区别在哪里？"
+          },
+          "answer": {
+            "en": "Biologist is the umbrella. Zoologists focus on animals, botanists on plants — both are biologists who picked one corner of the kingdom.",
+            "zh": "生物学家是大伞。动物学家专攻动物，植物学家专攻植物 — 他们都是生物学家，只是各选了王国的一角。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Rachel Carson was a biologist before she was an author. She listened carefully to what was disappearing from American springs — birds, frogs, insects — and wrote 'Silent Spring.' One biologist who could hear what was missing changed environmental law forever.",
+        "zh": "蕾切尔·卡逊先是生物学家，才成为作家。她仔细倾听美国的春天里在消失的东西 — 鸟、青蛙、虫子 — 然后写了《寂静的春天》。一个能听见缺席之声的生物学家，永远改变了环境法律。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both look at things older than you. Both treat time as the most interesting ingredient.",
+      "zh": "他们看的都是比你古老的东西。时间，是他们眼里最有意思的成分。"
+    },
+    "leftLabel": "Astronomer",
+    "leftLine": {
+      "en": "Looks up. Reads light from millions of years ago.",
+      "zh": "抬头看。读的是几百万年前出发的光。"
+    },
+    "leftMnemonic": {
+      "en": "Astron = STAR · time, written in light.",
+      "zh": "Astron = 星 · 时间，用光写成。"
+    },
+    "rightLabel": "Geologist",
+    "rightLine": {
+      "en": "Looks down. Reads rock pressed into layers.",
+      "zh": "低头看。读的是被压成层的岩石。"
+    },
+    "rightMnemonic": {
+      "en": "Ge = EARTH · time, written in stone.",
+      "zh": "Ge = 大地 · 时间，用石头写成。"
+    },
+    "closing": {
+      "en": "One reads light. One reads stone. Both are reading the past.",
+      "zh": "一个读光，一个读石。读的都是过去。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Whichever direction you look — up, down, or at your own breath — you're looking at time. The trick is to notice you're inside it too.",
+      "zh": "无论你看哪个方向 — 抬头、低头、还是看自己的呼吸 — 你看的都是时间。关键是意识到，自己也在它里面。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/astro-geo-bio/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/astro-geo-bio/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/astro-geo-bio/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/astro-geo-bio/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/astro-geo-bio/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/astro-geo-bio/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/astro-geo-bio/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/astro-geo-bio/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/astro-geo-bio/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/astro-geo-bio/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/astro-geo-bio/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/astro-geo-bio/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/astro-geo-bio/twist.left.wav",
+    "twist.right": "audio/vocab/astro-geo-bio/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/astro-geo-bio/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/astro-geo-bio/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/astro-geo-bio/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/astro-geo-bio/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/astro-geo-bio/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/astro-geo-bio/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/astro-geo-bio/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/astro-geo-bio/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/astro-geo-bio/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/astro-geo-bio/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/astro-geo-bio/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/astro-geo-bio/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/astro-geo-bio/hook.headline.wav",
+    "word.0.definition": "audio/vocab/astro-geo-bio/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/astro-geo-bio/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/astro-geo-bio/word.2.definition.wav",
+    "twist.setup": "audio/vocab/astro-geo-bio/twist.setup.wav",
+    "twist.closing": "audio/vocab/astro-geo-bio/twist.closing.wav",
+    "recap.reflection": "audio/vocab/astro-geo-bio/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 6,
+    "session": 11,
+    "pages": [
+      115,
+      130
+    ],
+    "theme": "Science and Scientists",
+    "subtheme": "Realms of the universe"
+  },
+  "tags": [
+    "science",
+    "scientists",
+    "realms",
+    "ch6",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "astronaut",
+      "zh": "宇航员",
+      "root": "astron",
+      "partOfSpeech": "n.",
+      "phonetic": "AS'-tra-nawt",
+      "gloss": {
+        "en": "Literally 'a sailor of the stars' — astron (star) + nautes (sailor, as in 'nautical').",
+        "zh": "字面是'星之航行者' — astron（星）+ nautes（水手，同'航海的'）。"
+      },
+      "usage": {
+        "en": "Every astronaut says the same thing on returning: the earth looks small, and unreasonably beautiful.",
+        "zh": "每个宇航员回来都说同一句话：地球看上去很小，又美得不讲道理。"
+      }
+    },
+    {
+      "word": "astrology",
+      "zh": "占星术",
+      "root": "astron",
+      "partOfSpeech": "n.",
+      "phonetic": "a-STROL'-a-jee",
+      "gloss": {
+        "en": "The art of reading meaning into the stars — astron (star) + logos (here meaning 'discourse, talk').",
+        "zh": "把意义读进星辰的技艺 — astron（星）+ logos（此处指'谈论、解读'）。"
+      },
+      "usage": {
+        "en": "Astrology will never predict the weather, but it predicts what someone wants to believe about themselves.",
+        "zh": "占星术从来预测不了天气，但它能预测一个人想怎么相信自己。"
+      }
+    },
+    {
+      "word": "disaster",
+      "zh": "灾难",
+      "root": "astron",
+      "partOfSpeech": "n.",
+      "phonetic": "diz-AS'-tar",
+      "gloss": {
+        "en": "Literally 'a bad star' — dis- (negative) + astron. The ancients believed catastrophes came from unlucky alignments.",
+        "zh": "字面是'坏的星' — dis-（负向）+ astron。古人相信厄运来自星辰错位。"
+      },
+      "usage": {
+        "en": "Real disasters are rarely sudden — they're slow accumulations someone decided to ignore.",
+        "zh": "真正的灾难很少是突然的 — 大多是有人选择忽略的缓慢累积。"
+      }
+    },
+    {
+      "word": "asterisk",
+      "zh": "星号",
+      "root": "astron",
+      "partOfSpeech": "n.",
+      "phonetic": "AS'-ta-risk",
+      "gloss": {
+        "en": "Literally 'a little star' — astron + -isk (Greek diminutive). The * symbol we use as a footnote mark.",
+        "zh": "字面是'小星星' — astron + -isk（希腊小词后缀）。也就是我们做脚注的 * 符号。"
+      },
+      "usage": {
+        "en": "His promise came with three asterisks and a footnote — read the fine print.",
+        "zh": "他的承诺带着三个星号和一行小注 — 务必读那些小字。"
+      }
+    },
+    {
+      "word": "geography",
+      "zh": "地理学",
+      "root": "ge",
+      "partOfSpeech": "n.",
+      "phonetic": "jee-OG'-ra-fee",
+      "gloss": {
+        "en": "Literally 'writing the earth' — ge (earth) + graphein (to write). The study of places and how they sit together.",
+        "zh": "字面是'写大地' — ge（大地）+ graphein（写）。研究地方与它们之间如何相邻。"
+      },
+      "usage": {
+        "en": "Geography decides more of your life than you'd like — where you're born sets half your options.",
+        "zh": "地理决定的事比你愿意承认的要多 — 你生在哪里，已经定下了一半的可能。"
+      }
+    },
+    {
+      "word": "geometry",
+      "zh": "几何学",
+      "root": "ge",
+      "partOfSpeech": "n.",
+      "phonetic": "jee-OM'-a-tree",
+      "gloss": {
+        "en": "Literally 'measuring the earth' — ge (earth) + metron (measure). Began as a tool to survey flooded fields.",
+        "zh": "字面是'丈量大地' — ge（大地）+ metron（量）。最初是为了在洪水退后重新丈量农田。"
+      },
+      "usage": {
+        "en": "The Egyptians invented geometry because the Nile kept erasing their fences.",
+        "zh": "埃及人发明几何，是因为尼罗河老把他们的田埂冲掉。"
+      }
+    },
+    {
+      "word": "geothermal",
+      "zh": "地热的",
+      "root": "ge",
+      "partOfSpeech": "adj.",
+      "phonetic": "jee'-o-THUR'-mal",
+      "gloss": {
+        "en": "Relating to heat from inside the earth — ge (earth) + therme (heat). Same therme as 'thermometer.'",
+        "zh": "与地球内部热量有关 — ge（大地）+ therme（热）。'温度计'里的同一个 therme。"
+      },
+      "usage": {
+        "en": "Iceland heats most of its homes with geothermal water — the planet does the work for free.",
+        "zh": "冰岛大部分的家庭供暖靠地热水 — 地球替他们免费干活。"
+      }
+    },
+    {
+      "word": "biography",
+      "zh": "传记",
+      "root": "bios",
+      "partOfSpeech": "n.",
+      "phonetic": "bi-OG'-ra-fee",
+      "gloss": {
+        "en": "Literally 'writing a life' — bios (life) + graphein (to write).",
+        "zh": "字面是'写一个人的生命' — bios（生命）+ graphein（写）。"
+      },
+      "usage": {
+        "en": "A good biography doesn't just list events — it shows you the years between them.",
+        "zh": "好的传记不只列出事件 — 它让你看见事件之间的那些年。"
+      }
+    },
+    {
+      "word": "antibiotic",
+      "zh": "抗生素",
+      "root": "bios",
+      "partOfSpeech": "n.",
+      "phonetic": "an'-tee-bi-OT'-ik",
+      "gloss": {
+        "en": "Literally 'against life' — anti- (against) + bios. A drug that kills bacterial life inside you.",
+        "zh": "字面是'对抗生命' — anti-（对抗）+ bios。杀死你体内细菌生命的药。"
+      },
+      "usage": {
+        "en": "Antibiotics changed medicine in twenty years — and we're already using them up.",
+        "zh": "抗生素在二十年里改变了医学 — 而我们已经在把它用尽。"
+      }
+    },
+    {
+      "word": "symbiosis",
+      "zh": "共生",
+      "root": "bios",
+      "partOfSpeech": "n.",
+      "phonetic": "sim'-bee-O'-sis",
+      "gloss": {
+        "en": "Literally 'living together' — syn- (together) + bios. Two species relying on each other.",
+        "zh": "字面是'一起生活' — syn-（一起）+ bios。两个物种相互依赖。"
+      },
+      "usage": {
+        "en": "The best long-term relationships are quiet symbiosis — each person better off because the other is there.",
+        "zh": "最好的长久关系是安静的共生 — 因为对方在，每个人都活得更好一点。"
+      }
+    },
+    {
+      "word": "economy",
+      "zh": "经济",
+      "root": "nomos",
+      "partOfSpeech": "n.",
+      "phonetic": "ee-KON'-a-mee",
+      "gloss": {
+        "en": "Literally 'household law' — oikos (house) + nomos (law). Same nomos that 'astronomer' uses for the laws of stars.",
+        "zh": "字面是'家庭的规律' — oikos（家）+ nomos（规律）。和'天文学家'里管星辰的 nomos 是同一个。"
+      },
+      "usage": {
+        "en": "An economy is just millions of tiny household decisions, added up and pretending to be a single thing.",
+        "zh": "经济不过是几百万个家庭的小决定，加在一起，假装成一个整体。"
+      },
+      "rootMeaning": "law, arrangement",
+      "rootMeaningZh": "规律、安排",
+      "rootTint": "8f7fb0"
+    },
+    {
+      "word": "autonomy",
+      "zh": "自治、自主",
+      "root": "nomos",
+      "partOfSpeech": "n.",
+      "phonetic": "aw-TON'-a-mee",
+      "gloss": {
+        "en": "Literally 'self-law' — autos (self) + nomos (law). The freedom to make your own rules.",
+        "zh": "字面是'自己的规律' — autos（自己）+ nomos（规律）。给自己定规则的自由。"
+      },
+      "usage": {
+        "en": "Real autonomy isn't doing what you want — it's knowing why you wanted it.",
+        "zh": "真正的自主，不是想做什么就做什么 — 是知道自己为什么想做。"
+      }
+    }
+  ]
+}

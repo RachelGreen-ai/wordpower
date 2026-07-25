@@ -1,0 +1,494 @@
+{
+  "lessonId": "bibulous-cadaverous-lugubrious",
+  "hook": {
+    "headline": {
+      "en": "Three -ous adjectives — boozy, gaunt, gloomy.",
+      "zh": "三个 -ous 形容词 — 嗜酒的、面黄肌瘦的、忧郁的。"
+    },
+    "subtext": {
+      "en": "The book's final lesson. The shapes a difficult life leaves on the body and the face.",
+      "zh": "本书的最后一课。一种艰难的人生，会在身体和脸上留下的形状。"
+    }
+  },
+  "words": [
+    {
+      "word": "Bibulous",
+      "phonetic": "BIB'-yoo-las",
+      "chinese": "嗜酒的、好饮的",
+      "definition": {
+        "en": "Fond of drinking — usually alcohol, often excessively. Not necessarily an addict; more often the cheerful drinker who's almost always holding a glass.",
+        "zh": "喜欢喝酒 — 通常是酒精，常常喝得多。不一定是上瘾者，更多是那种几乎手里总有一杯的'快乐酒徒'。"
+      },
+      "etymology": {
+        "root": "bibere",
+        "meaning": "to drink",
+        "meaningZh": "饮、喝",
+        "en": "From Latin bibere = 'to drink.' Same bibere in 'imbibe' (to drink in), 'beverage' (something to drink), and 'bib' (the cloth that catches what doesn't quite make it to the mouth). One little Latin verb, one big human topic.",
+        "zh": "拉丁 bibere = 喝。同一个 bibere 出现在 imbibe（吸入、痛饮）、beverage（饮料）、bib（围嘴，'接住没喝进嘴里的'）里。一个小拉丁动词，对应人类生活里一个大题目。",
+        "relatives": [
+          {
+            "word": "imbibe",
+            "zh": "饮、吸入"
+          },
+          {
+            "word": "beverage",
+            "zh": "饮料"
+          },
+          {
+            "word": "bib",
+            "zh": "围嘴"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "He had a bibulous uncle who told the same three stories at every Christmas — the stories got better as the evening went on.",
+          "zh": "他有个嗜酒的舅舅，每年圣诞讲同样三个故事 — 故事讲得越来越好，随着晚上越来越深。"
+        },
+        {
+          "context": "workplace",
+          "en": "The bibulous lunch ended a certain era of business — when contracts were finalized over the third martini and signed before coffee.",
+          "zh": "'酒杯午餐'结束了某种生意时代 — 那时候合同在第三杯马提尼之后定下来，咖啡之前就签了。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "嗜酒",
+      "tint": "8a5a4f",
+      "mnemonic": {
+        "en": "Bibere = TO DRINK. Bibulous = drinking-prone. The 'bib' in your bibulous uncle is the same 'bib' a baby wears.",
+        "zh": "Bibere = 喝。Bibulous = 好喝的人。你那位'嗜酒'的舅舅词里的 bib，和婴儿戴的'围嘴' bib，是同一个字。"
+      },
+      "commonConfusions": [
+        "drunken",
+        "intoxicated",
+        "thirsty"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Drunken and bibulous both involve drinking. What's the difference?",
+            "zh": "Drunken 和 bibulous 都涉及喝酒。区别在哪？"
+          },
+          "answer": {
+            "en": "Drunken = a state at one moment. Bibulous = a habit over a life. One is the photo. The other is the album.",
+            "zh": "Drunken = 某一刻的状态。Bibulous = 一辈子的习惯。一个是照片，一个是相册。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Samuel Johnson was famously bibulous in his younger years, then quit cold turkey at fifty — he wrote that a man who could drink moderately had a kind of virtue. A man who couldn't, he said, had only one option, and he had taken it. Self-knowledge sometimes looks like abstinence.",
+        "zh": "塞缪尔·约翰逊年轻时出了名地嗜酒，五十岁说戒就戒。他后来写道：一个能适量饮酒的人有一种美德。不能适量的人只有一个办法，他选了那个。自我认识，有时长得像戒断。"
+      }
+    },
+    {
+      "word": "Cadaverous",
+      "phonetic": "ka-DAV'-ar-as",
+      "chinese": "面黄肌瘦的、形如枯槁的",
+      "definition": {
+        "en": "Looking like a corpse — pale, gaunt, drawn. The face that's lost too much weight or too much sleep, or has held too much grief.",
+        "zh": "看上去像一具尸体 — 苍白、消瘦、憔悴。一张瘦得过头、睡得过少、或承载过多悲伤的脸。"
+      },
+      "etymology": {
+        "root": "cadere",
+        "meaning": "to fall",
+        "meaningZh": "落下、跌落",
+        "en": "From Latin cadaver (corpse), from cadere (to fall) — a corpse is something that has 'fallen.' Same cadere in 'cadence' (the falling rhythm), 'cascade' (a falling stream), 'decadent' (fallen-down morals), 'accident' (something that falls upon you), 'occident' (the west — where the sun falls).",
+        "zh": "拉丁 cadaver（尸体），来自 cadere（落）— 尸体就是'倒下去的东西'。同一个 cadere 出现在 cadence（节奏，'下落的律动'）、cascade（瀑布）、decadent（颓废，'道德下落'）、accident（事故，'落到你身上的事'）、occident（西方，'太阳落下的方向'）里。",
+        "relatives": [
+          {
+            "word": "cadence",
+            "zh": "节奏、抑扬"
+          },
+          {
+            "word": "cascade",
+            "zh": "瀑布"
+          },
+          {
+            "word": "decadent",
+            "zh": "颓废的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "He came back from the hospital cadaverous — but six months later, color and weight had returned, and the body forgave him.",
+          "zh": "从医院回来时他面黄肌瘦 — 但六个月后，气色和体重都回来了，身体原谅了他。"
+        },
+        {
+          "context": "social",
+          "en": "Some cadaverous faces aren't from illness — they're from carrying something the rest of us aren't being asked to carry.",
+          "zh": "有些憔悴的脸不是因为病 — 是因为承担着我们其他人不必承担的东西。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "枯槁",
+      "tint": "7a7a8a",
+      "mnemonic": {
+        "en": "Cadere = TO FALL. Cadaverous = falling-down looking — the face the world has been pulling on for too long.",
+        "zh": "Cadere = 落下。Cadaverous = 像在'往下落'的样子 — 一张被世界拉扯得太久的脸。"
+      },
+      "commonConfusions": [
+        "gaunt",
+        "haggard",
+        "emaciated"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Gaunt and cadaverous are close. What's the difference?",
+            "zh": "Gaunt 和 cadaverous 接近。区别在哪？"
+          },
+          "answer": {
+            "en": "Gaunt = thin and drawn — could be a runner or an ascetic. Cadaverous = thin to the point of looking lifeless. Gauntness has muscle. Cadaverousness suggests the body is leaving.",
+            "zh": "Gaunt = 瘦削、憔悴 — 可能是跑者或苦修者。Cadaverous = 瘦到看上去没生气。Gaunt 里还有肌肉。Cadaverous 暗示身体正在离开。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Witness sketches from concentration camp survivors all use the same word in different languages — cadaverous, kadawerisch, скелетный. When language reaches for one shared word, it's pointing at one shared horror.",
+        "zh": "集中营幸存者的目击素描，在不同语言里用着同一个词 — cadaverous、kadawerisch、скелетный。当语言伸手去抓同一个词，它指向的，是同一种共同的恐怖。"
+      }
+    },
+    {
+      "word": "Lugubrious",
+      "phonetic": "loo-GOO'-bree-as",
+      "chinese": "忧郁的、悲哀的",
+      "definition": {
+        "en": "Mournful in tone or expression — exaggeratedly sad, with a sadness that announces itself. The slow, drawn-out 'oh no' that takes itself a little too seriously.",
+        "zh": "声调或表情上充满哀愁 — 夸张地悲伤，那种把'我很难过'写在脸上的悲伤。是一种把自己看得很重的、拖长音的'噢不'。"
+      },
+      "etymology": {
+        "root": "lugere",
+        "meaning": "to mourn",
+        "meaningZh": "哀悼",
+        "en": "From Latin lugubris = 'mournful,' from lugere (to mourn). A small root family — lugere didn't branch much in English. But the word's own sound carries the meaning: that long 'oooh' in the middle is grief itself, slowed down.",
+        "zh": "拉丁 lugubris = 哀伤，来自 lugere（哀悼）。这个词根在英语里没有太多衍生。但这个词的发音本身就在说意思：中间那个长长的'噢' — 是放慢了的悲伤本身。",
+        "relatives": [
+          {
+            "word": "lugubriously",
+            "zh": "悲哀地（副词）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He delivered the layoff news in a lugubrious tone — and somehow that drawn-out sadness made the room feel worse, not heard.",
+          "zh": "他用一种忧郁的语调宣布裁员消息 — 那种拖长的难过，反而让屋子里的人觉得更难受，而不是被听见。"
+        },
+        {
+          "context": "social",
+          "en": "There's a difference between lugubrious and grieving — one performs the sadness, the other is in it. The first announces; the second sits.",
+          "zh": "忧郁和真正哀痛是两回事 — 一个在表演悲伤，一个就在悲伤里。前者在宣告，后者只是坐着。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "忧郁",
+      "tint": "5a5a8a",
+      "mnemonic": {
+        "en": "Lugere = TO MOURN. Lugubrious = mourning, performed. The drawn-out 'gooo' in the middle of the word IS the sound it describes.",
+        "zh": "Lugere = 哀悼。Lugubrious = 表演式的哀悼。词中间长长的'goo'声 — 就是它要描述的那个声音本身。"
+      },
+      "commonConfusions": [
+        "mournful",
+        "doleful",
+        "morose"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Mournful and lugubrious both express grief. What's the difference?",
+            "zh": "Mournful 和 lugubrious 都表达悲伤。区别在哪？"
+          },
+          "answer": {
+            "en": "Mournful is sincere sadness, often quiet. Lugubrious is sadness turned up — performed, slow, sometimes a little theatrical. One mourns; the other narrates the mourning.",
+            "zh": "Mournful 是诚恳的悲伤，常常很安静。Lugubrious 是把悲伤'调大了' — 表演的、缓慢的，有时带点戏剧性。一个在哀悼，一个在'讲述自己在哀悼'。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Eeyore in Winnie-the-Pooh is the patron saint of the lugubrious — every weather report is a complaint, every gift received with a sigh. We love him because we recognize him. We've all had Eeyore weeks. The trick is not to make them years.",
+        "zh": "《小熊维尼》里的 Eeyore 是忧郁性的守护神 — 每条天气预报都是抱怨，每份礼物都伴着一声叹气。我们爱他，是因为我们认得他。我们都有过'像 Eeyore 一样'的几周。秘诀是别把它过成几年。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Cadaverous shows on the body. Lugubrious shows in the voice. Different ways grief leaves a mark.",
+      "zh": "Cadaverous 显在身上。Lugubrious 显在声音里。悲伤留下印子的两种方式。"
+    },
+    "leftLabel": "Cadaverous",
+    "leftLine": {
+      "en": "The face has fallen.",
+      "zh": "脸已经'落'下来了。"
+    },
+    "leftMnemonic": {
+      "en": "Cadere = TO FALL · grief in the body.",
+      "zh": "Cadere = 落 · 悲伤在身体里。"
+    },
+    "rightLabel": "Lugubrious",
+    "rightLine": {
+      "en": "The voice draws the sadness out.",
+      "zh": "声音把悲伤拖得很长。"
+    },
+    "rightMnemonic": {
+      "en": "Lugere = TO MOURN · grief performed.",
+      "zh": "Lugere = 哀悼 · 被表演出来的悲伤。"
+    },
+    "closing": {
+      "en": "One is what grief takes from you. The other is what you give to grief. Be careful which one you're feeding.",
+      "zh": "一个是悲伤从你身上拿走的。一个是你给悲伤的。要留心 — 你在喂哪一个。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "The body keeps a score. The voice keeps a score. Both can be tuned, slowly, by what you choose to carry — and what you choose to put down.",
+      "zh": "身体记着分。声音记着分。两本账都可以慢慢调 — 取决于你选择带着什么、又选择放下什么。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/bibulous-cadaverous-lugubrious/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/bibulous-cadaverous-lugubrious/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/bibulous-cadaverous-lugubrious/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/bibulous-cadaverous-lugubrious/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/bibulous-cadaverous-lugubrious/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/bibulous-cadaverous-lugubrious/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/bibulous-cadaverous-lugubrious/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/bibulous-cadaverous-lugubrious/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/bibulous-cadaverous-lugubrious/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/bibulous-cadaverous-lugubrious/twist.left.wav",
+    "twist.right": "audio/vocab/bibulous-cadaverous-lugubrious/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/bibulous-cadaverous-lugubrious/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/bibulous-cadaverous-lugubrious/hook.headline.wav",
+    "word.0.definition": "audio/vocab/bibulous-cadaverous-lugubrious/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/bibulous-cadaverous-lugubrious/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/bibulous-cadaverous-lugubrious/word.2.definition.wav",
+    "twist.setup": "audio/vocab/bibulous-cadaverous-lugubrious/twist.setup.wav",
+    "twist.closing": "audio/vocab/bibulous-cadaverous-lugubrious/twist.closing.wav",
+    "recap.reflection": "audio/vocab/bibulous-cadaverous-lugubrious/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 16,
+    "session": 46,
+    "pages": [
+      478,
+      523
+    ],
+    "theme": "Personal Characteristics",
+    "subtheme": "What life leaves on body and face"
+  },
+  "tags": [
+    "characteristics",
+    "body",
+    "ch16",
+    "wpme",
+    "final-lesson"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "imbibe",
+      "zh": "饮、吸入",
+      "root": "bibere",
+      "partOfSpeech": "v.",
+      "phonetic": "im-BIB'",
+      "gloss": {
+        "en": "To drink in — in- (in) + bibere. Used for liquid, but also metaphorically: to imbibe an idea, a culture.",
+        "zh": "喝进去 — in-（进入）+ bibere。可以指液体，也可以是比喻：吸收一个想法、一种文化。"
+      },
+      "usage": {
+        "en": "We imbibe most of our worldview by age twelve — the rest of life is editing.",
+        "zh": "我们大部分的世界观，是在十二岁前喝下去的 — 其余的人生都是在编辑。"
+      }
+    },
+    {
+      "word": "beverage",
+      "zh": "饮料",
+      "root": "bibere",
+      "partOfSpeech": "n.",
+      "phonetic": "BEV'-ar-ij",
+      "gloss": {
+        "en": "Anything to drink — from Latin bibere via Old French. The neutral word a menu uses when it doesn't want to commit.",
+        "zh": "任何可喝的东西 — 来自拉丁 bibere，经古法语传入。是菜单想'不下结论'时用的中性词。"
+      },
+      "usage": {
+        "en": "A culture's signature beverage tells you what its weather is — coffee in cold mornings, tea in long afternoons, beer in summer dusk.",
+        "zh": "一种文化的代表饮品告诉你它的天气 — 寒冷早晨的咖啡、漫长午后的茶、夏日黄昏的啤酒。"
+      }
+    },
+    {
+      "word": "bib",
+      "zh": "围嘴",
+      "root": "bibere",
+      "partOfSpeech": "n.",
+      "phonetic": "BIB",
+      "gloss": {
+        "en": "The cloth that catches what doesn't make it to the mouth — from bibere. The babiest of the bibere family.",
+        "zh": "接住没喝进嘴里的东西的那块布 — 来自 bibere。是 bibere 词族里最'婴儿'的一个。"
+      },
+      "usage": {
+        "en": "Every drinker, child or adult, eventually needs a bib of some kind — a napkin, a pause, a friend who notices.",
+        "zh": "每个'喝东西的人'，小孩或大人，迟早需要某种'围嘴' — 一张纸巾、一段停顿、一个会注意到的朋友。"
+      }
+    },
+    {
+      "word": "cadence",
+      "zh": "节奏、抑扬",
+      "root": "cadere",
+      "partOfSpeech": "n.",
+      "phonetic": "KAY'-dans",
+      "gloss": {
+        "en": "The rhythm of rising and falling — from cadere (to fall). The pattern of where the voice or footstep lands.",
+        "zh": "起伏的节奏 — 来自 cadere（落）。声音或脚步'落'到哪里的模式。"
+      },
+      "usage": {
+        "en": "Great speakers have a cadence you'd recognize blindfolded — the falling of certain words is a fingerprint.",
+        "zh": "好的演说者，蒙着眼也能让人认出他的节奏 — 某些词'落下来'的方式就是指纹。"
+      }
+    },
+    {
+      "word": "cascade",
+      "zh": "瀑布、连串",
+      "root": "cadere",
+      "partOfSpeech": "n./v.",
+      "phonetic": "kas-KAYD'",
+      "gloss": {
+        "en": "A waterfall — from cadere via Italian cascata (a falling). Used for water, hair, failures, anything that falls in stages.",
+        "zh": "瀑布 — 来自 cadere，经意大利语 cascata（落下的）。用于水、头发、失败、任何'一级一级落下'的事。"
+      },
+      "usage": {
+        "en": "A cascade of small failures usually traces back to one ignored signal — find that and the rest stops falling.",
+        "zh": "一连串小失败，通常能追溯到一个被忽视的信号 — 找到它，剩下的就停止下落了。"
+      }
+    },
+    {
+      "word": "decadent",
+      "zh": "颓废的、腐化的",
+      "root": "cadere",
+      "partOfSpeech": "adj.",
+      "phonetic": "DEK'-a-dant",
+      "gloss": {
+        "en": "Literally 'falling down' (morally) — de- (down) + cadere. Civilizations and chocolate cakes can both be decadent.",
+        "zh": "字面是'（道德地）往下落' — de-（向下）+ cadere。文明和巧克力蛋糕都可以是 decadent。"
+      },
+      "usage": {
+        "en": "Every era thinks the next one is decadent — and the next era thinks the same of its own next. Decadence is a story the older generation tells.",
+        "zh": "每个时代都觉得下一个时代'颓废' — 而下一个时代又对它的下一个这样说。颓废是上一代讲给下一代的故事。"
+      }
+    },
+    {
+      "word": "accident",
+      "zh": "事故、意外",
+      "root": "cadere",
+      "partOfSpeech": "n.",
+      "phonetic": "AK'-si-dant",
+      "gloss": {
+        "en": "Literally 'something that falls upon you' — ad- (toward) + cadere. The Romans saw events as things that fell from above.",
+        "zh": "字面是'落到你身上的东西' — ad-（向）+ cadere。罗马人把事件看作'从上方落下'的东西。"
+      },
+      "usage": {
+        "en": "Most accidents aren't random — they're the meeting of a small mistake and a moment that wasn't watching.",
+        "zh": "大多数意外都不是随机的 — 是一个小错误和一个'没在看'的瞬间相遇了。"
+      }
+    },
+    {
+      "word": "occident",
+      "zh": "西方",
+      "root": "cadere",
+      "partOfSpeech": "n.",
+      "phonetic": "OK'-si-dant",
+      "gloss": {
+        "en": "The West — literally 'where the sun falls' (sets). From cadere. Its opposite is 'orient' (where the sun rises).",
+        "zh": "西方 — 字面是'太阳落下的方向'。来自 cadere。它的反面是 orient（东方，'太阳升起的方向'）。"
+      },
+      "usage": {
+        "en": "The occident isn't a place — it's the direction the day is heading. Most things we call 'west' are points on a journey.",
+        "zh": "西方不是一个地方 — 是一天行进的方向。我们叫'西'的大多数东西，都是路途上的某个点。"
+      }
+    },
+    {
+      "word": "morose",
+      "zh": "阴郁的、闷闷不乐的",
+      "root": "mos",
+      "partOfSpeech": "adj.",
+      "phonetic": "ma-ROSE'",
+      "gloss": {
+        "en": "Gloomily withdrawn — from Latin morosus (peevish, ill-humored), itself from mos (habit, temper). The cousin of lugubrious without the performance.",
+        "zh": "阴郁、退缩 — 来自拉丁 morosus（暴躁、不高兴），源自 mos（习气、脾气）。是 lugubrious 不带表演的表亲。"
+      },
+      "usage": {
+        "en": "A morose teenager and a lugubrious grandfather can sit silently together for hours — same shape of sadness, different costumes.",
+        "zh": "阴郁的少年和忧郁的祖父能默默地坐在一起好几个小时 — 同样形状的悲伤，不同的服装。"
+      },
+      "rootMeaning": "habit, mood (Latin)",
+      "rootMeaningZh": "习气、情绪（拉丁）",
+      "rootTint": "6a6a8a"
+    },
+    {
+      "word": "doleful",
+      "zh": "悲哀的、哀伤的",
+      "root": "dolere",
+      "partOfSpeech": "adj.",
+      "phonetic": "DOL'-fal",
+      "gloss": {
+        "en": "Full of sorrow — from Latin dolere (to grieve). Same dolere in 'condolence' (grieving WITH) and 'indolent' (originally 'without pain,' then 'lazy').",
+        "zh": "充满哀伤 — 来自拉丁 dolere（悲痛）。同一个 dolere 出现在 condolence（哀悼，'一起悲痛'）、indolent（懒惰，原意'无痛'）里。"
+      },
+      "usage": {
+        "en": "A doleful song can be a kindness — it gives your private sadness a public shape.",
+        "zh": "一首哀伤的歌可以是一种善意 — 它给你私人的悲伤一个公开的形状。"
+      },
+      "rootMeaning": "to grieve (Latin)",
+      "rootMeaningZh": "悲痛（拉丁）",
+      "rootTint": "5a6a8a"
+    },
+    {
+      "word": "condolence",
+      "zh": "慰问、哀悼",
+      "root": "dolere",
+      "partOfSpeech": "n.",
+      "phonetic": "kan-DO'-lans",
+      "gloss": {
+        "en": "Literally 'grieving WITH' — con- (with) + dolere. What you offer when there's nothing else to give.",
+        "zh": "字面是'一起悲痛' — con-（一起）+ dolere。当你没有别的能给的时候，给出的东西。"
+      },
+      "usage": {
+        "en": "A short, sincere condolence helps more than a long, eloquent one — the bereaved have no energy to read.",
+        "zh": "一句简短真诚的慰问，胜过一段冗长漂亮的 — 失去亲人的人，没有读长文的力气。"
+      }
+    },
+    {
+      "word": "indolent",
+      "zh": "懒散的、慵懒的",
+      "root": "dolere",
+      "partOfSpeech": "adj.",
+      "phonetic": "IN'-da-lant",
+      "gloss": {
+        "en": "Lazy — but originally 'feeling no pain.' In- (not) + dolere. The connection: someone in no pain has no urgency.",
+        "zh": "懒散 — 但原意是'没感觉到痛'。In-（不）+ dolere。逻辑链条：没痛感的人没有紧迫感。"
+      },
+      "usage": {
+        "en": "An indolent afternoon — sun, a book, no obligations — is one of life's small luxuries. The trouble is when one becomes a year.",
+        "zh": "一个慵懒的下午 — 阳光、一本书、没有义务 — 是人生的一项小奢侈。麻烦在于：一个下午变成了一年。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "lessonId": "derm-ophth-ortho",
+  "hook": {
+    "headline": {
+      "en": "Three doctors. Three visible territories.",
+      "zh": "三位医生，三个看得见的领域。"
+    },
+    "subtext": {
+      "en": "Skin, eyes, bones — the body's outer architecture.",
+      "zh": "皮肤、眼睛、骨骼 — 身体外部的结构。"
+    }
+  },
+  "words": [
+    {
+      "word": "Dermatologist",
+      "phonetic": "dur-muh-TOL'-uh-jist",
+      "chinese": "皮肤科医生",
+      "definition": {
+        "en": "A doctor who treats the skin — the body's largest organ and most public face.",
+        "zh": "治疗皮肤的医生 — 身体最大的器官，也是最公开的面孔。"
+      },
+      "etymology": {
+        "root": "derma",
+        "meaning": "skin",
+        "meaningZh": "皮肤",
+        "en": "From Greek derma = skin, plus -logist (one who studies).",
+        "zh": "希腊词根 derma = 皮肤，加 -logist（研究者）。",
+        "relatives": [
+          {
+            "word": "epidermis",
+            "zh": "表皮"
+          },
+          {
+            "word": "hypodermic",
+            "zh": "皮下的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Two months of stress finally pushed her to see a dermatologist about the rash she'd been ignoring.",
+          "zh": "压力撑了两个月之后，她终于去看皮肤科 — 那片一直被她忽视的疹子。"
+        },
+        {
+          "context": "parenting",
+          "en": "Every parent eventually learns the dermatologist's trick — knowing when to wait it out and when to act fast.",
+          "zh": "每个家长迟早都会学到皮肤科医生的窍门 — 什么时候等，什么时候动手。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "表皮",
+      "tint": "e8b88a",
+      "mnemonic": {
+        "en": "DERMATOLOGIST = derma (skin) + logist. The skin's expert — and skin is everywhere.",
+        "zh": "dermatologist = derma（皮肤）+ logist。皮肤的专家 — 而皮肤无处不在。"
+      },
+      "commonConfusions": [
+        "aesthetician",
+        "general practitioner"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "What's the difference between a dermatologist and an aesthetician?",
+            "zh": "皮肤科医生和美容师有什么不同？"
+          },
+          "answer": {
+            "en": "Dermatologist = MD who diagnoses and treats skin diseases (acne, eczema, cancer). Aesthetician = cosmetic specialist. Both work on skin, for different goals.",
+            "zh": "皮肤科医生是诊断与治疗皮肤疾病的医学博士（痤疮、湿疹、皮肤癌）；美容师专注美容护理。两者都在皮肤上工作，但目标不同。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is skin called 'the largest organ'?",
+            "zh": "为什么皮肤被称为'最大的器官'？"
+          },
+          "answer": {
+            "en": "It's the boundary between you and the world — about 1.5–2 square meters in an adult. The body devotes huge surface area to that job.",
+            "zh": "它是你与世界之间的边界 — 成人约 1.5–2 平方米。身体把大量面积分配给了这项工作。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The teenager who tried twelve different cleansers — until one dermatologist visit changed everything in six weeks.",
+        "zh": "那个换了十二种洗面奶的少年 — 一次皮肤科就诊，六周后一切都不一样了。"
+      }
+    },
+    {
+      "word": "Ophthalmologist",
+      "phonetic": "off-thal-MOL'-uh-jist",
+      "chinese": "眼科医生",
+      "definition": {
+        "en": "A doctor who treats the eye — diagnosing, prescribing, and operating on the body's most precise sense.",
+        "zh": "治疗眼睛的医生 — 诊断、配镜、做手术，照顾身体最精密的感觉。"
+      },
+      "etymology": {
+        "root": "ophthalmos",
+        "meaning": "eye",
+        "meaningZh": "眼",
+        "en": "From Greek ophthalmos = eye, plus -logist. The silent 'ph' kept from Greek.",
+        "zh": "希腊词根 ophthalmos = 眼睛，加 -logist。希腊语原貌保留了那个不发音的 'ph'。",
+        "relatives": [
+          {
+            "word": "ophthalmic",
+            "zh": "眼睛的"
+          },
+          {
+            "word": "optometrist",
+            "zh": "验光师（同义近邻）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "After 20 years of screens, her annual ophthalmologist visit caught early-stage glaucoma she would never have noticed alone.",
+          "zh": "盯了 20 年屏幕之后，一次年度眼科检查查出了她自己绝不会发现的早期青光眼。"
+        },
+        {
+          "context": "parenting",
+          "en": "Their five-year-old wasn't a 'slow reader' — one ophthalmologist visit showed she just needed glasses.",
+          "zh": "他们五岁的女儿不是'阅读慢' — 一次眼科就诊发现她其实是该戴眼镜了。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "视野",
+      "tint": "5ba0c4",
+      "mnemonic": {
+        "en": "OPHTHALMOLOGIST = ophthalmos (eye) + logist. Pronounced 'off-thal' — the silent 'ph' trips everyone up.",
+        "zh": "ophthalmologist = ophthalmos（眼）+ logist。读作 'off-thal' — 那个不发音的 ph 让所有人卡壳。"
+      },
+      "commonConfusions": [
+        "optometrist",
+        "optician"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Ophthalmologist vs optometrist vs optician — what's the difference?",
+            "zh": "眼科医生、验光师、配镜师 — 区别是什么？"
+          },
+          "answer": {
+            "en": "Ophthalmologist = MD, can do surgery. Optometrist = exam + corrective lens prescription. Optician = makes and fits the glasses. Escalate in that order.",
+            "zh": "眼科医生是医学博士，可手术；验光师做检查并开镜片处方；配镜师制作并配戴眼镜。问题严重程度依次递增。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is 'ophthalmologist' so hard to spell?",
+            "zh": "为什么 ophthalmologist 这么难拼？"
+          },
+          "answer": {
+            "en": "English kept the Greek spelling (ophthalmos) even though English speakers can't pronounce that 'phth' cluster — so you spell what you can't easily say.",
+            "zh": "英语保留了希腊语的拼写（ophthalmos），但英语使用者发不出那个 phth 音组 — 于是写的是你读不顺的形态。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The retired professor who finally got cataract surgery at 75 — and said the world had 'come back into color.'",
+        "zh": "那位 75 岁才做了白内障手术的退休教授 — 他说世界'重新有了颜色'。"
+      }
+    },
+    {
+      "word": "Orthopedist",
+      "phonetic": "or-tho-PEE'-dist",
+      "chinese": "骨科医生",
+      "definition": {
+        "en": "A doctor who treats the bones, joints, and muscles — the body's frame and how it moves.",
+        "zh": "治疗骨骼、关节和肌肉的医生 — 身体的支架和它的运动方式。"
+      },
+      "etymology": {
+        "root": "orthos",
+        "meaning": "straight",
+        "meaningZh": "直",
+        "en": "From Greek orthos (straight) + paidos (child). The field began as 'straightening children's bones' and grew to cover all ages.",
+        "zh": "希腊词根 orthos（直）+ paidos（孩子）。最初是'矫正儿童骨骼'的学科，后来扩展到所有年龄。",
+        "relatives": [
+          {
+            "word": "orthodox",
+            "zh": "正统的"
+          },
+          {
+            "word": "orthodontist",
+            "zh": "正畸医生"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "After lifting a server crate wrong, two months and one orthopedist visit later, she was back at the gym — with new form.",
+          "zh": "搬服务器时姿势不对 — 两个月加一次骨科就诊之后，她重新回到了健身房，姿势也彻底改了。"
+        },
+        {
+          "context": "parenting",
+          "en": "Childhood scoliosis used to mean braces and surgery — modern orthopedists catch it early and gently bend the spine straight over time.",
+          "zh": "儿童脊柱侧弯曾经意味着支具和手术 — 现代骨科医生早期发现，用时间温和地把脊柱'掰'回直。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "骨架",
+      "tint": "8c8a85",
+      "mnemonic": {
+        "en": "ORTHOPEDIST = ortho (straight) + paid (child) — literally 'straightener of children.' The name stuck even as the patients grew up.",
+        "zh": "orthopedist = ortho（直）+ paid（孩子）— 字面意思是'矫正孩子的人'。患者长大了，名字却留下来了。"
+      },
+      "commonConfusions": [
+        "chiropractor",
+        "physical therapist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Why does 'orthopedist' contain the word for 'child'?",
+            "zh": "为什么 orthopedist 里有'孩子'这个词？"
+          },
+          "answer": {
+            "en": "The field started in the 1700s for correcting children's spines and limbs. The name stayed even as the field expanded to adults of all ages.",
+            "zh": "这个学科 18 世纪起源于矫正儿童的脊柱和四肢，名字留了下来 — 即使现在也治成年人。"
+          }
+        },
+        {
+          "question": {
+            "en": "Orthopedist vs chiropractor — when do you see which?",
+            "zh": "骨科医生和脊椎按摩师 — 什么时候看哪个？"
+          },
+          "answer": {
+            "en": "Orthopedist = MD; can image, prescribe, operate. Chiropractor = manual adjustment specialist (not an MD in most countries). For real bone problems, see the orthopedist first.",
+            "zh": "骨科医生是医学博士，能做影像、开药、做手术；脊椎按摩师是手法调整专家（多数国家不是 MD）。真正的骨问题，先看骨科。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The marathon runner who refused orthopedist visits for two years — and then needed the surgery she'd been trying to avoid all along.",
+        "zh": "那位拒绝骨科就诊整整两年的马拉松跑者 — 最终还是做了她一直想避免的那场手术。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both read what's on the surface.",
+      "zh": "两位医生，都读懂表面的语言。"
+    },
+    "leftLabel": "Dermatologist",
+    "leftLine": {
+      "en": "reads the body's biggest organ",
+      "zh": "读身体最大的器官"
+    },
+    "leftMnemonic": {
+      "en": "derma = skin · the body's outer page",
+      "zh": "derma = 皮肤 · 身体最外层的页面"
+    },
+    "rightLabel": "Ophthalmologist",
+    "rightLine": {
+      "en": "reads the body's window",
+      "zh": "读身体的窗口"
+    },
+    "rightMnemonic": {
+      "en": "ophthalmos = eye · where light enters",
+      "zh": "ophthalmos = 眼 · 光进入的地方"
+    },
+    "closing": {
+      "en": "When something's wrong inside, the surface speaks first.",
+      "zh": "里头出了什么事，表面会最先开口。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "The body shows what the mind would hide. These doctors learn to read it.",
+      "zh": "身体会显出心里想藏的东西。这些医生学会了去读。"
+    }
+  },
+  "audio": {
+    "hook.headline": "audio/vocab/derm-ophth-ortho/hook.headline.wav",
+    "word.0.pronunciation": "audio/vocab/derm-ophth-ortho/word.0.pronunciation.wav",
+    "word.0.definition": "audio/vocab/derm-ophth-ortho/word.0.definition.wav",
+    "word.0.etymology": "audio/vocab/derm-ophth-ortho/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/derm-ophth-ortho/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/derm-ophth-ortho/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/derm-ophth-ortho/word.1.pronunciation.wav",
+    "word.1.definition": "audio/vocab/derm-ophth-ortho/word.1.definition.wav",
+    "word.1.etymology": "audio/vocab/derm-ophth-ortho/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/derm-ophth-ortho/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/derm-ophth-ortho/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/derm-ophth-ortho/word.2.pronunciation.wav",
+    "word.2.definition": "audio/vocab/derm-ophth-ortho/word.2.definition.wav",
+    "word.2.etymology": "audio/vocab/derm-ophth-ortho/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/derm-ophth-ortho/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/derm-ophth-ortho/word.2.sentence.1.wav",
+    "twist.setup": "audio/vocab/derm-ophth-ortho/twist.setup.wav",
+    "twist.left": "audio/vocab/derm-ophth-ortho/twist.left.wav",
+    "twist.right": "audio/vocab/derm-ophth-ortho/twist.right.wav",
+    "twist.closing": "audio/vocab/derm-ophth-ortho/twist.closing.wav",
+    "recap.reflection": "audio/vocab/derm-ophth-ortho/recap.reflection.wav",
+    "expansion.0.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/derm-ophth-ortho/expansion.11.pronunciation.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 4,
+    "session": 1,
+    "pages": [
+      76,
+      100
+    ],
+    "theme": "How to Talk About Doctors",
+    "subtheme": "Visible Body"
+  },
+  "tags": [
+    "doctors",
+    "medicine",
+    "visible-body",
+    "sensory",
+    "ch4",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "dermal",
+      "zh": "皮肤的",
+      "root": "derma",
+      "partOfSpeech": "adj.",
+      "phonetic": "DUR'-mul",
+      "gloss": {
+        "en": "Relating to the skin — used in medicine and cosmetics.",
+        "zh": "与皮肤相关 — 用于医学和化妆品。"
+      },
+      "usage": {
+        "en": "Dermal fillers — once a celebrity secret — are now offered in most strip-mall medical spas.",
+        "zh": "皮肤填充剂 — 曾经是明星的秘密 — 如今在街边的医美机构都能做。"
+      }
+    },
+    {
+      "word": "hypodermic",
+      "zh": "皮下的 / 皮下注射的",
+      "root": "derma",
+      "partOfSpeech": "adj./n.",
+      "phonetic": "hy-poh-DUR'-mik",
+      "gloss": {
+        "en": "Under the skin — hypo (under) + derma (skin). Usually refers to a needle that goes below the surface.",
+        "zh": "在皮肤之下 — hypo（在下）+ derma（皮肤）。通常指穿透皮下的针头。"
+      },
+      "usage": {
+        "en": "Modern hypodermic needles are so thin most kids don't even cry through their vaccinations.",
+        "zh": "现代的皮下针非常细 — 大多数孩子打疫苗时甚至不哭。"
+      }
+    },
+    {
+      "word": "epidermis",
+      "zh": "表皮",
+      "root": "derma",
+      "partOfSpeech": "n.",
+      "phonetic": "ep-i-DUR'-mis",
+      "gloss": {
+        "en": "The outer layer of skin — epi (upon) + derma (skin).",
+        "zh": "皮肤最外层 — epi（在上）+ derma（皮肤）。"
+      },
+      "usage": {
+        "en": "Your entire epidermis renews itself every 28 days — the skin you're touching now will be gone by next month.",
+        "zh": "你的整层表皮每 28 天就会更新一次 — 你现在摸到的皮肤，下个月就不在了。"
+      }
+    },
+    {
+      "word": "taxidermy",
+      "zh": "动物标本剥制术",
+      "root": "derma",
+      "partOfSpeech": "n.",
+      "phonetic": "TAK'-si-dur-mee",
+      "gloss": {
+        "en": "The art of preserving animal skins for display — taxis (arrangement) + derma (skin).",
+        "zh": "为展示而保存动物皮的技艺 — taxis（排列）+ derma（皮肤）。"
+      },
+      "usage": {
+        "en": "Victorian taxidermy filled British natural history museums — and now feels equal parts wondrous and disturbing.",
+        "zh": "维多利亚时代的标本剥制术填满了英国的自然博物馆 — 如今看来既奇妙又让人不安。"
+      }
+    },
+    {
+      "word": "pachyderm",
+      "zh": "厚皮动物",
+      "root": "derma",
+      "partOfSpeech": "n.",
+      "phonetic": "PAK'-i-durm",
+      "gloss": {
+        "en": "A thick-skinned animal — pachy (thick) + derma (skin). Especially elephants and rhinos.",
+        "zh": "皮厚的动物 — pachy（厚）+ derma（皮肤）。尤指大象和犀牛。"
+      },
+      "usage": {
+        "en": "Calling someone a pachyderm is a backhanded compliment — durable, slow to bruise, hard to insult.",
+        "zh": "把人叫'厚皮动物'是种暗讽式的赞美 — 耐得住，难擦伤，骂不痛。"
+      }
+    },
+    {
+      "word": "ophthalmic",
+      "zh": "眼科的 / 眼的",
+      "root": "ophthalmos",
+      "partOfSpeech": "adj.",
+      "phonetic": "off-THAL'-mik",
+      "gloss": {
+        "en": "Relating to the eye — used on prescription bottles and product labels.",
+        "zh": "与眼睛相关的 — 多见于眼药水瓶和产品标签。"
+      },
+      "usage": {
+        "en": "She picked up an ophthalmic ointment at the pharmacy — only later did she look up what 'ophthalmic' even meant.",
+        "zh": "她在药房拿了支眼用药膏 — 后来才上网查了一下 'ophthalmic' 到底是什么意思。"
+      }
+    },
+    {
+      "word": "orthodox",
+      "zh": "正统的 / 传统的",
+      "root": "orthos",
+      "partOfSpeech": "adj.",
+      "phonetic": "OR'-tho-doks",
+      "gloss": {
+        "en": "Following the 'straight' or standard view — orthos (straight) + doxa (opinion / belief).",
+        "zh": "遵循'正统'或主流观点 — orthos（直）+ doxa（看法 / 信念）。"
+      },
+      "usage": {
+        "en": "Her thesis questioned the orthodox view of the field — and three professors quietly told her she was right.",
+        "zh": "她的论文挑战了学界的正统观点 — 三位教授私下告诉她，她是对的。"
+      }
+    },
+    {
+      "word": "orthography",
+      "zh": "正字法 / 拼写法",
+      "root": "orthos",
+      "partOfSpeech": "n.",
+      "phonetic": "or-THOG'-ruh-fee",
+      "gloss": {
+        "en": "Correct or standard spelling — orthos (straight / correct) + graph (to write).",
+        "zh": "正确的拼写规则 — orthos（直 / 正）+ graph（写）。"
+      },
+      "usage": {
+        "en": "English orthography is famously chaotic — words like 'though,' 'tough,' and 'through' share four letters and zero pronunciation.",
+        "zh": "英语的拼写法出了名的混乱 — though、tough、through 共用四个字母，发音却完全不同。"
+      }
+    },
+    {
+      "word": "orthodontist",
+      "zh": "正畸医生",
+      "root": "orthos",
+      "partOfSpeech": "n.",
+      "phonetic": "or-tho-DON'-tist",
+      "gloss": {
+        "en": "A dental specialist who straightens teeth — orthos (straight) + odont (tooth).",
+        "zh": "把牙齿矫正变直的牙科专科 — orthos（直）+ odont（牙）。"
+      },
+      "usage": {
+        "en": "Two years of orthodontist visits and one retainer later, the smile she finally had at 16 stayed straight for life.",
+        "zh": "两年的正畸就诊加一副保持器之后 — 她 16 岁终于拥有的笑容，整齐了一生。"
+      }
+    },
+    {
+      "word": "orthopedic",
+      "zh": "骨科的 / 矫形的",
+      "root": "orthos",
+      "partOfSpeech": "adj.",
+      "phonetic": "or-tho-PEE'-dik",
+      "gloss": {
+        "en": "Relating to the bones, joints, or correction of deformities — the adjective form of orthopedist's field.",
+        "zh": "与骨骼、关节或矫形相关 — orthopedist 所属领域的形容词。"
+      },
+      "usage": {
+        "en": "Office workers over 40 quietly fill their drawers with orthopedic pillows, mats, and chairs — the price of sitting.",
+        "zh": "40 岁以上的办公族悄悄把抽屉填满了护颈枕、护腰垫、护腰椅 — 久坐的代价。"
+      }
+    },
+    {
+      "word": "pedagogue",
+      "zh": "教育者 / 学究",
+      "root": "paidos",
+      "partOfSpeech": "n.",
+      "phonetic": "PED'-uh-gog",
+      "gloss": {
+        "en": "A teacher, often a strict or scholarly one — from Greek paidos (child) + agogos (leader).",
+        "zh": "老师，尤指严厉或学究气的 — 希腊词 paidos（儿童）+ agogos（带路人）。"
+      },
+      "usage": {
+        "en": "Her grandfather was an old-school pedagogue — every dinner conversation could turn into a vocabulary lesson without warning.",
+        "zh": "她爷爷是老派学究 — 每顿饭的聊天都可能毫无预警地变成一节生词课。"
+      },
+      "rootMeaning": "child",
+      "rootMeaningZh": "儿童",
+      "rootTint": "d8a868"
+    },
+    {
+      "word": "encyclopedia",
+      "zh": "百科全书",
+      "root": "paidos",
+      "partOfSpeech": "n.",
+      "phonetic": "en-sy-kluh-PEE'-dee-uh",
+      "gloss": {
+        "en": "A comprehensive reference — from Greek enkyklios (general) + paideia (education of children).",
+        "zh": "全面的参考著作 — 希腊词 enkyklios（一般的）+ paideia（儿童教育）。"
+      },
+      "usage": {
+        "en": "Before Wikipedia, a family's encyclopedia was a status object — twenty-six leather volumes nobody actually read cover to cover.",
+        "zh": "在维基百科之前，一家人的百科全书是一种身份象征 — 二十六册皮面精装，从头读到尾的人却没几个。"
+      }
+    }
+  ]
+}

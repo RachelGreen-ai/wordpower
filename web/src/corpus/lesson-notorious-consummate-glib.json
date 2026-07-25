@@ -1,0 +1,502 @@
+{
+  "lessonId": "notorious-consummate-glib",
+  "hook": {
+    "headline": {
+      "en": "Three liars. Three reasons people listen anyway.",
+      "zh": "三种骗子。三种让人还是愿意听下去的理由。"
+    },
+    "subtext": {
+      "en": "The dangerous ones aren't sloppy — they're skilled.",
+      "zh": "真正危险的骗子从不粗糙 — 他们都是熟练的。"
+    }
+  },
+  "words": [
+    {
+      "word": "Notorious",
+      "phonetic": "no-TOR'-ee-us",
+      "chinese": "臭名昭著的",
+      "definition": {
+        "en": "Widely known — but for the wrong reasons. Notorious means famous in a way no one would want.",
+        "zh": "大家都知道 — 但是因为不光彩的事。'臭名昭著'就是没人想要的那种'出名'。"
+      },
+      "etymology": {
+        "root": "notus",
+        "meaning": "known",
+        "meaningZh": "为人所知的",
+        "en": "From Latin notus = 'known' (the past participle of noscere, 'to know'). Same root that gives us 'note,' 'notice,' and 'notable.' Notorious just flips the spotlight to the dark side.",
+        "zh": "拉丁词根 notus = 已知的（来自 noscere '认识'的过去分词）。同根的还有 note、notice、notable。Notorious 只是把聚光灯翻到了阴影那一面。",
+        "relatives": [
+          {
+            "word": "note",
+            "zh": "笔记、记下"
+          },
+          {
+            "word": "notable",
+            "zh": "值得注意的"
+          },
+          {
+            "word": "notice",
+            "zh": "注意到、通知"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She's notorious for taking credit — everyone's been warned before they meet her.",
+          "zh": "她是出了名的爱抢功 — 大家在见到她之前就被提醒过。"
+        },
+        {
+          "context": "friends",
+          "en": "Our group has a notorious flake — he RSVPs yes, and shows up about once a year.",
+          "zh": "我们朋友圈有个出了名的鸽王 — 答应得很爽快，一年才出现一次。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "臭名",
+      "tint": "c54848",
+      "mnemonic": {
+        "en": "Notus = KNOWN. Notorious = known the wrong way — the reputation arrives in the room before they do.",
+        "zh": "Notus = 为人所知。Notorious 就是反方向地'为人所知' — 名声先于本人到场。"
+      },
+      "commonConfusions": [
+        "famous",
+        "infamous",
+        "notable"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Famous, notorious, and infamous — what's the gradient?",
+            "zh": "Famous（出名）、notorious（臭名昭著）、infamous（声名狼藉）— 区别在哪？"
+          },
+          "answer": {
+            "en": "Famous = widely known. Notorious = widely known for something bad. Infamous = a step further — widely known AND morally outrageous.",
+            "zh": "Famous = 普遍知道。Notorious = 因为不好的事普遍知道。Infamous = 再进一步 — 普遍知道，且道德上令人愤怒。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "When a tabloid called Bonnie and Clyde 'America's most notorious couple' in 1934, the word stuck because it captured something true — the public both feared them AND couldn't look away. Notoriety is fame with a shadow over it.",
+        "zh": "1934年，小报把邦尼和克莱德称作'美国最臭名昭著的情侣'，这个词留了下来，因为它说中了一件真实的事 — 大众一边怕他们，一边又移不开眼。臭名，就是带着阴影的出名。"
+      }
+    },
+    {
+      "word": "Consummate",
+      "phonetic": "kan-SUM'-it",
+      "chinese": "炉火纯青的",
+      "definition": {
+        "en": "Complete in skill — at the very top of an art. A consummate liar isn't sloppy; they finish every sentence the way a master craftsman finishes a chair.",
+        "zh": "技艺登峰造极。炉火纯青的骗子绝不粗糙 — 他们说完每一句话，就像匠人完工一把椅子。"
+      },
+      "etymology": {
+        "root": "summa",
+        "meaning": "sum, total, highest point",
+        "meaningZh": "总和、最高点",
+        "en": "From Latin consummatus = 'brought to the highest point' — con- (together) + summa (sum, top). Same summa as 'summit' and 'summary.'",
+        "zh": "拉丁词根 consummatus = 达到顶点 — con-（合）+ summa（总和、顶点）。和 summit（峰顶）、summary（要点）是同一个 summa。",
+        "relatives": [
+          {
+            "word": "summit",
+            "zh": "峰顶"
+          },
+          {
+            "word": "summary",
+            "zh": "要点"
+          },
+          {
+            "word": "summation",
+            "zh": "总结"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He's a consummate negotiator — the room agrees with him before they realize they've moved.",
+          "zh": "他是个炉火纯青的谈判者 — 满屋人在还没意识到自己立场已经动摇时，就已经同意了他。"
+        },
+        {
+          "context": "friends",
+          "en": "She's a consummate host — every guest leaves feeling like the most important person there.",
+          "zh": "她是个炉火纯青的主人 — 每个客人走的时候，都觉得自己是全场最重要的那一个。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "老练",
+      "tint": "d6a949",
+      "mnemonic": {
+        "en": "Consummate = brought to the SUM-MIT. The job isn't just done — it's finished so completely the seams disappear.",
+        "zh": "Consummate = 推到顶点。事情不是'做完了' — 是完成得连缝隙都看不见。"
+      },
+      "commonConfusions": [
+        "accomplished",
+        "polished",
+        "perfect"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Accomplished and consummate sound similar. Which is stronger?",
+            "zh": "Accomplished 和 consummate 听上去差不多。哪个更强？"
+          },
+          "answer": {
+            "en": "Accomplished means 'has done it well.' Consummate means 'has perfected it' — the difference between a good chef and one whose dishes you can taste in your memory ten years later.",
+            "zh": "Accomplished 是'做得不错'。Consummate 是'已臻完美' — 区别就像一个好厨师，和一个让你十年后还能在记忆里尝到他菜味道的厨师。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Frank Abagnale Jr. — the con artist behind 'Catch Me If You Can' — passed himself off as a Pan Am pilot, a doctor, and a lawyer, all before turning twenty-one. He wasn't loud. He was consummate. The FBI eventually hired him to teach them how he'd done it.",
+        "zh": "弗兰克·阿巴格诺尔 — 电影《猫鼠游戏》的原型 — 在二十一岁前先后冒充过泛美航空飞行员、医生和律师。他从不张扬，他只是炉火纯青。FBI 后来反过来雇他来教他们这些骗术是怎么做到的。"
+      }
+    },
+    {
+      "word": "Glib",
+      "phonetic": "GLIB",
+      "chinese": "油滑的、花言巧语的",
+      "definition": {
+        "en": "Suspiciously smooth and quick in speech — answers that come out faster than the thought behind them. Glib sounds easy because nothing's been weighed.",
+        "zh": "说话顺得让人起疑 — 答案比脑子还快。'油滑'之所以听上去轻松，是因为根本没有掂量。"
+      },
+      "etymology": {
+        "root": "glib (Germanic)",
+        "meaning": "slippery, smooth",
+        "meaningZh": "滑、油滑",
+        "en": "From an old Germanic root meaning 'slippery, smooth as oil' — related to 'glide.' A glib answer slides out of the mouth without friction. That's the warning.",
+        "zh": "源自古日耳曼词根，意为'滑、像油一样光' — 和 glide（滑行）是亲戚。油滑的话像没有摩擦地从嘴里溜出来。这正是它在警告你的地方。",
+        "relatives": [
+          {
+            "word": "glide",
+            "zh": "滑行"
+          },
+          {
+            "word": "glissade",
+            "zh": "（芭蕾）滑步"
+          },
+          {
+            "word": "slick",
+            "zh": "光滑、油滑"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "His answer was too glib — when you say everything that easily, you've said nothing.",
+          "zh": "他的回答太油滑了 — 什么都说得这么轻巧，其实等于什么都没说。"
+        },
+        {
+          "context": "friends",
+          "en": "Don't trust a glib apology — the words come out faster than the thought behind them.",
+          "zh": "别信油滑的道歉 — 话比脑子还快，往往就没用心。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "油滑",
+      "tint": "889aac",
+      "mnemonic": {
+        "en": "Glib = SLIPPERY. The word literally describes oil on a surface. If a person's words feel that slick, you can't grip what they actually meant.",
+        "zh": "Glib = 滑。这个词字面上就是'表面有油'。如果一个人说话滑成这样，你就抓不住他到底想说什么。"
+      },
+      "commonConfusions": [
+        "fluent",
+        "articulate",
+        "smooth-talking"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Fluent and glib both describe smooth speech. Which is the compliment?",
+            "zh": "Fluent（流利）和 glib（油滑）都形容说话顺畅。哪一个是夸奖？"
+          },
+          "answer": {
+            "en": "Fluent = smooth AND meaningful. Glib = smooth BUT empty. One earns trust, the other slowly loses it.",
+            "zh": "Fluent = 流利且有内容。Glib = 顺嘴但空洞。一个赢得信任，一个慢慢失去信任。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Listen to any press conference and you'll hear glib answers — quick, polished, ten seconds long, and somehow they answer nothing. The skill is real; it's just been pointed away from the question. That's the small chill of glibness.",
+        "zh": "听任何一场新闻发布会，你都会听到油滑的回答 — 又快又顺，十秒钟说完，但其实什么都没回答。技巧是真的，只是被指向了远离问题的方向。这就是'油滑'那一阵小小的凉意。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both have mastered the art. One you can see coming. The other you can't.",
+      "zh": "他们都已经掌握了'这门艺术'。一个你看得见，一个你看不见。"
+    },
+    "leftLabel": "Notorious",
+    "leftLine": {
+      "en": "Reputation arrives before they do.",
+      "zh": "名声先于人到场。"
+    },
+    "leftMnemonic": {
+      "en": "Notus = KNOWN · the lie that walks in with its own warning.",
+      "zh": "Notus = 为人所知 · 谎言带着自己的警告进门。"
+    },
+    "rightLabel": "Consummate",
+    "rightLine": {
+      "en": "No one suspects. The skill hides itself.",
+      "zh": "没人起疑。技艺藏起了自己。"
+    },
+    "rightMnemonic": {
+      "en": "Consummatus = COMPLETED · so polished the seam disappears.",
+      "zh": "Consummatus = 臻于完成 · 打磨得连接缝都看不见。"
+    },
+    "closing": {
+      "en": "The dangerous liar isn't the loud one. It's the one you'd already decided to trust.",
+      "zh": "危险的骗子不是大声那一个，而是你早就决定要相信的那一个。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Most lies don't trick you with cleverness. They trick you with comfort — they say what you already wanted to hear.",
+      "zh": "大多数谎言不是靠聪明骗过你的。它们靠的是舒服 — 它们说出了你早就想听的话。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/notorious-consummate-glib/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/notorious-consummate-glib/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/notorious-consummate-glib/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/notorious-consummate-glib/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/notorious-consummate-glib/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/notorious-consummate-glib/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/notorious-consummate-glib/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/notorious-consummate-glib/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/notorious-consummate-glib/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/notorious-consummate-glib/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/notorious-consummate-glib/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/notorious-consummate-glib/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/notorious-consummate-glib/twist.left.wav",
+    "twist.right": "audio/vocab/notorious-consummate-glib/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/notorious-consummate-glib/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/notorious-consummate-glib/hook.headline.wav",
+    "word.0.definition": "audio/vocab/notorious-consummate-glib/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/notorious-consummate-glib/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/notorious-consummate-glib/word.2.definition.wav",
+    "twist.setup": "audio/vocab/notorious-consummate-glib/twist.setup.wav",
+    "twist.closing": "audio/vocab/notorious-consummate-glib/twist.closing.wav",
+    "recap.reflection": "audio/vocab/notorious-consummate-glib/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 7,
+    "session": 14,
+    "pages": [
+      148,
+      165
+    ],
+    "theme": "Liars and Lying",
+    "subtheme": "Known for it — reputation, skill, fluency"
+  },
+  "tags": [
+    "liars",
+    "lying",
+    "reputation",
+    "ch7",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "notable",
+      "zh": "值得注意的、显著的",
+      "root": "notus",
+      "partOfSpeech": "adj.",
+      "phonetic": "NO'-ta-bal",
+      "gloss": {
+        "en": "Worth noting — known, in the good direction. Same notus as 'notorious,' minus the shadow.",
+        "zh": "值得记下、值得留意 — 是好的方向的'为人所知'。和 notorious 同根，但少了那片阴影。"
+      },
+      "usage": {
+        "en": "What's notable about the meeting wasn't what was said — it was who finally stayed silent.",
+        "zh": "那场会议真正值得记下的，不是说了什么 — 而是谁终于选择了沉默。"
+      }
+    },
+    {
+      "word": "notice",
+      "zh": "注意到、通知",
+      "root": "notus",
+      "partOfSpeech": "v./n.",
+      "phonetic": "NO'-tis",
+      "gloss": {
+        "en": "To 'come to know' something — the daily verb form of notus.",
+        "zh": "'开始知道'某件事 — notus 的日常动词形式。"
+      },
+      "usage": {
+        "en": "She didn't notice she'd been ignoring him until he stopped trying.",
+        "zh": "她没注意到自己一直在忽视他 — 直到他不再尝试。"
+      }
+    },
+    {
+      "word": "notion",
+      "zh": "想法、概念",
+      "root": "notus",
+      "partOfSpeech": "n.",
+      "phonetic": "NO'-shan",
+      "gloss": {
+        "en": "Something you've come to know — a loose, half-formed idea. From notio, 'a becoming acquainted.'",
+        "zh": "你开始有点知道的东西 — 一个松散、半成型的想法。来自 notio（'开始认识'）。"
+      },
+      "usage": {
+        "en": "The notion that hard work always wins is comforting and not quite true.",
+        "zh": "'努力就一定有回报'是个让人安心、却又不完全正确的想法。"
+      }
+    },
+    {
+      "word": "notify",
+      "zh": "通知",
+      "root": "notus",
+      "partOfSpeech": "v.",
+      "phonetic": "NO'-ta-fi",
+      "gloss": {
+        "en": "To make known — to actively cause someone to know. Notus + facere (to make).",
+        "zh": "让别人知道 — 主动促成对方知晓。Notus + facere（造、使）。"
+      },
+      "usage": {
+        "en": "Notify me when the package arrives — not three days after.",
+        "zh": "包裹一到就通知我 — 不要等三天后。"
+      }
+    },
+    {
+      "word": "summit",
+      "zh": "峰顶、最高点",
+      "root": "summa",
+      "partOfSpeech": "n.",
+      "phonetic": "SUM'-it",
+      "gloss": {
+        "en": "The top — literally the 'sum' point. Same summa as 'consummate.'",
+        "zh": "顶点 — 字面上是'总和的'那个点。和 consummate 是同一个 summa。"
+      },
+      "usage": {
+        "en": "The view from the summit isn't the reward — the legs that got you there are.",
+        "zh": "登顶看到的风景不是奖赏 — 带你到顶的那双腿，才是。"
+      }
+    },
+    {
+      "word": "summary",
+      "zh": "总结、要点",
+      "root": "summa",
+      "partOfSpeech": "n.",
+      "phonetic": "SUM'-a-ree",
+      "gloss": {
+        "en": "The essence drawn from a whole — what 'sums it up.'",
+        "zh": "从整体中抽出的精华 — 把事情'总和起来'。"
+      },
+      "usage": {
+        "en": "If you can't write a one-sentence summary, you don't understand it yet.",
+        "zh": "如果你写不出一句话的总结，说明你还没真懂。"
+      }
+    },
+    {
+      "word": "summation",
+      "zh": "总结陈述、合计",
+      "root": "summa",
+      "partOfSpeech": "n.",
+      "phonetic": "su-MAY'-shan",
+      "gloss": {
+        "en": "The act of adding up — in court, the lawyer's closing 'summation' of the whole case.",
+        "zh": "把东西加起来 — 在法庭上，律师为整个案件做的'终结陈词'。"
+      },
+      "usage": {
+        "en": "Her summation took six minutes and changed three jurors' minds.",
+        "zh": "她的总结陈词只讲了六分钟，却改变了三位陪审员的想法。"
+      }
+    },
+    {
+      "word": "glide",
+      "zh": "滑行",
+      "root": "glib (Germanic)",
+      "partOfSpeech": "v.",
+      "phonetic": "GLID",
+      "gloss": {
+        "en": "To move smoothly without friction — the literal cousin of 'glib.' One slides through air, the other through conversation.",
+        "zh": "毫无摩擦地移动 — glib 的字面亲戚。一个在空气里滑，另一个在对话里滑。"
+      },
+      "usage": {
+        "en": "Skaters don't push — they glide. The push is what you don't see.",
+        "zh": "滑冰的人不是在用力 — 他们是在滑。用力的部分，你看不见。"
+      }
+    },
+    {
+      "word": "perfidious",
+      "zh": "背信弃义的",
+      "root": "fides",
+      "partOfSpeech": "adj.",
+      "phonetic": "par-FID'-ee-us",
+      "gloss": {
+        "en": "Treacherous — literally 'through-the-trust' — per- (through, against) + fides (faith). Someone who slips out of a promise from the inside.",
+        "zh": "背信弃义的 — 字面是'穿透信任' — per-（穿过、违反）+ fides（信任）。从内部溜出承诺的那种人。"
+      },
+      "usage": {
+        "en": "History rarely calls a winner perfidious — but the people who lost to them do.",
+        "zh": "历史很少把胜者称为'背信弃义' — 但输给他们的人会这么称呼他们。"
+      },
+      "rootMeaning": "faith, trust",
+      "rootMeaningZh": "信任、忠诚",
+      "rootTint": "8e6ea8"
+    },
+    {
+      "word": "confide",
+      "zh": "倾诉、托付",
+      "root": "fides",
+      "partOfSpeech": "v.",
+      "phonetic": "kan-FID'",
+      "gloss": {
+        "en": "To trust someone with something private — con- (with) + fides (faith). The opposite move of glib speech.",
+        "zh": "把私事托付给某人 — con-（一起）+ fides（信任）。和'油滑'的说话方式正好相反。"
+      },
+      "usage": {
+        "en": "You can tell who someone really trusts by who they confide in at 11pm.",
+        "zh": "看一个人晚上十一点会向谁倾诉，就知道他真正信任的是谁。"
+      }
+    },
+    {
+      "word": "veracity",
+      "zh": "真实性、诚实",
+      "root": "veritas",
+      "partOfSpeech": "n.",
+      "phonetic": "va-RAS'-i-tee",
+      "gloss": {
+        "en": "Truthfulness — the quality of being true. From Latin veritas (truth). The opposite of what a glib or notorious liar offers.",
+        "zh": "真实 — '是真的'这种品质。来自拉丁 veritas（真实）。正是油滑或臭名昭著的骗子所没有的。"
+      },
+      "usage": {
+        "en": "We don't usually question a kind person's veracity — that's exactly the trick.",
+        "zh": "我们一般不会怀疑一个善良人的真实性 — 这恰恰就是骗局的关键。"
+      },
+      "rootMeaning": "truth",
+      "rootMeaningZh": "真实",
+      "rootTint": "5b8aa8"
+    },
+    {
+      "word": "verdict",
+      "zh": "裁决、定论",
+      "root": "veritas",
+      "partOfSpeech": "n.",
+      "phonetic": "VUR'-dikt",
+      "gloss": {
+        "en": "Literally 'a true saying' — veritas (truth) + dictum (said). The court's official decision of what is true.",
+        "zh": "字面是'真实的话' — veritas（真实）+ dictum（说）。法庭对'什么是真'的正式裁决。"
+      },
+      "usage": {
+        "en": "The verdict took twenty minutes; the jury had been ready since lunch.",
+        "zh": "裁决只用了二十分钟 — 陪审团其实午饭过后就已经心里有数了。"
+      }
+    }
+  ]
+}

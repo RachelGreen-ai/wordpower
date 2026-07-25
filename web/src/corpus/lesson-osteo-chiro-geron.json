@@ -1,0 +1,514 @@
+{
+  "lessonId": "osteo-chiro-geron",
+  "hook": {
+    "headline": {
+      "en": "Three practitioners outside the prescription pad.",
+      "zh": "三位不靠处方的从业者。"
+    },
+    "subtext": {
+      "en": "Hands on bone, hands on spine, eyes on the long arc of aging.",
+      "zh": "手抚骨头，手按脊柱，眼盯衰老的漫长弧线。"
+    }
+  },
+  "words": [
+    {
+      "word": "Osteopath",
+      "phonetic": "OS'-tee-oh-path",
+      "chinese": "整骨医生",
+      "definition": {
+        "en": "A practitioner who treats disease through manipulation of bones, joints, and muscles — and (in the US) a full MD-equivalent track.",
+        "zh": "通过手法调整骨骼、关节、肌肉来治疗疾病的从业者 — 在美国还是与 MD 同等的医生培训路径。"
+      },
+      "etymology": {
+        "root": "osteon",
+        "meaning": "bone",
+        "meaningZh": "骨头",
+        "en": "From Greek osteon (bone) + pathos (suffering, disease). The bone-disease specialist.",
+        "zh": "希腊词 osteon（骨头）+ pathos（受苦、疾病）。骨与病的专家。",
+        "relatives": [
+          {
+            "word": "osteoporosis",
+            "zh": "骨质疏松"
+          },
+          {
+            "word": "osseous",
+            "zh": "骨的 / 骨质的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "She switched from chronic painkillers to a weekly osteopath visit — and six months later her back pain was almost a memory.",
+          "zh": "她从长期吃止痛药改成每周一次看整骨医生 — 半年后，背痛几乎成了回忆。"
+        },
+        {
+          "context": "workplace",
+          "en": "In the UK, an osteopath is a regulated alternative healer — in the US, a DO osteopath can prescribe drugs and perform surgery alongside MDs.",
+          "zh": "在英国，整骨医生是受监管的替代疗法从业者；在美国，DO 整骨医师可以和 MD 一样开药并做手术。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "骨手",
+      "tint": "b8b0a0",
+      "mnemonic": {
+        "en": "OSTEOPATH = osteon (bone) + pathos (disease/suffering). The bone-suffering healer.",
+        "zh": "osteopath = osteon（骨）+ pathos（受苦）。处理骨与痛的医者。"
+      },
+      "commonConfusions": [
+        "chiropractor",
+        "orthopedist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Osteopath vs chiropractor — what's the difference?",
+            "zh": "整骨医生和脊椎按摩师 — 区别是什么？"
+          },
+          "answer": {
+            "en": "Both use manual manipulation, but osteopaths treat the whole musculoskeletal system and (in the US) are full MD-equivalent doctors. Chiropractors focus narrowly on spinal alignment and are not MDs.",
+            "zh": "两者都用手法治疗，但整骨医生处理整个肌肉骨骼系统，在美国还是与 MD 同等的医生；脊椎按摩师只专注脊柱排列，不是医学博士。"
+          }
+        },
+        {
+          "question": {
+            "en": "What does 'DO' mean in American medicine?",
+            "zh": "美国医学里的 DO 是什么？"
+          },
+          "answer": {
+            "en": "Doctor of Osteopathic Medicine — equivalent to MD in privileges, with extra training in musculoskeletal manipulation. Patients often can't tell the difference; the residency tracks merged years ago.",
+            "zh": "Doctor of Osteopathic Medicine — 权限与 MD 相同，外加肌肉骨骼手法训练。患者通常分不出差别 — 住院医培训多年前就合并了。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The DO surgeon who quietly mentioned, after a perfect knee replacement, that her hands knew the joint from a thousand manual exams before she ever held a scalpel.",
+        "zh": "那位 DO 外科医生在一台完美的膝关节置换手术后轻声说 — 她的手在拿起手术刀之前，已经在上千次手法检查里认识了这个关节。"
+      }
+    },
+    {
+      "word": "Chiropractor",
+      "phonetic": "KY'-roh-prak-tur",
+      "chinese": "脊椎按摩师",
+      "definition": {
+        "en": "A practitioner who treats musculoskeletal issues through hands-on spinal adjustment — non-MD, controversial in mainstream medicine, beloved by patients with chronic back pain.",
+        "zh": "通过手法调整脊柱来治疗肌肉骨骼问题的从业者 — 不是 MD，主流医学有争议，但慢性背痛患者很认可。"
+      },
+      "etymology": {
+        "root": "cheir",
+        "meaning": "hand",
+        "meaningZh": "手",
+        "en": "From Greek cheir (hand) + praktikos (practical, doing). Literally 'one who does with hands.'",
+        "zh": "希腊词 cheir（手）+ praktikos（实践、动手）— 字面是'用手做事的人'。",
+        "relatives": [
+          {
+            "word": "surgery",
+            "zh": "手术（同源远亲）"
+          },
+          {
+            "word": "chiral",
+            "zh": "手性的（化学）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "friends",
+          "en": "After three years of failed treatments for her back, two months of chiropractor visits did what nothing else had — and she still can't explain it.",
+          "zh": "为她的背痛尝试了三年无效的治疗之后 — 两个月的脊椎按摩做到了其他都没做到的事，她自己也说不清原因。"
+        },
+        {
+          "context": "social",
+          "en": "Mainstream medicine is skeptical of chiropractic, yet millions of patients swear by it — the science and the lived experience often disagree here.",
+          "zh": "主流医学对脊椎按摩持怀疑态度，但几百万患者深信不疑 — 在这里，科学和切身体验经常对不上。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "脊手",
+      "tint": "9a7866",
+      "mnemonic": {
+        "en": "CHIROPRACTOR = cheir (hand) + praktikos (practice). 'Hand-practice' — same cheir root in surgery (chir-urgy = hand-work).",
+        "zh": "chiropractor = cheir（手）+ praktikos（实践）。'手 + 做' — 与 surgery（chir-urgy = 用手做的工作）同一词根。"
+      },
+      "commonConfusions": [
+        "osteopath",
+        "massage therapist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Why is chiropractic care controversial?",
+            "zh": "为什么脊椎按摩有争议？"
+          },
+          "answer": {
+            "en": "The theoretical claims that spinal misalignment causes systemic disease aren't well-supported by evidence. But for specific back-pain treatment, multiple trials show real benefit. Useful tool, contested framework.",
+            "zh": "理论主张（脊柱错位导致全身疾病）证据不足；但用于具体背痛治疗，多项试验显示真实效果。工具有用，框架仍有争议。"
+          }
+        },
+        {
+          "question": {
+            "en": "How is 'surgery' related to 'chiropractor'?",
+            "zh": "surgery 和 chiropractor 有什么关系？"
+          },
+          "answer": {
+            "en": "Both contain the Greek cheir (hand). Surgery comes from cheir-ourgia ('hand-work'); chiropractor from cheir-praktikos ('hand-practice'). Two words, one root — both about working with the hands.",
+            "zh": "两个词都含希腊词 cheir（手）。surgery 来自 cheir-ourgia（手活）；chiropractor 来自 cheir-praktikos（手做）。两个词，一个根，都关于用手做事。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The construction foreman who lost faith in doctors after years of back pain, found relief from a chiropractor — and quietly told everyone on the job site, even though he couldn't 'prove' it worked.",
+        "zh": "那位被多年背痛折磨、对医生失去信心的工地领班 — 找到脊椎按摩师之后好转，悄悄告诉了工地上的每一个人，虽然他自己也没法'证明'为什么有效。"
+      }
+    },
+    {
+      "word": "Gerontologist",
+      "phonetic": "jair-on-TOL'-uh-jist",
+      "chinese": "老年学家",
+      "definition": {
+        "en": "A social scientist who studies aging — the financial, social, emotional, and physical dimensions of growing old.",
+        "zh": "研究衰老的社会科学家 — 财务、社交、情感、生理等维度。"
+      },
+      "etymology": {
+        "root": "geron",
+        "meaning": "old age",
+        "meaningZh": "老年",
+        "en": "From Greek geron (old age) + logos (study). The student of growing old.",
+        "zh": "希腊词 geron（老年）+ logos（研究）— 研究'变老'的人。",
+        "relatives": [
+          {
+            "word": "geriatric",
+            "zh": "老年医学的"
+          },
+          {
+            "word": "gerontology",
+            "zh": "老年学"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "The gerontologist on the policy panel pointed out the obvious thing the engineers had missed — most 'aging-in-place' tech fails because nobody asked old people what they wanted.",
+          "zh": "政策小组里的老年学家指出了工程师没看见的明显问题 — 大部分'居家养老'技术失败，是因为没问过老人到底想要什么。"
+        },
+        {
+          "context": "parenting",
+          "en": "When his mother's dementia progressed, the family gerontologist became as central as her doctor — coordinating care, money, dignity, and rhythm of life.",
+          "zh": "母亲的失智症加重后，家里的老年学家变得和她的医生一样重要 — 协调护理、钱、尊严、生活节奏。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "岁月",
+      "tint": "7a8a78",
+      "mnemonic": {
+        "en": "GERONTOLOGIST = geron (old age) + logos (study). Same geron in geriatric — but gerontology is wider than medicine alone.",
+        "zh": "gerontologist = geron（老年）+ logos（研究）。geriatric 里也是 geron — 但 gerontology 比单纯的医学更宽。"
+      },
+      "commonConfusions": [
+        "geriatrician",
+        "social worker"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Gerontologist vs geriatrician — what's the difference?",
+            "zh": "老年学家和老年病医生 — 区别是什么？"
+          },
+          "answer": {
+            "en": "Geriatrician = MD specializing in elderly medical care. Gerontologist = social scientist who studies aging broadly — financial, social, psychological, environmental, in addition to the medical.",
+            "zh": "老年病医生是专攻老年医疗的医学博士；老年学家是研究'变老'这件事的社会科学家 — 财务、社交、心理、环境，加上医学。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is gerontology becoming a major field?",
+            "zh": "为什么老年学正变成一个主流学科？"
+          },
+          "answer": {
+            "en": "For the first time in history, most rich countries have more people over 60 than under 15. Aging is no longer a personal problem — it's a civilizational design challenge.",
+            "zh": "人类历史上第一次 — 大多数富裕国家 60 岁以上的人多于 15 岁以下的人。变老不再是个人问题，而是文明设计的挑战。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The gerontologist who designed her parents' retirement housing with one rule — 'no detail that asks them to feel old' — and watched both live with grace for another decade.",
+        "zh": "那位为父母设计养老住所的老年学家，只有一条规则 — '没有任何细节让他们觉得自己老了' — 然后看着两位老人优雅地多活了十年。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Two of them work with their hands.",
+      "zh": "其中两位靠手吃饭。"
+    },
+    "leftLabel": "Osteopath",
+    "leftLine": {
+      "en": "hands on bone",
+      "zh": "手抚骨"
+    },
+    "leftMnemonic": {
+      "en": "osteon + pathos · the bone-suffering healer",
+      "zh": "osteon + pathos · 骨与痛的医者"
+    },
+    "rightLabel": "Chiropractor",
+    "rightLine": {
+      "en": "hands on spine",
+      "zh": "手按脊"
+    },
+    "rightMnemonic": {
+      "en": "cheir + praktikos · the hand-practice — same cheir as surgery",
+      "zh": "cheir + praktikos · 手与做 — surgery 也是同一个 cheir"
+    },
+    "closing": {
+      "en": "Some healing is bottled. Some is in the hands.",
+      "zh": "有的治疗装在瓶里。有的，活在手上。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Not every healer carries a prescription pad. Some carry hands. Some carry decades of watching.",
+      "zh": "不是每位医者都拿着处方笺。有些带着的是一双手。有些带着的，是几十年的目光。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/osteo-chiro-geron/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/osteo-chiro-geron/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/osteo-chiro-geron/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/osteo-chiro-geron/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/osteo-chiro-geron/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/osteo-chiro-geron/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/osteo-chiro-geron/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/osteo-chiro-geron/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/osteo-chiro-geron/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/osteo-chiro-geron/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/osteo-chiro-geron/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/osteo-chiro-geron/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/osteo-chiro-geron/twist.left.wav",
+    "twist.right": "audio/vocab/osteo-chiro-geron/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/osteo-chiro-geron/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/osteo-chiro-geron/hook.headline.wav",
+    "word.0.definition": "audio/vocab/osteo-chiro-geron/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/osteo-chiro-geron/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/osteo-chiro-geron/word.2.definition.wav",
+    "twist.setup": "audio/vocab/osteo-chiro-geron/twist.setup.wav",
+    "twist.closing": "audio/vocab/osteo-chiro-geron/twist.closing.wav",
+    "recap.reflection": "audio/vocab/osteo-chiro-geron/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 5,
+    "session": 1,
+    "pages": [
+      100,
+      130
+    ],
+    "theme": "How to Talk About Various Practitioners",
+    "subtheme": "Beyond the Prescription Pad"
+  },
+  "tags": [
+    "practitioners",
+    "alternative-medicine",
+    "aging",
+    "ch5",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "osteoporosis",
+      "zh": "骨质疏松症",
+      "root": "osteon",
+      "partOfSpeech": "n.",
+      "phonetic": "os-tee-oh-puh-ROH'-sis",
+      "gloss": {
+        "en": "A condition of fragile bones — osteon (bone) + porosis (becoming porous).",
+        "zh": "骨骼变脆的疾病 — osteon（骨）+ porosis（变多孔）。"
+      },
+      "usage": {
+        "en": "Half of women over 50 will develop osteoporosis — and most won't know until a wrist or hip breaks from a minor fall.",
+        "zh": "50 岁以上的女性中，半数会得骨质疏松症 — 而多数人要等到一次轻微摔倒导致手腕或髋部骨折，才会发现。"
+      }
+    },
+    {
+      "word": "osseous",
+      "zh": "骨的 / 骨质的",
+      "root": "osteon",
+      "partOfSpeech": "adj.",
+      "phonetic": "OS'-ee-us",
+      "gloss": {
+        "en": "Relating to or made of bone — the technical adjective for skeletal tissue.",
+        "zh": "由骨头构成或与之相关 — 骨组织的专业形容词。"
+      },
+      "usage": {
+        "en": "The radiologist noted an 'osseous lesion' on the report — clinical language for what the patient feared was a tumor.",
+        "zh": "放射科医生在报告里写了'骨质病变' — 这是临床用语，描述的正是患者担心的肿瘤。"
+      }
+    },
+    {
+      "word": "ossify",
+      "zh": "骨化 / 僵化",
+      "root": "osteon",
+      "partOfSpeech": "v.",
+      "phonetic": "OS'-uh-fy",
+      "gloss": {
+        "en": "To turn into bone — literally a body process, figuratively a mind becoming rigid.",
+        "zh": "变成骨头 — 字面上是身体过程，引申义是思想变僵化。"
+      },
+      "usage": {
+        "en": "Companies ossify when the people who built the system retire — and no one's left to remember why each rule existed.",
+        "zh": "当建立系统的人退休 — 没人记得每条规则当初为何存在时，公司就开始僵化。"
+      }
+    },
+    {
+      "word": "surgery",
+      "zh": "外科手术",
+      "root": "cheir",
+      "partOfSpeech": "n.",
+      "phonetic": "SUR'-juh-ree",
+      "gloss": {
+        "en": "Operative medical treatment — from Greek cheir-ourgia, literally 'hand-work.' Same cheir as chiropractor.",
+        "zh": "需要动手做的医疗治疗 — 来自希腊词 cheir-ourgia，字面是'手活'。和 chiropractor 共享 cheir。"
+      },
+      "usage": {
+        "en": "Modern surgery's most important advance wasn't a tool — it was the moment surgeons learned to wash their hands.",
+        "zh": "现代外科最重要的进步不是任何工具 — 是医生终于学会洗手的那一刻。"
+      }
+    },
+    {
+      "word": "surgeon",
+      "zh": "外科医生",
+      "root": "cheir",
+      "partOfSpeech": "n.",
+      "phonetic": "SUR'-jun",
+      "gloss": {
+        "en": "A physician who performs surgery — the 'hand-worker' of medicine.",
+        "zh": "做手术的医生 — 医学里的'手艺人'。"
+      },
+      "usage": {
+        "en": "A great surgeon is mostly invisible — you notice them only by the absence of the problem they solved.",
+        "zh": "一位伟大的外科医生是几乎隐形的 — 你能注意到的，只是他们解决掉的那个问题不再存在。"
+      }
+    },
+    {
+      "word": "chiral",
+      "zh": "手性的",
+      "root": "cheir",
+      "partOfSpeech": "adj.",
+      "phonetic": "KY'-rul",
+      "gloss": {
+        "en": "Having a mirror-image form that can't be superimposed — like left and right hands. Used in chemistry for molecules.",
+        "zh": "具有镜像对称、无法重叠的形态 — 就像左右手。常用于化学描述分子。"
+      },
+      "usage": {
+        "en": "Many drugs are chiral — one mirror image heals, the other can be useless or even toxic. A whole pharmaceutical industry sorts left from right.",
+        "zh": "很多药物是手性的 — 一种镜像有效，另一种可能无效甚至有毒。整个制药行业都在做'左右手'的分离。"
+      }
+    },
+    {
+      "word": "gerontology",
+      "zh": "老年学",
+      "root": "geron",
+      "partOfSpeech": "n.",
+      "phonetic": "jair-on-TOL'-uh-jee",
+      "gloss": {
+        "en": "The study of aging — broader than geriatrics, covering social, financial, psychological, and biological dimensions.",
+        "zh": "对衰老的研究 — 比老年病学更宽，涵盖社会、财务、心理、生物等维度。"
+      },
+      "usage": {
+        "en": "Gerontology used to be a niche corner of social work — now it's one of the fastest-growing university programs in countries facing demographic shift.",
+        "zh": "老年学过去是社会工作里的小角落 — 现在在面临人口结构变化的国家，是大学里增长最快的项目之一。"
+      }
+    },
+    {
+      "word": "geriatric",
+      "zh": "老年医学的 / 老年的",
+      "root": "geron",
+      "partOfSpeech": "adj.",
+      "phonetic": "jair-ee-AT'-rik",
+      "gloss": {
+        "en": "Relating to medical care of the elderly — geron (old age) + iatros (healer). The medical side of aging.",
+        "zh": "与老年医疗相关 — geron（老年）+ iatros（医者）。衰老的医学一面。"
+      },
+      "usage": {
+        "en": "Most hospitals still treat 'geriatric' as a polite warning — but the best geriatric wards are now where the gentlest medicine gets practiced.",
+        "zh": "大多数医院仍把'老年'当作一个礼貌的提醒标签 — 但最好的老年病房，如今反而是行医最温柔的地方。"
+      }
+    },
+    {
+      "word": "empathy",
+      "zh": "共情",
+      "root": "pathos",
+      "partOfSpeech": "n.",
+      "phonetic": "EM'-puh-thee",
+      "gloss": {
+        "en": "Feeling with another — em (in) + pathos (feeling). Stepping into someone else's emotion.",
+        "zh": "与他人一同感受 — em（进入）+ pathos（感受）。走进别人的情绪。"
+      },
+      "usage": {
+        "en": "Empathy isn't agreement — you can fully feel someone's pain and still believe they're choosing badly.",
+        "zh": "共情不是赞同 — 你可以完全感受到一个人的痛，同时仍认为他在做错的选择。"
+      },
+      "rootMeaning": "feeling / suffering",
+      "rootMeaningZh": "感受 / 苦",
+      "rootTint": "8e7a8a"
+    },
+    {
+      "word": "sympathy",
+      "zh": "同情",
+      "root": "pathos",
+      "partOfSpeech": "n.",
+      "phonetic": "SIM'-puh-thee",
+      "gloss": {
+        "en": "Feeling alongside another — sym (together) + pathos (feeling). Less inside-the-skin than empathy, more 'I'm sorry for you.'",
+        "zh": "在他人身边感受 — sym（共同）+ pathos（感受）。不像 empathy 那样深入皮肤，更像'我为你难过'。"
+      },
+      "usage": {
+        "en": "After her loss, the sympathy cards stacked up — and the one that landed deepest just said, 'I don't know what to say. I'm here.'",
+        "zh": "她失去亲人后，慰问卡堆了一摞 — 最让她记住的，只写了一句：'我不知道说什么。我在。'"
+      }
+    },
+    {
+      "word": "apathy",
+      "zh": "冷漠 / 无动于衷",
+      "root": "pathos",
+      "partOfSpeech": "n.",
+      "phonetic": "AP'-uh-thee",
+      "gloss": {
+        "en": "Lack of feeling — a (not / without) + pathos (feeling). The absence where emotion should be.",
+        "zh": "感受的缺席 — a（没有）+ pathos（感受）。本该有情绪的地方一片空白。"
+      },
+      "usage": {
+        "en": "The most dangerous response to a slow crisis isn't outrage — it's apathy. People stop caring before things stop getting worse.",
+        "zh": "面对一场缓慢的危机，最危险的反应不是愤怒 — 是冷漠。人们停止在意，比情况停止恶化更早。"
+      }
+    },
+    {
+      "word": "pathology",
+      "zh": "病理学 / 病态",
+      "root": "pathos",
+      "partOfSpeech": "n.",
+      "phonetic": "puh-THOL'-uh-jee",
+      "gloss": {
+        "en": "The study of disease — pathos (disease) + logos (study). Also used figuratively for a deep-seated dysfunction.",
+        "zh": "研究疾病的学科 — pathos（疾病）+ logos（研究）。也常用来形容根深蒂固的'病态'。"
+      },
+      "usage": {
+        "en": "Family pathology rarely changes by argument — it changes when one generation quietly refuses to pass it down.",
+        "zh": "家庭的'病态'很少靠争吵改变 — 它改变，是因为某一代人安静地决定不再往下传。"
+      }
+    }
+  ]
+}

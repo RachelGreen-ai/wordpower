@@ -1,0 +1,502 @@
+{
+  "lessonId": "iconoclast-monomaniac-chauvinist",
+  "hook": {
+    "headline": {
+      "en": "Three intensities of conviction. Each one came from a real moment in history.",
+      "zh": "三种'确信'的强度。每一个都源自历史上真实发生过的事。"
+    },
+    "subtext": {
+      "en": "Image-smasher. Single-fixator. Solo loyalist. Where does each leave the room?",
+      "zh": "砸圣像者、单点偏执者、独自忠诚者 — 他们各自把屋子留成什么样？"
+    }
+  },
+  "words": [
+    {
+      "word": "Iconoclast",
+      "phonetic": "i-KON'-a-klast",
+      "chinese": "打破传统者、反偶像者",
+      "definition": {
+        "en": "Someone who attacks cherished beliefs or institutions — literally and historically, someone who smashed religious images. Now: anyone who challenges what the room considers sacred.",
+        "zh": "攻击大家珍视的信念或制度的人 — 历史上原指那些砸毁宗教圣像的人。现在指任何挑战'屋里被视为神圣'的事物的人。"
+      },
+      "etymology": {
+        "root": "eikon",
+        "meaning": "image, icon",
+        "meaningZh": "图像、圣像",
+        "en": "From Greek eikon (image) + klastes (breaker). In 8th-century Byzantium, the Iconoclasts physically destroyed Christian icons because they thought venerating them was idolatry. The label moved from religion into anything else worth-smashing.",
+        "zh": "希腊 eikon（图像）+ klastes（打破者）。公元 8 世纪的拜占庭，'反圣像派'真的去砸毁基督教圣像 — 他们认为崇拜圣像是偶像崇拜。这个标签后来从宗教扩展到所有'值得被砸'的东西。",
+        "relatives": [
+          {
+            "word": "icon",
+            "zh": "圣像、标志"
+          },
+          {
+            "word": "iconic",
+            "zh": "标志性的"
+          },
+          {
+            "word": "iconography",
+            "zh": "图像学"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She was the team's quiet iconoclast — she didn't argue, she just kept asking 'why do we do it this way?' until no one had an answer.",
+          "zh": "她是团队里安静的反传统者 — 她不争论，只是一直问'我们为什么这么做？' — 直到没人答得出来。"
+        },
+        {
+          "context": "social",
+          "en": "Every generation produces a few iconoclasts. They are unpopular while alive and quoted endlessly after.",
+          "zh": "每一代人都会出几个打破传统的人。他们活着时不受欢迎，死后被无尽地引用。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "破像",
+      "tint": "a05f5f",
+      "mnemonic": {
+        "en": "Eikon + Klastes = ICON-BREAKER. Someone who walks up to what the room has agreed is sacred — and asks why it's still there.",
+        "zh": "Eikon + Klastes = 砸圣像的人。这种人走到大家约定俗成奉为神圣的东西面前 — 然后问：它凭什么还在这儿？"
+      },
+      "commonConfusions": [
+        "rebel",
+        "revolutionary",
+        "heretic"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Rebel and iconoclast both push back. What's the difference?",
+            "zh": "Rebel（叛逆者）和 iconoclast（反传统者）都在反抗。区别在哪？"
+          },
+          "answer": {
+            "en": "A rebel pushes against authority. An iconoclast pushes against the BELIEFS that make authority feel sacred. One fights the king; the other fights the crown.",
+            "zh": "Rebel 反对权威本身。Iconoclast 反对让权威变得'神圣'的那些信念。一个打国王，一个打王冠。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "When Martin Luther nailed his 95 Theses to a church door in 1517, he wasn't trying to start a new church — he was being an iconoclast about indulgences (paid forgiveness). The Reformation grew out of one man's willingness to question what everyone around him called sacred.",
+        "zh": "1517 年马丁·路德把他的《九十五条论纲》钉在教堂门上时，他并不打算另立一个教会 — 他只是在对'赎罪券'（用钱买赦免）做反偶像的质疑。宗教改革，是从一个人愿意问'你们说神圣的那个东西，凭什么神圣'开始的。"
+      }
+    },
+    {
+      "word": "Monomaniac",
+      "phonetic": "mon'-a-MAY'-nee-ak",
+      "chinese": "单线偏执者、一根筋",
+      "definition": {
+        "en": "Someone obsessed with a single idea, cause, or pursuit — to the exclusion of everything else. Not always destructive. Often what produces masterpieces — and unhappy families.",
+        "zh": "对单一想法、事业或追求着了魔的人 — 排除其他一切。不一定是有害的。常常是名作的来源 — 也是不幸家庭的来源。"
+      },
+      "etymology": {
+        "root": "mania",
+        "meaning": "madness, intense passion",
+        "meaningZh": "狂热、强烈痴迷",
+        "en": "From Greek mono- (one) + mania (madness, frenzy). Literally 'madness for one thing.' Same mania is in 'kleptomania' (stealing), 'pyromania' (fire), and 'maniac.' The Greeks used mania for any obsession that took over a life.",
+        "zh": "希腊 mono-（一）+ mania（疯狂、痴迷）。字面意思是'单一的疯狂'。同一个 mania 出现在 kleptomania（盗窃癖）、pyromania（纵火癖）、maniac（狂人）里。希腊人用 mania 描述任何占据一个人整副生命的执念。",
+        "relatives": [
+          {
+            "word": "maniac",
+            "zh": "狂人"
+          },
+          {
+            "word": "kleptomania",
+            "zh": "盗窃癖"
+          },
+          {
+            "word": "pyromania",
+            "zh": "纵火癖"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He was a monomaniac about the user — every feature, every email, every meeting came back to that one question.",
+          "zh": "他是个用户至上的'一根筋' — 每个功能、每封邮件、每次会议，最后都绕回那一个问题。"
+        },
+        {
+          "context": "social",
+          "en": "A friendly monomaniac is great over coffee for thirty minutes — and exhausting over dinner for three hours.",
+          "zh": "一个和气的'一根筋'，咖啡桌上聊三十分钟很有意思 — 但在饭桌上聊三个小时，让人耗光。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "一根筋",
+      "tint": "856ab0",
+      "mnemonic": {
+        "en": "Mono + Mania = ONE + MADNESS. A monomaniac isn't crazy — they're focused. To one thing. Everything else fades.",
+        "zh": "Mono + Mania = 一 + 狂热。一根筋的人不是疯 — 只是聚焦。聚焦在一件事上，其他都褪色了。"
+      },
+      "commonConfusions": [
+        "fanatic",
+        "zealot",
+        "obsessive"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Fanatic and monomaniac are close. What's the difference?",
+            "zh": "Fanatic 和 monomaniac 接近。区别在哪？"
+          },
+          "answer": {
+            "en": "A fanatic believes in a cause and wants others to too. A monomaniac is obsessed with a SUBJECT and doesn't need company. One recruits; the other just keeps going.",
+            "zh": "Fanatic 信奉某种事业，且希望别人也信。Monomaniac 是对一个'题目'着魔，不需要同伴。一个是拉人入伙，一个只是自己一直往下走。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Captain Ahab in Moby Dick is the great literary monomaniac — a whole life poured into one whale. Melville's point isn't that obsession is wrong. It's that an obsession unmoored from love eventually consumes the obsessed.",
+        "zh": "《白鲸》里的亚哈船长是文学史上经典的'一根筋' — 一生倾注在一头鲸鱼上。梅尔维尔的意思不是'痴迷不对'，而是：一个脱离了爱的痴迷，最终会吞掉那个痴迷者。"
+      }
+    },
+    {
+      "word": "Chauvinist",
+      "phonetic": "SHO'-va-nist",
+      "chinese": "盲目爱国者、沙文主义者",
+      "definition": {
+        "en": "Someone with blind, aggressive loyalty to their own group — country, party, gender, school — combined with contempt for others. Chauvinism isn't pride. It's pride that needs you to lose.",
+        "zh": "对自己所属群体（国家、党派、性别、母校）抱有盲目、攻击性忠诚的人 — 同时蔑视其他群体。沙文主义不是骄傲 — 是一种需要别人输掉的骄傲。"
+      },
+      "etymology": {
+        "root": "Nicolas Chauvin",
+        "meaning": "name of a legendary Napoleonic soldier",
+        "meaningZh": "拿破仑时代一名（半真半假的）士兵的名字",
+        "en": "From Nicolas Chauvin, a possibly-fictional French soldier devoted to Napoleon long past the point of reason. His exaggerated patriotism became the model for blind loyalty of any kind. Same eponym pattern as 'martinet' — a person became a label.",
+        "zh": "得名于尼古拉·沙文 — 一位（可能是虚构的）法国士兵，对拿破仑的忠诚远远超过任何理性。他那种夸张的爱国成了'盲目忠诚'的代表。和 martinet 一样 — 一个人变成了一个标签。",
+        "relatives": [
+          {
+            "word": "chauvinism",
+            "zh": "沙文主义"
+          },
+          {
+            "word": "jingoism",
+            "zh": "好战的爱国主义（近义）"
+          },
+          {
+            "word": "boycott",
+            "zh": "抵制（同样是用真人名造的词）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The old engineer was a chauvinist about C++ — every other language was 'a toy' in his sentences.",
+          "zh": "那位老工程师是 C++ 的沙文主义者 — 其他语言在他嘴里都是'玩具'。"
+        },
+        {
+          "context": "social",
+          "en": "Healthy love of your country includes its mistakes. Chauvinism is the version that refuses to see them.",
+          "zh": "对自己国家健康的爱，包括它的错误。沙文主义则是拒绝看见错误的那种版本。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "盲忠",
+      "tint": "b05a50",
+      "mnemonic": {
+        "en": "Chauvin = a SOLDIER who kept saluting after the war was over. Chauvinism = loyalty turned into refusing to see anything else.",
+        "zh": "Chauvin = 一个战争已结束还在敬礼的士兵。沙文主义 = 忠诚演变成'拒绝看见任何别的东西'。"
+      },
+      "commonConfusions": [
+        "patriot",
+        "nationalist",
+        "bigot"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Patriot, nationalist, chauvinist. What's the gradient?",
+            "zh": "Patriot（爱国者）、nationalist（民族主义者）、chauvinist（沙文主义者）— 程度如何递进？"
+          },
+          "answer": {
+            "en": "Patriot = loves the country and can criticize it. Nationalist = puts the country first, often in competition with others. Chauvinist = puts the country first AND needs to look down on others to do it.",
+            "zh": "Patriot = 爱国，且能批评。Nationalist = 国家优先，常带着和别人的竞争心。Chauvinist = 国家优先，并且必须看不起别人才能做到。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Nicolas Chauvin may never have existed — the historical record is thin. He shows up first in French theater satires after Napoleon's fall, where exaggerated loyalists were played for laughs. A stage character became a worldwide label. That's how soft the line is between fiction and language.",
+        "zh": "尼古拉·沙文可能根本不存在 — 历史记录非常单薄。他最早出现在拿破仑倒台后的法国讽刺剧里，那些夸张的忠君者被搬上舞台供人发笑。一个舞台角色变成了全世界的标签。虚构和语言之间的界限，就是这么薄。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both have ferocious conviction. But one tears down. The other refuses to look.",
+      "zh": "两个都怀着强烈的信念。但一个是在拆。一个是拒绝看见。"
+    },
+    "leftLabel": "Iconoclast",
+    "leftLine": {
+      "en": "Smashes what the room considers sacred.",
+      "zh": "砸掉屋里大家奉为神圣的东西。"
+    },
+    "leftMnemonic": {
+      "en": "Eikon + Klastes = IMAGE-BREAKER · conviction aimed outward.",
+      "zh": "Eikon + Klastes = 砸圣像的人 · 信念向外。"
+    },
+    "rightLabel": "Chauvinist",
+    "rightLine": {
+      "en": "Protects what their group considers sacred — at all costs.",
+      "zh": "不惜一切代价保护自己群体奉为神圣的东西。"
+    },
+    "rightMnemonic": {
+      "en": "Chauvin = a SOLDIER · loyalty turned blind.",
+      "zh": "Chauvin = 一名士兵 · 忠诚变成了盲目。"
+    },
+    "closing": {
+      "en": "One asks 'why is this sacred?' The other asks 'how dare you ask?'",
+      "zh": "一个问：这凭什么神圣？另一个问：你怎么敢问？"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Strong conviction shapes the world — and also breaks it. The art is in knowing which way yours is aimed.",
+      "zh": "强烈的信念塑造世界 — 也打碎世界。功夫在于：分清自己手里的那把信念，正指向哪个方向。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/iconoclast-monomaniac-chauvinist/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/iconoclast-monomaniac-chauvinist/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/iconoclast-monomaniac-chauvinist/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/iconoclast-monomaniac-chauvinist/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/iconoclast-monomaniac-chauvinist/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/iconoclast-monomaniac-chauvinist/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/iconoclast-monomaniac-chauvinist/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/iconoclast-monomaniac-chauvinist/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/iconoclast-monomaniac-chauvinist/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/iconoclast-monomaniac-chauvinist/twist.left.wav",
+    "twist.right": "audio/vocab/iconoclast-monomaniac-chauvinist/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/iconoclast-monomaniac-chauvinist/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/iconoclast-monomaniac-chauvinist/hook.headline.wav",
+    "word.0.definition": "audio/vocab/iconoclast-monomaniac-chauvinist/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/iconoclast-monomaniac-chauvinist/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/iconoclast-monomaniac-chauvinist/word.2.definition.wav",
+    "twist.setup": "audio/vocab/iconoclast-monomaniac-chauvinist/twist.setup.wav",
+    "twist.closing": "audio/vocab/iconoclast-monomaniac-chauvinist/twist.closing.wav",
+    "recap.reflection": "audio/vocab/iconoclast-monomaniac-chauvinist/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 11,
+    "session": 29,
+    "pages": [
+      282,
+      320
+    ],
+    "theme": "Insults and Labels",
+    "subtheme": "Three intensities of conviction"
+  },
+  "tags": [
+    "insults",
+    "labels",
+    "conviction",
+    "ch11",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "icon",
+      "zh": "圣像、标志",
+      "root": "eikon",
+      "partOfSpeech": "n.",
+      "phonetic": "I'-kon",
+      "gloss": {
+        "en": "An image — originally religious, now also for cultural symbols and the little pictures on your screen. Same eikon as 'iconoclast.'",
+        "zh": "图像 — 原本指宗教圣像，现在也指文化符号、以及屏幕上的小图标。和 iconoclast 同根。"
+      },
+      "usage": {
+        "en": "An icon doesn't earn its meaning — it accumulates it, slowly, from the people who look at it.",
+        "zh": "一个图标本身没有意义 — 它的意义，是看它的人慢慢累上去的。"
+      }
+    },
+    {
+      "word": "iconic",
+      "zh": "标志性的、经典的",
+      "root": "eikon",
+      "partOfSpeech": "adj.",
+      "phonetic": "i-KON'-ik",
+      "gloss": {
+        "en": "Recognized so widely that the thing stands for a whole category. From eikon (image).",
+        "zh": "广为人知到能代表整个类别 — 来自 eikon（图像）。"
+      },
+      "usage": {
+        "en": "An iconic image isn't necessarily a good one — it's just one that won the memory race.",
+        "zh": "经典的画面不一定是好画面 — 只是它赢得了'被记住'这场比赛。"
+      }
+    },
+    {
+      "word": "iconography",
+      "zh": "图像学、肖像研究",
+      "root": "eikon",
+      "partOfSpeech": "n.",
+      "phonetic": "i'-ka-NOG'-ra-fee",
+      "gloss": {
+        "en": "The study of images and their meanings — eikon + graphein (to write). What an image SAYS without words.",
+        "zh": "研究图像及其意义的学科 — eikon + graphein（写）。研究一幅图不用语言说出什么。"
+      },
+      "usage": {
+        "en": "Every religion has its iconography — and every brand quietly steals the structure of one.",
+        "zh": "每个宗教都有自己的图像系统 — 每个品牌都悄悄借用其中一个的结构。"
+      }
+    },
+    {
+      "word": "maniac",
+      "zh": "狂人、狂热者",
+      "root": "mania",
+      "partOfSpeech": "n.",
+      "phonetic": "MAY'-nee-ak",
+      "gloss": {
+        "en": "Someone in a state of mania — directly from the Greek root. Once a clinical term; now mostly informal, often affectionate ('he's a maniac about coffee').",
+        "zh": "处于狂热状态的人 — 直接来自希腊词根。曾是临床术语，现在多用于非正式场合，常带宠溺意味（'他是个咖啡狂魔'）。"
+      },
+      "usage": {
+        "en": "A maniac in your hobby is a friend. A maniac in your boss is a problem.",
+        "zh": "你的爱好里有个狂魔，是朋友。你的老板是个狂魔，就是麻烦。"
+      }
+    },
+    {
+      "word": "kleptomania",
+      "zh": "盗窃癖",
+      "root": "mania",
+      "partOfSpeech": "n.",
+      "phonetic": "klep'-ta-MAY'-nee-a",
+      "gloss": {
+        "en": "Compulsive stealing — klepto- (steal) + mania (madness). A clinical condition distinct from criminal theft.",
+        "zh": "强迫性的偷窃 — klepto-（偷）+ mania（狂）。一种和犯罪式偷盗不同的临床症状。"
+      },
+      "usage": {
+        "en": "Kleptomania isn't about needing the thing — it's about being unable to stop reaching for it.",
+        "zh": "盗窃癖不是因为需要那个东西 — 是因为无法控制伸手去拿的冲动。"
+      }
+    },
+    {
+      "word": "pyromania",
+      "zh": "纵火癖",
+      "root": "mania",
+      "partOfSpeech": "n.",
+      "phonetic": "pi'-ra-MAY'-nee-a",
+      "gloss": {
+        "en": "Compulsive fire-setting — pyro- (fire) + mania. The fascination isn't usually with destruction — it's with the flame itself.",
+        "zh": "强迫性的纵火 — pyro-（火）+ mania。这种着迷往往不是出于破坏欲 — 而是对火焰本身的迷恋。"
+      },
+      "usage": {
+        "en": "Most pyromania starts in childhood — the danger isn't always who's lighting the match, but what's not being noticed at home.",
+        "zh": "纵火癖大多始于童年 — 危险的不只是'谁划着了那根火柴'，更是'家里有什么没被看见'。"
+      }
+    },
+    {
+      "word": "obsession",
+      "zh": "执念、痴迷",
+      "root": "mania",
+      "partOfSpeech": "n.",
+      "phonetic": "ab-SESH'-an",
+      "gloss": {
+        "en": "Cousin to mania — from Latin obsidere (to besiege). An obsession sits at the gates of the mind and refuses to leave.",
+        "zh": "和 mania 是表亲 — 来自拉丁 obsidere（围攻）。执念坐在心的门口，不肯离开。"
+      },
+      "usage": {
+        "en": "Healthy obsessions become craft. Unhealthy obsessions just become the rest of your life.",
+        "zh": "健康的痴迷会变成手艺。不健康的痴迷，会变成你余生的全部。"
+      }
+    },
+    {
+      "word": "chauvinism",
+      "zh": "沙文主义",
+      "root": "Nicolas Chauvin",
+      "partOfSpeech": "n.",
+      "phonetic": "SHO'-va-nizm",
+      "gloss": {
+        "en": "The doctrine of blind, aggressive loyalty — the noun form. Originally only about country; now used for any 'my group above all' attitude.",
+        "zh": "盲目、攻击性忠诚的主义 — 名词形式。最初只指国家，现在用于任何'我的群体高于一切'的态度。"
+      },
+      "usage": {
+        "en": "Chauvinism rarely admits it's that — it usually calls itself 'standards' or 'tradition.'",
+        "zh": "沙文主义很少承认自己是沙文主义 — 它通常自称'标准'或'传统'。"
+      }
+    },
+    {
+      "word": "jingoism",
+      "zh": "好战的爱国主义",
+      "root": "eponym",
+      "partOfSpeech": "n.",
+      "phonetic": "JING'-go-izm",
+      "gloss": {
+        "en": "From a 19th-century British music hall song: 'We don't want to fight, but by Jingo if we do…' Aggressive nationalism, especially about going to war. Cousin concept to chauvinism, different origin.",
+        "zh": "源自19世纪英国歌厅里的一首歌：'我们不想打仗，但天哪（by Jingo）如果真要打…'指好战的民族主义，尤其是关于开战。与沙文主义概念近邻，出处不同。"
+      },
+      "usage": {
+        "en": "Jingoism makes war sound like a song — which is exactly when you should leave the room.",
+        "zh": "好战的爱国主义把战争唱成一首歌 — 这正是你该离开屋子的时候。"
+      },
+      "rootMeaning": "named after a real source",
+      "rootMeaningZh": "源自真实出处",
+      "rootTint": "5e6a7d"
+    },
+    {
+      "word": "patriot",
+      "zh": "爱国者",
+      "root": "patria",
+      "partOfSpeech": "n.",
+      "phonetic": "PAY'-tree-at",
+      "gloss": {
+        "en": "One who loves their country — from Latin patria (fatherland), itself from pater (father). Same family as 'paternal' and 'patron.' The distinguished neighbor of chauvinist: love without contempt.",
+        "zh": "爱国者 — 来自拉丁 patria（祖国），由 pater（父）派生而来。和 paternal（父辈的）、patron（赞助人）同族。是沙文主义有尊严的邻居：爱，但不带蔑视。"
+      },
+      "usage": {
+        "en": "A patriot can criticize the country and not stop loving it. A chauvinist treats criticism as betrayal.",
+        "zh": "爱国者能批评国家而不停止爱它。沙文主义者把批评当成背叛。"
+      },
+      "rootMeaning": "fatherland (Latin)",
+      "rootMeaningZh": "祖国（拉丁）",
+      "rootTint": "5a8a8a"
+    },
+    {
+      "word": "paternal",
+      "zh": "父亲般的、父系的",
+      "root": "patria",
+      "partOfSpeech": "adj.",
+      "phonetic": "pa-TER'-nal",
+      "gloss": {
+        "en": "Pertaining to a father — directly from pater (father). Same patria as patriot.",
+        "zh": "与父亲有关的 — 直接来自 pater（父）。和 patriot 同根。"
+      },
+      "usage": {
+        "en": "Paternal advice often shows up uninvited and lands at exactly the right moment three years later.",
+        "zh": "父亲式的劝告常常不请自来 — 然后在三年后某个时刻，刚刚好落到正点上。"
+      }
+    },
+    {
+      "word": "patron",
+      "zh": "赞助人、保护者",
+      "root": "patria",
+      "partOfSpeech": "n.",
+      "phonetic": "PAY'-tran",
+      "gloss": {
+        "en": "Someone who supports another, financially or otherwise — from pater. The 'father-figure' of an art, a cause, or a person.",
+        "zh": "在经济或其他方面支持他人的人 — 来自 pater（父）。是某项艺术、事业、或某个人的'父辈角色'。"
+      },
+      "usage": {
+        "en": "Every great artist has a quiet patron in their past — someone who fed them long enough for the work to ripen.",
+        "zh": "每个伟大的艺术家背后都有一个安静的赞助人 — 一个把他养够久，让作品熟下来的人。"
+      }
+    }
+  ]
+}

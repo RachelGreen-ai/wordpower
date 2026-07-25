@@ -1,0 +1,507 @@
+{
+  "lessonId": "vicarious-euphemism-clandestine",
+  "hook": {
+    "headline": {
+      "en": "Three indirect ways we live — through others, around the truth, in the shadows.",
+      "zh": "三种'间接'的活法 — 借由别人、绕开真相、躲在暗处。"
+    },
+    "subtext": {
+      "en": "Sometimes indirect is honest. Sometimes it's the cost of polite living.",
+      "zh": "间接，有时是诚实的。有时只是好好做人的代价。"
+    }
+  },
+  "words": [
+    {
+      "word": "Vicarious",
+      "phonetic": "vi-KAIR'-ee-as",
+      "chinese": "替代的、感同身受的",
+      "definition": {
+        "en": "Experienced through someone else — not your own life, but felt as if. The thrill of a movie, the pride of your child's win, the grief of a friend's loss.",
+        "zh": "通过别人体验到的 — 不是自己的人生，却像是自己的。看电影的紧张、孩子获胜的骄傲、朋友失去时的悲伤。"
+      },
+      "etymology": {
+        "root": "vicis",
+        "meaning": "turn, change, substitute",
+        "meaningZh": "替换、轮替",
+        "en": "From Latin vicarius = 'substitute,' from vicis (a turn). Same vicis hidden in 'vicar' (substitute priest), 'vice president' (substitute leader), 'vicissitude' (the turning of fortune), and 'vice versa' (the turn reversed).",
+        "zh": "拉丁 vicarius = '替身'，来自 vicis（轮替）。同一个 vicis 藏在 vicar（代行牧师）、vice president（副总统，'替代领导'）、vicissitude（命运的变迁）、vice versa（反过来）里。",
+        "relatives": [
+          {
+            "word": "vicar",
+            "zh": "代理牧师"
+          },
+          {
+            "word": "vicissitude",
+            "zh": "（命运的）变迁"
+          },
+          {
+            "word": "vice versa",
+            "zh": "反之亦然"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "parenting",
+          "en": "Don't live vicariously through your kids — they can feel it, and the weight becomes theirs.",
+          "zh": "别通过孩子去过你自己的人生 — 他们感觉得到，那份重量最后变成他们的。"
+        },
+        {
+          "context": "social",
+          "en": "Reading is the most generous vicarious life — for an hour, you wear someone else's worries instead of your own.",
+          "zh": "阅读是最慷慨的'替代人生' — 那一小时里，你换上别人的烦恼，放下自己的。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "替代",
+      "tint": "8a6aa6",
+      "mnemonic": {
+        "en": "Vicis = TURN, SUBSTITUTE. Vicarious = experience taken in another's turn — the feeling is real, the life is borrowed.",
+        "zh": "Vicis = 轮替、替身。Vicarious = 借别人的'轮次'来体验 — 感觉是真的，人生是借的。"
+      },
+      "commonConfusions": [
+        "secondhand",
+        "empathetic",
+        "substitute"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Vicarious and empathetic both feel another's experience. What's the difference?",
+            "zh": "Vicarious 和 empathetic 都是感受别人的经历。区别在哪？"
+          },
+          "answer": {
+            "en": "Empathy understands the feeling. Vicarious experience LIVES the feeling — for a moment, you ARE in that situation, not just imagining it.",
+            "zh": "Empathy 是理解那种感受。Vicarious 是去过那种感受 — 在那一刻你就在那个处境里，不只是在想象。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Sports stadiums are the world's largest factories of vicarious living. Sixty thousand people, none of them on the field, all of them tense, exhausted, exultant — for ninety minutes their muscles think they played.",
+        "zh": "体育场是世界上最大的'替代人生'工厂。六万人都不在场上，却都在紧张、疲惫、狂喜 — 那九十分钟里，他们的肌肉以为自己也在踢球。"
+      }
+    },
+    {
+      "word": "Euphemism",
+      "phonetic": "YOO'-fa-miz-am",
+      "chinese": "委婉语",
+      "definition": {
+        "en": "A softer word for a harder truth — 'passed away' for 'died,' 'between jobs' for 'fired,' 'restructuring' for 'layoffs.' Sometimes a kindness. Sometimes a hiding place.",
+        "zh": "用更轻柔的词代替更难说的事实 — '走了'代替'死'，'间歇期'代替'被开除'，'结构调整'代替'裁员'。有时是善意，有时是藏身处。"
+      },
+      "etymology": {
+        "root": "eu + pheme",
+        "meaning": "good speech",
+        "meaningZh": "好的言语",
+        "en": "From Greek eu- (good) + pheme (speech, from phanai 'to speak'). Literally 'good-speaking' — naming a hard thing in a way that doesn't bruise. Same eu- in 'eulogy,' 'euphoria,' and 'euphony.' Same phanai in 'prophet' and 'blasphemy.'",
+        "zh": "希腊 eu-（好）+ pheme（言，来自 phanai '说'）。字面是'说得好' — 用一种不会伤人的方式给难事命名。同一个 eu- 出现在 eulogy（颂词）、euphoria（极度愉悦）、euphony（悦耳）里。同一个 phanai 出现在 prophet（先知）、blasphemy（亵渎）里。",
+        "relatives": [
+          {
+            "word": "eulogy",
+            "zh": "颂词、悼词（'好话'）"
+          },
+          {
+            "word": "euphoria",
+            "zh": "极度愉悦"
+          },
+          {
+            "word": "prophet",
+            "zh": "先知（'代神说话'）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The 'realignment' was a euphemism for layoffs — and everyone knew it the moment the email arrived.",
+          "zh": "'人员重排'是裁员的委婉说法 — 邮件一来，所有人都立刻明白。"
+        },
+        {
+          "context": "social",
+          "en": "A good euphemism softens a sentence. A bad one hides the speaker from their own meaning.",
+          "zh": "好的委婉语让一句话变软。坏的委婉语，让说话者从自己说的意思里躲开。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "委婉",
+      "tint": "8aa68a",
+      "mnemonic": {
+        "en": "Eu + Pheme = GOOD-SPEAKING. A euphemism is the word chosen because the true one would hurt.",
+        "zh": "Eu + Pheme = 好好说。委婉语就是因为'真正的那个词会让人疼'而被选中的词。"
+      },
+      "commonConfusions": [
+        "understatement",
+        "metaphor",
+        "circumlocution"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "When is a euphemism kindness, and when is it cowardice?",
+            "zh": "委婉语什么时候是善意，什么时候是怯懦？"
+          },
+          "answer": {
+            "en": "Kindness when the listener already knows the truth and needs a gentler envelope. Cowardice when the speaker uses it to avoid feeling what they're really saying.",
+            "zh": "当听者已经知道真相、只需要一个温柔的信封 — 这时是善意。当说者用它来躲避'我说的意思真正是什么'的那个感觉 — 这时是怯懦。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "George Orwell wrote that euphemisms are 'the defense of the indefensible' — bombing villages becomes 'pacification,' starving people becomes 'transfer of population.' The most dangerous euphemisms aren't social. They're the political ones that let everyone keep eating dinner.",
+        "zh": "乔治·奥威尔曾写道，委婉语是'为无法辩护之事辩护' — 轰炸村庄变成'绥靖'，让人挨饿变成'人口迁移'。最危险的委婉语不是社交场合的那些 — 是让所有人还能继续吃晚饭的那些政治委婉语。"
+      }
+    },
+    {
+      "word": "Clandestine",
+      "phonetic": "klan-DES'-tin",
+      "chinese": "秘密的、私下的",
+      "definition": {
+        "en": "Kept secret, especially because the activity wouldn't be approved of — clandestine meetings, clandestine love affairs, clandestine operations.",
+        "zh": "保密的 — 尤其因为这件事拿出来不会被认可：秘密会面、地下恋情、秘密行动。"
+      },
+      "etymology": {
+        "root": "clam",
+        "meaning": "secretly",
+        "meaningZh": "暗中、悄悄地",
+        "en": "From Latin clandestinus, from clam (secretly). Small root, but you can almost hear the 'shh' inside the word — clam, clandestine. Adjacent roots: celare (to hide, gives 'conceal'), occultus (hidden, gives 'occult').",
+        "zh": "拉丁 clandestinus，来自 clam（暗中）。词根不大，但你几乎能听到这个词里的'嘘' — clam, clandestine。临近的词根：celare（藏，给我们 conceal），occultus（隐蔽的，给我们 occult）。",
+        "relatives": [
+          {
+            "word": "conceal",
+            "zh": "隐藏（celare 根）"
+          },
+          {
+            "word": "occult",
+            "zh": "隐秘的、玄学的（occultus 根）"
+          },
+          {
+            "word": "covert",
+            "zh": "隐蔽的（同义概念）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He'd been holding clandestine job interviews for months — his sudden resignation surprised no one who'd been paying attention.",
+          "zh": "他暗中面试了几个月 — 突然提离职，对真正在留心的人来说一点都不意外。"
+        },
+        {
+          "context": "social",
+          "en": "Most clandestine things eventually emerge. The question is who you've become by the time they do.",
+          "zh": "大多数秘密最终都会浮出水面。问题是 — 等它浮出来时，你已经变成什么样的人。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "暗中",
+      "tint": "4f5566",
+      "mnemonic": {
+        "en": "Clam = SECRETLY. The hush is inside the word. Hear it.",
+        "zh": "Clam = 暗中。'嘘'就藏在这个词里 — 听它。"
+      },
+      "commonConfusions": [
+        "secret",
+        "covert",
+        "surreptitious"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Covert and clandestine are close. What's the difference?",
+            "zh": "Covert 和 clandestine 接近。区别在哪？"
+          },
+          "answer": {
+            "en": "Covert = hidden from view, but possibly authorized (covert ops, covert surveillance). Clandestine = hidden because it WOULDN'T be authorized. One avoids being seen; the other avoids being judged.",
+            "zh": "Covert = 不被看见，但可能是被授权的（秘密行动、隐蔽监控）。Clandestine = 因为不会被认可才隐藏。一个是避免被看见，一个是避免被审判。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Resistance fighters in occupied Europe operated clandestine printing presses — newsletters typed at night, hidden in flour sacks, passed at markets. The word 'clandestine' carries that weight: not just secret, but secret because the truth is dangerous to whoever holds power.",
+        "zh": "二战占领时期的欧洲，抵抗者运作着秘密印刷机 — 夜里打字、藏在面粉袋里、在市场上传递。'Clandestine' 这个词带着这种重量：不只是秘密，是因为真相对当权者危险而必须秘密。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Euphemism and clandestine both involve concealment. But one hides the meaning. The other hides the act.",
+      "zh": "委婉语和秘密都涉及隐藏。但一个藏的是意思，一个藏的是行为。"
+    },
+    "leftLabel": "Euphemism",
+    "leftLine": {
+      "en": "Hides the truth in a softer word.",
+      "zh": "把真相藏在更柔软的词里。"
+    },
+    "leftMnemonic": {
+      "en": "Eu + Pheme = GOOD-SPEAKING · the gentle envelope.",
+      "zh": "Eu + Pheme = 好好说 · 那个温柔的信封。"
+    },
+    "rightLabel": "Clandestine",
+    "rightLine": {
+      "en": "Hides the act under cover of night.",
+      "zh": "把行为藏在夜色里。"
+    },
+    "rightMnemonic": {
+      "en": "Clam = SECRETLY · the deed nobody is supposed to see.",
+      "zh": "Clam = 暗中 · 不该被看见的那件事。"
+    },
+    "closing": {
+      "en": "One protects the listener. The other protects the doer.",
+      "zh": "一个保护听者。另一个保护做事的人。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Indirectness is woven into adult life — through others' wins, around hard truths, sometimes under cover. The skill is knowing which kind you're using, and why.",
+      "zh": "成年人的生活里到处是'间接' — 借由他人的胜利、绕过难讲的真相、有时藏在暗处。功夫在于：分清自己用的是哪一种，为什么。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/vicarious-euphemism-clandestine/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/vicarious-euphemism-clandestine/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/vicarious-euphemism-clandestine/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/vicarious-euphemism-clandestine/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/vicarious-euphemism-clandestine/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/vicarious-euphemism-clandestine/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/vicarious-euphemism-clandestine/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/vicarious-euphemism-clandestine/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/vicarious-euphemism-clandestine/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/vicarious-euphemism-clandestine/twist.left.wav",
+    "twist.right": "audio/vocab/vicarious-euphemism-clandestine/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/vicarious-euphemism-clandestine/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/vicarious-euphemism-clandestine/hook.headline.wav",
+    "word.0.definition": "audio/vocab/vicarious-euphemism-clandestine/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/vicarious-euphemism-clandestine/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/vicarious-euphemism-clandestine/word.2.definition.wav",
+    "twist.setup": "audio/vocab/vicarious-euphemism-clandestine/twist.setup.wav",
+    "twist.closing": "audio/vocab/vicarious-euphemism-clandestine/twist.closing.wav",
+    "recap.reflection": "audio/vocab/vicarious-euphemism-clandestine/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 14,
+    "session": 40,
+    "pages": [
+      401,
+      435
+    ],
+    "theme": "Common Phenomena",
+    "subtheme": "Three indirect ways — lived-through, softened, hidden"
+  },
+  "tags": [
+    "common-phenomena",
+    "indirection",
+    "ch14",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "vicar",
+      "zh": "代理牧师",
+      "root": "vicis",
+      "partOfSpeech": "n.",
+      "phonetic": "VIK'-ar",
+      "gloss": {
+        "en": "A substitute priest — directly from vicarius. Literally 'one who stands in for another.'",
+        "zh": "代理牧师 — 直接来自 vicarius。字面是'替别人站着的人'。"
+      },
+      "usage": {
+        "en": "Most village vicars in old English novels know everyone's secrets — being a substitute for God turns out to be a job that involves a lot of listening.",
+        "zh": "英国旧小说里大多数村庄的牧师都知道每个人的秘密 — '代替神'的工作，其实主要是'听'。"
+      }
+    },
+    {
+      "word": "vicissitude",
+      "zh": "变迁、起伏",
+      "root": "vicis",
+      "partOfSpeech": "n.",
+      "phonetic": "vi-SIS'-i-tood",
+      "gloss": {
+        "en": "A change of fortune — directly from vicis (turn). Usually plural: 'the vicissitudes of life.'",
+        "zh": "命运的变迁 — 直接来自 vicis（轮替）。常用复数：'人生的起起伏伏'。"
+      },
+      "usage": {
+        "en": "Through every vicissitude, what matters is who you stayed yourself with.",
+        "zh": "穿过所有的起伏，重要的是 — 在谁面前，你一直是你自己。"
+      }
+    },
+    {
+      "word": "vice versa",
+      "zh": "反之亦然",
+      "root": "vicis",
+      "partOfSpeech": "adv.",
+      "phonetic": "VI'-sa VUR'-sa",
+      "gloss": {
+        "en": "Literally 'the turn having been reversed' — vice (turn) + versa (turned). The reverse is also true.",
+        "zh": "字面是'轮次反过来' — vice（轮）+ versa（被转）。反过来也成立。"
+      },
+      "usage": {
+        "en": "We assume our friends owe us what we do for them — and vice versa. Both halves are often wrong.",
+        "zh": "我们假设朋友欠我们和我们为他们做的等量的事 — 反之亦然。两边常常都不对。"
+      }
+    },
+    {
+      "word": "eulogy",
+      "zh": "颂词、悼词",
+      "root": "eu",
+      "partOfSpeech": "n.",
+      "phonetic": "YOO'-la-jee",
+      "gloss": {
+        "en": "Literally 'good words' — eu- (good) + logos (word). A speech of praise, usually for someone who has died.",
+        "zh": "字面是'好话' — eu-（好）+ logos（言）。一段称赞的话，通常是为去世的人。"
+      },
+      "usage": {
+        "en": "Try writing your own eulogy as an exercise — it's the cleanest way to see what you've been calling important.",
+        "zh": "试着自己写自己的悼词作为练习 — 那是最干净的方式，看清你这些年一直把什么称作'重要的'。"
+      }
+    },
+    {
+      "word": "euphoria",
+      "zh": "极度愉悦",
+      "root": "eu",
+      "partOfSpeech": "n.",
+      "phonetic": "yoo-FOR'-ee-a",
+      "gloss": {
+        "en": "Intense happiness — eu- (good) + pherein (to bear). Literally 'carrying well' — a state of feeling lifted.",
+        "zh": "极度愉悦 — eu-（好）+ pherein（载、承）。字面是'载得很好' — 一种被托起的感觉。"
+      },
+      "usage": {
+        "en": "Euphoria is rarely a good guide to decisions — borrow paper from the calmer version of yourself.",
+        "zh": "极度愉悦的状态里别做决定 — 找你自己更冷静的那个版本借一张纸。"
+      }
+    },
+    {
+      "word": "euphony",
+      "zh": "悦耳",
+      "root": "eu",
+      "partOfSpeech": "n.",
+      "phonetic": "YOO'-fa-nee",
+      "gloss": {
+        "en": "Pleasing sound — eu- (good) + phone (sound). The opposite of cacophony.",
+        "zh": "好听的声音 — eu-（好）+ phone（声）。Cacophony（嘈杂）的反面。"
+      },
+      "usage": {
+        "en": "Some words have euphony you can hear without knowing the meaning — 'cellar door' is the classic English example.",
+        "zh": "有些词的好听不需要懂意思就能听见 — 英文里经典的例子是 'cellar door'（地窖门）。"
+      }
+    },
+    {
+      "word": "prophet",
+      "zh": "先知",
+      "root": "pheme",
+      "partOfSpeech": "n.",
+      "phonetic": "PROF'-it",
+      "gloss": {
+        "en": "Literally 'one who speaks for (a god)' — pro- (for) + phanai (to speak). Same root as 'euphemism.'",
+        "zh": "字面是'替（神）说话的人' — pro-（替）+ phanai（说）。和 euphemism 同根。"
+      },
+      "usage": {
+        "en": "Most prophets get their message wrong about timing — and right about direction. The detail history forgets.",
+        "zh": "大多数先知，时间预测都错了 — 方向预测都对。这是历史会忘的细节。"
+      }
+    },
+    {
+      "word": "blasphemy",
+      "zh": "亵渎、不敬",
+      "root": "pheme",
+      "partOfSpeech": "n.",
+      "phonetic": "BLAS'-fa-mee",
+      "gloss": {
+        "en": "Bad speech, especially against the sacred — blaptein (to injure) + pheme (speech). The dark twin of euphemism — bad speech vs. good.",
+        "zh": "坏话，尤其是对神圣事物的不敬 — blaptein（伤害）+ pheme（言）。是 euphemism 的暗面孪生 — 坏话对好话。"
+      },
+      "usage": {
+        "en": "What counts as blasphemy varies by century — but it always reveals what a society holds most sacred.",
+        "zh": "什么算亵渎，每个世纪都不一样 — 但它总是揭露出一个社会最不能动的是什么。"
+      }
+    },
+    {
+      "word": "conceal",
+      "zh": "隐藏",
+      "root": "celare",
+      "partOfSpeech": "v.",
+      "phonetic": "kan-SEEL'",
+      "gloss": {
+        "en": "To hide — con- (intensive) + celare (to hide). Same celare in 'cellar' (the hidden room below).",
+        "zh": "藏起来 — con-（加强）+ celare（藏）。同一个 celare 出现在 cellar（地下室，'藏的房间'）里。"
+      },
+      "usage": {
+        "en": "What we conceal becomes louder over time — secrets get heavier the longer you carry them.",
+        "zh": "我们藏的东西，时间越久越响 — 秘密拿得越久越重。"
+      },
+      "rootMeaning": "to hide (Latin)",
+      "rootMeaningZh": "藏（拉丁）",
+      "rootTint": "5a5566"
+    },
+    {
+      "word": "occult",
+      "zh": "玄秘的、神秘学",
+      "root": "occultus",
+      "partOfSpeech": "adj./n.",
+      "phonetic": "a-KULT'",
+      "gloss": {
+        "en": "Hidden from ordinary view — from Latin occultus. Now used for mystical, esoteric, or hidden knowledge.",
+        "zh": "对常人隐藏 — 来自拉丁 occultus。现在指神秘、深奥、或隐蔽的知识。"
+      },
+      "usage": {
+        "en": "The occult fascinates partly because it promises that the world has hidden meaning waiting for the right reader.",
+        "zh": "玄秘之所以让人着迷，一部分是它承诺：世界有隐藏的意义，等着对的读者来读。"
+      },
+      "rootMeaning": "hidden (Latin)",
+      "rootMeaningZh": "隐蔽的（拉丁）",
+      "rootTint": "5a4f6a"
+    },
+    {
+      "word": "secret",
+      "zh": "秘密",
+      "root": "secernere",
+      "partOfSpeech": "n./adj.",
+      "phonetic": "SEE'-krit",
+      "gloss": {
+        "en": "Something set apart from common knowledge — from Latin secretus, past participle of secernere (to separate). Same root family as 'discern' and 'discriminate.'",
+        "zh": "从大众认知中分离出来的东西 — 来自拉丁 secretus，secernere（分开）的过去分词。和 discern（辨别）、discriminate（区分）同族。"
+      },
+      "usage": {
+        "en": "A secret is a piece of you set apart — every one you keep changes the shape of who's allowed to know you.",
+        "zh": "秘密是你自身被分开放置的一部分 — 你保留的每一个，都改变了'谁被允许了解你'的形状。"
+      },
+      "rootMeaning": "to set apart (Latin)",
+      "rootMeaningZh": "分开放置（拉丁）",
+      "rootTint": "555a6a"
+    },
+    {
+      "word": "surreptitious",
+      "zh": "鬼鬼祟祟的、偷偷的",
+      "root": "surripere",
+      "partOfSpeech": "adj.",
+      "phonetic": "sur'-ap-TISH'-as",
+      "gloss": {
+        "en": "Done by stealth — sub- (under) + rapere (to snatch). Literally 'snatched from underneath.' Same rapere in 'rapture' and 'rapid.'",
+        "zh": "偷偷做的 — sub-（在下）+ rapere（夺）。字面是'从下面夺走'。同一个 rapere 出现在 rapture（狂喜，'被夺走'）、rapid（迅速）里。"
+      },
+      "usage": {
+        "en": "A surreptitious glance carries more information than a long stare — the eye tells what the rules don't allow.",
+        "zh": "一瞥比久视传递的信息更多 — 眼睛说出了规则不让说的话。"
+      },
+      "rootMeaning": "to snatch secretly (Latin)",
+      "rootMeaningZh": "偷偷拿走（拉丁）",
+      "rootTint": "6a5a5a"
+    }
+  ]
+}

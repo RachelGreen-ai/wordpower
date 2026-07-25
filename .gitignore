@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Python TTS environment — regenerated locally by authoring/tts/setup.sh
+.venv/
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+dist-ssr/
+*.tsbuildinfo
+
+# Local / editor
+*.local
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Secrets
+.env
+.env.*
+!.env.example

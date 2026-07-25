@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "SF Pro Display", "PingFang SC", "Helvetica Neue", system-ui, sans-serif;
+  --font-serif: "Charter", "Iowan Old Style", "Georgia", "Times New Roman", "Songti SC", serif;
+  --color-ink: #1a1d27;
+  --color-ink-muted: #4a5165;
+  --color-ink-soft: #8b92a8;
+  --color-paper: #fbfaf7;
+  --color-paper-warm: #f3efe6;
+  --color-accent: #c89b3c;
+  --color-accent-soft: #e8d39a;
+  --color-egoist: #d4884e;
+  --color-egotist: #c85454;
+  --color-altruist: #5fa178;
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-display);
+  line-height: 1.5;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+}

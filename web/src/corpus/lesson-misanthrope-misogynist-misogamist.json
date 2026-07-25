@@ -1,0 +1,610 @@
+{
+  "lessonId": "misanthrope-misogynist-misogamist",
+  "hook": {
+    "headline": {
+      "en": "Three words for refusal — and what each one costs the refuser.",
+      "zh": "三个'拒绝'的词 — 以及每种拒绝让拒绝者付出的代价。"
+    },
+    "subtext": {
+      "en": "What you reject quietly shapes who you become.",
+      "zh": "你拒绝的东西，悄悄塑造你成为谁。"
+    }
+  },
+  "words": [
+    {
+      "word": "Misanthrope",
+      "phonetic": "MIS'-an-throp'",
+      "chinese": "厌世者",
+      "definition": {
+        "en": "A person who has lost faith in humanity — and lives behind walls because of it.",
+        "zh": "对人类失去信任的人 — 因此把自己关在墙后。"
+      },
+      "etymology": {
+        "root": "anthropo",
+        "meaning": "human",
+        "meaningZh": "人",
+        "en": "From Greek mis (hate) + anthropos (human). Hater of humanity.",
+        "zh": "希腊词根 mis（恨）+ anthropos（人）= 恨整个人类的人。",
+        "relatives": [
+          {
+            "word": "philanthropist",
+            "zh": "慈善家 (爱人类者)"
+          },
+          {
+            "word": "anthropology",
+            "zh": "人类学"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "He's not shy. He's a misanthrope — he genuinely prefers an empty room to any conversation.",
+          "zh": "他不是害羞，是厌世者 — 他真心觉得空房间比任何对话都好。"
+        },
+        {
+          "context": "workplace",
+          "en": "Years of bad office politics turned him into a quiet misanthrope — competent, but trusting no one.",
+          "zh": "多年职场尔虞我诈把他变成了安静的厌世者 — 工作能力还在，只是不再相信任何人。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "孤绝",
+      "tint": "5a6378",
+      "mnemonic": {
+        "en": "MIS + ANTHROPE = hate + human. Hating the whole species.",
+        "zh": "mis 是'恨'，anthrope 是'人' — 恨整个人类。"
+      },
+      "commonConfusions": [
+        "introvert",
+        "cynic"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Is a misanthrope the same as an introvert?",
+            "zh": "厌世者就是内向者吗？"
+          },
+          "answer": {
+            "en": "No. Introvert refills in solitude but likes people. Misanthrope distrusts people — solitude is refuge, not recharge.",
+            "zh": "不是。内向者爱独处充电，但喜欢人；厌世者不信任人 — 独处是避难，不是充电。"
+          }
+        },
+        {
+          "question": {
+            "en": "What's the difference between a cynic and a misanthrope?",
+            "zh": "愤世嫉俗者和厌世者的区别是什么？"
+          },
+          "answer": {
+            "en": "A cynic doubts motives. A misanthrope has stopped caring to investigate — the verdict is in.",
+            "zh": "愤世嫉俗者怀疑动机；厌世者已经懒得再查 — 判决早就下了。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The famously sour neighbor whose front curtains haven't been opened in years — not depressed, just done with humans.",
+        "zh": "那个出了名脾气古怪的邻居 — 客厅窗帘几年没拉开过。他不是抑郁，只是和人类彻底告别了。"
+      }
+    },
+    {
+      "word": "Misogynist",
+      "phonetic": "mi-SOJ'-i-nist",
+      "chinese": "厌女者",
+      "definition": {
+        "en": "A man whose distrust hardens into contempt for women — and whose life shrinks around it.",
+        "zh": "对女性的不信任硬化成轻蔑的男人 — 他的世界也因此缩小。"
+      },
+      "etymology": {
+        "root": "gyn",
+        "meaning": "woman",
+        "meaningZh": "女性",
+        "en": "From Greek mis (hate) + gyne (woman). Hater of women.",
+        "zh": "希腊词根 mis（恨）+ gyne（女性）= 厌恶女性的人。",
+        "relatives": [
+          {
+            "word": "gynecology",
+            "zh": "妇科"
+          },
+          {
+            "word": "androgynous",
+            "zh": "雌雄同体的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He swore he wasn't a misogynist — then spent the entire meeting talking over every woman in the room.",
+          "zh": "他发誓自己不是厌女者 — 然后整场会议他打断了每一位发言的女性。"
+        },
+        {
+          "context": "parenting",
+          "en": "A misogynist father teaches his daughter to make herself smaller — and never has to say the word.",
+          "zh": "厌女的父亲教女儿让自己变小 — 而他从不说出这个词。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "偏执",
+      "tint": "8a4a4a",
+      "mnemonic": {
+        "en": "MIS + GYN = hate + woman. Hatred narrowed to half the species.",
+        "zh": "mis 是'恨'，gyn 是'女性' — 把恨缩小到一半人类身上。"
+      },
+      "commonConfusions": [
+        "chauvinist",
+        "sexist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "What does misogyny cost the misogynist himself?",
+            "zh": "厌女让厌女者自己付出什么？"
+          },
+          "answer": {
+            "en": "Half the world's friendships, half the mentors, half the wisdom — and the ability to love any woman fully.",
+            "zh": "一半的友谊，一半的良师，一半的智慧 — 以及全心爱任何女性的能力。"
+          }
+        },
+        {
+          "question": {
+            "en": "How do you spot misogyny in someone who insists they 'respect women'?",
+            "zh": "如何识别那种嘴上'尊重女性'实则厌女的人？"
+          },
+          "answer": {
+            "en": "Look at the pattern, not the claim. No female friends. No female mentors. No female heroes. The pattern is the diagnosis.",
+            "zh": "看模式，不看声明。没有女性朋友，没有女性导师，没有女性英雄。模式本身就是答案。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The man who keeps insisting he 'respects women' — while having no female friends, no female mentors, and no female heroes on his bookshelf. The absence is the answer.",
+        "zh": "那种一直强调'我尊重女性'的男人 — 却没有女性朋友、女性导师，书架上也没有女性英雄。这种缺席，就是答案。"
+      }
+    },
+    {
+      "word": "Misogamist",
+      "phonetic": "mi-SOG'-i-mist",
+      "chinese": "厌婚者",
+      "definition": {
+        "en": "A person who categorically refuses marriage — not against any partner, but against the institution itself.",
+        "zh": "拒绝婚姻的人 — 不反对某位伴侣，反对的是婚姻这件事本身。"
+      },
+      "etymology": {
+        "root": "gam",
+        "meaning": "marriage",
+        "meaningZh": "婚姻",
+        "en": "From Greek mis (hate) + gamos (marriage). Hater of marriage.",
+        "zh": "希腊词根 mis（恨）+ gamos（婚姻）= 拒绝婚姻的人。",
+        "relatives": [
+          {
+            "word": "monogamy",
+            "zh": "一夫一妻制"
+          },
+          {
+            "word": "polygamy",
+            "zh": "一夫多妻 / 一妻多夫"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "friends",
+          "en": "He's not commitment-phobic — he's a misogamist. The institution itself offends him.",
+          "zh": "他不是恐惧承诺 — 他是厌婚者。婚姻这种制度本身让他不适。"
+        },
+        {
+          "context": "social",
+          "en": "Some misogamists are happily partnered for life — they just refuse the paperwork.",
+          "zh": "有些厌婚者其实和伴侣一生幸福 — 他们只是拒绝那一纸证书。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "回避",
+      "tint": "9a7a4a",
+      "mnemonic": {
+        "en": "MIS + GAM = hate + marriage. Refusing the institution, not the people.",
+        "zh": "mis 是'恨'，gam 是'婚姻' — 拒绝的是制度，不是人。"
+      },
+      "commonConfusions": [
+        "bachelor",
+        "commitment-phobe"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "How is a misogamist different from someone who hasn't married yet?",
+            "zh": "厌婚者和'还没结婚的人'有什么不同？"
+          },
+          "answer": {
+            "en": "Position. A misogamist refuses marriage on principle. An unmarried person just hasn't met the right partner.",
+            "zh": "立场。厌婚者出于原则拒绝婚姻；还没结婚的人，只是没遇到合适的伴侣。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why might a misogamist still be in a deeply committed long-term relationship?",
+            "zh": "厌婚者为什么仍可能在一段深度承诺的长期关系中？"
+          },
+          "answer": {
+            "en": "Their refusal is structural, not emotional. They love their partner — they just don't believe the state should be a witness.",
+            "zh": "他们拒绝的是制度，不是感情。他们爱伴侣 — 只是不认为国家需要做见证人。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The 60-year-old couple who've been together 35 years and never married — not by accident, on principle.",
+        "zh": "那对在一起 35 年、从未结婚的 60 岁伴侣 — 不是偶然，是原则。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "All three start the same way — with a refusal.",
+      "zh": "三个词都从同一处开始 — 一种拒绝。"
+    },
+    "leftLabel": "Misanthrope",
+    "leftLine": {
+      "en": "refuses humanity",
+      "zh": "拒绝人类"
+    },
+    "leftMnemonic": {
+      "en": "anthropo = human · the widest refusal",
+      "zh": "anthropo = 人 · 最广的拒绝"
+    },
+    "rightLabel": "Misogynist",
+    "rightLine": {
+      "en": "refuses half of it",
+      "zh": "拒绝其中一半"
+    },
+    "rightMnemonic": {
+      "en": "gyn = woman · the cruelest refusal",
+      "zh": "gyn = 女性 · 最残忍的拒绝"
+    },
+    "closing": {
+      "en": "Every refusal is also a shape we choose to live inside.",
+      "zh": "每一种拒绝，也是我们选择活进去的一个形状。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "We become what we make distance from.",
+      "zh": "我们与什么保持距离，就慢慢变成什么。"
+    }
+  },
+  "audio": {
+    "hook.headline": "audio/vocab/misanthrope-misogynist-misogamist/hook.headline.wav",
+    "word.0.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/word.0.pronunciation.wav",
+    "word.0.definition": "audio/vocab/misanthrope-misogynist-misogamist/word.0.definition.wav",
+    "word.0.etymology": "audio/vocab/misanthrope-misogynist-misogamist/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/misanthrope-misogynist-misogamist/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/misanthrope-misogynist-misogamist/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/word.1.pronunciation.wav",
+    "word.1.definition": "audio/vocab/misanthrope-misogynist-misogamist/word.1.definition.wav",
+    "word.1.etymology": "audio/vocab/misanthrope-misogynist-misogamist/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/misanthrope-misogynist-misogamist/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/misanthrope-misogynist-misogamist/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/word.2.pronunciation.wav",
+    "word.2.definition": "audio/vocab/misanthrope-misogynist-misogamist/word.2.definition.wav",
+    "word.2.etymology": "audio/vocab/misanthrope-misogynist-misogamist/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/misanthrope-misogynist-misogamist/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/misanthrope-misogynist-misogamist/word.2.sentence.1.wav",
+    "twist.setup": "audio/vocab/misanthrope-misogynist-misogamist/twist.setup.wav",
+    "twist.left": "audio/vocab/misanthrope-misogynist-misogamist/twist.left.wav",
+    "twist.right": "audio/vocab/misanthrope-misogynist-misogamist/twist.right.wav",
+    "twist.closing": "audio/vocab/misanthrope-misogynist-misogamist/twist.closing.wav",
+    "recap.reflection": "audio/vocab/misanthrope-misogynist-misogamist/recap.reflection.wav",
+    "expansion.0.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.11.pronunciation.wav",
+    "expansion.12.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.12.pronunciation.wav",
+    "expansion.13.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.13.pronunciation.wav",
+    "expansion.14.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.14.pronunciation.wav",
+    "expansion.15.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.15.pronunciation.wav",
+    "expansion.16.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.16.pronunciation.wav",
+    "expansion.17.pronunciation": "audio/vocab/misanthrope-misogynist-misogamist/expansion.17.pronunciation.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 3,
+    "session": 1,
+    "pages": [
+      56,
+      75
+    ],
+    "theme": "Personality Types",
+    "subtheme": "Refusals"
+  },
+  "tags": [
+    "personality",
+    "refusal",
+    "miso-prefix",
+    "ch3",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "philanthropist",
+      "zh": "慈善家 / 爱人类者",
+      "root": "anthropo",
+      "partOfSpeech": "n.",
+      "phonetic": "fil-AN'-thruh-pist",
+      "gloss": {
+        "en": "A lover of humanity — literally the opposite of misanthrope.",
+        "zh": "爱人类的人 — 厌世者的字面反面。"
+      },
+      "usage": {
+        "en": "She left the law firm to become a full-time philanthropist, funding schools in three countries.",
+        "zh": "她离开了律所，全职做慈善 — 在三个国家资助学校。"
+      }
+    },
+    {
+      "word": "anthropology",
+      "zh": "人类学",
+      "root": "anthropo",
+      "partOfSpeech": "n.",
+      "phonetic": "an-thro-POL'-uh-jee",
+      "gloss": {
+        "en": "The study of humans — their cultures, beliefs, and origins.",
+        "zh": "研究人类的学科 — 他们的文化、信仰与起源。"
+      },
+      "usage": {
+        "en": "Her undergraduate degree in anthropology turned out to be the best training for product research.",
+        "zh": "她本科学的人类学，反而成了做产品调研最好的训练。"
+      }
+    },
+    {
+      "word": "anthropomorphic",
+      "zh": "拟人化的",
+      "root": "anthropo",
+      "partOfSpeech": "adj.",
+      "phonetic": "an-thro-puh-MOR'-fik",
+      "gloss": {
+        "en": "Having human form or qualities — applied to animals, gods, or objects.",
+        "zh": "具有人类形态或特质 — 用于动物、神灵或物件。"
+      },
+      "usage": {
+        "en": "Pixar's success comes from anthropomorphic toys, fish, and emotions that we can't help loving.",
+        "zh": "皮克斯的成功，就在于那些被拟人化的玩具、鱼，甚至情绪 — 让人不爱都难。"
+      }
+    },
+    {
+      "word": "misanthropy",
+      "zh": "厌世",
+      "root": "anthropo",
+      "partOfSpeech": "n.",
+      "phonetic": "mis-AN'-thruh-pee",
+      "gloss": {
+        "en": "The noun form — the trait or state of being a misanthrope.",
+        "zh": "厌世者的名词形式 — 厌恶人类这种状态。"
+      },
+      "usage": {
+        "en": "His misanthropy didn't appear overnight; it grew quietly through twenty years of small betrayals.",
+        "zh": "他的厌世不是一夜之间出现的 — 是在二十年大大小小的背叛中慢慢长出来的。"
+      }
+    },
+    {
+      "word": "gynecology",
+      "zh": "妇科 / 妇产科",
+      "root": "gyn",
+      "partOfSpeech": "n.",
+      "phonetic": "guy-nuh-KOL'-uh-jee",
+      "gloss": {
+        "en": "The branch of medicine devoted to women's health.",
+        "zh": "专门研究女性健康的医学分支。"
+      },
+      "usage": {
+        "en": "After a decade in cardiology, she pivoted to gynecology to focus on women's preventive care.",
+        "zh": "在心脏病学领域工作十年后，她转向妇科，专注女性预防医学。"
+      }
+    },
+    {
+      "word": "androgynous",
+      "zh": "雌雄同体的 / 中性的",
+      "root": "gyn",
+      "partOfSpeech": "adj.",
+      "phonetic": "an-DROJ'-uh-nus",
+      "gloss": {
+        "en": "Having both masculine and feminine qualities — andro (man) + gyn (woman).",
+        "zh": "兼具男性与女性特质 — andro（男）+ gyn（女）。"
+      },
+      "usage": {
+        "en": "David Bowie's androgynous style in the 70s gave a generation permission to play with identity.",
+        "zh": "David Bowie 在 70 年代的中性风格，给了一代人玩转身份的许可。"
+      }
+    },
+    {
+      "word": "monogamy",
+      "zh": "一夫一妻制",
+      "root": "gam",
+      "partOfSpeech": "n.",
+      "phonetic": "muh-NOG'-uh-mee",
+      "gloss": {
+        "en": "Being married — or partnered — to one person at a time. Mono (one) + gam (marriage).",
+        "zh": "同一时间只与一人结婚或在一起 — mono（一）+ gam（婚姻）。"
+      },
+      "usage": {
+        "en": "They've practiced quiet monogamy for thirty years — no fanfare, just two people choosing each other every day.",
+        "zh": "他们安静地相守三十年 — 不张扬，只是两个人每天都选择对方。"
+      }
+    },
+    {
+      "word": "polygamy",
+      "zh": "一夫多妻 / 一妻多夫制",
+      "root": "gam",
+      "partOfSpeech": "n.",
+      "phonetic": "puh-LIG'-uh-mee",
+      "gloss": {
+        "en": "Being married to more than one spouse at a time. Poly (many) + gam (marriage).",
+        "zh": "同时拥有多名配偶 — poly（多）+ gam（婚姻）。"
+      },
+      "usage": {
+        "en": "Polygamy is legal in some countries and a felony in others — a sharp window into how cultures define family.",
+        "zh": "一夫多妻在一些国家合法，在另一些是重罪 — 这是一面锋利的镜子，照出文化怎样定义家庭。"
+      }
+    },
+    {
+      "word": "bigamy",
+      "zh": "重婚罪",
+      "root": "gam",
+      "partOfSpeech": "n.",
+      "phonetic": "BIG'-uh-mee",
+      "gloss": {
+        "en": "Illegally being married to two people at once. Bi (two) + gam (marriage).",
+        "zh": "同时与两人合法结婚的违法行为 — bi（二）+ gam（婚姻）。"
+      },
+      "usage": {
+        "en": "He was charged with bigamy when his second wife discovered the first family two states over.",
+        "zh": "他被起诉重婚 — 因为他的第二任妻子发现他在另一个州还有一个家。"
+      }
+    },
+    {
+      "word": "endogamy",
+      "zh": "族内婚 / 同群体内通婚",
+      "root": "gam",
+      "partOfSpeech": "n.",
+      "phonetic": "en-DOG'-uh-mee",
+      "gloss": {
+        "en": "Marrying within one's own group — clan, religion, caste, or class. Endo (within) + gam (marriage).",
+        "zh": "在自己的群体内结婚 — 同族、同宗教、同种姓、同阶层。endo（内）+ gam（婚姻）。"
+      },
+      "usage": {
+        "en": "The village's tradition of endogamy meant most marriages stayed within ten kilometers of where everyone was born.",
+        "zh": "那个村子的族内通婚传统，意味着大多数婚姻发生在每个人出生地方圆十公里内。"
+      }
+    },
+    {
+      "word": "philanthropy",
+      "zh": "慈善 / 博爱",
+      "root": "phil",
+      "partOfSpeech": "n.",
+      "phonetic": "fi-LAN'-thruh-pee",
+      "gloss": {
+        "en": "The love of humanity, expressed especially through giving — the antonym of misanthropy.",
+        "zh": "对人类的爱，尤其通过给予表达 — 厌世（misanthropy）的反义词。"
+      },
+      "usage": {
+        "en": "Her philanthropy isn't a tax strategy — she funds the same schools her mother attended, in person, every year.",
+        "zh": "她的慈善不是避税策略 — 每年亲自去资助母亲读过的那几所学校。"
+      },
+      "rootMeaning": "love",
+      "rootMeaningZh": "爱",
+      "rootTint": "9e6e8a"
+    },
+    {
+      "word": "philosophy",
+      "zh": "哲学",
+      "root": "phil",
+      "partOfSpeech": "n.",
+      "phonetic": "fi-LOS'-uh-fee",
+      "gloss": {
+        "en": "Love of wisdom — phil (love) + sophia (wisdom).",
+        "zh": "对智慧的爱 — phil（爱）+ sophia（智慧）。"
+      },
+      "usage": {
+        "en": "Most philosophy is just careful words around things you already half-knew but hadn't dared to say.",
+        "zh": "很多哲学，不过是给那些'你早隐约懂却不敢说出来'的事，认真找了个说法。"
+      }
+    },
+    {
+      "word": "philharmonic",
+      "zh": "爱乐的 / 交响乐的",
+      "root": "phil",
+      "partOfSpeech": "adj.",
+      "phonetic": "fil-har-MON'-ik",
+      "gloss": {
+        "en": "Loving harmony — used especially for symphony orchestras (Berlin Philharmonic, New York Philharmonic).",
+        "zh": "爱和谐 — 多用于交响乐团（柏林爱乐、纽约爱乐）。"
+      },
+      "usage": {
+        "en": "Even people who 'don't like classical music' tend to fall silent when a great philharmonic orchestra plays Mahler.",
+        "zh": "连说自己'不爱古典'的人，听到顶级爱乐乐团演奏马勒时，也会安静下来。"
+      }
+    },
+    {
+      "word": "misogyny",
+      "zh": "厌女（名词）",
+      "root": "gyn",
+      "partOfSpeech": "n.",
+      "phonetic": "mi-SOJ'-i-nee",
+      "gloss": {
+        "en": "The noun form of misogynist — the trait, the system, the attitude.",
+        "zh": "misogynist 的名词形式 — 一种特质、一种系统、一种态度。"
+      },
+      "usage": {
+        "en": "Casual misogyny is the kind that doesn't show up in surveys — but shows up in every meeting where one half of the room is interrupted twice as often.",
+        "zh": "日常的厌女不会出现在调查问卷里 — 但会出现在每场会议里，房间一半的人被打断的次数是另一半的两倍。"
+      }
+    },
+    {
+      "word": "exogamy",
+      "zh": "族外婚",
+      "root": "gam",
+      "partOfSpeech": "n.",
+      "phonetic": "ek-SOG'-uh-mee",
+      "gloss": {
+        "en": "Marrying OUTSIDE one's own group — exo (outside) + gam (marriage). The mirror of endogamy.",
+        "zh": "与本群体之外的人结婚 — exo（外）+ gam（婚姻）。endogamy 的镜像。"
+      },
+      "usage": {
+        "en": "Anthropologists found that many small societies require exogamy — to keep alliances alive and gene pools wide.",
+        "zh": "人类学家发现许多小型社会要求族外婚 — 既维持联盟，也保持基因多样性。"
+      }
+    },
+    {
+      "word": "bibliophile",
+      "zh": "爱书之人 / 藏书家",
+      "root": "phil",
+      "partOfSpeech": "n.",
+      "phonetic": "BIB'-lee-oh-fyle",
+      "gloss": {
+        "en": "A lover of books — biblio (book) + phile (lover of).",
+        "zh": "爱书的人 — biblio（书）+ phile（爱者）。"
+      },
+      "usage": {
+        "en": "His apartment was small but his shelves were vast — a true bibliophile's home, where books outnumbered the chairs ten to one.",
+        "zh": "他公寓不大，书架却铺天盖地 — 真正爱书人的家，书的数量是椅子的十倍。"
+      }
+    },
+    {
+      "word": "xenophile",
+      "zh": "喜爱外来事物的人",
+      "root": "phil",
+      "partOfSpeech": "n.",
+      "phonetic": "ZEN'-oh-fyle",
+      "gloss": {
+        "en": "A lover of foreigners or foreign things — xeno (stranger / foreign) + phile. The opposite of xenophobia.",
+        "zh": "喜爱外来事物或外乡人的人 — xeno（陌生 / 外来）+ phile。xenophobia 的反面。"
+      },
+      "usage": {
+        "en": "She was a quiet xenophile — every vacation took her further from home, and each one made her quieter.",
+        "zh": "她是个安静的'恋异者'— 每次旅行都离家更远，每次回来人也更安静。"
+      }
+    },
+    {
+      "word": "philately",
+      "zh": "集邮 / 集邮爱好",
+      "root": "phil",
+      "partOfSpeech": "n.",
+      "phonetic": "fi-LAT'-uh-lee",
+      "gloss": {
+        "en": "Stamp collecting — phil (love) + ateleia (Greek: tax-free, since stamps mean the recipient doesn't pay).",
+        "zh": "集邮 — phil（爱）+ ateleia（希腊语：免税，因为邮票代表收信人不必付钱）。"
+      },
+      "usage": {
+        "en": "Philately is half hobby, half time machine — every stamp is a small window into a country's vanished priorities.",
+        "zh": "集邮一半是兴趣，一半是时光机 — 每张邮票都是一个国家曾在意之事的小窗口。"
+      }
+    }
+  ]
+}

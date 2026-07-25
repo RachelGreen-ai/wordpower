@@ -1,0 +1,499 @@
+{
+  "lessonId": "convivial-magnanimous-urbane",
+  "hook": {
+    "headline": {
+      "en": "Three social virtues — warm, noble, polished.",
+      "zh": "三种社交上的好品质 — 温暖、慷慨、雅致。"
+    },
+    "subtext": {
+      "en": "Three different ways a person makes the room easier to be in.",
+      "zh": "三种不同的方式 — 让屋子里的人更容易松下来。"
+    }
+  },
+  "words": [
+    {
+      "word": "Convivial",
+      "phonetic": "kan-VIV'-ee-al",
+      "chinese": "好客的、热情友好的",
+      "definition": {
+        "en": "Friendly, sociable, and warmly enjoying the company of others. A convivial person doesn't just attend the dinner — they make the dinner feel like a dinner.",
+        "zh": "热情、好客、真心享受与他人相处。一个 convivial 的人不只是来吃饭 — 他让那顿饭真正成为一顿饭。"
+      },
+      "etymology": {
+        "root": "vivere",
+        "meaning": "to live",
+        "meaningZh": "活、生活",
+        "en": "From Latin con- (together) + vivere (to live). Literally 'living together' — sharing in life, especially around food and drink. Same vivere in 'survive,' 'vivid,' 'revive,' and 'vivacious.'",
+        "zh": "拉丁 con-（一起）+ vivere（活）。字面意思是'一起生活' — 共享生活，尤其在食物与酒之间。同一个 vivere 出现在 survive（存活）、vivid（鲜活）、revive（复苏）、vivacious（活泼）里。",
+        "relatives": [
+          {
+            "word": "survive",
+            "zh": "存活（'活过来'）"
+          },
+          {
+            "word": "vivid",
+            "zh": "鲜活的"
+          },
+          {
+            "word": "revive",
+            "zh": "复苏、振作"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She makes meetings convivial without making them long — a small joke at the start, names actually used.",
+          "zh": "她让会议变得轻松温暖，但不会拖长 — 开头一个小玩笑，每个人的名字都被叫到。"
+        },
+        {
+          "context": "friends",
+          "en": "He's the convivial one in the friend group — the host, the inviter, the person who notices someone's been quiet too long.",
+          "zh": "他是朋友圈里那个热情的人 — 主人、发起人、注意到谁安静太久的那个人。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "温暖",
+      "tint": "d49555",
+      "mnemonic": {
+        "en": "Con + Vivere = LIVING-TOGETHER. Convivial = the quiet talent of making other people feel they belong.",
+        "zh": "Con + Vivere = 一起活着。Convivial = 那种安静的天分 — 让别人感觉自己属于这里。"
+      },
+      "commonConfusions": [
+        "sociable",
+        "gregarious",
+        "jovial"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Sociable and convivial are close. What's the warmth difference?",
+            "zh": "Sociable 和 convivial 接近。在温度上有什么差别？"
+          },
+          "answer": {
+            "en": "Sociable = enjoys being around people. Convivial = enjoys MAKING others feel at home. One participates. The other hosts.",
+            "zh": "Sociable = 喜欢和人在一起。Convivial = 更喜欢'让别人感觉宾至如归'。一个是参与，一个是主家。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Julia Child cooked alone in the morning and gathered people in the evening. Her kitchen was the most convivial room in television — she dropped the chicken, laughed, picked it up, kept going. The convivial host isn't perfect. They're warm enough that no one notices the imperfection.",
+        "zh": "茱莉亚·查尔德早上一个人下厨，晚上把朋友聚在一起。她的厨房是电视上最温暖好客的房间 — 鸡掉到地上，她笑一笑，捡起来继续做。热情的主人不是完美的 — 她足够温暖，让没人注意到不完美。"
+      }
+    },
+    {
+      "word": "Magnanimous",
+      "phonetic": "mag-NAN'-i-mas",
+      "chinese": "宽宏大量的、心胸开阔的",
+      "definition": {
+        "en": "Generous in spirit — especially toward people who have wronged you. A magnanimous person could press the advantage and chooses not to.",
+        "zh": "心胸开阔 — 尤其是对曾经伤害过自己的人。心胸开阔的人本可以乘势压人，却选择不那么做。"
+      },
+      "etymology": {
+        "root": "magnus + animus",
+        "meaning": "great soul",
+        "meaningZh": "大灵",
+        "en": "From Latin magnus (great) + animus (soul, mind, spirit). Literally 'great-souled.' Same magnus in 'magnificent,' 'magnitude,' 'magnify.' Same animus in 'animal,' 'animated,' 'unanimous' (one mind).",
+        "zh": "拉丁 magnus（大）+ animus（灵、心、神）。字面意思是'灵大'。同一个 magnus 出现在 magnificent（壮丽）、magnitude（量级）、magnify（放大）里；同一个 animus 出现在 animal（动物）、animated（有生气的）、unanimous（一致的，'一个心'）里。",
+        "relatives": [
+          {
+            "word": "magnificent",
+            "zh": "壮丽的"
+          },
+          {
+            "word": "magnitude",
+            "zh": "量级、宏大"
+          },
+          {
+            "word": "unanimous",
+            "zh": "一致的（一个心）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "After the company finally took her side, she was magnanimous to the people who hadn't — and watched her credibility quietly double.",
+          "zh": "公司终于站在她这边后，她对之前没站她那一边的人很宽宏 — 然后看着自己的可信度安静地翻了一倍。"
+        },
+        {
+          "context": "social",
+          "en": "Being magnanimous in defeat is harder than being humble in victory — and the world watches more carefully.",
+          "zh": "败下来时的宽宏，比胜出时的谦逊更难 — 而世界看得更仔细。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "宽宏",
+      "tint": "8a7da6",
+      "mnemonic": {
+        "en": "Magnus + Animus = GREAT SOUL. A magnanimous person has a soul big enough to fit the people who didn't deserve it.",
+        "zh": "Magnus + Animus = 大灵。宽宏的人，灵魂大到能装下那些'不配享有它'的人。"
+      },
+      "commonConfusions": [
+        "generous",
+        "forgiving",
+        "noble"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Generous and magnanimous both give. What does magnanimous add?",
+            "zh": "Generous 和 magnanimous 都是给予。Magnanimous 多了什么？"
+          },
+          "answer": {
+            "en": "Generous can mean money or time. Magnanimous adds the dimension of FORGIVENESS — giving up an advantage you fairly earned, because keeping it would be small.",
+            "zh": "Generous 可以是物质或时间。Magnanimous 多了一层'宽恕' — 放弃一项你本该享有的优势，因为留着它会显得'小'。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "When Nelson Mandela emerged from twenty-seven years in prison, he invited his former jailers to his presidential inauguration. That single gesture, magnanimous in the original sense — great-souled — shaped a country's politics for a generation. Greatness isn't always loud. Sometimes it's a guest list.",
+        "zh": "曼德拉被关了二十七年出狱后，把当年的狱卒请到他的总统就职典礼。这个动作 — magnanimous 在它原本的意思上：灵魂之大 — 塑造了一代人的政治。伟大不总是大声的，有时候只是一份请柬名单。"
+      }
+    },
+    {
+      "word": "Urbane",
+      "phonetic": "ur-BAYN'",
+      "chinese": "雅致的、有教养的",
+      "definition": {
+        "en": "Polished, refined, gracefully poised — the calm sophistication that comes from having seen a lot of rooms and not being thrown by any of them.",
+        "zh": "雅致、有教养、从容不迫 — 那种因为见过许多场面、不再容易被任何场面打乱的从容。"
+      },
+      "etymology": {
+        "root": "urbs",
+        "meaning": "city",
+        "meaningZh": "城市",
+        "en": "From Latin urbanus = 'of the city,' from urbs (city). Romans assumed city-dwellers were more polished than rural folk — and the word's flattery survived. Same urbs in 'urban,' 'suburb,' and 'urbanize.'",
+        "zh": "拉丁 urbanus = 城里的，来自 urbs（城市）。罗马人觉得城里人比乡下人雅 — 这层暗示一直留在词里。同一个 urbs 出现在 urban（城市的）、suburb（郊区）、urbanize（城市化）里。",
+        "relatives": [
+          {
+            "word": "urban",
+            "zh": "城市的"
+          },
+          {
+            "word": "suburb",
+            "zh": "郊区（'近城'）"
+          },
+          {
+            "word": "urbanize",
+            "zh": "城市化"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He's urbane in client meetings — disagreement comes out as a question, never an attack.",
+          "zh": "他在客户会议上很雅致 — 反对意见以问句出现，从不是攻击。"
+        },
+        {
+          "context": "social",
+          "en": "Urbane isn't fancy. It's the small competence of knowing what to say at the table you've never sat at before.",
+          "zh": "雅致不等于讲究 — 是一种小小的能力：在从没坐过的桌子上，也能说出合适的话。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "雅致",
+      "tint": "5a7a8a",
+      "mnemonic": {
+        "en": "Urbs = CITY. Urbane = city-polished — composed in any room because you've quietly been in enough of them.",
+        "zh": "Urbs = 城市。Urbane = 被城市磨过的人 — 在任何屋子里都从容，因为他已经在足够多的屋子里安静地待过。"
+      },
+      "commonConfusions": [
+        "sophisticated",
+        "suave",
+        "refined"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Suave and urbane both describe polish. What's the texture difference?",
+            "zh": "Suave 和 urbane 都形容圆润优雅。质感上有什么差别？"
+          },
+          "answer": {
+            "en": "Suave often hints at charm with a slight edge of seduction. Urbane is purer — composed, witty, but not trying to win anything from you.",
+            "zh": "Suave 常常带一丝'诱惑式'的圆滑。Urbane 更纯粹 — 沉稳、有趣，但并不想从你这里赢什么。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "When Cary Grant walked into a room, he didn't dominate it — he matched it. That was the urbane skill: arriving without needing the room to rearrange. He wasn't born to it (he grew up working-class English). He built it, sentence by sentence, suit by suit.",
+        "zh": "加里·格兰特走进一个屋子，不是去支配它 — 是和它对接。那就是 urbane 的本事：走进来，但不让屋子重新摆位。他不是天生的（他成长在英国工人阶级），是一句话一句话、一件西装一件西装地，建出来的。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "All three make the room easier. But each works on a different layer.",
+      "zh": "三种都让屋子更轻松。但它们各自在不同的层面上工作。"
+    },
+    "leftLabel": "Convivial",
+    "leftLine": {
+      "en": "Warmth — pulls people in.",
+      "zh": "温暖 — 把人吸进来。"
+    },
+    "leftMnemonic": {
+      "en": "Con + Vivere = LIVING-TOGETHER · belonging.",
+      "zh": "Con + Vivere = 一起活着 · 归属感。"
+    },
+    "rightLabel": "Magnanimous",
+    "rightLine": {
+      "en": "Bigness of soul — refuses the small win.",
+      "zh": "灵魂的大 — 拒绝那种小气的胜利。"
+    },
+    "rightMnemonic": {
+      "en": "Magnus + Animus = GREAT-SOUL · the room becomes safe to be wrong in.",
+      "zh": "Magnus + Animus = 大灵 · 让屋子变成一个'可以犯错'的地方。"
+    },
+    "closing": {
+      "en": "Convivial fills the room. Magnanimous holds it open.",
+      "zh": "Convivial 把屋子填满。Magnanimous 把屋子撑开。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Some virtues are crafts — convivial, magnanimous, urbane. They're not personality traits you're born with. They're skills you practice in rooms you don't yet feel comfortable in.",
+      "zh": "有些美德是手艺 — 温暖、宽宏、雅致。它们不是与生俱来的性格 — 是你在'还不太自在的屋子里'，一次次练出来的能力。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/convivial-magnanimous-urbane/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/convivial-magnanimous-urbane/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/convivial-magnanimous-urbane/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/convivial-magnanimous-urbane/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/convivial-magnanimous-urbane/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/convivial-magnanimous-urbane/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/convivial-magnanimous-urbane/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/convivial-magnanimous-urbane/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/convivial-magnanimous-urbane/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/convivial-magnanimous-urbane/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/convivial-magnanimous-urbane/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/convivial-magnanimous-urbane/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/convivial-magnanimous-urbane/twist.left.wav",
+    "twist.right": "audio/vocab/convivial-magnanimous-urbane/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/convivial-magnanimous-urbane/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/convivial-magnanimous-urbane/hook.headline.wav",
+    "word.0.definition": "audio/vocab/convivial-magnanimous-urbane/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/convivial-magnanimous-urbane/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/convivial-magnanimous-urbane/word.2.definition.wav",
+    "twist.setup": "audio/vocab/convivial-magnanimous-urbane/twist.setup.wav",
+    "twist.closing": "audio/vocab/convivial-magnanimous-urbane/twist.closing.wav",
+    "recap.reflection": "audio/vocab/convivial-magnanimous-urbane/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 12,
+    "session": 32,
+    "pages": [
+      341,
+      365
+    ],
+    "theme": "Flattery (positive labels)",
+    "subtheme": "Three social virtues — warm, noble, polished"
+  },
+  "tags": [
+    "flattery",
+    "virtues",
+    "social-grace",
+    "ch12",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "survive",
+      "zh": "存活、幸存",
+      "root": "vivere",
+      "partOfSpeech": "v.",
+      "phonetic": "sar-VIV'",
+      "gloss": {
+        "en": "Literally 'to live through' — sur- (over, beyond) + vivere (live). To keep living when something tried to stop you.",
+        "zh": "字面是'活过去' — sur-（越过）+ vivere（活）。在有东西试图阻止你时仍然继续活着。"
+      },
+      "usage": {
+        "en": "Surviving is not the same as living — sometimes the work after survival is harder than the survival itself.",
+        "zh": "活下来和活着不是一回事 — 有时候'活下来之后的功课'比'活下来'本身更难。"
+      }
+    },
+    {
+      "word": "vivid",
+      "zh": "鲜活的、生动的",
+      "root": "vivere",
+      "partOfSpeech": "adj.",
+      "phonetic": "VIV'-id",
+      "gloss": {
+        "en": "Full of life — directly from vivere. A vivid memory feels like it's still happening.",
+        "zh": "充满生命力 — 直接来自 vivere。一段鲜活的记忆，让人感觉它还在发生。"
+      },
+      "usage": {
+        "en": "Vivid memories are usually emotional ones — the brain saves them in higher resolution.",
+        "zh": "最鲜活的记忆，通常是带情绪的 — 大脑用更高的分辨率把它们存下来。"
+      }
+    },
+    {
+      "word": "revive",
+      "zh": "复苏、唤醒",
+      "root": "vivere",
+      "partOfSpeech": "v.",
+      "phonetic": "ri-VIV'",
+      "gloss": {
+        "en": "To live again — re- (again) + vivere. Used for bringing back consciousness, traditions, or shows.",
+        "zh": "再次活过来 — re-（再）+ vivere。可以是恢复意识、复兴传统、或重演剧目。"
+      },
+      "usage": {
+        "en": "Most revivals are nostalgia in costume — the few that aren't, change the form to fit the new room.",
+        "zh": "大多数'复兴'都是穿了戏服的怀旧 — 少数真正复兴的，会改变形式去适应新的房间。"
+      }
+    },
+    {
+      "word": "vivacious",
+      "zh": "活泼的、有生气的",
+      "root": "vivere",
+      "partOfSpeech": "adj.",
+      "phonetic": "vi-VAY'-shus",
+      "gloss": {
+        "en": "Lively in personality — from vivere. The visible form of being thoroughly alive.",
+        "zh": "性格活泼 — 来自 vivere。'充分活着'这件事的可见形态。"
+      },
+      "usage": {
+        "en": "Vivacious people don't always have more energy — they just spend it where others can see.",
+        "zh": "活泼的人不一定能量更多 — 他们只是把能量花在别人看得见的地方。"
+      }
+    },
+    {
+      "word": "magnificent",
+      "zh": "壮丽的、宏伟的",
+      "root": "magnus",
+      "partOfSpeech": "adj.",
+      "phonetic": "mag-NIF'-i-sant",
+      "gloss": {
+        "en": "Grand and impressive — magnus (great) + facere (to make). Literally 'greatly made.' Same magnus as 'magnanimous.'",
+        "zh": "宏大令人惊叹 — magnus（大）+ facere（造）。字面是'被造得很大'。和 magnanimous 同根。"
+      },
+      "usage": {
+        "en": "A magnificent view doesn't ask you to admire it — it just rearranges your sense of scale and leaves.",
+        "zh": "壮丽的景色不会请求你赞美 — 它只是悄悄重排了你对'大'的感觉，然后离开。"
+      }
+    },
+    {
+      "word": "magnitude",
+      "zh": "量级、宏大",
+      "root": "magnus",
+      "partOfSpeech": "n.",
+      "phonetic": "MAG'-ni-tood",
+      "gloss": {
+        "en": "Bigness, scale — directly from magnus. Used for stars, earthquakes, and problems too important to underestimate.",
+        "zh": "宏大、量级 — 直接来自 magnus。用于星体、地震、以及不该被低估的问题。"
+      },
+      "usage": {
+        "en": "We often underestimate the magnitude of small repeated choices — they don't feel large until they've added up to a life.",
+        "zh": "我们常常低估'反复的小选择'的量级 — 在它们累加成一辈子之前，它们感觉都不大。"
+      }
+    },
+    {
+      "word": "unanimous",
+      "zh": "一致同意的",
+      "root": "animus",
+      "partOfSpeech": "adj.",
+      "phonetic": "yoo-NAN'-i-mas",
+      "gloss": {
+        "en": "Of one mind — uni- (one) + animus (soul). Everyone in the room arrived at the same answer.",
+        "zh": "心如一 — uni-（一）+ animus（灵、心）。屋里所有人都到了同一个答案。"
+      },
+      "usage": {
+        "en": "Unanimous decisions are often the suspicious ones — somebody usually had a quieter doubt nobody listened to.",
+        "zh": "一致通过的决定常常是可疑的 — 通常有人心里有一个安静的疑虑，没人愿意听。"
+      },
+      "rootMeaning": "soul, mind, spirit",
+      "rootMeaningZh": "灵、心、神",
+      "rootTint": "9a8a5a"
+    },
+    {
+      "word": "animated",
+      "zh": "有生气的、动画的",
+      "root": "animus",
+      "partOfSpeech": "adj.",
+      "phonetic": "AN'-i-may-tid",
+      "gloss": {
+        "en": "Brought to life — from animus (soul). Either lively in person, or made-to-move on screen.",
+        "zh": "被赋予生命 — 来自 animus（灵）。可以指人活泼，也可以指屏幕上'让东西动起来'。"
+      },
+      "usage": {
+        "en": "An animated conversation makes time disappear — you walk away and don't know how long you were standing there.",
+        "zh": "一场热烈的对话能让时间消失 — 离开时你不知道自己刚才站了多久。"
+      }
+    },
+    {
+      "word": "equanimity",
+      "zh": "平心静气、镇定",
+      "root": "animus",
+      "partOfSpeech": "n.",
+      "phonetic": "ee'-kwa-NIM'-i-tee",
+      "gloss": {
+        "en": "Calm of mind — aequus (equal) + animus (soul). The soul kept level when life isn't. Cousin to magnanimous via the shared animus.",
+        "zh": "心境平稳 — aequus（平等）+ animus（灵）。当生活不平时，心保持平。通过 animus 和 magnanimous 是亲戚。"
+      },
+      "usage": {
+        "en": "Equanimity isn't numbness — it's having felt something fully and then choosing to keep your shape.",
+        "zh": "平心静气不是麻木 — 是充分感受过之后，依然选择保持自己的形状。"
+      }
+    },
+    {
+      "word": "urban",
+      "zh": "城市的",
+      "root": "urbs",
+      "partOfSpeech": "adj.",
+      "phonetic": "UR'-ban",
+      "gloss": {
+        "en": "Of the city — directly from urbs. Same root as 'urbane,' but the adjective stayed literal.",
+        "zh": "城市的 — 直接来自 urbs。和 urbane 同根，但这个形容词留在字面意义上。"
+      },
+      "usage": {
+        "en": "An urban life makes you fluent in noise — you stop hearing the city the way fish stop noticing water.",
+        "zh": "城市生活让你精通'噪音' — 你听不到这个城市，就像鱼不会注意到水。"
+      }
+    },
+    {
+      "word": "suburb",
+      "zh": "郊区",
+      "root": "urbs",
+      "partOfSpeech": "n.",
+      "phonetic": "SUB'-urb",
+      "gloss": {
+        "en": "Literally 'below the city' — sub- (near, below) + urbs. The ring around the urban center.",
+        "zh": "字面是'城之近旁' — sub-（在下、近）+ urbs。围绕市中心的那一圈。"
+      },
+      "usage": {
+        "en": "The suburb is the compromise neither side fully wanted — quiet enough for the city worker, lively enough for the country mouse.",
+        "zh": "郊区是哪一方都没完全想要的妥协 — 对上班族来说够安静，对乡下人来说又够热闹。"
+      }
+    },
+    {
+      "word": "urbanize",
+      "zh": "城市化",
+      "root": "urbs",
+      "partOfSpeech": "v.",
+      "phonetic": "UR'-ba-nize",
+      "gloss": {
+        "en": "To make a place city-like — urbs + -ize. The verb of turning farmland into streets.",
+        "zh": "把一个地方变成像城市 — urbs + -ize。把农田变成街道的那个动词。"
+      },
+      "usage": {
+        "en": "When a place urbanizes, the cost is often paid by the very people who made the place worth coming to.",
+        "zh": "一个地方城市化时，代价常常由'最初让这里值得来'的那些人来承担。"
+      }
+    }
+  ]
+}

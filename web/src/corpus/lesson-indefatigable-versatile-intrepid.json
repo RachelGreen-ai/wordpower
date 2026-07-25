@@ -1,0 +1,487 @@
+{
+  "lessonId": "indefatigable-versatile-intrepid",
+  "hook": {
+    "headline": {
+      "en": "Three doing-virtues — tireless, capable, brave.",
+      "zh": "三种'去做'的好品质 — 不倦、能干、无畏。"
+    },
+    "subtext": {
+      "en": "The world is full of people who think. These three are the ones who don't stop.",
+      "zh": "想得多的人到处都是。这三种，是不停下来的那种。"
+    }
+  },
+  "words": [
+    {
+      "word": "Indefatigable",
+      "phonetic": "in'-di-FAT'-i-ga-bal",
+      "chinese": "不知疲倦的、勤奋不懈的",
+      "definition": {
+        "en": "Incapable of being tired out — keeps going long after others have quietly stopped. An indefatigable person isn't superhuman; they just keep showing up.",
+        "zh": "不会被'累倒'的 — 在别人已经悄悄停下后还继续走。这种人不是超人，他们只是一直在出现。"
+      },
+      "etymology": {
+        "root": "fatigare",
+        "meaning": "to tire",
+        "meaningZh": "使疲倦",
+        "en": "From Latin in- (not) + de- (down) + fatigare (to tire). Literally 'cannot be tired down.' Same fatigare in 'fatigue' and 'fatigued.' The triple structure — in + de + fatigare — is the work of insisting on stamina.",
+        "zh": "拉丁 in-（不）+ de-（向下）+ fatigare（使疲倦）。字面是'不能被累倒'。同一个 fatigare 出现在 fatigue（疲劳）和 fatigued（疲惫的）里。这个三层结构 in + de + fatigare，本身就在强调耐力。",
+        "relatives": [
+          {
+            "word": "fatigue",
+            "zh": "疲劳"
+          },
+          {
+            "word": "fatigued",
+            "zh": "疲惫的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She was indefatigable through the launch — three weeks of long nights, and her tone in meetings stayed the same.",
+          "zh": "她在产品发布的整段时间里都是不知疲倦的 — 三周的熬夜，会上的语气却没变过。"
+        },
+        {
+          "context": "parenting",
+          "en": "Toddlers are indefatigable researchers — they will run the same experiment with cereal and gravity forty times if you let them.",
+          "zh": "学步期的小孩是不知疲倦的研究者 — 同一个'麦片和重力'的实验，他们能做四十次，只要你让他们做。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "不倦",
+      "tint": "6a8a5a",
+      "mnemonic": {
+        "en": "In + De + Fatigare = NOT-DOWN-TIRED. The word itself piles up its 'no' — language doing the work of the trait.",
+        "zh": "In + De + Fatigare = 不 + 下 + 累。这个词本身就在堆'不' — 语言在替这个品质做工。"
+      },
+      "commonConfusions": [
+        "tireless",
+        "untiring",
+        "persistent"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Tireless and indefatigable mean the same. Why use the longer word?",
+            "zh": "Tireless 和 indefatigable 意思相同。那为什么用长的那个？"
+          },
+          "answer": {
+            "en": "'Tireless' describes the surface. 'Indefatigable' carries the etymology — 'cannot be tired DOWN' — implying many tried, and failed. The longer word remembers the resistance.",
+            "zh": "'Tireless' 描述表面。'Indefatigable' 带着词源 — '不能被累倒' — 暗示有许多人试过，但都失败了。长的那个词，记得抵抗。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Marie Curie purified one gram of radium from eight tons of pitchblende — by hand, with stirring rods longer than she was. Four years of indefatigable physical labor for a glow you could fit in a thimble. Most great work looks like that, eventually.",
+        "zh": "居里夫人从八吨沥青铀矿里手工提纯出一克镭 — 用比她个子还高的搅拌棒。四年不知疲倦的体力劳动，只为得到一抹能装进顶针的光。大多数伟大的工作，最后看起来都是那样。"
+      }
+    },
+    {
+      "word": "Versatile",
+      "phonetic": "VUR'-sa-til",
+      "chinese": "多才多艺的、灵活多变的",
+      "definition": {
+        "en": "Able to turn skill to many things — talents in plural, switched between fluently. A versatile person isn't a jack-of-all-trades; they're a master of pivot.",
+        "zh": "能把本事用在很多事上 — 才能是复数的，能流畅地切换。多才多艺的人不是'样样都会一点'，是擅长'转向'。"
+      },
+      "etymology": {
+        "root": "vertere",
+        "meaning": "to turn",
+        "meaningZh": "转、转向",
+        "en": "From Latin versare = 'to keep turning,' the frequentative of vertere (to turn). Same vertere is hidden in 'convert,' 'divert,' 'invert,' 'reverse,' 'version,' 'universe,' and 'versus.'",
+        "zh": "拉丁 versare = '一直转'，是 vertere（转）的频复形态。同一个 vertere 藏在 convert（转换）、divert（转移）、invert（颠倒）、reverse（反转）、version（版本）、universe（宇宙）、versus（对抗）里。",
+        "relatives": [
+          {
+            "word": "convert",
+            "zh": "转换"
+          },
+          {
+            "word": "version",
+            "zh": "版本（'转过来的样子'）"
+          },
+          {
+            "word": "universe",
+            "zh": "宇宙（'转成一个整体'）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The most versatile engineers aren't the ones who know every language — they're the ones who can pick up a new one in a weekend if the project needs it.",
+          "zh": "最灵活的工程师不是'什么语言都会'的人 — 是项目需要时，能在一个周末学会新语言的人。"
+        },
+        {
+          "context": "social",
+          "en": "Versatility looks like luck from the outside — until you see the years of practice quietly turning into options.",
+          "zh": "外人看多才多艺像运气 — 走近看才发现，是好几年的练习悄悄变成了选项。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "多能",
+      "tint": "5a8a9a",
+      "mnemonic": {
+        "en": "Versare = TO KEEP TURNING. Versatile = the talent for turning — toward the new task, the new room, the new tool.",
+        "zh": "Versare = 不停地转。Versatile = 善于转向 — 转向新任务、新房间、新工具。"
+      },
+      "commonConfusions": [
+        "adaptable",
+        "multifaceted",
+        "flexible"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Adaptable and versatile sound alike. What's the difference?",
+            "zh": "Adaptable 和 versatile 听上去差不多。区别在哪？"
+          },
+          "answer": {
+            "en": "Adaptable = adjusts to new conditions. Versatile = brings real skill to many domains. One is passive (fits in). The other is active (does well anywhere).",
+            "zh": "Adaptable = 适应新环境。Versatile = 把实在的本事带到不同的领域。一个是被动的（融入），一个是主动的（在哪儿都能做好）。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Leonardo da Vinci is the textbook versatile — painter, anatomist, engineer, musician, architect. The trick wasn't talent at all of them; it was the SAME mind looking at all of them, asking the same questions. Versatility is often one curiosity, wearing many costumes.",
+        "zh": "达·芬奇是教科书级别的多才多艺者 — 画家、解剖学家、工程师、音乐家、建筑师。秘诀不是每件事都有天赋 — 是同一个大脑在看所有事，问着同一组问题。多才多艺常常是同一份好奇心，换了好几套外衣。"
+      }
+    },
+    {
+      "word": "Intrepid",
+      "phonetic": "in-TREP'-id",
+      "chinese": "勇敢无畏的",
+      "definition": {
+        "en": "Fearless in the face of difficulty or danger — not because the threat is unseen, but because the seeing has been done and the going continues.",
+        "zh": "面对困难或危险无所畏惧 — 不是因为没看见威胁，而是已经看清了，然后继续往前走。"
+      },
+      "etymology": {
+        "root": "trepidus",
+        "meaning": "alarmed, trembling",
+        "meaningZh": "惊慌、颤抖",
+        "en": "From Latin in- (not) + trepidus (alarmed, anxious). Literally 'not trembling.' Same trepidus is preserved in modern English as 'trepidation' — the nervous flutter before something hard.",
+        "zh": "拉丁 in-（不）+ trepidus（惊慌、颤抖）。字面意思是'不发抖'。同一个 trepidus 留在 trepidation 里 — 指做难事前那种紧张的颤动。",
+        "relatives": [
+          {
+            "word": "trepidation",
+            "zh": "惊慌、忐忑"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She was the intrepid one in the room — willing to ask the question everyone was thinking and no one would say.",
+          "zh": "她是屋里那个无畏的人 — 愿意问出所有人都在想、却没人愿意开口的问题。"
+        },
+        {
+          "context": "social",
+          "en": "Intrepid isn't the absence of fear. It's the presence of fear AND the next step anyway.",
+          "zh": "无畏不是没有恐惧。是恐惧也在那里，但下一步照样迈出去。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "无畏",
+      "tint": "a06a55",
+      "mnemonic": {
+        "en": "In + Trepidus = NOT-TREMBLING. The body might shake. The going doesn't.",
+        "zh": "In + Trepidus = 不颤抖。身体也许在抖，往前的脚步没有。"
+      },
+      "commonConfusions": [
+        "brave",
+        "fearless",
+        "daring"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Brave and intrepid both mean unafraid. What's the texture?",
+            "zh": "Brave 和 intrepid 都是不害怕。质感上有什么差别？"
+          },
+          "answer": {
+            "en": "Brave is the everyday word — usable for kids, animals, choices. Intrepid is reserved for expeditions, explorations, journalists — the brave who go where the rest of us stay.",
+            "zh": "Brave 是日常词 — 小孩、动物、选择都能用。Intrepid 是给探险、远征、记者保留的 — 是'我们大多数人留下来的地方，他还要进去'的那种勇敢。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Marie Colvin, the war journalist, lost an eye reporting from Sri Lanka and kept reporting — Iraq, Chechnya, Syria. She knew what she was walking into. She walked in anyway. Intrepid isn't naive bravery. It's clear-eyed bravery, with the eye that's left.",
+        "zh": "战地记者玛丽·科尔文在斯里兰卡的报道中失去了一只眼睛 — 然后继续报道：伊拉克、车臣、叙利亚。她清楚自己要走进去的是什么。她还是走了进去。Intrepid 不是天真的勇 — 是看得清的勇，用还剩下的那只眼。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "All three keep going. But each fights a different opponent.",
+      "zh": "三种都不停下。但每一种，对手是不一样的。"
+    },
+    "leftLabel": "Indefatigable",
+    "leftLine": {
+      "en": "Fights tiredness. Time is the enemy.",
+      "zh": "对抗疲劳。敌人是时间。"
+    },
+    "leftMnemonic": {
+      "en": "In + De + Fatigare = NOT-TIRED · stamina.",
+      "zh": "In + De + Fatigare = 不累 · 耐力。"
+    },
+    "rightLabel": "Intrepid",
+    "rightLine": {
+      "en": "Fights fear. Danger is the enemy.",
+      "zh": "对抗恐惧。敌人是危险。"
+    },
+    "rightMnemonic": {
+      "en": "In + Trepidus = NOT-TREMBLING · the next step anyway.",
+      "zh": "In + Trepidus = 不颤抖 · 下一步照样迈出去。"
+    },
+    "closing": {
+      "en": "One walks farther. One walks closer to what frightens. Different verbs of 'keep going.'",
+      "zh": "一个走得更远。一个走得更靠近让人害怕的东西。是两种不同的'继续走'。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Stamina, range, and courage — three kinds of stayingness. Most lives ask for some of each. Few people are born good at all three; everyone has to choose which one to build first.",
+      "zh": "耐力、范围、勇气 — 三种'留下来'的方式。大多数人生都需要一些每一种。很少有人三样都天生擅长，每个人都要选先建哪一个。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/indefatigable-versatile-intrepid/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/indefatigable-versatile-intrepid/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/indefatigable-versatile-intrepid/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/indefatigable-versatile-intrepid/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/indefatigable-versatile-intrepid/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/indefatigable-versatile-intrepid/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/indefatigable-versatile-intrepid/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/indefatigable-versatile-intrepid/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/indefatigable-versatile-intrepid/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/indefatigable-versatile-intrepid/twist.left.wav",
+    "twist.right": "audio/vocab/indefatigable-versatile-intrepid/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/indefatigable-versatile-intrepid/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/indefatigable-versatile-intrepid/hook.headline.wav",
+    "word.0.definition": "audio/vocab/indefatigable-versatile-intrepid/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/indefatigable-versatile-intrepid/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/indefatigable-versatile-intrepid/word.2.definition.wav",
+    "twist.setup": "audio/vocab/indefatigable-versatile-intrepid/twist.setup.wav",
+    "twist.closing": "audio/vocab/indefatigable-versatile-intrepid/twist.closing.wav",
+    "recap.reflection": "audio/vocab/indefatigable-versatile-intrepid/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 12,
+    "session": 33,
+    "pages": [
+      341,
+      380
+    ],
+    "theme": "Flattery (positive labels)",
+    "subtheme": "Three doing-virtues — tireless, capable, brave"
+  },
+  "tags": [
+    "flattery",
+    "virtues",
+    "doing",
+    "ch12",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "fatigue",
+      "zh": "疲劳",
+      "root": "fatigare",
+      "partOfSpeech": "n.",
+      "phonetic": "fa-TEEG'",
+      "gloss": {
+        "en": "Tiredness — directly from fatigare. The state indefatigable refuses to enter.",
+        "zh": "疲惫 — 直接来自 fatigare。是 indefatigable 拒绝进入的那个状态。"
+      },
+      "usage": {
+        "en": "Decision fatigue is real — by evening, even small choices feel heavy. The trick is to make the important ones in the morning.",
+        "zh": "决策疲劳是真的 — 到晚上，连小决定都重得难受。窍门是把重要的决定放在早上做。"
+      }
+    },
+    {
+      "word": "convert",
+      "zh": "转换、改变",
+      "root": "vertere",
+      "partOfSpeech": "v.",
+      "phonetic": "kan-VERT'",
+      "gloss": {
+        "en": "To turn into something else — con- (together, completely) + vertere (turn). Same root as 'versatile.'",
+        "zh": "把一物变成另一物 — con-（完全）+ vertere（转）。和 versatile 同根。"
+      },
+      "usage": {
+        "en": "The hardest convert isn't to a new belief — it's away from one you've held for years.",
+        "zh": "最难的'转变'不是转向一个新信念 — 是从一个你抱了很多年的信念里走出来。"
+      }
+    },
+    {
+      "word": "divert",
+      "zh": "转移、分散",
+      "root": "vertere",
+      "partOfSpeech": "v.",
+      "phonetic": "di-VERT'",
+      "gloss": {
+        "en": "To turn aside — di- (apart) + vertere. To redirect attention, money, or a river.",
+        "zh": "转向旁边 — di-（分开）+ vertere。可以转移注意力、资金、或一条河流。"
+      },
+      "usage": {
+        "en": "Magicians don't make things vanish — they divert your gaze. Most lies work the same way.",
+        "zh": "魔术师没有让东西消失 — 他们只是让你的目光转开。大多数谎言用的也是这一招。"
+      }
+    },
+    {
+      "word": "invert",
+      "zh": "颠倒、反转",
+      "root": "vertere",
+      "partOfSpeech": "v.",
+      "phonetic": "in-VERT'",
+      "gloss": {
+        "en": "To turn upside down — in- (in, into) + vertere. Same root, opposite direction.",
+        "zh": "上下颠倒 — in-（进入）+ vertere。同根，方向相反。"
+      },
+      "usage": {
+        "en": "Inverting a problem often reveals its answer — 'how would I make this WORSE?' is a surprisingly useful question.",
+        "zh": "把问题反过来想，常常露出答案 — '我要怎样才能让它更糟？'是一个意外好用的问题。"
+      }
+    },
+    {
+      "word": "version",
+      "zh": "版本、说法",
+      "root": "vertere",
+      "partOfSpeech": "n.",
+      "phonetic": "VUR'-zhan",
+      "gloss": {
+        "en": "A turning of the same content — directly from vertere. One story has many versions.",
+        "zh": "同一内容的不同'转向' — 直接来自 vertere。一个故事有许多版本。"
+      },
+      "usage": {
+        "en": "Every old friendship has two versions — yours, and theirs. Neither is wrong; both are partial.",
+        "zh": "每段老朋友关系都有两个版本 — 你的，和他的。哪个都不算错；哪个都不完整。"
+      }
+    },
+    {
+      "word": "universe",
+      "zh": "宇宙",
+      "root": "vertere",
+      "partOfSpeech": "n.",
+      "phonetic": "YOO'-ni-vurs",
+      "gloss": {
+        "en": "Literally 'turned into one' — uni- (one) + vertere. All of existence, taken as a single thing.",
+        "zh": "字面是'转成一个整体' — uni-（一）+ vertere。把所有存在当作一个整体。"
+      },
+      "usage": {
+        "en": "We say 'the universe' as if it were a noun. It might be closer to a verb — turning, always.",
+        "zh": "我们把'宇宙'当名词说。其实它也许更像一个动词 — 一直在转。"
+      }
+    },
+    {
+      "word": "versus",
+      "zh": "对、对抗",
+      "root": "vertere",
+      "partOfSpeech": "prep.",
+      "phonetic": "VUR'-sas",
+      "gloss": {
+        "en": "Literally 'turned against' — directly from vertere. Used in court and competition.",
+        "zh": "字面是'转向相反方向' — 直接来自 vertere。用于法庭和比赛。"
+      },
+      "usage": {
+        "en": "'You versus the world' is rarely the right framing — usually it's you versus a small habit you haven't named yet.",
+        "zh": "'你对抗世界'通常不是对的说法 — 真正的对抗，是你对一个还没被你点名的小习惯。"
+      }
+    },
+    {
+      "word": "trepidation",
+      "zh": "惊慌、忐忑",
+      "root": "trepidus",
+      "partOfSpeech": "n.",
+      "phonetic": "trep'-i-DAY'-shan",
+      "gloss": {
+        "en": "Nervous unease — the noun form of trepidus. Exactly what intrepid is the 'in-' version of.",
+        "zh": "紧张不安 — trepidus 的名词形式。Intrepid 加'in-'否定的，正是这种状态。"
+      },
+      "usage": {
+        "en": "Approach important conversations with a little trepidation — it usually means you respect the stakes.",
+        "zh": "重要的对话，带一点忐忑去开始 — 通常说明你对这件事的分量是认真的。"
+      }
+    },
+    {
+      "word": "fortify",
+      "zh": "加强、加固",
+      "root": "fortis",
+      "partOfSpeech": "v.",
+      "phonetic": "FOR'-ti-fi",
+      "gloss": {
+        "en": "To make strong — from Latin fortis (strong). Same root in 'fortitude,' 'comfort,' 'effort,' and 'fort.' What intrepid people draw on.",
+        "zh": "使变强 — 来自拉丁 fortis（强）。同一个 fortis 出现在 fortitude（刚毅）、comfort（安慰）、effort（努力）、fort（堡垒）里。无畏者依赖的，就是这个。"
+      },
+      "usage": {
+        "en": "We fortify the wrong things — buildings, opinions — and forget to fortify the slower stuff like friendships.",
+        "zh": "我们加固错了东西 — 加固建筑，加固意见 — 却忘了加固那些更慢的东西，比如友谊。"
+      },
+      "rootMeaning": "strong",
+      "rootMeaningZh": "强",
+      "rootTint": "8a6a55"
+    },
+    {
+      "word": "fortitude",
+      "zh": "刚毅、坚韧",
+      "root": "fortis",
+      "partOfSpeech": "n.",
+      "phonetic": "FOR'-ti-tood",
+      "gloss": {
+        "en": "Strength of mind — directly from fortis. The Roman virtue of bearing pain or difficulty without breaking.",
+        "zh": "心志的强 — 直接来自 fortis。罗马人推崇的美德：承受痛苦或困境而不被压垮。"
+      },
+      "usage": {
+        "en": "Fortitude isn't grit — grit pushes through. Fortitude stays present, even when it can't push.",
+        "zh": "刚毅不是'死扛' — 死扛是用力推过去。刚毅是即使推不动，也仍然在场。"
+      }
+    },
+    {
+      "word": "comfort",
+      "zh": "安慰、舒适",
+      "root": "fortis",
+      "partOfSpeech": "n./v.",
+      "phonetic": "KUM'-fort",
+      "gloss": {
+        "en": "Literally 'with strength' — com- (with) + fortis (strong). To comfort is to lend someone your strength.",
+        "zh": "字面是'与强同在' — com-（一起）+ fortis（强）。安慰一个人，就是把你的力气借给他。"
+      },
+      "usage": {
+        "en": "Real comfort doesn't fix anything — it just sits beside the person until they can sit by themselves again.",
+        "zh": "真正的安慰不修任何东西 — 它只是坐在那个人旁边，直到他能自己坐住。"
+      }
+    },
+    {
+      "word": "effort",
+      "zh": "努力",
+      "root": "fortis",
+      "partOfSpeech": "n.",
+      "phonetic": "EF'-art",
+      "gloss": {
+        "en": "Literally 'out of strength' — e- (out) + fortis. The strength brought outward, into action.",
+        "zh": "字面是'把力气拿出来' — e-（出）+ fortis。把内在的力气调出来，变成行动。"
+      },
+      "usage": {
+        "en": "Effort is the most honest currency — easy to fake, hard to fake for long.",
+        "zh": "努力是最诚实的货币 — 容易装，但装不久。"
+      }
+    }
+  ]
+}

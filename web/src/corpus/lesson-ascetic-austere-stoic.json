@@ -1,0 +1,552 @@
+{
+  "lessonId": "ascetic-austere-stoic",
+  "hook": {
+    "headline": {
+      "en": "Three flavors of restraint. Three quiet powers.",
+      "zh": "三种克制。三种安静的力量。"
+    },
+    "subtext": {
+      "en": "Some discipline shows. The deep kind doesn't.",
+      "zh": "有些自律藏不住。真正深的，悄无声息。"
+    }
+  },
+  "words": [
+    {
+      "word": "Ascetic",
+      "phonetic": "a-SET'-ik",
+      "chinese": "苦行者",
+      "definition": {
+        "en": "A person who chooses self-denial to pursue something higher.",
+        "zh": "主动放弃舒适、放纵或装饰的人 — 为了追求更高的东西。"
+      },
+      "etymology": {
+        "root": "aske",
+        "meaning": "practice / exercise",
+        "meaningZh": "修炼",
+        "en": "From Greek askētēs — one who practices, like an athlete in training.",
+        "zh": "希腊词根 askētēs = 修炼的人（最初指训练中的运动员）。",
+        "relatives": [
+          {
+            "word": "asceticism",
+            "zh": "禁欲主义"
+          },
+          {
+            "word": "athlete",
+            "zh": "运动员（同源远亲）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "He's not poor — he's an ascetic. The empty apartment is a choice.",
+          "zh": "他不是穷 — 他是苦行者。空荡的公寓是他自己选的。"
+        },
+        {
+          "context": "workplace",
+          "en": "She lives like an ascetic — three shirts, no car, savings stacked for the freedom to walk away.",
+          "zh": "她过得像个苦行者：三件衬衫轮流穿，不开车，工资 80% 存下来 — 全为了可以随时说走就走的自由。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "自律",
+      "tint": "8a8270",
+      "mnemonic": {
+        "en": "ASCETIC and ATHLETE share a root — discipline as practice, not deprivation.",
+        "zh": "ascetic 和 athlete 同源 — 自律是训练，不是匮乏。"
+      },
+      "commonConfusions": [
+        "poor",
+        "stingy"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Is being an ascetic the same as being poor?",
+            "zh": "苦行者就是穷人吗？"
+          },
+          "answer": {
+            "en": "No. Poverty is imposed; ascetic is chosen. The empty room is the difference — and it's the choice that creates the power.",
+            "zh": "不是。贫穷是被迫的；苦行是主动选的。空房间是关键差别 — 是'选择'本身造就了力量。"
+          }
+        },
+        {
+          "question": {
+            "en": "What does an ascetic gain by refusing comfort?",
+            "zh": "苦行者放弃舒适，到底换来什么？"
+          },
+          "answer": {
+            "en": "Clarity. When fewer things own you, what you actually want becomes visible.",
+            "zh": "清明。当少有东西能拴住你，你真正想要什么，反而看得清楚了。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The Silicon Valley founder who wears the same outfit every day, eats the same lunch, drives a 15-year-old car — not eccentricity, ascetic clarity.",
+        "zh": "那个每天穿一样的衣服、吃一样的午餐、开十五年旧车的硅谷创始人 — 不是怪癖，是苦行者的清明。"
+      }
+    },
+    {
+      "word": "Austere",
+      "phonetic": "aw-STEER'",
+      "chinese": "严苛的 / 朴素的",
+      "definition": {
+        "en": "Severe in style or manner — without ornament, softness, or excess.",
+        "zh": "风格或态度严苛 — 不装饰，不柔软，不过度。"
+      },
+      "etymology": {
+        "root": "auster",
+        "meaning": "harsh / bitter",
+        "meaningZh": "严苛",
+        "en": "From Greek austēros — bitter and harsh, like dry wine.",
+        "zh": "希腊词根 austēros = 严苛、酸涩（最初形容干酒的口感）。",
+        "relatives": [
+          {
+            "word": "austerity",
+            "zh": "紧缩 / 朴素"
+          },
+          {
+            "word": "austerely",
+            "zh": "严苛地 / 朴素地"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "social",
+          "en": "The room was austere — one chair, one lamp, one book. No softness anywhere.",
+          "zh": "房间很朴素 — 一把椅子，一盏灯，桌上一本书。哪里都不见柔软。"
+        },
+        {
+          "context": "workplace",
+          "en": "Her management is austere — no flattery, no small talk, just standards and honest feedback.",
+          "zh": "她的管理风格很严苛 — 不奉承，不闲聊，只有清晰的标准和直接的反馈。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "朴素",
+      "tint": "6f6862",
+      "mnemonic": {
+        "en": "AUSTERE = harsh form. A room, a leader, a life — all stripped to bones.",
+        "zh": "austere = 严苛的形式。房间、领导、生活 — 都剥到只剩骨架。"
+      },
+      "commonConfusions": [
+        "ascetic",
+        "harsh"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "What's the difference between austere and ascetic?",
+            "zh": "austere 和 ascetic 的区别是什么？"
+          },
+          "answer": {
+            "en": "Ascetic describes a person who chooses denial. Austere describes the quality of being unadorned — applies to rooms, leaders, styles. An ascetic lives austerely.",
+            "zh": "ascetic 是选择克己的人；austere 是不加装饰的特质 — 用于房间、领导、风格。苦行者过着朴素的生活。"
+          }
+        },
+        {
+          "question": {
+            "en": "Can a warm, friendly person also be austere?",
+            "zh": "一个温暖友好的人，可以同时是 austere 的吗？"
+          },
+          "answer": {
+            "en": "Yes — austerity can describe someone's aesthetic or standards while leaving their warmth intact. The bare-walls home of a kind host is still austere.",
+            "zh": "可以 — austere 可以形容审美或标准，并不否定温暖。亲切主人那间空荡荡的家，依然是朴素的。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Apple's first stores in the 2000s — white walls, wood tables, almost nothing on display. That austerity was the message: every product matters.",
+        "zh": "2000 年代苹果最早的门店 — 白墙，木桌，展示的东西极少。那种朴素本身就是讯息：每一件产品都重要。"
+      }
+    },
+    {
+      "word": "Stoic",
+      "phonetic": "STO'-ik",
+      "chinese": "坚忍的 / 斯多葛",
+      "definition": {
+        "en": "Someone who endures pain in silence — calm not from feeling nothing, but from holding it.",
+        "zh": "默默承受痛苦或艰难的人 — 不是没有感觉，而是不表演感觉。"
+      },
+      "etymology": {
+        "root": "stoa",
+        "meaning": "porch",
+        "meaningZh": "柱廊",
+        "en": "From Stoa Poikile — the Athens porch where Zeno taught dignified endurance.",
+        "zh": "源自雅典的 Stoa Poikile（彩绘柱廊）— Zeno 在那里讲授一种'有尊严地承受'的哲学。",
+        "relatives": [
+          {
+            "word": "stoicism",
+            "zh": "斯多葛主义"
+          },
+          {
+            "word": "stoically",
+            "zh": "坚忍地"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "parenting",
+          "en": "His mother was stoic to the end — three rounds of chemo, never a complaint to the kids.",
+          "zh": "母亲坚忍到了最后 — 三轮化疗，从未在孩子面前抱怨过一句。"
+        },
+        {
+          "context": "workplace",
+          "en": "She took the rejection stoically in the meeting — and then quietly let herself cry on the train home.",
+          "zh": "会议上她坚忍地接受了被拒 — 然后在回家的地铁上，悄悄让自己哭了一场。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "沉静",
+      "tint": "7a7565",
+      "mnemonic": {
+        "en": "STOIC was a school on a STOA (porch). The dignity is in the holding, not the hiding.",
+        "zh": "Stoic 源于雅典 Stoa（柱廊）— 尊严在'承担'，不在'隐藏'。"
+      },
+      "commonConfusions": [
+        "indifferent",
+        "unemotional"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Is a stoic person someone who doesn't feel?",
+            "zh": "坚忍的人就是没有感觉的人吗？"
+          },
+          "answer": {
+            "en": "No. Stoics feel deeply. They just don't perform feeling — the dignity is in the holding.",
+            "zh": "不是。坚忍者感觉很深，只是不表演感觉 — 尊严在于'承担'。"
+          }
+        },
+        {
+          "question": {
+            "en": "When is stoicism a strength, and when is it a wall?",
+            "zh": "坚忍什么时候是力量，什么时候是一堵墙？"
+          },
+          "answer": {
+            "en": "Strength: enduring what can't be changed without burdening others. Wall: refusing to share what could be shared. The wise know the difference.",
+            "zh": "力量：默默承担无法改变的事，不去拖累别人。墙：连本可以分享的也不肯说。明白人知道分界。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The single parent who never complained through the divorce — until ten years later their grown child finally asked, and the whole story came out.",
+        "zh": "那位离婚期间从不抱怨的单亲家长 — 十年后长大的孩子终于开口问，整个故事才一点点流出来。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Restraint takes many shapes.",
+      "zh": "克制有许多形状。"
+    },
+    "leftLabel": "Ascetic",
+    "leftLine": {
+      "en": "chooses the lack",
+      "zh": "主动选择'无'"
+    },
+    "leftMnemonic": {
+      "en": "aske = practice · the discipline IS the gain",
+      "zh": "aske = 修炼 · 克制本身就是收获"
+    },
+    "rightLabel": "Austere",
+    "rightLine": {
+      "en": "lives without ornament",
+      "zh": "活得不加装饰"
+    },
+    "rightMnemonic": {
+      "en": "auster = harsh · the form IS the function",
+      "zh": "auster = 严苛 · 形式即功能"
+    },
+    "closing": {
+      "en": "Restraint isn't lack. It's a different kind of fullness.",
+      "zh": "克制不是空。是另一种充盈。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "What you don't reach for shapes you as much as what you do.",
+      "zh": "你不去伸手的东西，和你伸手的东西一样塑造着你。"
+    }
+  },
+  "audio": {
+    "hook.headline": "audio/vocab/ascetic-austere-stoic/hook.headline.wav",
+    "word.0.pronunciation": "audio/vocab/ascetic-austere-stoic/word.0.pronunciation.wav",
+    "word.0.definition": "audio/vocab/ascetic-austere-stoic/word.0.definition.wav",
+    "word.0.etymology": "audio/vocab/ascetic-austere-stoic/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/ascetic-austere-stoic/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/ascetic-austere-stoic/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/ascetic-austere-stoic/word.1.pronunciation.wav",
+    "word.1.definition": "audio/vocab/ascetic-austere-stoic/word.1.definition.wav",
+    "word.1.etymology": "audio/vocab/ascetic-austere-stoic/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/ascetic-austere-stoic/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/ascetic-austere-stoic/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/ascetic-austere-stoic/word.2.pronunciation.wav",
+    "word.2.definition": "audio/vocab/ascetic-austere-stoic/word.2.definition.wav",
+    "word.2.etymology": "audio/vocab/ascetic-austere-stoic/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/ascetic-austere-stoic/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/ascetic-austere-stoic/word.2.sentence.1.wav",
+    "twist.setup": "audio/vocab/ascetic-austere-stoic/twist.setup.wav",
+    "twist.left": "audio/vocab/ascetic-austere-stoic/twist.left.wav",
+    "twist.right": "audio/vocab/ascetic-austere-stoic/twist.right.wav",
+    "twist.closing": "audio/vocab/ascetic-austere-stoic/twist.closing.wav",
+    "recap.reflection": "audio/vocab/ascetic-austere-stoic/recap.reflection.wav",
+    "expansion.0.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.11.pronunciation.wav",
+    "expansion.12.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.12.pronunciation.wav",
+    "expansion.13.pronunciation": "audio/vocab/ascetic-austere-stoic/expansion.13.pronunciation.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 3,
+    "session": 1,
+    "pages": [
+      56,
+      75
+    ],
+    "theme": "Personality Types",
+    "subtheme": "Restraint"
+  },
+  "tags": [
+    "personality",
+    "restraint",
+    "discipline",
+    "ch3",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "asceticism",
+      "zh": "禁欲主义 / 苦行",
+      "root": "aske",
+      "partOfSpeech": "n.",
+      "phonetic": "a-SET'-i-siz-um",
+      "gloss": {
+        "en": "The noun form — the philosophy or practice of self-denial as a path.",
+        "zh": "ascetic 的名词形式 — 以克己为修行路径的哲学或实践。"
+      },
+      "usage": {
+        "en": "His asceticism wasn't about hating pleasure; it was about not letting pleasure run him.",
+        "zh": "他的苦行不是讨厌享受 — 而是不让享受牵着他走。"
+      }
+    },
+    {
+      "word": "austerity",
+      "zh": "紧缩 / 朴素",
+      "root": "auster",
+      "partOfSpeech": "n.",
+      "phonetic": "aw-STER'-i-tee",
+      "gloss": {
+        "en": "The quality of being austere — and, in politics, sharp economic cutbacks.",
+        "zh": "朴素的特质 — 在政治语境下，则指严厉的经济紧缩。"
+      },
+      "usage": {
+        "en": "After 2008, austerity measures across Europe defined a generation's economic experience.",
+        "zh": "2008 年之后，欧洲各地的紧缩政策定义了一代人的经济记忆。"
+      }
+    },
+    {
+      "word": "austerely",
+      "zh": "严苛地 / 朴素地",
+      "root": "auster",
+      "partOfSpeech": "adv.",
+      "phonetic": "aw-STEER'-lee",
+      "gloss": {
+        "en": "In a severe, plain, unadorned manner.",
+        "zh": "以严苛、朴素、不加修饰的方式。"
+      },
+      "usage": {
+        "en": "The chapel was austerely decorated — bare wood, white walls, one candle.",
+        "zh": "小教堂装饰得极为朴素 — 原木，白墙，一支蜡烛。"
+      }
+    },
+    {
+      "word": "stoicism",
+      "zh": "斯多葛主义 / 坚忍",
+      "root": "stoa",
+      "partOfSpeech": "n.",
+      "phonetic": "STO'-i-siz-um",
+      "gloss": {
+        "en": "The ancient Greek philosophy of endurance and virtue — or, in modern usage, the trait itself.",
+        "zh": "古希腊关于承受与德行的哲学 — 或现代语境下指坚忍这种特质。"
+      },
+      "usage": {
+        "en": "Modern stoicism is having a quiet revival on tech podcasts — Marcus Aurelius is suddenly required reading.",
+        "zh": "斯多葛主义在科技播客圈悄悄回潮 — Marcus Aurelius 一下子成了必读书目。"
+      }
+    },
+    {
+      "word": "stoical",
+      "zh": "坚忍的（同 stoic）",
+      "root": "stoa",
+      "partOfSpeech": "adj.",
+      "phonetic": "STO'-i-kul",
+      "gloss": {
+        "en": "Adjective form — interchangeable with stoic in most uses, slightly more formal.",
+        "zh": "stoic 的形容词变体 — 在大多数语境下可互换，略显正式。"
+      },
+      "usage": {
+        "en": "Her stoical response to the layoff impressed the team, even as everyone knew it had to hurt.",
+        "zh": "她对裁员的坚忍反应让团队侧目 — 尽管大家都知道，那一定痛。"
+      }
+    },
+    {
+      "word": "stoically",
+      "zh": "坚忍地",
+      "root": "stoa",
+      "partOfSpeech": "adv.",
+      "phonetic": "STO'-i-klee",
+      "gloss": {
+        "en": "In a stoic manner — enduring without complaint.",
+        "zh": "以坚忍的方式 — 默默承受而不抱怨。"
+      },
+      "usage": {
+        "en": "He sat stoically through the three-hour critique of his project — and then went home and rewrote the whole thing.",
+        "zh": "他坚忍地坐完了对自己项目长达三小时的批评 — 然后回家把整个项目重写了。"
+      }
+    },
+    {
+      "word": "athletic",
+      "zh": "运动的 / 健壮的",
+      "root": "aske",
+      "partOfSpeech": "adj.",
+      "phonetic": "ath-LET'-ik",
+      "gloss": {
+        "en": "Strong and active, like an athlete — same root family as ascetic; both come from Greek words for disciplined practice.",
+        "zh": "强壮、灵敏，如同运动员 — 和 ascetic 同根，都来自希腊语中表达'刻苦训练'的词。"
+      },
+      "usage": {
+        "en": "She trains six days a week — not for any sport, just to keep her body athletic into her sixties.",
+        "zh": "她每周训练六天 — 不为任何比赛，只为让自己的身体在六十岁之后还保持运动员般的状态。"
+      }
+    },
+    {
+      "word": "temperance",
+      "zh": "节制 / 自制",
+      "root": "temper",
+      "partOfSpeech": "n.",
+      "phonetic": "TEM'-pur-uns",
+      "gloss": {
+        "en": "Self-restraint, especially in eating, drinking, or strong emotion — moderation as a virtue.",
+        "zh": "自我克制，尤其在饮食、喝酒、强烈情绪上 — 把节制当作一种美德。"
+      },
+      "usage": {
+        "en": "Temperance went out of fashion as a Victorian word, but it's quietly being rediscovered as 'self-regulation' in modern psychology.",
+        "zh": "节制曾是维多利亚时代的词、后来过时 — 如今在现代心理学里以'自我调节'的名字悄悄回归。"
+      },
+      "rootMeaning": "to mix / moderate",
+      "rootMeaningZh": "调和 / 节制",
+      "rootTint": "7a8a6c"
+    },
+    {
+      "word": "frugal",
+      "zh": "节俭的",
+      "root": "frug",
+      "partOfSpeech": "adj.",
+      "phonetic": "FROO'-gul",
+      "gloss": {
+        "en": "Sparing with money or resources — getting good use out of what you have. From Latin frux = fruit, produce.",
+        "zh": "对钱或资源很节省 — 让已有的东西物尽其用。拉丁词根 frux = 果实、物产。"
+      },
+      "usage": {
+        "en": "His frugal habits stayed even after the company sold — he still walks to work and packs his lunch most days.",
+        "zh": "公司卖了之后，他的节俭习惯依旧 — 仍然走路上班，多数日子自己带饭。"
+      },
+      "rootMeaning": "fruit / produce / useful",
+      "rootMeaningZh": "果实 / 物产 / 有用",
+      "rootTint": "b8946a"
+    },
+    {
+      "word": "temperate",
+      "zh": "节制的 / 温和的",
+      "root": "temper",
+      "partOfSpeech": "adj.",
+      "phonetic": "TEM'-pur-it",
+      "gloss": {
+        "en": "Moderate — not extreme; restrained in eating, drinking, or emotion. Also describes mild climate.",
+        "zh": "节制、不极端 — 在饮食、情绪上保持克制。也用来形容温和的气候。"
+      },
+      "usage": {
+        "en": "He's temperate in everything — never the loudest, never the drunkest, never the saddest — and somehow that consistency is its own quiet charisma.",
+        "zh": "他事事节制 — 从不最吵，从不最醉，也从不最伤心 — 这种一致本身，竟成了一种安静的魅力。"
+      }
+    },
+    {
+      "word": "intemperate",
+      "zh": "无节制的 / 放纵的",
+      "root": "temper",
+      "partOfSpeech": "adj.",
+      "phonetic": "in-TEM'-pur-it",
+      "gloss": {
+        "en": "Lacking restraint — too much of anything: drink, anger, indulgence.",
+        "zh": "不加节制 — 任何东西都太多：酒、怒、放纵。"
+      },
+      "usage": {
+        "en": "His intemperate emails after midnight cost him more relationships than any single decision ever did.",
+        "zh": "他半夜放纵的邮件 — 比任何单一决定都让他失去更多关系。"
+      }
+    },
+    {
+      "word": "temperament",
+      "zh": "性情 / 性格倾向",
+      "root": "temper",
+      "partOfSpeech": "n.",
+      "phonetic": "TEM'-pur-uh-ment",
+      "gloss": {
+        "en": "A person's natural disposition — the baseline emotional 'mixture' you were born with.",
+        "zh": "一个人天生的性情 — 与生俱来的情绪基调。"
+      },
+      "usage": {
+        "en": "Two kids in the same house, same parents, same rules — but radically different temperaments, and the parenting has to bend to each.",
+        "zh": "同一个家，同一对父母，同样的规矩 — 两个孩子却性情迥异，养育只能各自调整。"
+      }
+    },
+    {
+      "word": "frugality",
+      "zh": "节俭",
+      "root": "frug",
+      "partOfSpeech": "n.",
+      "phonetic": "froo-GAL'-i-tee",
+      "gloss": {
+        "en": "The noun form of frugal — the quality or habit of being sparing with resources.",
+        "zh": "frugal 的名词形式 — 节省使用资源的习惯或品质。"
+      },
+      "usage": {
+        "en": "His grandmother's frugality came from Depression-era memory — and quietly funded three grandchildren's college.",
+        "zh": "他祖母的节俭来自大萧条年代的记忆 — 也悄悄供出了三个孙辈的大学学费。"
+      }
+    },
+    {
+      "word": "abstemious",
+      "zh": "节制饮食的 / 有节制的",
+      "root": "abstain",
+      "partOfSpeech": "adj.",
+      "phonetic": "ab-STEE'-mee-us",
+      "gloss": {
+        "en": "Sparing in eating, drinking, or indulgence — from Latin abs (away) + temetum (intoxicating drink).",
+        "zh": "在饮食或享乐上节制 — 拉丁词 abs（离开）+ temetum（醉酒之物）。"
+      },
+      "usage": {
+        "en": "She kept an abstemious table — small portions, no alcohol — and somehow her dinner parties were the warmest in our circle.",
+        "zh": "她家的餐桌很节制 — 量不多，不喝酒 — 但她办的聚餐反而是我们圈子里最温暖的。"
+      },
+      "rootMeaning": "to hold back / refrain",
+      "rootMeaningZh": "克制 / 戒",
+      "rootTint": "8e7888"
+    }
+  ]
+}

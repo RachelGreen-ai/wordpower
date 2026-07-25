@@ -1,0 +1,499 @@
+{
+  "lessonId": "incorrigible-inveterate-chronic",
+  "hook": {
+    "headline": {
+      "en": "Three liars who can't quit. Different roots. Same dead end.",
+      "zh": "三种戒不掉的骗子。不同的根，同一条死胡同。"
+    },
+    "subtext": {
+      "en": "What's the difference between not stopping, not changing, and never stopping in the first place?",
+      "zh": "'停不下来'、'改不了'、'从一开始就一直在' — 这三件事的区别是什么？"
+    }
+  },
+  "words": [
+    {
+      "word": "Incorrigible",
+      "phonetic": "in-KOR'-i-ji-bal",
+      "chinese": "屡教不改的",
+      "definition": {
+        "en": "Beyond correction — someone you can warn, punish, coach, or beg, and the behavior comes back unchanged.",
+        "zh": "无法被纠正 — 你可以提醒、惩罚、教导、恳求他，行为还是会原样回来。"
+      },
+      "etymology": {
+        "root": "regere",
+        "meaning": "to rule, guide, set straight",
+        "meaningZh": "管、引导、矫正",
+        "en": "From Latin in- (not) + corrigere (to set straight) — itself com- (together) + regere (to rule, guide). Same regere gives us 'regulate,' 'direct,' 'regime,' and 'regent.'",
+        "zh": "拉丁 in-（不）+ corrigere（弄直）— corrigere 又由 com-（合）+ regere（管、引导）构成。同一个 regere 还给了我们 regulate、direct、regime、regent。",
+        "relatives": [
+          {
+            "word": "correct",
+            "zh": "纠正"
+          },
+          {
+            "word": "regulate",
+            "zh": "调节、管控"
+          },
+          {
+            "word": "direct",
+            "zh": "指引、直接的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He's an incorrigible interrupter — three coaches and two reviews later, he's still mid-sentence over everyone else.",
+          "zh": "他是个屡教不改的打断王 — 换了三个教练、做了两次评估，他还是在每个人话头上抢着说。"
+        },
+        {
+          "context": "parenting",
+          "en": "Some kids are sweetly incorrigible — you tell them no, they smile, and you watch them try it again.",
+          "zh": "有些孩子是甜甜的'屡教不改' — 你说不行，他们一笑，然后你眼睁睁看他们又试了一次。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "不改",
+      "tint": "c54848",
+      "mnemonic": {
+        "en": "In + Corrigere = NOT + STRAIGHTEN. The door is bolted from the inside. No coach is getting in.",
+        "zh": "In + Corrigere = 不 + 弄直。门是从里面锁的。再厉害的教练也进不去。"
+      },
+      "commonConfusions": [
+        "stubborn",
+        "unrepentant",
+        "obstinate"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Stubborn and incorrigible both refuse to change. Which is harder to live with?",
+            "zh": "Stubborn（固执）和 incorrigible（屡教不改）都是不肯变。哪个更难相处？"
+          },
+          "answer": {
+            "en": "Stubborn refuses on the issue. Incorrigible refuses being CORRECTED — even when they agree the behavior is wrong, the next time happens anyway.",
+            "zh": "Stubborn 是在某件事上不让步。Incorrigible 是抗拒'被纠正'本身 — 哪怕他承认行为不对，下一次还是会再来。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "In Victorian schools 'incorrigible' was a formal label — once stamped on a student's record, no teacher tried to teach them anymore. The word didn't just describe the kid. It was the school giving up.",
+        "zh": "在维多利亚时代的学校里，'incorrigible'是一个正式标签 — 一旦盖在学生档案上，再没有老师愿意教他们。这个词不只是在描述孩子，它其实是学校在举手投降。"
+      }
+    },
+    {
+      "word": "Inveterate",
+      "phonetic": "in-VET'-ar-it",
+      "chinese": "根深蒂固的",
+      "definition": {
+        "en": "Settled into a habit so old it's part of the person — they don't fight it, they don't notice it, they just keep doing it.",
+        "zh": "习惯已经老到长进骨头里 — 他不抵抗，也不察觉，就是一直在做。"
+      },
+      "etymology": {
+        "root": "vetus",
+        "meaning": "old, aged",
+        "meaningZh": "老、陈年",
+        "en": "From Latin inveteratus = 'aged into' — in- (into) + vetus (old). Same vetus gives us 'veteran' (old soldier) and 'veterinarian' (originally a doctor of old draft animals).",
+        "zh": "拉丁 inveteratus = 长进岁月里 — in-（进入）+ vetus（老）。同一个 vetus 给了我们 veteran（老兵）和 veterinarian（最初指给老牲口看病的医生）。",
+        "relatives": [
+          {
+            "word": "veteran",
+            "zh": "老兵、老手"
+          },
+          {
+            "word": "veterinarian",
+            "zh": "兽医"
+          },
+          {
+            "word": "veteranship",
+            "zh": "老资历"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She's an inveterate note-taker — even at the coffee machine, the notebook is open.",
+          "zh": "她是个根深蒂固的笔记控 — 哪怕站在咖啡机旁，笔记本都是翻开的。"
+        },
+        {
+          "context": "friends",
+          "en": "He's an inveterate optimist — twenty years of bad luck haven't changed his face.",
+          "zh": "他是个根深蒂固的乐观主义者 — 二十年的霉运也没改过他脸上的表情。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "老惯性",
+      "tint": "a06848",
+      "mnemonic": {
+        "en": "Vetus = OLD. Inveterate = aged INTO the person. Not a behavior they have. A behavior they ARE.",
+        "zh": "Vetus = 老。Inveterate 是习惯长进了这个人。不是他'有'这个行为，而是他'就是'这个行为。"
+      },
+      "commonConfusions": [
+        "habitual",
+        "lifelong",
+        "entrenched"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Habitual and inveterate are close. What's the texture difference?",
+            "zh": "Habitual 和 inveterate 很接近。在质感上有什么差别？"
+          },
+          "answer": {
+            "en": "Habitual = does it regularly. Inveterate = has done it so long it's identity, not action. You can interrupt a habit. You'd have to rewrite a person to interrupt the inveterate.",
+            "zh": "Habitual = 经常做。Inveterate = 做得太久，已经变成身份而不是动作。你可以打断一个习惯，但要打断'根深蒂固'，你得重写一个人。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Mark Twain once described himself as an 'inveterate procrastinator' — and meant it half as a confession, half as pride. The funny part is that he wrote thirty books anyway. Inveterate doesn't always mean lost. Sometimes it means: this is who I am, and I'll work around it.",
+        "zh": "马克·吐温曾经形容自己是'根深蒂固的拖延者' — 一半是认错，一半是带点自豪。有意思的是他还是写了三十本书。'根深蒂固'不总意味着完蛋。有时候它意味着：这就是我，我会绕着它继续走。"
+      }
+    },
+    {
+      "word": "Chronic",
+      "phonetic": "KRON'-ik",
+      "chinese": "长期的、慢性的",
+      "definition": {
+        "en": "Persisting over a long time, with no clean ending — chronic problems don't explode. They quietly never go away.",
+        "zh": "长期持续，没有干净的结尾 — 慢性的问题不会爆发，而是安静地一直不走。"
+      },
+      "etymology": {
+        "root": "chronos",
+        "meaning": "time",
+        "meaningZh": "时间",
+        "en": "From Greek chronos = 'time.' Same chronos gives us 'chronicle' (record of time), 'chronology,' 'anachronism' (out of time), and 'synchronize' (same time).",
+        "zh": "希腊词根 chronos = 时间。同一个 chronos 给了我们 chronicle（编年史）、chronology（年代学）、anachronism（错时）、synchronize（同步）。",
+        "relatives": [
+          {
+            "word": "chronicle",
+            "zh": "编年史"
+          },
+          {
+            "word": "chronology",
+            "zh": "年代顺序"
+          },
+          {
+            "word": "synchronize",
+            "zh": "同步"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Their meetings have chronic agenda creep — one item starts on time, the rest stretches into forever.",
+          "zh": "他们的会议有慢性议程蔓延症 — 第一条按时讨论，剩下的一拖再拖。"
+        },
+        {
+          "context": "social",
+          "en": "Chronic lateness isn't a habit. It's a quiet message about whose time matters.",
+          "zh": "长期迟到不是个习惯 — 是一个安静的信号，告诉别人谁的时间更重要。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "长年",
+      "tint": "6a7d9a",
+      "mnemonic": {
+        "en": "Chronos = TIME. Chronic = something that has time on its side. It outlasts your patience to wait it out.",
+        "zh": "Chronos = 时间。慢性 = 站在时间这一边的事情。它能耗光你等它结束的耐心。"
+      },
+      "commonConfusions": [
+        "acute",
+        "persistent",
+        "recurring"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "In medicine, what's the difference between chronic and acute?",
+            "zh": "在医学里，chronic 和 acute 有什么区别？"
+          },
+          "answer": {
+            "en": "Acute = sharp and short — onset fast, ends fast. Chronic = long and slow — no clear start, no clear end. Most modern suffering is chronic.",
+            "zh": "Acute = 急性 — 起得快、走得也快。Chronic = 慢性 — 没有明确的起点，也没有明确的终点。现代人大多数的痛苦都是慢性的。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Greek myth had two gods of time. Chronos was clock time — the slow, accumulating river of it. Kairos was the right moment — the perfect now. Most chronic problems exist because we keep waiting for the kairos to fix what's already cost us years of chronos.",
+        "zh": "希腊神话里有两个时间之神。Chronos 是钟表时间 — 缓慢累积的那条河。Kairos 是恰当的那一刻 — 完美的'现在'。大多数慢性问题之所以一直在，是因为我们总在等那个'恰当的时机' — 来修复早已花掉我们好多年 chronos 的事。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both can't quit. But one resists fixing. The other doesn't see the need.",
+      "zh": "两人都戒不掉。但一个抗拒被修，另一个根本看不到要修。"
+    },
+    "leftLabel": "Incorrigible",
+    "leftLine": {
+      "en": "You can't fix it from outside.",
+      "zh": "外面的人无法修复它。"
+    },
+    "leftMnemonic": {
+      "en": "In-Corrigere = NOT-CORRECT · the door bolted from inside.",
+      "zh": "In + Corrigere = 不 + 弄直 · 门从里面锁着。"
+    },
+    "rightLabel": "Inveterate",
+    "rightLine": {
+      "en": "It's just what they DO. Always has been.",
+      "zh": "这就是他们的'做法'。一直都是。"
+    },
+    "rightMnemonic": {
+      "en": "Vetus = OLD · the habit aged into the person.",
+      "zh": "Vetus = 老 · 习惯长进了这个人。"
+    },
+    "closing": {
+      "en": "One can't be changed. The other doesn't know change is an option.",
+      "zh": "一个无法被改变。一个根本不知道'改变'这个选项存在。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Habits don't break when you push them — they break when you finally see them clearly. The hardest part of changing isn't the will. It's the seeing.",
+      "zh": "习惯不会因为你用力推就断 — 它们要等你真正看清它们的那一刻才断。最难的不是意志，是看见。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/incorrigible-inveterate-chronic/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/incorrigible-inveterate-chronic/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/incorrigible-inveterate-chronic/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/incorrigible-inveterate-chronic/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/incorrigible-inveterate-chronic/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/incorrigible-inveterate-chronic/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/incorrigible-inveterate-chronic/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/incorrigible-inveterate-chronic/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/incorrigible-inveterate-chronic/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/incorrigible-inveterate-chronic/twist.left.wav",
+    "twist.right": "audio/vocab/incorrigible-inveterate-chronic/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/incorrigible-inveterate-chronic/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/incorrigible-inveterate-chronic/hook.headline.wav",
+    "word.0.definition": "audio/vocab/incorrigible-inveterate-chronic/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/incorrigible-inveterate-chronic/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/incorrigible-inveterate-chronic/word.2.definition.wav",
+    "twist.setup": "audio/vocab/incorrigible-inveterate-chronic/twist.setup.wav",
+    "twist.closing": "audio/vocab/incorrigible-inveterate-chronic/twist.closing.wav",
+    "recap.reflection": "audio/vocab/incorrigible-inveterate-chronic/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 7,
+    "session": 14,
+    "pages": [
+      148,
+      170
+    ],
+    "theme": "Liars and Lying",
+    "subtheme": "Locked in — unreformable, habitual, perpetual"
+  },
+  "tags": [
+    "liars",
+    "lying",
+    "habit",
+    "ch7",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "correct",
+      "zh": "纠正、正确的",
+      "root": "regere",
+      "partOfSpeech": "v./adj.",
+      "phonetic": "ka-REKT'",
+      "gloss": {
+        "en": "To set right — com- (together) + regere (rule, guide). The verb that 'incorrigible' refuses.",
+        "zh": "弄直、改过来 — com-（合）+ regere（管、引导）。屡教不改的人，正是拒绝这个动词。"
+      },
+      "usage": {
+        "en": "Correcting someone's grammar is easy. Correcting their reasoning is the brave kind.",
+        "zh": "纠正别人的语法很容易。纠正他们的思路，才是有勇气的那种纠正。"
+      }
+    },
+    {
+      "word": "regulate",
+      "zh": "调节、管控",
+      "root": "regere",
+      "partOfSpeech": "v.",
+      "phonetic": "REG'-yoo-layt",
+      "gloss": {
+        "en": "To keep something within a rule — from regula (a straight rod, a ruler), itself from regere (to rule).",
+        "zh": "把某件事控制在规则之内 — 来自 regula（直尺、规则），而 regula 又来自 regere（管）。"
+      },
+      "usage": {
+        "en": "A wise body regulates emotion the way a thermostat regulates heat — not by killing it, but by setting a range.",
+        "zh": "一个清醒的人调节情绪，就像恒温器调节温度 — 不是消灭它，而是给它一个范围。"
+      }
+    },
+    {
+      "word": "regime",
+      "zh": "政体、规章",
+      "root": "regere",
+      "partOfSpeech": "n.",
+      "phonetic": "ra-ZHEEM'",
+      "gloss": {
+        "en": "A system of rule — government, training plan, or treatment schedule. Same regere as 'regulate.'",
+        "zh": "一套被规则约束的系统 — 政府、训练计划、治疗方案皆可。和 regulate 同根。"
+      },
+      "usage": {
+        "en": "Every new regime promises change. Most just rearrange who gets the perks.",
+        "zh": "每个新政体都承诺变革，大多数只是重新分配一下'谁享有特权'。"
+      }
+    },
+    {
+      "word": "direct",
+      "zh": "直接的、指引",
+      "root": "regere",
+      "partOfSpeech": "v./adj.",
+      "phonetic": "di-REKT'",
+      "gloss": {
+        "en": "To guide straight — di- (apart, distinctly) + regere (guide). Both the adjective ('straight, frank') and the verb ('to lead').",
+        "zh": "笔直地引导 — di-（分开、明确地）+ regere（引导）。既是形容词（笔直、直率），也是动词（指引）。"
+      },
+      "usage": {
+        "en": "A direct answer takes one breath. Most of us take ten and call it diplomacy.",
+        "zh": "一个直接的回答只用一口气。我们大多数人要用十口气，再把它叫做'外交辞令'。"
+      }
+    },
+    {
+      "word": "regent",
+      "zh": "摄政者",
+      "root": "regere",
+      "partOfSpeech": "n.",
+      "phonetic": "REE'-jant",
+      "gloss": {
+        "en": "One who rules in place of another — the present participle of regere, literally 'ruling.'",
+        "zh": "代替他人统治的人 — regere 的现在分词，字面意思是'正在管的人'。"
+      },
+      "usage": {
+        "en": "Every regent rules with someone else's name on the throne — and someone else's risk on the line.",
+        "zh": "每一位摄政者，王座上挂着的是别人的名字 — 而冒险的，也是别人的命。"
+      }
+    },
+    {
+      "word": "veteran",
+      "zh": "老兵、老手",
+      "root": "vetus",
+      "partOfSpeech": "n.",
+      "phonetic": "VET'-ar-an",
+      "gloss": {
+        "en": "An old hand — one who has been at it long enough to count. Direct from vetus, 'old.'",
+        "zh": "老手 — 在这件事上做了够久、值得算数的人。直接来自 vetus（老）。"
+      },
+      "usage": {
+        "en": "A veteran isn't just someone old at the job — it's someone who has paid in mistakes.",
+        "zh": "老手不只是在这行干了很久的人 — 是用错误付过学费的人。"
+      }
+    },
+    {
+      "word": "veterinarian",
+      "zh": "兽医",
+      "root": "vetus",
+      "partOfSpeech": "n.",
+      "phonetic": "vet'-ar-a-NAIR'-ee-an",
+      "gloss": {
+        "en": "Originally a doctor of old draft animals — vetus (old). The aged horses and oxen needed their own physician.",
+        "zh": "最初是给老牲口看病的医生 — vetus（老）。上了年纪的马和牛需要自己的医生。"
+      },
+      "usage": {
+        "en": "A good veterinarian reads animals like a translator reads a foreign poem — slowly, with respect.",
+        "zh": "好的兽医读动物，像译者读一首外语诗 — 慢慢地，带着尊重。"
+      }
+    },
+    {
+      "word": "chronicle",
+      "zh": "编年史",
+      "root": "chronos",
+      "partOfSpeech": "n.",
+      "phonetic": "KRON'-i-kal",
+      "gloss": {
+        "en": "A record of events in the order they happened — from chronos (time). Same root as 'chronic.'",
+        "zh": "按发生顺序记录的事件 — 来自 chronos（时间）。和 chronic 同根。"
+      },
+      "usage": {
+        "en": "Every family has a private chronicle — the version that gets told at funerals, not parties.",
+        "zh": "每个家庭都有一部私人编年史 — 是葬礼上讲的那个版本，不是聚会上的那个。"
+      }
+    },
+    {
+      "word": "chronology",
+      "zh": "年代顺序",
+      "root": "chronos",
+      "partOfSpeech": "n.",
+      "phonetic": "kra-NOL'-a-jee",
+      "gloss": {
+        "en": "The arrangement of events by time — chronos + logos (study). The science of figuring out what happened in what order.",
+        "zh": "把事件按时间排开 — chronos + logos（学问）。研究'什么事按什么顺序发生'的学问。"
+      },
+      "usage": {
+        "en": "Memory has its own chronology — the order that matters isn't the calendar's.",
+        "zh": "记忆有自己的时间顺序 — 它在意的顺序，并不是日历上的那个。"
+      }
+    },
+    {
+      "word": "anachronism",
+      "zh": "时代错置",
+      "root": "chronos",
+      "partOfSpeech": "n.",
+      "phonetic": "a-NAK'-ra-niz-am",
+      "gloss": {
+        "en": "Something out of its proper time — ana- (against) + chronos. A flip phone in a 2025 movie. A Roman with a wristwatch.",
+        "zh": "时代错置 — ana-（反）+ chronos。2025 年的电影里出现翻盖手机；古罗马人戴手表。"
+      },
+      "usage": {
+        "en": "Some of our laws are anachronisms — written for a world that no longer exists.",
+        "zh": "我们有些法律是时代错置的产物 — 为一个早已不存在的世界写的。"
+      }
+    },
+    {
+      "word": "synchronize",
+      "zh": "同步",
+      "root": "chronos",
+      "partOfSpeech": "v.",
+      "phonetic": "SIN'-kra-niz",
+      "gloss": {
+        "en": "To make two times line up — syn- (together) + chronos (time).",
+        "zh": "让两个时间对齐 — syn-（一起）+ chronos（时间）。"
+      },
+      "usage": {
+        "en": "Heist movies always have the watch-synchronizing scene because precision is the only thing standing between plan and disaster.",
+        "zh": "劫案电影里总会有对表的镜头 — 因为精确，是计划和灾难之间唯一的那道墙。"
+      }
+    },
+    {
+      "word": "contemporary",
+      "zh": "同时代的、当代的",
+      "root": "tempus",
+      "partOfSpeech": "adj./n.",
+      "phonetic": "kan-TEM'-pa-rair-ee",
+      "gloss": {
+        "en": "Living in the same time — con- (together) + tempus (time). Latin's tempus is the cousin of Greek's chronos: same idea, different ancestor.",
+        "zh": "生活在同一个时代 — con-（一起）+ tempus（时间）。拉丁的 tempus 是希腊 chronos 的表亲 — 同一个概念，两个祖先。"
+      },
+      "usage": {
+        "en": "Two contemporaries can live in totally different worlds — same year, different centuries inside their heads.",
+        "zh": "两个同时代的人，可以活在完全不同的世界 — 同一年，可脑子里却各自处在不同的世纪。"
+      },
+      "rootMeaning": "time (Latin)",
+      "rootMeaningZh": "时间（拉丁）",
+      "rootTint": "8e6ea8"
+    }
+  ]
+}

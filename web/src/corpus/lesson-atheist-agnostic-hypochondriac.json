@@ -1,0 +1,502 @@
+{
+  "lessonId": "atheist-agnostic-hypochondriac",
+  "hook": {
+    "headline": {
+      "en": "Three relationships with certainty. About God. About the body.",
+      "zh": "三种和'确定性'相处的方式。关于神。关于身体。"
+    },
+    "subtext": {
+      "en": "No belief, no knowledge, or too much imagined certainty about what hurts.",
+      "zh": "什么都不信、什么都不知道、或对'哪里疼'抱有过多想象的确信。"
+    }
+  },
+  "words": [
+    {
+      "word": "Atheist",
+      "phonetic": "AY'-thee-ist",
+      "chinese": "无神论者",
+      "definition": {
+        "en": "Someone who does not believe in any god — not 'undecided,' not 'angry at religion,' but simply: no belief in a deity. Atheism is a position, not an attack.",
+        "zh": "不相信任何神的人 — 不是'还没想好'，也不是'对宗教生气'，而是：不相信存在神祇。无神论是一种立场，不是一种攻击。"
+      },
+      "etymology": {
+        "root": "theos",
+        "meaning": "god",
+        "meaningZh": "神",
+        "en": "From Greek a- (without) + theos (god). Same theos in 'theology' (the study of god), 'theism' (belief in god), 'pantheon' (all the gods), and 'monotheism' (one god).",
+        "zh": "希腊 a-（没有）+ theos（神）。同一个 theos 出现在 theology（神学）、theism（有神论）、pantheon（万神殿）、monotheism（一神论）里。",
+        "relatives": [
+          {
+            "word": "theology",
+            "zh": "神学"
+          },
+          {
+            "word": "theism",
+            "zh": "有神论"
+          },
+          {
+            "word": "pantheon",
+            "zh": "万神殿"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "His atheism wasn't loud — it was just one of the things about him, like being left-handed.",
+          "zh": "他的无神论并不张扬 — 只是他身上的一个特征，和'是左撇子'差不多。"
+        },
+        {
+          "context": "social",
+          "en": "A thoughtful atheist isn't anti-religious — they're just careful about what they call true.",
+          "zh": "一个有思考的无神论者并不反宗教 — 他只是对'什么算真'这件事更谨慎。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "无神",
+      "tint": "5e7a99",
+      "mnemonic": {
+        "en": "A + Theos = WITHOUT + GOD. Not a stance against religion. A stance without a deity in it.",
+        "zh": "A + Theos = 没有 + 神。不是反对宗教 — 而是这个立场里没有神。"
+      },
+      "commonConfusions": [
+        "agnostic",
+        "secular",
+        "skeptic"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Atheist and agnostic both step away from religion. What's the difference?",
+            "zh": "Atheist 和 agnostic 都离开了宗教。区别在哪？"
+          },
+          "answer": {
+            "en": "Atheist = no belief in god. Agnostic = no claim either way — 'I don't know, and maybe no one can.' One has answered. The other has stopped asking.",
+            "zh": "Atheist = 不信神。Agnostic = 不下结论 — '我不知道，也许没人能知道'。一个已经回答了，一个不再问。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Carl Sagan — astronomer, writer, atheist — was famous for saying 'extraordinary claims require extraordinary evidence.' He didn't hate religion. He just refused to call something true before it had earned the word. That's most thoughtful atheism: not anger. Patience.",
+        "zh": "天文学家、作家、无神论者卡尔·萨根说过一句名言：'非凡的主张需要非凡的证据。'他不仇恨宗教 — 他只是拒绝在某件事还没赚到'真'这个字之前，就给它这个字。大多数有思考的无神论是这样的：不是愤怒，是耐心。"
+      }
+    },
+    {
+      "word": "Agnostic",
+      "phonetic": "ag-NOS'-tik",
+      "chinese": "不可知论者",
+      "definition": {
+        "en": "Someone who holds that the existence of god is unknown — and perhaps unknowable. An agnostic isn't undecided; they've decided that certainty isn't available to them.",
+        "zh": "认为神是否存在无法被人知道 — 或许根本无法知晓的人。不可知论者不是没决定 — 他们已经决定：'确定性'不在他们能伸手够到的地方。"
+      },
+      "etymology": {
+        "root": "gnosis",
+        "meaning": "knowledge",
+        "meaningZh": "知识、知道",
+        "en": "From Greek a- (without) + gnosis (knowledge). Literally 'without knowing.' Same gnosis in 'diagnosis' (knowing through), 'prognosis' (knowing before), and even the modern words 'know' and 'cognition' (via a Latin cousin).",
+        "zh": "希腊 a-（没有）+ gnosis（知识）。字面意思是'没有知道'。同一个 gnosis 出现在 diagnosis（诊断，'通过…知道'）、prognosis（预后，'事前知道'）里；know（知道）和 cognition（认知）也是它的远亲（经由拉丁语）。",
+        "relatives": [
+          {
+            "word": "diagnosis",
+            "zh": "诊断"
+          },
+          {
+            "word": "prognosis",
+            "zh": "预后、预测"
+          },
+          {
+            "word": "cognition",
+            "zh": "认知"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She was agnostic about the framework choice — not lazy, just honest that the data didn't pick a winner.",
+          "zh": "她对选哪个框架持不可知态度 — 不是偷懒，而是诚实地说'现有数据无法判出胜者'。"
+        },
+        {
+          "context": "social",
+          "en": "Being agnostic is a discipline — refusing to claim what you don't know, even when it would be socially easier to claim it.",
+          "zh": "不可知论是一种自律 — 拒绝承认你不知道的事，哪怕社交上承认更轻松。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "不知",
+      "tint": "6a7d8a",
+      "mnemonic": {
+        "en": "A + Gnosis = WITHOUT + KNOWLEDGE. Not 'no answer' — 'I don't know, and I'm not pretending I do.'",
+        "zh": "A + Gnosis = 没有 + 知道。不是'没答案' — 是'我不知道，而我不会假装我知道'。"
+      },
+      "commonConfusions": [
+        "uncertain",
+        "skeptical",
+        "atheist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Skeptical and agnostic are close. What's the difference?",
+            "zh": "Skeptical（怀疑的）和 agnostic（不可知的）接近。区别在哪？"
+          },
+          "answer": {
+            "en": "A skeptic doubts — but might be convinced by evidence. An agnostic claims the evidence isn't there to be had. Doubt expects an answer; agnosticism doesn't.",
+            "zh": "Skeptic 是在怀疑 — 但有证据时也许会被说服。Agnostic 认为这件事本来就拿不到证据。怀疑还期待答案；不可知论则不期待。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The biologist Thomas Huxley coined 'agnostic' in 1869 because he wanted a word for his actual position. He wasn't atheist, wasn't believer. He needed language for the in-between honest stance: 'I do not know, and I think no one knows.' Sometimes you have to invent a word for the place you actually live.",
+        "zh": "生物学家托马斯·赫胥黎在 1869 年造出 'agnostic' 这个词，因为他需要一个能准确表达自己立场的词。他不是无神论者，也不是信徒。他需要一个词来表达那个诚实的中间状态：'我不知道，我认为没人知道。'有时候你必须为自己实际居住的那个位置，造一个词。"
+      }
+    },
+    {
+      "word": "Hypochondriac",
+      "phonetic": "hi'-pa-KON'-dree-ak",
+      "chinese": "疑病症患者",
+      "definition": {
+        "en": "Someone who imagines or exaggerates having serious illnesses — every headache is a tumor, every chest twinge a heart attack. The suffering is real. The illness isn't.",
+        "zh": "想象或夸大自己身患重病的人 — 每个头痛都是肿瘤，每个胸口刺痛都是心脏病。痛苦是真的，疾病却不是。"
+      },
+      "etymology": {
+        "root": "hypochondrium",
+        "meaning": "below the cartilage (the upper abdomen)",
+        "meaningZh": "软骨之下（上腹部）",
+        "en": "From Greek hypo- (under) + chondros (cartilage). The 'hypochondrium' is the area below the ribs' cartilage — the upper abdomen. Ancient doctors thought melancholy and morbid imagination came from this region. The word for the location became the word for the affliction.",
+        "zh": "希腊 hypo-（在下）+ chondros（软骨）。'Hypochondrium'就是肋软骨之下的区域 — 上腹部。古代医生认为忧郁和病态想象都源于这个部位。这个'部位的词'变成了'病的词'。",
+        "relatives": [
+          {
+            "word": "hypothesis",
+            "zh": "假说（'置于下面'）"
+          },
+          {
+            "word": "hypothermia",
+            "zh": "低温症（'温度在下'）"
+          },
+          {
+            "word": "hypoglycemia",
+            "zh": "低血糖（'糖在下'）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He's a sweet hypochondriac — every Monday brings a new symptom, every Friday a complete recovery.",
+          "zh": "他是个心善的疑病症患者 — 每个周一都有新症状，每个周五又奇迹般康复。"
+        },
+        {
+          "context": "social",
+          "en": "Hypochondria isn't fakery — the fear is real, even if the illness isn't. Be patient with it the way you'd be patient with anxiety.",
+          "zh": "疑病不是装病 — 恐惧是真的，哪怕病不是。要像对待焦虑一样耐心对待它。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "疑病",
+      "tint": "a06a8a",
+      "mnemonic": {
+        "en": "Hypo + Chondros = UNDER + CARTILAGE. The ancients put dread in the upper belly. We now put it in the imagination — but the location moved, not the feeling.",
+        "zh": "Hypo + Chondros = 在下 + 软骨。古人把恐惧定位在上腹部。现在我们把它放在想象里 — 位置变了，感觉没变。"
+      },
+      "commonConfusions": [
+        "malingerer",
+        "anxious",
+        "imagined-illness"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Hypochondriac and malingerer both report illnesses. What's the difference?",
+            "zh": "Hypochondriac 和 malingerer（装病者）都报告病痛。区别在哪？"
+          },
+          "answer": {
+            "en": "A hypochondriac BELIEVES they're sick. A malingerer pretends to be — for advantage. One is anxious, one is calculating.",
+            "zh": "Hypochondriac 是真心相信自己病了。Malingerer 是装的 — 为了某种好处。一个是焦虑，一个是算计。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Molière, the great French playwright, wrote 'The Imaginary Invalid' — a comedy about a hypochondriac — and died during its fourth performance, on stage, of an actual illness he'd ignored. He played a man pretending to die, then did. There's no kinder reminder that hypochondria and real sickness can coexist in one body.",
+        "zh": "法国剧作家莫里哀写了《无病呻吟》— 一部关于疑病症患者的喜剧 — 然后在第四场演出中倒在了舞台上，死于一种他自己忽略的真实疾病。他扮演了一个'假装快死'的人，然后真的死了。再没有比这更温柔的提醒：疑病和真病，可以同时住在一个身体里。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Atheist and agnostic share the same word — 'a-' meaning 'without.' Without what?",
+      "zh": "无神论者和不可知论者共享同一个词根 — 'a-' 意思是'没有'。没有的是什么？"
+    },
+    "leftLabel": "Atheist",
+    "leftLine": {
+      "en": "Without GOD. The position is taken.",
+      "zh": "没有神。立场已经定下。"
+    },
+    "leftMnemonic": {
+      "en": "A + Theos = WITHOUT-GOD · the question answered.",
+      "zh": "A + Theos = 没有神 · 问题有答案了。"
+    },
+    "rightLabel": "Agnostic",
+    "rightLine": {
+      "en": "Without KNOWLEDGE. The question stays open.",
+      "zh": "没有知识。问题继续开着。"
+    },
+    "rightMnemonic": {
+      "en": "A + Gnosis = WITHOUT-KNOWING · the question kept open.",
+      "zh": "A + Gnosis = 没有知道 · 问题继续开着。"
+    },
+    "closing": {
+      "en": "One says no. The other says: I'm not sure no is the right answer either.",
+      "zh": "一个说'不'。另一个说：我也不确定'不'就是对的答案。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Certainty is a strange resource — too little, you drift; too much, you stop seeing. The three figures here show different settings of the dial. Watch your own.",
+      "zh": "确定性是一种奇怪的资源 — 太少，会漂；太多，会看不见。今天三个角色，是这把刻度盘的三个挡位。看好你自己的那一个。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/atheist-agnostic-hypochondriac/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/atheist-agnostic-hypochondriac/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/atheist-agnostic-hypochondriac/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/atheist-agnostic-hypochondriac/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/atheist-agnostic-hypochondriac/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/atheist-agnostic-hypochondriac/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/atheist-agnostic-hypochondriac/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/atheist-agnostic-hypochondriac/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/atheist-agnostic-hypochondriac/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/atheist-agnostic-hypochondriac/twist.left.wav",
+    "twist.right": "audio/vocab/atheist-agnostic-hypochondriac/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/atheist-agnostic-hypochondriac/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/atheist-agnostic-hypochondriac/hook.headline.wav",
+    "word.0.definition": "audio/vocab/atheist-agnostic-hypochondriac/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/atheist-agnostic-hypochondriac/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/atheist-agnostic-hypochondriac/word.2.definition.wav",
+    "twist.setup": "audio/vocab/atheist-agnostic-hypochondriac/twist.setup.wav",
+    "twist.closing": "audio/vocab/atheist-agnostic-hypochondriac/twist.closing.wav",
+    "recap.reflection": "audio/vocab/atheist-agnostic-hypochondriac/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 11,
+    "session": 30,
+    "pages": [
+      282,
+      340
+    ],
+    "theme": "Insults and Labels",
+    "subtheme": "Three relationships with certainty"
+  },
+  "tags": [
+    "insults",
+    "labels",
+    "belief",
+    "ch11",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "theology",
+      "zh": "神学",
+      "root": "theos",
+      "partOfSpeech": "n.",
+      "phonetic": "thee-OL'-a-jee",
+      "gloss": {
+        "en": "The study of god — theos (god) + logos (study). Trying to think clearly about something that, by its nature, resists thinking.",
+        "zh": "研究神的学问 — theos（神）+ logos（学问）。试图清晰地思考一个本性上抗拒被思考的对象。"
+      },
+      "usage": {
+        "en": "Every theology eventually meets the limit where words run out — and what people do at that limit is what makes the theology kind or cruel.",
+        "zh": "每一种神学最终都会撞上'话说尽了'的那个边界 — 而人们在那个边界上做什么，决定了这个神学是仁慈还是残忍。"
+      }
+    },
+    {
+      "word": "theism",
+      "zh": "有神论",
+      "root": "theos",
+      "partOfSpeech": "n.",
+      "phonetic": "THEE'-izm",
+      "gloss": {
+        "en": "Belief in a god — directly from theos. The opposite position from atheism.",
+        "zh": "相信存在神 — 直接来自 theos。是无神论的对立面。"
+      },
+      "usage": {
+        "en": "Most theism, asked carefully, is more about meaning than metaphysics — what holds a life together.",
+        "zh": "大多数有神论，被仔细问起来，与其说是形而上学，不如说是意义之学 — 是什么把一个生命撑住。"
+      }
+    },
+    {
+      "word": "pantheon",
+      "zh": "万神殿、众神",
+      "root": "theos",
+      "partOfSpeech": "n.",
+      "phonetic": "PAN'-thee-on",
+      "gloss": {
+        "en": "All the gods of a religion — pan- (all) + theos. Now also used for any group of widely admired figures (the pantheon of jazz greats).",
+        "zh": "一个宗教里所有的神 — pan-（所有）+ theos。也用于任何'广受尊敬的群体'（爵士乐大师的万神殿）。"
+      },
+      "usage": {
+        "en": "Every era builds its own pantheon — and the next era spends time arguing about who got in too easily.",
+        "zh": "每个时代都建自己的万神殿 — 下一个时代要花时间争论：谁是太轻松地进去的。"
+      }
+    },
+    {
+      "word": "diagnosis",
+      "zh": "诊断",
+      "root": "gnosis",
+      "partOfSpeech": "n.",
+      "phonetic": "di'-ag-NO'-sis",
+      "gloss": {
+        "en": "Knowing-through — dia- (through) + gnosis (knowledge). To diagnose is to see through symptoms to the cause.",
+        "zh": "穿透着去知道 — dia-（穿过）+ gnosis（知识）。诊断就是穿过症状看到病因。"
+      },
+      "usage": {
+        "en": "A good diagnosis names the problem — half the suffering of being sick is not knowing what it is.",
+        "zh": "好的诊断给问题一个名字 — 生病有一半的痛苦，是不知道自己得的是什么。"
+      }
+    },
+    {
+      "word": "prognosis",
+      "zh": "预后、预测",
+      "root": "gnosis",
+      "partOfSpeech": "n.",
+      "phonetic": "prog-NO'-sis",
+      "gloss": {
+        "en": "Foreknowing — pro- (before) + gnosis. A prediction of how an illness will unfold.",
+        "zh": "事前知道 — pro-（之前）+ gnosis。对疾病将如何发展的预测。"
+      },
+      "usage": {
+        "en": "A prognosis is a best guess in a doctor's voice — useful, but not the same as a verdict.",
+        "zh": "预后是医生口吻的'最好猜测' — 有用，但不等于'判决'。"
+      }
+    },
+    {
+      "word": "cognition",
+      "zh": "认知",
+      "root": "gnosis",
+      "partOfSpeech": "n.",
+      "phonetic": "kog-NISH'-an",
+      "gloss": {
+        "en": "The act of knowing — from Latin cognoscere (to know), a cousin of Greek gnosis. The broad name for all mental knowing-work.",
+        "zh": "知道这个动作 — 来自拉丁 cognoscere（认识），与希腊 gnosis 是亲戚。一切心理'知道工作'的总称。"
+      },
+      "usage": {
+        "en": "Cognition isn't logic alone — it's logic, memory, attention, and the body all voting at once.",
+        "zh": "认知不只是逻辑 — 是逻辑、记忆、注意力、和身体一起投票的结果。"
+      }
+    },
+    {
+      "word": "hypothesis",
+      "zh": "假说",
+      "root": "hypo",
+      "partOfSpeech": "n.",
+      "phonetic": "hi-POTH'-a-sis",
+      "gloss": {
+        "en": "Literally 'placed under' — hypo- (under) + thesis (placing). A guess placed under an idea, to see if it holds.",
+        "zh": "字面是'放在下面' — hypo-（在下）+ thesis（放置）。把一个猜测垫在一个想法下面，看它是否撑得住。"
+      },
+      "usage": {
+        "en": "A good hypothesis is one you can be wrong about — that's what makes it worth testing.",
+        "zh": "好的假说，是一个能被证明错的假说 — 这才让它值得去检验。"
+      },
+      "rootMeaning": "under (Greek)",
+      "rootMeaningZh": "在下（希腊）",
+      "rootTint": "8a7da6"
+    },
+    {
+      "word": "hypothermia",
+      "zh": "低温症",
+      "root": "hypo",
+      "partOfSpeech": "n.",
+      "phonetic": "hi'-pa-THUR'-mee-a",
+      "gloss": {
+        "en": "Low body temperature — hypo- (under) + therme (heat). Below the heat the body needs.",
+        "zh": "体温过低 — hypo-（在下）+ therme（热）。低于身体所需的热量。"
+      },
+      "usage": {
+        "en": "Hypothermia kills quietly — the dangerous part is when you stop feeling cold.",
+        "zh": "低温症杀人是安静的 — 危险的时刻，是你不再感觉冷的那一刻。"
+      }
+    },
+    {
+      "word": "hypoglycemia",
+      "zh": "低血糖",
+      "root": "hypo",
+      "partOfSpeech": "n.",
+      "phonetic": "hi'-po-gli-SEE'-mee-a",
+      "gloss": {
+        "en": "Low blood sugar — hypo- (under) + glykys (sweet) + haima (blood). The 'under-sweetness' in your veins.",
+        "zh": "血糖偏低 — hypo-（在下）+ glykys（甜）+ haima（血）。血管里'甜得不够'。"
+      },
+      "usage": {
+        "en": "Hypoglycemia makes good people irritable — feed them before the meeting, not after.",
+        "zh": "低血糖会让好人变得易怒 — 开会前喂他们吃东西，别开完会再喂。"
+      }
+    },
+    {
+      "word": "anxiety",
+      "zh": "焦虑",
+      "root": "angere",
+      "partOfSpeech": "n.",
+      "phonetic": "ang-ZI'-i-tee",
+      "gloss": {
+        "en": "From Latin angere (to choke). The same root in 'anguish' and 'anger.' Anxiety, anguish, anger — three faces of being squeezed.",
+        "zh": "来自拉丁 angere（扼住）。同一个词根出现在 anguish（极度痛苦）和 anger（愤怒）里。焦虑、痛苦、愤怒 — 是'被掐住'的三张脸。"
+      },
+      "usage": {
+        "en": "Anxiety is the body believing in a danger the mind hasn't found yet.",
+        "zh": "焦虑，是身体相信了一个心还没找到的危险。"
+      },
+      "rootMeaning": "to choke, to torment (Latin)",
+      "rootMeaningZh": "扼住、折磨（拉丁）",
+      "rootTint": "956d6d"
+    },
+    {
+      "word": "anguish",
+      "zh": "极度痛苦",
+      "root": "angere",
+      "partOfSpeech": "n.",
+      "phonetic": "ANG'-gwish",
+      "gloss": {
+        "en": "Severe mental or physical pain — from angere (to choke). What you feel when the thing you cannot do anything about cannot stop hurting.",
+        "zh": "强烈的精神或身体痛苦 — 来自 angere（扼住）。当一件你无能为力的事，又不肯停止伤你的时候，你感觉到的那种。"
+      },
+      "usage": {
+        "en": "Anguish has no resolution from inside — only the patience of someone outside makes it bearable.",
+        "zh": "极度痛苦从内部找不到出口 — 只有外面有人愿意耐心等你，它才变得能承受。"
+      }
+    },
+    {
+      "word": "anger",
+      "zh": "愤怒",
+      "root": "angere",
+      "partOfSpeech": "n.",
+      "phonetic": "ANG'-gar",
+      "gloss": {
+        "en": "Strong displeasure — also from angere (to choke). All three — anxiety, anguish, anger — were once the same word for 'being constricted.'",
+        "zh": "强烈的不满 — 也来自 angere（扼住）。anxiety、anguish、anger 三者最初是同一个词：'被困住'。"
+      },
+      "usage": {
+        "en": "Anger is fear that decided to face outward — sometimes useful, often misaimed.",
+        "zh": "愤怒，是恐惧决定了把脸朝外 — 有时候有用，常常对错了方向。"
+      }
+    }
+  ]
+}

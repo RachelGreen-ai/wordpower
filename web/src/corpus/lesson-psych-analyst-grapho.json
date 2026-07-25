@@ -1,0 +1,514 @@
+{
+  "lessonId": "psych-analyst-grapho",
+  "hook": {
+    "headline": {
+      "en": "Three readers of what people don't say.",
+      "zh": "三位解读者 — 读懂言语之外的东西。"
+    },
+    "subtext": {
+      "en": "Behavior, the unconscious, the hand — different windows into the same self.",
+      "zh": "行为、潜意识、笔迹 — 不同的窗户，照见同一个人。"
+    }
+  },
+  "words": [
+    {
+      "word": "Psychologist",
+      "phonetic": "sy-KOL'-uh-jist",
+      "chinese": "心理学家",
+      "definition": {
+        "en": "A scientist of human behavior — trained to study, test, and explain why we do what we do.",
+        "zh": "研究人类行为的科学家 — 受过训练，去观察、测量、解释我们为什么如此行事。"
+      },
+      "etymology": {
+        "root": "psyche",
+        "meaning": "mind / soul",
+        "meaningZh": "心灵",
+        "en": "From Greek psyche (mind, soul) + logos (study).",
+        "zh": "希腊词根 psyche（心灵、灵魂）+ logos（研究）。",
+        "relatives": [
+          {
+            "word": "psychiatrist",
+            "zh": "精神科医生"
+          },
+          {
+            "word": "psychotherapy",
+            "zh": "心理治疗"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The new hire turned out to have a psychology background — and three months in, half the team was quietly asking her advice on hard conversations.",
+          "zh": "新来的同事原来有心理学背景 — 三个月后，半个团队都悄悄找她请教如何谈难谈的事。"
+        },
+        {
+          "context": "parenting",
+          "en": "Their child psychologist had one rule — don't ask what the kid is thinking; watch what she's doing.",
+          "zh": "他们的儿童心理师只有一条规则 — 不要问孩子在想什么，看她在做什么。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "行为",
+      "tint": "8a78c8",
+      "mnemonic": {
+        "en": "PSYCHOLOGIST = psyche (mind) + logos (study). Scientist of the mind — without a prescription pad.",
+        "zh": "psychologist = psyche（心灵）+ logos（研究）。心灵的科学家 — 但没有处方权。"
+      },
+      "commonConfusions": [
+        "psychiatrist",
+        "therapist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Psychologist vs psychiatrist — what's the bottom-line difference?",
+            "zh": "心理学家和精神科医生 — 关键区别是什么？"
+          },
+          "answer": {
+            "en": "Psychiatrist = MD, can prescribe medication. Psychologist = PhD/PsyD, trained in therapy and behavioral assessment. For meds, see the psychiatrist; for therapy, often the psychologist.",
+            "zh": "精神科医生是医学博士，可以开药；心理学家是博士（PhD/PsyD），擅长治疗与行为评估。需要药物找精神科；做治疗常找心理学家。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why don't most psychologists prescribe drugs?",
+            "zh": "为什么大多数心理学家不开药？"
+          },
+          "answer": {
+            "en": "They aren't medical doctors. Their training is research and therapy, not pharmacology. A handful of US states allow trained 'prescribing psychologists,' but globally the divide holds.",
+            "zh": "他们不是医学博士。培训重点是研究和心理治疗，不是药理学。美国少数州允许受训的'处方心理师'，但全球范围内这条界限依然存在。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The CEO who hired an organizational psychologist after his third leadership-team blowup — and finally learned the problem wasn't 'them,' it was the system he'd designed.",
+        "zh": "那位在领导团队第三次内爆后请来组织心理学家的 CEO — 终于明白问题不在'他们'，而在他自己设计的系统。"
+      }
+    },
+    {
+      "word": "Psychoanalyst",
+      "phonetic": "sy-koh-AN'-uh-list",
+      "chinese": "精神分析师",
+      "definition": {
+        "en": "A therapist trained in Freudian techniques — exploring the unconscious through long, patient conversations.",
+        "zh": "受过弗洛伊德训练的治疗师 — 通过漫长耐心的对话探索潜意识。"
+      },
+      "etymology": {
+        "root": "psyche",
+        "meaning": "mind / soul",
+        "meaningZh": "心灵",
+        "en": "From psyche (mind) + analysis. The 'analysis' part comes from Greek lysis = to loosen, break apart.",
+        "zh": "psyche（心灵）+ analysis（分析）。'analysis' 来自希腊词 lysis = 松开、拆解。",
+        "relatives": [
+          {
+            "word": "psychoanalysis",
+            "zh": "精神分析"
+          },
+          {
+            "word": "analyze",
+            "zh": "分析（同源远亲）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "friends",
+          "en": "She'd been seeing a psychoanalyst for six years — and was finally telling stories about her childhood she hadn't told anyone.",
+          "zh": "她已经看了六年精神分析师 — 终于开始讲那些从未对任何人讲过的童年故事。"
+        },
+        {
+          "context": "social",
+          "en": "Classical psychoanalysis has fallen out of fashion in the US, but in parts of Europe and South America, seeing a psychoanalyst is as ordinary as seeing a dentist.",
+          "zh": "古典精神分析在美国不再流行，但在欧洲和南美的部分地区，看精神分析师就像看牙医一样平常。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "潜意识",
+      "tint": "6a5a8a",
+      "mnemonic": {
+        "en": "PSYCHOANALYST = psyche (mind) + ana-lysis (loosening apart). Untying the mind's knots, one session at a time.",
+        "zh": "psychoanalyst = psyche（心灵）+ ana-lysis（拆开）。一次一节，慢慢解开心里的结。"
+      },
+      "commonConfusions": [
+        "psychologist",
+        "therapist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "How is a psychoanalyst different from a regular therapist?",
+            "zh": "精神分析师和一般的治疗师有什么不同？"
+          },
+          "answer": {
+            "en": "Psychoanalysts are trained in Freudian (or post-Freudian) methods — long sessions, often multiple times a week, focused on unconscious patterns. Most modern therapists work shorter, more behavioral techniques.",
+            "zh": "精神分析师受过弗洛伊德（或后弗洛伊德）训练 — 时间长、每周多次、专注于潜意识模式。多数现代治疗师采用更短、更行为化的技术。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does psychoanalysis take so long?",
+            "zh": "为什么精神分析要做这么久？"
+          },
+          "answer": {
+            "en": "The premise: unconscious patterns took decades to build, so they take years to safely surface. Modern therapies are faster but often shallower.",
+            "zh": "前提是：潜意识模式形成需要几十年，所以浮出水面也要几年。现代治疗更快，但常常停在表层。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The 40-year-old who entered psychoanalysis to 'fix his marriage' — and three years later realized the work was actually about finally understanding his father.",
+        "zh": "那位 40 岁、想'修复婚姻'才开始精神分析的人 — 三年后才发现，真正在做的是终于理解父亲。"
+      }
+    },
+    {
+      "word": "Graphologist",
+      "phonetic": "graf-OL'-uh-jist",
+      "chinese": "笔迹分析师",
+      "definition": {
+        "en": "A practitioner who analyzes handwriting to infer character — controversial as science, persistent as cultural practice.",
+        "zh": "通过分析笔迹推断性格的从业者 — 作为科学有争议，作为文化实践却长存。"
+      },
+      "etymology": {
+        "root": "grapho",
+        "meaning": "to write",
+        "meaningZh": "书写",
+        "en": "From Greek grapho = to write, plus -logist. The same grapho is in autograph, biography, photography, choreography.",
+        "zh": "希腊词 grapho = 书写，加 -logist。autograph、biography、photography、choreography 里都有同一个 grapho。",
+        "relatives": [
+          {
+            "word": "autograph",
+            "zh": "亲笔签名"
+          },
+          {
+            "word": "calligraphy",
+            "zh": "书法"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Some French firms still hire a graphologist to review applicant handwriting — a practice that baffles American HR teams.",
+          "zh": "一些法国公司至今还雇佣笔迹分析师来审阅求职者的字迹 — 美国 HR 完全无法理解的做法。"
+        },
+        {
+          "context": "social",
+          "en": "After her divorce she sent a page from his old journal to a graphologist — half hoping the analysis would explain everything.",
+          "zh": "离婚后，她把他旧日记里的一页寄给了笔迹分析师 — 一半的心，期待那份分析能解释所有事。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "笔迹",
+      "tint": "8a6e4a",
+      "mnemonic": {
+        "en": "GRAPHOLOGIST = grapho (write) + logos (study). The grapho root is everywhere — photograph, biography, paragraph.",
+        "zh": "graphologist = grapho（书写）+ logos（研究）。grapho 这个词根无处不在 — photograph、biography、paragraph。"
+      },
+      "commonConfusions": [
+        "handwriting expert",
+        "forensic document examiner"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Is graphology recognized as a science?",
+            "zh": "笔迹学算科学吗？"
+          },
+          "answer": {
+            "en": "Mostly no. Mainstream psychology treats personality graphology as pseudoscience — empirical studies show weak correlations. But forensic handwriting analysis (for document authenticity) is genuinely scientific — different field, same name root.",
+            "zh": "大部分不算。主流心理学把'性格笔迹学'视为伪科学 — 实证研究显示相关性很弱。但'法医笔迹鉴定'（用于文件真伪）是真正的科学 — 不同领域，共享词根。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is the grapho root so productive in English?",
+            "zh": "为什么 grapho 这个词根在英语里如此活跃？"
+          },
+          "answer": {
+            "en": "Greek grapho = to write — the foundation of every field that records something. Autograph, biography, photography, choreography, demography, calligraphy, paragraph. Master one root, harvest twenty words.",
+            "zh": "希腊词 grapho = 书写 — 任何'记录'的学科都用它打底：autograph、biography、photography、choreography、demography、calligraphy、paragraph。掌握一个词根，收获二十个词。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The forensic graphologist whose work in document authentication is genuinely scientific — different from personality graphology — and who quietly settles inheritance disputes by reading whether an old signature was forged.",
+        "zh": "那位做文件鉴定的法医笔迹专家 — 工作内容是真科学，和性格笔迹学不同 — 他靠辨别一份旧签名是否伪造，悄悄了结一桩桩遗产纠纷。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Two specialists of the mind — but they hear very different things.",
+      "zh": "都是心灵的专家 — 听到的却是非常不同的东西。"
+    },
+    "leftLabel": "Psychologist",
+    "leftLine": {
+      "en": "studies what you do",
+      "zh": "研究你做了什么"
+    },
+    "leftMnemonic": {
+      "en": "psyche + logos · the science of measurable behavior",
+      "zh": "psyche + logos · 可量化行为的科学"
+    },
+    "rightLabel": "Psychoanalyst",
+    "rightLine": {
+      "en": "studies what you don't know you mean",
+      "zh": "研究你没意识到自己在说什么"
+    },
+    "rightMnemonic": {
+      "en": "psyche + lysis · loosening the knots beneath the surface",
+      "zh": "psyche + lysis · 松开表层之下的结"
+    },
+    "closing": {
+      "en": "One measures the surface. One listens to what lives below.",
+      "zh": "一位丈量表面。一位听见底下流动的声音。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "We say one thing. The behavior, the unconscious, and the hand say another. These three listen to the other voice.",
+      "zh": "我们说出一种意思。行为、潜意识、笔迹却说着另一种。这三位，听见的是另一个声音。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/psych-analyst-grapho/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/psych-analyst-grapho/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/psych-analyst-grapho/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/psych-analyst-grapho/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/psych-analyst-grapho/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/psych-analyst-grapho/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/psych-analyst-grapho/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/psych-analyst-grapho/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/psych-analyst-grapho/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/psych-analyst-grapho/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/psych-analyst-grapho/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/psych-analyst-grapho/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/psych-analyst-grapho/twist.left.wav",
+    "twist.right": "audio/vocab/psych-analyst-grapho/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/psych-analyst-grapho/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/psych-analyst-grapho/hook.headline.wav",
+    "word.0.definition": "audio/vocab/psych-analyst-grapho/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/psych-analyst-grapho/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/psych-analyst-grapho/word.2.definition.wav",
+    "twist.setup": "audio/vocab/psych-analyst-grapho/twist.setup.wav",
+    "twist.closing": "audio/vocab/psych-analyst-grapho/twist.closing.wav",
+    "recap.reflection": "audio/vocab/psych-analyst-grapho/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 5,
+    "session": 1,
+    "pages": [
+      100,
+      130
+    ],
+    "theme": "How to Talk About Various Practitioners",
+    "subtheme": "Readers of People"
+  },
+  "tags": [
+    "practitioners",
+    "psychology",
+    "interpretation",
+    "ch5",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "psyche",
+      "zh": "心灵 / 灵魂",
+      "root": "psyche",
+      "partOfSpeech": "n.",
+      "phonetic": "SY'-kee",
+      "gloss": {
+        "en": "The mind or soul itself — the bare noun underneath every psych- word.",
+        "zh": "心灵或灵魂本身 — 所有 psych- 词背后的那个名词。"
+      },
+      "usage": {
+        "en": "Two years of grief had reshaped his entire psyche — friends noticed before he did.",
+        "zh": "两年的悲伤重塑了他的整个内心 — 朋友们比他更早察觉。"
+      }
+    },
+    {
+      "word": "psychotherapy",
+      "zh": "心理治疗",
+      "root": "psyche",
+      "partOfSpeech": "n.",
+      "phonetic": "sy-koh-THER'-uh-pee",
+      "gloss": {
+        "en": "Talk-based treatment for mental and emotional issues — psyche (mind) + therapeia (healing).",
+        "zh": "以谈话为基础的心理与情绪治疗 — psyche（心灵）+ therapeia（疗愈）。"
+      },
+      "usage": {
+        "en": "Weekly psychotherapy didn't 'fix' anything dramatic — it just made the next decade quietly easier to live through.",
+        "zh": "每周一次的心理治疗没有戏剧性地'修好'什么 — 只是让接下来的十年活得安静一些。"
+      }
+    },
+    {
+      "word": "autograph",
+      "zh": "亲笔签名",
+      "root": "grapho",
+      "partOfSpeech": "n.",
+      "phonetic": "AW'-toh-graf",
+      "gloss": {
+        "en": "A person's own handwritten signature — auto (self) + grapho (write).",
+        "zh": "一个人亲手签下的名字 — auto（自己）+ grapho（书写）。"
+      },
+      "usage": {
+        "en": "His grandfather had an autograph from Einstein in a frame — the only thing he asked for when the house was emptied.",
+        "zh": "他祖父有一张装裱的爱因斯坦亲笔签名 — 当房子被清空时，他唯一开口要的东西。"
+      }
+    },
+    {
+      "word": "biography",
+      "zh": "传记",
+      "root": "grapho",
+      "partOfSpeech": "n.",
+      "phonetic": "by-OG'-ruh-fee",
+      "gloss": {
+        "en": "The written story of someone's life — bio (life) + grapho (write).",
+        "zh": "某人生命的书面故事 — bio（生命）+ grapho（书写）。"
+      },
+      "usage": {
+        "en": "A good biography is half investigation, half love letter — and the reader can usually feel which half is winning.",
+        "zh": "一本好传记一半是调查，一半是情书 — 读者通常能感觉到，是哪一半在赢。"
+      }
+    },
+    {
+      "word": "photography",
+      "zh": "摄影",
+      "root": "grapho",
+      "partOfSpeech": "n.",
+      "phonetic": "fuh-TOG'-ruh-fee",
+      "gloss": {
+        "en": "Writing with light — photo (light) + grapho (write). The most poetic etymology of any modern technology.",
+        "zh": "用光来书写 — photo（光）+ grapho（书写）。所有现代技术里最有诗意的词源。"
+      },
+      "usage": {
+        "en": "Smartphones democratized photography — and made everyone simultaneously better and worse at seeing.",
+        "zh": "智能手机让摄影变得人人可为 — 也让每个人同时既更会看、又更不会看了。"
+      }
+    },
+    {
+      "word": "choreography",
+      "zh": "编舞 / 舞蹈编排",
+      "root": "grapho",
+      "partOfSpeech": "n.",
+      "phonetic": "kor-ee-OG'-ruh-fee",
+      "gloss": {
+        "en": "The art of designing dance — choros (dance) + grapho (write). Writing in bodies.",
+        "zh": "设计舞蹈的艺术 — choros（舞蹈）+ grapho（书写）。用身体在书写。"
+      },
+      "usage": {
+        "en": "The choreography of a great fight scene is invisible — you only notice it when it's bad.",
+        "zh": "一段精彩的动作戏的编排是看不见的 — 只有当它拙劣时，你才会注意到它。"
+      }
+    },
+    {
+      "word": "calligraphy",
+      "zh": "书法",
+      "root": "grapho",
+      "partOfSpeech": "n.",
+      "phonetic": "kuh-LIG'-ruh-fee",
+      "gloss": {
+        "en": "Beautiful writing as an art form — kallos (beauty) + grapho (write).",
+        "zh": "把书写本身作为艺术 — kallos（美）+ grapho（书写）。"
+      },
+      "usage": {
+        "en": "She spent a winter learning calligraphy from a 78-year-old master — and said her handwriting in regular life never recovered, in the best way.",
+        "zh": "她跟一位 78 岁的老师学了一个冬天的书法 — 之后说自己平常写字'再也回不去了'，是最好的那种回不去。"
+      }
+    },
+    {
+      "word": "paragraph",
+      "zh": "段落",
+      "root": "grapho",
+      "partOfSpeech": "n.",
+      "phonetic": "PAR'-uh-graf",
+      "gloss": {
+        "en": "A section of writing — para (beside) + grapho (write). Originally a mark written beside the text to indicate a break.",
+        "zh": "一段文字 — para（在旁边）+ grapho（书写）。最初是写在文本旁边表示停顿的标记。"
+      },
+      "usage": {
+        "en": "Modern editors will cut a 300-word paragraph in half without warning — attention spans have shrunk and the page has to keep up.",
+        "zh": "现代编辑会毫无预警地把 300 字的段落砍成两半 — 注意力变短了，版面必须跟上。"
+      }
+    },
+    {
+      "word": "analyze",
+      "zh": "分析",
+      "root": "lysis",
+      "partOfSpeech": "v.",
+      "phonetic": "AN'-uh-lyze",
+      "gloss": {
+        "en": "To break something apart to understand it — ana (apart) + lysis (loosen). The act behind every -analysis word.",
+        "zh": "拆开来理解 — ana（分开）+ lysis（松开）。每个 -analysis 词背后的动作。"
+      },
+      "usage": {
+        "en": "She could analyze a market in an afternoon — but spent ten years learning to analyze her own decisions.",
+        "zh": "她可以在一个下午把一个市场分析透彻 — 但花了十年才学会分析自己的决定。"
+      },
+      "rootMeaning": "to loosen / break apart",
+      "rootMeaningZh": "松开 / 拆解",
+      "rootTint": "6a8a9a"
+    },
+    {
+      "word": "analytical",
+      "zh": "分析的 / 善于分析的",
+      "root": "lysis",
+      "partOfSpeech": "adj.",
+      "phonetic": "an-uh-LIT'-i-kul",
+      "gloss": {
+        "en": "Inclined to break things into parts — a thinking style.",
+        "zh": "倾向于把事物拆开来看 — 一种思维风格。"
+      },
+      "usage": {
+        "en": "The most useful analytical minds in business are the ones that also know when to stop analyzing and just decide.",
+        "zh": "商业里最有用的分析型头脑 — 是那种也知道何时停止分析、直接做决定的人。"
+      }
+    },
+    {
+      "word": "paralysis",
+      "zh": "瘫痪",
+      "root": "lysis",
+      "partOfSpeech": "n.",
+      "phonetic": "puh-RAL'-i-sis",
+      "gloss": {
+        "en": "Loss of movement — para (alongside / beyond) + lysis (loosen). The body 'unfastens' from control.",
+        "zh": "失去运动能力 — para（旁边 / 超出）+ lysis（松开）。身体'脱开'了控制。"
+      },
+      "usage": {
+        "en": "Decision paralysis at a 15-page menu is the small modern cousin of the real thing — both end in not moving.",
+        "zh": "面对 15 页菜单的决策瘫痪，是真正瘫痪的现代小表亲 — 都以'不动'告终。"
+      }
+    },
+    {
+      "word": "dialysis",
+      "zh": "透析",
+      "root": "lysis",
+      "partOfSpeech": "n.",
+      "phonetic": "dy-AL'-i-sis",
+      "gloss": {
+        "en": "A medical process that filters waste from the blood — dia (through) + lysis (loosen). Used when kidneys fail.",
+        "zh": "把废物从血液中过滤出来的医疗过程 — dia（穿过）+ lysis（松开）。肾衰竭时使用。"
+      },
+      "usage": {
+        "en": "Three times a week, four hours each, for the rest of his life — dialysis kept him alive while he waited for a transplant.",
+        "zh": "每周三次，每次四小时，余生如此 — 透析让他在等待肾移植时活了下来。"
+      }
+    }
+  ]
+}

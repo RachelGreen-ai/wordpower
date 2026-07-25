@@ -1,0 +1,498 @@
+{
+  "lessonId": "enervate-vegetate-vacillate",
+  "hook": {
+    "headline": {
+      "en": "Three quiet ways a life loses momentum — drain, stall, sway.",
+      "zh": "三种悄悄丢掉势头的方式 — 被抽干、停滞、摇摆。"
+    },
+    "subtext": {
+      "en": "Each one is reversible. The first step is naming which has you.",
+      "zh": "每一种都能反转。第一步是分清自己被哪一种困住了。"
+    }
+  },
+  "words": [
+    {
+      "word": "Enervate",
+      "phonetic": "EN'-ar-vayt",
+      "chinese": "使精疲力竭、耗尽精力",
+      "definition": {
+        "en": "To drain of energy or strength — not from one big blow, but from a long, slow leak. After an enervating week, you can't even point at what tired you.",
+        "zh": "把精力或力气抽干 — 不是一次大打击，而是一段长长的、慢慢的泄漏。被'enervate'掉的一周结束后，你甚至说不清是什么把你弄累的。"
+      },
+      "etymology": {
+        "root": "nervus",
+        "meaning": "sinew, nerve, strength",
+        "meaningZh": "筋、神经、力气",
+        "en": "From Latin e- (out) + nervus (sinew, strength). Literally 'to draw the nerve OUT of someone.' Same nervus in 'nerve,' 'nervous,' and 'unnerve.' The image is precise: the wire that carried your force is being pulled out.",
+        "zh": "拉丁 e-（出）+ nervus（筋、力气）。字面意思是'把神经从一个人身上抽出来'。同一个 nervus 出现在 nerve（神经）、nervous（紧张的）、unnerve（使心慌）里。画面很准确：那根承载你力气的电线，正在被抽走。",
+        "relatives": [
+          {
+            "word": "nerve",
+            "zh": "神经、勇气"
+          },
+          {
+            "word": "nervous",
+            "zh": "紧张的"
+          },
+          {
+            "word": "unnerve",
+            "zh": "使心慌"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Three weeks of small, pointless meetings will enervate a team more than one impossible deadline.",
+          "zh": "三周的小而无意义的会议，比一个不可能的截止日期，更能把一个团队抽干。"
+        },
+        {
+          "context": "social",
+          "en": "Some friendships are enervating — you leave them more tired than you arrived. Notice which ones.",
+          "zh": "有些友谊是耗能的 — 见完比见之前还累。要留心是哪几个。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "耗竭",
+      "tint": "6a6a8a",
+      "mnemonic": {
+        "en": "E + Nervus = OUT-NERVE. The wire that carries your strength gets pulled, slowly. By the end of the day, the wire is on the floor.",
+        "zh": "E + Nervus = 把神经拔出。承载力气的那根线，被慢慢往外拉。到一天结束，线已经躺在地上了。"
+      },
+      "commonConfusions": [
+        "exhaust",
+        "drain",
+        "deplete"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Exhaust and enervate are close. What's the texture difference?",
+            "zh": "Exhaust 和 enervate 接近。质感差别在哪？"
+          },
+          "answer": {
+            "en": "Exhaust = used up by hard effort. Enervate = drained by slow leak, often by tedium. One feels earned. The other feels stolen.",
+            "zh": "Exhaust = 被高强度的努力用尽。Enervate = 被慢慢漏走、常常是被枯燥消耗掉。一个像是'付出之后'，一个像是'被偷走'。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Florence Nightingale wrote that 'unnecessary noise is the most cruel absence of care.' Cruel because it enervates the sick — drop by drop, the energy needed for healing goes out the window. Most enervation isn't dramatic. It's just preventable, and ignored.",
+        "zh": "南丁格尔写过：'不必要的噪声，是关怀最残忍的缺席。'残忍，是因为它一点一点把病人的力气抽走 — 而那些力气本来是用来愈合的。大多数'被耗干'并不戏剧化 — 只是本可以避免，却被忽视了。"
+      }
+    },
+    {
+      "word": "Vegetate",
+      "phonetic": "VEJ'-a-tayt",
+      "chinese": "无所事事、像植物一样过日子",
+      "definition": {
+        "en": "To live a passive, monotonous life — to exist without growth, like a plant that hasn't been watered. Sometimes a rest. Often a quiet drift.",
+        "zh": "活得被动而单调 — 像没浇水的植物，只是'存在'而不'生长'。有时是休息。常常是悄悄的漂流。"
+      },
+      "etymology": {
+        "root": "vegere",
+        "meaning": "to be lively, animate",
+        "meaningZh": "充满活力、使有生气",
+        "en": "From Latin vegetare = 'to animate, enliven' (from vegere, 'to be active'). In a strange reversal, the English word came to mean the opposite — to live LIKE a vegetable, inert. Same root family as 'vegetable,' 'vigor,' and 'vigilant.' The word forgot its own meaning.",
+        "zh": "拉丁 vegetare = '使有生气'（来自 vegere '活跃'）。奇怪地，英语反转了它的意思 — 变成'活得像植物一样'，毫无生气。同根的还有 vegetable（蔬菜）、vigor（活力）、vigilant（警觉）。这个词忘了自己原本的意思。",
+        "relatives": [
+          {
+            "word": "vegetable",
+            "zh": "蔬菜"
+          },
+          {
+            "word": "vigor",
+            "zh": "活力"
+          },
+          {
+            "word": "vigilant",
+            "zh": "警觉的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "After the project ended he vegetated for three weeks — watching shows, scrolling, doing nothing. It was, he later said, exactly what he needed.",
+          "zh": "项目结束后他无所事事了三周 — 看剧、刷手机、什么都不做。他后来说，那正是他当时需要的。"
+        },
+        {
+          "context": "social",
+          "en": "There's a difference between resting and vegetating — resting refills you. Vegetating just keeps the lights on.",
+          "zh": "休息和无所事事不是一回事 — 休息会重新充满你。无所事事只是让灯还开着。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "停滞",
+      "tint": "6a8a6a",
+      "mnemonic": {
+        "en": "Vegere = TO BE LIVELY. Vegetate (in modern English) = to forget what that word meant. The plant is still alive — just barely.",
+        "zh": "Vegere = 充满活力。Vegetate（现代英语）= 把这个词的本意忘了。植物还活着 — 只是勉强。"
+      },
+      "commonConfusions": [
+        "rest",
+        "stagnate",
+        "idle"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "When is vegetating healthy, and when is it a problem?",
+            "zh": "什么时候'无所事事'是健康的，什么时候是问题？"
+          },
+          "answer": {
+            "en": "Healthy when it's chosen and bounded — a week after a long push. A problem when it stretches without choice — week three, four, five, and you've stopped reaching for anything.",
+            "zh": "健康：当它是被选择的，且有边界 — 比如长时间冲刺后的一周。问题：当它无边界地拖下去 — 第三周、第四周、第五周，你已经不再伸手去够任何东西。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The Roman philosopher Seneca wrote that 'leisure without study is death' — a strong opinion, but he was warning against the same thing. The danger isn't rest. The danger is forgetting why you wanted the rest. The garden needs water; the vegetable needs to know it can still grow.",
+        "zh": "罗马哲学家塞涅卡写过：'没有学习的闲暇等于死亡。'这话很重，但他警告的就是这件事。危险的不是休息 — 是忘记自己为什么要休息。园子需要浇水；那棵菜还得知道自己还能长。"
+      }
+    },
+    {
+      "word": "Vacillate",
+      "phonetic": "VAS'-i-layt",
+      "chinese": "犹豫不决、摇摆不定",
+      "definition": {
+        "en": "To swing back and forth between options — not weighing carefully, but unable to land. The vacillator keeps choosing, then unchoosing.",
+        "zh": "在选项之间来回摆 — 不是在仔细权衡，是落不下来。摇摆者一直在选，又一直在'反悔'。"
+      },
+      "etymology": {
+        "root": "vacillare",
+        "meaning": "to sway, totter",
+        "meaningZh": "摇晃、踉跄",
+        "en": "From Latin vacillare = 'to sway, stagger.' The word's sound carries the meaning — that wobble in the middle. Adjacent root vacuus (empty) gives 'vacuum,' 'vacate,' 'vacant' — the empty center around which the vacillator spins.",
+        "zh": "拉丁 vacillare = 摇晃、踉跄。这个词的发音本身就带着意思 — 那个中间的晃。邻近词根 vacuus（空）给了我们 vacuum、vacate、vacant — 那个空的中心，摇摆者就绕着它转。",
+        "relatives": [
+          {
+            "word": "vacuum",
+            "zh": "真空、吸尘器"
+          },
+          {
+            "word": "vacate",
+            "zh": "腾出、空出"
+          },
+          {
+            "word": "vacant",
+            "zh": "空着的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "He vacillated on the hire for six weeks — and by the time he decided, both candidates had taken other offers.",
+          "zh": "他在那个招聘上摇摆了六周 — 等他下决心时，两位候选人都接了别的 offer。"
+        },
+        {
+          "context": "social",
+          "en": "Vacillating in love is harder on the other person than a clear no — at least the no lets them leave.",
+          "zh": "在爱里摇摆，对另一个人比一个清晰的'不'更难承受 — 至少'不'让他们能离开。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "摇摆",
+      "tint": "8a8a6a",
+      "mnemonic": {
+        "en": "Vacillare = TO SWAY. Notice how the word itself wobbles in your mouth. The wobble IS the meaning.",
+        "zh": "Vacillare = 摇晃。注意这个词在嘴里说出来时本身就在晃。那个晃就是意思。"
+      },
+      "commonConfusions": [
+        "hesitate",
+        "waver",
+        "oscillate"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Hesitate and vacillate are close. What's the difference?",
+            "zh": "Hesitate 和 vacillate 接近。区别在哪？"
+          },
+          "answer": {
+            "en": "Hesitate = pause before deciding once. Vacillate = decide, undecide, redecide, in a loop. One is a moment. The other is a habit.",
+            "zh": "Hesitate = 决定前犹豫一下。Vacillate = 决定、反悔、再决定，循环往复。一个是一刻，一个是一种习惯。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Hamlet is literature's most famous vacillator — 'to be or not to be' is the question precisely because he keeps refusing to answer it. Shakespeare understood: vacillation isn't cowardice. It's overthinking dressed up as caution.",
+        "zh": "哈姆雷特是文学史上最著名的摇摆者 — '生存还是毁灭'之所以成为问题，正是因为他一直拒绝回答。莎士比亚明白：摇摆不是怯懦，是穿着'谨慎'外衣的'想太多'。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Enervate and vegetate both end in inertia. But one is taken from you. The other you slip into.",
+      "zh": "Enervate 和 vegetate 最后都通向不动。但一个是被夺走，一个是自己滑进去的。"
+    },
+    "leftLabel": "Enervate",
+    "leftLine": {
+      "en": "Energy pulled OUT, drop by drop.",
+      "zh": "精力被一点点抽出去。"
+    },
+    "leftMnemonic": {
+      "en": "E + Nervus = OUT-NERVE · the leak.",
+      "zh": "E + Nervus = 神经被拔出 · 漏。"
+    },
+    "rightLabel": "Vegetate",
+    "rightLine": {
+      "en": "Stays. Stops growing. Forgets why.",
+      "zh": "停在原地。不再生长。忘了为什么。"
+    },
+    "rightMnemonic": {
+      "en": "Vegere = LIVELY (ironic) · the plant that stopped reaching.",
+      "zh": "Vegere = 活力（反讽）· 那棵不再伸手的植物。"
+    },
+    "closing": {
+      "en": "One is drained. The other simply stopped reaching.",
+      "zh": "一个是被抽干。一个是自己停止了伸手。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Inertia comes in flavors. Naming which one has you is half the work of moving again.",
+      "zh": "不动有不同的口味。分清自己被哪一种困住，就完成了'再次动起来'的一半功课。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/enervate-vegetate-vacillate/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/enervate-vegetate-vacillate/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/enervate-vegetate-vacillate/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/enervate-vegetate-vacillate/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/enervate-vegetate-vacillate/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/enervate-vegetate-vacillate/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/enervate-vegetate-vacillate/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/enervate-vegetate-vacillate/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/enervate-vegetate-vacillate/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/enervate-vegetate-vacillate/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/enervate-vegetate-vacillate/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/enervate-vegetate-vacillate/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/enervate-vegetate-vacillate/twist.left.wav",
+    "twist.right": "audio/vocab/enervate-vegetate-vacillate/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/enervate-vegetate-vacillate/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/enervate-vegetate-vacillate/hook.headline.wav",
+    "word.0.definition": "audio/vocab/enervate-vegetate-vacillate/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/enervate-vegetate-vacillate/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/enervate-vegetate-vacillate/word.2.definition.wav",
+    "twist.setup": "audio/vocab/enervate-vegetate-vacillate/twist.setup.wav",
+    "twist.closing": "audio/vocab/enervate-vegetate-vacillate/twist.closing.wav",
+    "recap.reflection": "audio/vocab/enervate-vegetate-vacillate/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 15,
+    "session": 42,
+    "pages": [
+      451,
+      475
+    ],
+    "theme": "What Goes On",
+    "subtheme": "Three failures of action — drained, stalled, swaying"
+  },
+  "tags": [
+    "actions",
+    "inertia",
+    "ch15",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "nerve",
+      "zh": "神经、勇气",
+      "root": "nervus",
+      "partOfSpeech": "n.",
+      "phonetic": "NURV",
+      "gloss": {
+        "en": "The wire — directly from nervus. In English the word carries both meanings: the physical fiber and the inner steel ('have the nerve to').",
+        "zh": "那根'线' — 直接来自 nervus。英语里这个词同时承载两层意思：身体里的纤维，和内在的胆量（'有胆量去做'）。"
+      },
+      "usage": {
+        "en": "Nerve isn't fearlessness — it's the willingness to act with the fear still inside you.",
+        "zh": "胆量不是没有恐惧 — 是恐惧还在身体里时，依然愿意行动。"
+      }
+    },
+    {
+      "word": "nervous",
+      "zh": "紧张的",
+      "root": "nervus",
+      "partOfSpeech": "adj.",
+      "phonetic": "NUR'-vas",
+      "gloss": {
+        "en": "Of the nerves — directly from nervus. The state where the wire is buzzing.",
+        "zh": "和神经有关的 — 直接来自 nervus。'那根线在嗡嗡响'的状态。"
+      },
+      "usage": {
+        "en": "Being nervous before something that matters isn't weakness — it's the body acknowledging the stakes.",
+        "zh": "在重要的事情前紧张不是软弱 — 是身体在承认'这件事是认真的'。"
+      }
+    },
+    {
+      "word": "unnerve",
+      "zh": "使心慌、使失去勇气",
+      "root": "nervus",
+      "partOfSpeech": "v.",
+      "phonetic": "un-NURV'",
+      "gloss": {
+        "en": "To rattle, to take someone's nerve away — un- + nervus. A precise cousin of enervate.",
+        "zh": "让某人慌乱、失去胆量 — un- + nervus。Enervate 的近亲。"
+      },
+      "usage": {
+        "en": "Skilled negotiators unnerve quietly — a long silence, a small question, no raised voice.",
+        "zh": "高手谈判时让对方心慌的方式是安静的 — 一段长沉默、一个小问题，从不提高音量。"
+      }
+    },
+    {
+      "word": "vegetable",
+      "zh": "蔬菜",
+      "root": "vegere",
+      "partOfSpeech": "n.",
+      "phonetic": "VEJ'-ta-bal",
+      "gloss": {
+        "en": "Originally 'a thing that is alive' — vegere (to be lively). The word once celebrated life; now mostly names dinner.",
+        "zh": "原本指'活着的东西' — vegere（充满活力）。这个词曾庆祝生命，如今多半只指晚饭。"
+      },
+      "usage": {
+        "en": "Children rejecting vegetables is older than civilization — and somehow we keep trying.",
+        "zh": "孩子拒绝吃蔬菜的历史比文明还长 — 我们却一直在试。"
+      }
+    },
+    {
+      "word": "vigor",
+      "zh": "活力、精力",
+      "root": "vegere",
+      "partOfSpeech": "n.",
+      "phonetic": "VIG'-ar",
+      "gloss": {
+        "en": "Aliveness, energy — from vigere (to be lively), close cousin of vegere. What vegetate has lost.",
+        "zh": "生气、能量 — 来自 vigere（活跃），与 vegere 是近亲。Vegetate 失去的，正是这个。"
+      },
+      "usage": {
+        "en": "Vigor in your seventies is mostly built in your forties — quietly, by what you keep doing.",
+        "zh": "七十岁时的活力，大多是在四十岁建起来的 — 安静地，靠你一直在做的事。"
+      }
+    },
+    {
+      "word": "vigilant",
+      "zh": "警觉的",
+      "root": "vegere",
+      "partOfSpeech": "adj.",
+      "phonetic": "VIJ'-i-lant",
+      "gloss": {
+        "en": "Wide-awake, watchful — from vigil (awake), same root family as vigor. Aliveness pointed outward.",
+        "zh": "清醒地警觉 — 来自 vigil（醒着），和 vigor 同根。'活力'指向外面。"
+      },
+      "usage": {
+        "en": "Vigilance is exhausting if it never gets to rest — even guards trade shifts.",
+        "zh": "警觉如果从不休息会让人崩溃 — 哪怕岗哨也要换班。"
+      }
+    },
+    {
+      "word": "vacuum",
+      "zh": "真空、吸尘器",
+      "root": "vacuus",
+      "partOfSpeech": "n.",
+      "phonetic": "VAK'-yoom",
+      "gloss": {
+        "en": "Empty space — from Latin vacuus (empty). Same root family as the wobble of 'vacillate' — the empty center.",
+        "zh": "空的空间 — 来自拉丁 vacuus（空）。和 vacillate 里那个空的中心同族。"
+      },
+      "usage": {
+        "en": "Nature abhors a vacuum — and so does conversation. Silence will be filled, often by whoever speaks first.",
+        "zh": "自然厌恶真空 — 对话也是。沉默总会被填上，通常是先开口的那个人填的。"
+      },
+      "rootMeaning": "empty (Latin)",
+      "rootMeaningZh": "空（拉丁）",
+      "rootTint": "5a6a7a"
+    },
+    {
+      "word": "vacate",
+      "zh": "腾出、空出",
+      "root": "vacuus",
+      "partOfSpeech": "v.",
+      "phonetic": "VAY'-kayt",
+      "gloss": {
+        "en": "To leave empty — from vacuus. To move out, to give up an office, to clear the room.",
+        "zh": "腾空 — 来自 vacuus。搬出、辞去职位、清空房间。"
+      },
+      "usage": {
+        "en": "Knowing when to vacate is its own skill — a job, a friendship, a story you've outgrown.",
+        "zh": "知道什么时候该腾出来，是一种本事 — 一份工作、一段友谊、一个你已经长大不再适合的故事。"
+      }
+    },
+    {
+      "word": "vacant",
+      "zh": "空着的、空缺的",
+      "root": "vacuus",
+      "partOfSpeech": "adj.",
+      "phonetic": "VAY'-kant",
+      "gloss": {
+        "en": "Empty — directly from vacuus. Used for rooms, positions, and (more poignantly) gazes.",
+        "zh": "空的 — 直接来自 vacuus。用于房间、职位，也（更让人难过地）用于眼神。"
+      },
+      "usage": {
+        "en": "A vacant stare in someone you love isn't always tiredness — sometimes it's a small distance you have to ask about.",
+        "zh": "你爱的人眼神发空，未必只是累 — 有时是一段小小的距离，需要你去问一下。"
+      }
+    },
+    {
+      "word": "evacuate",
+      "zh": "撤离、疏散",
+      "root": "vacuus",
+      "partOfSpeech": "v.",
+      "phonetic": "i-VAK'-yoo-ayt",
+      "gloss": {
+        "en": "To empty out — e- (out) + vacuus. To clear a building, a region, a body.",
+        "zh": "倒空 — e-（出）+ vacuus。清空一栋楼、一个地区、一个身体。"
+      },
+      "usage": {
+        "en": "The hardest part of evacuating isn't leaving — it's deciding what to carry and what to lose.",
+        "zh": "撤离最难的不是离开 — 是决定带什么、丢什么。"
+      }
+    },
+    {
+      "word": "vacation",
+      "zh": "假期",
+      "root": "vacuus",
+      "partOfSpeech": "n.",
+      "phonetic": "vay-KAY'-shan",
+      "gloss": {
+        "en": "Originally 'a being empty of duties' — vacuus. The time when the calendar is vacant of obligation.",
+        "zh": "原本意思是'从职责中腾空' — vacuus。日历上空着、没有义务的那段时间。"
+      },
+      "usage": {
+        "en": "A real vacation isn't just away from work — it's away from being who you have to be.",
+        "zh": "真正的假期不只是离开工作 — 是离开'你不得不当的那个人'。"
+      }
+    },
+    {
+      "word": "innervate",
+      "zh": "供给神经、激活",
+      "root": "nervus",
+      "partOfSpeech": "v.",
+      "phonetic": "in-NUR'-vayt",
+      "gloss": {
+        "en": "The medical opposite of enervate — in- (into) + nervus. To supply with nerves, to bring sensation to.",
+        "zh": "Enervate 的医学反义词 — in-（进入）+ nervus。给某部分供给神经、带来感觉。"
+      },
+      "usage": {
+        "en": "A good teacher doesn't deliver knowledge — they innervate it, give it nerves so it can feel itself.",
+        "zh": "好老师不是把知识送过来 — 是把它'激活'，让它长出神经，能自己感觉到自己。"
+      }
+    }
+  ]
+}

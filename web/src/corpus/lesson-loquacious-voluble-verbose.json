@@ -1,0 +1,496 @@
+{
+  "lessonId": "loquacious-voluble-verbose",
+  "hook": {
+    "headline": {
+      "en": "Three ways someone uses too many words. They feel different.",
+      "zh": "三种'用了太多词'的说话方式。它们的感觉并不一样。"
+    },
+    "subtext": {
+      "en": "Generous, rolling, or just bloated — which one is at your table tonight?",
+      "zh": "慷慨的、滔滔的，还是单纯臃肿的 — 今晚你桌前的是哪一种？"
+    }
+  },
+  "words": [
+    {
+      "word": "Loquacious",
+      "phonetic": "lo-KWAY'-shus",
+      "chinese": "健谈的、爱说话的",
+      "definition": {
+        "en": "Talkative — happily so. A loquacious person enjoys conversation and brings energy to it. Lots of words, but the room feels lifted.",
+        "zh": "健谈的、爱说话的 — 是开心地爱说话。健谈的人享受对话，也给对话带能量。话很多，但屋子是被托起来的。"
+      },
+      "etymology": {
+        "root": "loqui",
+        "meaning": "to speak",
+        "meaningZh": "说话",
+        "en": "From Latin loqui = 'to speak.' Same loqui hidden in 'eloquent,' 'soliloquy' (speaking alone), 'ventriloquist' (belly-speaker), and 'colloquial' (speaking together, casual).",
+        "zh": "拉丁词根 loqui = 说话。同一个 loqui 藏在 eloquent（雄辩）、soliloquy（独白）、ventriloquist（口技演员，'用肚子说话的人'）、colloquial（口语化的，'一起说话'）里。",
+        "relatives": [
+          {
+            "word": "eloquent",
+            "zh": "雄辩的"
+          },
+          {
+            "word": "soliloquy",
+            "zh": "独白"
+          },
+          {
+            "word": "colloquial",
+            "zh": "口语化的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She's loquacious in meetings — but somehow she always ends up saying the thing the room needed to hear.",
+          "zh": "她在会上很健谈 — 但她总能说出全屋人正需要听到的那一句话。"
+        },
+        {
+          "context": "friends",
+          "en": "He becomes loquacious after one glass of wine — and his stories suddenly become worth listening to.",
+          "zh": "一杯酒下肚他就变得健谈 — 他讲的故事突然就值得听了。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "健谈",
+      "tint": "d4a047",
+      "mnemonic": {
+        "en": "Loqui = TO SPEAK. Loquacious = lots of speaking, freely — the kind of talker who reminds you why people invented conversation.",
+        "zh": "Loqui = 说话。Loquacious = 痛快地说很多 — 那种让你想起'人为什么发明了对话'的人。"
+      },
+      "commonConfusions": [
+        "talkative",
+        "garrulous",
+        "verbose"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Loquacious and garrulous both mean talkative. Which is the warmer word?",
+            "zh": "Loquacious 和 garrulous 都形容爱说话。哪个更温暖？"
+          },
+          "answer": {
+            "en": "Loquacious = lively, engaging talker. Garrulous = rambling, often tiresome talker. One you invite back; the other you avoid sitting next to.",
+            "zh": "Loquacious = 生动有趣的健谈者。Garrulous = 啰啰嗦嗦、让人累的健谈者。前者你想再请他来，后者你下次会避开坐他旁边。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Mark Twain was famously loquacious on the lecture circuit — three hours could pass and the room still wanted more. But he edited his books savagely, cutting tens of thousands of words. Loquacious in person, laconic on paper. He understood the difference.",
+        "zh": "马克·吐温在演讲场上出了名的健谈 — 三个小时过去，观众还想继续听。但他写书时下笔极狠，删掉成千上万的字。人前健谈，纸上简练。他知道两者的区别。"
+      }
+    },
+    {
+      "word": "Voluble",
+      "phonetic": "VOL'-ya-bal",
+      "chinese": "滔滔不绝的、流利的",
+      "definition": {
+        "en": "Speaking with rolling, effortless fluency — words pour out smoothly, one after another. The flow is impressive. The question is whether it ever pauses.",
+        "zh": "话像滚动一样毫不费力地涌出 — 一个接一个，流畅而不停。听上去很厉害，问题是它会不会停。"
+      },
+      "etymology": {
+        "root": "volvere",
+        "meaning": "to roll, to turn",
+        "meaningZh": "滚动、旋转",
+        "en": "From Latin volvere = 'to roll.' A voluble speaker's words ROLL out. Same volvere hidden in 'revolve,' 'evolve,' 'involve,' 'convoluted,' and 'volume' (originally a rolled scroll).",
+        "zh": "拉丁词根 volvere = 滚动。滔滔不绝的人，话像滚出来的。同一个 volvere 藏在 revolve（旋转）、evolve（演化）、involve（涉及）、convoluted（错综复杂）、volume（最初指卷起来的书卷）里。",
+        "relatives": [
+          {
+            "word": "revolve",
+            "zh": "旋转"
+          },
+          {
+            "word": "evolve",
+            "zh": "演化"
+          },
+          {
+            "word": "volume",
+            "zh": "卷、册"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The new hire was voluble in interviews — answers flowed without effort. You wanted to ask a harder question to see if the river had a bottom.",
+          "zh": "新人面试时滔滔不绝 — 回答得毫不费力。你忍不住想问一个更难的问题 — 看这条河有没有底。"
+        },
+        {
+          "context": "friends",
+          "en": "She's voluble on the subjects she loves — a five-minute chat about a book becomes thirty without anyone noticing.",
+          "zh": "她对喜欢的话题滔滔不绝 — 一本书的五分钟闲聊，不知不觉变成三十分钟。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "滔滔",
+      "tint": "6a8ad4",
+      "mnemonic": {
+        "en": "Volvere = TO ROLL. Voluble speech ROLLS — smooth, fluent, hard to interrupt. Sometimes that's the point.",
+        "zh": "Volvere = 滚动。Voluble 的话像滚出来 — 平顺、流利、不容易打断。有时这正是它的意图。"
+      },
+      "commonConfusions": [
+        "fluent",
+        "loquacious",
+        "glib"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Voluble and fluent both describe smooth speech. What's the difference?",
+            "zh": "Voluble 和 fluent 都形容说话流畅。区别在哪？"
+          },
+          "answer": {
+            "en": "Fluent = capable, no struggle. Voluble = capable AND prolific — flowing AND abundant. Fluent describes ability; voluble describes ability turned on.",
+            "zh": "Fluent = 流利的能力，不卡壳。Voluble = 流利且多产 — 流畅，并且量大。Fluent 是能力本身；voluble 是这能力'打开了'。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Christopher Hitchens was famously voluble — a glass of scotch in one hand, a cigarette in the other, holding forth at a dinner table for two hours without notes, without repetition, without losing the thread. People came not for what he said but for the rolling, unstoppable craft of it.",
+        "zh": "克里斯托弗·希钦斯出了名的滔滔不绝 — 一手威士忌，一手香烟，在饭桌上一谈两个小时，不看笔记、不重复、不丢线。人们来听他说，不是为他说什么 — 而是为那种滚滚向前、停不下来的功力。"
+      }
+    },
+    {
+      "word": "Verbose",
+      "phonetic": "var-BOSE'",
+      "chinese": "啰嗦的、冗长的",
+      "definition": {
+        "en": "Using more words than necessary — adding without adding meaning. Verbose isn't passionate or fluent. It's bloated. You finish reading or listening and ask: what did they actually say?",
+        "zh": "用了超出必要的词 — 加了字，没加意思。Verbose 不是热情或流畅，是臃肿。读完听完，你忍不住问：他到底说了什么？"
+      },
+      "etymology": {
+        "root": "verbum",
+        "meaning": "word",
+        "meaningZh": "词、字",
+        "en": "From Latin verbum = 'word.' Verbose literally means 'full of words' — too many for the meaning being carried. Same verbum hidden in 'verb,' 'proverb,' 'verbatim' (word-for-word), and 'verbiage' (often, just empty words).",
+        "zh": "拉丁词根 verbum = 词、字。Verbose 字面意思是'词多' — 比所要表达的意思多。同一个 verbum 藏在 verb（动词）、proverb（谚语）、verbatim（逐字）、verbiage（常指空洞的废话）里。",
+        "relatives": [
+          {
+            "word": "verb",
+            "zh": "动词"
+          },
+          {
+            "word": "proverb",
+            "zh": "谚语"
+          },
+          {
+            "word": "verbatim",
+            "zh": "逐字逐句"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The report was so verbose that the actual finding was hiding on page fourteen.",
+          "zh": "这份报告太冗长 — 真正的结论藏在第十四页。"
+        },
+        {
+          "context": "social",
+          "en": "Don't be verbose in important messages — the more words, the less remembered.",
+          "zh": "重要信息别太啰嗦 — 字越多，记得越少。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "啰嗦",
+      "tint": "8a8a4f",
+      "mnemonic": {
+        "en": "Verbum = WORD. Verbose = full of WORDS — and only words. The meaning got crowded out by its own packaging.",
+        "zh": "Verbum = 词。Verbose = 装满了词 — 也只有词。意思被它自己的包装挤出去了。"
+      },
+      "commonConfusions": [
+        "wordy",
+        "long-winded",
+        "prolix"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "What's the working test to know if you're being verbose?",
+            "zh": "怎样判断自己是不是在啰嗦？"
+          },
+          "answer": {
+            "en": "Cut the longest sentence in half. If the meaning survives, you were verbose. If it doesn't, you weren't.",
+            "zh": "把最长的那句话砍一半。意思还在，你是在啰嗦；意思没了，你不是。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Lincoln's Gettysburg Address was 272 words. The featured speaker that day, Edward Everett, spoke for two hours — over 13,000 words. Everyone remembers Lincoln. Almost no one has read Everett. Verbose disappears; tight stays.",
+        "zh": "林肯的《葛底斯堡演说》只有272个词。那一天主讲的爱德华·埃弗里特讲了两个小时 — 一万三千多个词。所有人记得林肯。几乎没人读过埃弗里特。冗长会消失，紧的会留下。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both fill the air with words. But one is generous. The other is just adding.",
+      "zh": "两个都把空气填满了字。但一个是慷慨，一个只是在'加'。"
+    },
+    "leftLabel": "Loquacious",
+    "leftLine": {
+      "en": "Brings the conversation up.",
+      "zh": "把对话托起来。"
+    },
+    "leftMnemonic": {
+      "en": "Loqui = TO SPEAK · speech as a gift.",
+      "zh": "Loqui = 说话 · 把话当礼物送出去。"
+    },
+    "rightLabel": "Verbose",
+    "rightLine": {
+      "en": "Just makes the conversation longer.",
+      "zh": "只是让对话更长。"
+    },
+    "rightMnemonic": {
+      "en": "Verbum = WORD · words without weight.",
+      "zh": "Verbum = 词 · 没有分量的词。"
+    },
+    "closing": {
+      "en": "One brings the conversation up. The other just makes it longer.",
+      "zh": "一个把对话抬起来，一个只是把它拖长。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Talk is a gift when it's generous, and a tax when it isn't. The best talkers stop when the room has had enough — and that's the rarest skill of all.",
+      "zh": "说话是礼物，当它慷慨；是负担，当它不是。最会说话的人，知道在屋子已经够了的时候停 — 那是最稀有的本事。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/loquacious-voluble-verbose/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/loquacious-voluble-verbose/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/loquacious-voluble-verbose/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/loquacious-voluble-verbose/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/loquacious-voluble-verbose/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/loquacious-voluble-verbose/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/loquacious-voluble-verbose/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/loquacious-voluble-verbose/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/loquacious-voluble-verbose/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/loquacious-voluble-verbose/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/loquacious-voluble-verbose/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/loquacious-voluble-verbose/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/loquacious-voluble-verbose/twist.left.wav",
+    "twist.right": "audio/vocab/loquacious-voluble-verbose/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/loquacious-voluble-verbose/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/loquacious-voluble-verbose/hook.headline.wav",
+    "word.0.definition": "audio/vocab/loquacious-voluble-verbose/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/loquacious-voluble-verbose/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/loquacious-voluble-verbose/word.2.definition.wav",
+    "twist.setup": "audio/vocab/loquacious-voluble-verbose/twist.setup.wav",
+    "twist.closing": "audio/vocab/loquacious-voluble-verbose/twist.closing.wav",
+    "recap.reflection": "audio/vocab/loquacious-voluble-verbose/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 10,
+    "session": 25,
+    "pages": [
+      239,
+      270
+    ],
+    "theme": "Speech Habits",
+    "subtheme": "Saying much — three flavors of word-flood"
+  },
+  "tags": [
+    "speech",
+    "speech-habits",
+    "talkative",
+    "ch10",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "eloquent",
+      "zh": "雄辩的、有感染力的",
+      "root": "loqui",
+      "partOfSpeech": "adj.",
+      "phonetic": "EL'-a-kwant",
+      "gloss": {
+        "en": "Literally 'speaking out' — e- (out) + loqui. Eloquent speech doesn't just inform; it moves.",
+        "zh": "字面是'说出来' — e-（出）+ loqui。雄辩的话不只是告诉你 — 它能打动你。"
+      },
+      "usage": {
+        "en": "An eloquent silence can say more than a paragraph — when the right person stops at the right moment.",
+        "zh": "一个雄辩的沉默，可以比一段话还有力 — 当对的人在对的时刻停下来。"
+      }
+    },
+    {
+      "word": "soliloquy",
+      "zh": "独白",
+      "root": "loqui",
+      "partOfSpeech": "n.",
+      "phonetic": "sa-LIL'-a-kwee",
+      "gloss": {
+        "en": "Speaking alone — solo (alone) + loqui (speak). Hamlet's 'To be or not to be' is the most famous soliloquy in English.",
+        "zh": "独自说话 — solo（独自）+ loqui（说）。哈姆雷特的'生存还是毁灭'，是英语里最著名的一段独白。"
+      },
+      "usage": {
+        "en": "Some people only figure out what they think during a soliloquy — alone, out loud, with no one to interrupt.",
+        "zh": "有些人只有在独白时才搞清楚自己到底在想什么 — 一个人，大声地说，没人打断。"
+      }
+    },
+    {
+      "word": "ventriloquist",
+      "zh": "口技演员、腹语者",
+      "root": "loqui",
+      "partOfSpeech": "n.",
+      "phonetic": "ven-TRIL'-a-kwist",
+      "gloss": {
+        "en": "Literally 'belly-speaker' — venter (belly) + loqui. Romans thought the voice came from the belly because the lips didn't move.",
+        "zh": "字面是'用肚子说话的人' — venter（肚子）+ loqui。罗马人以为声音是从肚子里发出来的 — 因为嘴唇不动。"
+      },
+      "usage": {
+        "en": "A good ventriloquist isn't hiding the voice — they're convincing you the puppet earned it.",
+        "zh": "好的口技演员不是在藏自己的声音 — 而是让你相信，这个声音属于木偶。"
+      }
+    },
+    {
+      "word": "colloquial",
+      "zh": "口语化的、非正式的",
+      "root": "loqui",
+      "partOfSpeech": "adj.",
+      "phonetic": "ka-LO'-kwee-al",
+      "gloss": {
+        "en": "Speaking-together style — col- (together) + loqui. Casual conversation, not formal writing.",
+        "zh": "'一起说话'的风格 — col-（一起）+ loqui。日常对话，不是正式写作。"
+      },
+      "usage": {
+        "en": "Every language has two: the formal version it teaches you, and the colloquial version everyone actually speaks.",
+        "zh": "每门语言都有两个版本：教科书教你的正式版，和大家其实在说的口语版。"
+      }
+    },
+    {
+      "word": "revolve",
+      "zh": "旋转、围绕",
+      "root": "volvere",
+      "partOfSpeech": "v.",
+      "phonetic": "ri-VOLV'",
+      "gloss": {
+        "en": "To turn around — re- (again) + volvere (roll). What planets do around the sun. Also what arguments tend to do.",
+        "zh": "环绕、旋转 — re-（再）+ volvere（滚）。行星围着太阳做的事。也是争论容易做的事。"
+      },
+      "usage": {
+        "en": "Most workplace conflicts revolve around the same question: who decides? Naming it ends the orbit.",
+        "zh": "大多数工作冲突都在围绕同一个问题转：谁来决定？把它点出来，那个'轨道'就停了。"
+      }
+    },
+    {
+      "word": "evolve",
+      "zh": "演化、发展",
+      "root": "volvere",
+      "partOfSpeech": "v.",
+      "phonetic": "i-VOLV'",
+      "gloss": {
+        "en": "Literally 'to roll out' — e- (out) + volvere. Something rolling out of itself, growing into a new form.",
+        "zh": "字面是'滚出来' — e-（出）+ volvere。从自己的内里展开，变成新的形态。"
+      },
+      "usage": {
+        "en": "We evolve in stages we only see backwards — what felt like drift was actually a slow rolling toward.",
+        "zh": "我们的演化是分阶段的 — 只有回头看才能看见。当时感觉像在漂流，其实是在慢慢滚向某个地方。"
+      }
+    },
+    {
+      "word": "convoluted",
+      "zh": "错综复杂的、绕来绕去的",
+      "root": "volvere",
+      "partOfSpeech": "adj.",
+      "phonetic": "KON'-va-loo-tid",
+      "gloss": {
+        "en": "Rolled together so tightly it's hard to follow — con- (together) + volvere. A convoluted plot has too many turns.",
+        "zh": "拧到一起、绕得让人跟不上 — con-（一起）+ volvere。剧情错综复杂的小说，就是转折太多。"
+      },
+      "usage": {
+        "en": "A convoluted explanation usually means the explainer isn't sure either.",
+        "zh": "一个绕来绕去的解释，通常说明解释者自己也没搞清楚。"
+      }
+    },
+    {
+      "word": "volume",
+      "zh": "卷、册、音量",
+      "root": "volvere",
+      "partOfSpeech": "n.",
+      "phonetic": "VOL'-yoom",
+      "gloss": {
+        "en": "Originally a 'rolled-up scroll' — a single book. Later: amount of space, amount of sound. The rolling stayed in the word.",
+        "zh": "最初指'卷起来的纸卷' — 也就是一本书。后来引申为体积、音量。'滚动'这层意思一直留在词里。"
+      },
+      "usage": {
+        "en": "Loud people don't always have the most to say — volume is rarely the same as content.",
+        "zh": "声音大的人不一定话最多 — 音量和内容很少是同一件事。"
+      }
+    },
+    {
+      "word": "verb",
+      "zh": "动词",
+      "root": "verbum",
+      "partOfSpeech": "n.",
+      "phonetic": "VURB",
+      "gloss": {
+        "en": "The word that DOES — directly from verbum (word). The verb is the engine of every sentence.",
+        "zh": "表示'动作'的词 — 直接来自 verbum（词）。动词是每个句子的引擎。"
+      },
+      "usage": {
+        "en": "Change a sentence's verb and you change its world — 'she walked away' vs. 'she stayed.'",
+        "zh": "换掉一个句子的动词，你就换掉了它的世界 — '她走开了' 对 '她留下了'。"
+      }
+    },
+    {
+      "word": "proverb",
+      "zh": "谚语",
+      "root": "verbum",
+      "partOfSpeech": "n.",
+      "phonetic": "PROV'-urb",
+      "gloss": {
+        "en": "A 'before-word' — pro- (before) + verbum. A saying that comes from before us, passed down because it kept being true.",
+        "zh": "'在我们之前的话' — pro-（之前）+ verbum。从前辈传下来的句子，留下来是因为它一直在被证实。"
+      },
+      "usage": {
+        "en": "Every culture's proverbs are its quietest moral textbook.",
+        "zh": "每个文化的谚语，都是它最安静的一本道德课本。"
+      }
+    },
+    {
+      "word": "verbatim",
+      "zh": "逐字的、字字不差地",
+      "root": "verbum",
+      "partOfSpeech": "adv./adj.",
+      "phonetic": "var-BAY'-tim",
+      "gloss": {
+        "en": "Word for word — verbum + Latin -atim suffix ('in the manner of'). To quote verbatim is to keep every word intact.",
+        "zh": "一字不差地 — verbum + 拉丁后缀 -atim（'按某种方式'）。Verbatim 引用就是每个字都保留。"
+      },
+      "usage": {
+        "en": "Remembering verbatim is impressive — but remembering what was MEANT is more useful, and rarer.",
+        "zh": "能逐字记住别人的话很厉害 — 但能记住别人'想说什么'更有用，也更稀有。"
+      }
+    },
+    {
+      "word": "verbal",
+      "zh": "口头的、言语的",
+      "root": "verbum",
+      "partOfSpeech": "adj.",
+      "phonetic": "VUR'-bal",
+      "gloss": {
+        "en": "Pertaining to words — directly from verbum. Often contrasted with 'written' (a verbal agreement) or 'physical.'",
+        "zh": "与言语有关 — 直接来自 verbum。常与'书面'（口头协议）或'肢体'相对。"
+      },
+      "usage": {
+        "en": "A verbal commitment is real — but a written one tends to remember itself better when memory gets convenient.",
+        "zh": "口头承诺也是承诺 — 但等到'记忆变得方便'时，写下来的承诺会记得更清楚。"
+      }
+    }
+  ]
+}

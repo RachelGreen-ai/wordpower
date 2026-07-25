@@ -1,0 +1,632 @@
+{
+  "lessonId": "intro-extro-ambi",
+  "hook": {
+    "headline": {
+      "en": "Three personalities. Three places your energy turns.",
+      "zh": "三种性格，三种能量的方向。"
+    },
+    "subtext": {
+      "en": "Where does yours go — and is it where you think?",
+      "zh": "你的能量往哪儿走？答案是你以为的那样吗？"
+    }
+  },
+  "words": [
+    {
+      "word": "Introvert",
+      "phonetic": "IN'-tro-vurt'",
+      "chinese": "内向者",
+      "definition": {
+        "en": "A person whose energy refills in solitude — quiet is how they recharge.",
+        "zh": "在独处中恢复能量的人 — 安静是他们的充电方式。"
+      },
+      "etymology": {
+        "root": "vert",
+        "meaning": "turn",
+        "meaningZh": "转",
+        "en": "From Latin vertere = to turn. Intro = inward.",
+        "zh": "拉丁词根 vert = 转。intro = 向内。",
+        "relatives": [
+          {
+            "word": "convert",
+            "zh": "转换"
+          },
+          {
+            "word": "introspection",
+            "zh": "内省"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Maya is an introvert — after a day of meetings she needs the train ride home in silence.",
+          "zh": "Maya 是个内向者 — 开了一天会，她需要安静地坐完回家的地铁。"
+        },
+        {
+          "context": "parenting",
+          "en": "Our introvert son hides in his room for an hour after school — not upset, just recharging.",
+          "zh": "我们家内向的儿子放学后会在房间里独处一小时 — 不是不开心，是在充电。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "内敛",
+      "tint": "6788c4",
+      "mnemonic": {
+        "en": "INtroVERT = IN + turn. The energy turns inward to refill.",
+        "zh": "intro 是'内'，vert 是'转' — 能量向内转，才能充电。"
+      },
+      "commonConfusions": [
+        "shy",
+        "antisocial"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Is an introvert the same as someone who's shy?",
+            "zh": "内向者就是害羞的人吗？"
+          },
+          "answer": {
+            "en": "No. Shy = uncomfortable with people. Introvert = recharged by solitude. A confident introvert is common.",
+            "zh": "不是。害羞是和人相处不自在；内向是独处才能充电。自信的内向者很常见。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why might an introvert love giving talks but dread the cocktail hour after?",
+            "zh": "为什么内向者可能爱演讲，却怕演讲后的酒会？"
+          },
+          "answer": {
+            "en": "A talk is one focused output; mingling is dozens of small drains. The first they can prepare for; the second pulls energy in every direction.",
+            "zh": "演讲是一次专注的输出；闲聊是几十次小小的消耗。前者可以准备，后者把能量扯向四面八方。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The brilliant colleague who's incisive in 1:1s but goes quiet in 8-person meetings — not lacking anything, just refilling in the background.",
+        "zh": "那个一对一时一针见血、八人会议里却安静下来的同事 — 不是没东西讲，只是在悄悄充电。"
+      }
+    },
+    {
+      "word": "Extrovert",
+      "phonetic": "EKS'-truh-vurt'",
+      "chinese": "外向者",
+      "definition": {
+        "en": "A person whose energy refills around others — company is how they recharge.",
+        "zh": "在人群中恢复能量的人 — 与人相处让他们充实。"
+      },
+      "etymology": {
+        "root": "vert",
+        "meaning": "turn",
+        "meaningZh": "转",
+        "en": "Same root: vert = turn. Extro = outward.",
+        "zh": "同一个词根 vert = 转。extro = 向外。",
+        "relatives": [
+          {
+            "word": "extrovert",
+            "zh": "外向者"
+          },
+          {
+            "word": "extracurricular",
+            "zh": "课外的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "After three days of solo focus work, our extrovert PM was visibly fading — she needed a brainstorm session to come back to life.",
+          "zh": "连续三天独自专注工作后，我们外向的项目经理明显蔫了 — 她需要一场头脑风暴才能恢复。"
+        },
+        {
+          "context": "friends",
+          "en": "He's a classic extrovert — a dinner party gives him more energy than sleeping in.",
+          "zh": "他是典型的外向者 — 一顿晚餐聚会给他的能量，比睡懒觉还多。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "外放",
+      "tint": "e8a76a",
+      "mnemonic": {
+        "en": "EXtroVERT = OUT + turn. The energy turns outward to refill.",
+        "zh": "extro 是'外'，vert 是'转' — 能量向外转，才能充电。"
+      },
+      "commonConfusions": [
+        "outgoing",
+        "attention-seeker"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Does extrovert mean someone who talks a lot?",
+            "zh": "外向者就是话多的人吗？"
+          },
+          "answer": {
+            "en": "Not exactly. An extrovert refuels by being around people. Plenty of extroverts are great listeners.",
+            "zh": "不完全。外向者是靠和人在一起充电，很多外向者其实是很好的倾听者。"
+          }
+        },
+        {
+          "question": {
+            "en": "What does an extrovert lose when they work fully remote?",
+            "zh": "完全远程工作时，外向者失去了什么？"
+          },
+          "answer": {
+            "en": "Their power source. They can still perform, but it costs more energy than it returns.",
+            "zh": "他们的能量来源。他们仍然能做事，但消耗的比补充的多。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The friend who feels physically drained by a quiet weekend, no matter how much they slept — and lights up again the moment plans appear.",
+        "zh": "那种安静的周末让他越睡越累的朋友 — 一有新计划又立刻精神起来。"
+      }
+    },
+    {
+      "word": "Ambivert",
+      "phonetic": "AM'-bi-vurt'",
+      "chinese": "双向者",
+      "definition": {
+        "en": "A person who refills from both sides — solitude and company, depending on the day.",
+        "zh": "两边都能充电的人 — 独处与聚会，视情况而定。"
+      },
+      "etymology": {
+        "root": "vert",
+        "meaning": "turn",
+        "meaningZh": "转",
+        "en": "Same root: vert = turn. Ambi = both.",
+        "zh": "同一个词根 vert = 转。ambi = 两边。",
+        "relatives": [
+          {
+            "word": "ambidextrous",
+            "zh": "双手都灵巧的"
+          },
+          {
+            "word": "ambiguous",
+            "zh": "模糊的 / 可两解的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She's an ambivert — back-to-back meetings drain her, but so does three days of writing alone.",
+          "zh": "她是个双向者 — 连开会议会让她累，连续三天独自写作也会。"
+        },
+        {
+          "context": "parenting",
+          "en": "I'm an ambivert: my son's loud playdate Saturday gave me energy, but Sunday I hid with a book.",
+          "zh": "我是个双向者 — 周六儿子吵闹的聚会让我精神，周日我就躲起来看书。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "两可",
+      "tint": "7ac79a",
+      "mnemonic": {
+        "en": "AMBIVERT = BOTH + turn. Energy turns both ways, in rhythm.",
+        "zh": "ambi 是'两边'，vert 是'转' — 能量两个方向都能转，看节奏。"
+      },
+      "commonConfusions": [
+        "indecisive",
+        "neither"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Is an ambivert just someone who's bad at choosing?",
+            "zh": "双向者就是选择困难的人吗？"
+          },
+          "answer": {
+            "en": "No. An ambivert genuinely needs both — solitude AND people — in different amounts on different days. Knowing the rhythm is the skill.",
+            "zh": "不是。双向者真的需要两样 — 独处和人群，每天的比例不同。读懂这个节奏，才是本事。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why do most people misidentify as pure introverts or extroverts?",
+            "zh": "为什么大多数人都自以为是纯内向或纯外向？"
+          },
+          "answer": {
+            "en": "Social media oversimplifies the binary. Real life is mixed — but the labels feel like identity, so people pick one and defend it.",
+            "zh": "社交媒体把二分法说得太干脆。现实是混合的 — 但标签像身份，人们认定一个就护着它。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The parent who can host a 20-kid birthday party on Saturday and then quietly read alone all Sunday morning — and needs both to feel whole.",
+        "zh": "那种周六能办 20 个孩子的生日派对、周日一早又静静读一整个上午书的家长 — 两边都需要，才完整。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "It's not about quiet vs loud.",
+      "zh": "不是安静与外向的对比。"
+    },
+    "leftLabel": "Introvert",
+    "leftLine": {
+      "en": "energy turns inward",
+      "zh": "向内充电"
+    },
+    "leftMnemonic": {
+      "en": "INtro = IN · refills away from people",
+      "zh": "intro = 向内 · 离开人群才充电"
+    },
+    "rightLabel": "Extrovert",
+    "rightLine": {
+      "en": "energy turns outward",
+      "zh": "向外充电"
+    },
+    "rightMnemonic": {
+      "en": "EXtro = OUT · refills with people",
+      "zh": "extro = 向外 · 和人在一起才充电"
+    },
+    "closing": {
+      "en": "Both are valid. Both are needed. Don't argue with your own wiring.",
+      "zh": "都成立，都被需要。不要和自己的'电路'较劲。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Some refill in silence. Some refill in crowds. The wise know which they are — and protect it.",
+      "zh": "有人在安静中充电。有人在人群中充电。明白的人，知道自己是哪一种，并守护它。"
+    }
+  },
+  "audio": {
+    "hook.headline": "audio/vocab/intro-extro-ambi/hook.headline.wav",
+    "word.0.pronunciation": "audio/vocab/intro-extro-ambi/word.0.pronunciation.wav",
+    "word.0.definition": "audio/vocab/intro-extro-ambi/word.0.definition.wav",
+    "word.0.etymology": "audio/vocab/intro-extro-ambi/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/intro-extro-ambi/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/intro-extro-ambi/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/intro-extro-ambi/word.1.pronunciation.wav",
+    "word.1.definition": "audio/vocab/intro-extro-ambi/word.1.definition.wav",
+    "word.1.etymology": "audio/vocab/intro-extro-ambi/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/intro-extro-ambi/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/intro-extro-ambi/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/intro-extro-ambi/word.2.pronunciation.wav",
+    "word.2.definition": "audio/vocab/intro-extro-ambi/word.2.definition.wav",
+    "word.2.etymology": "audio/vocab/intro-extro-ambi/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/intro-extro-ambi/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/intro-extro-ambi/word.2.sentence.1.wav",
+    "twist.setup": "audio/vocab/intro-extro-ambi/twist.setup.wav",
+    "twist.left": "audio/vocab/intro-extro-ambi/twist.left.wav",
+    "twist.right": "audio/vocab/intro-extro-ambi/twist.right.wav",
+    "twist.closing": "audio/vocab/intro-extro-ambi/twist.closing.wav",
+    "recap.reflection": "audio/vocab/intro-extro-ambi/recap.reflection.wav",
+    "expansion.0.pronunciation": "audio/vocab/intro-extro-ambi/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/intro-extro-ambi/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/intro-extro-ambi/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/intro-extro-ambi/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/intro-extro-ambi/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/intro-extro-ambi/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/intro-extro-ambi/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/intro-extro-ambi/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/intro-extro-ambi/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/intro-extro-ambi/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/intro-extro-ambi/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/intro-extro-ambi/expansion.11.pronunciation.wav",
+    "expansion.12.pronunciation": "audio/vocab/intro-extro-ambi/expansion.12.pronunciation.wav",
+    "expansion.13.pronunciation": "audio/vocab/intro-extro-ambi/expansion.13.pronunciation.wav",
+    "expansion.14.pronunciation": "audio/vocab/intro-extro-ambi/expansion.14.pronunciation.wav",
+    "expansion.15.pronunciation": "audio/vocab/intro-extro-ambi/expansion.15.pronunciation.wav",
+    "expansion.16.pronunciation": "audio/vocab/intro-extro-ambi/expansion.16.pronunciation.wav",
+    "expansion.17.pronunciation": "audio/vocab/intro-extro-ambi/expansion.17.pronunciation.wav",
+    "expansion.18.pronunciation": "audio/vocab/intro-extro-ambi/expansion.18.pronunciation.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 3,
+    "session": 1,
+    "pages": [
+      56,
+      75
+    ],
+    "theme": "Personality Types",
+    "subtheme": "Energy Direction"
+  },
+  "tags": [
+    "personality",
+    "energy-direction",
+    "vert-root",
+    "ch3",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "convert",
+      "zh": "转换 / 改变信仰",
+      "root": "vert",
+      "partOfSpeech": "v.",
+      "phonetic": "kon-VURT'",
+      "gloss": {
+        "en": "To change one thing into another — a form, a belief, a state.",
+        "zh": "把一样东西变成另一样 — 形态、信仰，或状态。"
+      },
+      "usage": {
+        "en": "She converted the spare bedroom into a quiet writing studio.",
+        "zh": "她把空出来的卧室改造成了一个安静的写作室。"
+      }
+    },
+    {
+      "word": "divert",
+      "zh": "转移 / 分散",
+      "root": "vert",
+      "partOfSpeech": "v.",
+      "phonetic": "di-VURT'",
+      "gloss": {
+        "en": "To turn aside — traffic, attention, or money — from its intended path.",
+        "zh": "把交通、注意力或资金从原本的方向引开。"
+      },
+      "usage": {
+        "en": "Construction is diverting traffic onto side streets for the next two weeks.",
+        "zh": "施工把车流引到了支路上，接下来两周都会这样。"
+      }
+    },
+    {
+      "word": "invert",
+      "zh": "翻转 / 倒置",
+      "root": "vert",
+      "partOfSpeech": "v.",
+      "phonetic": "in-VURT'",
+      "gloss": {
+        "en": "To turn upside down or reverse the order of something.",
+        "zh": "把东西上下颠倒，或把顺序翻过来。"
+      },
+      "usage": {
+        "en": "Invert the bowl onto the plate to release the cake cleanly.",
+        "zh": "把碗倒扣到盘子上，蛋糕就能完整脱模。"
+      }
+    },
+    {
+      "word": "revert",
+      "zh": "回到原状 / 倒退",
+      "root": "vert",
+      "partOfSpeech": "v.",
+      "phonetic": "ri-VURT'",
+      "gloss": {
+        "en": "To return to an earlier state or habit.",
+        "zh": "回到之前的状态或习惯。"
+      },
+      "usage": {
+        "en": "After a month of clean eating, he reverted to late-night snacks the moment work got stressful.",
+        "zh": "认真吃了一个月健康餐，他一忙起来就又回到深夜吃零食的老路。"
+      }
+    },
+    {
+      "word": "reverse",
+      "zh": "反向 / 倒车",
+      "root": "vert",
+      "partOfSpeech": "v./n.",
+      "phonetic": "ri-VURS'",
+      "gloss": {
+        "en": "To turn back — direction, decision, or order.",
+        "zh": "把方向、决定或顺序反过来。"
+      },
+      "usage": {
+        "en": "Reverse the car slowly — there's a child on a scooter behind you.",
+        "zh": "慢点倒车 — 后面有个骑滑板车的孩子。"
+      }
+    },
+    {
+      "word": "adverse",
+      "zh": "不利的 / 反对的",
+      "root": "vert",
+      "partOfSpeech": "adj.",
+      "phonetic": "ad-VURS'",
+      "gloss": {
+        "en": "Turned against you — unfavorable conditions or forces.",
+        "zh": "向你而来的 — 不利的情况或力量。"
+      },
+      "usage": {
+        "en": "The startup launched into adverse market conditions and somehow still grew.",
+        "zh": "这家初创公司在不利的市场环境里上线，居然还是长起来了。"
+      }
+    },
+    {
+      "word": "adversary",
+      "zh": "对手 / 敌手",
+      "root": "vert",
+      "partOfSpeech": "n.",
+      "phonetic": "AD'-vur-ser-ee",
+      "gloss": {
+        "en": "Someone turned against you — an opponent.",
+        "zh": "和你对立的人 — 对手。"
+      },
+      "usage": {
+        "en": "Chess teaches you to think like your adversary before you make your own move.",
+        "zh": "国际象棋教你在出手之前，先像对手那样思考。"
+      }
+    },
+    {
+      "word": "controversy",
+      "zh": "争议",
+      "root": "vert",
+      "partOfSpeech": "n.",
+      "phonetic": "KON'-truh-vur-see",
+      "gloss": {
+        "en": "A public turning-against — heated disagreement.",
+        "zh": "公开的对立 — 激烈的分歧。"
+      },
+      "usage": {
+        "en": "The school's new phone policy sparked a controversy that lasted weeks at every parent meeting.",
+        "zh": "学校新出的手机管理规定引发了争议，连续几周家长会都在讨论。"
+      }
+    },
+    {
+      "word": "anniversary",
+      "zh": "周年纪念",
+      "root": "vert",
+      "partOfSpeech": "n.",
+      "phonetic": "an-i-VUR'-suh-ree",
+      "gloss": {
+        "en": "A yearly turning-back to a date — anni (year) + vers (turn).",
+        "zh": "每年回到同一个日子 — anni（年）+ vers（转）。"
+      },
+      "usage": {
+        "en": "On their tenth anniversary they returned to the small restaurant where he proposed.",
+        "zh": "结婚十周年那天，他们回到了当年他求婚的那家小餐馆。"
+      }
+    },
+    {
+      "word": "perverse",
+      "zh": "执拗的 / 反常的",
+      "root": "vert",
+      "partOfSpeech": "adj.",
+      "phonetic": "pur-VURS'",
+      "gloss": {
+        "en": "Turned the wrong way on purpose — stubbornly contrary.",
+        "zh": "故意拧着来 — 偏要反着。"
+      },
+      "usage": {
+        "en": "He took a perverse pleasure in disagreeing with whatever the meeting had already agreed on.",
+        "zh": "他偏要反对会议刚刚达成的共识 — 似乎从中得到一种奇怪的快感。"
+      }
+    },
+    {
+      "word": "versatile",
+      "zh": "多才多艺的 / 多用途的",
+      "root": "vert",
+      "partOfSpeech": "adj.",
+      "phonetic": "VUR'-suh-til",
+      "gloss": {
+        "en": "Able to turn many ways — flexible, multi-skilled.",
+        "zh": "能转向很多方向 — 灵活，多才多艺。"
+      },
+      "usage": {
+        "en": "She's a versatile engineer — equally comfortable debugging infra and shipping UI.",
+        "zh": "她是个多面手工程师 — 调底层基础设施和发前端界面都同样自如。"
+      }
+    },
+    {
+      "word": "ambivalent",
+      "zh": "矛盾的 / 模棱两可的",
+      "root": "ambi",
+      "partOfSpeech": "adj.",
+      "phonetic": "am-BIV'-uh-lent",
+      "gloss": {
+        "en": "Pulled in two directions — feeling both yes and no about the same thing.",
+        "zh": "被两个方向同时拉扯 — 对同一件事既肯又否。"
+      },
+      "usage": {
+        "en": "She's ambivalent about the promotion — more money and title, but less of the work she actually loves.",
+        "zh": "她对升职很矛盾 — 薪资和头衔更高，但她真正喜欢的工作反而少了。"
+      },
+      "rootMeaning": "both",
+      "rootMeaningZh": "两边",
+      "rootTint": "8aa090"
+    },
+    {
+      "word": "introspection",
+      "zh": "内省",
+      "root": "intro",
+      "partOfSpeech": "n.",
+      "phonetic": "in-troh-SPEK'-shun",
+      "gloss": {
+        "en": "Looking inward at your own thoughts and feelings — intro (within) + spec (to look).",
+        "zh": "向内看自己的想法和感受 — intro（向内）+ spec（看）。"
+      },
+      "usage": {
+        "en": "Six months of therapy gave him the introspection to see why he kept picking the same kind of partner.",
+        "zh": "半年的心理咨询给了他足够的内省 — 终于看清为什么自己总挑同一种伴侣。"
+      },
+      "rootMeaning": "inward / within",
+      "rootMeaningZh": "向内",
+      "rootTint": "6783a0"
+    },
+    {
+      "word": "extraordinary",
+      "zh": "非凡的 / 超乎寻常的",
+      "root": "extra",
+      "partOfSpeech": "adj.",
+      "phonetic": "ek-STRAW'-din-er-ee",
+      "gloss": {
+        "en": "Beyond the ordinary — extra (beyond) + ordinary.",
+        "zh": "超出寻常 — extra（在外/超出）+ ordinary（普通）。"
+      },
+      "usage": {
+        "en": "What looks like luck in extraordinary people is usually years of quiet preparation finding one open door.",
+        "zh": "看起来'非凡'的人靠运气 — 其实多半是多年安静的准备，刚好遇上一扇打开的门。"
+      },
+      "rootMeaning": "outside / beyond",
+      "rootMeaningZh": "在外 / 超出",
+      "rootTint": "c4956e"
+    },
+    {
+      "word": "ambidextrous",
+      "zh": "双手都灵巧的",
+      "root": "ambi",
+      "partOfSpeech": "adj.",
+      "phonetic": "am-bi-DEKS'-trus",
+      "gloss": {
+        "en": "Skilled with both hands — ambi (both) + dexter (right/skillful).",
+        "zh": "两只手都灵巧 — ambi（两边）+ dexter（右手 / 灵巧）。"
+      },
+      "usage": {
+        "en": "Truly ambidextrous people are rare — most of us are right- or left-dominant even when we don't notice.",
+        "zh": "真正的'双手都灵巧'很少见 — 多数人有惯用手，只是自己没意识到。"
+      }
+    },
+    {
+      "word": "ambition",
+      "zh": "雄心 / 抱负",
+      "root": "ambi",
+      "partOfSpeech": "n.",
+      "phonetic": "am-BISH'-un",
+      "gloss": {
+        "en": "Strong desire to achieve — from Latin ambitio, originally 'going around' to canvass for votes.",
+        "zh": "强烈的成就欲望 — 拉丁词 ambitio 原意是'四处走动'去拉选票。"
+      },
+      "usage": {
+        "en": "Quiet ambition lasts longer than loud ambition — it doesn't burn out trying to prove itself in year one.",
+        "zh": "安静的野心比张扬的野心走得远 — 它不会在第一年就把自己烧光。"
+      }
+    },
+    {
+      "word": "introduction",
+      "zh": "介绍 / 引言",
+      "root": "intro",
+      "partOfSpeech": "n.",
+      "phonetic": "in-troh-DUK'-shun",
+      "gloss": {
+        "en": "Leading into something — intro (within) + duct (to lead).",
+        "zh": "把人带入某事 — intro（向内）+ duct（带领）。"
+      },
+      "usage": {
+        "en": "A good introduction earns the next thirty seconds; a great one earns the next thirty minutes.",
+        "zh": "好的开场赢得接下来的三十秒；优秀的开场赢得接下来的三十分钟。"
+      }
+    },
+    {
+      "word": "extravagant",
+      "zh": "奢侈的 / 铺张的",
+      "root": "extra",
+      "partOfSpeech": "adj.",
+      "phonetic": "ek-STRAV'-uh-gunt",
+      "gloss": {
+        "en": "Going beyond reasonable limits — extra (beyond) + vag (to wander).",
+        "zh": "超出合理界限 — extra（在外）+ vag（漫游、徘徊）。"
+      },
+      "usage": {
+        "en": "His extravagant gifts at year three of dating started to feel less like generosity and more like a question.",
+        "zh": "恋爱第三年他奢侈的礼物开始感觉不像慷慨，更像一种提问。"
+      }
+    },
+    {
+      "word": "extract",
+      "zh": "提取 / 抽出",
+      "root": "extra",
+      "partOfSpeech": "v./n.",
+      "phonetic": "ek-STRAKT' (v.) · EKS'-trakt (n.)",
+      "gloss": {
+        "en": "To pull out from something — extra (out) + tract (to pull).",
+        "zh": "从某物中拉出来 — extra（向外）+ tract（拉）。"
+      },
+      "usage": {
+        "en": "She could extract a key insight from a two-hour meeting in three sentences — and the team loved her for it.",
+        "zh": "她能从两小时的会议里用三句话提取出关键洞见 — 团队为此爱她。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "lessonId": "botany-zoo-ento",
+  "hook": {
+    "headline": {
+      "en": "Three scientists. One question — what kind of life is in front of me?",
+      "zh": "三个科学家，一个问题 — 我面前的是哪一种生命？"
+    },
+    "subtext": {
+      "en": "Plants, animals, insects — which kingdom do you walk through without noticing?",
+      "zh": "植物、动物、昆虫 — 你每天路过哪一个生命王国，却从没看见它？"
+    }
+  },
+  "words": [
+    {
+      "word": "Botanist",
+      "phonetic": "BOT'-a-nist",
+      "chinese": "植物学家",
+      "definition": {
+        "en": "A scientist who studies plants — how they grow, classify, heal, feed us, and quietly hold the world together.",
+        "zh": "研究植物的科学家 — 它们如何生长、分类、治病、养活我们，又如何悄悄把这个世界托住。"
+      },
+      "etymology": {
+        "root": "botane",
+        "meaning": "plant, pasture",
+        "meaningZh": "植物、草地",
+        "en": "From Greek botane = 'plant, fodder, pasture'. The botanist began as someone who knew which plants were safe to eat — and worth saving.",
+        "zh": "希腊词根 botane = 植物、牧草。最初的植物学家，是知道哪些植物能吃、值得保留的人。",
+        "relatives": [
+          {
+            "word": "botany",
+            "zh": "植物学"
+          },
+          {
+            "word": "botanical",
+            "zh": "植物学的"
+          },
+          {
+            "word": "botanic garden",
+            "zh": "植物园"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The botanist took one look at the office plants and said three were thirsty and one was overwatered to death.",
+          "zh": "植物学家瞥了一眼办公室的盆栽就说：三盆缺水，一盆浇过头快死了。"
+        },
+        {
+          "context": "parenting",
+          "en": "A botanist parent turns every hike into a treasure hunt — 'what's this leaf? Why is it that shape?'",
+          "zh": "植物学家家长会把每次徒步都变成寻宝 — '这是什么叶子？为什么是这个形状？'"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "看草木",
+      "tint": "6db86d",
+      "mnemonic": {
+        "en": "Botane = PLANT. The botanist is the one who finally tells you why your fiddle leaf fig keeps dying.",
+        "zh": "Botane = 植物。植物学家就是那个终于能告诉你为什么你的琴叶榕一直养不活的人。"
+      },
+      "commonConfusions": [
+        "horticulturist",
+        "agronomist",
+        "ecologist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "A botanist and a horticulturist both work with plants. What's the difference?",
+            "zh": "植物学家和园艺师都和植物打交道。区别在哪里？"
+          },
+          "answer": {
+            "en": "The botanist studies plants as science — what they are. The horticulturist grows them as craft — how to make them thrive.",
+            "zh": "植物学家把植物当作科学来研究 — 它们是什么。园艺师把植物当作手艺来栽培 — 怎样让它们活得好。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Beatrix Potter became famous for Peter Rabbit, but she was a serious botanist first — she painted hundreds of fungi with scientific care. The Royal Society wouldn't accept her papers because she was a woman. She painted on anyway.",
+        "zh": "比阿特丽克斯·波特因彼得兔出名，但她最初是一位认真的植物学家 — 她用科研般的精细画了几百种真菌。皇家学会因为她是女性而拒绝她的论文。她也照样继续画。"
+      }
+    },
+    {
+      "word": "Zoologist",
+      "phonetic": "zo-OL'-a-jist",
+      "chinese": "动物学家",
+      "definition": {
+        "en": "A scientist who studies animals — how they behave, evolve, survive, and what kind of intelligence each species carries.",
+        "zh": "研究动物的科学家 — 它们如何行动、进化、生存，每个物种又带着怎样的智慧。"
+      },
+      "etymology": {
+        "root": "zoon",
+        "meaning": "animal, living being",
+        "meaningZh": "动物、生命体",
+        "en": "From Greek zoon = 'living thing, animal' + logos = 'study'. Literally: 'the study of animal life.'",
+        "zh": "希腊词根 zoon = 活物、动物 + logos = 学问。字面意思：研究动物生命的学问。",
+        "relatives": [
+          {
+            "word": "zoo",
+            "zh": "动物园"
+          },
+          {
+            "word": "zodiac",
+            "zh": "黄道十二宫（动物圈）"
+          },
+          {
+            "word": "protozoa",
+            "zh": "原生动物（最早的生命）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The zoologist studied the elephants for ten years before publishing — and the elephants kept teaching her new things in year twelve.",
+          "zh": "动物学家研究那群象研究了十年才发表 — 而第十二年，象群又教了她新东西。"
+        },
+        {
+          "context": "parenting",
+          "en": "Every kid is a baby zoologist — give them an ant and watch them lose track of time.",
+          "zh": "每个小孩都是个小动物学家 — 给他们一只蚂蚁，看他们怎么忘了时间。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "看动物",
+      "tint": "d49a55",
+      "mnemonic": {
+        "en": "Zoon = LIVING THING. From the smallest tide-pool creature to the largest whale — the zoologist watches them all.",
+        "zh": "Zoon = 活物。从最小的潮池生物到最大的鲸鱼 — 动物学家都在看。"
+      },
+      "commonConfusions": [
+        "veterinarian",
+        "ethologist",
+        "biologist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "A zoologist and a veterinarian both work with animals. What's the difference?",
+            "zh": "动物学家和兽医都和动物打交道。区别在哪里？"
+          },
+          "answer": {
+            "en": "The veterinarian heals an individual animal. The zoologist studies what makes the whole species tick.",
+            "zh": "兽医治的是一只动物个体。动物学家研究的是整个物种为什么这样运转。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Jane Goodall arrived in Gombe with no formal zoology degree, sat very still for months, and learned that chimpanzees use tools. One sentence overturned a half century of textbooks. The trick was patience — and not being too sure of what she'd find.",
+        "zh": "珍·古道尔到达贡贝时连正式的动物学学位都没有，她安静地坐了好几个月，发现黑猩猩会使用工具。这一句话推翻了半个世纪的教科书。秘诀是耐心 — 以及不太确定自己会发现什么。"
+      }
+    },
+    {
+      "word": "Entomologist",
+      "phonetic": "en'-ta-MOL'-a-jist",
+      "chinese": "昆虫学家",
+      "definition": {
+        "en": "A scientist who studies insects — the most numerous animals on earth, and the quietest engineers of every ecosystem.",
+        "zh": "研究昆虫的科学家 — 地球上数量最多的动物，也是每个生态系统里最安静的工程师。"
+      },
+      "etymology": {
+        "root": "entomon",
+        "meaning": "insect (literally 'cut up')",
+        "meaningZh": "昆虫（字面意思：被切开的）",
+        "en": "From Greek entomon = 'insect' — built on en- + temnein, 'to cut.' Greeks named insects after their segmented, 'cut-up' bodies. Same temnein gives us 'atom' (un-cuttable) and 'anatomy' (to cut up).",
+        "zh": "希腊词根 entomon = 昆虫 — 由 en- + temnein（切）构成。希腊人按昆虫'分段被切开'的身体给它命名。同一个 temnein 还给了我们'原子'（不可切分）和'解剖'（把身体切开来看）。",
+        "relatives": [
+          {
+            "word": "anatomy",
+            "zh": "解剖（切开来看）"
+          },
+          {
+            "word": "atom",
+            "zh": "原子（不可再切）"
+          },
+          {
+            "word": "dichotomy",
+            "zh": "二分（切成两半）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The entomologist warned the farm: this beetle isn't a pest. It's eating the actual pest.",
+          "zh": "昆虫学家提醒农场：这只甲虫不是害虫 — 它正在吃真正的害虫。"
+        },
+        {
+          "context": "social",
+          "en": "An entomologist can identify a bee from its buzz alone — a skill that sounds silly until you need it.",
+          "zh": "昆虫学家光听蜂鸣就能认出是哪种蜜蜂 — 听上去像玩笑，直到你真的需要它。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "看昆虫",
+      "tint": "a06848",
+      "mnemonic": {
+        "en": "Entomon = CUT-UP CREATURE. Look at any bug — head, thorax, abdomen, three little segments. The Greeks were just describing what they saw.",
+        "zh": "Entomon = 被切开的生物。看看任何一只虫 — 头、胸、腹，三段连在一起。希腊人只是把看到的描述出来。"
+      },
+      "commonConfusions": [
+        "zoologist",
+        "exterminator",
+        "lepidopterist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "An entomologist studies insects. So is a lepidopterist a different scientist?",
+            "zh": "昆虫学家研究昆虫。那鳞翅目学家是另一种科学家吗？"
+          },
+          "answer": {
+            "en": "A lepidopterist is a specialized entomologist — one who studies butterflies and moths specifically (from Greek lepidos, 'scale' + pteron, 'wing').",
+            "zh": "鳞翅目学家是细分的昆虫学家 — 只研究蝴蝶和蛾子（来自希腊 lepidos '鳞' + pteron '翅'）。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "E. O. Wilson, the great entomologist of ants, said: 'If insects vanished, the environment would collapse into chaos. If humans vanished, the world would flourish.' That's how seriously he took the small things — and the small things took him.",
+        "zh": "研究蚂蚁的大昆虫学家 E. O. 威尔森说过：'如果昆虫消失，环境会陷入混乱。如果人类消失，世界会繁荣起来。'他对小生物认真到这个程度 — 而小生物也回应了他一生。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both pick a kingdom of life and call it home. Same school, different roommates.",
+      "zh": "他们各自挑了一个生命王国安家。同一所学校，住在不同的宿舍。"
+    },
+    "leftLabel": "Botanist",
+    "leftLine": {
+      "en": "Counts things that can't run away.",
+      "zh": "看的是不会逃跑的生命。"
+    },
+    "leftMnemonic": {
+      "en": "Botane = PLANT · the patient subject.",
+      "zh": "Botane = 植物 · 耐心的研究对象。"
+    },
+    "rightLabel": "Zoologist",
+    "rightLine": {
+      "en": "Tracks things that don't stay still.",
+      "zh": "追的是不会安静下来的生命。"
+    },
+    "rightMnemonic": {
+      "en": "Zoon = ANIMAL · the moving subject.",
+      "zh": "Zoon = 动物 · 在动的研究对象。"
+    },
+    "closing": {
+      "en": "One waits for its subject. One chases. Both are learning what 'alive' really means.",
+      "zh": "一个等着研究对象，一个追着研究对象。两个都在学习'活着'到底是什么意思。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Walk through any park and you pass a dozen kingdoms of life. The botanist, zoologist, and entomologist each see one — and slow down enough to notice.",
+      "zh": "穿过任何一座公园，你都路过十几个生命的王国。植物学家、动物学家、昆虫学家各自看见一个 — 因为他们慢得足够看见。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/botany-zoo-ento/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/botany-zoo-ento/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/botany-zoo-ento/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/botany-zoo-ento/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/botany-zoo-ento/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/botany-zoo-ento/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/botany-zoo-ento/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/botany-zoo-ento/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/botany-zoo-ento/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/botany-zoo-ento/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/botany-zoo-ento/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/botany-zoo-ento/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/botany-zoo-ento/twist.left.wav",
+    "twist.right": "audio/vocab/botany-zoo-ento/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/botany-zoo-ento/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/botany-zoo-ento/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/botany-zoo-ento/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/botany-zoo-ento/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/botany-zoo-ento/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/botany-zoo-ento/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/botany-zoo-ento/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/botany-zoo-ento/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/botany-zoo-ento/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/botany-zoo-ento/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/botany-zoo-ento/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/botany-zoo-ento/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/botany-zoo-ento/hook.headline.wav",
+    "word.0.definition": "audio/vocab/botany-zoo-ento/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/botany-zoo-ento/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/botany-zoo-ento/word.2.definition.wav",
+    "twist.setup": "audio/vocab/botany-zoo-ento/twist.setup.wav",
+    "twist.closing": "audio/vocab/botany-zoo-ento/twist.closing.wav",
+    "recap.reflection": "audio/vocab/botany-zoo-ento/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 6,
+    "session": 12,
+    "pages": [
+      115,
+      145
+    ],
+    "theme": "Science and Scientists",
+    "subtheme": "Catalogers of life"
+  },
+  "tags": [
+    "science",
+    "scientists",
+    "life-forms",
+    "ch6",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "botany",
+      "zh": "植物学",
+      "root": "botane",
+      "partOfSpeech": "n.",
+      "phonetic": "BOT'-a-nee",
+      "gloss": {
+        "en": "The science of plants — what the botanist practices. From Greek botane (plant, pasture).",
+        "zh": "研究植物的学科 — 植物学家做的事。来自希腊 botane（植物、牧草）。"
+      },
+      "usage": {
+        "en": "Botany taught me there are 400 thousand species of plants, and we depend on a dozen of them for food.",
+        "zh": "植物学告诉我：地球上有四十万种植物，而我们的食物来源只靠其中十几种。"
+      }
+    },
+    {
+      "word": "botanical",
+      "zh": "植物学的",
+      "root": "botane",
+      "partOfSpeech": "adj.",
+      "phonetic": "ba-TAN'-i-kal",
+      "gloss": {
+        "en": "Relating to plants or to the science of botany. Often used in 'botanical garden' or 'botanical illustration.'",
+        "zh": "与植物或植物学相关。常见于'植物园'或'植物学插画'。"
+      },
+      "usage": {
+        "en": "She kept a small botanical journal — pressed leaves on the left, careful Latin names on the right.",
+        "zh": "她有一本小小的植物学笔记 — 左边压着叶子，右边写着工整的拉丁名。"
+      }
+    },
+    {
+      "word": "zoo",
+      "zh": "动物园",
+      "root": "zoon",
+      "partOfSpeech": "n.",
+      "phonetic": "ZOO",
+      "gloss": {
+        "en": "Short for 'zoological garden' — a collection of living animals. Same zoon as 'zoology.'",
+        "zh": "'动物园'（zoological garden）的缩写 — 活体动物的集合。和'动物学'是同一个 zoon。"
+      },
+      "usage": {
+        "en": "A modern zoo isn't a cage collection — it's a conservation lab with sidewalks.",
+        "zh": "现代的动物园不是关动物的笼子集 — 它是有人行道的保育实验室。"
+      }
+    },
+    {
+      "word": "zodiac",
+      "zh": "黄道十二宫",
+      "root": "zoon",
+      "partOfSpeech": "n.",
+      "phonetic": "ZO'-dee-ak",
+      "gloss": {
+        "en": "Literally 'circle of little animals' — most of the twelve signs (Aries, Taurus, Leo, etc.) are animal figures.",
+        "zh": "字面是'小动物的圈' — 十二宫里大多数（白羊、金牛、狮子等）都是动物形象。"
+      },
+      "usage": {
+        "en": "Half the zodiac is animals. The other half is people behaving like animals.",
+        "zh": "黄道十二宫里一半是动物，另一半是表现得像动物的人。"
+      }
+    },
+    {
+      "word": "protozoa",
+      "zh": "原生动物",
+      "root": "zoon",
+      "partOfSpeech": "n.",
+      "phonetic": "pro'-ta-ZO'-a",
+      "gloss": {
+        "en": "Literally 'first animals' — protos (first) + zoon (animal). Microscopic single-celled organisms.",
+        "zh": "字面是'最早的动物' — protos（最初）+ zoon（动物）。显微镜下的单细胞生物。"
+      },
+      "usage": {
+        "en": "Every drop of pond water is a small city of protozoa, going about their day.",
+        "zh": "一滴池水里就是原生动物的小城市，各自忙着过日子。"
+      }
+    },
+    {
+      "word": "entomology",
+      "zh": "昆虫学",
+      "root": "entomon",
+      "partOfSpeech": "n.",
+      "phonetic": "en'-ta-MOL'-a-jee",
+      "gloss": {
+        "en": "The study of insects — what the entomologist practices. Built on entomon (cut-up) + logos (study).",
+        "zh": "研究昆虫的学科 — 昆虫学家做的事。由 entomon（被切开的）+ logos（学问）构成。"
+      },
+      "usage": {
+        "en": "Entomology has the patience of a saint — there are more species of beetle than of all mammals combined.",
+        "zh": "昆虫学需要圣人般的耐心 — 光甲虫的种类，就比所有哺乳动物加起来都多。"
+      }
+    },
+    {
+      "word": "anatomy",
+      "zh": "解剖学",
+      "root": "temnein",
+      "partOfSpeech": "n.",
+      "phonetic": "a-NAT'-a-mee",
+      "gloss": {
+        "en": "Literally 'a cutting up' — ana- (up, apart) + temnein (to cut). The science of the body's interior layout.",
+        "zh": "字面是'切开来看' — ana-（向上、分开）+ temnein（切）。研究身体内部构造的学科。"
+      },
+      "usage": {
+        "en": "Before anatomy was a science, it was a quiet violation — early scientists studied bodies in secret.",
+        "zh": "在解剖学还不是科学之前，它是一种安静的禁忌 — 早期科学家偷偷地研究尸体。"
+      },
+      "rootMeaning": "to cut",
+      "rootMeaningZh": "切开",
+      "rootTint": "8e6ea8"
+    },
+    {
+      "word": "atom",
+      "zh": "原子",
+      "root": "temnein",
+      "partOfSpeech": "n.",
+      "phonetic": "AT'-am",
+      "gloss": {
+        "en": "Literally 'un-cuttable' — a- (not) + temnein (cut). The Greeks named it before they could split it.",
+        "zh": "字面是'不可切分的' — a-（不）+ temnein（切）。希腊人在能切开它之前就给它取了这个名字。"
+      },
+      "usage": {
+        "en": "We named the atom 'un-cuttable' — and then spent the twentieth century cutting it.",
+        "zh": "我们把原子命名为'不可切分' — 然后用二十世纪整整一百年去切它。"
+      }
+    },
+    {
+      "word": "epitome",
+      "zh": "缩影、典型",
+      "root": "temnein",
+      "partOfSpeech": "n.",
+      "phonetic": "i-PIT'-a-mee",
+      "gloss": {
+        "en": "Literally 'a cutting on top' — epi- (on, over) + temnein (cut). A condensed version that captures the whole.",
+        "zh": "字面是'切在上面' — epi-（在上）+ temnein（切）。把整体浓缩成最精炼的版本。"
+      },
+      "usage": {
+        "en": "She wasn't just well-dressed — she was the epitome of quiet style.",
+        "zh": "她不只是穿得好 — 她是那种安静风格的缩影。"
+      }
+    },
+    {
+      "word": "dichotomy",
+      "zh": "二分、对立",
+      "root": "temnein",
+      "partOfSpeech": "n.",
+      "phonetic": "di-KOT'-a-mee",
+      "gloss": {
+        "en": "Literally 'a cutting in two' — dicha (in two) + temnein (cut). A sharp division into opposite parts.",
+        "zh": "字面是'切成两半' — dicha（两份）+ temnein（切）。把事物截然分开的对立。"
+      },
+      "usage": {
+        "en": "Most dichotomies are false — life rarely sits in one of two boxes.",
+        "zh": "大多数的'非此即彼'都是假的 — 生活很少正好落在两个盒子里的某一个。"
+      }
+    },
+    {
+      "word": "ecology",
+      "zh": "生态学",
+      "root": "oikos",
+      "partOfSpeech": "n.",
+      "phonetic": "ee-KOL'-a-jee",
+      "gloss": {
+        "en": "Literally 'study of the household' — oikos (house) + logos (study). The same oikos as 'economy.' Earth as one big household.",
+        "zh": "字面是'研究家' — oikos（家）+ logos（学问）。和'经济'里是同一个 oikos。把地球当作一个大家庭。"
+      },
+      "usage": {
+        "en": "Ecology asks the question economists forgot: who else lives in this house with us?",
+        "zh": "生态学在问一个经济学家忘了的问题：还有谁，和我们住在这个家里？"
+      },
+      "rootMeaning": "house, household",
+      "rootMeaningZh": "家、住所",
+      "rootTint": "5f9a9a"
+    },
+    {
+      "word": "ecosystem",
+      "zh": "生态系统",
+      "root": "oikos",
+      "partOfSpeech": "n.",
+      "phonetic": "EE'-ko-sis'-tem",
+      "gloss": {
+        "en": "The household + everything in it, working together — oikos (house) + systema (organized whole).",
+        "zh": "家 + 家里所有一起运转的东西 — oikos（家）+ systema（有组织的整体）。"
+      },
+      "usage": {
+        "en": "Every backyard is a small ecosystem — soil, beetles, birds, the cat that watches them all.",
+        "zh": "每个后院都是一个小小的生态系统 — 土壤、甲虫、鸟，还有那只看着所有这些的猫。"
+      }
+    }
+  ]
+}

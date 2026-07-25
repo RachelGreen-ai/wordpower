@@ -1,0 +1,499 @@
+{
+  "lessonId": "cogent-banal-vociferous",
+  "hook": {
+    "headline": {
+      "en": "Three ways speech lands — compelling, tired, or loud.",
+      "zh": "三种话听进耳朵的方式 — 有力、陈旧，或喧嚣。"
+    },
+    "subtext": {
+      "en": "How a sentence is built decides whether anyone keeps listening.",
+      "zh": "一句话怎样被搭起来，决定了别人还愿不愿意继续听。"
+    }
+  },
+  "words": [
+    {
+      "word": "Cogent",
+      "phonetic": "KO'-jant",
+      "chinese": "有说服力的、令人信服的",
+      "definition": {
+        "en": "Powerfully convincing — a cogent argument doesn't just present facts; it arranges them so the conclusion feels inevitable.",
+        "zh": "强有力地令人信服 — 有说服力的论证不只是摆出事实，而是把它们排得让人觉得'结论非这个不可'。"
+      },
+      "etymology": {
+        "root": "agere",
+        "meaning": "to drive, to do",
+        "meaningZh": "驱动、做",
+        "en": "From Latin cogere = 'to drive together' — co- (together) + agere (to drive). A cogent argument DRIVES the pieces together. Same agere hidden in 'act,' 'agent,' 'agenda,' 'agile,' and 'navigate.'",
+        "zh": "拉丁 cogere = '把…驱赶到一起' — co-（一起）+ agere（驱动）。有说服力的论证就是把碎片驱动到一起。同一个 agere 藏在 act、agent、agenda、agile、navigate 里。",
+        "relatives": [
+          {
+            "word": "act",
+            "zh": "行动"
+          },
+          {
+            "word": "agent",
+            "zh": "代理人"
+          },
+          {
+            "word": "agenda",
+            "zh": "议程"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Her case was cogent enough that the skeptics asked questions instead of arguing.",
+          "zh": "她的论证有说服力到 — 怀疑者开始问问题，而不是反驳。"
+        },
+        {
+          "context": "social",
+          "en": "A cogent reason takes one breath. The version with eight reasons usually means you don't have one good one.",
+          "zh": "一个有说服力的理由只要一口气。八个理由的版本，通常说明你其实没有一个真正站得住的。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "有力",
+      "tint": "5a7d50",
+      "mnemonic": {
+        "en": "Co + Agere = DRIVE TOGETHER. Cogent argument drives the pieces into one shape — no air between them.",
+        "zh": "Co + Agere = 一起驱动。有说服力的论证把碎片驱动到一个形状里 — 当中没有空隙。"
+      },
+      "commonConfusions": [
+        "compelling",
+        "persuasive",
+        "valid"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Persuasive and cogent both convince. What's the difference?",
+            "zh": "Persuasive 和 cogent 都能说服人。区别在哪？"
+          },
+          "answer": {
+            "en": "Persuasive can work on emotion. Cogent works on logic. One moves you. The other leaves you no good way to disagree.",
+            "zh": "Persuasive 可以靠情感打动你。Cogent 是靠逻辑站住的。一个是动你的心，一个是让你找不到合理的反对方式。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Darwin's 'Origin of Species' wasn't shocking because it was loud — it was cogent. Page after page of small observations driven together until the conclusion felt like the only place the road could end. The cogent argument doesn't shout. It walks you there.",
+        "zh": "达尔文的《物种起源》之所以震动世界，不是因为它声音大 — 而是因为它有说服力。一页页的小观察被驱动到一起，直到结论变成那条路唯一可能的终点。有说服力的论证不嚷嚷 — 它把你慢慢领过去。"
+      }
+    },
+    {
+      "word": "Banal",
+      "phonetic": "ba-NAL'",
+      "chinese": "陈腐的、平淡无奇的",
+      "definition": {
+        "en": "Common, ordinary, lacking originality. A banal observation is one anybody could have made — so saying it adds nothing.",
+        "zh": "陈腐、寻常、缺乏新意。陈腐的观察是任何人都能说出来的话 — 所以再说一遍，什么都没增加。"
+      },
+      "etymology": {
+        "root": "ban",
+        "meaning": "common, open to all",
+        "meaningZh": "公共的、人人皆有的",
+        "en": "From Old French banal — originally a feudal term for things 'open to the whole community' (the village's communal oven, mill, well). What everyone uses, slowly comes to mean what's ordinary, unremarkable, or trite.",
+        "zh": "源自古法语 banal — 最初是封建制度下指'整个社区共用的'东西（村里公用的烤炉、磨坊、水井）。所有人都用的东西，渐渐被引申为'寻常、无趣、陈腐'。",
+        "relatives": [
+          {
+            "word": "banality",
+            "zh": "陈腐（名词）"
+          },
+          {
+            "word": "commonplace",
+            "zh": "司空见惯（近义）"
+          },
+          {
+            "word": "trite",
+            "zh": "老套的（近义）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "His feedback was banal — 'good work, keep it up' — and helped no one improve.",
+          "zh": "他给的反馈很陈腐 — '做得不错，继续努力' — 没有帮任何人变好。"
+        },
+        {
+          "context": "social",
+          "en": "Banal small talk is the price of being polite — until someone breaks it with a real question.",
+          "zh": "陈腐的寒暄，是礼貌的代价 — 直到有人用一个真问题把它打破。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "陈腐",
+      "tint": "8a8a4f",
+      "mnemonic": {
+        "en": "Ban = COMMON. Banal = SO common everyone has heard it — your version adds nothing the room didn't already have.",
+        "zh": "Ban = 公共的、人人皆有。Banal = 普遍到所有人都听过 — 你说一遍，并没给屋里加任何新东西。"
+      },
+      "commonConfusions": [
+        "cliché",
+        "trite",
+        "hackneyed"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "What's the fastest test to see if a phrase has become banal?",
+            "zh": "判断一句话是否变陈腐了，最快的方法是什么？"
+          },
+          "answer": {
+            "en": "Try to imagine the OPPOSITE sentence. If it would never be said — 'never follow your dreams,' 'time hates a healer' — the original was probably banal.",
+            "zh": "试着想这句话的反面。如果那句反话根本不会有人说 — 比如'千万别追梦'、'时间讨厌治愈一切' — 那原来那句多半是陈腐的。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Hannah Arendt coined the phrase 'the banality of evil' watching Adolf Eichmann on trial — a clerk, not a monster, who'd organized deportations as routine paperwork. Her point: the most damaging evil isn't dramatic. It's banal — done by people who never paused to think.",
+        "zh": "汉娜·阿伦特在旁听阿道夫·艾希曼受审时，造出了'平庸之恶'（the banality of evil）这个说法 — 那是一个职员，不是魔鬼，把驱逐犹太人当作日常文书办了。她的意思是：最严重的恶并不戏剧化，它是平庸的 — 由那些从未停下来思考的人完成。"
+      }
+    },
+    {
+      "word": "Vociferous",
+      "phonetic": "vo-SIF'-ar-us",
+      "chinese": "喧嚣的、大声疾呼的",
+      "definition": {
+        "en": "Loud, clamorous, and insistent — using volume to be heard. Vociferous speech demands attention. Whether it earns it is another question.",
+        "zh": "大声、激烈、坚持不懈 — 用音量让自己被听见。喧嚣的话强行要求注意。能不能赢得注意是另一回事。"
+      },
+      "etymology": {
+        "root": "ferre",
+        "meaning": "to carry, to bear",
+        "meaningZh": "携带、承载",
+        "en": "From Latin vox (voice) + ferre (to carry). Literally 'voice-carrying' — pushing the voice OUT, loud and far. Same ferre is hidden in 'confer,' 'defer,' 'refer,' 'transfer,' 'suffer' (to bear under), and 'infer' (to carry in).",
+        "zh": "拉丁 vox（声音）+ ferre（携带）。字面是'把声音运出去' — 大声、远传。同一个 ferre 藏在 confer、defer、refer、transfer、suffer（承受、'载于其下'）、infer（推断、'载入'）里。",
+        "relatives": [
+          {
+            "word": "transfer",
+            "zh": "转移、迁移"
+          },
+          {
+            "word": "refer",
+            "zh": "提到、引用"
+          },
+          {
+            "word": "suffer",
+            "zh": "承受、忍受"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The vociferous critic in the meeting was loud — but the quiet one in the corner ended up reshaping the plan.",
+          "zh": "会上那个大声反对的人很喧嚣 — 但最终重塑方案的，是角落里那个安静的人。"
+        },
+        {
+          "context": "social",
+          "en": "Vociferous opinions get attention online. Calmer ones get remembered.",
+          "zh": "网上喧嚣的观点能引来注意。安静一些的观点会被记住。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "喧嚣",
+      "tint": "c4642f",
+      "mnemonic": {
+        "en": "Vox + Ferre = VOICE-CARRYING. Vociferous = voice being pushed OUT — far and loud. The push doesn't guarantee the listening.",
+        "zh": "Vox + Ferre = 把声音运出去。Vociferous = 声音被推出去 — 又远又响。推出去，不代表被听见。"
+      },
+      "commonConfusions": [
+        "loud",
+        "clamorous",
+        "strident"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Strident and vociferous are close. What's the difference?",
+            "zh": "Strident 和 vociferous 接近。区别在哪？"
+          },
+          "answer": {
+            "en": "Vociferous = loud and abundant. Strident = loud and harsh. One is volume; the other is volume PLUS unpleasant edge.",
+            "zh": "Vociferous = 又大声又多。Strident = 又大声又刺耳。一个是音量，另一个是音量加上一种刺耳的边。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "In ancient Athens, the loudest speakers in the agora weren't always the most listened to. Socrates was quiet, even reluctant. The most vociferous voices made the news; his questions made the philosophy. The pattern still works.",
+        "zh": "在古雅典的广场上，说话最大声的，并不总是被听得最认真的。苏格拉底安静，甚至不情愿。最喧嚣的声音上了当时的'头条'，他的提问却成了哲学。这个规律一直没变。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both reach the listener. But one wins the argument. The other just demands attention.",
+      "zh": "两种都抵达了听者。但一个赢了论证。一个只是在索要注意。"
+    },
+    "leftLabel": "Cogent",
+    "leftLine": {
+      "en": "Drives the pieces into one shape.",
+      "zh": "把碎片驱动成一个完整的形状。"
+    },
+    "leftMnemonic": {
+      "en": "Co + Agere = DRIVE-TOGETHER · the case that closes itself.",
+      "zh": "Co + Agere = 一起驱动 · 自己合拢起来的论证。"
+    },
+    "rightLabel": "Vociferous",
+    "rightLine": {
+      "en": "Pushes volume into the room.",
+      "zh": "把音量推进屋子。"
+    },
+    "rightMnemonic": {
+      "en": "Vox + Ferre = VOICE-CARRYING · loud, far — not always heard.",
+      "zh": "Vox + Ferre = 把声音运出去 · 又大又远 — 不一定被听见。"
+    },
+    "closing": {
+      "en": "One closes the case. The other just fills the air.",
+      "zh": "一个把案子合上。一个只是把空气填满。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Speech wins the room three ways — by being convincing, by being fresh, or by being loud. Only one of the three leaves anything behind.",
+      "zh": "话能赢得屋子，有三种方式 — 说服、新鲜、或大声。其中只有一种能留下东西。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/cogent-banal-vociferous/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/cogent-banal-vociferous/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/cogent-banal-vociferous/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/cogent-banal-vociferous/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/cogent-banal-vociferous/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/cogent-banal-vociferous/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/cogent-banal-vociferous/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/cogent-banal-vociferous/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/cogent-banal-vociferous/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/cogent-banal-vociferous/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/cogent-banal-vociferous/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/cogent-banal-vociferous/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/cogent-banal-vociferous/twist.left.wav",
+    "twist.right": "audio/vocab/cogent-banal-vociferous/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/cogent-banal-vociferous/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/cogent-banal-vociferous/hook.headline.wav",
+    "word.0.definition": "audio/vocab/cogent-banal-vociferous/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/cogent-banal-vociferous/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/cogent-banal-vociferous/word.2.definition.wav",
+    "twist.setup": "audio/vocab/cogent-banal-vociferous/twist.setup.wav",
+    "twist.closing": "audio/vocab/cogent-banal-vociferous/twist.closing.wav",
+    "recap.reflection": "audio/vocab/cogent-banal-vociferous/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 10,
+    "session": 26,
+    "pages": [
+      239,
+      280
+    ],
+    "theme": "Speech Habits",
+    "subtheme": "How speech lands — compelling, banal, or loud"
+  },
+  "tags": [
+    "speech",
+    "speech-habits",
+    "rhetoric",
+    "ch10",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "act",
+      "zh": "行动、做",
+      "root": "agere",
+      "partOfSpeech": "v./n.",
+      "phonetic": "AKT",
+      "gloss": {
+        "en": "To do — directly from agere. The most general verb of doing.",
+        "zh": "去做 — 直接来自 agere。最通用的'做'的动词。"
+      },
+      "usage": {
+        "en": "We're not what we think. We're what we keep choosing to act on.",
+        "zh": "我们不是我们想的那样。我们是我们一直选择去做的那样。"
+      }
+    },
+    {
+      "word": "agent",
+      "zh": "代理人、施动者",
+      "root": "agere",
+      "partOfSpeech": "n.",
+      "phonetic": "AY'-jant",
+      "gloss": {
+        "en": "One who acts — the present participle of agere. An agent does on someone else's behalf.",
+        "zh": "做事的人 — agere 的现在分词形式。代理人代别人去做。"
+      },
+      "usage": {
+        "en": "A good agent makes you sound like your best self in rooms you aren't in.",
+        "zh": "好的代理人让你的'最好那一面'，出现在你不在场的屋子里。"
+      }
+    },
+    {
+      "word": "agenda",
+      "zh": "议程、计划",
+      "root": "agere",
+      "partOfSpeech": "n.",
+      "phonetic": "a-JEN'-da",
+      "gloss": {
+        "en": "Literally 'things to be done' — the gerundive (future passive) of agere. An agenda is a list of acts waiting to happen.",
+        "zh": "字面是'将要做的事' — agere 的将来时被动分词形式。议程就是一份等着发生的'要做事项'清单。"
+      },
+      "usage": {
+        "en": "Every meeting has two agendas — the printed one, and the one people actually came to push.",
+        "zh": "每个会议都有两份议程 — 打印出来的，和大家其实是来推的那份。"
+      }
+    },
+    {
+      "word": "agitate",
+      "zh": "搅动、煽动",
+      "root": "agere",
+      "partOfSpeech": "v.",
+      "phonetic": "AJ'-i-tayt",
+      "gloss": {
+        "en": "To drive repeatedly — frequentative of agere. To stir physically, or to stir people emotionally.",
+        "zh": "反复驱动 — agere 的频复形态。可以是物理上的搅动，也可以是情绪上的煽动。"
+      },
+      "usage": {
+        "en": "Activists agitate to make a quiet wrong loud — sometimes the only path to it being fixed.",
+        "zh": "活动家用'搅动'让安静的错变得显眼 — 有时候，这是它被修正的唯一路径。"
+      }
+    },
+    {
+      "word": "navigate",
+      "zh": "航行、导航",
+      "root": "agere",
+      "partOfSpeech": "v.",
+      "phonetic": "NAV'-i-gayt",
+      "gloss": {
+        "en": "Literally 'to drive a ship' — navis (ship) + agere (drive). Now any kind of finding-your-way-through.",
+        "zh": "字面是'驾驶船' — navis（船）+ agere（驱动）。现在指任何'找路穿过去'的过程。"
+      },
+      "usage": {
+        "en": "We don't navigate by knowing the destination — we navigate by knowing what to do at each fork.",
+        "zh": "我们不是靠知道终点来导航 — 我们靠知道'每个岔路口该做什么'来导航。"
+      }
+    },
+    {
+      "word": "confer",
+      "zh": "商议、授予",
+      "root": "ferre",
+      "partOfSpeech": "v.",
+      "phonetic": "kan-FER'",
+      "gloss": {
+        "en": "Literally 'to bring together' — con- (together) + ferre (carry). To consult, or to bestow a title.",
+        "zh": "字面是'一起搬过来' — con-（一起）+ ferre（携带）。可以是商议，也可以是授予头衔。"
+      },
+      "usage": {
+        "en": "The best decisions confer briefly with the right people, not lengthily with the wrong ones.",
+        "zh": "最好的决定，是和正确的人短暂地商量，不是和错误的人冗长地讨论。"
+      }
+    },
+    {
+      "word": "refer",
+      "zh": "提到、引用",
+      "root": "ferre",
+      "partOfSpeech": "v.",
+      "phonetic": "ri-FER'",
+      "gloss": {
+        "en": "Literally 'to carry back' — re- (back) + ferre. To point back toward something, or someone else.",
+        "zh": "字面是'拿回去' — re-（回）+ ferre。指回某件事，或转给别人。"
+      },
+      "usage": {
+        "en": "When in doubt, refer the question to the person closest to the work, not the highest in the room.",
+        "zh": "拿不准时，把问题转给离工作最近的人 — 而不是屋里职位最高的人。"
+      }
+    },
+    {
+      "word": "transfer",
+      "zh": "转移、迁移",
+      "root": "ferre",
+      "partOfSpeech": "v.",
+      "phonetic": "trans-FER'",
+      "gloss": {
+        "en": "Literally 'to carry across' — trans- (across) + ferre. Move something from one place to another.",
+        "zh": "字面是'搬过去' — trans-（穿过）+ ferre。把东西从一处搬到另一处。"
+      },
+      "usage": {
+        "en": "Some skills don't transfer. Others quietly do — usually the soft ones you didn't think were skills.",
+        "zh": "有些技能不能迁移。有些悄悄能迁移 — 通常是那些你当初没意识到算技能的'软技能'。"
+      }
+    },
+    {
+      "word": "suffer",
+      "zh": "承受、忍受",
+      "root": "ferre",
+      "partOfSpeech": "v.",
+      "phonetic": "SUF'-ar",
+      "gloss": {
+        "en": "Literally 'to bear under' — sub- (under) + ferre. To carry the weight of something painful.",
+        "zh": "字面是'载于其下' — sub-（在下）+ ferre。背负某种痛苦的重量。"
+      },
+      "usage": {
+        "en": "We suffer most in the moments we're sure no one else has ever suffered this way — which is almost always wrong.",
+        "zh": "我们最痛苦的时刻，常常是'确信没人这样痛苦过'的时刻 — 而这几乎永远是错的。"
+      }
+    },
+    {
+      "word": "infer",
+      "zh": "推断、推论",
+      "root": "ferre",
+      "partOfSpeech": "v.",
+      "phonetic": "in-FER'",
+      "gloss": {
+        "en": "Literally 'to carry in' — in- (in) + ferre. To bring an unspoken conclusion in from what was said.",
+        "zh": "字面是'载入' — in-（向内）+ ferre。从对方说出来的东西里，把没说出来的结论带回来。"
+      },
+      "usage": {
+        "en": "We infer most when the speaker thinks they're being neutral — neutrality has tells.",
+        "zh": "当对方以为自己中立时，我们推断得最多 — 中立本身也有破绽。"
+      }
+    },
+    {
+      "word": "banality",
+      "zh": "陈腐、平庸",
+      "root": "ban",
+      "partOfSpeech": "n.",
+      "phonetic": "ba-NAL'-i-tee",
+      "gloss": {
+        "en": "The state of being banal — the noun form. Hannah Arendt's 'banality of evil' made the word famous in moral philosophy.",
+        "zh": "陈腐这种状态 — 名词形式。汉娜·阿伦特的'平庸之恶'让这个词在道德哲学里出了名。"
+      },
+      "usage": {
+        "en": "What looks like wisdom on a poster is often banality in better lighting.",
+        "zh": "海报上看起来像智慧的话，常常是被打了好看灯光的陈腐。"
+      }
+    },
+    {
+      "word": "trite",
+      "zh": "陈词滥调的、老套的",
+      "root": "terere",
+      "partOfSpeech": "adj.",
+      "phonetic": "TRIT",
+      "gloss": {
+        "en": "Literally 'worn out' — from Latin tritus, past participle of terere (to rub). A trite phrase has been rubbed smooth by overuse, until it carries no friction anymore.",
+        "zh": "字面是'被磨损了' — 来自拉丁 tritus，terere（磨）的过去分词。陈词滥调，是被用得太多以至于磨光了 — 不再带任何摩擦力。"
+      },
+      "usage": {
+        "en": "A trite saying still might be true — but truth without friction is hard to hear.",
+        "zh": "一句老套的话也许还是对的 — 但没有摩擦力的真话很难听进去。"
+      },
+      "rootMeaning": "to rub, to wear out",
+      "rootMeaningZh": "磨、磨损",
+      "rootTint": "8e7a5a"
+    }
+  ]
+}

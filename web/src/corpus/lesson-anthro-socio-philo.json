@@ -1,0 +1,518 @@
+{
+  "lessonId": "anthro-socio-philo",
+  "hook": {
+    "headline": {
+      "en": "Three watchers of people. Three lenses on what makes us human.",
+      "zh": "三个观察者，三种看人的角度。"
+    },
+    "subtext": {
+      "en": "Who do you watch — the species, the group, or the words they choose?",
+      "zh": "你在观察什么 — 物种、群体，还是他们说出口的话？"
+    }
+  },
+  "words": [
+    {
+      "word": "Anthropologist",
+      "phonetic": "an'-thra-POL'-a-jist",
+      "chinese": "人类学家",
+      "definition": {
+        "en": "A scientist who studies humans as a species — our origins, cultures, and how we've changed across time.",
+        "zh": "研究人类这个物种的学者 — 起源、文化、跨时空的演变。"
+      },
+      "etymology": {
+        "root": "anthropos",
+        "meaning": "human being",
+        "meaningZh": "人",
+        "en": "From Greek anthropos = 'human being' + logos = 'study'. Literally: 'one who studies humans.'",
+        "zh": "希腊词根 anthropos = 人 + logos = 学问。字面意思：研究人类的人。",
+        "relatives": [
+          {
+            "word": "philanthropist",
+            "zh": "慈善家（爱人类）"
+          },
+          {
+            "word": "misanthrope",
+            "zh": "厌世者（恨人类）"
+          },
+          {
+            "word": "anthropomorphic",
+            "zh": "拟人化的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "A good anthropologist watches your office for a month before suggesting a single change — culture takes time to read.",
+          "zh": "好的人类学家会先观察你的公司一个月才提建议 — 看懂一种文化是要花时间的。"
+        },
+        {
+          "context": "parenting",
+          "en": "Every parent becomes a quiet anthropologist — comparing rituals, tracking what other families actually do at dinner.",
+          "zh": "每个父母都会变成默默的人类学家 — 比较仪式、留意别家晚饭桌上真正在做什么。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "看物种",
+      "tint": "e8a76a",
+      "mnemonic": {
+        "en": "Anthropos = HUMAN. Anthropologist = the one zoomed all the way out — the whole species, the whole story.",
+        "zh": "Anthropos = 人。人类学家就是镜头拉到最远的那位 — 整个物种、整个故事。"
+      },
+      "commonConfusions": [
+        "sociologist",
+        "archaeologist",
+        "ethnographer"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "An anthropologist and an archaeologist both study humans across time. What's the difference?",
+            "zh": "人类学家和考古学家都研究人类的历史。他们有什么区别？"
+          },
+          "answer": {
+            "en": "The archaeologist studies the artifacts — what we left behind. The anthropologist studies the people themselves — how we live, believe, and relate.",
+            "zh": "考古学家研究遗物 — 我们留下的东西。人类学家研究人本身 — 我们如何生活、相信、相处。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Margaret Mead spent years on a Samoan island in the 1920s and came back with a book that changed how Americans thought about adolescence. One person, watching closely — that's anthropology.",
+        "zh": "1920年代，玛格丽特·米德在萨摩亚岛住了好几年，回来写了一本书，彻底改变了美国人对青春期的看法。一个人，认真地观察 — 这就是人类学。"
+      }
+    },
+    {
+      "word": "Sociologist",
+      "phonetic": "so'-shee-OL'-a-jist",
+      "chinese": "社会学家",
+      "definition": {
+        "en": "A scientist who studies humans in groups — how societies organize themselves, why institutions form, what holds people together.",
+        "zh": "研究群体中人类的学者 — 社会如何组织、制度为何形成、是什么把人凝在一起。"
+      },
+      "etymology": {
+        "root": "socius",
+        "meaning": "companion, ally",
+        "meaningZh": "同伴、伙伴",
+        "en": "From Latin socius = 'companion, ally' + Greek logos = 'study'. Literally: 'the study of companionship.'",
+        "zh": "拉丁词根 socius = 同伴、伙伴 + 希腊 logos = 学问。字面意思：研究人如何相伴。",
+        "relatives": [
+          {
+            "word": "society",
+            "zh": "社会"
+          },
+          {
+            "word": "associate",
+            "zh": "联结、同事"
+          },
+          {
+            "word": "antisocial",
+            "zh": "反社会的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "A sociologist would notice that three departments hold the same meeting twice a week — and nobody has ever asked why.",
+          "zh": "社会学家会注意到：三个部门一周开两次同样的会 — 而从来没人问过为什么。"
+        },
+        {
+          "context": "friends",
+          "en": "A sociologist would call your friend group a tight network — eight people who can call each other at midnight.",
+          "zh": "社会学家会说你的朋友圈是个紧密的网 — 八个人之间，半夜都能打通电话。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "看群体",
+      "tint": "e06464",
+      "mnemonic": {
+        "en": "Socius = COMPANION. Sociologist = the one watching how we group, gather, and quietly enforce the rules of being together.",
+        "zh": "Socius = 同伴。社会学家在观察我们如何聚成群、形成圈、悄悄约定相处的规则。"
+      },
+      "commonConfusions": [
+        "anthropologist",
+        "psychologist",
+        "social worker"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "A psychologist and a sociologist both study people. What's the core difference?",
+            "zh": "心理学家和社会学家都研究人。核心区别是什么？"
+          },
+          "answer": {
+            "en": "The psychologist looks INTO one mind. The sociologist looks BETWEEN minds — at the patterns that emerge when many people interact.",
+            "zh": "心理学家往一个人的内心看。社会学家往人与人之间看 — 当很多人互动时浮现的模式。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Émile Durkheim wondered why suicide rates differed across countries even when people were similar. His answer launched modern sociology: the group you belong to shapes the choices you think are yours alone.",
+        "zh": "涂尔干曾问：为什么不同国家的自杀率不一样，哪怕那里的人都很相似？他的答案开启了现代社会学：你所属的群体，悄悄塑造着你以为完全属于自己的选择。"
+      }
+    },
+    {
+      "word": "Philologist",
+      "phonetic": "fi-LOL'-a-jist",
+      "chinese": "语文学家",
+      "definition": {
+        "en": "A scholar who studies language itself — how words evolve, where they come from, and what they reveal about the people who use them.",
+        "zh": "研究语言本身的学者 — 词如何演变、源自何处、又透露出使用者的什么。"
+      },
+      "etymology": {
+        "root": "philos",
+        "meaning": "loving",
+        "meaningZh": "爱、喜爱",
+        "en": "From Greek philos = 'loving' + logos = 'word, language'. Literally: 'a lover of words.'",
+        "zh": "希腊词根 philos = 爱 + logos = 词、语言。字面意思：爱词的人。",
+        "relatives": [
+          {
+            "word": "philosophy",
+            "zh": "哲学（爱智慧）"
+          },
+          {
+            "word": "bibliophile",
+            "zh": "爱书人"
+          },
+          {
+            "word": "philharmonic",
+            "zh": "爱音乐的（乐团）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "She's the team philologist — she notices the year 'urgent' started meaning 'I'll get to it Thursday.'",
+          "zh": "她是团队里的语文学家 — 她记得是哪一年开始，'urgent' 变成了'我周四再处理'。"
+        },
+        {
+          "context": "social",
+          "en": "A philologist can track how 'literally' lost its meaning in twenty years — and what we lost along with it.",
+          "zh": "语文学家能讲清楚 'literally' 是怎样在二十年里失去本意的 — 以及我们一起失去了什么。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "看语言",
+      "tint": "7ac79a",
+      "mnemonic": {
+        "en": "Philo + logos = LOVER of WORDS. Not a grammarian — a romantic. The philologist watches how language changes the way we change.",
+        "zh": "Philo + logos = 爱词的人。不是语法老师 — 是个浪漫主义者。语文学家观察语言怎样跟着我们一起变。"
+      },
+      "commonConfusions": [
+        "linguist",
+        "etymologist",
+        "lexicographer"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "A linguist and a philologist both study language. What's the cultural difference?",
+            "zh": "语言学家和语文学家都研究语言。文化上有什么区别？"
+          },
+          "answer": {
+            "en": "The linguist studies language as a system — grammar, sound, structure. The philologist studies language as human history — how words carry centuries of meaning, conquest, and love.",
+            "zh": "语言学家把语言当系统研究 — 语法、声音、结构。语文学家把语言当人类历史研究 — 词里藏着几个世纪的意义、征服、爱。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Tolkien was a philologist long before he was a novelist. He invented Elvish because he loved how languages feel — and only afterward built a world for his languages to live in. Middle-earth is what happens when a philologist gets too excited.",
+        "zh": "托尔金先是语文学家，才成为小说家。他发明精灵语，是因为他迷恋语言的质感 — 之后才造出一个世界给这些语言安家。中土世界，就是一个语文学家一不小心入迷的产物。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Anthropologist and sociologist both watch people. But they zoom differently.",
+      "zh": "人类学家和社会学家都在看人。但他们的镜头不一样。"
+    },
+    "leftLabel": "Anthropologist",
+    "leftLine": {
+      "en": "Zooms out to the whole species.",
+      "zh": "镜头拉远，看整个物种。"
+    },
+    "leftMnemonic": {
+      "en": "Anthropos = HUMAN · all of us, across all time.",
+      "zh": "Anthropos = 人 · 跨越所有时代的我们。"
+    },
+    "rightLabel": "Sociologist",
+    "rightLine": {
+      "en": "Zooms in on the group, right now.",
+      "zh": "镜头拉近，看此刻的群体。"
+    },
+    "rightMnemonic": {
+      "en": "Socius = COMPANION · us, together, today.",
+      "zh": "Socius = 同伴 · 此时此地，在一起的我们。"
+    },
+    "closing": {
+      "en": "Different focal length. Same question — why are we like this?",
+      "zh": "焦距不同，问的却是同一句 — 我们为什么是这样？"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Everyone is a quiet anthropologist of someone — a parent, a partner, a stranger on the train. Watching closely is the first form of caring.",
+      "zh": "每个人都在悄悄观察某个人 — 父母、伴侣、地铁里的陌生人。认真地看，是关心的第一种形式。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/anthro-socio-philo/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/anthro-socio-philo/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/anthro-socio-philo/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/anthro-socio-philo/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/anthro-socio-philo/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/anthro-socio-philo/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/anthro-socio-philo/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/anthro-socio-philo/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/anthro-socio-philo/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/anthro-socio-philo/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/anthro-socio-philo/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/anthro-socio-philo/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/anthro-socio-philo/twist.left.wav",
+    "twist.right": "audio/vocab/anthro-socio-philo/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/anthro-socio-philo/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/anthro-socio-philo/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/anthro-socio-philo/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/anthro-socio-philo/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/anthro-socio-philo/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/anthro-socio-philo/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/anthro-socio-philo/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/anthro-socio-philo/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/anthro-socio-philo/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/anthro-socio-philo/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/anthro-socio-philo/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/anthro-socio-philo/expansion.11.pronunciation.wav",
+    "expansion.12.pronunciation": "audio/vocab/anthro-socio-philo/expansion.12.pronunciation.wav",
+    "hook.headline": "audio/vocab/anthro-socio-philo/hook.headline.wav",
+    "word.0.definition": "audio/vocab/anthro-socio-philo/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/anthro-socio-philo/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/anthro-socio-philo/word.2.definition.wav",
+    "twist.setup": "audio/vocab/anthro-socio-philo/twist.setup.wav",
+    "twist.closing": "audio/vocab/anthro-socio-philo/twist.closing.wav",
+    "recap.reflection": "audio/vocab/anthro-socio-philo/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 6,
+    "session": 11,
+    "pages": [
+      115,
+      130
+    ],
+    "theme": "Science and Scientists",
+    "subtheme": "Watchers of people"
+  },
+  "tags": [
+    "science",
+    "scientists",
+    "watchers-of-people",
+    "ch6",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "philanthropist",
+      "zh": "慈善家",
+      "root": "anthropos",
+      "partOfSpeech": "n.",
+      "phonetic": "fi-LAN'-thra-pist",
+      "gloss": {
+        "en": "Someone who loves humanity enough to give large sums to help it — philos (loving) + anthropos (human).",
+        "zh": "因为爱人类而愿意大量捐助的人 — philos（爱）+ anthropos（人）。"
+      },
+      "usage": {
+        "en": "The philanthropist gave away nine-tenths of his fortune before he died.",
+        "zh": "这位慈善家在去世前把九成的财产都捐了出去。"
+      }
+    },
+    {
+      "word": "misanthrope",
+      "zh": "厌世者",
+      "root": "anthropos",
+      "partOfSpeech": "n.",
+      "phonetic": "MIS'-an-throp",
+      "gloss": {
+        "en": "Someone who distrusts or dislikes humanity in general — misos (hatred) + anthropos (human). Already met in Ch3.",
+        "zh": "对人类整体不信任或厌恶的人 — misos（恨）+ anthropos（人）。Ch3 学过。"
+      },
+      "usage": {
+        "en": "He wasn't shy — he was a true misanthrope, tired of people on principle.",
+        "zh": "他不是害羞 — 他是真正的厌世者，从根本上对人厌倦。"
+      }
+    },
+    {
+      "word": "anthropomorphic",
+      "zh": "拟人化的",
+      "root": "anthropos",
+      "partOfSpeech": "adj.",
+      "phonetic": "an'-thra-pa-MOR'-fik",
+      "gloss": {
+        "en": "Giving human form or feelings to gods, animals, or objects — anthropos (human) + morphe (form).",
+        "zh": "把人形或人类情感赋予神、动物或物体 — anthropos（人）+ morphe（形态）。"
+      },
+      "usage": {
+        "en": "Children's books are full of anthropomorphic animals who wear pants and worry about Mondays.",
+        "zh": "童书里满是拟人化的动物 — 穿着裤子，为周一发愁。"
+      }
+    },
+    {
+      "word": "anthropocentric",
+      "zh": "以人为中心的",
+      "root": "anthropos",
+      "partOfSpeech": "adj.",
+      "phonetic": "an'-thra-pa-SEN'-trik",
+      "gloss": {
+        "en": "Treating humans as the central or most important thing in the universe.",
+        "zh": "把人类看作宇宙中心或最重要的存在。"
+      },
+      "usage": {
+        "en": "The old maps were charmingly anthropocentric — every continent drawn around the artist's hometown.",
+        "zh": "古地图带着可爱的'以人为中心' — 每张大陆都是围着画师家乡铺开的。"
+      }
+    },
+    {
+      "word": "society",
+      "zh": "社会",
+      "root": "socius",
+      "partOfSpeech": "n.",
+      "phonetic": "sa-SI'-a-tee",
+      "gloss": {
+        "en": "A group of people living together under shared rules — the basic unit a sociologist studies.",
+        "zh": "在共同规则下生活的人群 — 社会学家研究的基本单位。"
+      },
+      "usage": {
+        "en": "A society reveals itself in what it makes ordinary.",
+        "zh": "一个社会的真面目，藏在它把什么当作'正常'里。"
+      }
+    },
+    {
+      "word": "associate",
+      "zh": "联结、同事",
+      "root": "socius",
+      "partOfSpeech": "v./n.",
+      "phonetic": "a-SO'-shee-ayt",
+      "gloss": {
+        "en": "To connect with — literally 'to be a companion of' (ad- 'to' + socius 'companion').",
+        "zh": "把…联系在一起 — 字面是'与某人为伴'（ad- '向' + socius '同伴'）。"
+      },
+      "usage": {
+        "en": "We associate the smell of rain with childhood; the brain pairs the two for life.",
+        "zh": "我们把雨的气味和童年绑在一起；大脑把这两件事一辈子配对在一起。"
+      }
+    },
+    {
+      "word": "antisocial",
+      "zh": "反社会的",
+      "root": "socius",
+      "partOfSpeech": "adj.",
+      "phonetic": "an'-tee-SO'-shal",
+      "gloss": {
+        "en": "Hostile to or shunning normal companionship — anti- (against) + socius.",
+        "zh": "敌视或回避正常社交 — anti-（反对）+ socius。"
+      },
+      "usage": {
+        "en": "Quiet isn't antisocial. Cruelty is antisocial.",
+        "zh": "安静不算反社会，残忍才是。"
+      }
+    },
+    {
+      "word": "philosophy",
+      "zh": "哲学",
+      "root": "philos",
+      "partOfSpeech": "n.",
+      "phonetic": "fi-LOS'-a-fee",
+      "gloss": {
+        "en": "Literally 'the love of wisdom' — philos (loving) + sophia (wisdom).",
+        "zh": "字面是'爱智慧' — philos（爱）+ sophia（智慧）。"
+      },
+      "usage": {
+        "en": "Philosophy doesn't give you answers. It gives you better questions.",
+        "zh": "哲学不会给你答案，它给你更好的问题。"
+      },
+      "rootMeaning": "loving",
+      "rootMeaningZh": "爱",
+      "rootTint": "b88aa6"
+    },
+    {
+      "word": "bibliophile",
+      "zh": "爱书人、藏书家",
+      "root": "philos",
+      "partOfSpeech": "n.",
+      "phonetic": "BIB'-lee-a-fil",
+      "gloss": {
+        "en": "A lover of books — biblion (book) + philos (loving).",
+        "zh": "爱书的人 — biblion（书）+ philos（爱）。"
+      },
+      "usage": {
+        "en": "Every bibliophile owns at least one book they secretly know they'll never read.",
+        "zh": "每个爱书人都至少有一本心里清楚自己永远不会读的书。"
+      }
+    },
+    {
+      "word": "philharmonic",
+      "zh": "爱乐乐团（的）",
+      "root": "philos",
+      "partOfSpeech": "adj./n.",
+      "phonetic": "fil'-har-MON'-ik",
+      "gloss": {
+        "en": "Music-loving — philos (loving) + harmonia (harmony). Often the name of an orchestra.",
+        "zh": "爱音乐的 — philos（爱）+ harmonia（和声）。乐团常用这个名字。"
+      },
+      "usage": {
+        "en": "She joined the philharmonic at sixteen and stayed for forty years.",
+        "zh": "她十六岁加入爱乐乐团，一待就是四十年。"
+      }
+    },
+    {
+      "word": "monologue",
+      "zh": "独白",
+      "root": "logos",
+      "partOfSpeech": "n.",
+      "phonetic": "MON'-a-log",
+      "gloss": {
+        "en": "A speech by one person alone — monos (single) + logos (word, speech).",
+        "zh": "一个人独自的讲话 — monos（单一）+ logos（言）。"
+      },
+      "usage": {
+        "en": "Some meetings are conversations. Some are just his monologue with extra chairs.",
+        "zh": "有些会议是对话，有些只是他的独白，旁边多摆了几把椅子。"
+      },
+      "rootMeaning": "word, speech, study",
+      "rootMeaningZh": "言、学问",
+      "rootTint": "5f9a9a"
+    },
+    {
+      "word": "dialogue",
+      "zh": "对话",
+      "root": "logos",
+      "partOfSpeech": "n.",
+      "phonetic": "DI'-a-log",
+      "gloss": {
+        "en": "An exchange of words between two or more — dia- (across, between) + logos (word).",
+        "zh": "两人或多人之间的言语来回 — dia-（之间）+ logos（言）。"
+      },
+      "usage": {
+        "en": "A real dialogue is rare — most of us are waiting our turn to talk, not listening.",
+        "zh": "真正的对话很少 — 大多数时候我们只是在等下一句要说什么，并不是在听。"
+      }
+    },
+    {
+      "word": "logic",
+      "zh": "逻辑",
+      "root": "logos",
+      "partOfSpeech": "n.",
+      "phonetic": "LOJ'-ik",
+      "gloss": {
+        "en": "The study of valid reasoning — from logos in its meaning of 'reasoned word, reasoning.'",
+        "zh": "研究正确推理的学问 — logos 在此意为'有条理的言、推理'。"
+      },
+      "usage": {
+        "en": "Logic gets you from A to B. Imagination gets you everywhere else. — Einstein",
+        "zh": "逻辑能把你从 A 带到 B，想象力能把你带到任何地方。— 爱因斯坦"
+      }
+    }
+  ]
+}

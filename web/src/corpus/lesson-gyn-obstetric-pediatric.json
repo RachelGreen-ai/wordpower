@@ -1,0 +1,530 @@
+{
+  "lessonId": "gyn-obstetric-pediatric",
+  "hook": {
+    "headline": {
+      "en": "Three doctors who meet you before the world does.",
+      "zh": "三位医生，在世界之前先见到你。"
+    },
+    "subtext": {
+      "en": "Conception, birth, childhood — the body's first chapters.",
+      "zh": "孕育、出生、童年 — 身体最初的几个章节。"
+    }
+  },
+  "words": [
+    {
+      "word": "Gynecologist",
+      "phonetic": "gy-nuh-KOL'-uh-jist",
+      "chinese": "妇科医生",
+      "definition": {
+        "en": "A doctor who specializes in the female reproductive system — across the whole arc of women's health.",
+        "zh": "专攻女性生殖系统的医生 — 贯穿女性健康的整段生命。"
+      },
+      "etymology": {
+        "root": "gyne",
+        "meaning": "woman",
+        "meaningZh": "女性",
+        "en": "From Greek gyne = woman, plus -logist (one who studies).",
+        "zh": "希腊词根 gyne = 女性，加 -logist（研究者）。",
+        "relatives": [
+          {
+            "word": "gynecology",
+            "zh": "妇科学"
+          },
+          {
+            "word": "polygyny",
+            "zh": "一夫多妻"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Her annual gynecologist visit was the only checkup she scheduled herself — everything else her mother had nagged her into for years.",
+          "zh": "每年看妇科是她自己唯一会主动预约的体检 — 别的项目都是被妈妈念叨多年才去的。"
+        },
+        {
+          "context": "parenting",
+          "en": "Her teenage daughter's first gynecologist visit was awkward for both of them — and quietly important.",
+          "zh": "女儿青春期第一次看妇科，两个人都尴尬 — 但很重要。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "妇科",
+      "tint": "c4798c",
+      "mnemonic": {
+        "en": "GYNECOLOGIST = gyne (woman) + logist. The whole-life specialist for half the population.",
+        "zh": "gynecologist = gyne（女性）+ logist。为一半人口提供终生照护的专科。"
+      },
+      "commonConfusions": [
+        "obstetrician",
+        "primary care doctor"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Gynecologist vs obstetrician — same person?",
+            "zh": "妇科医生和产科医生是同一个人吗？"
+          },
+          "answer": {
+            "en": "Often yes — many doctors are 'OB-GYNs,' certified in both. Gynecology is women's health broadly; obstetrics is pregnancy and birth specifically.",
+            "zh": "通常是 — 很多医生是双认证的'OB-GYN'（妇产科）。妇科是广义的女性健康；产科专攻怀孕和分娩。"
+          }
+        },
+        {
+          "question": {
+            "en": "Why do many women see a gynecologist for general health questions?",
+            "zh": "为什么很多女性会去妇科看一般健康问题？"
+          },
+          "answer": {
+            "en": "Gynecologists often serve as a primary care entry point for women — and the relationship usually spans decades, which catches drift that one-off visits miss.",
+            "zh": "妇科医生往往是女性的初级保健入口 — 这段关系常常跨越几十年，能捕捉到一次性就诊看不到的变化。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The new immigrant who hadn't seen a gynecologist in seven years — until a friend at work mentioned her own annual visit. That visit caught an early-stage issue that grew to nothing.",
+        "zh": "那位七年没看过妇科的新移民 — 直到同事顺口提起自己每年都去。一次就诊查出的早期问题，最后什么事也没有。"
+      }
+    },
+    {
+      "word": "Obstetrician",
+      "phonetic": "ob-stuh-TRISH'-un",
+      "chinese": "产科医生",
+      "definition": {
+        "en": "A doctor who cares for pregnant women and delivers babies — the specialist who stands with you through pregnancy and birth.",
+        "zh": "照顾孕妇并接生婴儿的医生 — 陪你度过孕期与分娩的那位专科。"
+      },
+      "etymology": {
+        "root": "stare",
+        "meaning": "to stand",
+        "meaningZh": "站立",
+        "en": "From Latin obstetrix = midwife, from ob (in front of) + stare (to stand). Literally 'one who stands before' the laboring mother.",
+        "zh": "拉丁词 obstetrix = 助产士，由 ob（在前面）+ stare（站立）构成 — 字面意思'站在产妇面前的人'。",
+        "relatives": [
+          {
+            "word": "obstetrics",
+            "zh": "产科学"
+          },
+          {
+            "word": "obstacle",
+            "zh": "障碍（同源远亲）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "parenting",
+          "en": "Through 24 hours of labor with our first, the obstetrician didn't leave the room — and we never forgot her face.",
+          "zh": "生第一胎的 24 小时里，产科医生没离开过产房 — 我们一辈子记得她的脸。"
+        },
+        {
+          "context": "friends",
+          "en": "Choosing an obstetrician matters more than people think — you're picking someone for the most vulnerable hours of your life.",
+          "zh": "选产科医生比一般人想的更重要 — 你是在为人生最脆弱的几小时挑一个人。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "接生",
+      "tint": "e89070",
+      "mnemonic": {
+        "en": "OBSTETRICIAN = ob (before) + stare (stand). The doctor who stands by the laboring mother.",
+        "zh": "obstetrician = ob（前）+ stare（站）— 站在产妇身边的那位医生。"
+      },
+      "commonConfusions": [
+        "midwife",
+        "gynecologist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Why does the word 'obstetrician' start with 'ob'?",
+            "zh": "为什么 obstetrician 以 'ob' 开头？"
+          },
+          "answer": {
+            "en": "Latin obstetrix meant 'midwife' — literally 'one who stands before' the laboring mother. The 'ob' is the prefix meaning 'in front of.'",
+            "zh": "拉丁词 obstetrix 意为'助产士' — 字面是'站在产妇面前的人'。'ob' 是前缀，意为'在前面'。"
+          }
+        },
+        {
+          "question": {
+            "en": "What's an OB-GYN?",
+            "zh": "什么是 OB-GYN（妇产科医生）？"
+          },
+          "answer": {
+            "en": "One MD certified in both obstetrics (pregnancy and birth) and gynecology (women's health broadly). Most cover both in one practice.",
+            "zh": "同时持有产科（怀孕与分娩）和妇科（广义女性健康）认证的医学博士。大多数医生两块都做。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The fourth-time mom who'd had three uneventful births — and a calm, steady obstetrician who didn't panic when the fourth one went sideways. That calm saved her.",
+        "zh": "那位前三胎平安无事的四胎妈妈 — 第四胎出了状况，她的产科医生稳稳地没慌。那份镇定救了她。"
+      }
+    },
+    {
+      "word": "Pediatrician",
+      "phonetic": "pee-dee-uh-TRISH'-un",
+      "chinese": "儿科医生",
+      "definition": {
+        "en": "A doctor who cares for children — from the first hours of birth through adolescence.",
+        "zh": "照顾儿童的医生 — 从出生第一个小时一直到青春期结束。"
+      },
+      "etymology": {
+        "root": "paidos",
+        "meaning": "child",
+        "meaningZh": "儿童",
+        "en": "From Greek paidos (child) + iatros (healer). Literally 'healer of children.'",
+        "zh": "希腊词 paidos（儿童）+ iatros（医者）— 字面意思'儿童的医者'。",
+        "relatives": [
+          {
+            "word": "pediatric",
+            "zh": "儿科的"
+          },
+          {
+            "word": "pedagogy",
+            "zh": "教育学"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "parenting",
+          "en": "Their pediatrician spoke to the four-year-old directly — not over her head to the parents — and the kid trusted her instantly.",
+          "zh": "他们的儿科医生直接对四岁的女儿说话 — 而不是越过她跟父母讲 — 孩子立刻就信任了她。"
+        },
+        {
+          "context": "social",
+          "en": "Pediatricians sit through more parent anxiety than disease — the calm voice is half the job.",
+          "zh": "儿科医生面对的家长焦虑比疾病还多 — 沉稳的语气，本身就是工作的一半。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "儿科",
+      "tint": "e8c878",
+      "mnemonic": {
+        "en": "PEDIATRICIAN = paid (child) + iatros (healer) — same paid root in pedagogue (teacher of children).",
+        "zh": "pediatrician = paid（儿童）+ iatros（医者）— pedagogue（教师）里也是同一个 paid。"
+      },
+      "commonConfusions": [
+        "family practitioner",
+        "neonatologist"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Why do pediatricians often see the same child for nearly two decades?",
+            "zh": "为什么儿科医生常常跟同一个孩子打交道近二十年？"
+          },
+          "answer": {
+            "en": "They follow growth, vaccines, and developmental milestones from infancy to ~18. Continuity catches subtle drift that one-off visits miss.",
+            "zh": "他们追踪生长、疫苗、发育阶段，从婴儿到约 18 岁。连续性能捕捉到一次性就诊看不到的微妙变化。"
+          }
+        },
+        {
+          "question": {
+            "en": "Pediatrician vs family practitioner — what's the difference?",
+            "zh": "儿科医生和家庭医生有什么不同？"
+          },
+          "answer": {
+            "en": "Family practitioners see all ages; pediatricians specialize in children. For complex pediatric issues, the specialist's depth is worth seeking out.",
+            "zh": "家庭医生看所有年龄段；儿科医生专攻儿童。复杂的儿科问题，专科的深度值得专门去找。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "The pediatrician who noticed something off in the four-week checkup — a tiny pattern the parents had brushed aside — that became an early genetic diagnosis. Catch early, treat early.",
+        "zh": "那位在四周体检里察觉异常的儿科医生 — 一个父母随手放过的小模式 — 最终成为早期基因诊断。早发现，早处理。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both care for women — at different moments.",
+      "zh": "都在照顾女性 — 但在不同的时刻。"
+    },
+    "leftLabel": "Gynecologist",
+    "leftLine": {
+      "en": "from puberty through menopause",
+      "zh": "从青春期到更年期"
+    },
+    "leftMnemonic": {
+      "en": "gyne = woman · the long arc of women's health",
+      "zh": "gyne = 女性 · 漫长的女性健康之弧"
+    },
+    "rightLabel": "Obstetrician",
+    "rightLine": {
+      "en": "from conception through delivery",
+      "zh": "从受孕到分娩"
+    },
+    "rightMnemonic": {
+      "en": "ob + stare = stand by · the doctor at the hardest hours",
+      "zh": "ob + stare = 站在身边 · 最艰难时刻的医生"
+    },
+    "closing": {
+      "en": "One walks with her through the years. One stands by her through the hours.",
+      "zh": "一位陪她走过岁月，一位陪她度过时辰。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Some doctors fix what breaks. These three witness what begins.",
+      "zh": "有些医生修复已破之物。这三位见证刚刚开始的。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/gyn-obstetric-pediatric/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/gyn-obstetric-pediatric/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/gyn-obstetric-pediatric/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/gyn-obstetric-pediatric/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/gyn-obstetric-pediatric/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/gyn-obstetric-pediatric/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/gyn-obstetric-pediatric/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/gyn-obstetric-pediatric/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/gyn-obstetric-pediatric/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/gyn-obstetric-pediatric/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/gyn-obstetric-pediatric/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/gyn-obstetric-pediatric/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/gyn-obstetric-pediatric/twist.left.wav",
+    "twist.right": "audio/vocab/gyn-obstetric-pediatric/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.11.pronunciation.wav",
+    "expansion.12.pronunciation": "audio/vocab/gyn-obstetric-pediatric/expansion.12.pronunciation.wav",
+    "hook.headline": "audio/vocab/gyn-obstetric-pediatric/hook.headline.wav",
+    "word.0.definition": "audio/vocab/gyn-obstetric-pediatric/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/gyn-obstetric-pediatric/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/gyn-obstetric-pediatric/word.2.definition.wav",
+    "twist.setup": "audio/vocab/gyn-obstetric-pediatric/twist.setup.wav",
+    "twist.closing": "audio/vocab/gyn-obstetric-pediatric/twist.closing.wav",
+    "recap.reflection": "audio/vocab/gyn-obstetric-pediatric/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 4,
+    "session": 1,
+    "pages": [
+      76,
+      100
+    ],
+    "theme": "How to Talk About Doctors",
+    "subtheme": "Beginnings of Life"
+  },
+  "tags": [
+    "doctors",
+    "medicine",
+    "beginnings",
+    "ch4",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "gynecology",
+      "zh": "妇科学",
+      "root": "gyne",
+      "partOfSpeech": "n.",
+      "phonetic": "guy-nuh-KOL'-uh-jee",
+      "gloss": {
+        "en": "The branch of medicine devoted to women's health.",
+        "zh": "专门研究女性健康的医学分支。"
+      },
+      "usage": {
+        "en": "After a decade in cardiology, she pivoted to gynecology — same diagnostic instinct, very different patients.",
+        "zh": "在心脏病学领域工作十年后，她转向妇科 — 同样的诊断直觉，截然不同的病人。"
+      }
+    },
+    {
+      "word": "gynocracy",
+      "zh": "女权政治 / 妇女统治",
+      "root": "gyne",
+      "partOfSpeech": "n.",
+      "phonetic": "guy-NOK'-ruh-see",
+      "gloss": {
+        "en": "Rule by women — gyne (woman) + kratia (rule). Rare in history, common in mythology.",
+        "zh": "由女性统治 — gyne（女性）+ kratia（统治）。历史上罕见，神话里常见。"
+      },
+      "usage": {
+        "en": "The novel imagined a quiet gynocracy where decisions were faster and wars never quite started.",
+        "zh": "那部小说想象了一种安静的女权统治 — 决策更快，战争始终没真正开始。"
+      }
+    },
+    {
+      "word": "polygyny",
+      "zh": "一夫多妻",
+      "root": "gyne",
+      "partOfSpeech": "n.",
+      "phonetic": "puh-LIJ'-uh-nee",
+      "gloss": {
+        "en": "Marriage of one man to multiple wives — poly (many) + gyne (woman). The asymmetric cousin of polyandry.",
+        "zh": "一名男性与多位妻子的婚姻 — poly（多）+ gyne（女性）。与一妻多夫（polyandry）相对。"
+      },
+      "usage": {
+        "en": "Polygyny is legally recognized in some Muslim-majority countries and a crime in others — same word, opposite legal weight.",
+        "zh": "一夫多妻在一些穆斯林国家合法，在另一些国家是犯罪 — 同一个词，相反的法律分量。"
+      }
+    },
+    {
+      "word": "obstetrics",
+      "zh": "产科学",
+      "root": "stare",
+      "partOfSpeech": "n.",
+      "phonetic": "ob-STET'-riks",
+      "gloss": {
+        "en": "The branch of medicine devoted to pregnancy, birth, and the postpartum period.",
+        "zh": "专门研究怀孕、分娩与产后的医学分支。"
+      },
+      "usage": {
+        "en": "Modern obstetrics has cut maternal mortality by 99% over a century — and the work isn't done.",
+        "zh": "现代产科学在一个世纪里把母亲死亡率降低了 99% — 而这项工作还没结束。"
+      }
+    },
+    {
+      "word": "obstacle",
+      "zh": "障碍",
+      "root": "stare",
+      "partOfSpeech": "n.",
+      "phonetic": "OB'-stuh-kul",
+      "gloss": {
+        "en": "Something standing in your way — ob (before) + stare (stand). Same Latin root as obstetrician.",
+        "zh": "挡在你面前的东西 — ob（前面）+ stare（站立）。与 obstetrician 同一拉丁词根。"
+      },
+      "usage": {
+        "en": "Every obstacle she'd faced at 25 had become the workshop she ran at 45 — eventually.",
+        "zh": "她 25 岁时面对的每一个障碍，到了 45 岁都变成了她主持的工作坊 — 最终。"
+      }
+    },
+    {
+      "word": "obstinate",
+      "zh": "顽固的 / 倔强的",
+      "root": "stare",
+      "partOfSpeech": "adj.",
+      "phonetic": "OB'-stuh-nit",
+      "gloss": {
+        "en": "Stubbornly standing firm — ob (against) + stinate (to stand). Refusing to budge.",
+        "zh": "顽固地坚持立场 — ob（对抗）+ stinate（站立）。死活不动。"
+      },
+      "usage": {
+        "en": "His obstinate refusal to learn the new system cost him three promotions — and he still didn't connect the dots.",
+        "zh": "他顽固地拒绝学新系统，连失三次晋升 — 他自己始终没把这些事联系起来。"
+      }
+    },
+    {
+      "word": "circumstance",
+      "zh": "情况 / 处境",
+      "root": "stare",
+      "partOfSpeech": "n.",
+      "phonetic": "SUR'-kum-stans",
+      "gloss": {
+        "en": "Things that stand around you — circum (around) + stare (stand). The conditions surrounding an event.",
+        "zh": "围绕你的事物 — circum（环绕）+ stare（站立）。某件事周围的情况。"
+      },
+      "usage": {
+        "en": "Same talent, different circumstances — and one career flourished while the other quietly faded.",
+        "zh": "同样的才华，不同的处境 — 一个职业蒸蒸日上，另一个悄悄褪色。"
+      }
+    },
+    {
+      "word": "instant",
+      "zh": "瞬间 / 立即的",
+      "root": "stare",
+      "partOfSpeech": "n./adj.",
+      "phonetic": "IN'-stunt",
+      "gloss": {
+        "en": "A moment 'standing in' time — in (in) + stare (stand). A point so brief it just stands there.",
+        "zh": "时间里'立着的一瞬' — in（在）+ stare（站立）。短到只是'站在那里'的一刻。"
+      },
+      "usage": {
+        "en": "There was an instant, right after the news, where her mind hadn't caught up — and life felt suspended.",
+        "zh": "消息传来后的那一瞬，她的脑子还没追上 — 生活像被悬住了。"
+      }
+    },
+    {
+      "word": "constant",
+      "zh": "不变的 / 持续的",
+      "root": "stare",
+      "partOfSpeech": "adj.",
+      "phonetic": "KON'-stunt",
+      "gloss": {
+        "en": "Standing firm together — con (with) + stare (stand). Unchanging, persistent.",
+        "zh": "一同站稳 — con（共同）+ stare（站立）。不变，持续。"
+      },
+      "usage": {
+        "en": "Her constant presence at every concert, every match, every recital — that's the parent the kid remembers being.",
+        "zh": "她每场音乐会、每场比赛、每次汇演都在 — 孩子记住的，就是这种'始终在'的父母。"
+      }
+    },
+    {
+      "word": "pediatric",
+      "zh": "儿科的",
+      "root": "paidos",
+      "partOfSpeech": "adj.",
+      "phonetic": "pee-dee-AT'-rik",
+      "gloss": {
+        "en": "Relating to the medical care of children — the adjective form of pediatrician's field.",
+        "zh": "与儿童医疗相关 — pediatrician 所属领域的形容词形式。"
+      },
+      "usage": {
+        "en": "She specialized in pediatric oncology — the hardest job in medicine, and one she somehow showed up to with a smile every day.",
+        "zh": "她专攻儿童肿瘤 — 医学里最难的岗位，但她每天还是带着笑出现。"
+      }
+    },
+    {
+      "word": "pedagogy",
+      "zh": "教育学 / 教学法",
+      "root": "paidos",
+      "partOfSpeech": "n.",
+      "phonetic": "PED'-uh-go-jee",
+      "gloss": {
+        "en": "The art and science of teaching — paid (child) + agogy (leading). Same paid root as pediatrician.",
+        "zh": "教学的艺术与科学 — paid（儿童）+ agogy（引导）。与 pediatrician 共享 paid 词根。"
+      },
+      "usage": {
+        "en": "Her pedagogy was unfashionable — slow, conversational, demanding — and every student remembered her decades later.",
+        "zh": "她的教学法不合时宜 — 慢、对话式、要求高 — 而每个学生几十年后都还记得她。"
+      }
+    },
+    {
+      "word": "iatrogenic",
+      "zh": "医源性的",
+      "root": "iatros",
+      "partOfSpeech": "adj.",
+      "phonetic": "eye-at-roh-JEN'-ik",
+      "gloss": {
+        "en": "Caused by medical treatment itself — iatros (healer) + genic (producing). The unintended harm of care.",
+        "zh": "由医疗本身导致的 — iatros（医者）+ genic（产生）。治疗过程中意外造成的伤害。"
+      },
+      "usage": {
+        "en": "Iatrogenic infections — caught in the hospital, from the very systems meant to heal — kill more patients each year than most realize.",
+        "zh": "医源性感染 — 在医院里被'治病的系统'传染 — 每年夺走的生命比大多数人意识到的更多。"
+      },
+      "rootMeaning": "healer",
+      "rootMeaningZh": "医者",
+      "rootTint": "5f9a9a"
+    },
+    {
+      "word": "bariatric",
+      "zh": "肥胖症医学的 / 减重的",
+      "root": "iatros",
+      "partOfSpeech": "adj.",
+      "phonetic": "bar-ee-AT'-rik",
+      "gloss": {
+        "en": "Relating to obesity medicine — baros (weight) + iatros (healer).",
+        "zh": "与肥胖症医学相关 — baros（重量）+ iatros（医者）。"
+      },
+      "usage": {
+        "en": "Bariatric surgery used to be the last resort — now, with new drugs, it's becoming one option among several.",
+        "zh": "减重手术过去是最后的选择 — 如今新药出现后，它成了几个选项之一。"
+      }
+    }
+  ]
+}

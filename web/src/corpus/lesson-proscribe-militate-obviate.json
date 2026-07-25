@@ -1,0 +1,496 @@
+{
+  "lessonId": "proscribe-militate-obviate",
+  "hook": {
+    "headline": {
+      "en": "Three verbs that block — by rule, by force, or by removing the need.",
+      "zh": "三个'拦下来'的动词 — 用规则、用力气、或干脆让需要不存在。"
+    },
+    "subtext": {
+      "en": "The right 'no' is the one that fits the problem.",
+      "zh": "最好的'不'，是跟问题匹配的那个。"
+    }
+  },
+  "words": [
+    {
+      "word": "Proscribe",
+      "phonetic": "pro-SKRIB'",
+      "chinese": "明令禁止",
+      "definition": {
+        "en": "To forbid by formal decree — to publicly write a thing into the no-go list. A proscription is the loud, official version of 'don't.'",
+        "zh": "用正式法令禁止 — 把某件事公开写进'禁忌名单'。Proscription 是'不可以'的大声版、正式版。"
+      },
+      "etymology": {
+        "root": "scribere",
+        "meaning": "to write",
+        "meaningZh": "书写",
+        "en": "From Latin pro- (publicly, before) + scribere (to write). In Rome, to proscribe someone meant to write their name on a public list — to be killed, exiled, or stripped. The 'forbidden' meaning grew from there.",
+        "zh": "拉丁 pro-（公开地、当众）+ scribere（写）。在罗马，'proscribe' 一个人就是把他的名字写上公开名单 — 用以处决、流放、或剥夺财产。'禁止'的意思，是从这里长出来的。",
+        "relatives": [
+          {
+            "word": "prescribe",
+            "zh": "开处方、规定"
+          },
+          {
+            "word": "describe",
+            "zh": "描述"
+          },
+          {
+            "word": "manuscript",
+            "zh": "手稿（手写的）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "The new policy proscribed weekend emails — and within a month, the team was sleeping again.",
+          "zh": "新政策明令禁止周末发邮件 — 一个月后，整个团队又能睡觉了。"
+        },
+        {
+          "context": "social",
+          "en": "The book was proscribed in three countries — which is how it became a bestseller in the fourth.",
+          "zh": "这本书在三个国家被明令禁止 — 这也正是它在第四个国家成为畅销书的原因。"
+        }
+      ],
+      "silhouette": "stuck",
+      "archetypeZh": "禁止",
+      "tint": "4f5f76",
+      "mnemonic": {
+        "en": "Pro + Scribere = WRITE-PUBLICLY. The rule isn't whispered. It's posted on the wall, with your name available to be added.",
+        "zh": "Pro + Scribere = 公开地写。规则不是悄悄说的 — 是钉在墙上，留着位置可以把你的名字加上去。"
+      },
+      "commonConfusions": [
+        "prescribe",
+        "prohibit",
+        "ban"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Prescribe and proscribe sound almost identical. What's the opposite meaning hiding inside?",
+            "zh": "Prescribe 和 proscribe 听上去几乎一样。藏在里面的反义在哪？"
+          },
+          "answer": {
+            "en": "Both come from scribere (to write). Prescribe = write BEFORE → recommend, require. Proscribe = write PUBLICLY → forbid, condemn. One says yes; the other says no.",
+            "zh": "两个都来自 scribere（写）。Prescribe = 事前地写 → 推荐、规定。Proscribe = 公开地写 → 禁止、谴责。一个说是，一个说不。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "After Julius Caesar's assassination, the Roman triumvirate posted proscription lists in the Forum — names of senators marked for death. Cicero's name was on the second list. His son had to take the list down later, walking past his father's severed head. The word 'proscribe' carries that weight when you trace it back far enough.",
+        "zh": "凯撒被刺之后，罗马的'三巨头'把'proscription 名单'贴在广场上 — 上面是被宣判要被处死的元老的名字。西塞罗的名字出现在第二份名单上。后来他的儿子要去把名单取下来，路过父亲被砍下的头。'proscribe'这个词，往源头追溯，就有那样的重量。"
+      }
+    },
+    {
+      "word": "Militate",
+      "phonetic": "MIL'-a-tayt",
+      "chinese": "起反作用、不利于",
+      "definition": {
+        "en": "To work or weigh AGAINST something — almost always used as 'militate against.' Not a frontal attack; a steady, quiet pressure in the opposite direction.",
+        "zh": "对某件事起反作用 — 几乎总是用 'militate against' 的形式。不是正面攻击，而是另一个方向上安静的、持续的力。"
+      },
+      "etymology": {
+        "root": "miles",
+        "meaning": "soldier",
+        "meaningZh": "士兵",
+        "en": "From Latin militare = 'to serve as a soldier,' from miles, militis = 'soldier.' Same root as 'military,' 'militia,' 'militant.' To militate is to be the resistance — the soldier on the other side.",
+        "zh": "拉丁 militare = 服兵役，来自 miles（士兵）。同根的有 military、militia、militant。Militate 就是'当那个反方向的士兵'。",
+        "relatives": [
+          {
+            "word": "military",
+            "zh": "军事的"
+          },
+          {
+            "word": "militia",
+            "zh": "民兵"
+          },
+          {
+            "word": "militant",
+            "zh": "好斗的、激进的"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "His talent was real — but his quietness militated against him in a room that rewarded the loud.",
+          "zh": "他的才华是真的 — 但在一个奖励声音大的人的环境里，他的安静对他不利。"
+        },
+        {
+          "context": "social",
+          "en": "Sleep deprivation militates against every other intention you have for tomorrow.",
+          "zh": "睡眠不足，会对你明天的每一个打算起反作用。"
+        }
+      ],
+      "silhouette": "performing",
+      "archetypeZh": "反作用",
+      "tint": "6a7d50",
+      "mnemonic": {
+        "en": "Miles = SOLDIER. Militate = stand against, like a soldier on the opposing side. The force is steady, not loud.",
+        "zh": "Miles = 士兵。Militate = 像对面阵营的士兵那样站着。力量是稳的，不是吵的。"
+      },
+      "commonConfusions": [
+        "mitigate",
+        "oppose",
+        "hinder"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Mitigate and militate sound similar — and mean opposite things. What's each one?",
+            "zh": "Mitigate 和 militate 听起来很像 — 意思却相反。各是什么？"
+          },
+          "answer": {
+            "en": "Mitigate = soften, make less severe (from mitis, 'mild'). Militate = work against (from miles, 'soldier'). Mix them up and your sentence flips its meaning.",
+            "zh": "Mitigate = 减轻、缓和（来自 mitis '温和'）。Militate = 起反作用（来自 miles '士兵'）。两个搞混，整句话的意思就翻面了。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Charles Darwin filled a notebook with reasons that militated against his theory of natural selection — counter-examples, weak spots, predictions that hadn't borne out. He published twenty years later because he kept finding more things that militated, and wanted to face them first. The serious thinkers know to list what works against them.",
+        "zh": "达尔文有一本笔记，专门写下所有与自然选择理论相违背的证据 — 反例、薄弱点、没应验的预测。他二十年后才发表，因为他不停发现新的'反作用'，想先把它们都面对完。真正认真的思考者，知道把对自己最不利的证据先列出来。"
+      }
+    },
+    {
+      "word": "Obviate",
+      "phonetic": "OB'-vee-ayt",
+      "chinese": "使不必要、消除（需要）",
+      "definition": {
+        "en": "To make a thing unnecessary — to remove the need for it before it arrives. Obviating isn't fighting the problem. It's quietly clearing the path so the problem never has to show up.",
+        "zh": "让某件事变得不必要 — 在它出现之前就把它消除掉。Obviate 不是和问题斗，而是悄悄把路清干净，让问题根本不必出现。"
+      },
+      "etymology": {
+        "root": "via",
+        "meaning": "road, way",
+        "meaningZh": "路、道",
+        "en": "From Latin obviare = 'to go to meet (something on the road)' — ob- (in the way) + via (road). Originally 'to confront on the path'; later 'to head off, to prevent.' Same via that gives us 'obvious' (literally 'in the way') and 'deviate' (off the way).",
+        "zh": "拉丁 obviare = '在路上去迎接（某物）' — ob-（在路上、当面）+ via（路）。最初是'在路上拦住'，后来引申为'提前化解、避免'。同一个 via 给了我们 obvious（字面是'在路上'）和 deviate（偏离路）。",
+        "relatives": [
+          {
+            "word": "obvious",
+            "zh": "明显的（在路上的）"
+          },
+          {
+            "word": "deviate",
+            "zh": "偏离"
+          },
+          {
+            "word": "trivial",
+            "zh": "琐碎的（三条路的交叉口）"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "context": "workplace",
+          "en": "Hiring her obviated the entire consulting contract — one person did what three were going to.",
+          "zh": "雇她就让那整份咨询合同变得不必要 — 一个人做完了原本三个人要做的事。"
+        },
+        {
+          "context": "parenting",
+          "en": "Teaching the child to read maps early obviated decades of 'are we there yet.'",
+          "zh": "早早教孩子看地图，就省去了之后几十年的'到了没有'。"
+        }
+      ],
+      "silhouette": "walking",
+      "archetypeZh": "化解",
+      "tint": "6688aa",
+      "mnemonic": {
+        "en": "Ob + Via = IN-THE-WAY. To obviate is to walk down the road and clear what's coming before anyone has to deal with it.",
+        "zh": "Ob + Via = 在路上。Obviate 就是先沿着路走一遍，把要出现的东西提前处理掉 — 让别人根本不必处理。"
+      },
+      "commonConfusions": [
+        "prevent",
+        "preclude",
+        "eliminate"
+      ],
+      "quiz": [
+        {
+          "question": {
+            "en": "Prevent and obviate both stop things. What's the texture difference?",
+            "zh": "Prevent 和 obviate 都阻止了事情发生。质感上有什么差别？"
+          },
+          "answer": {
+            "en": "Prevent stops the event. Obviate removes the NEED for the event. One says 'don't let it happen.' The other says 'we don't even have to consider it.'",
+            "zh": "Prevent 是阻止事件发生。Obviate 是让那件事根本不必要 — 把'需要'本身去掉。一个说'别让它发生'，一个说'根本不用考虑它'。"
+          }
+        }
+      ],
+      "anecdote": {
+        "en": "Good design obviates instructions. A door handle shaped like a pull gets pulled. A handle shaped like a push plate gets pushed. The instruction was never necessary — the shape obviated it. The best problem-solvers don't add solutions. They take away the conditions that made the problem possible.",
+        "zh": "好的设计让说明书变得不必要。一个拉柄形状的门把手，自然被拉；一个推板形状的门把手，自然被推。说明书从来不需要 — 形状就把它'obviate'掉了。最好的解题者不是加方案 — 是把那个让问题成为问题的条件拿掉。"
+      }
+    }
+  ],
+  "twist": {
+    "setup": {
+      "en": "Both push against a behavior. But one writes the rule. The other IS the resistance.",
+      "zh": "两个都在抗衡某种行为。但一个写下规则，一个本身就是阻力。"
+    },
+    "leftLabel": "Proscribe",
+    "leftLine": {
+      "en": "Names it. Bans it. Makes it official.",
+      "zh": "点名。禁止。明文化。"
+    },
+    "leftMnemonic": {
+      "en": "Pro + Scribere = WRITE-PUBLICLY · the rule on the wall.",
+      "zh": "Pro + Scribere = 公开地写 · 钉在墙上的规则。"
+    },
+    "rightLabel": "Militate",
+    "rightLine": {
+      "en": "Doesn't ban. Just works against. Like gravity.",
+      "zh": "不禁止。只是反向用力。像重力。"
+    },
+    "rightMnemonic": {
+      "en": "Miles = SOLDIER · the steady force in the other direction.",
+      "zh": "Miles = 士兵 · 在另一个方向上稳稳站着的力。"
+    },
+    "closing": {
+      "en": "One writes the rule. The other IS the resistance.",
+      "zh": "一个写下规则。另一个本身就是阻力。"
+    }
+  },
+  "recap": {
+    "reflection": {
+      "en": "Saying no comes in many shapes — a written rule, a quiet force, or a path that no longer needs walking. The right 'no' is the one that fits the problem.",
+      "zh": "说'不'有许多形状 — 一条明文规则、一股安静的反力、或一条根本不必走的路。最好的'不'，是跟问题匹配的那一个。"
+    }
+  },
+  "audio": {
+    "word.0.pronunciation": "audio/vocab/proscribe-militate-obviate/word.0.pronunciation.wav",
+    "word.0.etymology": "audio/vocab/proscribe-militate-obviate/word.0.etymology.wav",
+    "word.0.sentence.0": "audio/vocab/proscribe-militate-obviate/word.0.sentence.0.wav",
+    "word.0.sentence.1": "audio/vocab/proscribe-militate-obviate/word.0.sentence.1.wav",
+    "word.1.pronunciation": "audio/vocab/proscribe-militate-obviate/word.1.pronunciation.wav",
+    "word.1.etymology": "audio/vocab/proscribe-militate-obviate/word.1.etymology.wav",
+    "word.1.sentence.0": "audio/vocab/proscribe-militate-obviate/word.1.sentence.0.wav",
+    "word.1.sentence.1": "audio/vocab/proscribe-militate-obviate/word.1.sentence.1.wav",
+    "word.2.pronunciation": "audio/vocab/proscribe-militate-obviate/word.2.pronunciation.wav",
+    "word.2.etymology": "audio/vocab/proscribe-militate-obviate/word.2.etymology.wav",
+    "word.2.sentence.0": "audio/vocab/proscribe-militate-obviate/word.2.sentence.0.wav",
+    "word.2.sentence.1": "audio/vocab/proscribe-militate-obviate/word.2.sentence.1.wav",
+    "twist.left": "audio/vocab/proscribe-militate-obviate/twist.left.wav",
+    "twist.right": "audio/vocab/proscribe-militate-obviate/twist.right.wav",
+    "expansion.0.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.0.pronunciation.wav",
+    "expansion.1.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.1.pronunciation.wav",
+    "expansion.2.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.2.pronunciation.wav",
+    "expansion.3.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.3.pronunciation.wav",
+    "expansion.4.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.4.pronunciation.wav",
+    "expansion.5.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.5.pronunciation.wav",
+    "expansion.6.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.6.pronunciation.wav",
+    "expansion.7.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.7.pronunciation.wav",
+    "expansion.8.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.8.pronunciation.wav",
+    "expansion.9.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.9.pronunciation.wav",
+    "expansion.10.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.10.pronunciation.wav",
+    "expansion.11.pronunciation": "audio/vocab/proscribe-militate-obviate/expansion.11.pronunciation.wav",
+    "hook.headline": "audio/vocab/proscribe-militate-obviate/hook.headline.wav",
+    "word.0.definition": "audio/vocab/proscribe-militate-obviate/word.0.definition.wav",
+    "word.1.definition": "audio/vocab/proscribe-militate-obviate/word.1.definition.wav",
+    "word.2.definition": "audio/vocab/proscribe-militate-obviate/word.2.definition.wav",
+    "twist.setup": "audio/vocab/proscribe-militate-obviate/twist.setup.wav",
+    "twist.closing": "audio/vocab/proscribe-militate-obviate/twist.closing.wav",
+    "recap.reflection": "audio/vocab/proscribe-militate-obviate/recap.reflection.wav"
+  },
+  "bookRef": {
+    "book": "Word Power Made Easy",
+    "author": "Norman Lewis",
+    "edition": "Fully Revised & Expanded",
+    "chapter": 9,
+    "session": 18,
+    "pages": [
+      191,
+      225
+    ],
+    "theme": "Actions",
+    "subtheme": "Acts that block or remove"
+  },
+  "tags": [
+    "actions",
+    "verbs",
+    "blocking",
+    "ch9",
+    "wpme"
+  ],
+  "vocabularyExpansion": [
+    {
+      "word": "prescribe",
+      "zh": "开处方、规定",
+      "root": "scribere",
+      "partOfSpeech": "v.",
+      "phonetic": "pri-SKRIB'",
+      "gloss": {
+        "en": "To write something out in advance as authority — pre- (before) + scribere (write). A doctor's prescription, a teacher's prescribed reading.",
+        "zh": "提前写下来作为权威指令 — pre-（事前）+ scribere（写）。医生开的处方、老师规定的阅读。"
+      },
+      "usage": {
+        "en": "A good doctor prescribes less than they could — most bodies do their own healing if left enough room.",
+        "zh": "好的医生开的药比能开的少 — 大多数身体，只要留够空间，会自己愈合。"
+      }
+    },
+    {
+      "word": "describe",
+      "zh": "描述",
+      "root": "scribere",
+      "partOfSpeech": "v.",
+      "phonetic": "di-SKRIB'",
+      "gloss": {
+        "en": "To write down what something is like — de- (down) + scribere (write). The verb of careful seeing.",
+        "zh": "把一样东西是什么样子写出来 — de-（向下）+ scribere（写）。是'认真看'的动词形式。"
+      },
+      "usage": {
+        "en": "To describe something well is to look at it twice — once with your eyes, once for the reader.",
+        "zh": "把一件事说清楚，就是看它两次 — 一次用眼睛，一次为读者。"
+      }
+    },
+    {
+      "word": "inscribe",
+      "zh": "题词、铭刻",
+      "root": "scribere",
+      "partOfSpeech": "v.",
+      "phonetic": "in-SKRIB'",
+      "gloss": {
+        "en": "To write INTO something — in- (in) + scribere. Used for engraving, dedicating a book, or marking permanently.",
+        "zh": "把字写进、刻进某物 — in-（进入）+ scribere。用于雕刻、给书写赠言、或永久标记。"
+      },
+      "usage": {
+        "en": "The most loved books in my shelf are the ones inscribed by someone — the writing on the title page outlives the writing on every other page.",
+        "zh": "书架上我最喜欢的书，都是有人在扉页上题字的那些 — 扉页上的字，比书里其他每一页的字活得都更久。"
+      }
+    },
+    {
+      "word": "transcribe",
+      "zh": "誊写、转录",
+      "root": "scribere",
+      "partOfSpeech": "v.",
+      "phonetic": "tran-SKRIB'",
+      "gloss": {
+        "en": "To write something ACROSS — trans- (across) + scribere. Copy from one form into another: speech into text, audio into notes.",
+        "zh": "把内容从一种形式写到另一种 — trans-（跨越）+ scribere。把语音写成文字、把音频整理成笔记。"
+      },
+      "usage": {
+        "en": "Transcribing an interview is the slowest way to find out which sentences actually matter.",
+        "zh": "把一段采访誊写下来 — 是最慢的方式，却最能让你发现哪几句话其实是重要的。"
+      }
+    },
+    {
+      "word": "manuscript",
+      "zh": "手稿",
+      "root": "scribere",
+      "partOfSpeech": "n.",
+      "phonetic": "MAN'-yu-skript",
+      "gloss": {
+        "en": "A hand-written document — manus (hand) + scribere (written). Before printing, every book was a manuscript.",
+        "zh": "手写的文件 — manus（手）+ scribere（写）。印刷术之前，每一本书都是一份手稿。"
+      },
+      "usage": {
+        "en": "Medieval monks copied manuscripts by candlelight for life — eyesight as a kind of currency for preserving the world's knowledge.",
+        "zh": "中世纪的修士在烛光下抄写手稿，一抄就是一辈子 — 视力，成了一种保存世界知识的货币。"
+      }
+    },
+    {
+      "word": "military",
+      "zh": "军事的",
+      "root": "miles",
+      "partOfSpeech": "adj./n.",
+      "phonetic": "MIL'-i-tair-ee",
+      "gloss": {
+        "en": "Relating to soldiers and armed forces — directly from miles (soldier). Same root as 'militate.'",
+        "zh": "与军队、士兵有关 — 直接来自 miles（士兵）。和 militate 同根。"
+      },
+      "usage": {
+        "en": "Military precision is just civilian precision plus the cost of getting it wrong.",
+        "zh": "军事的精准，只是平民的精准 — 加上'弄错'的代价。"
+      }
+    },
+    {
+      "word": "militia",
+      "zh": "民兵",
+      "root": "miles",
+      "partOfSpeech": "n.",
+      "phonetic": "mi-LISH'-a",
+      "gloss": {
+        "en": "Civilians organized as soldiers — from miles (soldier). The reserve army, the citizen-troops.",
+        "zh": "被组织成士兵的平民 — 来自 miles。后备的军队、公民兵团。"
+      },
+      "usage": {
+        "en": "A militia is what a society reaches for when its army is far away and its problems are close.",
+        "zh": "民兵，是一个社会在正规军离得远、问题离得近时伸手去抓的东西。"
+      }
+    },
+    {
+      "word": "militant",
+      "zh": "好斗的、激进的",
+      "root": "miles",
+      "partOfSpeech": "adj./n.",
+      "phonetic": "MIL'-i-tant",
+      "gloss": {
+        "en": "Aggressively active in a cause — from miles (soldier). A militant supporter doesn't just believe; they fight for the belief.",
+        "zh": "为某事激进地行动 — 来自 miles（士兵）。激进支持者不只相信，他们为自己的信念而战。"
+      },
+      "usage": {
+        "en": "The line between militant and committed is thinner than people admit — and side-dependent.",
+        "zh": "'激进'和'坚定'之间的界限比人们承认的要细 — 而且常常取决于你站在哪一边。"
+      }
+    },
+    {
+      "word": "obvious",
+      "zh": "明显的",
+      "root": "via",
+      "partOfSpeech": "adj.",
+      "phonetic": "OB'-vee-as",
+      "gloss": {
+        "en": "Literally 'in the way' — ob- (in the way) + via (road). Something obvious is something you can't help running into.",
+        "zh": "字面是'在路上' — ob-（在路上）+ via（路）。'明显'的东西，就是你想绕都绕不过去的那个。"
+      },
+      "usage": {
+        "en": "The obvious answer is often correct — but only after you've considered why you wanted it to be wrong.",
+        "zh": "显而易见的答案常常是对的 — 但只有在你认真想过'你为什么希望它是错的'之后。"
+      }
+    },
+    {
+      "word": "deviate",
+      "zh": "偏离",
+      "root": "via",
+      "partOfSpeech": "v.",
+      "phonetic": "DEE'-vee-ayt",
+      "gloss": {
+        "en": "To go off the road — de- (off, away) + via (road). The word for leaving the expected path.",
+        "zh": "从路上走开 — de-（离开）+ via（路）。表达'偏离预期路径'的词。"
+      },
+      "usage": {
+        "en": "Most discoveries happen the moment someone deviates from the plan and notices what's actually there.",
+        "zh": "大多数发现，发生在某人偏离计划、并注意到'眼前真正存在的东西'的那一刻。"
+      }
+    },
+    {
+      "word": "trivial",
+      "zh": "琐碎的",
+      "root": "via",
+      "partOfSpeech": "adj.",
+      "phonetic": "TRIV'-ee-al",
+      "gloss": {
+        "en": "Literally 'where three roads meet' — tri- (three) + via (road). Roman crossroads were where the common people met to gossip; 'trivia' is the small talk you exchanged there.",
+        "zh": "字面是'三条路相交之处' — tri-（三）+ via（路）。罗马的三岔路口是百姓聚集、闲聊的地方；trivia 就是在那里交换的闲话。"
+      },
+      "usage": {
+        "en": "Trivial details often hide what really matters — like which crossroads you keep coming back to.",
+        "zh": "琐碎的细节里常常藏着真正重要的事 — 比如，你一直回到的，是哪一个路口。"
+      }
+    },
+    {
+      "word": "viaduct",
+      "zh": "高架桥、高架路",
+      "root": "via",
+      "partOfSpeech": "n.",
+      "phonetic": "VI'-a-dukt",
+      "gloss": {
+        "en": "A bridge that carries a road — via (road) + ductus (led). Literally 'a road led over.' Same via that hides in 'obviate.'",
+        "zh": "承载道路的桥 — via（路）+ ductus（被引导）。字面是'被引导过去的路'。和藏在 obviate 里的 via 是同一个。"
+      },
+      "usage": {
+        "en": "A viaduct lets the road pretend the valley isn't there — until you look down and remember.",
+        "zh": "高架桥让道路假装山谷不存在 — 直到你低头一看，才记得它就在下面。"
+      }
+    }
+  ]
+}
