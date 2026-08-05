@@ -153,6 +153,43 @@ export function MethodPage() {
         </p>
       </section>
 
+      <section className="mb-12 max-w-3xl">
+        <h2 className="font-serif text-3xl font-bold">
+          Quick Answers
+          <span className="text-zh text-xl ml-3 font-normal text-ink-muted">
+            常见问题
+          </span>
+        </h2>
+        <div className="mt-5 space-y-5 text-lg text-ink leading-relaxed">
+          <div>
+            <h3 className="font-semibold text-xl">
+              How does root-based vocabulary learning work?
+            </h3>
+            <p className="mt-2 text-ink-muted">
+              Root-based vocabulary learning teaches Latin and Greek roots first,
+              then connects each root to many related words so unfamiliar
+              vocabulary becomes easier to decode.
+              <span className="text-zh ml-2">
+                先学词根，再把同根词连起来；陌生词会变得更容易拆解。
+              </span>
+            </p>
+          </div>
+          <div>
+            <h3 className="font-semibold text-xl">
+              Who is Word Power, Reread for?
+            </h3>
+            <p className="mt-2 text-ink-muted">
+              It is for English learners, especially Mandarin readers, who want
+              etymology, pronunciation, examples, and active recall instead of
+              isolated word lists.
+              <span className="text-zh ml-2">
+                适合想用词源、发音、例句和主动回忆来学词的人，尤其适合中文读者。
+              </span>
+            </p>
+          </div>
+        </div>
+      </section>
+
       <section>
         <div className="flex items-baseline justify-between mb-2 flex-wrap gap-2">
           <h2 className="font-serif text-3xl font-bold">

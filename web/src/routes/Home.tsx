@@ -33,8 +33,32 @@ export function Home() {
             <span>🎯 Take a Test</span>
             <span className="text-zh text-xs text-ink-muted">来做练习</span>
           </Link>
+          <Link
+            to="/professional-english"
+            className="inline-flex items-baseline gap-2 rounded-full border-2 border-accent/40 bg-paper-warm px-5 py-2 text-sm font-semibold hover:border-accent hover:bg-accent/10 transition-colors"
+          >
+            <span>Professional English</span>
+            <span className="text-zh text-xs text-ink-muted">专业英语人格</span>
+          </Link>
         </nav>
       </header>
+
+      <section className="mb-12 rounded-xl border border-accent/30 bg-paper-warm px-6 py-5">
+        <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-2">
+          New Sub-column · 新子专栏
+        </div>
+        <Link to="/professional-english" className="block group">
+          <h2 className="font-serif text-3xl font-bold leading-snug group-hover:text-accent transition-colors">
+            Calm ownership under ambiguity
+          </h2>
+          <div className="text-zh text-lg mt-1">在不确定中稳定负责</div>
+          <p className="mt-3 text-ink-muted leading-relaxed max-w-2xl">
+            Customer-facing GenAI English for FDEs, AI consultants, and TAMs:
+            leadership lines for diagnosing problems, aligning stakeholders,
+            and creating trust before the answer is obvious.
+          </p>
+        </Link>
+      </section>
 
       <section>
         <h2 className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-5">

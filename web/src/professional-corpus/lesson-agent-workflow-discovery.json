@@ -1,0 +1,185 @@
+{
+  "lessonId": "agent-workflow-discovery",
+  "series": {
+    "en": "Calm Ownership Under Ambiguity",
+    "zh": "不确定中的稳定负责"
+  },
+  "title": {
+    "en": "Define the workflow before you call it agentic.",
+    "zh": "先定义工作流，再称它为 agentic。"
+  },
+  "subtitle": {
+    "en": "The strongest agentic AI conversations start with work, decisions, tools, handoffs, and accountability before architecture names.",
+    "zh": "最强的 agentic AI 对话，先谈工作、决策、工具、交接和责任，再谈架构名称。"
+  },
+  "audience": "GenAI FDE · AI solution architect · Product-facing engineer",
+  "tags": ["Agents", "Workflow", "Discovery", "Stakeholder Alignment", "Leadership English"],
+  "scenario": {
+    "customer": "We want to build agents for our operations team. We are thinking multi-agent, maybe with tools and memory, but the workflow is still evolving.",
+    "weakResponse": "We can design a multi-agent architecture with tools, memory, and routing.",
+    "reliableResponse": "The agentic architecture should follow the work, not lead it. I would first map the decisions the system needs to make, the tools it can safely use, the handoffs that require a human, and the accountability model for mistakes."
+  },
+  "principle": {
+    "en": "Do not automate ambiguity you have not understood.",
+    "zh": "不要自动化你还没理解的模糊性。"
+  },
+  "languageMove": {
+    "title": {
+      "en": "Use restraint to sound senior.",
+      "zh": "用克制体现资深感。"
+    },
+    "anchor": {
+      "phrase": "premature abstraction",
+      "quote": "A multi-agent design can become a premature abstraction if we have not defined the decision loop."
+    },
+    "concept": {
+      "en": "Premature abstraction is a mature way to push back. It says the idea may be right later, but it is too early to encode it now.",
+      "zh": "Premature abstraction 是很成熟的反对方式：不是说这个想法错，而是说现在把它固化还太早。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Avoid agent hype without sounding anti-agent.",
+          "zh": "避免 agent hype，但不显得反对 agent。"
+        },
+        "line": "An agent may be the right shape, but I would not start with the architecture label. I would start with the decision loop.",
+        "why": {
+          "en": "You stay open while anchoring the conversation in work.",
+          "zh": "你保持开放，同时把讨论锚定在真实工作上。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Clarify human accountability.",
+          "zh": "澄清人的责任。"
+        },
+        "line": "Human-in-the-loop is not a checkbox; we need to define which decisions require judgment, approval, or auditability.",
+        "why": {
+          "en": "Not a checkbox is concise and firm. It raises the maturity bar.",
+          "zh": "Not a checkbox 简洁而坚定，直接提高成熟度标准。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Keep tools tied to permission.",
+          "zh": "把工具和权限绑定。"
+        },
+        "line": "A tool is not just a capability; it is a permission boundary.",
+        "why": {
+          "en": "This sounds security-aware without turning into a security lecture.",
+          "zh": "这句话有安全意识，但不变成安全说教。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Start discovery with work, not technology.",
+        "zh": "从工作本身开始 discovery，而不是从技术开始。"
+      },
+      "line": "Before we design agents, I would like to understand the work the system is expected to own, assist, or escalate.",
+      "why": {
+        "en": "Own, assist, escalate gives a clean responsibility spectrum.",
+        "zh": "Own、assist、escalate 给出了清晰责任谱系。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Separate workflow agents from dynamic routing.",
+        "zh": "区分可预测工作流和动态路由。"
+      },
+      "line": "Some steps may need a predictable workflow agent; others may need dynamic routing. I would not collapse those into one pattern too early.",
+      "why": {
+        "en": "You show current agentic AI literacy without overdesigning.",
+        "zh": "你展示了当下 agentic AI 认知，但没有过度设计。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Make autonomy conditional.",
+        "zh": "把自主性设置成有条件的。"
+      },
+      "line": "Autonomy should increase only where the decision criteria, tool permissions, and rollback path are clear.",
+      "why": {
+        "en": "This is leadership language: autonomy tied to criteria, permission, and recovery.",
+        "zh": "这是领导力语言：自主性必须绑定标准、权限和恢复路径。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Align stakeholders around risk.",
+        "zh": "围绕风险对齐利益相关方。"
+      },
+      "line": "The technical design and the operating model need to move together; otherwise the agent will outpace the organization's ability to supervise it.",
+      "why": {
+        "en": "You connect architecture to people management and operating readiness.",
+        "zh": "你把架构连接到人员管理和运营准备度。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Define success beyond demo behavior.",
+        "zh": "把成功定义到 demo 之外。"
+      },
+      "line": "A good demo proves the interaction can work; a good deployment proves the workflow can be trusted repeatedly.",
+      "why": {
+        "en": "The contrast is memorable and production-minded.",
+        "zh": "这个对比好记，也很 production-minded。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice guiding an agentic AI discovery call.",
+      "zh": "练习主持一次 agentic AI discovery call。"
+    },
+    "steps": [
+      {
+        "en": "The team asks for a multi-agent design before defining owners.",
+        "zh": "团队还没定义 owner，就先要 multi-agent 设计。",
+        "focus": {
+          "en": "Use premature abstraction to slow the design down professionally.",
+          "zh": "用 premature abstraction 专业地放慢设计节奏。"
+        },
+        "futureLesson": {
+          "lessonId": "multi-agent-ownership-model",
+          "title": {
+            "en": "Multi-agent ownership model",
+            "zh": "多智能体责任模型"
+          }
+        }
+      },
+      {
+        "en": "The agent needs to call tools that change customer data.",
+        "zh": "agent 需要调用会修改客户数据的工具。",
+        "focus": {
+          "en": "Explain tools as permission boundaries, not just capabilities.",
+          "zh": "把工具解释为权限边界，而不只是能力。"
+        },
+        "futureLesson": {
+          "lessonId": "agent-tool-permission-boundaries",
+          "title": {
+            "en": "Agent tool permission boundaries",
+            "zh": "Agent 工具权限边界"
+          }
+        }
+      },
+      {
+        "en": "Executives want fast autonomy, while operators want human review.",
+        "zh": "高层想要快速自主化，运营人员想保留人工审核。",
+        "focus": {
+          "en": "Frame autonomy as a staged operating decision.",
+          "zh": "把自主性说成分阶段的运营决策。"
+        },
+        "futureLesson": {
+          "lessonId": "human-in-the-loop-operating-model",
+          "title": {
+            "en": "Human-in-the-loop operating model",
+            "zh": "Human-in-the-loop 运营模型"
+          }
+        }
+      }
+    ]
+  }
+}

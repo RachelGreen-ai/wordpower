@@ -1,0 +1,185 @@
+{
+  "lessonId": "grounding-hallucination-triage",
+  "series": {
+    "en": "Calm Ownership Under Ambiguity",
+    "zh": "不确定中的稳定负责"
+  },
+  "title": {
+    "en": "Treat hallucination as a failure mode, not a personality flaw.",
+    "zh": "把幻觉当作失效模式，而不是模型性格问题。"
+  },
+  "subtitle": {
+    "en": "A reliable AI professional turns a vague accuracy complaint into grounded evidence, failure categories, and a remediation path.",
+    "zh": "可靠的 AI 专业人士，会把模糊的准确性抱怨，转成证据、失效分类和修复路径。"
+  },
+  "audience": "GenAI FDE · AI consultant · Applied AI lead",
+  "tags": ["Grounding", "RAG", "Evaluation", "Customer Trust", "Agentic AI"],
+  "scenario": {
+    "customer": "The assistant sometimes makes things up. We are not sure whether the model is bad, the retrieval is bad, or the prompts are bad.",
+    "weakResponse": "We can add better prompts and use a stronger model.",
+    "reliableResponse": "I would not treat this as one generic hallucination problem yet. I would sample failed answers, check whether the required source existed, verify whether retrieval brought it into context, and then separate ungrounded generation from missing context and ambiguous evaluation criteria."
+  },
+  "principle": {
+    "en": "Evidence before explanation.",
+    "zh": "先看证据，再给解释。"
+  },
+  "languageMove": {
+    "title": {
+      "en": "Use precise nouns to lower emotional temperature.",
+      "zh": "用精准名词降低问题的情绪温度。"
+    },
+    "anchor": {
+      "phrase": "failure mode",
+      "quote": "I would not call it one problem until we know which failure mode we are seeing."
+    },
+    "concept": {
+      "en": "Failure mode is calmer than broken. It implies the system can be inspected, categorized, and improved.",
+      "zh": "Failure mode 比 broken 稳得多。它暗示系统可以被检查、归类、改进。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Avoid blaming the model too early.",
+          "zh": "避免过早把锅甩给模型。"
+        },
+        "line": "The answer is wrong, but that does not yet tell us whether the failure mode is retrieval, grounding, reasoning, or evaluation.",
+        "why": {
+          "en": "You slow the room down and protect the investigation from premature conclusions.",
+          "zh": "你把会议节奏稳住，避免大家过早下结论。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Make trust measurable.",
+          "zh": "让信任变得可衡量。"
+        },
+        "line": "User trust is not an abstract concern here; it depends on whether the answer can be traced back to a source the business accepts.",
+        "why": {
+          "en": "Abstract becomes operational: source, traceability, acceptance.",
+          "zh": "抽象问题变成了操作问题：来源、可追溯、业务可接受。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Push for examples without sounding defensive.",
+          "zh": "要求失败样本，但不显得防御。"
+        },
+        "line": "A few representative failures will help us be surgical rather than speculative.",
+        "why": {
+          "en": "Surgical signals precision; speculative signals unsupported guessing.",
+          "zh": "Surgical 体现精准；speculative 表示没有证据的猜测。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Start with a calm diagnostic frame.",
+        "zh": "先建立冷静的诊断框架。"
+      },
+      "line": "I would separate this into three layers: whether the source exists, whether retrieval found it, and whether the model used it correctly.",
+      "why": {
+        "en": "The customer hears a concrete map instead of a vague promise to improve accuracy.",
+        "zh": "客户听到的是具体地图，而不是泛泛承诺提高准确率。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Treat grounding as a trust contract.",
+        "zh": "把 grounding 当作信任契约。"
+      },
+      "line": "For this use case, a good answer is not enough; it needs to be attributable to an approved source.",
+      "why": {
+        "en": "Attributable is a strong professional word: it ties correctness to source responsibility.",
+        "zh": "Attributable 是很好的专业词：它把正确性和来源责任连起来。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Use failed examples as assets.",
+        "zh": "把失败样本当资产。"
+      },
+      "line": "These failures are useful signal. They tell us where the system boundary is today.",
+      "why": {
+        "en": "You turn failure into learning without sounding casual about the risk.",
+        "zh": "你把失败转成学习信号，但没有轻描淡写风险。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Avoid cosmetic fixes.",
+        "zh": "避免表面修补。"
+      },
+      "line": "Prompt changes may help, but I would not make them the first lever until we know the failure distribution.",
+      "why": {
+        "en": "You show discipline: fixes should follow distribution, not instinct.",
+        "zh": "你展示纪律：修复要跟着分布走，而不是跟着直觉走。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Give a crisp remediation path.",
+        "zh": "给出清晰修复路径。"
+      },
+      "line": "Once we classify the failures, we can decide whether the fix is better indexing, better retrieval, stricter citation behavior, or a clearer evaluation rubric.",
+      "why": {
+        "en": "The sentence converts ambiguity into decision branches.",
+        "zh": "这句话把不确定转成了决策分支。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice diagnosing accuracy issues without sounding reactive.",
+      "zh": "练习在准确性问题上保持诊断姿态，而不是被动反应。"
+    },
+    "steps": [
+      {
+        "en": "The answer is correct but cannot cite a source.",
+        "zh": "答案是对的，但无法引用来源。",
+        "focus": {
+          "en": "Use attributable and approved source to explain why correctness alone is insufficient.",
+          "zh": "用 attributable 和 approved source 说明为什么仅仅正确还不够。"
+        },
+        "futureLesson": {
+          "lessonId": "evaluation-rubrics-and-failure-modes",
+          "title": {
+            "en": "Evaluation rubrics and failure modes",
+            "zh": "评估标准与失效模式"
+          }
+        }
+      },
+      {
+        "en": "Retrieval finds irrelevant documents.",
+        "zh": "检索找到了不相关文档。",
+        "focus": {
+          "en": "Separate retrieval quality from model reasoning.",
+          "zh": "把检索质量和模型推理拆开。"
+        },
+        "futureLesson": {
+          "lessonId": "rag-retrieval-quality",
+          "title": {
+            "en": "RAG retrieval quality",
+            "zh": "RAG 检索质量"
+          }
+        }
+      },
+      {
+        "en": "The business team says users have lost trust.",
+        "zh": "业务团队说用户已经失去信任。",
+        "focus": {
+          "en": "Translate trust into traceability, repeatability, and accepted sources.",
+          "zh": "把 trust 翻译成可追溯、可重复、来源被认可。"
+        },
+        "futureLesson": {
+          "lessonId": "executive-trust-readout",
+          "title": {
+            "en": "Executive trust readout",
+            "zh": "面向高层的信任汇报"
+          }
+        }
+      }
+    ]
+  }
+}

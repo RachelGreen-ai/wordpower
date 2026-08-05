@@ -1,0 +1,196 @@
+{
+  "lessonId": "calm-ownership-under-ambiguity",
+  "series": {
+    "en": "Calm Ownership Under Ambiguity",
+    "zh": "不确定中的稳定负责"
+  },
+  "title": {
+    "en": "Sound reliable before the answer is obvious.",
+    "zh": "在答案还不明显时，先让人感到可靠。"
+  },
+  "subtitle": {
+    "en": "A GenAI customer-facing professional does not perform certainty. They create a clear path through uncertainty.",
+    "zh": "面向客户的 GenAI 专业人士，不是表演确定性，而是在不确定中铺出清晰路径。"
+  },
+  "audience": "GenAI FDE · AI consultant · Technical Account Manager",
+  "tags": ["GenAI", "FDE", "TAM", "Problem Solving", "Leadership English"],
+  "scenario": {
+    "customer": "Our AI assistant is inconsistent. Some answers are useful, but some are wrong or not grounded. The team is losing trust.",
+    "weakResponse": "We can improve the prompt, add RAG, and tune the model.",
+    "reliableResponse": "Before we jump into the solution, I would separate the issue into retrieval quality, model reasoning, and evaluation criteria. If we can inspect a small set of failed examples, we can identify whether the problem is missing context, incorrect grounding, or unclear success metrics."
+  },
+  "principle": {
+    "en": "Own the next step, not the final answer.",
+    "zh": "先拥有下一步，而不是急着拥有最终答案。"
+  },
+  "languageMove": {
+    "title": {
+      "en": "Use negation to defend serious exploration.",
+      "zh": "用否定句为严肃探索建立可信度。"
+    },
+    "anchor": {
+      "phrase": "not frivolous",
+      "quote": "The frontier is always advancing, and what you're curious about is probably what's important next month."
+    },
+    "concept": {
+      "en": "Saying something is not frivolous is stronger than simply saying it is useful. You are naming the possible objection first, then removing it with judgment.",
+      "zh": "说一件事 not frivolous，比直接说 useful 更稳。你先点出对方可能的质疑，再用判断力把它拿掉。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Protect exploration time.",
+          "zh": "保护探索时间。"
+        },
+        "line": "This exploration is not frivolous; it is how we stay close to the frontier before customer needs become obvious.",
+        "why": {
+          "en": "You make curiosity sound disciplined, not indulgent.",
+          "zh": "你让好奇心听起来有纪律，而不是任性。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Defend evaluation work.",
+          "zh": "为评估工作辩护。"
+        },
+        "line": "The evaluation work may look indirect, but it is not optional if we want a production-grade system.",
+        "why": {
+          "en": "You calmly reclassify invisible work as necessary infrastructure.",
+          "zh": "你把看不见的工作，稳定地重新定义为必要基础设施。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Push back on shallow urgency.",
+          "zh": "回应表面的紧迫感。"
+        },
+        "line": "I understand the urgency, but skipping failure analysis would be a false economy.",
+        "why": {
+          "en": "False economy is precise: saving effort now creates larger cost later.",
+          "zh": "False economy 很精确：现在省下来的力气，之后会变成更大的成本。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Frame uncertainty without sounding vague.",
+        "zh": "承认不确定，但不显得含糊。"
+      },
+      "line": "My current hypothesis is that the issue sits in retrieval quality, but I would like to validate that against failed examples before we change the architecture.",
+      "why": {
+        "en": "You show judgment, but you do not overstate certainty.",
+        "zh": "你展示判断力，同时没有把还没验证的事说死。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Separate symptoms from root causes.",
+        "zh": "把表面症状和根因拆开。"
+      },
+      "line": "Let's separate the user-visible symptom from the underlying constraint so we do not optimize the wrong layer.",
+      "why": {
+        "en": "This makes you sound diagnostic, not reactive.",
+        "zh": "这让你听起来像在诊断问题，而不是被问题牵着跑。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Pinpoint the bottleneck before scaling.",
+        "zh": "扩展之前，先定位瓶颈。"
+      },
+      "line": "We should pinpoint the root cause and understand the bottleneck before we make scaling changes.",
+      "why": {
+        "en": "Simple, steady, and operational. It sets a responsible sequence.",
+        "zh": "简单、稳定、可执行。它给出了负责任的推进顺序。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Create a concrete investigation path.",
+        "zh": "给出具体排查路径。"
+      },
+      "line": "The next useful step is to inspect failed cases, group them by failure mode, and decide which layer needs intervention.",
+      "why": {
+        "en": "The customer can see motion: evidence, grouping, decision.",
+        "zh": "客户能看到推进感：看证据、做归类、再决策。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Align technical work with business trust.",
+        "zh": "把技术修复和业务信任连起来。"
+      },
+      "line": "The goal is not just to improve answer quality; it is to make the system predictable enough for users to trust it.",
+      "why": {
+        "en": "You connect model behavior to the customer's real operating concern.",
+        "zh": "你把模型表现连接到客户真正关心的运营问题。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Report progress like a leader.",
+        "zh": "像负责人一样汇报进展。"
+      },
+      "line": "Here is what we know, what remains open, and what we will verify next.",
+      "why": {
+        "en": "This is calm ownership in one sentence.",
+        "zh": "这句话本身就是稳定负责的姿态。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice the same posture with three customer problems.",
+      "zh": "用同一种姿态练三个客户问题。"
+    },
+    "steps": [
+      {
+        "en": "The model is hallucinating in production.",
+        "zh": "模型在生产环境里产生幻觉。",
+        "focus": {
+          "en": "Separate grounding, retrieval, and evaluation before changing prompts.",
+          "zh": "改 prompt 之前，先拆 grounding、retrieval 和 evaluation。"
+        },
+        "futureLesson": {
+          "lessonId": "grounding-hallucination-triage",
+          "title": {
+            "en": "Grounding and hallucination triage",
+            "zh": "Grounding 与幻觉排查"
+          }
+        }
+      },
+      {
+        "en": "Latency is too high after traffic increases.",
+        "zh": "流量上来后延迟太高。",
+        "focus": {
+          "en": "Pinpoint the bottleneck before scaling the wrong layer.",
+          "zh": "扩错层之前，先定位瓶颈。"
+        },
+        "futureLesson": {
+          "lessonId": "latency-throughput-cost-tradeoffs",
+          "title": {
+            "en": "Latency, throughput, and cost tradeoffs",
+            "zh": "延迟、吞吐与成本权衡"
+          }
+        }
+      },
+      {
+        "en": "The business team wants agents, but the workflow is not defined.",
+        "zh": "业务团队想做 agents，但流程还没定义清楚。",
+        "focus": {
+          "en": "Define the decision loop before naming the architecture agentic.",
+          "zh": "先定义决策循环，再决定是否叫 agentic。"
+        },
+        "futureLesson": {
+          "lessonId": "agent-workflow-discovery",
+          "title": {
+            "en": "Agent workflow discovery",
+            "zh": "Agent 工作流发现"
+          }
+        }
+      }
+    ]
+  }
+}

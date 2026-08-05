@@ -1,0 +1,185 @@
+{
+  "lessonId": "latency-throughput-cost-tradeoffs",
+  "series": {
+    "en": "Calm Ownership Under Ambiguity",
+    "zh": "不确定中的稳定负责"
+  },
+  "title": {
+    "en": "Make constraints sound like engineering inputs, not excuses.",
+    "zh": "把约束说成工程输入，而不是借口。"
+  },
+  "subtitle": {
+    "en": "Agentic systems are loops, not single calls. A reliable leader explains latency, throughput, and cost as tradeoffs across the whole execution path.",
+    "zh": "Agentic 系统是循环，不是单次调用。可靠的负责人会把延迟、吞吐和成本解释为整条执行路径上的权衡。"
+  },
+  "audience": "GenAI FDE · AI platform engineer · Technical Account Manager",
+  "tags": ["Latency", "Throughput", "Cost", "Scaling", "Production AI"],
+  "scenario": {
+    "customer": "The prototype was fine, but after real traffic increased, latency got worse and cost became hard to justify.",
+    "weakResponse": "We can use a faster model and increase quota.",
+    "reliableResponse": "Increasing quota may be part of the answer, but I would first map the end-to-end execution path: model calls, tool calls, retrieval, serialization, retries, and any sequential steps. Otherwise we may scale the expensive part without removing the actual bottleneck."
+  },
+  "principle": {
+    "en": "Optimize the loop, not the headline model.",
+    "zh": "优化整个循环，而不是只盯着模型名称。"
+  },
+  "languageMove": {
+    "title": {
+      "en": "Use tradeoff language to project maturity.",
+      "zh": "用权衡语言体现成熟度。"
+    },
+    "anchor": {
+      "phrase": "false economy",
+      "quote": "A cheaper call can be a false economy if it increases retries, tool calls, or human review."
+    },
+    "concept": {
+      "en": "False economy is a compact way to say that saving money locally can create higher system cost later.",
+      "zh": "False economy 很精炼：局部省钱，可能导致系统总成本更高。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Push back on model-only optimization.",
+          "zh": "回应只优化模型的想法。"
+        },
+        "line": "A faster model may help, but the bottleneck may sit in the orchestration path rather than the model call itself.",
+        "why": {
+          "en": "You broaden the frame without dismissing the customer's idea.",
+          "zh": "你扩大问题框架，但没有否定客户想法。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Make cost discussion serious.",
+          "zh": "让成本讨论更专业。"
+        },
+        "line": "Cost per call is useful, but cost per successful task is the metric that will change the business case.",
+        "why": {
+          "en": "You move from component thinking to outcome thinking.",
+          "zh": "你从组件成本转向结果成本。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Defend instrumentation.",
+          "zh": "为观测和埋点辩护。"
+        },
+        "line": "Instrumentation is not overhead here; it is what lets us distinguish a scaling problem from a design problem.",
+        "why": {
+          "en": "Not overhead reframes invisible engineering work as decision infrastructure.",
+          "zh": "Not overhead 把不可见工程工作重新定义成决策基础设施。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Slow down the scaling reflex.",
+        "zh": "稳住立刻扩容的冲动。"
+      },
+      "line": "Before we scale, I would like to understand whether we are constrained by model latency, retrieval latency, tool latency, or sequential orchestration.",
+      "why": {
+        "en": "You sound responsible because you name the possible bottlenecks before spending money.",
+        "zh": "你先说出可能瓶颈，再花钱，听起来很负责任。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Connect architecture to user experience.",
+        "zh": "把架构和用户体验连起来。"
+      },
+      "line": "The user does not experience our architecture; they experience the total wait time across the loop.",
+      "why": {
+        "en": "This is simple and executive-friendly.",
+        "zh": "这句话简单，也适合对高层说。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Use ROI-per-token thinking.",
+        "zh": "引入 ROI-per-token 思维。"
+      },
+      "line": "The question is not only how many tokens we spend, but how much reliable work each token buys us.",
+      "why": {
+        "en": "You turn cost into productivity, not austerity.",
+        "zh": "你把成本讨论转成生产力讨论，而不是单纯节省。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Offer a disciplined optimization order.",
+        "zh": "给出有纪律的优化顺序。"
+      },
+      "line": "I would first measure, then remove unnecessary sequential steps, then evaluate model and caching choices.",
+      "why": {
+        "en": "The sequence is calm: measure, simplify, then substitute.",
+        "zh": "顺序很稳：先测量，再简化，再替换。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Protect quality during optimization.",
+        "zh": "优化时保护质量。"
+      },
+      "line": "We can reduce latency, but I would not do it by making the system less verifiable.",
+      "why": {
+        "en": "You establish a non-negotiable boundary around trust.",
+        "zh": "你围绕信任建立了不可牺牲的边界。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice explaining scaling tradeoffs with executive calm.",
+      "zh": "练习用高层能听懂的稳定语言解释扩展权衡。"
+    },
+    "steps": [
+      {
+        "en": "The customer wants sub-second responses.",
+        "zh": "客户希望响应低于一秒。",
+        "focus": {
+          "en": "Ask whether the task truly needs generative reasoning at request time.",
+          "zh": "先问这个任务是否真的需要在请求时做生成式推理。"
+        },
+        "futureLesson": {
+          "lessonId": "when-not-to-use-llms",
+          "title": {
+            "en": "When not to use LLMs",
+            "zh": "什么时候不该用 LLM"
+          }
+        }
+      },
+      {
+        "en": "Tool calls dominate latency.",
+        "zh": "工具调用占据主要延迟。",
+        "focus": {
+          "en": "Talk about parallelism, caching, and orchestration shape before model choice.",
+          "zh": "先谈并行、缓存和编排形态，再谈模型选择。"
+        },
+        "futureLesson": {
+          "lessonId": "tool-calling-orchestration",
+          "title": {
+            "en": "Tool calling and orchestration",
+            "zh": "工具调用与编排"
+          }
+        }
+      },
+      {
+        "en": "The prototype is cheap, but production projections look expensive.",
+        "zh": "原型很便宜，但生产成本预测很高。",
+        "focus": {
+          "en": "Move from cost per call to cost per successful task.",
+          "zh": "从单次调用成本转到成功任务成本。"
+        },
+        "futureLesson": {
+          "lessonId": "ai-roi-per-token",
+          "title": {
+            "en": "AI ROI per token",
+            "zh": "AI 的 token 投资回报"
+          }
+        }
+      }
+    ]
+  }
+}
