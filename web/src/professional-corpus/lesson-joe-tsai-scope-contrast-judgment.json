@@ -1,0 +1,341 @@
+{
+  "lessonId": "joe-tsai-scope-contrast-judgment",
+  "track": "celebrity-talks",
+  "series": {
+    "en": "Celebrity Talks: Conversation Intelligence",
+    "zh": "名人访谈：高质量对话能力"
+  },
+  "title": {
+    "en": "Answer with scope, contrast, and judgment.",
+    "zh": "用范围、对比和判断来回答。"
+  },
+  "subtitle": {
+    "en": "A talk-analysis lesson for learning how thoughtful public figures move from broad topics to decent, smart, and grounded answers.",
+    "zh": "一节访谈分析课：学习高质量表达者如何把大话题回答得体、聪明、扎实。"
+  },
+  "audience": "Professional English · Interview analysis · Smart conversation",
+  "tags": ["Celebrity Talks", "Joe Tsai", "Conversation Flow", "Smart Answers", "Leadership English"],
+  "source": {
+    "type": "YouTube",
+    "title": "蔡崇信訪談：球隊、馬雲、阿里巴巴、TikTok、AI、中美競爭...｜Joe Tsai: Alibaba, Jack Ma, Tiktok, AI, Us-China Competition...",
+    "speaker": "Joe Tsai",
+    "channel": "New SciTech 新科技",
+    "url": "https://www.youtube.com/watch?v=a9ERLN2TF3E&t=610s",
+    "timestamp": "10:10",
+    "note": {
+      "en": "Transcript not imported yet. This lesson starts with a reusable analysis frame for this interview style; exact quote analysis can be added after transcript review.",
+      "zh": "尚未导入 transcript。本课先建立这类访谈的可复用分析框架；拿到逐字稿后可以继续做精确语句分析。"
+    }
+  },
+  "scenario": {
+    "customer": "A public figure is asked about complex topics such as company history, AI, platforms, sports, and US-China competition.",
+    "weakResponse": "They jump directly to opinions, defend their side, or give a slogan that sounds polished but thin.",
+    "reliableResponse": "A stronger answer first defines the scope, separates what they know from what they will not speculate on, creates contrast, and then offers a grounded judgment with enough nuance to keep the conversation intelligent."
+  },
+  "principle": {
+    "en": "A smart answer narrows the question before it expands the insight.",
+    "zh": "聪明的回答，先收窄问题，再展开洞察。"
+  },
+  "talkAnalysis": {
+    "flow": [
+      {
+        "en": "Receive the broad question without rushing into a position.",
+        "zh": "接住大问题，但不急着表态。"
+      },
+      {
+        "en": "Name the part of the question you are actually qualified to answer.",
+        "zh": "说清楚自己真正有资格回答的是哪一部分。"
+      },
+      {
+        "en": "Create contrast: then versus now, perception versus reality, hype versus operating constraints.",
+        "zh": "制造对比：过去与现在、外界感知与实际情况、热潮与运营约束。"
+      },
+      {
+        "en": "Offer one grounded judgment, then explain the reasoning path.",
+        "zh": "给出一个扎实判断，再解释推理路径。"
+      },
+      {
+        "en": "End with a forward-looking but measured takeaway.",
+        "zh": "最后给一个面向未来但有分寸的总结。"
+      }
+    ],
+    "phraseBank": [
+      {
+        "intent": {
+          "en": "Narrow scope with authority.",
+          "zh": "有权威感地收窄范围。"
+        },
+        "line": "The way I would frame it is slightly narrower.",
+        "why": {
+          "en": "You do not reject the question; you make it answerable.",
+          "zh": "你不是拒绝问题，而是把问题变得可回答。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Avoid pretending to know everything.",
+          "zh": "避免假装什么都知道。"
+        },
+        "line": "I would be careful not to speculate beyond what I have seen directly.",
+        "why": {
+          "en": "Careful and directly make the answer sound reliable, not evasive.",
+          "zh": "Careful 和 directly 让回答显得可靠，而不是躲闪。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Move from anecdote to principle.",
+          "zh": "从故事转到原则。"
+        },
+        "line": "The broader lesson is not about one company; it is about how quickly assumptions expire.",
+        "why": {
+          "en": "You convert a specific story into a transferable insight.",
+          "zh": "你把具体故事转成可迁移的洞察。"
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "measured",
+        "meaning": {
+          "en": "Careful, controlled, and not exaggerated.",
+          "zh": "有分寸、克制、不夸张。"
+        },
+        "use": {
+          "en": "A measured answer can still be strong; it just does not overreach.",
+          "zh": "Measured answer 仍然可以有力量，只是不越界。"
+        }
+      },
+      {
+        "word": "nuance",
+        "meaning": {
+          "en": "A fine distinction that prevents an answer from becoming simplistic.",
+          "zh": "细微差别，让回答不变得简单粗暴。"
+        },
+        "use": {
+          "en": "Nuance is what lets you disagree without sounding combative.",
+          "zh": "Nuance 让你可以不同意，但不显得好斗。"
+        }
+      },
+      {
+        "word": "overreach",
+        "meaning": {
+          "en": "To claim more than the evidence or your role can support.",
+          "zh": "说得超过证据或角色能支撑的范围。"
+        },
+        "use": {
+          "en": "Good speakers avoid overreach by naming the limits of their answer.",
+          "zh": "好的表达者会通过说明边界来避免 overreach。"
+        }
+      },
+      {
+        "word": "premise",
+        "meaning": {
+          "en": "The assumption underneath a question or argument.",
+          "zh": "问题或论证背后的假设。"
+        },
+        "use": {
+          "en": "A smart response sometimes challenges the premise before answering.",
+          "zh": "聪明的回答有时会先挑战问题的前提。"
+        }
+      }
+    ],
+    "logicMoves": [
+      {
+        "intent": {
+          "en": "Challenge the premise gently.",
+          "zh": "温和地挑战前提。"
+        },
+        "line": "I am not sure I would accept that premise entirely.",
+        "why": {
+          "en": "Entirely softens the disagreement and keeps the door open.",
+          "zh": "Entirely 缓和了不同意的力度，同时保留讨论空间。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Use contrast to clarify complexity.",
+          "zh": "用对比澄清复杂性。"
+        },
+        "line": "There is a difference between market attention and durable value.",
+        "why": {
+          "en": "This creates a clean conceptual distinction without sounding academic.",
+          "zh": "它创造了清晰概念区分，但不学究。"
+        }
+      },
+      {
+        "intent": {
+          "en": "End with a grounded forward view.",
+          "zh": "用扎实的未来判断收尾。"
+        },
+        "line": "The direction is clear, but the execution details will matter more than the headline.",
+        "why": {
+          "en": "You sound optimistic without sounding naive.",
+          "zh": "你显得乐观，但不天真。"
+        }
+      }
+    ],
+    "conversationLessons": [
+      {
+        "en": "Do not answer the biggest version of the question. Answer the clearest version you can defend.",
+        "zh": "不要回答最大的问题版本；回答你能站住的清晰版本。"
+      },
+      {
+        "en": "A decent conversation is not just polite. It is accurate about uncertainty.",
+        "zh": "体面的对话不只是礼貌；它要准确处理不确定性。"
+      },
+      {
+        "en": "Smart speakers often sound calm because they are managing scope, evidence, and implication at the same time.",
+        "zh": "聪明的表达者听起来稳定，是因为他们同时管理范围、证据和含义。"
+      }
+    ]
+  },
+  "languageMove": {
+    "title": {
+      "en": "Qualify without weakening.",
+      "zh": "加限定，但不削弱表达。"
+    },
+    "anchor": {
+      "phrase": "I would be careful not to overstate this.",
+      "quote": "The strongest public answers often win trust by limiting their own claim."
+    },
+    "concept": {
+      "en": "A qualification is not weakness when it protects accuracy. It tells the listener you know the boundary of your evidence.",
+      "zh": "限定语不是软弱；如果它保护准确性，它反而说明你知道证据边界。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Answer a sensitive question carefully.",
+          "zh": "谨慎回答敏感问题。"
+        },
+        "line": "I can speak to the business logic, but I would not want to reduce it to one person's decision.",
+        "why": {
+          "en": "You answer without personalizing a complex system.",
+          "zh": "你回答了问题，但没有把复杂系统归因到一个人身上。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Avoid hype while staying forward-looking.",
+          "zh": "避免 hype，同时保持前瞻。"
+        },
+        "line": "The opportunity is real, but the operating constraints are just as real.",
+        "why": {
+          "en": "The sentence is balanced and mature: opportunity and constraints both count.",
+          "zh": "这句话平衡且成熟：机会和约束都重要。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Keep disagreement conversational.",
+          "zh": "让不同意见仍然像对话。"
+        },
+        "line": "I see the point, but I would draw the line in a slightly different place.",
+        "why": {
+          "en": "You disagree by relocating the boundary, not attacking the person.",
+          "zh": "你通过重新划边界来表达不同意，而不是攻击对方。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Start with a scope-setting answer.",
+        "zh": "用设定范围开始回答。"
+      },
+      "line": "Let me answer that in two parts: what I have seen directly, and what I think is the broader pattern.",
+      "why": {
+        "en": "You separate evidence from interpretation before giving an opinion.",
+        "zh": "你先拆开证据和解释，再发表观点。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Turn complexity into a clean distinction.",
+        "zh": "把复杂性变成清晰区分。"
+      },
+      "line": "The distinction I would make is between the story people tell about it and the operating reality underneath it.",
+      "why": {
+        "en": "This is a smart conversation move: perception versus reality.",
+        "zh": "这是很聪明的对话动作：外界叙事 vs 底层现实。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Sound wise, not performative.",
+        "zh": "显得有智慧，而不是表演观点。"
+      },
+      "line": "The answer is less dramatic than the headline, but probably more important.",
+      "why": {
+        "en": "It signals that you value substance over spectacle.",
+        "zh": "它传达你重视实质，而不是戏剧性。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Give a balanced forward view.",
+        "zh": "给出平衡的未来判断。"
+      },
+      "line": "I would be optimistic about the direction, but disciplined about the assumptions.",
+      "why": {
+        "en": "Optimistic plus disciplined is a strong professional identity.",
+        "zh": "Optimistic 加 disciplined，是很强的专业人格。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice turning a big interview question into a decent, smart answer.",
+      "zh": "练习把一个很大的访谈问题，回答得体、聪明、有分寸。"
+    },
+    "steps": [
+      {
+        "en": "What do people misunderstand about AI right now?",
+        "zh": "现在大家对 AI 最大的误解是什么？",
+        "focus": {
+          "en": "Challenge the premise gently, then separate hype from operating reality.",
+          "zh": "温和挑战前提，再区分 hype 和运营现实。"
+        },
+        "futureLesson": {
+          "lessonId": "celebrity-talks-ai-hype-reality",
+          "title": {
+            "en": "AI hype versus operating reality",
+            "zh": "AI 热潮与运营现实"
+          }
+        }
+      },
+      {
+        "en": "How should someone talk about a controversial company or founder?",
+        "zh": "如何谈论有争议的公司或创始人？",
+        "focus": {
+          "en": "Avoid reducing a system to one person; use business logic and institutional context.",
+          "zh": "避免把系统简化成一个人；使用商业逻辑和组织背景。"
+        },
+        "futureLesson": {
+          "lessonId": "celebrity-talks-sensitive-questions",
+          "title": {
+            "en": "Sensitive questions without overreach",
+            "zh": "不过界地回答敏感问题"
+          }
+        }
+      },
+      {
+        "en": "What makes a global business conversation sound mature?",
+        "zh": "什么让全球商业话题听起来成熟？",
+        "focus": {
+          "en": "Use scope, contrast, uncertainty, and a measured forward view.",
+          "zh": "使用范围、对比、不确定性和有分寸的未来判断。"
+        },
+        "futureLesson": {
+          "lessonId": "celebrity-talks-global-business-logic",
+          "title": {
+            "en": "Global business logic in conversation",
+            "zh": "对话中的全球商业逻辑"
+          }
+        }
+      }
+    ]
+  }
+}

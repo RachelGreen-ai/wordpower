@@ -1,5 +1,9 @@
 import { Link } from "react-router-dom";
-import { professionalEnglishLessons } from "../lib/professionalEnglish";
+import {
+  professionalEnglishLessons,
+  professionalEnglishLessonsByTrack,
+  type ProfessionalEnglishTrack,
+} from "../lib/professionalEnglish";
 
 const seriesArc = [
   {
@@ -25,6 +29,29 @@ const seriesArc = [
     zh: "领导",
     body: "Use language that is precise, calm, and accountable under ambiguity.",
     zhBody: "在不确定中使用精准、稳定、负责的语言。",
+  },
+];
+
+const tracks: Array<{
+  id: ProfessionalEnglishTrack;
+  title: string;
+  zh: string;
+  body: string;
+  zhBody: string;
+}> = [
+  {
+    id: "customer-facing-ai",
+    title: "Customer-facing AI",
+    zh: "面向客户的 AI 专业英语",
+    body: "FDE, consultant, and TAM-style language for diagnosing, designing, operating, and leading GenAI work.",
+    zhBody: "训练 FDE、consultant、TAM 在 GenAI 项目中的诊断、设计、运营和领导力表达。",
+  },
+  {
+    id: "celebrity-talks",
+    title: "Celebrity Talks",
+    zh: "名人访谈表达拆解",
+    body: "Study interview flow, phrases, vocabulary, logic, and the conversational moves behind smart public answers.",
+    zhBody: "拆访谈 flow、phrase、vocab、logic，以及聪明回答背后的对话动作。",
   },
 ];
 
@@ -73,39 +100,74 @@ export function ProfessionalEnglishHome() {
         </div>
       </section>
 
+      <section className="mb-12">
+        <h2 className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-5">
+          Sub-columns · 子栏目
+        </h2>
+        <div className="grid md:grid-cols-2 gap-4">
+          {tracks.map((track) => (
+            <a
+              key={track.id}
+              href={`#${track.id}`}
+              className="block rounded-xl border border-accent/30 bg-paper-warm p-5 hover:border-accent hover:bg-accent/10 transition-colors"
+            >
+              <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold">
+                {professionalEnglishLessonsByTrack[track.id].length} lessons
+              </div>
+              <h2 className="mt-2 font-serif text-3xl font-bold">{track.title}</h2>
+              <div className="text-zh text-lg text-ink-muted mt-1">{track.zh}</div>
+              <p className="mt-3 text-sm leading-relaxed text-ink-muted">
+                {track.body}
+                <span className="text-zh ml-1.5">{track.zhBody}</span>
+              </p>
+            </a>
+          ))}
+        </div>
+      </section>
+
       <section>
         <h2 className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-5">
           Lessons · 课程 ({professionalEnglishLessons.length})
         </h2>
-        <div className="space-y-4">
-          {professionalEnglishLessons.map((lesson) => (
-            <Link
-              key={lesson.lessonId}
-              to={`/professional-english/${lesson.lessonId}`}
-              className="block rounded-xl border border-ink/10 bg-white px-6 py-5 hover:border-accent hover:shadow-sm transition-all"
-            >
-              <div className="text-[11px] uppercase tracking-[0.2em] text-ink-soft font-semibold mb-2">
-                {lesson.audience}
+        <div className="space-y-10">
+          {tracks.map((track) => (
+            <div key={track.id} id={track.id} className="scroll-mt-6">
+              <div className="flex items-baseline justify-between gap-3 mb-4 border-b border-ink/10 pb-2">
+                <h3 className="font-serif text-3xl font-bold">{track.title}</h3>
+                <span className="text-zh text-sm text-ink-muted">{track.zh}</span>
               </div>
-              <h3 className="font-serif text-2xl md:text-3xl font-bold leading-snug">
-                {lesson.title.en}
-              </h3>
-              <div className="text-zh text-lg mt-1">{lesson.title.zh}</div>
-              <p className="mt-3 text-ink-muted leading-relaxed">
-                {lesson.subtitle.en}
-                <span className="text-zh ml-2">{lesson.subtitle.zh}</span>
-              </p>
-              <div className="mt-4 flex flex-wrap gap-2">
-                {lesson.tags.map((tag) => (
-                  <span
-                    key={tag}
-                    className="inline-flex rounded-full border border-accent/30 bg-accent/10 px-3 py-1 text-xs font-semibold text-ink-muted"
+              <div className="space-y-4">
+                {professionalEnglishLessonsByTrack[track.id].map((lesson) => (
+                  <Link
+                    key={lesson.lessonId}
+                    to={`/professional-english/${lesson.lessonId}`}
+                    className="block rounded-xl border border-ink/10 bg-white px-6 py-5 hover:border-accent hover:shadow-sm transition-all"
                   >
-                    {tag}
-                  </span>
+                    <div className="text-[11px] uppercase tracking-[0.2em] text-ink-soft font-semibold mb-2">
+                      {lesson.audience}
+                    </div>
+                    <h4 className="font-serif text-2xl md:text-3xl font-bold leading-snug">
+                      {lesson.title.en}
+                    </h4>
+                    <div className="text-zh text-lg mt-1">{lesson.title.zh}</div>
+                    <p className="mt-3 text-ink-muted leading-relaxed">
+                      {lesson.subtitle.en}
+                      <span className="text-zh ml-2">{lesson.subtitle.zh}</span>
+                    </p>
+                    <div className="mt-4 flex flex-wrap gap-2">
+                      {lesson.tags.map((tag) => (
+                        <span
+                          key={tag}
+                          className="inline-flex rounded-full border border-accent/30 bg-accent/10 px-3 py-1 text-xs font-semibold text-ink-muted"
+                        >
+                          {tag}
+                        </span>
+                      ))}
+                    </div>
+                  </Link>
                 ))}
               </div>
-            </Link>
+            </div>
           ))}
         </div>
       </section>

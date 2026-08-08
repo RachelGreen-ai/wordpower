@@ -29,8 +29,34 @@ export interface DrillStep {
   };
 }
 
+export type ProfessionalEnglishTrack = "customer-facing-ai" | "celebrity-talks";
+
+export interface TalkSource {
+  type: "YouTube" | "Podcast" | "Interview" | "Talk";
+  title: string;
+  speaker?: string;
+  host?: string;
+  channel?: string;
+  url: string;
+  timestamp?: string;
+  note?: BilingualText;
+}
+
+export interface TalkAnalysis {
+  flow: BilingualText[];
+  phraseBank: LeadershipLine[];
+  vocabulary: Array<{
+    word: string;
+    meaning: BilingualText;
+    use: BilingualText;
+  }>;
+  logicMoves: LeadershipLine[];
+  conversationLessons: BilingualText[];
+}
+
 export interface ProfessionalEnglishLesson {
   lessonId: string;
+  track?: ProfessionalEnglishTrack;
   series: BilingualText;
   title: BilingualText;
   subtitle: BilingualText;
@@ -42,6 +68,8 @@ export interface ProfessionalEnglishLesson {
     reliableResponse: string;
   };
   principle: BilingualText;
+  source?: TalkSource;
+  talkAnalysis?: TalkAnalysis;
   languageMove?: LanguageMove;
   lines: LeadershipLine[];
   drill: {
@@ -59,7 +87,21 @@ export const professionalEnglishLessons: ProfessionalEnglishLesson[] = Object.va
   lessonModules,
 )
   .map((mod) => mod.default)
-  .sort((a, b) => a.lessonId.localeCompare(b.lessonId));
+  .sort((a, b) => {
+    const ta = a.track ?? "customer-facing-ai";
+    const tb = b.track ?? "customer-facing-ai";
+    if (ta !== tb) return ta.localeCompare(tb);
+    return a.lessonId.localeCompare(b.lessonId);
+  });
+
+export const professionalEnglishLessonsByTrack = {
+  "customer-facing-ai": professionalEnglishLessons.filter(
+    (lesson) => (lesson.track ?? "customer-facing-ai") === "customer-facing-ai",
+  ),
+  "celebrity-talks": professionalEnglishLessons.filter(
+    (lesson) => lesson.track === "celebrity-talks",
+  ),
+} satisfies Record<ProfessionalEnglishTrack, ProfessionalEnglishLesson[]>;
 
 export const professionalEnglishLessonsById = new Map(
   professionalEnglishLessons.map((lesson) => [lesson.lessonId, lesson]),

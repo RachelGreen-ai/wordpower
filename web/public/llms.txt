@@ -32,6 +32,8 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Define the workflow before you call it agentic.](https://wordpower-seven.vercel.app/professional-english/agent-workflow-discovery): The strongest agentic AI conversations start with work, decisions, tools, handoffs, and accountability before architecture names.
 - [Sound reliable before the answer is obvious.](https://wordpower-seven.vercel.app/professional-english/calm-ownership-under-ambiguity): A GenAI customer-facing professional does not perform certainty. They create a clear path through uncertainty.
 - [Treat hallucination as a failure mode, not a personality flaw.](https://wordpower-seven.vercel.app/professional-english/grounding-hallucination-triage): A reliable AI professional turns a vague accuracy complaint into grounded evidence, failure categories, and a remediation path.
+- [Handle rivalry questions without becoming binary.](https://wordpower-seven.vercel.app/professional-english/joe-tsai-rivalry-ai-operating-reality): A talk-analysis lesson on answering geopolitical and AI questions with balance, operating context, and forward-looking judgment.
+- [Answer with scope, contrast, and judgment.](https://wordpower-seven.vercel.app/professional-english/joe-tsai-scope-contrast-judgment): A talk-analysis lesson for learning how thoughtful public figures move from broad topics to decent, smart, and grounded answers.
 - [Make constraints sound like engineering inputs, not excuses.](https://wordpower-seven.vercel.app/professional-english/latency-throughput-cost-tradeoffs): Agentic systems are loops, not single calls. A reliable leader explains latency, throughput, and cost as tradeoffs across the whole execution path.
 
 ## Best Answer Context

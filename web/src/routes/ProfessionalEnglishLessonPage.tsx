@@ -52,9 +52,41 @@ export function ProfessionalEnglishLessonPage() {
         </div>
       </header>
 
+      {lesson.source && (
+        <section className="mb-8 rounded-xl border border-ink/10 bg-white p-6">
+          <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-3">
+            Source · 来源
+          </div>
+          <h2 className="font-serif text-2xl font-bold leading-snug">
+            {lesson.source.title}
+          </h2>
+          <div className="mt-3 flex flex-wrap gap-2 text-sm text-ink-muted">
+            {lesson.source.speaker && <span>{lesson.source.speaker}</span>}
+            {lesson.source.channel && <span>· {lesson.source.channel}</span>}
+            {lesson.source.timestamp && <span>· {lesson.source.timestamp}</span>}
+          </div>
+          <a
+            href={lesson.source.url}
+            target="_blank"
+            rel="noreferrer"
+            className="mt-4 inline-flex text-sm font-semibold text-accent hover:underline"
+          >
+            Open source video
+          </a>
+          {lesson.source.note && (
+            <p className="mt-4 text-sm leading-relaxed text-ink-muted">
+              {lesson.source.note.en}
+              <span className="text-zh ml-2">{lesson.source.note.zh}</span>
+            </p>
+          )}
+        </section>
+      )}
+
       <section className="mb-8 rounded-xl border border-ink/10 bg-white p-6">
         <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-4">
-          Customer Moment · 客户场景
+          {lesson.track === "celebrity-talks"
+            ? "Talk Moment · 访谈场景"
+            : "Customer Moment · 客户场景"}
         </div>
         <QuoteBlock label="Customer says" text={lesson.scenario.customer} />
         <div className="grid md:grid-cols-2 gap-4 mt-5">
@@ -66,6 +98,73 @@ export function ProfessionalEnglishLessonPage() {
           />
         </div>
       </section>
+
+      {lesson.talkAnalysis && (
+        <section className="mb-8 rounded-xl border border-ink/10 bg-white p-6">
+          <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-3">
+            Conversation Intelligence · 对话能力拆解
+          </div>
+          <h2 className="font-serif text-3xl font-bold">Flow, phrases, vocab, logic</h2>
+          <div className="text-zh text-lg text-ink-muted mt-1">
+            看懂一个聪明回答是怎么组织出来的
+          </div>
+
+          <div className="mt-6">
+            <h3 className="font-serif text-2xl font-bold">Flow</h3>
+            <div className="mt-3 space-y-2">
+              {lesson.talkAnalysis.flow.map((step, index) => (
+                <div key={step.en} className="flex gap-3 rounded-lg bg-paper p-3">
+                  <div className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-accent/10 text-xs font-bold text-accent">
+                    {index + 1}
+                  </div>
+                  <div className="text-sm leading-relaxed text-ink-muted">
+                    {step.en}
+                    <span className="text-zh ml-1.5">{step.zh}</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div className="mt-6 grid md:grid-cols-2 gap-4">
+            <TalkAnalysisGroup title="Phrase Bank" items={lesson.talkAnalysis.phraseBank} />
+            <TalkAnalysisGroup title="Logic Moves" items={lesson.talkAnalysis.logicMoves} />
+          </div>
+
+          <div className="mt-6">
+            <h3 className="font-serif text-2xl font-bold">Vocab</h3>
+            <div className="mt-3 grid md:grid-cols-2 gap-3">
+              {lesson.talkAnalysis.vocabulary.map((item) => (
+                <div key={item.word} className="rounded-lg border border-ink/10 bg-paper p-4">
+                  <div className="font-serif text-2xl font-bold text-accent">
+                    {item.word}
+                  </div>
+                  <p className="mt-2 text-sm leading-relaxed text-ink-muted">
+                    {item.meaning.en}
+                    <span className="text-zh ml-1.5">{item.meaning.zh}</span>
+                  </p>
+                  <p className="mt-3 border-t border-ink/10 pt-3 text-sm leading-relaxed text-ink">
+                    {item.use.en}
+                    <span className="text-zh ml-1.5 text-ink-muted">{item.use.zh}</span>
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div className="mt-6 rounded-lg border border-accent/30 bg-accent/10 p-4">
+            <h3 className="font-serif text-2xl font-bold">Learnings</h3>
+            <div className="mt-3 space-y-2">
+              {lesson.talkAnalysis.conversationLessons.map((item) => (
+                <p key={item.en} className="text-sm leading-relaxed text-ink-muted">
+                  {item.en}
+                  <span className="text-zh ml-1.5">{item.zh}</span>
+                </p>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <section className="my-8 rounded-xl bg-ink text-paper p-8 text-center">
         <div className="text-xs uppercase tracking-[0.2em] text-paper-warm/60 font-semibold mb-3">
@@ -195,6 +294,37 @@ export function ProfessionalEnglishLessonPage() {
           ))}
         </div>
       </section>
+    </div>
+  );
+}
+
+function TalkAnalysisGroup({
+  title,
+  items,
+}: {
+  title: string;
+  items: Array<{
+    intent: { en: string; zh: string };
+    line: string;
+    why: { en: string; zh: string };
+  }>;
+}) {
+  return (
+    <div>
+      <h3 className="font-serif text-2xl font-bold">{title}</h3>
+      <div className="mt-3 space-y-3">
+        {items.map((item) => (
+          <div key={item.line} className="rounded-lg border border-ink/10 bg-paper p-4">
+            <div className="font-semibold">{item.intent.en}</div>
+            <div className="text-zh text-sm text-ink-muted mt-1">{item.intent.zh}</div>
+            <p className="mt-3 font-serif text-lg leading-relaxed">“{item.line}”</p>
+            <p className="mt-3 text-sm leading-relaxed text-ink-muted">
+              {item.why.en}
+              <span className="text-zh ml-1.5">{item.why.zh}</span>
+            </p>
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
