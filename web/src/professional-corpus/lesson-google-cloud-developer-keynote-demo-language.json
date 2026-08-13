@@ -1,0 +1,330 @@
+{
+  "lessonId": "google-cloud-developer-keynote-demo-language",
+  "track": "customer-facing-ai",
+  "series": {
+    "en": "Google Cloud Talks: Developer Storytelling",
+    "zh": "Google Cloud 演讲：开发者叙事"
+  },
+  "title": {
+    "en": "Make a technical demo prove a decision.",
+    "zh": "让技术 demo 证明一个决策。"
+  },
+  "subtitle": {
+    "en": "A developer-keynote lesson on narrating demos so the audience understands the problem, the constraint, the design choice, and the operational payoff.",
+    "zh": "一节 developer keynote 表达课：让观众听懂问题、约束、设计选择和运营收益。"
+  },
+  "audience": "Developer advocate · Solution engineer · Technical founder",
+  "tags": ["Google Cloud", "Developer Keynote", "Demo", "Agentic AI", "Technical Storytelling"],
+  "source": {
+    "type": "YouTube",
+    "title": "Google Cloud Next '26 Developer Keynote",
+    "speaker": "Google Cloud developer keynote speakers",
+    "channel": "Google Cloud",
+    "url": "https://www.youtube.com/watch?v=A01DQ8_xy7Q",
+    "note": {
+      "en": "Selected as a current developer-keynote video within the last year. The lesson focuses on demo narration patterns, not transcript reproduction.",
+      "zh": "选自最近一年 developer keynote 视频。本课聚焦 demo 叙事模式，不复刻逐字稿。"
+    }
+  },
+  "scenario": {
+    "customer": "A developer team has a working demo, but the audience cannot tell what decision the demo is supposed to support.",
+    "weakResponse": "Let me show you the agent running. It calls tools, gets data, and returns an answer.",
+    "reliableResponse": "Before I run the demo, here is the decision it is meant to prove: can we coordinate multiple services while preserving context, control, and a clear recovery path?"
+  },
+  "principle": {
+    "en": "A demo is strongest when it answers a decision question.",
+    "zh": "当 demo 回答一个决策问题时，它最有力量。"
+  },
+  "talkAnalysis": {
+    "flow": [
+      {
+        "en": "Name the decision before showing the screen.",
+        "zh": "展示屏幕前，先说清这个 demo 要支持什么决策。"
+      },
+      {
+        "en": "Define the constraint that makes the demo meaningful.",
+        "zh": "定义让 demo 有意义的约束条件。"
+      },
+      {
+        "en": "Show the smallest workflow that proves the architecture.",
+        "zh": "展示能证明架构的最小工作流。"
+      },
+      {
+        "en": "Narrate transitions: where context moves, where tools are called, where control is preserved.",
+        "zh": "讲清转换点：上下文在哪里移动、工具在哪里调用、控制在哪里保留。"
+      },
+      {
+        "en": "End with what the demo changes about the rollout plan.",
+        "zh": "最后说明 demo 如何改变上线计划。"
+      }
+    ],
+    "phraseBank": [
+      {
+        "intent": {
+          "en": "Set up the demo.",
+          "zh": "设置 demo 语境。"
+        },
+        "line": "The point of this demo is not the happy path; it is how the system behaves when the workflow crosses boundaries.",
+        "why": {
+          "en": "It makes the audience watch for architecture, not spectacle.",
+          "zh": "让观众关注架构，而不是表演效果。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain a design choice.",
+          "zh": "解释设计选择。"
+        },
+        "line": "We chose this pattern because it keeps the orchestration visible and the tool access bounded.",
+        "why": {
+          "en": "It ties implementation choice to operational control.",
+          "zh": "把实现选择连接到运营控制。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Translate demo output into business meaning.",
+          "zh": "把 demo 输出翻译成业务含义。"
+        },
+        "line": "What this output tells us is that the workflow can preserve context without giving every component unlimited authority.",
+        "why": {
+          "en": "It turns a technical result into a governance insight.",
+          "zh": "把技术结果转成治理洞察。"
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "happy path",
+        "meaning": {
+          "en": "The ideal scenario where everything works as expected.",
+          "zh": "一切按预期运行的理想路径。"
+        },
+        "use": {
+          "en": "A serious demo should show more than the happy path.",
+          "zh": "严肃 demo 不应该只展示 happy path。"
+        }
+      },
+      {
+        "word": "orchestration",
+        "meaning": {
+          "en": "The coordination of steps, tools, services, or agents in a workflow.",
+          "zh": "对工作流中的步骤、工具、服务或 agents 进行协调。"
+        },
+        "use": {
+          "en": "Orchestration matters when several components need to act in the right order.",
+          "zh": "当多个组件需要按正确顺序行动时，orchestration 很重要。"
+        }
+      },
+      {
+        "word": "recovery path",
+        "meaning": {
+          "en": "The planned way to recover when something fails or becomes uncertain.",
+          "zh": "当事情失败或变得不确定时的恢复路径。"
+        },
+        "use": {
+          "en": "Without a recovery path, a demo does not prove production readiness.",
+          "zh": "没有 recovery path，demo 不能证明生产准备度。"
+        }
+      },
+      {
+        "word": "constraint",
+        "meaning": {
+          "en": "A limit or condition that shapes a design decision.",
+          "zh": "影响设计决策的限制或条件。"
+        },
+        "use": {
+          "en": "Constraints make technical choices easier to evaluate.",
+          "zh": "约束让技术选择更容易评估。"
+        }
+      }
+    ],
+    "logicMoves": [
+      {
+        "intent": {
+          "en": "Turn a demo into a decision test.",
+          "zh": "把 demo 变成决策测试。"
+        },
+        "line": "This demo is useful only if it helps us decide whether the architecture is ready for a bounded pilot.",
+        "why": {
+          "en": "It gives the demo a concrete decision endpoint.",
+          "zh": "给 demo 一个具体决策终点。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain failure handling.",
+          "zh": "解释失败处理。"
+        },
+        "line": "The important part is not that the system never gets uncertain; it is that uncertainty triggers a visible recovery path.",
+        "why": {
+          "en": "It sounds production-minded and realistic.",
+          "zh": "听起来现实，也有生产思维。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Close with rollout logic.",
+          "zh": "用上线逻辑收尾。"
+        },
+        "line": "If this holds under the next set of constraints, then we have a reasonable case for expanding the pilot.",
+        "why": {
+          "en": "It connects evidence to a measured next step.",
+          "zh": "把证据连接到有分寸的下一步。"
+        }
+      }
+    ],
+    "conversationLessons": [
+      {
+        "en": "Great demo narration tells the audience what to notice before the action happens.",
+        "zh": "好的 demo 叙事会在动作发生前告诉观众应该看什么。"
+      },
+      {
+        "en": "A developer keynote should make technical constraints feel like strategic choices.",
+        "zh": "Developer keynote 应该把技术约束讲成战略选择。"
+      },
+      {
+        "en": "For AI demos, the recovery path is often more persuasive than the happy path.",
+        "zh": "对 AI demo 来说，recovery path 往往比 happy path 更有说服力。"
+      }
+    ]
+  },
+  "languageMove": {
+    "title": {
+      "en": "Tell people what the demo proves.",
+      "zh": "告诉观众 demo 证明什么。"
+    },
+    "anchor": {
+      "phrase": "the decision it is meant to prove",
+      "quote": "Before I run the demo, here is the decision it is meant to prove."
+    },
+    "concept": {
+      "en": "A demo without a decision frame becomes entertainment. A demo with a decision frame becomes evidence.",
+      "zh": "没有决策框架的 demo 是表演；有决策框架的 demo 才是证据。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Introduce a technical walkthrough.",
+          "zh": "介绍技术 walkthrough。"
+        },
+        "line": "I will walk through the workflow in three points: where context enters, where decisions happen, and where control is enforced.",
+        "why": {
+          "en": "It gives listeners a map before the details arrive.",
+          "zh": "在细节到来之前，先给听众一张地图。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Clarify the value of a constraint.",
+          "zh": "澄清约束的价值。"
+        },
+        "line": "The constraint is intentional; it keeps the system narrow enough for us to evaluate honestly.",
+        "why": {
+          "en": "It frames limitation as disciplined design.",
+          "zh": "把限制讲成有纪律的设计。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Translate technical success.",
+          "zh": "翻译技术成功。"
+        },
+        "line": "The technical success here is not the answer itself, but the fact that we can trace how the answer was produced.",
+        "why": {
+          "en": "It teaches the audience to value traceability.",
+          "zh": "教观众重视可追踪性。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Frame the demo.",
+        "zh": "给 demo 设定框架。"
+      },
+      "line": "This demo is designed to answer one question: can the workflow stay useful while keeping control visible?",
+      "why": {
+        "en": "It gives the audience a sharp evaluation criterion.",
+        "zh": "给观众一个清晰评估标准。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Narrate context movement.",
+        "zh": "讲清上下文移动。"
+      },
+      "line": "At this point, the important thing to notice is how the context moves forward without exposing every underlying system.",
+      "why": {
+        "en": "It focuses attention on architecture.",
+        "zh": "把注意力放到架构上。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Explain tool control.",
+        "zh": "解释工具控制。"
+      },
+      "line": "The agent can request a tool, but the permission boundary determines what action it can actually take.",
+      "why": {
+        "en": "It separates intent from authority.",
+        "zh": "区分意图和权限。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Show production thinking.",
+        "zh": "展示生产思维。"
+      },
+      "line": "For production, I care as much about what happens when the model is uncertain as what happens when it is right.",
+      "why": {
+        "en": "It signals maturity around AI reliability.",
+        "zh": "展示对 AI 可靠性的成熟理解。"
+      }
+    },
+    {
+      "intent": {
+        "en": "End with next step.",
+        "zh": "用下一步收尾。"
+      },
+      "line": "The next step is not a broader launch; it is a harder test under more realistic constraints.",
+      "why": {
+        "en": "It keeps momentum without rushing scale.",
+        "zh": "保持推进，但不急于规模化。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice narrating a technical demo with decision value.",
+      "zh": "练习用决策价值来讲 technical demo。"
+    },
+    "steps": [
+      {
+        "en": "You are about to show an AI workflow demo.",
+        "zh": "你准备展示一个 AI workflow demo。",
+        "focus": {
+          "en": "Name the decision the demo is meant to support.",
+          "zh": "说清 demo 要支持的决策。"
+        }
+      },
+      {
+        "en": "The demo succeeds on the happy path.",
+        "zh": "Demo 在 happy path 上成功。",
+        "focus": {
+          "en": "Explain why that is not enough for production confidence.",
+          "zh": "解释为什么这还不足以建立生产信心。"
+        }
+      },
+      {
+        "en": "The audience asks whether you are ready to scale.",
+        "zh": "观众问是否可以规模化。",
+        "focus": {
+          "en": "Use a harder-test-before-launch response.",
+          "zh": "使用上线前需要更难测试的回答。"
+        }
+      }
+    ]
+  }
+}

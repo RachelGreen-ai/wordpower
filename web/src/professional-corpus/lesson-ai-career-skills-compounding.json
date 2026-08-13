@@ -1,0 +1,330 @@
+{
+  "lessonId": "ai-career-skills-compounding",
+  "track": "learning-career",
+  "series": {
+    "en": "Learning & Career: AI-era Growth",
+    "zh": "学习与职业：AI 时代成长"
+  },
+  "title": {
+    "en": "Learn AI skills as career compounding, not a crash course.",
+    "zh": "把 AI 技能当作职业复利，而不是速成课。"
+  },
+  "subtitle": {
+    "en": "A career-video lesson on explaining learning plans, job readiness, and skill transfer with calm professional English.",
+    "zh": "一节职业视频表达课：用稳定专业英语讲学习计划、求职准备和技能迁移。"
+  },
+  "audience": "Career changer · Early-career professional · AI learner",
+  "tags": ["Career", "Learning", "AI Skills", "Google Career Certificates", "Professional English"],
+  "source": {
+    "type": "YouTube",
+    "title": "How to use AI for your job search | Google Career Certificates",
+    "speaker": "Google Career Certificates",
+    "channel": "Grow with Google / Google Career Certificates",
+    "url": "https://www.youtube.com/watch?v=Iw_G_j1o6fQ",
+    "note": {
+      "en": "Selected from recent Grow with Google learning and career-search topics. This lesson distills the recurring career theme: build durable skills, show evidence, and narrate transferable experience.",
+      "zh": "选自最近 Grow with Google 学习与求职主题。本课提炼反复出现的职业主线：建立长期技能、展示证据、讲清可迁移经验。"
+    }
+  },
+  "scenario": {
+    "customer": "A learner says they want to move into AI quickly but feels overwhelmed by tools, certificates, portfolio projects, and job descriptions.",
+    "weakResponse": "You should take an AI course, learn prompt engineering, and apply to AI jobs.",
+    "reliableResponse": "I would treat this as a skills-compounding plan. Pick one job direction, map the skills behind it, build small proof projects, and use each project to show how your existing experience transfers into AI-enabled work."
+  },
+  "principle": {
+    "en": "Career change becomes credible when learning produces evidence.",
+    "zh": "当学习产出证据时，职业转型才可信。"
+  },
+  "talkAnalysis": {
+    "flow": [
+      {
+        "en": "Start with a target role instead of a vague desire to learn AI.",
+        "zh": "先确定目标岗位，而不是泛泛地想学 AI。"
+      },
+      {
+        "en": "Translate the role into skill clusters: tools, judgment, communication, and domain knowledge.",
+        "zh": "把岗位翻译成技能群：工具、判断、沟通和领域知识。"
+      },
+      {
+        "en": "Build proof through small projects that resemble real work.",
+        "zh": "通过接近真实工作的项目建立证据。"
+      },
+      {
+        "en": "Narrate transferable experience with examples, not adjectives.",
+        "zh": "用例子讲可迁移经验，而不是用形容词自夸。"
+      },
+      {
+        "en": "Iterate: learn, build, publish, ask for feedback, revise.",
+        "zh": "循环迭代：学习、构建、发布、寻求反馈、修改。"
+      }
+    ],
+    "phraseBank": [
+      {
+        "intent": {
+          "en": "Describe a focused learning plan.",
+          "zh": "描述聚焦的学习计划。"
+        },
+        "line": "I am not trying to learn AI in general; I am building the skills required for this specific role.",
+        "why": {
+          "en": "It makes the learner sound intentional and job-aware.",
+          "zh": "让学习者显得有方向，也理解岗位。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Connect coursework to evidence.",
+          "zh": "把课程和证据连接起来。"
+        },
+        "line": "The certificate helped me structure the learning; the project shows how I can apply it.",
+        "why": {
+          "en": "It avoids treating credentials as the whole story.",
+          "zh": "避免把证书当成全部故事。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain transferable skills.",
+          "zh": "解释可迁移技能。"
+        },
+        "line": "My previous role trained me to understand messy user needs, which is directly relevant to AI product work.",
+        "why": {
+          "en": "It converts old experience into future value.",
+          "zh": "把旧经验转换成未来价值。"
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "career compounding",
+        "meaning": {
+          "en": "The way small learning investments build value over time.",
+          "zh": "小的学习投入随时间累积成职业价值。"
+        },
+        "use": {
+          "en": "Career compounding is slower than hype, but more durable.",
+          "zh": "Career compounding 比 hype 慢，但更持久。"
+        }
+      },
+      {
+        "word": "proof project",
+        "meaning": {
+          "en": "A small project that demonstrates a skill in a practical context.",
+          "zh": "在实际语境中展示技能的小项目。"
+        },
+        "use": {
+          "en": "A proof project gives an interviewer something concrete to evaluate.",
+          "zh": "Proof project 给面试官一个具体可评估的东西。"
+        }
+      },
+      {
+        "word": "transferable",
+        "meaning": {
+          "en": "Useful in a new role or context, even if learned elsewhere.",
+          "zh": "即使从别处学来，也能用于新岗位或新语境。"
+        },
+        "use": {
+          "en": "Transferable skills become powerful when you explain the connection.",
+          "zh": "当你讲清连接时，可迁移技能才有力量。"
+        }
+      },
+      {
+        "word": "job-ready",
+        "meaning": {
+          "en": "Prepared to perform the practical work a role requires.",
+          "zh": "准备好完成岗位所需的实际工作。"
+        },
+        "use": {
+          "en": "Job-ready does not mean perfect; it means able to contribute and keep learning.",
+          "zh": "Job-ready 不是完美，而是能贡献并继续学习。"
+        }
+      }
+    ],
+    "logicMoves": [
+      {
+        "intent": {
+          "en": "Turn anxiety into sequence.",
+          "zh": "把焦虑转成顺序。"
+        },
+        "line": "I would not try to learn every tool at once. I would choose a role, identify the skill gaps, and build evidence one project at a time.",
+        "why": {
+          "en": "It gives overwhelmed learners a calm structure.",
+          "zh": "给焦虑的学习者一个稳定结构。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Make learning visible.",
+          "zh": "让学习变得可见。"
+        },
+        "line": "The learning matters more when it leaves a trail: notes, demos, decisions, and revisions.",
+        "why": {
+          "en": "It turns private study into public evidence.",
+          "zh": "把私下学习变成公开证据。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Avoid certificate-only positioning.",
+          "zh": "避免只靠证书定位。"
+        },
+        "line": "The credential can open the conversation, but the project has to carry the credibility.",
+        "why": {
+          "en": "It keeps credentials useful without overvaluing them.",
+          "zh": "保留证书价值，但不过度依赖。"
+        }
+      }
+    ],
+    "conversationLessons": [
+      {
+        "en": "Career videos often sound useful when they turn vague motivation into visible next steps.",
+        "zh": "职业视频有用的地方，是把模糊动力变成可见下一步。"
+      },
+      {
+        "en": "The best learning narrative is not I studied hard. It is I learned, applied, measured, and revised.",
+        "zh": "最好的学习叙事不是“我很努力”，而是“我学习、应用、衡量、修改”。"
+      },
+      {
+        "en": "For AI careers, communication is part of the skill, not decoration around the skill.",
+        "zh": "对 AI 职业来说，沟通就是技能的一部分，不是技能外面的装饰。"
+      }
+    ]
+  },
+  "languageMove": {
+    "title": {
+      "en": "Narrate evidence, not ambition.",
+      "zh": "讲证据，不只讲野心。"
+    },
+    "anchor": {
+      "phrase": "the project shows how I can apply it",
+      "quote": "The certificate structures the learning; the project proves the application."
+    },
+    "concept": {
+      "en": "Career English becomes stronger when every claim is attached to a piece of evidence.",
+      "zh": "职业英语最有力的时候，是每个主张都绑定一个证据。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Explain a portfolio project.",
+          "zh": "解释作品集项目。"
+        },
+        "line": "I built this project to practice the exact workflow I would be expected to support in the role.",
+        "why": {
+          "en": "It connects the project directly to job readiness.",
+          "zh": "把项目直接连接到岗位准备度。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Describe learning progress.",
+          "zh": "描述学习进展。"
+        },
+        "line": "I am still early, but I can show how my judgment improved between version one and version two.",
+        "why": {
+          "en": "It is honest and still evidence-based.",
+          "zh": "诚实，同时仍然基于证据。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Position prior experience.",
+          "zh": "定位过去经验。"
+        },
+        "line": "My background is not a detour; it gives me domain context that helps me ask better AI questions.",
+        "why": {
+          "en": "It turns a nontraditional path into an advantage.",
+          "zh": "把非传统路径转成优势。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "State a career direction.",
+        "zh": "说明职业方向。"
+      },
+      "line": "I am focusing on AI-enabled product work, so I am learning the tools, workflows, and communication patterns that role requires.",
+      "why": {
+        "en": "It is specific enough to sound serious.",
+        "zh": "足够具体，因此显得认真。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Explain a course without overclaiming.",
+        "zh": "讲课程但不过度夸大。"
+      },
+      "line": "The course gave me structure, but I used the project to test whether I could apply the ideas in a realistic setting.",
+      "why": {
+        "en": "It separates learning input from applied output.",
+        "zh": "区分了学习输入和应用输出。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Show growth mindset maturely.",
+        "zh": "成熟表达成长心态。"
+      },
+      "line": "I am not presenting myself as finished; I am showing that I can learn, apply feedback, and improve the work.",
+      "why": {
+        "en": "It sounds humble without sounding weak.",
+        "zh": "谦逊但不弱。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Connect past role to AI work.",
+        "zh": "把过去岗位连接到 AI 工作。"
+      },
+      "line": "The transferable part of my experience is understanding user problems before choosing a technical solution.",
+      "why": {
+        "en": "It makes non-AI experience relevant to AI product judgment.",
+        "zh": "让非 AI 经验变得和 AI 产品判断相关。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Close a career story.",
+        "zh": "收尾职业故事。"
+      },
+      "line": "My next step is to keep turning learning into visible work that hiring teams can evaluate.",
+      "why": {
+        "en": "It ends with a concrete, accountable plan.",
+        "zh": "用具体负责的计划收尾。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice explaining your AI learning plan in a career conversation.",
+      "zh": "练习在职业对话中解释你的 AI 学习计划。"
+    },
+    "steps": [
+      {
+        "en": "Someone asks why you are learning AI now.",
+        "zh": "有人问你为什么现在学 AI。",
+        "focus": {
+          "en": "Tie learning to a role, not a trend.",
+          "zh": "把学习绑定到岗位，而不是趋势。"
+        }
+      },
+      {
+        "en": "An interviewer asks what your certificate proves.",
+        "zh": "面试官问你的证书证明了什么。",
+        "focus": {
+          "en": "Separate structure from application.",
+          "zh": "区分学习结构和实际应用。"
+        }
+      },
+      {
+        "en": "You need to explain a nontraditional background.",
+        "zh": "你需要解释非传统背景。",
+        "focus": {
+          "en": "Turn prior experience into transferable judgment.",
+          "zh": "把过去经验转成可迁移判断力。"
+        }
+      }
+    ]
+  }
+}

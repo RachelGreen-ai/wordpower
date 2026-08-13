@@ -53,6 +53,13 @@ const tracks: Array<{
     body: "Study interview flow, phrases, vocabulary, logic, and the conversational moves behind smart public answers.",
     zhBody: "拆访谈 flow、phrase、vocab、logic，以及聪明回答背后的对话动作。",
   },
+  {
+    id: "learning-career",
+    title: "Learning & Career",
+    zh: "AI 时代学习与职业表达",
+    body: "Turn recent learning, job-search, and career videos into practical professional English drills.",
+    zhBody: "把最新学习、求职和职业视频转成可练习的专业英语表达。",
+  },
 ];
 
 export function ProfessionalEnglishHome() {
@@ -104,7 +111,7 @@ export function ProfessionalEnglishHome() {
         <h2 className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-5">
           Sub-columns · 子栏目
         </h2>
-        <div className="grid md:grid-cols-2 gap-4">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
           {tracks.map((track) => (
             <a
               key={track.id}

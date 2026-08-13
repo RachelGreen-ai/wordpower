@@ -86,7 +86,9 @@ export function ProfessionalEnglishLessonPage() {
         <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-4">
           {lesson.track === "celebrity-talks"
             ? "Talk Moment · 访谈场景"
-            : "Customer Moment · 客户场景"}
+            : lesson.track === "learning-career"
+              ? "Learning Moment · 学习场景"
+              : "Customer Moment · 客户场景"}
         </div>
         <QuoteBlock label="Customer says" text={lesson.scenario.customer} />
         <div className="grid md:grid-cols-2 gap-4 mt-5">

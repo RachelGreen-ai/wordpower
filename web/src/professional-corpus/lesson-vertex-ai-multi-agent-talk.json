@@ -1,0 +1,330 @@
+{
+  "lessonId": "vertex-ai-multi-agent-talk",
+  "track": "customer-facing-ai",
+  "series": {
+    "en": "Google Cloud Talks: Agentic Systems",
+    "zh": "Google Cloud 演讲：智能体系统"
+  },
+  "title": {
+    "en": "Design agent teams, not one super-agent.",
+    "zh": "设计智能体团队，而不是一个超级智能体。"
+  },
+  "subtitle": {
+    "en": "A technical-talk lesson on explaining multi-agent architecture through roles, handoffs, protocols, and responsibility boundaries.",
+    "zh": "一节技术演讲表达课：用角色、交接、协议和责任边界解释 multi-agent 架构。"
+  },
+  "audience": "AI engineer · Solution architect · Product-facing engineer",
+  "tags": ["Google Cloud", "Vertex AI", "Agents", "Multi-agent", "Technical English"],
+  "source": {
+    "type": "YouTube",
+    "title": "Gemini Enterprise Agent Platform: Adding memory to AI agents",
+    "speaker": "Google Cloud Tech",
+    "channel": "Google Cloud Tech",
+    "url": "https://www.youtube.com/watch?v=5m9ppmJuJHk",
+    "note": {
+      "en": "Selected as a recent Google Cloud agentic AI talk/blog topic. The lesson turns the public architecture framing into customer-facing explanation drills.",
+      "zh": "选自最近 Google Cloud agentic AI 公开技术主题。本课把公开架构 framing 转成面向客户的解释训练。"
+    }
+  },
+  "scenario": {
+    "customer": "The customer wants one autonomous agent to research, plan, execute, approve, and update systems across several departments.",
+    "weakResponse": "We can build a very powerful agent with tools, memory, planning, and access to your systems.",
+    "reliableResponse": "I would separate that into an agent team. Each agent should have a clear role, a bounded toolset, an escalation path, and a protocol for handing work to the next agent or a human reviewer."
+  },
+  "principle": {
+    "en": "Multi-agent design is responsibility design.",
+    "zh": "Multi-agent 设计，本质上是责任设计。"
+  },
+  "talkAnalysis": {
+    "flow": [
+      {
+        "en": "Start with why one large agent becomes hard to evaluate, govern, and debug.",
+        "zh": "先解释为什么一个大 agent 很难评估、治理和调试。"
+      },
+      {
+        "en": "Introduce agent roles as professional responsibilities, not personalities.",
+        "zh": "把 agent role 讲成专业职责，而不是人格设定。"
+      },
+      {
+        "en": "Explain handoffs as the architecture of collaboration.",
+        "zh": "把 handoff 讲成协作架构。"
+      },
+      {
+        "en": "Use protocol language to make cross-agent communication sound controlled.",
+        "zh": "用 protocol 语言让跨 agent 沟通听起来可控。"
+      },
+      {
+        "en": "Close with production controls: observability, permissions, evaluation, and human escalation.",
+        "zh": "用生产控制收尾：可观测性、权限、评估和人工升级。"
+      }
+    ],
+    "phraseBank": [
+      {
+        "intent": {
+          "en": "Slow down a broad agent request.",
+          "zh": "专业放慢过宽的 agent 需求。"
+        },
+        "line": "Before we make one agent more autonomous, I would split the work into accountable roles.",
+        "why": {
+          "en": "It accepts the ambition while changing the design lens.",
+          "zh": "它接住野心，同时改变设计视角。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain handoffs clearly.",
+          "zh": "清楚解释交接。"
+        },
+        "line": "The handoff is where we preserve context, transfer responsibility, and decide whether a human needs to step in.",
+        "why": {
+          "en": "This makes handoff sound like a serious system boundary.",
+          "zh": "这让 handoff 听起来像严肃的系统边界。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Make protocol language accessible.",
+          "zh": "把 protocol 讲得易懂。"
+        },
+        "line": "A shared protocol prevents every agent from inventing its own way to ask for help.",
+        "why": {
+          "en": "It explains a technical standard through a human collaboration analogy.",
+          "zh": "它用人类协作类比解释技术标准。"
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "handoff",
+        "meaning": {
+          "en": "The transfer of work, context, and responsibility from one actor to another.",
+          "zh": "把工作、上下文和责任从一个执行者转给另一个。"
+        },
+        "use": {
+          "en": "A weak handoff causes context loss; a strong handoff preserves accountability.",
+          "zh": "弱 handoff 会丢上下文；强 handoff 会保留责任。"
+        }
+      },
+      {
+        "word": "bounded toolset",
+        "meaning": {
+          "en": "A limited set of tools an agent is allowed to use.",
+          "zh": "agent 被允许使用的一组有限工具。"
+        },
+        "use": {
+          "en": "A bounded toolset makes the agent easier to reason about.",
+          "zh": "Bounded toolset 让 agent 更容易被理解和治理。"
+        }
+      },
+      {
+        "word": "protocol",
+        "meaning": {
+          "en": "A shared rule or format for communication between systems.",
+          "zh": "系统之间沟通的一套共享规则或格式。"
+        },
+        "use": {
+          "en": "Protocols matter when different agents need to collaborate reliably.",
+          "zh": "当不同 agent 需要可靠协作时，protocol 很重要。"
+        }
+      },
+      {
+        "word": "observability",
+        "meaning": {
+          "en": "The ability to inspect what happened inside a system and why.",
+          "zh": "查看系统内部发生了什么以及为什么发生的能力。"
+        },
+        "use": {
+          "en": "Without observability, multi-agent behavior becomes hard to trust.",
+          "zh": "没有 observability，multi-agent 行为就难以被信任。"
+        }
+      }
+    ],
+    "logicMoves": [
+      {
+        "intent": {
+          "en": "Turn autonomy into scope.",
+          "zh": "把自主性转成范围问题。"
+        },
+        "line": "The question is not how autonomous the agent can be, but where autonomy is bounded enough to be trusted.",
+        "why": {
+          "en": "It reframes autonomy as a controlled design decision.",
+          "zh": "把自主性重构成受控设计决策。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain why teams beat super-agents.",
+          "zh": "解释为什么团队胜过超级 agent。"
+        },
+        "line": "A team of agents lets us separate expertise, permissions, and failure modes.",
+        "why": {
+          "en": "It gives a practical reason for architectural decomposition.",
+          "zh": "给架构拆分一个实际理由。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Make debugging part of design.",
+          "zh": "把调试纳入设计。"
+        },
+        "line": "If we cannot tell which agent made which decision, the system is already too opaque.",
+        "why": {
+          "en": "It makes traceability a design requirement.",
+          "zh": "它把可追踪性变成设计要求。"
+        }
+      }
+    ],
+    "conversationLessons": [
+      {
+        "en": "A good technical talk makes architecture sound like disciplined collaboration.",
+        "zh": "好的技术演讲会把架构讲成有纪律的协作。"
+      },
+      {
+        "en": "Agent roles should reduce ambiguity, not decorate a demo.",
+        "zh": "Agent role 应该减少模糊性，而不是装饰 demo。"
+      },
+      {
+        "en": "When explaining multi-agent systems, always connect capability to evaluation and ownership.",
+        "zh": "解释 multi-agent 时，一定要把能力连接到评估和责任归属。"
+      }
+    ]
+  },
+  "languageMove": {
+    "title": {
+      "en": "Use boundaries to sound trustworthy.",
+      "zh": "用边界感建立可信度。"
+    },
+    "anchor": {
+      "phrase": "bounded enough to be trusted",
+      "quote": "Autonomy should be bounded enough to be trusted."
+    },
+    "concept": {
+      "en": "The word bounded is powerful in AI conversations because it says you understand ambition and risk at the same time.",
+      "zh": "Bounded 在 AI 对话里很有力量，因为它同时表达野心和风险意识。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Define an agent role.",
+          "zh": "定义 agent 角色。"
+        },
+        "line": "This agent should own recommendation, not approval.",
+        "why": {
+          "en": "It draws a crisp responsibility boundary.",
+          "zh": "它画出清晰责任边界。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Make permissions explicit.",
+          "zh": "明确权限。"
+        },
+        "line": "We can give the agent read access first, then expand write access only after the evals are stable.",
+        "why": {
+          "en": "It turns risk into a staged rollout plan.",
+          "zh": "它把风险转成分阶段上线计划。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain escalation.",
+          "zh": "解释升级机制。"
+        },
+        "line": "When confidence drops or policy risk rises, the system should escalate rather than improvise.",
+        "why": {
+          "en": "It gives the system a mature failure behavior.",
+          "zh": "它给系统一个成熟的失败行为。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Push back on a super-agent design.",
+        "zh": "反对超级 agent 设计。"
+      },
+      "line": "A super-agent may look simpler in a diagram, but it is harder to evaluate, govern, and debug in production.",
+      "why": {
+        "en": "It compares demo simplicity with production complexity.",
+        "zh": "它对比了 demo 简洁和生产复杂度。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Define agent collaboration.",
+        "zh": "定义 agent 协作。"
+      },
+      "line": "I would design the agents around roles, handoffs, and permissions, not around how impressive the demo feels.",
+      "why": {
+        "en": "It pulls the design back to responsible architecture.",
+        "zh": "它把设计拉回负责任的架构。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Explain protocol value.",
+        "zh": "解释协议价值。"
+      },
+      "line": "The protocol gives agents a shared language for requesting help, passing context, and reporting outcomes.",
+      "why": {
+        "en": "It makes an abstract protocol feel concrete.",
+        "zh": "它让抽象协议变得具体。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Keep humans in the architecture.",
+        "zh": "把人保留在架构里。"
+      },
+      "line": "Human review should sit at the points where judgment, policy, or irreversible action enters the workflow.",
+      "why": {
+        "en": "It defines human-in-the-loop by decision type.",
+        "zh": "它按决策类型定义 human-in-the-loop。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Close with production maturity.",
+        "zh": "用生产成熟度收尾。"
+      },
+      "line": "The goal is not just agent collaboration; it is collaboration we can observe, evaluate, and improve.",
+      "why": {
+        "en": "It turns collaboration into a managed production loop.",
+        "zh": "它把协作变成可管理的生产循环。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice explaining a multi-agent architecture to a customer.",
+      "zh": "练习向客户解释 multi-agent 架构。"
+    },
+    "steps": [
+      {
+        "en": "The customer asks for one agent to do everything.",
+        "zh": "客户要求一个 agent 做所有事。",
+        "focus": {
+          "en": "Use evaluate, govern, and debug to explain the risk.",
+          "zh": "用 evaluate、govern、debug 解释风险。"
+        }
+      },
+      {
+        "en": "The team wants agents to call sensitive tools.",
+        "zh": "团队希望 agents 调用敏感工具。",
+        "focus": {
+          "en": "Explain tool access as a bounded permission decision.",
+          "zh": "把工具访问解释成有边界的权限决策。"
+        }
+      },
+      {
+        "en": "A stakeholder asks why protocols matter.",
+        "zh": "利益相关方问为什么 protocol 重要。",
+        "focus": {
+          "en": "Explain protocols through reliable collaboration.",
+          "zh": "用可靠协作解释 protocol。"
+        }
+      }
+    ]
+  }
+}

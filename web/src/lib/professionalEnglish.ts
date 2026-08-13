@@ -29,7 +29,10 @@ export interface DrillStep {
   };
 }
 
-export type ProfessionalEnglishTrack = "customer-facing-ai" | "celebrity-talks";
+export type ProfessionalEnglishTrack =
+  | "customer-facing-ai"
+  | "celebrity-talks"
+  | "learning-career";
 
 export interface TalkSource {
   type: "YouTube" | "Podcast" | "Interview" | "Talk";
@@ -100,6 +103,9 @@ export const professionalEnglishLessonsByTrack = {
   ),
   "celebrity-talks": professionalEnglishLessons.filter(
     (lesson) => lesson.track === "celebrity-talks",
+  ),
+  "learning-career": professionalEnglishLessons.filter(
+    (lesson) => lesson.track === "learning-career",
   ),
 } satisfies Record<ProfessionalEnglishTrack, ProfessionalEnglishLesson[]>;
 
