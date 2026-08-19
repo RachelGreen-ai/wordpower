@@ -30,6 +30,11 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 ## Professional English Lessons
 
 - [Define the workflow before you call it agentic.](https://wordpower-seven.vercel.app/professional-english/agent-workflow-discovery): The strongest agentic AI conversations start with work, decisions, tools, handoffs, and accountability before architecture names.
+- [From AI tool to operating layer.](https://wordpower-seven.vercel.app/professional-english/agentic-future-01-operating-layer): Learn to turn an AI product discussion into a boardroom-level operating model conversation.
+- [Agents are a new user persona.](https://wordpower-seven.vercel.app/professional-english/agentic-future-02-agents-as-user-persona): Learn to explain why agentic data platforms need context, permissions, retrieval, and action, not just more data.
+- [Open standards reduce the integration tax.](https://wordpower-seven.vercel.app/professional-english/agentic-future-03-open-standards-integration-tax): Learn to explain A2A-style interoperability and model-agnostic strategy in plain, executive-ready English.
+- [A demo proves possibility. Production proves trust.](https://wordpower-seven.vercel.app/professional-english/agentic-future-04-production-trust): Learn to move an agentic AI conversation from prototype excitement to production discipline.
+- [Become the embedded AI builder.](https://wordpower-seven.vercel.app/professional-english/agentic-future-05-embedded-ai-builder): Learn to position yourself for AI-era work: technical architecture, customer reality, workflow judgment, and production outcomes.
 - [Learn AI skills as career compounding, not a crash course.](https://wordpower-seven.vercel.app/professional-english/ai-career-skills-compounding): A career-video lesson on explaining learning plans, job readiness, and skill transfer with calm professional English.
 - [Sound reliable before the answer is obvious.](https://wordpower-seven.vercel.app/professional-english/calm-ownership-under-ambiguity): A GenAI customer-facing professional does not perform certainty. They create a clear path through uncertainty.
 - [Make a technical demo prove a decision.](https://wordpower-seven.vercel.app/professional-english/google-cloud-developer-keynote-demo-language): A developer-keynote lesson on narrating demos so the audience understands the problem, the constraint, the design choice, and the operational payoff.
@@ -46,4 +51,4 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - Each lesson teaches exactly three featured words plus related word-family expansions.
 - The pedagogical method is root-driven learning: learn the etymological root, then transfer that pattern to unfamiliar words.
 - Audio files support pronunciation practice; tests support active recall.
-- The Professional English sub-column teaches customer-facing GenAI communication patterns for FDE, consulting, and technical account roles.
+- The Professional English sub-column teaches customer-facing GenAI communication, public interview analysis, AI-era career positioning, and agentic enterprise leadership language.

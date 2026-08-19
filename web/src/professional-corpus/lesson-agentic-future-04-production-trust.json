@@ -1,0 +1,330 @@
+{
+  "lessonId": "agentic-future-04-production-trust",
+  "track": "agentic-future",
+  "series": {
+    "en": "Google Cloud Agentic Future: English for the Operating Layer",
+    "zh": "Google Cloud Agentic Future：面向 AI 运行层的专业英语人格"
+  },
+  "title": {
+    "en": "A demo proves possibility. Production proves trust.",
+    "zh": "Demo 证明可能性，生产证明信任。"
+  },
+  "subtitle": {
+    "en": "Learn to move an agentic AI conversation from prototype excitement to production discipline.",
+    "zh": "学习把 agentic AI 对话从原型兴奋感推进到生产级纪律。"
+  },
+  "audience": "AI engineer · Solution architect · Technical PM · FDE",
+  "tags": ["Agentic Future", "Production AI", "Agents", "Evaluation", "Reliability English"],
+  "source": {
+    "type": "Talk",
+    "title": "A dev's guide to production-ready AI agents",
+    "speaker": "Kanchana Patlolla and Anant Nawalgaria",
+    "channel": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/a-devs-guide-to-production-ready-ai-agents",
+    "note": {
+      "en": "This lesson turns Google Cloud's production-ready agent guidance into professional English for shipping, risk, and trust conversations.",
+      "zh": "本课把 Google Cloud production-ready agent 指南转成关于上线、风险和信任的专业英语。"
+    }
+  },
+  "scenario": {
+    "customer": "A team has an impressive agent demo and wants to launch it broadly next month.",
+    "weakResponse": "The demo works well, so we should connect it to the production tools and start rolling it out.",
+    "reliableResponse": "The demo proves possibility, but production has a higher bar. Before broad rollout, we need evals, logging, scoped tool access, recovery paths, human escalation, and staged exposure to real users."
+  },
+  "principle": {
+    "en": "Trust is built by reducing the blast radius before expanding autonomy.",
+    "zh": "信任来自在扩大自主性之前先缩小爆炸半径。"
+  },
+  "talkAnalysis": {
+    "flow": [
+      {
+        "en": "Acknowledge the demo without letting it become the decision.",
+        "zh": "承认 demo 成功，但不让它直接变成上线决策。"
+      },
+      {
+        "en": "State the production gap: agents are probabilistic, tool-using systems.",
+        "zh": "说明生产差距：agents 是概率性、会用工具的系统。"
+      },
+      {
+        "en": "Name the controls: evals, logs, permissions, memory, security, and recovery.",
+        "zh": "点出控制项：评估、日志、权限、记忆、安全和恢复。"
+      },
+      {
+        "en": "Frame rollout as staged exposure, not instant scale.",
+        "zh": "把上线讲成分阶段暴露，而不是立刻规模化。"
+      },
+      {
+        "en": "Close with trust: production readiness means the system can fail safely and improve.",
+        "zh": "用信任收尾：生产准备度意味着系统能安全失败并改进。"
+      }
+    ],
+    "phraseBank": [
+      {
+        "intent": {
+          "en": "Separate demo from launch.",
+          "zh": "区分 demo 和上线。"
+        },
+        "line": "The prototype is working; now the question is how we ship it responsibly.",
+        "why": {
+          "en": "It keeps momentum while raising the standard.",
+          "zh": "保持推进，同时提高标准。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain staged rollout.",
+          "zh": "解释分阶段上线。"
+        },
+        "line": "We need to validate the behavior before we expand the blast radius.",
+        "why": {
+          "en": "Blast radius makes risk concrete.",
+          "zh": "Blast radius 让风险变具体。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Describe production confidence.",
+          "zh": "描述生产信心。"
+        },
+        "line": "I trust the system more when I can see how it behaves under uncertainty, not only when it is right.",
+        "why": {
+          "en": "It reframes trust around failure behavior.",
+          "zh": "把信任重构为失败行为。"
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "blast radius",
+        "meaning": {
+          "en": "The amount of damage or impact a failure can create.",
+          "zh": "一次失败可能造成的损害或影响范围。"
+        },
+        "use": {
+          "en": "A staged rollout reduces the blast radius while the team learns.",
+          "zh": "分阶段上线能在团队学习时缩小 blast radius。"
+        }
+      },
+      {
+        "word": "staged exposure",
+        "meaning": {
+          "en": "A gradual rollout that exposes a system to real use in controlled stages.",
+          "zh": "以受控阶段逐步让系统接触真实使用。"
+        },
+        "use": {
+          "en": "Agents need staged exposure because their behavior changes with real context.",
+          "zh": "Agents 需要 staged exposure，因为真实上下文会改变行为。"
+        }
+      },
+      {
+        "word": "recovery path",
+        "meaning": {
+          "en": "The planned way to respond when a system becomes wrong, uncertain, or unsafe.",
+          "zh": "当系统出错、不确定或不安全时的预设应对路径。"
+        },
+        "use": {
+          "en": "A recovery path turns uncertainty into a managed condition.",
+          "zh": "Recovery path 把不确定变成可管理状态。"
+        }
+      },
+      {
+        "word": "evals",
+        "meaning": {
+          "en": "Evaluation tests used to measure model or agent behavior.",
+          "zh": "用于衡量模型或 agent 行为的评估测试。"
+        },
+        "use": {
+          "en": "Evals make agent quality visible before the rollout gets bigger.",
+          "zh": "Evals 在扩大上线前让 agent 质量可见。"
+        }
+      }
+    ],
+    "logicMoves": [
+      {
+        "intent": {
+          "en": "Accept progress, then raise maturity.",
+          "zh": "承认进展，再提高成熟度。"
+        },
+        "line": "The demo is a real milestone, but it answers a different question from production readiness.",
+        "why": {
+          "en": "It avoids sounding negative while changing the decision frame.",
+          "zh": "不显得消极，同时改变决策框架。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain nondeterminism.",
+          "zh": "解释非确定性。"
+        },
+        "line": "The patterns that work for deterministic software do not fully translate to agents that reason, retrieve, and act.",
+        "why": {
+          "en": "It makes a technical risk understandable.",
+          "zh": "让技术风险变得可理解。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Define trust operationally.",
+          "zh": "从运营角度定义信任。"
+        },
+        "line": "Trust means we can observe the behavior, constrain the actions, and recover when the system is uncertain.",
+        "why": {
+          "en": "It defines trust through controls.",
+          "zh": "通过控制项定义信任。"
+        }
+      }
+    ],
+    "conversationLessons": [
+      {
+        "en": "Production-minded English protects excitement from becoming recklessness.",
+        "zh": "Production-minded English 会防止兴奋变成鲁莽。"
+      },
+      {
+        "en": "The most mature agent conversations focus on uncertainty, permissions, and recovery.",
+        "zh": "最成熟的 agent 对话会关注不确定、权限和恢复。"
+      },
+      {
+        "en": "Trust is not a feeling; it is an operating property.",
+        "zh": "信任不是感觉，而是运营属性。"
+      }
+    ]
+  },
+  "languageMove": {
+    "title": {
+      "en": "Raise the bar without killing momentum.",
+      "zh": "提高标准，但不杀死推进感。"
+    },
+    "anchor": {
+      "phrase": "now the question is how we ship it responsibly",
+      "quote": "The prototype is working; now the question is how we ship it responsibly."
+    },
+    "concept": {
+      "en": "The best production language accepts progress and then clarifies the next, harder question.",
+      "zh": "最好的生产表达会承认进展，然后澄清下一个更难的问题。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Slow down launch pressure.",
+          "zh": "放慢上线压力。"
+        },
+        "line": "I am comfortable expanding the pilot after we understand where the agent fails and how we recover.",
+        "why": {
+          "en": "It gives a condition for progress instead of a flat no.",
+          "zh": "给推进设条件，而不是直接拒绝。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain tool risk.",
+          "zh": "解释工具风险。"
+        },
+        "line": "The moment the agent can take action, tool access becomes a production risk, not just a feature.",
+        "why": {
+          "en": "It marks the boundary between answering and acting.",
+          "zh": "标出回答和行动之间的边界。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Ask for evidence.",
+          "zh": "要求证据。"
+        },
+        "line": "Before we scale, I want evidence that the system behaves safely when the context is incomplete.",
+        "why": {
+          "en": "It makes safety concrete and testable.",
+          "zh": "让安全变得具体且可测试。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Separate proof of concept from production.",
+        "zh": "区分概念验证和生产。"
+      },
+      "line": "Proof of concept tells us the workflow can work; production readiness tells us whether it can be trusted repeatedly.",
+      "why": {
+        "en": "It gives two success criteria.",
+        "zh": "给出两个成功标准。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Explain staged autonomy.",
+        "zh": "解释分阶段自主性。"
+      },
+      "line": "Autonomy should expand only after the evals, permissions, and recovery paths are stable.",
+      "why": {
+        "en": "It ties autonomy to evidence.",
+        "zh": "把自主性绑定到证据。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Define observability.",
+        "zh": "定义可观测性。"
+      },
+      "line": "If we cannot see why the agent made a decision, we are not ready to give it more authority.",
+      "why": {
+        "en": "It connects observability to authority.",
+        "zh": "把可观测性连接到权限。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Explain safe failure.",
+        "zh": "解释安全失败。"
+      },
+      "line": "A mature system does not pretend uncertainty will disappear; it decides what happens when uncertainty appears.",
+      "why": {
+        "en": "It sounds realistic and controlled.",
+        "zh": "现实且可控。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Close with production discipline.",
+        "zh": "用生产纪律收尾。"
+      },
+      "line": "The goal is not to make the agent impressive once; it is to make the workflow trustworthy over time.",
+      "why": {
+        "en": "It shifts from demo appeal to sustained trust.",
+        "zh": "从 demo 吸引力转到持续信任。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice turning prototype excitement into production discipline.",
+      "zh": "练习把原型兴奋感转成生产级纪律。"
+    },
+    "steps": [
+      {
+        "en": "The demo works and leadership wants a broad launch.",
+        "zh": "Demo 成功，高层想大范围上线。",
+        "focus": {
+          "en": "Separate possibility from trust.",
+          "zh": "区分可能性和信任。"
+        }
+      },
+      {
+        "en": "The agent needs permission to update customer records.",
+        "zh": "Agent 需要权限更新客户记录。",
+        "focus": {
+          "en": "Explain tool access as production risk.",
+          "zh": "把工具访问解释为生产风险。"
+        }
+      },
+      {
+        "en": "The team says failures are rare.",
+        "zh": "团队说失败很少。",
+        "focus": {
+          "en": "Ask for recovery-path evidence.",
+          "zh": "要求 recovery path 证据。"
+        }
+      }
+    ]
+  }
+}

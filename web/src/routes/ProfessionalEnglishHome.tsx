@@ -60,6 +60,13 @@ const tracks: Array<{
     body: "Turn recent learning, job-search, and career videos into practical professional English drills.",
     zhBody: "把最新学习、求职和职业视频转成可练习的专业英语表达。",
   },
+  {
+    id: "agentic-future",
+    title: "Agentic Future",
+    zh: "面向 AI 运行层的英语人格",
+    body: "A layered Google Cloud-inspired series: future judgment, architecture, interoperability, production trust, and AI-era career identity.",
+    zhBody: "一组有层次的 Google Cloud 未来系列：未来判断、架构理解、开放协作、生产信任和 AI 时代职业人格。",
+  },
 ];
 
 export function ProfessionalEnglishHome() {
@@ -111,7 +118,7 @@ export function ProfessionalEnglishHome() {
         <h2 className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-5">
           Sub-columns · 子栏目
         </h2>
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="grid md:grid-cols-2 gap-4">
           {tracks.map((track) => (
             <a
               key={track.id}

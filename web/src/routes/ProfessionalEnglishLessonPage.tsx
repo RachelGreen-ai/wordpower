@@ -88,6 +88,8 @@ export function ProfessionalEnglishLessonPage() {
             ? "Talk Moment · 访谈场景"
             : lesson.track === "learning-career"
               ? "Learning Moment · 学习场景"
+              : lesson.track === "agentic-future"
+                ? "Strategy Moment · 战略场景"
               : "Customer Moment · 客户场景"}
         </div>
         <QuoteBlock label="Customer says" text={lesson.scenario.customer} />

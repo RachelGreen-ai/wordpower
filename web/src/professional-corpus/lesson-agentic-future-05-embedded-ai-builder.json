@@ -1,0 +1,330 @@
+{
+  "lessonId": "agentic-future-05-embedded-ai-builder",
+  "track": "agentic-future",
+  "series": {
+    "en": "Google Cloud Agentic Future: English for the Operating Layer",
+    "zh": "Google Cloud Agentic Future：面向 AI 运行层的专业英语人格"
+  },
+  "title": {
+    "en": "Become the embedded AI builder.",
+    "zh": "成为嵌入真实业务的 AI builder。"
+  },
+  "subtitle": {
+    "en": "Learn to position yourself for AI-era work: technical architecture, customer reality, workflow judgment, and production outcomes.",
+    "zh": "学习定位 AI 时代职业人格：技术架构、客户现实、工作流判断和生产结果。"
+  },
+  "audience": "Career changer · FDE candidate · AI consultant · Technical operator",
+  "tags": ["Agentic Future", "FDE", "Career", "Embedded Builder", "AI-era Professional English"],
+  "source": {
+    "type": "Interview",
+    "title": "Google Cloud invests in Forward Deployed Engineering and partner delivery for the agentic enterprise",
+    "speaker": "Google Cloud leaders and partner ecosystem coverage",
+    "channel": "Channel Dive / SiliconANGLE / Google Cloud Blog",
+    "url": "https://www.channeldive.com/news/google-cloud-forward-deployed-engineering-jobs/820176/",
+    "note": {
+      "en": "This lesson synthesizes public coverage of Google Cloud's FDE expansion and partner delivery model into career-positioning language.",
+      "zh": "本课综合 Google Cloud FDE 扩展和合作伙伴交付模型的公开报道，转成职业定位语言。"
+    }
+  },
+  "scenario": {
+    "customer": "A learner wants to work in AI but is not sure how to describe their value beyond saying they know models, prompting, or cloud tools.",
+    "weakResponse": "I know generative AI, I can use cloud tools, and I am interested in building agents for companies.",
+    "reliableResponse": "I would position myself as an embedded AI builder: someone who can understand the customer's workflow, translate business ambiguity into technical constraints, build with the right tools, and stay with the deployment until it produces a working outcome."
+  },
+  "principle": {
+    "en": "The AI-era professional is valuable when they can live between architecture and reality.",
+    "zh": "AI 时代的人才价值，在于能活在架构和现实之间。"
+  },
+  "talkAnalysis": {
+    "flow": [
+      {
+        "en": "Start with the career problem: many people can use AI, fewer can make it work inside a real organization.",
+        "zh": "先讲职业问题：很多人会用 AI，少数人能让它在真实组织里跑起来。"
+      },
+      {
+        "en": "Define the embedded builder: technical, customer-facing, workflow-aware, and outcome-driven.",
+        "zh": "定义 embedded builder：懂技术、面向客户、理解工作流、结果导向。"
+      },
+      {
+        "en": "Connect FDE-style work to agentic AI adoption.",
+        "zh": "把 FDE 式工作连接到 agentic AI 采用。"
+      },
+      {
+        "en": "Show the needed language: constraints, stakeholders, rollout, evidence, and trust.",
+        "zh": "展示所需语言：约束、利益相关方、上线、证据和信任。"
+      },
+      {
+        "en": "Close with identity: I do not just learn AI; I make AI adoptable.",
+        "zh": "用身份收尾：我不只是学习 AI，我让 AI 可被采用。"
+      }
+    ],
+    "phraseBank": [
+      {
+        "intent": {
+          "en": "State your career identity.",
+          "zh": "陈述职业身份。"
+        },
+        "line": "I sit where technical architecture meets messy customer reality.",
+        "why": {
+          "en": "It is specific, memorable, and high-status without sounding inflated.",
+          "zh": "具体、好记、有高级感，但不膨胀。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain your value.",
+          "zh": "解释你的价值。"
+        },
+        "line": "The value is not only building the agent; it is making the workflow adoptable.",
+        "why": {
+          "en": "It moves from technical output to customer outcome.",
+          "zh": "从技术产出转向客户结果。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Describe your range.",
+          "zh": "描述你的能力跨度。"
+        },
+        "line": "I can move between code, stakeholders, and deployment constraints.",
+        "why": {
+          "en": "It frames you as cross-functional without using generic adjectives.",
+          "zh": "不用泛泛形容词，也能展现跨职能能力。"
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "embedded builder",
+        "meaning": {
+          "en": "A technical person who works close to real users or customers to build usable outcomes.",
+          "zh": "贴近真实用户或客户、构建可用结果的技术人员。"
+        },
+        "use": {
+          "en": "An embedded builder does not build in isolation; they build inside the workflow.",
+          "zh": "Embedded builder 不孤立构建，而是在工作流里构建。"
+        }
+      },
+      {
+        "word": "customer reality",
+        "meaning": {
+          "en": "The messy constraints, politics, habits, systems, and risks inside a real customer environment.",
+          "zh": "真实客户环境里的混乱约束、关系、习惯、系统和风险。"
+        },
+        "use": {
+          "en": "Customer reality is where elegant AI ideas become hard and valuable.",
+          "zh": "Customer reality 是优雅 AI 想法变难、也变有价值的地方。"
+        }
+      },
+      {
+        "word": "adoptable",
+        "meaning": {
+          "en": "Practical enough for people or organizations to actually use.",
+          "zh": "足够实用，能被人或组织真正采用。"
+        },
+        "use": {
+          "en": "A technically impressive agent is not valuable until it is adoptable.",
+          "zh": "技术上令人印象深刻的 agent，只有可采用时才有价值。"
+        }
+      },
+      {
+        "word": "outcome-driven",
+        "meaning": {
+          "en": "Focused on measurable results rather than activity or effort.",
+          "zh": "关注可衡量结果，而不只是活动或努力。"
+        },
+        "use": {
+          "en": "Outcome-driven AI work starts with the business result, not the model feature.",
+          "zh": "Outcome-driven AI 工作从业务结果开始，而不是模型功能。"
+        }
+      }
+    ],
+    "logicMoves": [
+      {
+        "intent": {
+          "en": "Move from tool knowledge to identity.",
+          "zh": "从工具知识转到身份定位。"
+        },
+        "line": "Knowing the tools is useful, but the stronger career story is that I can turn tools into working outcomes inside real workflows.",
+        "why": {
+          "en": "It elevates the learner from user to operator.",
+          "zh": "把学习者从使用者提升为操作者。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain why communication matters.",
+          "zh": "解释为什么沟通重要。"
+        },
+        "line": "In agentic AI work, communication is not separate from engineering; it is how requirements, risk, and adoption become clear.",
+        "why": {
+          "en": "It makes English a core technical career skill.",
+          "zh": "把英语变成核心技术职业技能。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Describe your operating range.",
+          "zh": "描述你的操作范围。"
+        },
+        "line": "I am comfortable starting with ambiguity, turning it into constraints, and carrying the work through deployment.",
+        "why": {
+          "en": "It gives a complete career arc from ambiguity to production.",
+          "zh": "给出从模糊到生产的完整职业弧线。"
+        }
+      }
+    ],
+    "conversationLessons": [
+      {
+        "en": "The best AI career story is not I know AI. It is I can make AI adoptable.",
+        "zh": "最好的 AI 职业故事不是“我懂 AI”，而是“我能让 AI 可被采用”。"
+      },
+      {
+        "en": "English personality matters because agentic AI work happens across people, systems, and uncertainty.",
+        "zh": "英语人格重要，因为 agentic AI 工作发生在人、系统和不确定性之间。"
+      },
+      {
+        "en": "FDE-style language combines technical precision with customer empathy and delivery discipline.",
+        "zh": "FDE 式语言结合技术精确、客户理解和交付纪律。"
+      }
+    ]
+  },
+  "languageMove": {
+    "title": {
+      "en": "Position yourself as the bridge.",
+      "zh": "把自己定位成桥。"
+    },
+    "anchor": {
+      "phrase": "where technical architecture meets messy customer reality",
+      "quote": "I sit where technical architecture meets messy customer reality."
+    },
+    "concept": {
+      "en": "A strong AI-era career identity is not just a list of tools. It is a place where you create value.",
+      "zh": "强 AI 时代职业身份不是工具清单，而是你创造价值的位置。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Answer what you do.",
+          "zh": "回答你做什么。"
+        },
+        "line": "I help turn agentic AI from a promising demo into a workflow people can actually adopt.",
+        "why": {
+          "en": "It explains value in outcome language.",
+          "zh": "用结果语言解释价值。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain a nontraditional background.",
+          "zh": "解释非传统背景。"
+        },
+        "line": "My background helps me understand the human side of adoption, which is where many AI projects get stuck.",
+        "why": {
+          "en": "It turns background into advantage.",
+          "zh": "把背景转为优势。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Describe your learning path.",
+          "zh": "描述学习路径。"
+        },
+        "line": "I am building the technical skill and the customer language at the same time, because AI work needs both.",
+        "why": {
+          "en": "It makes language learning part of the professional identity.",
+          "zh": "把语言学习变成职业身份的一部分。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Introduce yourself in AI terms.",
+        "zh": "用 AI 时代语言介绍自己。"
+      },
+      "line": "I am developing as an embedded AI builder: technical enough to build, close enough to the customer to make the work adoptable.",
+      "why": {
+        "en": "It combines skill and proximity.",
+        "zh": "结合能力和贴近度。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Explain why you are valuable.",
+        "zh": "解释你为什么有价值。"
+      },
+      "line": "My value is in translating business ambiguity into technical constraints the team can actually build against.",
+      "why": {
+        "en": "It turns ambiguity into a professional strength.",
+        "zh": "把模糊性转成专业优势。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Connect architecture to delivery.",
+        "zh": "连接架构和交付。"
+      },
+      "line": "I do not want to stop at architecture diagrams; I want to understand what has to be true for the workflow to survive production.",
+      "why": {
+        "en": "It shows delivery seriousness.",
+        "zh": "展示交付严肃性。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Describe stakeholder range.",
+        "zh": "描述利益相关方跨度。"
+      },
+      "line": "I can speak with engineers about constraints and with business teams about outcomes.",
+      "why": {
+        "en": "It is simple cross-functional positioning.",
+        "zh": "简单有效的跨职能定位。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Close with identity.",
+        "zh": "用身份收尾。"
+      },
+      "line": "I am not just learning AI tools; I am learning how to make AI useful, trusted, and adopted.",
+      "why": {
+        "en": "It turns learning into a mature professional direction.",
+        "zh": "把学习变成成熟职业方向。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice positioning yourself as an embedded AI builder.",
+      "zh": "练习把自己定位为 embedded AI builder。"
+    },
+    "steps": [
+      {
+        "en": "Someone asks what kind of AI work you want to do.",
+        "zh": "有人问你想做什么 AI 工作。",
+        "focus": {
+          "en": "Use embedded builder language.",
+          "zh": "使用 embedded builder 表达。"
+        }
+      },
+      {
+        "en": "You need to explain why customer-facing English matters.",
+        "zh": "你需要解释为什么面向客户的英语重要。",
+        "focus": {
+          "en": "Connect communication to adoption.",
+          "zh": "把沟通连接到采用。"
+        }
+      },
+      {
+        "en": "An interviewer asks about your nontraditional background.",
+        "zh": "面试官问你的非传统背景。",
+        "focus": {
+          "en": "Turn prior experience into customer-reality advantage.",
+          "zh": "把过去经验转成客户现实优势。"
+        }
+      }
+    ]
+  }
+}

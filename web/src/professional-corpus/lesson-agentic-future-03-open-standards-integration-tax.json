@@ -1,0 +1,330 @@
+{
+  "lessonId": "agentic-future-03-open-standards-integration-tax",
+  "track": "agentic-future",
+  "series": {
+    "en": "Google Cloud Agentic Future: English for the Operating Layer",
+    "zh": "Google Cloud Agentic Future：面向 AI 运行层的专业英语人格"
+  },
+  "title": {
+    "en": "Open standards reduce the integration tax.",
+    "zh": "开放标准降低集成税。"
+  },
+  "subtitle": {
+    "en": "Learn to explain A2A-style interoperability and model-agnostic strategy in plain, executive-ready English.",
+    "zh": "学习用清楚的高管英语解释 A2A 式互操作性和 model-agnostic 策略。"
+  },
+  "audience": "Platform strategist · AI architect · Enterprise buyer-facing engineer",
+  "tags": ["Agentic Future", "A2A", "Interoperability", "Open Standards", "Platform Strategy"],
+  "source": {
+    "type": "Interview",
+    "title": "A2A moves to the Agentic AI Foundation",
+    "speaker": "Rao Surapaneni",
+    "channel": "Axios / Agentic AI Foundation",
+    "url": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards",
+    "note": {
+      "en": "This lesson uses the A2A standards discussion as a springboard for enterprise interoperability language.",
+      "zh": "本课以 A2A 标准讨论为跳板，训练企业互操作性表达。"
+    }
+  },
+  "scenario": {
+    "customer": "A CIO worries that adopting agents from multiple vendors will create custom integrations, lock-in, and unclear coordination across systems.",
+    "weakResponse": "Open standards are important because they let different agents talk to each other.",
+    "reliableResponse": "I would frame open standards as a way to reduce the integration tax. If agents can coordinate through shared protocols, the enterprise gets more leverage across vendors, models, tools, cost, and governance."
+  },
+  "principle": {
+    "en": "Interoperability is not a technical preference; it is an enterprise leverage strategy.",
+    "zh": "互操作性不是技术偏好，而是企业杠杆策略。"
+  },
+  "talkAnalysis": {
+    "flow": [
+      {
+        "en": "Start with the problem: every custom integration becomes long-term coordination cost.",
+        "zh": "先讲问题：每个自定义集成都变成长期协调成本。"
+      },
+      {
+        "en": "Explain the distinction: A2A coordinates agents; MCP connects tools and data.",
+        "zh": "解释区分：A2A 协调 agents；MCP 连接工具和数据。"
+      },
+      {
+        "en": "Translate standards into business leverage: lower switching cost, less lock-in, more provider choice.",
+        "zh": "把标准翻译成业务杠杆：更低切换成本、更少锁定、更多供应商选择。"
+      },
+      {
+        "en": "Connect interoperability to governance and observability.",
+        "zh": "把互操作性连接到治理和可观测性。"
+      },
+      {
+        "en": "Close with a modular future: the best enterprise agent stack will not be one closed system.",
+        "zh": "用模块化未来收尾：最好的企业 agent stack 不会是一个封闭系统。"
+      }
+    ],
+    "phraseBank": [
+      {
+        "intent": {
+          "en": "Make standards sound valuable.",
+          "zh": "让标准听起来有价值。"
+        },
+        "line": "Open standards reduce the integration tax.",
+        "why": {
+          "en": "Integration tax is concrete and business-friendly.",
+          "zh": "Integration tax 具体，也有商业感。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain coordination.",
+          "zh": "解释协调。"
+        },
+        "line": "The issue is not whether agents can act; it is whether agents from different systems can coordinate.",
+        "why": {
+          "en": "It shifts the question from capability to ecosystem.",
+          "zh": "把问题从能力转到生态。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain vendor neutrality.",
+          "zh": "解释供应商中立。"
+        },
+        "line": "Model-agnostic architecture is a business risk strategy, not just an engineering style.",
+        "why": {
+          "en": "It makes neutrality strategic instead of ideological.",
+          "zh": "让中立变成战略，而不是立场。"
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "interoperability",
+        "meaning": {
+          "en": "The ability of different systems to work together reliably.",
+          "zh": "不同系统可靠协同工作的能力。"
+        },
+        "use": {
+          "en": "Interoperability matters when agents come from different vendors and platforms.",
+          "zh": "当 agents 来自不同供应商和平台时，interoperability 很重要。"
+        }
+      },
+      {
+        "word": "integration tax",
+        "meaning": {
+          "en": "The hidden cost of connecting systems through custom work that must be maintained over time.",
+          "zh": "通过自定义方式连接系统后，长期维护所产生的隐藏成本。"
+        },
+        "use": {
+          "en": "Open standards can lower the integration tax for enterprise AI.",
+          "zh": "开放标准可以降低企业 AI 的 integration tax。"
+        }
+      },
+      {
+        "word": "model-agnostic",
+        "meaning": {
+          "en": "Designed to work with multiple models rather than depending on one provider.",
+          "zh": "设计上能适配多个模型，而不是依赖一个供应商。"
+        },
+        "use": {
+          "en": "A model-agnostic stack gives the enterprise more room to optimize.",
+          "zh": "Model-agnostic stack 给企业更多优化空间。"
+        }
+      },
+      {
+        "word": "lock-in",
+        "meaning": {
+          "en": "A situation where switching away from a vendor or architecture becomes difficult or expensive.",
+          "zh": "从某个供应商或架构切换出去变得困难或昂贵的状态。"
+        },
+        "use": {
+          "en": "Interoperability reduces lock-in by keeping coordination portable.",
+          "zh": "互操作性通过保持协调可迁移来减少 lock-in。"
+        }
+      }
+    ],
+    "logicMoves": [
+      {
+        "intent": {
+          "en": "Translate technical standards.",
+          "zh": "翻译技术标准。"
+        },
+        "line": "The business value of a protocol is that teams do not have to rebuild coordination from scratch every time.",
+        "why": {
+          "en": "It makes protocol value easy for non-engineers to understand.",
+          "zh": "让非工程师也能理解 protocol 价值。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain open without overpromising.",
+          "zh": "解释开放但不过度承诺。"
+        },
+        "line": "Open standards do not remove all complexity, but they reduce the amount of custom glue the enterprise has to own.",
+        "why": {
+          "en": "It is balanced and credible.",
+          "zh": "平衡且可信。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Connect interoperability to leverage.",
+          "zh": "把互操作性连接到杠杆。"
+        },
+        "line": "Interoperability gives the enterprise leverage across cost, latency, performance, and provider choice.",
+        "why": {
+          "en": "It turns a technical feature into a business portfolio argument.",
+          "zh": "把技术特性变成业务组合论证。"
+        }
+      }
+    ],
+    "conversationLessons": [
+      {
+        "en": "Open standards become interesting when you explain the cost they remove.",
+        "zh": "当你解释开放标准消除什么成本时，它才变得有趣。"
+      },
+      {
+        "en": "Vendor-neutral language sounds strongest when it is tied to risk management.",
+        "zh": "供应商中立表达最有力的时候，是它和风险管理绑定。"
+      },
+      {
+        "en": "Interoperability is a leadership topic because it shapes future options.",
+        "zh": "互操作性是领导力话题，因为它塑造未来选项。"
+      }
+    ]
+  },
+  "languageMove": {
+    "title": {
+      "en": "Translate standards into leverage.",
+      "zh": "把标准翻译成杠杆。"
+    },
+    "anchor": {
+      "phrase": "reduce the integration tax",
+      "quote": "Open standards reduce the integration tax."
+    },
+    "concept": {
+      "en": "A strong standards conversation explains the hidden cost of not having standards.",
+      "zh": "强标准叙事会解释没有标准的隐藏成本。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Explain A2A simply.",
+          "zh": "简单解释 A2A。"
+        },
+        "line": "A2A matters because agents need a shared way to request work, pass context, and report outcomes.",
+        "why": {
+          "en": "It explains the standard through work coordination.",
+          "zh": "用工作协调解释标准。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Address lock-in concerns.",
+          "zh": "回应锁定担忧。"
+        },
+        "line": "The more portable the coordination layer is, the less dependent we are on any single vendor's closed path.",
+        "why": {
+          "en": "It sounds strategic without attacking a vendor.",
+          "zh": "有战略感，但不攻击供应商。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Define modularity.",
+          "zh": "定义模块化。"
+        },
+        "line": "A modular agent stack lets us choose the best model, tool, and workflow pattern for each job.",
+        "why": {
+          "en": "It makes modularity practical.",
+          "zh": "让模块化变得实际。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Start with the cost problem.",
+        "zh": "从成本问题开始。"
+      },
+      "line": "Every custom connection solves today's problem but can become tomorrow's integration tax.",
+      "why": {
+        "en": "It gives the listener a memorable cost frame.",
+          "zh": "给听者一个好记的成本框架。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Explain model-agnostic design.",
+        "zh": "解释 model-agnostic 设计。"
+      },
+      "line": "Model-agnostic design keeps the enterprise from turning one technical choice into a long-term constraint.",
+      "why": {
+        "en": "It connects architecture to future freedom.",
+        "zh": "把架构连接到未来自由度。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Explain protocol value.",
+        "zh": "解释协议价值。"
+      },
+      "line": "The protocol gives different agents a shared contract for how work moves between them.",
+      "why": {
+        "en": "Shared contract is accessible and precise.",
+        "zh": "Shared contract 易懂且准确。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Balance openness with governance.",
+        "zh": "平衡开放和治理。"
+      },
+      "line": "Open coordination still needs clear identity, permissions, and auditability.",
+      "why": {
+        "en": "It avoids sounding careless about openness.",
+        "zh": "避免把开放讲得过于草率。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Close with strategic option value.",
+        "zh": "用战略选择价值收尾。"
+      },
+      "line": "The real value is optionality: the ability to change models, tools, and vendors without rebuilding the whole system.",
+      "why": {
+        "en": "It gives interoperability a clear business payoff.",
+        "zh": "给互操作性一个清楚的商业回报。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice explaining open standards to an enterprise buyer.",
+      "zh": "练习向企业买家解释开放标准。"
+    },
+    "steps": [
+      {
+        "en": "A CIO asks why A2A matters.",
+        "zh": "CIO 问为什么 A2A 重要。",
+        "focus": {
+          "en": "Explain agent coordination in plain English.",
+          "zh": "用清楚英语解释 agent 协调。"
+        }
+      },
+      {
+        "en": "Procurement worries about vendor lock-in.",
+        "zh": "采购担心供应商锁定。",
+        "focus": {
+          "en": "Use model-agnostic risk language.",
+          "zh": "使用 model-agnostic 风险表达。"
+        }
+      },
+      {
+        "en": "The team says custom integrations are fine.",
+        "zh": "团队说自定义集成也可以。",
+        "focus": {
+          "en": "Introduce the integration tax frame.",
+          "zh": "引入 integration tax 框架。"
+        }
+      }
+    ]
+  }
+}

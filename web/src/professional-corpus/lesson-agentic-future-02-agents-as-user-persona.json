@@ -1,0 +1,330 @@
+{
+  "lessonId": "agentic-future-02-agents-as-user-persona",
+  "track": "agentic-future",
+  "series": {
+    "en": "Google Cloud Agentic Future: English for the Operating Layer",
+    "zh": "Google Cloud Agentic Future：面向 AI 运行层的专业英语人格"
+  },
+  "title": {
+    "en": "Agents are a new user persona.",
+    "zh": "把 agents 当作新的用户角色。"
+  },
+  "subtitle": {
+    "en": "Learn to explain why agentic data platforms need context, permissions, retrieval, and action, not just more data.",
+    "zh": "学习解释为什么 agentic data platform 需要上下文、权限、检索和行动，而不只是更多数据。"
+  },
+  "audience": "Data leader · AI architect · Product-facing engineer",
+  "tags": ["Agentic Future", "Agentic Data Cloud", "Data Strategy", "Context", "Architecture English"],
+  "source": {
+    "type": "Interview",
+    "title": "Google reimagines data for an agentic data platform",
+    "speaker": "Yasmeen Ahmad",
+    "channel": "SiliconANGLE / theCUBE",
+    "url": "https://siliconangle.com/2026/04/28/google-reimagines-data-agentic-data-platform-googlecloudnext/",
+    "note": {
+      "en": "This lesson is inspired by public interview coverage and Google Cloud's Agentic Data Cloud framing.",
+      "zh": "本课灵感来自公开采访报道和 Google Cloud Agentic Data Cloud 叙事。"
+    }
+  },
+  "scenario": {
+    "customer": "A data team says their warehouse already has all the enterprise data, so they are not sure why agentic AI changes the platform requirements.",
+    "weakResponse": "Agents need access to the data warehouse so they can answer questions and perform actions.",
+    "reliableResponse": "The requirement changes because agents are a new user persona. They need more than access to tables; they need trusted context, scoped permissions, retrieval across formats, and a way to turn insight into governed action."
+  },
+  "principle": {
+    "en": "Agentic data strategy starts by asking who, or what, the platform is serving.",
+    "zh": "Agentic data strategy 要先问：平台服务的是谁，或者是什么。"
+  },
+  "talkAnalysis": {
+    "flow": [
+      {
+        "en": "Start with the old data persona: analysts, engineers, and applications.",
+        "zh": "先讲旧的数据角色：分析师、工程师和应用。"
+      },
+      {
+        "en": "Introduce the new persona: agents that retrieve, reason, act, and hand off.",
+        "zh": "引入新角色：会检索、推理、行动和交接的 agents。"
+      },
+      {
+        "en": "Show why raw data is not enough without business context.",
+        "zh": "说明为什么没有业务上下文，原始数据不够。"
+      },
+      {
+        "en": "Connect context to trust: permissions, lineage, meaning, and policy.",
+        "zh": "把上下文连接到信任：权限、血缘、含义和政策。"
+      },
+      {
+        "en": "Close with the human role: people move from manual analysis to orchestration and judgment.",
+        "zh": "以人的角色收尾：人从手动分析转向协调和判断。"
+      }
+    ],
+    "phraseBank": [
+      {
+        "intent": {
+          "en": "Name the platform shift.",
+          "zh": "命名平台变化。"
+        },
+        "line": "The design requirement changes when the user is no longer only a human analyst, but also an agent.",
+        "why": {
+          "en": "It gives the architecture argument a simple starting point.",
+          "zh": "给架构论证一个简单起点。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain why context matters.",
+          "zh": "解释为什么上下文重要。"
+        },
+        "line": "The missing layer is not more data; it is trusted business context.",
+        "why": {
+          "en": "It is concise, memorable, and strategic.",
+          "zh": "简洁、好记、有战略感。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Reposition humans.",
+          "zh": "重新定位人的角色。"
+        },
+        "line": "Humans move from being the doer to being the orchestrator.",
+        "why": {
+          "en": "It turns automation into a leadership story.",
+          "zh": "把自动化讲成领导力故事。"
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "user persona",
+        "meaning": {
+          "en": "A type of user the product or platform is designed to serve.",
+          "zh": "产品或平台设计时服务的一类用户。"
+        },
+        "use": {
+          "en": "Treating agents as a user persona changes platform requirements.",
+          "zh": "把 agents 当成 user persona 会改变平台需求。"
+        }
+      },
+      {
+        "word": "business context",
+        "meaning": {
+          "en": "The meanings, rules, relationships, and constraints that make data usable in a business.",
+          "zh": "让数据在业务中可用的含义、规则、关系和限制。"
+        },
+        "use": {
+          "en": "Business context tells the agent what the data means and how it may be used.",
+          "zh": "Business context 告诉 agent 数据是什么意思、可以如何使用。"
+        }
+      },
+      {
+        "word": "lineage",
+        "meaning": {
+          "en": "The record of where data came from and how it changed.",
+          "zh": "数据来自哪里以及如何变化的记录。"
+        },
+        "use": {
+          "en": "Lineage matters when an agent's answer needs to be trusted.",
+          "zh": "当 agent 的答案需要被信任时，lineage 很重要。"
+        }
+      },
+      {
+        "word": "system of action",
+        "meaning": {
+          "en": "A system that not only stores or analyzes data, but helps trigger governed work.",
+          "zh": "不只是存储或分析数据，而是帮助触发受治理行动的系统。"
+        },
+        "use": {
+          "en": "Agentic data turns a system of record into a system of action.",
+          "zh": "Agentic data 把记录系统变成行动系统。"
+        }
+      }
+    ],
+    "logicMoves": [
+      {
+        "intent": {
+          "en": "Connect persona to requirements.",
+          "zh": "把用户角色连接到需求。"
+        },
+        "line": "If the user is an agent, the platform has to expose meaning, permissions, and context, not just data.",
+        "why": {
+          "en": "It explains the design change through a clean cause-and-effect.",
+          "zh": "用清晰因果解释设计变化。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Avoid data volume thinking.",
+          "zh": "避免只看数据量。"
+        },
+        "line": "More data does not automatically create better agent behavior; better context does.",
+        "why": {
+          "en": "It challenges a common but weak assumption.",
+          "zh": "挑战常见但薄弱的假设。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain the human role.",
+          "zh": "解释人的角色。"
+        },
+        "line": "The human role becomes less about retrieving every answer and more about supervising the system of action.",
+        "why": {
+          "en": "It makes automation feel like role evolution, not replacement.",
+          "zh": "让自动化听起来像角色进化，而不是替代。"
+        }
+      }
+    ],
+    "conversationLessons": [
+      {
+        "en": "A strong architecture explanation often begins by redefining the user.",
+        "zh": "强架构解释常常从重新定义用户开始。"
+      },
+      {
+        "en": "Context is a leadership word when it explains why raw capability is not enough.",
+        "zh": "当 context 解释为什么原始能力不够时，它就是领导力词汇。"
+      },
+      {
+        "en": "The best data-platform language connects data, meaning, permission, and action.",
+        "zh": "最好的数据平台表达会连接数据、含义、权限和行动。"
+      }
+    ]
+  },
+  "languageMove": {
+    "title": {
+      "en": "Redefine the user.",
+      "zh": "重新定义用户。"
+    },
+    "anchor": {
+      "phrase": "agents are a new user persona",
+      "quote": "Agents are a new user persona, so the platform has to serve a different kind of work."
+    },
+    "concept": {
+      "en": "When a new user appears, requirements change. This is a clean way to make future architecture feel logical.",
+      "zh": "当新用户出现，需求就改变。这个表达能让未来架构显得有逻辑。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Explain why data access is not enough.",
+          "zh": "解释为什么数据访问不够。"
+        },
+        "line": "Access lets the agent see the data; context tells it what the data means.",
+        "why": {
+          "en": "It creates a sharp distinction between access and meaning.",
+          "zh": "清楚区分 access 和 meaning。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain permissions.",
+          "zh": "解释权限。"
+        },
+        "line": "An agent should not inherit unlimited authority just because it can retrieve useful information.",
+        "why": {
+          "en": "It separates knowledge from authority.",
+          "zh": "区分知识和权限。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Describe the human upgrade.",
+          "zh": "描述人的升级。"
+        },
+        "line": "The person becomes more valuable when they can orchestrate the system instead of manually chasing every answer.",
+        "why": {
+          "en": "It makes the career implication positive and concrete.",
+          "zh": "把职业含义讲得积极且具体。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Start the architecture argument.",
+        "zh": "开启架构论证。"
+      },
+      "line": "The platform was originally built for human users; agentic AI adds a new user with different needs.",
+      "why": {
+        "en": "It makes the shift understandable without jargon.",
+        "zh": "不用术语也能让变化变清楚。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Define trusted context.",
+        "zh": "定义可信上下文。"
+      },
+      "line": "Trusted context means the agent can understand what the data represents, where it came from, and what it is allowed to do with it.",
+      "why": {
+        "en": "It gives context a practical definition.",
+        "zh": "给 context 一个实用定义。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Explain why this is strategic.",
+        "zh": "解释为什么这有战略意义。"
+      },
+      "line": "The data platform becomes strategic when it can support both human judgment and agentic action.",
+      "why": {
+        "en": "It connects data strategy to enterprise AI.",
+        "zh": "连接数据战略和企业 AI。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Challenge data volume thinking.",
+        "zh": "挑战数据量思维。"
+      },
+      "line": "The bottleneck is not always data availability; sometimes it is whether the system understands the business meaning of the data.",
+      "why": {
+        "en": "It is a mature distinction.",
+        "zh": "这是成熟的区分。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Close with persona.",
+        "zh": "用人格定位收尾。"
+      },
+      "line": "The professional who understands this shift can speak to data, AI, governance, and workflow in the same conversation.",
+      "why": {
+        "en": "It links the architecture lesson to learner identity.",
+        "zh": "把架构课连接到学习者身份。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice explaining agents as a new user persona.",
+      "zh": "练习把 agents 解释为新的用户角色。"
+    },
+    "steps": [
+      {
+        "en": "A data leader says the warehouse already has all the data.",
+        "zh": "数据负责人说仓库已经有所有数据。",
+        "focus": {
+          "en": "Explain the gap between data and trusted context.",
+          "zh": "解释数据和可信上下文的差距。"
+        }
+      },
+      {
+        "en": "A team wants agents to query everything.",
+        "zh": "团队想让 agents 查询所有东西。",
+        "focus": {
+          "en": "Separate retrieval from permission.",
+          "zh": "区分检索和权限。"
+        }
+      },
+      {
+        "en": "A learner asks how this changes their career.",
+        "zh": "学习者问这如何改变职业。",
+        "focus": {
+          "en": "Describe the move from doer to orchestrator.",
+          "zh": "描述从 doer 到 orchestrator 的转变。"
+        }
+      }
+    ]
+  }
+}

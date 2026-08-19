@@ -1,0 +1,330 @@
+{
+  "lessonId": "agentic-future-01-operating-layer",
+  "track": "agentic-future",
+  "series": {
+    "en": "Google Cloud Agentic Future: English for the Operating Layer",
+    "zh": "Google Cloud Agentic Future：面向 AI 运行层的专业英语人格"
+  },
+  "title": {
+    "en": "From AI tool to operating layer.",
+    "zh": "从 AI 工具讲到运行层。"
+  },
+  "subtitle": {
+    "en": "Learn to turn an AI product discussion into a boardroom-level operating model conversation.",
+    "zh": "学习把 AI 产品讨论升级成高管能理解的运营模型对话。"
+  },
+  "audience": "AI consultant · Enterprise product leader · FDE",
+  "tags": ["Agentic Future", "Google Cloud", "Operating Layer", "Executive English", "AI Strategy"],
+  "source": {
+    "type": "YouTube",
+    "title": "Google Cloud Next '26 Opening Keynote",
+    "speaker": "Thomas Kurian",
+    "channel": "Google Cloud",
+    "url": "https://www.youtube.com/watch?v=11PBno-cJ1g",
+    "note": {
+      "en": "This lesson studies the keynote-style move from product announcements to enterprise operating architecture. It paraphrases public themes rather than importing transcript text.",
+      "zh": "本课学习 keynote 如何把产品发布讲成企业运行架构。内容提炼公开主题，不导入逐字稿。"
+    }
+  },
+  "scenario": {
+    "customer": "A leadership team asks whether agentic AI is just another productivity tool or a deeper shift in how the company should operate.",
+    "weakResponse": "It is a powerful AI tool that can help people automate work and use enterprise data.",
+    "reliableResponse": "I would not frame this as one more tool. The deeper shift is that AI is becoming an operating layer: it connects data, people, workflows, agents, and governance so work can become more coordinated and repeatable."
+  },
+  "principle": {
+    "en": "The future story is strongest when it connects capability to operating model.",
+    "zh": "最强的未来叙事，会把能力连接到运营模型。"
+  },
+  "talkAnalysis": {
+    "flow": [
+      {
+        "en": "Start with the old frame: AI as a tool or interface.",
+        "zh": "先指出旧框架：AI 是工具或界面。"
+      },
+      {
+        "en": "Name the new frame: AI as an operating layer for coordinated work.",
+        "zh": "命名新框架：AI 是协调工作的运行层。"
+      },
+      {
+        "en": "List the connected parts: data, workflows, apps, agents, people, security, and governance.",
+        "zh": "列出被连接的部分：数据、工作流、应用、智能体、人、安全和治理。"
+      },
+      {
+        "en": "Move from excitement to repeatability.",
+        "zh": "从兴奋感转向可重复性。"
+      },
+      {
+        "en": "Close with the business implication: organizations need an adoption model, not just access to models.",
+        "zh": "用业务含义收尾：组织需要采用模型，而不只是访问模型。"
+      }
+    ],
+    "phraseBank": [
+      {
+        "intent": {
+          "en": "Upgrade the frame.",
+          "zh": "升级讨论框架。"
+        },
+        "line": "The story is not one tool; it is the operating architecture around the tool.",
+        "why": {
+          "en": "It pulls the conversation above feature comparison.",
+          "zh": "它把对话拉到功能比较之上。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Explain platform value.",
+          "zh": "解释平台价值。"
+        },
+        "line": "A platform becomes strategic when it connects data, people, workflows, apps, and agents.",
+        "why": {
+          "en": "It defines platform strategy through connection, not buzzwords.",
+          "zh": "它用连接来定义平台战略，而不是 buzzword。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Avoid shallow AI adoption.",
+          "zh": "避免浅层 AI 采用。"
+        },
+        "line": "Access to AI is not the same as an operating model for AI.",
+        "why": {
+          "en": "The contrast is simple and sharp.",
+          "zh": "这个对比简单而锋利。"
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "operating layer",
+        "meaning": {
+          "en": "A layer that coordinates how work, decisions, systems, and governance run together.",
+          "zh": "协调工作、决策、系统和治理如何一起运行的一层。"
+        },
+        "use": {
+          "en": "Calling AI an operating layer makes the conversation about how the company works.",
+          "zh": "把 AI 称为 operating layer，会让对话转向公司如何运转。"
+        }
+      },
+      {
+        "word": "adoption model",
+        "meaning": {
+          "en": "A practical way an organization introduces, governs, and scales a new capability.",
+          "zh": "组织引入、治理和扩大新能力的一套实践方式。"
+        },
+        "use": {
+          "en": "Without an adoption model, AI stays trapped in experiments.",
+          "zh": "没有 adoption model，AI 会停留在实验里。"
+        }
+      },
+      {
+        "word": "repeatable",
+        "meaning": {
+          "en": "Able to produce trusted outcomes again and again.",
+          "zh": "能反复产生可信结果。"
+        },
+        "use": {
+          "en": "Executives need repeatable outcomes, not just impressive demos.",
+          "zh": "高管需要可重复结果，而不只是令人印象深刻的 demo。"
+        }
+      },
+      {
+        "word": "orchestrate",
+        "meaning": {
+          "en": "To coordinate people, systems, tools, and steps toward an outcome.",
+          "zh": "协调人、系统、工具和步骤，以达成结果。"
+        },
+        "use": {
+          "en": "The value of agentic AI is often in how it orchestrates work across boundaries.",
+          "zh": "Agentic AI 的价值常常在于它如何跨边界协调工作。"
+        }
+      }
+    ],
+    "logicMoves": [
+      {
+        "intent": {
+          "en": "Move from feature to operating model.",
+          "zh": "从功能转到运营模型。"
+        },
+        "line": "I would not evaluate this only by what the model can do. I would evaluate how it changes the system of work around it.",
+        "why": {
+          "en": "It makes the evaluation broader and more senior.",
+          "zh": "它让评估更宽，也更资深。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Make the future practical.",
+          "zh": "让未来判断变得实际。"
+        },
+        "line": "The strategic question is where this layer can make work more coordinated, measurable, and governable.",
+        "why": {
+          "en": "It ties strategy to concrete operating qualities.",
+          "zh": "把战略连接到具体运营品质。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Create a rollout sequence.",
+          "zh": "建立上线顺序。"
+        },
+        "line": "First prove usefulness, then repeatability, then governance at scale.",
+        "why": {
+          "en": "It gives leaders a simple maturity ladder.",
+          "zh": "给领导者一个简单成熟度阶梯。"
+        }
+      }
+    ],
+    "conversationLessons": [
+      {
+        "en": "Executive AI language should explain what gets reorganized, not just what gets automated.",
+        "zh": "高管级 AI 表达应该解释什么被重新组织，而不只是有什么被自动化。"
+      },
+      {
+        "en": "Operating-layer language helps learners sound strategic without sounding vague.",
+        "zh": "Operating-layer 表达让学习者有战略感，但不空泛。"
+      },
+      {
+        "en": "A strong future story creates a new mental model and then shows how to operate inside it.",
+        "zh": "强未来叙事会先创造新心智模型，再说明如何在里面运作。"
+      }
+    ]
+  },
+  "languageMove": {
+    "title": {
+      "en": "Name the layer above the tool.",
+      "zh": "命名工具之上的那一层。"
+    },
+    "anchor": {
+      "phrase": "the operating architecture around the tool",
+      "quote": "The story is not one tool; it is the operating architecture around the tool."
+    },
+    "concept": {
+      "en": "When a topic is crowded with product claims, senior speakers name the higher-order layer where the real change happens.",
+      "zh": "当话题充满产品说法时，资深表达者会命名真正变化发生的更高层。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Reframe a tool question.",
+          "zh": "重构工具问题。"
+        },
+        "line": "The more useful question is not which tool is better, but which operating layer lets the organization change safely.",
+        "why": {
+          "en": "It moves the decision from preference to strategy.",
+          "zh": "把决策从偏好转到战略。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Connect AI to governance.",
+          "zh": "把 AI 连接到治理。"
+        },
+        "line": "If AI is going to sit inside work, governance has to be part of the design, not a later review.",
+        "why": {
+          "en": "It makes governance foundational.",
+          "zh": "它把治理变成基础设计。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Close with adoption.",
+          "zh": "用采用模型收尾。"
+        },
+        "line": "The next step is not just enabling the tool; it is choosing the workflow where the operating model can prove itself.",
+        "why": {
+          "en": "It turns strategy into a concrete next step.",
+          "zh": "把战略变成具体下一步。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Respond to a shallow tool comparison.",
+        "zh": "回应浅层工具比较。"
+      },
+      "line": "I would compare the tools, but I would make the decision based on the operating layer they help us build.",
+      "why": {
+        "en": "It respects the tool question while raising the decision standard.",
+        "zh": "它尊重工具问题，同时提高决策标准。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Explain why this matters now.",
+        "zh": "解释为什么现在重要。"
+      },
+      "line": "The timing matters because agents are starting to touch workflows, not just answer questions.",
+      "why": {
+        "en": "It explains why the shift is operational.",
+        "zh": "解释了为什么这是运营层变化。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Define enterprise readiness.",
+        "zh": "定义企业准备度。"
+      },
+      "line": "Enterprise readiness means the system can be useful, observable, governable, and repeatable.",
+      "why": {
+        "en": "The list is compact and mature.",
+        "zh": "这个列表紧凑且成熟。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Bridge product and business.",
+        "zh": "连接产品和业务。"
+      },
+      "line": "The product value becomes business value only when it changes the way work gets coordinated.",
+      "why": {
+        "en": "It connects product capability to organizational behavior.",
+        "zh": "连接产品能力和组织行为。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Summarize the future shift.",
+        "zh": "总结未来转变。"
+      },
+      "line": "The shift is from using AI in pockets to operating with AI across the business.",
+      "why": {
+        "en": "It creates a clean before-and-after frame.",
+        "zh": "建立清晰的前后对比。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice explaining AI as an operating layer.",
+      "zh": "练习把 AI 解释为运行层。"
+    },
+    "steps": [
+      {
+        "en": "An executive asks whether this is just another productivity tool.",
+        "zh": "高管问这是不是另一个生产力工具。",
+        "focus": {
+          "en": "Move from tool to operating architecture.",
+          "zh": "从工具转到运行架构。"
+        }
+      },
+      {
+        "en": "A team wants to roll AI out everywhere.",
+        "zh": "团队想把 AI 铺到所有地方。",
+        "focus": {
+          "en": "Use adoption model language.",
+          "zh": "使用 adoption model 表达。"
+        }
+      },
+      {
+        "en": "A stakeholder asks what success looks like.",
+        "zh": "利益相关方问成功是什么样。",
+        "focus": {
+          "en": "Define success as repeatable, governable work.",
+          "zh": "把成功定义为可重复、可治理的工作。"
+        }
+      }
+    ]
+  }
+}

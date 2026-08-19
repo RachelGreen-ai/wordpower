@@ -32,7 +32,8 @@ export interface DrillStep {
 export type ProfessionalEnglishTrack =
   | "customer-facing-ai"
   | "celebrity-talks"
-  | "learning-career";
+  | "learning-career"
+  | "agentic-future";
 
 export interface TalkSource {
   type: "YouTube" | "Podcast" | "Interview" | "Talk";
@@ -106,6 +107,9 @@ export const professionalEnglishLessonsByTrack = {
   ),
   "learning-career": professionalEnglishLessons.filter(
     (lesson) => lesson.track === "learning-career",
+  ),
+  "agentic-future": professionalEnglishLessons.filter(
+    (lesson) => lesson.track === "agentic-future",
   ),
 } satisfies Record<ProfessionalEnglishTrack, ProfessionalEnglishLesson[]>;
 

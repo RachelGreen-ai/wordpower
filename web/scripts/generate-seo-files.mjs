@@ -164,7 +164,7 @@ const llms = [
   "- Each lesson teaches exactly three featured words plus related word-family expansions.",
   "- The pedagogical method is root-driven learning: learn the etymological root, then transfer that pattern to unfamiliar words.",
   "- Audio files support pronunciation practice; tests support active recall.",
-  "- The Professional English sub-column teaches customer-facing GenAI communication patterns for FDE, consulting, and technical account roles.",
+  "- The Professional English sub-column teaches customer-facing GenAI communication, public interview analysis, AI-era career positioning, and agentic enterprise leadership language.",
   "",
 ].join("\n");
 
