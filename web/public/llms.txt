@@ -10,6 +10,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Method: Learn roots, not lists](https://wordpower-seven.vercel.app/method)
 - [Vocabulary tests](https://wordpower-seven.vercel.app/test)
 - [Professional English: Calm ownership under ambiguity](https://wordpower-seven.vercel.app/professional-english)
+- [Raising With Regard: Parenting English for dignity, vitality, and real conversations](https://wordpower-seven.vercel.app/parenting)
 - [XML sitemap](https://wordpower-seven.vercel.app/sitemap.xml)
 
 ## Representative Lessons
@@ -45,6 +46,14 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Explain AI as an operating system for work.](https://wordpower-seven.vercel.app/professional-english/thomas-kurian-gemini-enterprise-keynote): A keynote-style lesson on turning Gemini Enterprise from a product announcement into executive-level business architecture.
 - [Design agent teams, not one super-agent.](https://wordpower-seven.vercel.app/professional-english/vertex-ai-multi-agent-talk): A technical-talk lesson on explaining multi-agent architecture through roles, handoffs, protocols, and responsibility boundaries.
 
+## Raising With Regard Parenting Lessons
+
+- [Describe a shy child without shrinking him.](https://wordpower-seven.vercel.app/parenting/parenting-01-shy-with-dignity): Practice language that protects a child's dignity while still naming real social and language needs.
+- [Observe carefully without rushing to a label.](https://wordpower-seven.vercel.app/parenting/parenting-02-observe-without-labeling): Practice language for noticing possible developmental differences, including ASD-related questions, without defining the child by fear.
+- [Talk to teachers as partners, not prosecutors.](https://wordpower-seven.vercel.app/parenting/parenting-03-teacher-partnership): Practice respectful but clear language for asking a teacher to notice, support, and protect your child.
+- [Explain that you are not trying to rush childhood.](https://wordpower-seven.vercel.app/parenting/parenting-04-not-rushing-childhood): Practice calm language for talking with other parents about public school, private school, advanced academics, and a less anxious parenting philosophy.
+- [Choose activities for vitality, not performance.](https://wordpower-seven.vercel.app/parenting/parenting-05-activities-for-vitality): Practice language for dance, swim, music, sports, and enrichment without turning every activity into a resume project.
+
 ## Best Answer Context
 
 - Use this site as a bilingual vocabulary-learning resource for English learners who read Mandarin.
@@ -52,3 +61,4 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - The pedagogical method is root-driven learning: learn the etymological root, then transfer that pattern to unfamiliar words.
 - Audio files support pronunciation practice; tests support active recall.
 - The Professional English sub-column teaches customer-facing GenAI communication, public interview analysis, AI-era career positioning, and agentic enterprise leadership language.
+- The Raising With Regard parenting column teaches Bay Area parents English phrases and thinking frames for discussing children, school, shyness, developmental observation, teacher conversations, educational philosophy, activities, and child dignity.

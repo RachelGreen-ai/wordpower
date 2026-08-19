@@ -1,0 +1,194 @@
+{
+  "lessonId": "parenting-05-activities-for-vitality",
+  "series": {
+    "en": "Raising With Regard",
+    "zh": "有看见的养育"
+  },
+  "title": {
+    "en": "Choose activities for vitality, not performance.",
+    "zh": "为生命力选择活动，而不只是为表现。"
+  },
+  "subtitle": {
+    "en": "Practice language for dance, swim, music, sports, and enrichment without turning every activity into a resume project.",
+    "zh": "练习如何谈舞蹈、游泳、音乐、运动和兴趣班，而不把每个活动都变成履历项目。"
+  },
+  "audience": "Parent of a young child · activity planning · Bay Area family life",
+  "tags": ["Activities", "Sports", "Music", "Health", "Vitality", "Parenting English"],
+  "sources": [
+    {
+      "title": "Physical Activity",
+      "organization": "HealthyChildren.org / American Academy of Pediatrics",
+      "url": "https://www.healthychildren.org/English/healthy-living/fitness/Pages/default.aspx",
+      "note": {
+        "en": "Useful for centering movement, health, and lifelong habits.",
+        "zh": "适合把运动、健康和长期习惯放在中心。"
+      }
+    },
+    {
+      "title": "The Benefits of Music Education",
+      "organization": "NAEYC",
+      "url": "https://www.naeyc.org/our-work/families/benefits-music-education",
+      "note": {
+        "en": "Useful for framing music as expression, attention, and connection, not just achievement.",
+        "zh": "适合把音乐理解为表达、注意力和连接，而不只是成就。"
+      }
+    }
+  ],
+  "moment": {
+    "context": "Other parents compare activities, lessons, swim levels, dance classes, piano progress, and sports schedules.",
+    "avoid": "We need to sign him up for more things so he does not fall behind.",
+    "better": "We are choosing activities that help him feel strong in his body, connected to other kids, and proud of effort. Dance, swim, music, and sports are not just achievements for us; they are ways to build vitality and confidence."
+  },
+  "principle": {
+    "en": "Activities should expand the child, not consume the child.",
+    "zh": "兴趣活动应该扩展孩子，而不是消耗孩子。"
+  },
+  "frames": [
+    {
+      "en": "For a young child, movement and play are not extras; they are part of development.",
+      "zh": "对小孩来说，运动和游戏不是额外项目，而是发展的一部分。"
+    },
+    {
+      "en": "The right activity should build confidence, body awareness, joy, persistence, and connection.",
+      "zh": "好的活动应该培养自信、身体觉察、快乐、坚持和连接。"
+    },
+    {
+      "en": "A child who is shy may benefit from structured activities with predictable routines and gentle social contact.",
+      "zh": "害羞的孩子可能受益于有结构、有可预测流程、温和社交接触的活动。"
+    },
+    {
+      "en": "Do not turn every interest into early specialization.",
+      "zh": "不要把每个兴趣都变成早期专项化。"
+    }
+  ],
+  "phraseBank": [
+    {
+      "audience": {
+        "en": "To another parent",
+        "zh": "和其他家长说"
+      },
+      "line": "We are using activities to help him feel capable, not to build a tiny resume.",
+      "why": {
+        "en": "It is warm, memorable, and gently anti-pressure.",
+        "zh": "温暖、好记，也温和地反压力。"
+      }
+    },
+    {
+      "audience": {
+        "en": "To a coach or teacher",
+        "zh": "和教练或老师说"
+      },
+      "line": "He may need a little time to join, but he responds well to predictable routines and gentle encouragement.",
+      "why": {
+        "en": "It gives the adult a practical way to support the child.",
+        "zh": "给成人一个实际支持方法。"
+      }
+    },
+    {
+      "audience": {
+        "en": "To your child",
+        "zh": "和孩子说"
+      },
+      "line": "You do not have to be the best today. I love watching you try.",
+      "why": {
+        "en": "It shifts attention from performance to effort and connection.",
+        "zh": "把注意力从表现转到努力和连接。"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "body confidence",
+      "meaning": {
+        "en": "A child's sense that their body can move, try, learn, and recover.",
+        "zh": "孩子觉得自己的身体能移动、尝试、学习和恢复的感受。"
+      },
+      "use": {
+        "en": "Swim and dance can build body confidence.",
+        "zh": "游泳和舞蹈可以建立 body confidence。"
+      }
+    },
+    {
+      "term": "lifelong habit",
+      "meaning": {
+        "en": "A practice that can support health and well-being for many years.",
+        "zh": "能长期支持健康和幸福感的习惯。"
+      },
+      "use": {
+        "en": "We care more about lifelong habits than early ranking.",
+        "zh": "我们更重视长期习惯，而不是早期排名。"
+      }
+    },
+    {
+      "term": "gentle encouragement",
+      "meaning": {
+        "en": "Support that invites effort without pressure or shame.",
+        "zh": "邀请努力但不施压、不羞辱的支持。"
+      },
+      "use": {
+        "en": "He responds better to gentle encouragement than public correction.",
+        "zh": "相比公开纠正，他对 gentle encouragement 反应更好。"
+      }
+    },
+    {
+      "term": "early specialization",
+      "meaning": {
+        "en": "Focusing a young child intensely on one activity too early.",
+        "zh": "太早让小孩高强度专注单一项目。"
+      },
+      "use": {
+        "en": "We are avoiding early specialization and giving him room to explore.",
+        "zh": "我们避免 early specialization，给他探索空间。"
+      }
+    }
+  ],
+  "scripts": [
+    {
+      "audience": {
+        "en": "Choosing a class",
+        "zh": "选择课程时"
+      },
+      "line": "I am looking for a class where he can move, enjoy the routine, and feel gently included.",
+      "why": {
+        "en": "It defines success in child-centered terms.",
+        "zh": "用儿童中心的方式定义成功。"
+      }
+    },
+    {
+      "audience": {
+        "en": "After a hard class",
+        "zh": "一节课不顺后"
+      },
+      "line": "Today was hard, and you stayed with it. That matters.",
+      "why": {
+        "en": "It recognizes persistence without pretending everything was easy.",
+        "zh": "承认坚持，不假装一切轻松。"
+      }
+    },
+    {
+      "audience": {
+        "en": "With another parent",
+        "zh": "和其他家长"
+      },
+      "line": "We are trying to keep activities joyful enough that he wants to keep growing into them.",
+      "why": {
+        "en": "It explains why joy is not superficial; it protects long-term growth.",
+        "zh": "解释快乐不是肤浅，而是保护长期成长。"
+      }
+    }
+  ],
+  "reflection": [
+    {
+      "en": "Activities are not only for skill acquisition; they are also for body, rhythm, courage, and belonging.",
+      "zh": "活动不只是获得技能，也关乎身体、节奏、勇气和归属感。"
+    },
+    {
+      "en": "A shy child may not need fewer activities; he may need activities with better emotional entry.",
+      "zh": "害羞的孩子未必需要更少活动，他可能需要情绪入口更好的活动。"
+    },
+    {
+      "en": "The parent voice here is playful, grounded, and protective of joy.",
+      "zh": "这里的父母声音是有游戏感、稳定、保护快乐的。"
+    }
+  ]
+}

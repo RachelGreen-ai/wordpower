@@ -1,0 +1,194 @@
+{
+  "lessonId": "parenting-04-not-rushing-childhood",
+  "series": {
+    "en": "Raising With Regard",
+    "zh": "有看见的养育"
+  },
+  "title": {
+    "en": "Explain that you are not trying to rush childhood.",
+    "zh": "解释你不想催熟童年。"
+  },
+  "subtitle": {
+    "en": "Practice calm language for talking with other parents about public school, private school, advanced academics, and a less anxious parenting philosophy.",
+    "zh": "练习如何和其他家长谈公立、私立、超前课程和一种不焦虑的教育理念。"
+  },
+  "audience": "Bay Area parent · school choice conversation · parent social circle",
+  "tags": ["School Choice", "No Rush", "Vitality", "Education Philosophy", "Parenting English"],
+  "sources": [
+    {
+      "title": "Play and Learning",
+      "organization": "NAEYC",
+      "url": "https://www.naeyc.org/our-work/families/play-and-learning",
+      "note": {
+        "en": "Useful for framing play as serious development rather than wasted time.",
+        "zh": "适合把游戏理解成重要发展，而不是浪费时间。"
+      }
+    },
+    {
+      "title": "Serve and Return Interaction Shapes Brain Architecture",
+      "organization": "Harvard Center on the Developing Child",
+      "url": "https://developingchild.harvard.edu/science/key-concepts/serve-and-return/",
+      "note": {
+        "en": "Useful for explaining why responsive relationships matter more than constant acceleration.",
+        "zh": "适合解释为什么回应式关系比不断加速更重要。"
+      }
+    }
+  ],
+  "moment": {
+    "context": "Other parents discuss private schools, advanced math, early reading, and enrichment plans. You want to explain your philosophy without sounding defensive or judgmental.",
+    "avoid": "We do not want to push our child like that. I think too many Bay Area parents are too competitive.",
+    "better": "For our family, we are trying not to rush childhood. We care about learning, but we also care about health, confidence, play, relationships, and a child's inner energy. A good public school and a grounded home life can be a very strong path."
+  },
+  "principle": {
+    "en": "A parenting philosophy sounds stronger when it is affirmative, not reactive.",
+    "zh": "教育理念最有力的时候，是正面陈述，而不是反应式反驳。"
+  },
+  "frames": [
+    {
+      "en": "Do not define your philosophy by criticizing other parents.",
+      "zh": "不要通过批评其他家长来定义自己的理念。"
+    },
+    {
+      "en": "Name what you are protecting: vitality, curiosity, health, confidence, and relationships.",
+      "zh": "说清你在保护什么：生命力、好奇心、健康、自信和关系。"
+    },
+    {
+      "en": "Public school can be framed as community, diversity, resilience, and real-world belonging.",
+      "zh": "公立学校可以被理解为社区、多样性、韧性和真实世界归属感。"
+    },
+    {
+      "en": "Advanced academics are not automatically bad; they are unnecessary when they trade away the child's joy and balance.",
+      "zh": "超前学习不必然坏，但如果换走孩子的快乐和平衡，就没有必要。"
+    }
+  ],
+  "phraseBank": [
+    {
+      "audience": {
+        "en": "To another parent",
+        "zh": "和其他家长说"
+      },
+      "line": "We are trying to protect the pace of childhood, not slow down learning.",
+      "why": {
+        "en": "It corrects the assumption that not rushing means not caring.",
+        "zh": "纠正“不催熟就是不重视学习”的误解。"
+      }
+    },
+    {
+      "audience": {
+        "en": "When discussing public school",
+        "zh": "谈公立学校时"
+      },
+      "line": "We see public school as a real community, not a backup plan.",
+      "why": {
+        "en": "It gives public school a positive identity.",
+        "zh": "给公立学校一个正面身份。"
+      }
+    },
+    {
+      "audience": {
+        "en": "When avoiding comparison",
+        "zh": "避免比较时"
+      },
+      "line": "Different families optimize for different things. Right now we are optimizing for confidence, health, and love of learning.",
+      "why": {
+        "en": "It is nonjudgmental but clear.",
+        "zh": "不评判，但清楚。"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "pace of childhood",
+      "meaning": {
+        "en": "The natural rhythm at which a child grows, plays, learns, and matures.",
+        "zh": "孩子成长、游戏、学习和成熟的自然节奏。"
+      },
+      "use": {
+        "en": "We want to protect the pace of childhood.",
+        "zh": "我们想保护童年的节奏。"
+      }
+    },
+    {
+      "term": "vitality",
+      "meaning": {
+        "en": "A child's energy, aliveness, health, and inner spark.",
+        "zh": "孩子的能量、活力、健康和内在光亮。"
+      },
+      "use": {
+        "en": "Vitality matters as much as early achievement.",
+        "zh": "生命力和早期成就一样重要。"
+      }
+    },
+    {
+      "term": "grounded",
+      "meaning": {
+        "en": "Stable, balanced, and connected to real life.",
+        "zh": "稳定、平衡、连接真实生活。"
+      },
+      "use": {
+        "en": "We want a grounded childhood, not just an optimized schedule.",
+        "zh": "我们想要稳定真实的童年，而不只是优化过的日程。"
+      }
+    },
+    {
+      "term": "optimize for",
+      "meaning": {
+        "en": "To choose decisions around a particular value or outcome.",
+        "zh": "围绕某个价值或结果做选择。"
+      },
+      "use": {
+        "en": "We are optimizing for health and confidence.",
+        "zh": "我们在为健康和自信做选择。"
+      }
+    }
+  ],
+  "scripts": [
+    {
+      "audience": {
+        "en": "At a parent gathering",
+        "zh": "家长聚会"
+      },
+      "line": "I understand why families choose acceleration. For us, the bigger goal is a child who stays curious, healthy, and emotionally strong.",
+      "why": {
+        "en": "It respects other choices while stating your own.",
+        "zh": "尊重别人选择，同时说清自己的选择。"
+      }
+    },
+    {
+      "audience": {
+        "en": "When asked about private school",
+        "zh": "被问私校时"
+      },
+      "line": "We are open-minded, but we do not assume private automatically means better. We care more about fit, teachers, community, and the child's well-being.",
+      "why": {
+        "en": "It avoids ideology and focuses on fit.",
+        "zh": "避免意识形态，聚焦适配。"
+      }
+    },
+    {
+      "audience": {
+        "en": "When someone compares children",
+        "zh": "有人比较孩子时"
+      },
+      "line": "I try not to read childhood as a race. I want to notice who my child is becoming, not only how fast he is advancing.",
+      "why": {
+        "en": "It gives your philosophy emotional depth.",
+        "zh": "让你的理念有情感深度。"
+      }
+    }
+  ],
+  "reflection": [
+    {
+      "en": "A non-anxious parenting philosophy needs positive vocabulary, not only resistance.",
+      "zh": "不焦虑的教育理念需要正面词汇，而不只是反抗。"
+    },
+    {
+      "en": "You can value education deeply without treating childhood as a race.",
+      "zh": "你可以非常重视教育，但不把童年当比赛。"
+    },
+    {
+      "en": "The parent voice here is calm, rooted, and difficult to shame.",
+      "zh": "这里的父母声音是稳定、有根、不容易被羞辱的。"
+    }
+  ]
+}

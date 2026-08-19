@@ -1,0 +1,194 @@
+{
+  "lessonId": "parenting-01-shy-with-dignity",
+  "series": {
+    "en": "Raising With Regard",
+    "zh": "有看见的养育"
+  },
+  "title": {
+    "en": "Describe a shy child without shrinking him.",
+    "zh": "谈一个害羞的孩子，但不把他说小。"
+  },
+  "subtitle": {
+    "en": "Practice language that protects a child's dignity while still naming real social and language needs.",
+    "zh": "练习一种表达：既保护孩子的尊严，也能说清真实的社交和语言需求。"
+  },
+  "audience": "Bay Area parent · preschool family · bilingual home",
+  "tags": ["Shy Child", "Slow To Warm Up", "Dignity", "Bilingual Parenting", "Parenting English"],
+  "sources": [
+    {
+      "title": "How to Help Shy Kids",
+      "organization": "Child Mind Institute",
+      "url": "https://childmind.org/article/how-to-help-shy-kids/",
+      "note": {
+        "en": "Useful for distinguishing shyness from a character flaw and for supporting gradual social confidence.",
+        "zh": "帮助区分害羞和性格缺陷，并支持孩子逐步建立社交信心。"
+      }
+    },
+    {
+      "title": "Temperament: What Makes Your Child Tick",
+      "organization": "ZERO TO THREE",
+      "url": "https://www.zerotothree.org/resource/temperament-what-makes-your-child-tick/",
+      "note": {
+        "en": "Useful for slow-to-warm-up temperament language.",
+        "zh": "适合学习 slow-to-warm-up 这种气质表达。"
+      }
+    }
+  ],
+  "moment": {
+    "context": "A friend asks why your four-year-old does not talk much in English or join other children right away.",
+    "avoid": "He is very shy and not social. His English is not good. I am worried something is wrong.",
+    "better": "He is slow to warm up in new settings, especially in English. At home he is very affectionate, curious, and interactive, so I am trying to support his social confidence without turning it into a negative story about him."
+  },
+  "principle": {
+    "en": "Name the support need without making it the child's identity.",
+    "zh": "说出需要支持的地方，但不要把它变成孩子的身份。"
+  },
+  "frames": [
+    {
+      "en": "Temperament is not failure. Some children need more time before they feel safe to participate.",
+      "zh": "气质不是失败。有些孩子需要更多时间，才会觉得安全并参与。"
+    },
+    {
+      "en": "A child's public behavior may not show the whole child; include what you see at home.",
+      "zh": "孩子在外面的表现不等于整个孩子；要补充你在家里看到的部分。"
+    },
+    {
+      "en": "Use strengths plus needs: affectionate at home, observant in groups, needs gentle entry into peer play.",
+      "zh": "用优点加需求：在家亲密、在群体中观察、需要温和进入同伴游戏。"
+    },
+    {
+      "en": "Do not apologize for your child as if he is a problem to be managed.",
+      "zh": "不要像替问题道歉一样替孩子道歉。"
+    }
+  ],
+  "phraseBank": [
+    {
+      "audience": {
+        "en": "To another parent",
+        "zh": "和其他家长说"
+      },
+      "line": "He is slow to warm up, but once he feels safe, he is very connected and playful.",
+      "why": {
+        "en": "It names the shy behavior while giving the listener a fuller picture.",
+        "zh": "它说出害羞表现，同时给听者一个更完整的孩子形象。"
+      }
+    },
+    {
+      "audience": {
+        "en": "To a teacher",
+        "zh": "和老师说"
+      },
+      "line": "In a new group, he may watch before joining. If you give him a small role, he usually enters more comfortably.",
+      "why": {
+        "en": "It turns observation into a practical support strategy.",
+        "zh": "把观察变成可执行支持方式。"
+      }
+    },
+    {
+      "audience": {
+        "en": "To yourself",
+        "zh": "对自己说"
+      },
+      "line": "His quietness is information, not a verdict.",
+      "why": {
+        "en": "It calms the parent's anxiety without ignoring the pattern.",
+        "zh": "安抚父母焦虑，但不忽略模式。"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "slow to warm up",
+      "meaning": {
+        "en": "Needing time to feel comfortable before engaging.",
+        "zh": "需要时间感到舒服后才参与。"
+      },
+      "use": {
+        "en": "Slow to warm up sounds more neutral and respectful than bad at socializing.",
+        "zh": "Slow to warm up 比 bad at socializing 更中性、更尊重。"
+      }
+    },
+    {
+      "term": "observant",
+      "meaning": {
+        "en": "Careful at watching and noticing what is happening.",
+        "zh": "善于观察、留意正在发生什么。"
+      },
+      "use": {
+        "en": "He is observant in groups before he joins.",
+        "zh": "他在加入群体前会先观察。"
+      }
+    },
+    {
+      "term": "social confidence",
+      "meaning": {
+        "en": "A child's growing comfort in being with other people.",
+        "zh": "孩子和他人在一起时逐渐增长的舒适感。"
+      },
+      "use": {
+        "en": "We are helping him build social confidence gradually.",
+        "zh": "我们在帮他逐步建立社交信心。"
+      }
+    },
+    {
+      "term": "gentle entry",
+      "meaning": {
+        "en": "A low-pressure way to join a new activity or group.",
+        "zh": "低压力进入新活动或群体的方式。"
+      },
+      "use": {
+        "en": "He does better with gentle entry than with sudden pressure to perform.",
+        "zh": "相比突然被要求表现，他更适合温和进入。"
+      }
+    }
+  ],
+  "scripts": [
+    {
+      "audience": {
+        "en": "At a playdate",
+        "zh": "在 playdate"
+      },
+      "line": "He may watch for a bit before joining. He is taking it in, and I will help him find a comfortable way in.",
+      "why": {
+        "en": "It prevents other adults from misreading quietness as rejection.",
+        "zh": "避免其他成人把安静误读为拒绝。"
+      }
+    },
+    {
+      "audience": {
+        "en": "With a teacher",
+        "zh": "和老师"
+      },
+      "line": "Could we notice what helps him join? I am not looking for pressure; I am looking for a gentle bridge.",
+      "why": {
+        "en": "It asks for collaboration without demanding a special label.",
+        "zh": "请求协作，但不急着要特殊标签。"
+      }
+    },
+    {
+      "audience": {
+        "en": "With family",
+        "zh": "和家人"
+      },
+      "line": "I do not want us to call him antisocial. He connects beautifully at home; he just needs more time in new spaces.",
+      "why": {
+        "en": "It protects the child's identity inside the family narrative.",
+        "zh": "保护孩子在家庭叙事里的身份。"
+      }
+    }
+  ],
+  "reflection": [
+    {
+      "en": "When you describe a child, include both the challenge and the child behind the challenge.",
+      "zh": "描述孩子时，要同时包含挑战和挑战背后的孩子。"
+    },
+    {
+      "en": "The goal is not to make shyness disappear; the goal is to help the child feel safe enough to grow.",
+      "zh": "目标不是让害羞消失，而是让孩子安全到可以成长。"
+    },
+    {
+      "en": "A parent can be honest without making the child sound broken.",
+      "zh": "父母可以诚实，同时不把孩子说成坏掉了。"
+    }
+  ]
+}

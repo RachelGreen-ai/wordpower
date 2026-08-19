@@ -1,0 +1,203 @@
+{
+  "lessonId": "parenting-02-observe-without-labeling",
+  "series": {
+    "en": "Raising With Regard",
+    "zh": "有看见的养育"
+  },
+  "title": {
+    "en": "Observe carefully without rushing to a label.",
+    "zh": "认真观察，但不急着贴标签。"
+  },
+  "subtitle": {
+    "en": "Practice language for noticing possible developmental differences, including ASD-related questions, without defining the child by fear.",
+    "zh": "练习如何谈可能的发展差异，包括 ASD 相关担心，但不让恐惧定义孩子。"
+  },
+  "audience": "Parent of a preschooler · bilingual family · teacher conversation",
+  "tags": ["Observation", "Development", "ASD Questions", "No Labels", "Child Dignity"],
+  "sources": [
+    {
+      "title": "Important Milestones: Your Child By Four Years",
+      "organization": "CDC Learn the Signs. Act Early.",
+      "url": "https://www.cdc.gov/ncbddd/actearly/milestones/milestones-4yr.html",
+      "note": {
+        "en": "Useful for age-based observation, not for diagnosing a child from one behavior.",
+        "zh": "适合做年龄发展观察，不适合用单一行为诊断孩子。"
+      }
+    },
+    {
+      "title": "Signs and Symptoms of Autism Spectrum Disorder",
+      "organization": "CDC",
+      "url": "https://www.cdc.gov/autism/signs-symptoms/index.html",
+      "note": {
+        "en": "Useful for knowing when to ask pediatricians or specialists for guidance.",
+        "zh": "适合了解什么时候向儿科医生或专家咨询。"
+      }
+    },
+    {
+      "title": "Autism Spectrum Disorder",
+      "organization": "HealthyChildren.org / American Academy of Pediatrics",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/Autism/Pages/default.aspx",
+      "note": {
+        "en": "Useful for parent-friendly medical context. This column does not diagnose.",
+        "zh": "提供家长友好的医学背景。本专栏不做诊断。"
+      }
+    }
+  ],
+  "moment": {
+    "context": "You wonder whether your child's shyness, language delay, or social hesitation could reflect something deeper, but you do not want to label him casually.",
+    "avoid": "I think he might be ASD. He is not normal socially, and maybe something is wrong with him.",
+    "better": "I am noticing a few patterns: he is quieter in English settings, takes longer to join peers, and is much more interactive at home. I do not want to label him casually, but I do want to observe carefully and ask for guidance if the pattern continues."
+  },
+  "principle": {
+    "en": "Observation is responsible; casual labeling is not.",
+    "zh": "观察是负责，随口贴标签不是。"
+  },
+  "frames": [
+    {
+      "en": "A label should not be used as gossip, shame, or shorthand for the whole child.",
+      "zh": "标签不应该被当成闲聊、羞耻或对整个孩子的简称。"
+    },
+    {
+      "en": "Patterns matter more than one awkward moment.",
+      "zh": "持续模式比某个尴尬瞬间更重要。"
+    },
+    {
+      "en": "A bilingual or multilingual environment can shape how comfortable a child sounds in public.",
+      "zh": "双语或多语环境会影响孩子在公共场合听起来有多自在。"
+    },
+    {
+      "en": "Asking for professional guidance is not betraying the child; it can be a way to support him earlier.",
+      "zh": "寻求专业建议不是背叛孩子，可能是更早支持他的方式。"
+    }
+  ],
+  "phraseBank": [
+    {
+      "audience": {
+        "en": "To a pediatrician",
+        "zh": "和儿科医生说"
+      },
+      "line": "I am not looking for a quick label. I am looking for help understanding whether these patterns need support.",
+      "why": {
+        "en": "It signals seriousness without self-diagnosis.",
+        "zh": "表达重视，但不自我诊断。"
+      }
+    },
+    {
+      "audience": {
+        "en": "To a teacher",
+        "zh": "和老师说"
+      },
+      "line": "Could you help me track when he is most engaged and when he withdraws?",
+      "why": {
+        "en": "It invites shared observation instead of blame.",
+        "zh": "邀请共同观察，而不是责备。"
+      }
+    },
+    {
+      "audience": {
+        "en": "To a friend",
+        "zh": "和朋友说"
+      },
+      "line": "I am trying to stay curious rather than alarmed.",
+      "why": {
+        "en": "It gives you a calm parent identity.",
+        "zh": "给自己一个稳定的父母身份。"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "pattern",
+      "meaning": {
+        "en": "A behavior that appears repeatedly across time or settings.",
+        "zh": "在时间或场景中反复出现的行为。"
+      },
+      "use": {
+        "en": "I am noticing a pattern, not reacting to one moment.",
+        "zh": "我是在观察一个模式，不是对某一刻过度反应。"
+      }
+    },
+    {
+      "term": "developmental difference",
+      "meaning": {
+        "en": "A difference in how a child grows, communicates, moves, plays, or learns.",
+        "zh": "孩子在成长、沟通、动作、游戏或学习方式上的差异。"
+      },
+      "use": {
+        "en": "Developmental difference is more respectful than saying something is wrong.",
+        "zh": "Developmental difference 比 something is wrong 更尊重。"
+      }
+    },
+    {
+      "term": "support need",
+      "meaning": {
+        "en": "An area where a child may benefit from help, structure, or accommodation.",
+        "zh": "孩子可能受益于帮助、结构或调整的地方。"
+      },
+      "use": {
+        "en": "A support need is not the same as a defect.",
+        "zh": "Support need 不等于缺陷。"
+      }
+    },
+    {
+      "term": "guidance",
+      "meaning": {
+        "en": "Professional or experienced advice that helps you decide next steps.",
+        "zh": "帮助决定下一步的专业或有经验建议。"
+      },
+      "use": {
+        "en": "I want guidance on what to watch and how to support him.",
+        "zh": "我想获得关于观察什么、如何支持他的建议。"
+      }
+    }
+  ],
+  "scripts": [
+    {
+      "audience": {
+        "en": "To a pediatrician",
+        "zh": "和儿科医生"
+      },
+      "line": "At home he is affectionate and communicative, but in group settings he often becomes quiet and stays on the edge. What should we watch over the next few months?",
+      "why": {
+        "en": "It gives balanced evidence and asks for a concrete observation plan.",
+        "zh": "提供平衡证据，并请求具体观察计划。"
+      }
+    },
+    {
+      "audience": {
+        "en": "To a teacher",
+        "zh": "和老师"
+      },
+      "line": "I would love to compare notes. Does he connect more during structured activities, free play, or one-on-one moments?",
+      "why": {
+        "en": "It helps identify settings where the child succeeds.",
+        "zh": "帮助识别孩子成功的场景。"
+      }
+    },
+    {
+      "audience": {
+        "en": "To family",
+        "zh": "和家人"
+      },
+      "line": "Let us not use a label casually around him. We can observe, support, and get guidance without making him feel like a problem.",
+      "why": {
+        "en": "It sets a family language boundary.",
+        "zh": "为家庭语言设边界。"
+      }
+    }
+  ],
+  "reflection": [
+    {
+      "en": "A child's dignity depends partly on how adults talk about uncertainty.",
+      "zh": "孩子的尊严部分取决于成人如何谈不确定性。"
+    },
+    {
+      "en": "You can be proactive without being panicked.",
+      "zh": "你可以主动，而不惊慌。"
+    },
+    {
+      "en": "The parent voice we want is curious, evidence-based, and protective.",
+      "zh": "我们想训练的父母声音，是好奇、基于证据、保护孩子的。"
+    }
+  ]
+}

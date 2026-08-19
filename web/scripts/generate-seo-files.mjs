@@ -4,6 +4,7 @@ import path from "node:path";
 const SITE_URL = (process.env.SITE_URL || process.env.VITE_SITE_URL || "https://wordpower-seven.vercel.app").replace(/\/$/, "");
 const corpusDir = path.resolve("src/corpus");
 const professionalCorpusDir = path.resolve("src/professional-corpus");
+const parentingCorpusDir = path.resolve("src/parenting-corpus");
 const publicDir = path.resolve("public");
 
 function xmlEscape(value) {
@@ -77,7 +78,35 @@ async function readProfessionalEntries() {
 
 const professionalEntries = await readProfessionalEntries();
 
-const latestLessonDate = lessonEntries
+async function readParentingEntries() {
+  try {
+    const files = (await readdir(parentingCorpusDir))
+      .filter((file) => /^lesson-.*\.json$/.test(file))
+      .sort();
+
+    return Promise.all(
+      files.map(async (file) => {
+        const filePath = path.join(parentingCorpusDir, file);
+        const [raw, info] = await Promise.all([readFile(filePath, "utf8"), stat(filePath)]);
+        const lesson = JSON.parse(raw);
+        return {
+          loc: `/parenting/${lesson.lessonId}`,
+          lastmod: toIsoDate(info.mtime),
+          changefreq: "monthly",
+          priority: "0.75",
+          lesson,
+        };
+      }),
+    );
+  } catch (error) {
+    if (error?.code === "ENOENT") return [];
+    throw error;
+  }
+}
+
+const parentingEntries = await readParentingEntries();
+
+const latestLessonDate = [...lessonEntries, ...professionalEntries, ...parentingEntries]
   .map((entry) => entry.lastmod)
   .sort()
   .at(-1) ?? toIsoDate(new Date());
@@ -87,8 +116,10 @@ const sitemapEntries = [
   { loc: "/method", lastmod: latestLessonDate, changefreq: "monthly", priority: "0.80" },
   { loc: "/test", lastmod: latestLessonDate, changefreq: "weekly", priority: "0.70" },
   { loc: "/professional-english", lastmod: latestLessonDate, changefreq: "monthly", priority: "0.80" },
+  { loc: "/parenting", lastmod: latestLessonDate, changefreq: "monthly", priority: "0.80" },
   ...lessonEntries,
   ...professionalEntries,
+  ...parentingEntries,
 ];
 
 const sitemap = [
@@ -146,6 +177,7 @@ const llms = [
   `- [Method: Learn roots, not lists](${SITE_URL}/method)`,
   `- [Vocabulary tests](${SITE_URL}/test)`,
   `- [Professional English: Calm ownership under ambiguity](${SITE_URL}/professional-english)`,
+  `- [Raising With Regard: Parenting English for dignity, vitality, and real conversations](${SITE_URL}/parenting)`,
   `- [XML sitemap](${SITE_URL}/sitemap.xml)`,
   "",
   "## Representative Lessons",
@@ -158,6 +190,12 @@ const llms = [
     return `- [${lesson.title.en}](${SITE_URL}/professional-english/${lesson.lessonId}): ${lesson.subtitle.en}`;
   }),
   "",
+  "## Raising With Regard Parenting Lessons",
+  "",
+  ...parentingEntries.map(({ lesson }) => {
+    return `- [${lesson.title.en}](${SITE_URL}/parenting/${lesson.lessonId}): ${lesson.subtitle.en}`;
+  }),
+  "",
   "## Best Answer Context",
   "",
   "- Use this site as a bilingual vocabulary-learning resource for English learners who read Mandarin.",
@@ -165,6 +203,7 @@ const llms = [
   "- The pedagogical method is root-driven learning: learn the etymological root, then transfer that pattern to unfamiliar words.",
   "- Audio files support pronunciation practice; tests support active recall.",
   "- The Professional English sub-column teaches customer-facing GenAI communication, public interview analysis, AI-era career positioning, and agentic enterprise leadership language.",
+  "- The Raising With Regard parenting column teaches Bay Area parents English phrases and thinking frames for discussing children, school, shyness, developmental observation, teacher conversations, educational philosophy, activities, and child dignity.",
   "",
 ].join("\n");
 

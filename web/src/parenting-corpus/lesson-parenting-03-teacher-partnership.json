@@ -1,0 +1,194 @@
+{
+  "lessonId": "parenting-03-teacher-partnership",
+  "series": {
+    "en": "Raising With Regard",
+    "zh": "有看见的养育"
+  },
+  "title": {
+    "en": "Talk to teachers as partners, not prosecutors.",
+    "zh": "和老师像伙伴一样谈，而不是像审判一样谈。"
+  },
+  "subtitle": {
+    "en": "Practice respectful but clear language for asking a teacher to notice, support, and protect your child.",
+    "zh": "练习尊重但清楚地请老师观察、支持、保护你的孩子。"
+  },
+  "audience": "Preschool parent · elementary parent · teacher conference",
+  "tags": ["Teacher Communication", "School", "Advocacy", "Collaboration", "Parenting English"],
+  "sources": [
+    {
+      "title": "Developing Good Parent-Teacher Relationships",
+      "organization": "Reading Rockets",
+      "url": "https://www.readingrockets.org/topics/parent-engagement/articles/developing-good-parent-teacher-relationships",
+      "note": {
+        "en": "Useful for framing teacher communication as partnership.",
+        "zh": "适合把家校沟通理解成合作关系。"
+      }
+    },
+    {
+      "title": "Strengths-Based IEPs",
+      "organization": "Understood",
+      "url": "https://www.understood.org/en/articles/the-importance-of-strengths-based-ieps",
+      "note": {
+        "en": "Useful even outside formal IEP settings because it models strengths-first language.",
+        "zh": "即使没有 IEP，也适合学习先看优势的表达方式。"
+      }
+    }
+  ],
+  "moment": {
+    "context": "A teacher says your child does not participate much, or seems behind socially or in English.",
+    "avoid": "Why are you not helping him? He is shy because the school is not doing enough.",
+    "better": "I appreciate what you are seeing. I want to understand the pattern and work with you on a small support plan that protects his confidence while helping him participate more."
+  },
+  "principle": {
+    "en": "Advocacy works best when it is specific, collaborative, and strengths-aware.",
+    "zh": "最有效的倡导，是具体、合作、看见优势的。"
+  },
+  "frames": [
+    {
+      "en": "Start with appreciation, then move to evidence and support.",
+      "zh": "先表达感谢，再进入证据和支持。"
+    },
+    {
+      "en": "Ask for patterns, not impressions.",
+      "zh": "问模式，不只听印象。"
+    },
+    {
+      "en": "A support plan can be small: a buddy, a predictable role, a transition warning, or one-on-one check-in.",
+      "zh": "支持计划可以很小：一个 buddy、一个固定角色、过渡提醒或一对一 check-in。"
+    },
+    {
+      "en": "A responsible parent can be warm and firm at the same time.",
+      "zh": "负责任的父母可以同时温和和坚定。"
+    }
+  ],
+  "phraseBank": [
+    {
+      "audience": {
+        "en": "Opening a teacher conversation",
+        "zh": "开启老师对话"
+      },
+      "line": "I would love to understand what you are seeing and compare it with what we see at home.",
+      "why": {
+        "en": "It invites the teacher's perspective without surrendering your own.",
+        "zh": "邀请老师视角，但不放弃自己的观察。"
+      }
+    },
+    {
+      "audience": {
+        "en": "Asking for support",
+        "zh": "请求支持"
+      },
+      "line": "Could we try one small bridge into group play and see whether it helps?",
+      "why": {
+        "en": "Small bridge sounds practical and non-demanding.",
+        "zh": "Small bridge 听起来实际，也不强迫。"
+      }
+    },
+    {
+      "audience": {
+        "en": "Setting a dignity boundary",
+        "zh": "设定尊严边界"
+      },
+      "line": "I want him to get support without feeling singled out as the difficult child.",
+      "why": {
+        "en": "It protects the child's social identity.",
+        "zh": "保护孩子的社交身份。"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "compare notes",
+      "meaning": {
+        "en": "To share observations and see what each person has noticed.",
+        "zh": "分享观察，看看彼此注意到了什么。"
+      },
+      "use": {
+        "en": "Can we compare notes about when he participates most?",
+        "zh": "我们可以对一下他什么时候参与最多吗？"
+      }
+    },
+    {
+      "term": "support plan",
+      "meaning": {
+        "en": "A practical set of steps to help a child in a specific setting.",
+        "zh": "帮助孩子在特定场景中的一组实际步骤。"
+      },
+      "use": {
+        "en": "A support plan can be simple and still meaningful.",
+        "zh": "Support plan 可以简单但有意义。"
+      }
+    },
+    {
+      "term": "strengths-aware",
+      "meaning": {
+        "en": "Noticing needs while also naming what is strong and alive in the child.",
+        "zh": "看见需求，同时说出孩子身上强、有生命力的部分。"
+      },
+      "use": {
+        "en": "A strengths-aware conversation protects confidence.",
+        "zh": "Strengths-aware conversation 保护自信。"
+      }
+    },
+    {
+      "term": "singled out",
+      "meaning": {
+        "en": "Made to feel separate, exposed, or treated as the problem.",
+        "zh": "被单独拎出来、暴露、被当作问题。"
+      },
+      "use": {
+        "en": "I do not want him to feel singled out.",
+        "zh": "我不想让他觉得自己被单独当成问题。"
+      }
+    }
+  ],
+  "scripts": [
+    {
+      "audience": {
+        "en": "When a teacher is caring",
+        "zh": "老师比较负责时"
+      },
+      "line": "Thank you for noticing him carefully. What are the moments when he seems most comfortable, and how can we build from those?",
+      "why": {
+        "en": "It turns a caring teacher into a collaborator.",
+        "zh": "把负责的老师带进协作。"
+      }
+    },
+    {
+      "audience": {
+        "en": "When a teacher is dismissive",
+        "zh": "老师比较敷衍时"
+      },
+      "line": "I understand the classroom is busy. Still, I would like us to identify one or two specific supports we can try consistently.",
+      "why": {
+        "en": "It acknowledges pressure while staying firm.",
+        "zh": "承认老师压力，同时保持坚定。"
+      }
+    },
+    {
+      "audience": {
+        "en": "After a concern is raised",
+        "zh": "老师提出担心后"
+      },
+      "line": "Could we separate what is a language comfort issue, what is a social confidence issue, and what may need further guidance?",
+      "why": {
+        "en": "It prevents everything from collapsing into one vague worry.",
+        "zh": "避免所有问题混成一个模糊担心。"
+      }
+    }
+  ],
+  "reflection": [
+    {
+      "en": "Teacher communication is not about winning; it is about creating a clearer field around the child.",
+      "zh": "和老师沟通不是为了赢，而是为孩子创造更清楚的环境。"
+    },
+    {
+      "en": "Warmth without specificity becomes vague. Specificity without warmth becomes accusation.",
+      "zh": "只有温和会变模糊，只有具体会变指责。"
+    },
+    {
+      "en": "The strongest parent voice is calm, evidence-based, and protective.",
+      "zh": "最强的父母声音是稳定、基于证据、保护孩子的。"
+    }
+  ]
+}

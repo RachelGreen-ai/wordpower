@@ -8,6 +8,8 @@ import { LessonPage } from "./routes/LessonPage";
 import { MethodPage } from "./routes/MethodPage";
 import { ProfessionalEnglishHome } from "./routes/ProfessionalEnglishHome";
 import { ProfessionalEnglishLessonPage } from "./routes/ProfessionalEnglishLessonPage";
+import { ParentingHome } from "./routes/ParentingHome";
+import { ParentingLessonPage } from "./routes/ParentingLessonPage";
 import { TestPage } from "./routes/TestPage";
 import "./index.css";
 
@@ -24,6 +26,8 @@ createRoot(document.getElementById("root")!).render(
           path="/professional-english/:id"
           element={<ProfessionalEnglishLessonPage />}
         />
+        <Route path="/parenting" element={<ParentingHome />} />
+        <Route path="/parenting/:id" element={<ParentingLessonPage />} />
         <Route path="/test" element={<TestPage />} />
       </Routes>
       <Analytics />
