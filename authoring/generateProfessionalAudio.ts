@@ -1,6 +1,6 @@
 #!/usr/bin/env -S node --import tsx/esm
 /**
- * Generate a single learning narration for a Professional English lesson.
+ * Generate learning narration + per-card clips for a Professional English lesson.
  *
  * Usage:
  *   npm run tts:professional -- --lesson ../web/src/professional-corpus/lesson-foo.json
@@ -8,6 +8,7 @@
  */
 import { parseArgs } from "node:util";
 import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { existsSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { generateTTS, type TTSBackend } from "./lib/tts.ts";
@@ -39,7 +40,13 @@ interface ProfessionalLesson {
     reliableResponse: string;
   };
   talkAnalysis?: {
+    flow: BilingualText[];
     phraseBank: LeadershipLine[];
+    vocabulary: Array<{
+      word: string;
+      meaning: BilingualText;
+      use: BilingualText;
+    }>;
     logicMoves: LeadershipLine[];
     conversationLessons: BilingualText[];
   };
@@ -49,15 +56,42 @@ interface ProfessionalLesson {
       phrase: string;
       quote?: string;
     };
+    concept: BilingualText;
+    examples: LeadershipLine[];
   };
   lines: LeadershipLine[];
+  drill: {
+    prompt: BilingualText;
+    steps: Array<{
+      en: string;
+      zh: string;
+      focus: BilingualText;
+    }>;
+  };
+  source?: {
+    title: string;
+    speaker?: string;
+    channel?: string;
+    note?: BilingualText;
+  };
+  tags: string[];
   audio?: {
     narration?: string;
+    clips?: Record<string, string>;
   };
+}
+
+interface Clip {
+  key: string;
+  text: string;
 }
 
 function narrationPath(lessonId: string): string {
   return `audio/professional/${lessonId}/narration.wav`;
+}
+
+function clipPath(lessonId: string, key: string): string {
+  return `audio/professional/${lessonId}/clips/${key.replaceAll(".", "_")}.wav`;
 }
 
 function sentenceList(label: string, items: string[]): string {
@@ -98,12 +132,106 @@ function buildNarration(lesson: ProfessionalLesson): string {
     .trim();
 }
 
+function buildClips(lesson: ProfessionalLesson): Clip[] {
+  const clips: Clip[] = [];
+
+  lesson.tags.forEach((tag, index) => {
+    clips.push({ key: `tag.${index}`, text: tag });
+  });
+
+  if (lesson.source) {
+    clips.push({
+      key: "source",
+      text: [
+        "Source.",
+        lesson.source.title,
+        lesson.source.speaker ? `Speaker: ${lesson.source.speaker}.` : "",
+        lesson.source.channel ? `Channel: ${lesson.source.channel}.` : "",
+        lesson.source.note?.en ?? "",
+      ].filter(Boolean).join(" "),
+    });
+  }
+
+  clips.push(
+    { key: "scenario.customer", text: `Customer says. ${lesson.scenario.customer}` },
+    { key: "scenario.weakResponse", text: `Weak response. ${lesson.scenario.weakResponse}` },
+    { key: "scenario.reliableResponse", text: `Reliable response. ${lesson.scenario.reliableResponse}` },
+    { key: "principle", text: `Core principle. ${lesson.principle.en}` },
+  );
+
+  lesson.talkAnalysis?.flow.forEach((item, index) => {
+    clips.push({ key: `talkAnalysis.flow.${index}`, text: `Flow step ${index + 1}. ${item.en}` });
+  });
+  lesson.talkAnalysis?.phraseBank.forEach((item, index) => {
+    clips.push({
+      key: `talkAnalysis.phraseBank.${index}`,
+      text: `${item.intent.en}. ${item.line}. Why it works: ${item.why.en}`,
+    });
+  });
+  lesson.talkAnalysis?.logicMoves.forEach((item, index) => {
+    clips.push({
+      key: `talkAnalysis.logicMoves.${index}`,
+      text: `${item.intent.en}. ${item.line}. Why it works: ${item.why.en}`,
+    });
+  });
+  lesson.talkAnalysis?.vocabulary.forEach((item, index) => {
+    clips.push({
+      key: `talkAnalysis.vocabulary.${index}`,
+      text: `${item.word}. ${item.meaning.en} ${item.use.en}`,
+    });
+  });
+  lesson.talkAnalysis?.conversationLessons.forEach((item, index) => {
+    clips.push({ key: `talkAnalysis.conversationLessons.${index}`, text: item.en });
+  });
+
+  if (lesson.languageMove) {
+    clips.push(
+      {
+        key: "languageMove.anchor",
+        text: `Anchor phrase. ${lesson.languageMove.anchor.phrase}. ${lesson.languageMove.anchor.quote ?? ""}`,
+      },
+      {
+        key: "languageMove.concept",
+        text: `Language move. ${lesson.languageMove.title.en}. ${lesson.languageMove.concept.en}`,
+      },
+    );
+    lesson.languageMove.examples.forEach((item, index) => {
+      clips.push({
+        key: `languageMove.examples.${index}`,
+        text: `${item.intent.en}. ${item.line}. Why it works: ${item.why.en}`,
+      });
+    });
+  }
+
+  lesson.lines.forEach((item, index) => {
+    clips.push({
+      key: `lines.${index}`,
+      text: `${item.intent.en}. ${item.line}. Why it works: ${item.why.en}`,
+    });
+  });
+
+  clips.push({
+    key: "drill.prompt",
+    text: `Practice drill. ${lesson.drill.prompt.en}`,
+  });
+  lesson.drill.steps.forEach((item, index) => {
+    clips.push({
+      key: `drill.steps.${index}`,
+      text: `${item.en}. Focus: ${item.focus.en}`,
+    });
+  });
+
+  return clips.filter((clip) => clip.text.trim().length > 0);
+}
+
 async function main() {
   const { values } = parseArgs({
     options: {
       lesson: { type: "string", short: "l" },
       backend: { type: "string", short: "b" },
       voice: { type: "string", short: "v" },
+      skipExisting: { type: "boolean" },
+      only: { type: "string" },
       help: { type: "boolean", short: "h" },
     },
     allowPositionals: false,
@@ -121,27 +249,64 @@ Usage: npm run tts:professional -- --lesson <lesson-json> [--backend mlx|mock|el
   const text = buildNarration(raw);
   const outRelPath = narrationPath(raw.lessonId);
   const outAbsPath = resolve(WEB_PUBLIC, outRelPath);
+  const existingClips = raw.audio?.clips ?? {};
+  const only = values.only
+    ? new Set(values.only.split(",").map((item) => item.trim()).filter(Boolean))
+    : null;
   await mkdir(dirname(outAbsPath), { recursive: true });
 
   console.error(`Loading lesson: ${lessonPath}`);
   console.error(`Generating narration: ${outRelPath}`);
   console.error(`Text length: ${text.length} chars`);
 
-  await generateTTS({
-    text,
-    outPath: outAbsPath,
-    backend: (values.backend as TTSBackend | undefined) ?? undefined,
-    voice: values.voice ?? DEFAULT_VOICE,
-    language: "en",
-    temperature: 0.45,
-    timeoutMs: 10 * 60 * 1000,
-  });
+  if (!only && (!values.skipExisting || !existsSync(outAbsPath))) {
+    await generateTTS({
+      text,
+      outPath: outAbsPath,
+      backend: (values.backend as TTSBackend | undefined) ?? undefined,
+      voice: values.voice ?? DEFAULT_VOICE,
+      language: "en",
+      temperature: 0.45,
+      timeoutMs: 10 * 60 * 1000,
+    });
+  } else if (!only) {
+    console.error(`Skipping existing narration: ${outRelPath}`);
+  }
+
+  const nextClips = { ...existingClips };
+  const clips = buildClips(raw);
+  console.error(`Generating ${clips.length} clip(s)`);
+
+  for (const clip of clips) {
+    if (only && !only.has(clip.key)) continue;
+
+    const rel = clipPath(raw.lessonId, clip.key);
+    const abs = resolve(WEB_PUBLIC, rel);
+    if (values.skipExisting && existsSync(abs)) {
+      nextClips[clip.key] = rel;
+      console.error(`Skipping existing clip: ${clip.key}`);
+      continue;
+    }
+
+    console.error(`Clip ${clip.key}: ${clip.text.slice(0, 90)}${clip.text.length > 90 ? "..." : ""}`);
+    await generateTTS({
+      text: clip.text,
+      outPath: abs,
+      backend: (values.backend as TTSBackend | undefined) ?? undefined,
+      voice: values.voice ?? DEFAULT_VOICE,
+      language: "en",
+      temperature: 0.35,
+      timeoutMs: 5 * 60 * 1000,
+    });
+    nextClips[clip.key] = rel;
+  }
 
   const nextLesson = {
     ...raw,
     audio: {
       ...(raw.audio ?? {}),
       narration: outRelPath,
+      clips: nextClips,
     },
   };
   await writeFile(lessonPath, `${JSON.stringify(nextLesson, null, 2)}\n`, "utf8");

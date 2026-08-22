@@ -18,6 +18,8 @@ export function ProfessionalEnglishLessonPage() {
     );
   }
 
+  const clipSrc = (key: string) => lesson.audio?.clips?.[key];
+
   return (
     <div className="max-w-4xl mx-auto px-4 md:px-8 py-10">
       <nav className="mb-6">
@@ -42,12 +44,13 @@ export function ProfessionalEnglishLessonPage() {
           <span className="text-zh ml-2">{lesson.subtitle.zh}</span>
         </p>
         <div className="mt-4 flex flex-wrap gap-2">
-          {lesson.tags.map((tag) => (
+          {lesson.tags.map((tag, index) => (
             <span
               key={tag}
-              className="inline-flex rounded-full border border-ink/10 bg-paper-warm px-2.5 py-0.5 text-xs text-ink-muted"
+              className="inline-flex items-center gap-1.5 rounded-full border border-ink/10 bg-paper-warm px-2.5 py-0.5 text-xs text-ink-muted"
             >
               #{tag}
+              <AudioButton src={clipSrc(`tag.${index}`)} label="tag" />
             </span>
           ))}
         </div>
@@ -72,8 +75,11 @@ export function ProfessionalEnglishLessonPage() {
 
       {lesson.source && (
         <section className="mb-8 rounded-xl border border-ink/10 bg-white p-6">
-          <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-3">
-            Source · 来源
+          <div className="flex flex-wrap items-center justify-between gap-3 mb-3">
+            <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold">
+              Source · 来源
+            </div>
+            <AudioButton src={clipSrc("source")} label="source" />
           </div>
           <h2 className="font-serif text-2xl font-bold leading-snug">
             {lesson.source.title}
@@ -110,13 +116,23 @@ export function ProfessionalEnglishLessonPage() {
                 ? "Strategy Moment · 战略场景"
               : "Customer Moment · 客户场景"}
         </div>
-        <QuoteBlock label="Customer says" text={lesson.scenario.customer} />
+        <QuoteBlock
+          label="Customer says"
+          text={lesson.scenario.customer}
+          audioSrc={clipSrc("scenario.customer")}
+        />
         <div className="grid md:grid-cols-2 gap-4 mt-5">
-          <ResponseBlock title="Weak response" tone="weak" text={lesson.scenario.weakResponse} />
+          <ResponseBlock
+            title="Weak response"
+            tone="weak"
+            text={lesson.scenario.weakResponse}
+            audioSrc={clipSrc("scenario.weakResponse")}
+          />
           <ResponseBlock
             title="Reliable response"
             tone="reliable"
             text={lesson.scenario.reliableResponse}
+            audioSrc={clipSrc("scenario.reliableResponse")}
           />
         </div>
       </section>
@@ -139,9 +155,17 @@ export function ProfessionalEnglishLessonPage() {
                   <div className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-accent/10 text-xs font-bold text-accent">
                     {index + 1}
                   </div>
-                  <div className="text-sm leading-relaxed text-ink-muted">
-                    {step.en}
-                    <span className="text-zh ml-1.5">{step.zh}</span>
+                  <div className="min-w-0 flex-1">
+                    <div className="mb-2">
+                      <AudioButton
+                        src={clipSrc(`talkAnalysis.flow.${index}`)}
+                        label="step"
+                      />
+                    </div>
+                    <div className="text-sm leading-relaxed text-ink-muted">
+                      {step.en}
+                      <span className="text-zh ml-1.5">{step.zh}</span>
+                    </div>
                   </div>
                 </div>
               ))}
@@ -149,17 +173,33 @@ export function ProfessionalEnglishLessonPage() {
           </div>
 
           <div className="mt-6 grid md:grid-cols-2 gap-4">
-            <TalkAnalysisGroup title="Phrase Bank" items={lesson.talkAnalysis.phraseBank} />
-            <TalkAnalysisGroup title="Logic Moves" items={lesson.talkAnalysis.logicMoves} />
+            <TalkAnalysisGroup
+              title="Phrase Bank"
+              items={lesson.talkAnalysis.phraseBank}
+              clipBase="talkAnalysis.phraseBank"
+              getAudioSrc={clipSrc}
+            />
+            <TalkAnalysisGroup
+              title="Logic Moves"
+              items={lesson.talkAnalysis.logicMoves}
+              clipBase="talkAnalysis.logicMoves"
+              getAudioSrc={clipSrc}
+            />
           </div>
 
           <div className="mt-6">
             <h3 className="font-serif text-2xl font-bold">Vocab</h3>
             <div className="mt-3 grid md:grid-cols-2 gap-3">
-              {lesson.talkAnalysis.vocabulary.map((item) => (
+              {lesson.talkAnalysis.vocabulary.map((item, index) => (
                 <div key={item.word} className="rounded-lg border border-ink/10 bg-paper p-4">
-                  <div className="font-serif text-2xl font-bold text-accent">
-                    {item.word}
+                  <div className="flex flex-wrap items-center justify-between gap-2">
+                    <div className="font-serif text-2xl font-bold text-accent">
+                      {item.word}
+                    </div>
+                    <AudioButton
+                      src={clipSrc(`talkAnalysis.vocabulary.${index}`)}
+                      label="vocab"
+                    />
                   </div>
                   <p className="mt-2 text-sm leading-relaxed text-ink-muted">
                     {item.meaning.en}
@@ -177,11 +217,17 @@ export function ProfessionalEnglishLessonPage() {
           <div className="mt-6 rounded-lg border border-accent/30 bg-accent/10 p-4">
             <h3 className="font-serif text-2xl font-bold">Learnings</h3>
             <div className="mt-3 space-y-2">
-              {lesson.talkAnalysis.conversationLessons.map((item) => (
-                <p key={item.en} className="text-sm leading-relaxed text-ink-muted">
-                  {item.en}
-                  <span className="text-zh ml-1.5">{item.zh}</span>
-                </p>
+              {lesson.talkAnalysis.conversationLessons.map((item, index) => (
+                <div key={item.en} className="flex flex-wrap items-start gap-2">
+                  <AudioButton
+                    src={clipSrc(`talkAnalysis.conversationLessons.${index}`)}
+                    label="learn"
+                  />
+                  <p className="min-w-0 flex-1 text-sm leading-relaxed text-ink-muted">
+                    {item.en}
+                    <span className="text-zh ml-1.5">{item.zh}</span>
+                  </p>
+                </div>
               ))}
             </div>
           </div>
@@ -191,6 +237,9 @@ export function ProfessionalEnglishLessonPage() {
       <section className="my-8 rounded-xl bg-ink text-paper p-8 text-center">
         <div className="text-xs uppercase tracking-[0.2em] text-paper-warm/60 font-semibold mb-3">
           Core Principle · 核心原则
+        </div>
+        <div className="mb-4">
+          <AudioButton src={clipSrc("principle")} label="principle" size="md" />
         </div>
         <div className="font-serif text-2xl md:text-3xl font-bold text-accent-soft">
           {lesson.principle.en}
@@ -212,8 +261,11 @@ export function ProfessionalEnglishLessonPage() {
             {lesson.languageMove.title.zh}
           </div>
           <div className="mt-5 rounded-lg border border-accent/30 bg-accent/10 p-4">
-            <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold">
-              Anchor phrase
+            <div className="flex flex-wrap items-center justify-between gap-3">
+              <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold">
+                Anchor phrase
+              </div>
+              <AudioButton src={clipSrc("languageMove.anchor")} label="anchor" />
             </div>
             <div className="mt-2 font-serif text-3xl font-bold text-accent">
               {lesson.languageMove.anchor.phrase}
@@ -224,16 +276,27 @@ export function ProfessionalEnglishLessonPage() {
               </p>
             )}
           </div>
-          <p className="mt-5 text-lg leading-relaxed text-ink-muted">
-            {lesson.languageMove.concept.en}
-            <span className="text-zh ml-2">{lesson.languageMove.concept.zh}</span>
-          </p>
+          <div className="mt-5 rounded-lg border border-ink/10 bg-paper p-4">
+            <AudioButton src={clipSrc("languageMove.concept")} label="concept" />
+            <p className="mt-3 text-lg leading-relaxed text-ink-muted">
+              {lesson.languageMove.concept.en}
+              <span className="text-zh ml-2">{lesson.languageMove.concept.zh}</span>
+            </p>
+          </div>
           <div className="mt-5 space-y-3">
-            {lesson.languageMove.examples.map((item) => (
+            {lesson.languageMove.examples.map((item, index) => (
               <div key={item.line} className="rounded-lg border border-ink/10 bg-paper p-4">
-                <div className="font-semibold">{item.intent.en}</div>
-                <div className="text-zh text-sm text-ink-muted mt-1">
-                  {item.intent.zh}
+                <div className="flex flex-wrap items-start justify-between gap-3">
+                  <div>
+                    <div className="font-semibold">{item.intent.en}</div>
+                    <div className="text-zh text-sm text-ink-muted mt-1">
+                      {item.intent.zh}
+                    </div>
+                  </div>
+                  <AudioButton
+                    src={clipSrc(`languageMove.examples.${index}`)}
+                    label="example"
+                  />
                 </div>
                 <p className="mt-3 font-serif text-xl leading-relaxed">
                   “{item.line}”
@@ -265,11 +328,16 @@ export function ProfessionalEnglishLessonPage() {
                   {index + 1}
                 </div>
                 <div className="min-w-0">
-                  <h3 className="font-semibold text-lg leading-snug">
-                    {item.intent.en}
-                  </h3>
-                  <div className="text-zh text-sm text-ink-muted mt-1">
-                    {item.intent.zh}
+                  <div className="flex flex-wrap items-start justify-between gap-3">
+                    <div>
+                      <h3 className="font-semibold text-lg leading-snug">
+                        {item.intent.en}
+                      </h3>
+                      <div className="text-zh text-sm text-ink-muted mt-1">
+                        {item.intent.zh}
+                      </div>
+                    </div>
+                    <AudioButton src={clipSrc(`lines.${index}`)} label="line" />
                   </div>
                   <p className="mt-4 font-serif text-xl leading-relaxed text-ink">
                     “{item.line}”
@@ -290,12 +358,20 @@ export function ProfessionalEnglishLessonPage() {
         <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-3">
           Practice Drill · 复述训练
         </div>
-        <h2 className="font-serif text-2xl font-bold">{lesson.drill.prompt.en}</h2>
-        <div className="text-zh text-ink-muted mt-1">{lesson.drill.prompt.zh}</div>
+        <div className="flex flex-wrap items-start justify-between gap-3">
+          <div>
+            <h2 className="font-serif text-2xl font-bold">{lesson.drill.prompt.en}</h2>
+            <div className="text-zh text-ink-muted mt-1">{lesson.drill.prompt.zh}</div>
+          </div>
+          <AudioButton src={clipSrc("drill.prompt")} label="drill" />
+        </div>
         <div className="mt-5 grid md:grid-cols-3 gap-3">
-          {lesson.drill.steps.map((step) => (
+          {lesson.drill.steps.map((step, index) => (
             <div key={step.en} className="rounded-lg border border-ink/10 bg-white p-4">
-              <div className="font-semibold leading-snug">{step.en}</div>
+              <div className="flex flex-wrap items-start justify-between gap-2">
+                <div className="font-semibold leading-snug">{step.en}</div>
+                <AudioButton src={clipSrc(`drill.steps.${index}`)} label="step" />
+              </div>
               <div className="text-zh text-sm text-ink-muted mt-2">{step.zh}</div>
               <div className="mt-4 border-t border-ink/10 pt-3">
                 <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold">
@@ -323,6 +399,8 @@ export function ProfessionalEnglishLessonPage() {
 function TalkAnalysisGroup({
   title,
   items,
+  clipBase,
+  getAudioSrc,
 }: {
   title: string;
   items: Array<{
@@ -330,15 +408,22 @@ function TalkAnalysisGroup({
     line: string;
     why: { en: string; zh: string };
   }>;
+  clipBase: string;
+  getAudioSrc: (key: string) => string | undefined;
 }) {
   return (
     <div>
       <h3 className="font-serif text-2xl font-bold">{title}</h3>
       <div className="mt-3 space-y-3">
-        {items.map((item) => (
+        {items.map((item, index) => (
           <div key={item.line} className="rounded-lg border border-ink/10 bg-paper p-4">
-            <div className="font-semibold">{item.intent.en}</div>
-            <div className="text-zh text-sm text-ink-muted mt-1">{item.intent.zh}</div>
+            <div className="flex flex-wrap items-start justify-between gap-3">
+              <div>
+                <div className="font-semibold">{item.intent.en}</div>
+                <div className="text-zh text-sm text-ink-muted mt-1">{item.intent.zh}</div>
+              </div>
+              <AudioButton src={getAudioSrc(`${clipBase}.${index}`)} label="play" />
+            </div>
             <p className="mt-3 font-serif text-lg leading-relaxed">“{item.line}”</p>
             <p className="mt-3 text-sm leading-relaxed text-ink-muted">
               {item.why.en}
@@ -385,11 +470,22 @@ function FutureLessonLink({
   );
 }
 
-function QuoteBlock({ label, text }: { label: string; text: string }) {
+function QuoteBlock({
+  label,
+  text,
+  audioSrc,
+}: {
+  label: string;
+  text: string;
+  audioSrc?: string;
+}) {
   return (
     <div>
-      <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold mb-2">
-        {label}
+      <div className="mb-2 flex flex-wrap items-center justify-between gap-3">
+        <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold">
+          {label}
+        </div>
+        <AudioButton src={audioSrc} label="quote" />
       </div>
       <p className="border-l-4 border-accent/50 pl-4 text-lg leading-relaxed text-ink-muted">
         “{text}”
@@ -402,10 +498,12 @@ function ResponseBlock({
   title,
   tone,
   text,
+  audioSrc,
 }: {
   title: string;
   tone: "weak" | "reliable";
   text: string;
+  audioSrc?: string;
 }) {
   const toneClass =
     tone === "reliable"
@@ -414,8 +512,11 @@ function ResponseBlock({
 
   return (
     <div className={`rounded-lg border p-4 ${toneClass}`}>
-      <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold">
-        {title}
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold">
+          {title}
+        </div>
+        <AudioButton src={audioSrc} label="box" />
       </div>
       <p className="mt-3 leading-relaxed text-ink">{text}</p>
     </div>

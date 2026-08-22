@@ -60,6 +60,7 @@ export interface TalkAnalysis {
 
 export interface ProfessionalLessonAudio {
   narration?: string;
+  clips?: Record<string, string>;
 }
 
 export interface ProfessionalEnglishLesson {
