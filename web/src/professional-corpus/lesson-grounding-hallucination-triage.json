@@ -13,7 +13,13 @@
     "zh": "可靠的 AI 专业人士，会把模糊的准确性抱怨，转成证据、失效分类和修复路径。"
   },
   "audience": "GenAI FDE · AI consultant · Applied AI lead",
-  "tags": ["Grounding", "RAG", "Evaluation", "Customer Trust", "Agentic AI"],
+  "tags": [
+    "Grounding",
+    "RAG",
+    "Evaluation",
+    "Customer Trust",
+    "Agentic AI"
+  ],
   "scenario": {
     "customer": "The assistant sometimes makes things up. We are not sure whether the model is bad, the retrieval is bad, or the prompts are bad.",
     "weakResponse": "We can add better prompts and use a stronger model.",
@@ -181,5 +187,33 @@
         }
       }
     ]
+  },
+  "audio": {
+    "narration": "audio/professional/grounding-hallucination-triage/narration.wav",
+    "clips": {
+      "tag.0": "audio/professional/grounding-hallucination-triage/clips/tag_0.wav",
+      "tag.1": "audio/professional/grounding-hallucination-triage/clips/tag_1.wav",
+      "tag.2": "audio/professional/grounding-hallucination-triage/clips/tag_2.wav",
+      "tag.3": "audio/professional/grounding-hallucination-triage/clips/tag_3.wav",
+      "tag.4": "audio/professional/grounding-hallucination-triage/clips/tag_4.wav",
+      "scenario.customer": "audio/professional/grounding-hallucination-triage/clips/scenario_customer.wav",
+      "scenario.weakResponse": "audio/professional/grounding-hallucination-triage/clips/scenario_weakResponse.wav",
+      "scenario.reliableResponse": "audio/professional/grounding-hallucination-triage/clips/scenario_reliableResponse.wav",
+      "principle": "audio/professional/grounding-hallucination-triage/clips/principle.wav",
+      "languageMove.anchor": "audio/professional/grounding-hallucination-triage/clips/languageMove_anchor.wav",
+      "languageMove.concept": "audio/professional/grounding-hallucination-triage/clips/languageMove_concept.wav",
+      "languageMove.examples.0": "audio/professional/grounding-hallucination-triage/clips/languageMove_examples_0.wav",
+      "languageMove.examples.1": "audio/professional/grounding-hallucination-triage/clips/languageMove_examples_1.wav",
+      "languageMove.examples.2": "audio/professional/grounding-hallucination-triage/clips/languageMove_examples_2.wav",
+      "lines.0": "audio/professional/grounding-hallucination-triage/clips/lines_0.wav",
+      "lines.1": "audio/professional/grounding-hallucination-triage/clips/lines_1.wav",
+      "lines.2": "audio/professional/grounding-hallucination-triage/clips/lines_2.wav",
+      "lines.3": "audio/professional/grounding-hallucination-triage/clips/lines_3.wav",
+      "lines.4": "audio/professional/grounding-hallucination-triage/clips/lines_4.wav",
+      "drill.prompt": "audio/professional/grounding-hallucination-triage/clips/drill_prompt.wav",
+      "drill.steps.0": "audio/professional/grounding-hallucination-triage/clips/drill_steps_0.wav",
+      "drill.steps.1": "audio/professional/grounding-hallucination-triage/clips/drill_steps_1.wav",
+      "drill.steps.2": "audio/professional/grounding-hallucination-triage/clips/drill_steps_2.wav"
+    }
   }
 }

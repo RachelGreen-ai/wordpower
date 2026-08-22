@@ -4,10 +4,11 @@
  *
  * Usage:
  *   npm run tts:professional -- --lesson ../web/src/professional-corpus/lesson-foo.json
+ *   npm run tts:professional -- --all --skipExisting
  *   npm run tts:professional -- --lesson ../web/src/professional-corpus/lesson-foo.json --backend mock
  */
 import { parseArgs } from "node:util";
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir, readdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -228,6 +229,7 @@ async function main() {
   const { values } = parseArgs({
     options: {
       lesson: { type: "string", short: "l" },
+      all: { type: "boolean", short: "a" },
       backend: { type: "string", short: "b" },
       voice: { type: "string", short: "v" },
       skipExisting: { type: "boolean" },
@@ -237,21 +239,47 @@ async function main() {
     allowPositionals: false,
   });
 
-  if (values.help || !values.lesson) {
+  if (values.help || (!values.lesson && !values.all)) {
     console.error(`
 Usage: npm run tts:professional -- --lesson <lesson-json> [--backend mlx|mock|elevenlabs] [--voice af_heart]
+       npm run tts:professional -- --all --skipExisting
 `);
     process.exit(values.help ? 0 : 1);
   }
 
-  const lessonPath = resolve(values.lesson);
+  const lessonPaths = values.all
+    ? (await readdir(resolve(WEB_DIR, "src", "professional-corpus")))
+        .filter((file) => file.startsWith("lesson-") && file.endsWith(".json"))
+        .sort()
+        .map((file) => resolve(WEB_DIR, "src", "professional-corpus", file))
+    : [resolve(values.lesson!)];
+
+  for (const lessonPath of lessonPaths) {
+    await generateLessonAudio(lessonPath, {
+      backend: values.backend as TTSBackend | undefined,
+      voice: values.voice,
+      skipExisting: values.skipExisting ?? false,
+      only: values.only,
+    });
+  }
+}
+
+async function generateLessonAudio(
+  lessonPath: string,
+  options: {
+    backend?: TTSBackend;
+    voice?: string;
+    skipExisting: boolean;
+    only?: string;
+  },
+) {
   const raw = JSON.parse(await readFile(lessonPath, "utf8")) as ProfessionalLesson;
   const text = buildNarration(raw);
   const outRelPath = narrationPath(raw.lessonId);
   const outAbsPath = resolve(WEB_PUBLIC, outRelPath);
   const existingClips = raw.audio?.clips ?? {};
-  const only = values.only
-    ? new Set(values.only.split(",").map((item) => item.trim()).filter(Boolean))
+  const only = options.only
+    ? new Set(options.only.split(",").map((item) => item.trim()).filter(Boolean))
     : null;
   await mkdir(dirname(outAbsPath), { recursive: true });
 
@@ -259,15 +287,15 @@ Usage: npm run tts:professional -- --lesson <lesson-json> [--backend mlx|mock|el
   console.error(`Generating narration: ${outRelPath}`);
   console.error(`Text length: ${text.length} chars`);
 
-  if (!only && (!values.skipExisting || !existsSync(outAbsPath))) {
+  if (!only && (!options.skipExisting || !existsSync(outAbsPath))) {
     await generateTTS({
       text,
       outPath: outAbsPath,
-      backend: (values.backend as TTSBackend | undefined) ?? undefined,
-      voice: values.voice ?? DEFAULT_VOICE,
+      backend: options.backend,
+      voice: options.voice ?? DEFAULT_VOICE,
       language: "en",
       temperature: 0.45,
-      timeoutMs: 10 * 60 * 1000,
+      timeoutMs: 30 * 60 * 1000,
     });
   } else if (!only) {
     console.error(`Skipping existing narration: ${outRelPath}`);
@@ -282,7 +310,7 @@ Usage: npm run tts:professional -- --lesson <lesson-json> [--backend mlx|mock|el
 
     const rel = clipPath(raw.lessonId, clip.key);
     const abs = resolve(WEB_PUBLIC, rel);
-    if (values.skipExisting && existsSync(abs)) {
+    if (options.skipExisting && existsSync(abs)) {
       nextClips[clip.key] = rel;
       console.error(`Skipping existing clip: ${clip.key}`);
       continue;
@@ -292,8 +320,8 @@ Usage: npm run tts:professional -- --lesson <lesson-json> [--backend mlx|mock|el
     await generateTTS({
       text: clip.text,
       outPath: abs,
-      backend: (values.backend as TTSBackend | undefined) ?? undefined,
-      voice: values.voice ?? DEFAULT_VOICE,
+      backend: options.backend,
+      voice: options.voice ?? DEFAULT_VOICE,
       language: "en",
       temperature: 0.35,
       timeoutMs: 5 * 60 * 1000,

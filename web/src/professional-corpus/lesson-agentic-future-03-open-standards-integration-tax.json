@@ -14,7 +14,13 @@
     "zh": "学习用清楚的高管英语解释 A2A 式互操作性和 model-agnostic 策略。"
   },
   "audience": "Platform strategist · AI architect · Enterprise buyer-facing engineer",
-  "tags": ["Agentic Future", "A2A", "Interoperability", "Open Standards", "Platform Strategy"],
+  "tags": [
+    "Agentic Future",
+    "A2A",
+    "Interoperability",
+    "Open Standards",
+    "Platform Strategy"
+  ],
   "source": {
     "type": "Interview",
     "title": "A2A moves to the Agentic AI Foundation",
@@ -247,7 +253,7 @@
       "line": "Every custom connection solves today's problem but can become tomorrow's integration tax.",
       "why": {
         "en": "It gives the listener a memorable cost frame.",
-          "zh": "给听者一个好记的成本框架。"
+        "zh": "给听者一个好记的成本框架。"
       }
     },
     {
@@ -326,5 +332,52 @@
         }
       }
     ]
+  },
+  "audio": {
+    "narration": "audio/professional/agentic-future-03-open-standards-integration-tax/narration.wav",
+    "clips": {
+      "tag.0": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/tag_0.wav",
+      "tag.1": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/tag_1.wav",
+      "tag.2": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/tag_2.wav",
+      "tag.3": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/tag_3.wav",
+      "tag.4": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/tag_4.wav",
+      "source": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/source.wav",
+      "scenario.customer": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/scenario_customer.wav",
+      "scenario.weakResponse": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/scenario_weakResponse.wav",
+      "scenario.reliableResponse": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/scenario_reliableResponse.wav",
+      "principle": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/principle.wav",
+      "talkAnalysis.flow.0": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_flow_0.wav",
+      "talkAnalysis.flow.1": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_flow_1.wav",
+      "talkAnalysis.flow.2": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_flow_2.wav",
+      "talkAnalysis.flow.3": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_flow_3.wav",
+      "talkAnalysis.flow.4": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_flow_4.wav",
+      "talkAnalysis.phraseBank.0": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_phraseBank_0.wav",
+      "talkAnalysis.phraseBank.1": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_phraseBank_1.wav",
+      "talkAnalysis.phraseBank.2": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_phraseBank_2.wav",
+      "talkAnalysis.logicMoves.0": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_logicMoves_0.wav",
+      "talkAnalysis.logicMoves.1": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_logicMoves_1.wav",
+      "talkAnalysis.logicMoves.2": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_logicMoves_2.wav",
+      "talkAnalysis.vocabulary.0": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_vocabulary_0.wav",
+      "talkAnalysis.vocabulary.1": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_vocabulary_1.wav",
+      "talkAnalysis.vocabulary.2": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_vocabulary_2.wav",
+      "talkAnalysis.vocabulary.3": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_vocabulary_3.wav",
+      "talkAnalysis.conversationLessons.0": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_conversationLessons_0.wav",
+      "talkAnalysis.conversationLessons.1": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_conversationLessons_1.wav",
+      "talkAnalysis.conversationLessons.2": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/talkAnalysis_conversationLessons_2.wav",
+      "languageMove.anchor": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/languageMove_anchor.wav",
+      "languageMove.concept": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/languageMove_concept.wav",
+      "languageMove.examples.0": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/languageMove_examples_0.wav",
+      "languageMove.examples.1": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/languageMove_examples_1.wav",
+      "languageMove.examples.2": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/languageMove_examples_2.wav",
+      "lines.0": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/lines_0.wav",
+      "lines.1": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/lines_1.wav",
+      "lines.2": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/lines_2.wav",
+      "lines.3": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/lines_3.wav",
+      "lines.4": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/lines_4.wav",
+      "drill.prompt": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/drill_prompt.wav",
+      "drill.steps.0": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/drill_steps_0.wav",
+      "drill.steps.1": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/drill_steps_1.wav",
+      "drill.steps.2": "audio/professional/agentic-future-03-open-standards-integration-tax/clips/drill_steps_2.wav"
+    }
   }
 }

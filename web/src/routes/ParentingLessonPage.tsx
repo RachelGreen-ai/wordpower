@@ -1,4 +1,5 @@
 import { Link, useParams } from "react-router-dom";
+import { AudioButton } from "../components/AudioButton";
 import { getParentingLesson } from "../lib/parenting";
 
 export function ParentingLessonPage() {
@@ -17,6 +18,8 @@ export function ParentingLessonPage() {
     );
   }
 
+  const clipSrc = (key: string) => lesson.audio?.clips?.[key];
+
   return (
     <div className="max-w-4xl mx-auto px-4 md:px-8 py-10">
       <nav className="mb-6">
@@ -29,6 +32,15 @@ export function ParentingLessonPage() {
         <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-3">
           {lesson.series.en} · {lesson.series.zh}
         </div>
+        {lesson.audio?.narration && (
+          <div className="mb-5">
+            <AudioButton
+              src={lesson.audio.narration}
+              label="play lesson"
+              size="md"
+            />
+          </div>
+        )}
         <h1 className="font-serif text-4xl md:text-5xl font-bold leading-tight">
           {lesson.title.en}
         </h1>
@@ -38,12 +50,13 @@ export function ParentingLessonPage() {
           <span className="text-zh ml-2">{lesson.subtitle.zh}</span>
         </p>
         <div className="mt-4 flex flex-wrap gap-2">
-          {lesson.tags.map((tag) => (
+          {lesson.tags.map((tag, index) => (
             <span
               key={tag}
-              className="inline-flex rounded-full border border-ink/10 bg-paper-warm px-2.5 py-0.5 text-xs text-ink-muted"
+              className="inline-flex items-center gap-1.5 rounded-full border border-ink/10 bg-paper-warm px-2.5 py-0.5 text-xs text-ink-muted"
             >
               #{tag}
+              <AudioButton src={clipSrc(`tag.${index}`)} label="tag" />
             </span>
           ))}
         </div>
@@ -53,16 +66,33 @@ export function ParentingLessonPage() {
         <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-4">
           Parenting Moment · 养育场景
         </div>
-        <QuoteBlock label="Context" text={lesson.moment.context} />
+        <QuoteBlock
+          label="Context"
+          text={lesson.moment.context}
+          audioSrc={clipSrc("moment.context")}
+        />
         <div className="grid md:grid-cols-2 gap-4 mt-5">
-          <ResponseBlock title="Avoid saying" tone="weak" text={lesson.moment.avoid} />
-          <ResponseBlock title="Say with regard" tone="reliable" text={lesson.moment.better} />
+          <ResponseBlock
+            title="Avoid saying"
+            tone="weak"
+            text={lesson.moment.avoid}
+            audioSrc={clipSrc("moment.avoid")}
+          />
+          <ResponseBlock
+            title="Say with regard"
+            tone="reliable"
+            text={lesson.moment.better}
+            audioSrc={clipSrc("moment.better")}
+          />
         </div>
       </section>
 
       <section className="my-8 rounded-xl bg-ink text-paper p-8 text-center">
         <div className="text-xs uppercase tracking-[0.2em] text-paper-warm/60 font-semibold mb-3">
           Core Principle · 核心原则
+        </div>
+        <div className="mb-4">
+          <AudioButton src={clipSrc("principle")} label="principle" size="md" />
         </div>
         <div className="font-serif text-2xl md:text-3xl font-bold text-accent-soft">
           {lesson.principle.en}
@@ -82,9 +112,14 @@ export function ParentingLessonPage() {
               <div className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-accent/10 text-xs font-bold text-accent">
                 {index + 1}
               </div>
-              <div className="text-sm leading-relaxed text-ink-muted">
-                {frame.en}
-                <span className="text-zh ml-1.5">{frame.zh}</span>
+              <div className="min-w-0 flex-1">
+                <div className="mb-2">
+                  <AudioButton src={clipSrc(`frames.${index}`)} label="frame" />
+                </div>
+                <div className="text-sm leading-relaxed text-ink-muted">
+                  {frame.en}
+                  <span className="text-zh ml-1.5">{frame.zh}</span>
+                </div>
               </div>
             </div>
           ))}
@@ -97,8 +132,13 @@ export function ParentingLessonPage() {
           <div className="text-zh text-lg text-ink-muted mt-1">不同对象，不同说法</div>
         </div>
         <div className="space-y-4">
-          {lesson.phraseBank.map((item) => (
-            <PhraseCard key={item.line} item={item} />
+          {lesson.phraseBank.map((item, index) => (
+            <PhraseCard
+              key={item.line}
+              item={item}
+              audioSrc={clipSrc(`phraseBank.${index}`)}
+              audioLabel="phrase"
+            />
           ))}
         </div>
       </section>
@@ -107,10 +147,13 @@ export function ParentingLessonPage() {
         <h2 className="font-serif text-3xl font-bold">Vocabulary With Regard</h2>
         <div className="text-zh text-lg text-ink-muted mt-1">有分寸的养育词汇</div>
         <div className="mt-5 grid md:grid-cols-2 gap-3">
-          {lesson.vocabulary.map((item) => (
+          {lesson.vocabulary.map((item, index) => (
             <div key={item.term} className="rounded-lg border border-ink/10 bg-paper p-4">
-              <div className="font-serif text-2xl font-bold text-accent">
-                {item.term}
+              <div className="flex flex-wrap items-center justify-between gap-2">
+                <div className="font-serif text-2xl font-bold text-accent">
+                  {item.term}
+                </div>
+                <AudioButton src={clipSrc(`vocabulary.${index}`)} label="vocab" />
               </div>
               <p className="mt-2 text-sm leading-relaxed text-ink-muted">
                 {item.meaning.en}
@@ -131,8 +174,13 @@ export function ParentingLessonPage() {
           <div className="text-zh text-lg text-ink-muted mt-1">可以直接练习的句子</div>
         </div>
         <div className="space-y-4">
-          {lesson.scripts.map((item) => (
-            <PhraseCard key={item.line} item={item} />
+          {lesson.scripts.map((item, index) => (
+            <PhraseCard
+              key={item.line}
+              item={item}
+              audioSrc={clipSrc(`scripts.${index}`)}
+              audioLabel="script"
+            />
           ))}
         </div>
       </section>
@@ -142,11 +190,14 @@ export function ParentingLessonPage() {
           Reflection · 复盘
         </div>
         <div className="space-y-2">
-          {lesson.reflection.map((item) => (
-            <p key={item.en} className="text-sm leading-relaxed text-ink-muted">
-              {item.en}
-              <span className="text-zh ml-1.5">{item.zh}</span>
-            </p>
+          {lesson.reflection.map((item, index) => (
+            <div key={item.en} className="flex flex-wrap items-start gap-2">
+              <AudioButton src={clipSrc(`reflection.${index}`)} label="reflect" />
+              <p className="min-w-0 flex-1 text-sm leading-relaxed text-ink-muted">
+                {item.en}
+                <span className="text-zh ml-1.5">{item.zh}</span>
+              </p>
+            </div>
           ))}
         </div>
       </section>
@@ -156,17 +207,22 @@ export function ParentingLessonPage() {
           Sources · 来源
         </div>
         <div className="space-y-3">
-          {lesson.sources.map((source) => (
+          {lesson.sources.map((source, index) => (
             <div key={source.url} className="text-sm leading-relaxed">
-              <a
-                href={source.url}
-                target="_blank"
-                rel="noreferrer"
-                className="font-semibold text-accent hover:underline"
-              >
-                {source.title}
-              </a>
-              <span className="text-ink-muted"> · {source.organization}</span>
+              <div className="flex flex-wrap items-center justify-between gap-3">
+                <div>
+                  <a
+                    href={source.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="font-semibold text-accent hover:underline"
+                  >
+                    {source.title}
+                  </a>
+                  <span className="text-ink-muted"> · {source.organization}</span>
+                </div>
+                <AudioButton src={clipSrc(`sources.${index}`)} label="source" />
+              </div>
               {source.note && (
                 <p className="mt-1 text-ink-muted">
                   {source.note.en}
@@ -181,11 +237,22 @@ export function ParentingLessonPage() {
   );
 }
 
-function QuoteBlock({ label, text }: { label: string; text: string }) {
+function QuoteBlock({
+  label,
+  text,
+  audioSrc,
+}: {
+  label: string;
+  text: string;
+  audioSrc?: string;
+}) {
   return (
     <div className="rounded-lg border border-ink/10 bg-paper p-4">
-      <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold">
-        {label}
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold">
+          {label}
+        </div>
+        <AudioButton src={audioSrc} label="context" />
       </div>
       <p className="mt-2 font-serif text-xl leading-relaxed">{text}</p>
     </div>
@@ -196,10 +263,12 @@ function ResponseBlock({
   title,
   text,
   tone,
+  audioSrc,
 }: {
   title: string;
   text: string;
   tone: "weak" | "reliable";
+  audioSrc?: string;
 }) {
   return (
     <div
@@ -209,23 +278,39 @@ function ResponseBlock({
           : "border-accent/30 bg-accent/10"
       }`}
     >
-      <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold">
-        {title}
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <div className="text-xs uppercase tracking-[0.16em] text-ink-soft font-semibold">
+          {title}
+        </div>
+        <AudioButton src={audioSrc} label="box" />
       </div>
       <p className="mt-2 text-sm leading-relaxed text-ink-muted">{text}</p>
     </div>
   );
 }
 
-function PhraseCard({ item }: { item: {
-  audience: { en: string; zh: string };
-  line: string;
-  why: { en: string; zh: string };
-} }) {
+function PhraseCard({
+  item,
+  audioSrc,
+  audioLabel,
+}: {
+  item: {
+    audience: { en: string; zh: string };
+    line: string;
+    why: { en: string; zh: string };
+  };
+  audioSrc?: string;
+  audioLabel: string;
+}) {
   return (
     <article className="rounded-xl border border-ink/10 bg-white p-6">
-      <div className="font-semibold text-lg leading-snug">{item.audience.en}</div>
-      <div className="text-zh text-sm text-ink-muted mt-1">{item.audience.zh}</div>
+      <div className="flex flex-wrap items-start justify-between gap-3">
+        <div>
+          <div className="font-semibold text-lg leading-snug">{item.audience.en}</div>
+          <div className="text-zh text-sm text-ink-muted mt-1">{item.audience.zh}</div>
+        </div>
+        <AudioButton src={audioSrc} label={audioLabel} />
+      </div>
       <p className="mt-4 font-serif text-xl leading-relaxed text-ink">
         “{item.line}”
       </p>

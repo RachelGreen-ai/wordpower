@@ -13,7 +13,13 @@
     "zh": "练习一种表达：既保护孩子的尊严，也能说清真实的社交和语言需求。"
   },
   "audience": "Bay Area parent · preschool family · bilingual home",
-  "tags": ["Shy Child", "Slow To Warm Up", "Dignity", "Bilingual Parenting", "Parenting English"],
+  "tags": [
+    "Shy Child",
+    "Slow To Warm Up",
+    "Dignity",
+    "Bilingual Parenting",
+    "Parenting English"
+  ],
   "sources": [
     {
       "title": "How to Help Shy Kids",
@@ -190,5 +196,38 @@
       "en": "A parent can be honest without making the child sound broken.",
       "zh": "父母可以诚实，同时不把孩子说成坏掉了。"
     }
-  ]
+  ],
+  "audio": {
+    "narration": "audio/parenting/parenting-01-shy-with-dignity/narration.wav",
+    "clips": {
+      "tag.0": "audio/parenting/parenting-01-shy-with-dignity/clips/tag_0.wav",
+      "tag.1": "audio/parenting/parenting-01-shy-with-dignity/clips/tag_1.wav",
+      "tag.2": "audio/parenting/parenting-01-shy-with-dignity/clips/tag_2.wav",
+      "tag.3": "audio/parenting/parenting-01-shy-with-dignity/clips/tag_3.wav",
+      "tag.4": "audio/parenting/parenting-01-shy-with-dignity/clips/tag_4.wav",
+      "moment.context": "audio/parenting/parenting-01-shy-with-dignity/clips/moment_context.wav",
+      "moment.avoid": "audio/parenting/parenting-01-shy-with-dignity/clips/moment_avoid.wav",
+      "moment.better": "audio/parenting/parenting-01-shy-with-dignity/clips/moment_better.wav",
+      "principle": "audio/parenting/parenting-01-shy-with-dignity/clips/principle.wav",
+      "frames.0": "audio/parenting/parenting-01-shy-with-dignity/clips/frames_0.wav",
+      "frames.1": "audio/parenting/parenting-01-shy-with-dignity/clips/frames_1.wav",
+      "frames.2": "audio/parenting/parenting-01-shy-with-dignity/clips/frames_2.wav",
+      "frames.3": "audio/parenting/parenting-01-shy-with-dignity/clips/frames_3.wav",
+      "phraseBank.0": "audio/parenting/parenting-01-shy-with-dignity/clips/phraseBank_0.wav",
+      "phraseBank.1": "audio/parenting/parenting-01-shy-with-dignity/clips/phraseBank_1.wav",
+      "phraseBank.2": "audio/parenting/parenting-01-shy-with-dignity/clips/phraseBank_2.wav",
+      "vocabulary.0": "audio/parenting/parenting-01-shy-with-dignity/clips/vocabulary_0.wav",
+      "vocabulary.1": "audio/parenting/parenting-01-shy-with-dignity/clips/vocabulary_1.wav",
+      "vocabulary.2": "audio/parenting/parenting-01-shy-with-dignity/clips/vocabulary_2.wav",
+      "vocabulary.3": "audio/parenting/parenting-01-shy-with-dignity/clips/vocabulary_3.wav",
+      "scripts.0": "audio/parenting/parenting-01-shy-with-dignity/clips/scripts_0.wav",
+      "scripts.1": "audio/parenting/parenting-01-shy-with-dignity/clips/scripts_1.wav",
+      "scripts.2": "audio/parenting/parenting-01-shy-with-dignity/clips/scripts_2.wav",
+      "reflection.0": "audio/parenting/parenting-01-shy-with-dignity/clips/reflection_0.wav",
+      "reflection.1": "audio/parenting/parenting-01-shy-with-dignity/clips/reflection_1.wav",
+      "reflection.2": "audio/parenting/parenting-01-shy-with-dignity/clips/reflection_2.wav",
+      "sources.0": "audio/parenting/parenting-01-shy-with-dignity/clips/sources_0.wav",
+      "sources.1": "audio/parenting/parenting-01-shy-with-dignity/clips/sources_1.wav"
+    }
+  }
 }

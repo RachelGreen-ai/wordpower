@@ -13,7 +13,13 @@
     "zh": "最强的 agentic AI 对话，先谈工作、决策、工具、交接和责任，再谈架构名称。"
   },
   "audience": "GenAI FDE · AI solution architect · Product-facing engineer",
-  "tags": ["Agents", "Workflow", "Discovery", "Stakeholder Alignment", "Leadership English"],
+  "tags": [
+    "Agents",
+    "Workflow",
+    "Discovery",
+    "Stakeholder Alignment",
+    "Leadership English"
+  ],
   "scenario": {
     "customer": "We want to build agents for our operations team. We are thinking multi-agent, maybe with tools and memory, but the workflow is still evolving.",
     "weakResponse": "We can design a multi-agent architecture with tools, memory, and routing.",
@@ -181,5 +187,33 @@
         }
       }
     ]
+  },
+  "audio": {
+    "narration": "audio/professional/agent-workflow-discovery/narration.wav",
+    "clips": {
+      "tag.0": "audio/professional/agent-workflow-discovery/clips/tag_0.wav",
+      "tag.1": "audio/professional/agent-workflow-discovery/clips/tag_1.wav",
+      "tag.2": "audio/professional/agent-workflow-discovery/clips/tag_2.wav",
+      "tag.3": "audio/professional/agent-workflow-discovery/clips/tag_3.wav",
+      "tag.4": "audio/professional/agent-workflow-discovery/clips/tag_4.wav",
+      "scenario.customer": "audio/professional/agent-workflow-discovery/clips/scenario_customer.wav",
+      "scenario.weakResponse": "audio/professional/agent-workflow-discovery/clips/scenario_weakResponse.wav",
+      "scenario.reliableResponse": "audio/professional/agent-workflow-discovery/clips/scenario_reliableResponse.wav",
+      "principle": "audio/professional/agent-workflow-discovery/clips/principle.wav",
+      "languageMove.anchor": "audio/professional/agent-workflow-discovery/clips/languageMove_anchor.wav",
+      "languageMove.concept": "audio/professional/agent-workflow-discovery/clips/languageMove_concept.wav",
+      "languageMove.examples.0": "audio/professional/agent-workflow-discovery/clips/languageMove_examples_0.wav",
+      "languageMove.examples.1": "audio/professional/agent-workflow-discovery/clips/languageMove_examples_1.wav",
+      "languageMove.examples.2": "audio/professional/agent-workflow-discovery/clips/languageMove_examples_2.wav",
+      "lines.0": "audio/professional/agent-workflow-discovery/clips/lines_0.wav",
+      "lines.1": "audio/professional/agent-workflow-discovery/clips/lines_1.wav",
+      "lines.2": "audio/professional/agent-workflow-discovery/clips/lines_2.wav",
+      "lines.3": "audio/professional/agent-workflow-discovery/clips/lines_3.wav",
+      "lines.4": "audio/professional/agent-workflow-discovery/clips/lines_4.wav",
+      "drill.prompt": "audio/professional/agent-workflow-discovery/clips/drill_prompt.wav",
+      "drill.steps.0": "audio/professional/agent-workflow-discovery/clips/drill_steps_0.wav",
+      "drill.steps.1": "audio/professional/agent-workflow-discovery/clips/drill_steps_1.wav",
+      "drill.steps.2": "audio/professional/agent-workflow-discovery/clips/drill_steps_2.wav"
+    }
   }
 }

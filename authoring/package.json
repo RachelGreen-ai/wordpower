@@ -8,6 +8,9 @@
     "setup": "bash tts/setup.sh",
     "tts:vocab": "tsx generateVocabAudio.ts",
     "tts:professional": "tsx generateProfessionalAudio.ts",
+    "tts:professional:all": "tsx generateProfessionalAudio.ts --all --skipExisting",
+    "tts:parenting": "tsx generateParentingAudio.ts",
+    "tts:parenting:all": "tsx generateParentingAudio.ts --all --skipExisting",
     "tts:test": "bash tts/test_tts.sh"
   },
   "dependencies": {

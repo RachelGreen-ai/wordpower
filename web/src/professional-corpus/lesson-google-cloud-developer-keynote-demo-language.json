@@ -14,7 +14,13 @@
     "zh": "一节 developer keynote 表达课：让观众听懂问题、约束、设计选择和运营收益。"
   },
   "audience": "Developer advocate · Solution engineer · Technical founder",
-  "tags": ["Google Cloud", "Developer Keynote", "Demo", "Agentic AI", "Technical Storytelling"],
+  "tags": [
+    "Google Cloud",
+    "Developer Keynote",
+    "Demo",
+    "Agentic AI",
+    "Technical Storytelling"
+  ],
   "source": {
     "type": "YouTube",
     "title": "Google Cloud Next '26 Developer Keynote",
@@ -326,5 +332,52 @@
         }
       }
     ]
+  },
+  "audio": {
+    "narration": "audio/professional/google-cloud-developer-keynote-demo-language/narration.wav",
+    "clips": {
+      "tag.0": "audio/professional/google-cloud-developer-keynote-demo-language/clips/tag_0.wav",
+      "tag.1": "audio/professional/google-cloud-developer-keynote-demo-language/clips/tag_1.wav",
+      "tag.2": "audio/professional/google-cloud-developer-keynote-demo-language/clips/tag_2.wav",
+      "tag.3": "audio/professional/google-cloud-developer-keynote-demo-language/clips/tag_3.wav",
+      "tag.4": "audio/professional/google-cloud-developer-keynote-demo-language/clips/tag_4.wav",
+      "source": "audio/professional/google-cloud-developer-keynote-demo-language/clips/source.wav",
+      "scenario.customer": "audio/professional/google-cloud-developer-keynote-demo-language/clips/scenario_customer.wav",
+      "scenario.weakResponse": "audio/professional/google-cloud-developer-keynote-demo-language/clips/scenario_weakResponse.wav",
+      "scenario.reliableResponse": "audio/professional/google-cloud-developer-keynote-demo-language/clips/scenario_reliableResponse.wav",
+      "principle": "audio/professional/google-cloud-developer-keynote-demo-language/clips/principle.wav",
+      "talkAnalysis.flow.0": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_flow_0.wav",
+      "talkAnalysis.flow.1": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_flow_1.wav",
+      "talkAnalysis.flow.2": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_flow_2.wav",
+      "talkAnalysis.flow.3": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_flow_3.wav",
+      "talkAnalysis.flow.4": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_flow_4.wav",
+      "talkAnalysis.phraseBank.0": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_phraseBank_0.wav",
+      "talkAnalysis.phraseBank.1": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_phraseBank_1.wav",
+      "talkAnalysis.phraseBank.2": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_phraseBank_2.wav",
+      "talkAnalysis.logicMoves.0": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_logicMoves_0.wav",
+      "talkAnalysis.logicMoves.1": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_logicMoves_1.wav",
+      "talkAnalysis.logicMoves.2": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_logicMoves_2.wav",
+      "talkAnalysis.vocabulary.0": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_vocabulary_0.wav",
+      "talkAnalysis.vocabulary.1": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_vocabulary_1.wav",
+      "talkAnalysis.vocabulary.2": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_vocabulary_2.wav",
+      "talkAnalysis.vocabulary.3": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_vocabulary_3.wav",
+      "talkAnalysis.conversationLessons.0": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_conversationLessons_0.wav",
+      "talkAnalysis.conversationLessons.1": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_conversationLessons_1.wav",
+      "talkAnalysis.conversationLessons.2": "audio/professional/google-cloud-developer-keynote-demo-language/clips/talkAnalysis_conversationLessons_2.wav",
+      "languageMove.anchor": "audio/professional/google-cloud-developer-keynote-demo-language/clips/languageMove_anchor.wav",
+      "languageMove.concept": "audio/professional/google-cloud-developer-keynote-demo-language/clips/languageMove_concept.wav",
+      "languageMove.examples.0": "audio/professional/google-cloud-developer-keynote-demo-language/clips/languageMove_examples_0.wav",
+      "languageMove.examples.1": "audio/professional/google-cloud-developer-keynote-demo-language/clips/languageMove_examples_1.wav",
+      "languageMove.examples.2": "audio/professional/google-cloud-developer-keynote-demo-language/clips/languageMove_examples_2.wav",
+      "lines.0": "audio/professional/google-cloud-developer-keynote-demo-language/clips/lines_0.wav",
+      "lines.1": "audio/professional/google-cloud-developer-keynote-demo-language/clips/lines_1.wav",
+      "lines.2": "audio/professional/google-cloud-developer-keynote-demo-language/clips/lines_2.wav",
+      "lines.3": "audio/professional/google-cloud-developer-keynote-demo-language/clips/lines_3.wav",
+      "lines.4": "audio/professional/google-cloud-developer-keynote-demo-language/clips/lines_4.wav",
+      "drill.prompt": "audio/professional/google-cloud-developer-keynote-demo-language/clips/drill_prompt.wav",
+      "drill.steps.0": "audio/professional/google-cloud-developer-keynote-demo-language/clips/drill_steps_0.wav",
+      "drill.steps.1": "audio/professional/google-cloud-developer-keynote-demo-language/clips/drill_steps_1.wav",
+      "drill.steps.2": "audio/professional/google-cloud-developer-keynote-demo-language/clips/drill_steps_2.wav"
+    }
   }
 }

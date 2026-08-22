@@ -22,6 +22,11 @@ export interface ParentingVocab {
   use: BilingualText;
 }
 
+export interface ParentingLessonAudio {
+  narration?: string;
+  clips?: Record<string, string>;
+}
+
 export interface ParentingLesson {
   lessonId: string;
   series: BilingualText;
@@ -41,6 +46,7 @@ export interface ParentingLesson {
   vocabulary: ParentingVocab[];
   scripts: ParentingPhrase[];
   reflection: BilingualText[];
+  audio?: ParentingLessonAudio;
 }
 
 const lessonModules = import.meta.glob<{ default: ParentingLesson }>(

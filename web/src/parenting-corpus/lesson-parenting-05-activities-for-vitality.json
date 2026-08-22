@@ -13,7 +13,14 @@
     "zh": "练习如何谈舞蹈、游泳、音乐、运动和兴趣班，而不把每个活动都变成履历项目。"
   },
   "audience": "Parent of a young child · activity planning · Bay Area family life",
-  "tags": ["Activities", "Sports", "Music", "Health", "Vitality", "Parenting English"],
+  "tags": [
+    "Activities",
+    "Sports",
+    "Music",
+    "Health",
+    "Vitality",
+    "Parenting English"
+  ],
   "sources": [
     {
       "title": "Physical Activity",
@@ -190,5 +197,39 @@
       "en": "The parent voice here is playful, grounded, and protective of joy.",
       "zh": "这里的父母声音是有游戏感、稳定、保护快乐的。"
     }
-  ]
+  ],
+  "audio": {
+    "narration": "audio/parenting/parenting-05-activities-for-vitality/narration.wav",
+    "clips": {
+      "tag.0": "audio/parenting/parenting-05-activities-for-vitality/clips/tag_0.wav",
+      "tag.1": "audio/parenting/parenting-05-activities-for-vitality/clips/tag_1.wav",
+      "tag.2": "audio/parenting/parenting-05-activities-for-vitality/clips/tag_2.wav",
+      "tag.3": "audio/parenting/parenting-05-activities-for-vitality/clips/tag_3.wav",
+      "tag.4": "audio/parenting/parenting-05-activities-for-vitality/clips/tag_4.wav",
+      "tag.5": "audio/parenting/parenting-05-activities-for-vitality/clips/tag_5.wav",
+      "moment.context": "audio/parenting/parenting-05-activities-for-vitality/clips/moment_context.wav",
+      "moment.avoid": "audio/parenting/parenting-05-activities-for-vitality/clips/moment_avoid.wav",
+      "moment.better": "audio/parenting/parenting-05-activities-for-vitality/clips/moment_better.wav",
+      "principle": "audio/parenting/parenting-05-activities-for-vitality/clips/principle.wav",
+      "frames.0": "audio/parenting/parenting-05-activities-for-vitality/clips/frames_0.wav",
+      "frames.1": "audio/parenting/parenting-05-activities-for-vitality/clips/frames_1.wav",
+      "frames.2": "audio/parenting/parenting-05-activities-for-vitality/clips/frames_2.wav",
+      "frames.3": "audio/parenting/parenting-05-activities-for-vitality/clips/frames_3.wav",
+      "phraseBank.0": "audio/parenting/parenting-05-activities-for-vitality/clips/phraseBank_0.wav",
+      "phraseBank.1": "audio/parenting/parenting-05-activities-for-vitality/clips/phraseBank_1.wav",
+      "phraseBank.2": "audio/parenting/parenting-05-activities-for-vitality/clips/phraseBank_2.wav",
+      "vocabulary.0": "audio/parenting/parenting-05-activities-for-vitality/clips/vocabulary_0.wav",
+      "vocabulary.1": "audio/parenting/parenting-05-activities-for-vitality/clips/vocabulary_1.wav",
+      "vocabulary.2": "audio/parenting/parenting-05-activities-for-vitality/clips/vocabulary_2.wav",
+      "vocabulary.3": "audio/parenting/parenting-05-activities-for-vitality/clips/vocabulary_3.wav",
+      "scripts.0": "audio/parenting/parenting-05-activities-for-vitality/clips/scripts_0.wav",
+      "scripts.1": "audio/parenting/parenting-05-activities-for-vitality/clips/scripts_1.wav",
+      "scripts.2": "audio/parenting/parenting-05-activities-for-vitality/clips/scripts_2.wav",
+      "reflection.0": "audio/parenting/parenting-05-activities-for-vitality/clips/reflection_0.wav",
+      "reflection.1": "audio/parenting/parenting-05-activities-for-vitality/clips/reflection_1.wav",
+      "reflection.2": "audio/parenting/parenting-05-activities-for-vitality/clips/reflection_2.wav",
+      "sources.0": "audio/parenting/parenting-05-activities-for-vitality/clips/sources_0.wav",
+      "sources.1": "audio/parenting/parenting-05-activities-for-vitality/clips/sources_1.wav"
+    }
+  }
 }

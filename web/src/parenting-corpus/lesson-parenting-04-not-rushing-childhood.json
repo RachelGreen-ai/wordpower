@@ -13,7 +13,13 @@
     "zh": "练习如何和其他家长谈公立、私立、超前课程和一种不焦虑的教育理念。"
   },
   "audience": "Bay Area parent · school choice conversation · parent social circle",
-  "tags": ["School Choice", "No Rush", "Vitality", "Education Philosophy", "Parenting English"],
+  "tags": [
+    "School Choice",
+    "No Rush",
+    "Vitality",
+    "Education Philosophy",
+    "Parenting English"
+  ],
   "sources": [
     {
       "title": "Play and Learning",
@@ -190,5 +196,38 @@
       "en": "The parent voice here is calm, rooted, and difficult to shame.",
       "zh": "这里的父母声音是稳定、有根、不容易被羞辱的。"
     }
-  ]
+  ],
+  "audio": {
+    "narration": "audio/parenting/parenting-04-not-rushing-childhood/narration.wav",
+    "clips": {
+      "tag.0": "audio/parenting/parenting-04-not-rushing-childhood/clips/tag_0.wav",
+      "tag.1": "audio/parenting/parenting-04-not-rushing-childhood/clips/tag_1.wav",
+      "tag.2": "audio/parenting/parenting-04-not-rushing-childhood/clips/tag_2.wav",
+      "tag.3": "audio/parenting/parenting-04-not-rushing-childhood/clips/tag_3.wav",
+      "tag.4": "audio/parenting/parenting-04-not-rushing-childhood/clips/tag_4.wav",
+      "moment.context": "audio/parenting/parenting-04-not-rushing-childhood/clips/moment_context.wav",
+      "moment.avoid": "audio/parenting/parenting-04-not-rushing-childhood/clips/moment_avoid.wav",
+      "moment.better": "audio/parenting/parenting-04-not-rushing-childhood/clips/moment_better.wav",
+      "principle": "audio/parenting/parenting-04-not-rushing-childhood/clips/principle.wav",
+      "frames.0": "audio/parenting/parenting-04-not-rushing-childhood/clips/frames_0.wav",
+      "frames.1": "audio/parenting/parenting-04-not-rushing-childhood/clips/frames_1.wav",
+      "frames.2": "audio/parenting/parenting-04-not-rushing-childhood/clips/frames_2.wav",
+      "frames.3": "audio/parenting/parenting-04-not-rushing-childhood/clips/frames_3.wav",
+      "phraseBank.0": "audio/parenting/parenting-04-not-rushing-childhood/clips/phraseBank_0.wav",
+      "phraseBank.1": "audio/parenting/parenting-04-not-rushing-childhood/clips/phraseBank_1.wav",
+      "phraseBank.2": "audio/parenting/parenting-04-not-rushing-childhood/clips/phraseBank_2.wav",
+      "vocabulary.0": "audio/parenting/parenting-04-not-rushing-childhood/clips/vocabulary_0.wav",
+      "vocabulary.1": "audio/parenting/parenting-04-not-rushing-childhood/clips/vocabulary_1.wav",
+      "vocabulary.2": "audio/parenting/parenting-04-not-rushing-childhood/clips/vocabulary_2.wav",
+      "vocabulary.3": "audio/parenting/parenting-04-not-rushing-childhood/clips/vocabulary_3.wav",
+      "scripts.0": "audio/parenting/parenting-04-not-rushing-childhood/clips/scripts_0.wav",
+      "scripts.1": "audio/parenting/parenting-04-not-rushing-childhood/clips/scripts_1.wav",
+      "scripts.2": "audio/parenting/parenting-04-not-rushing-childhood/clips/scripts_2.wav",
+      "reflection.0": "audio/parenting/parenting-04-not-rushing-childhood/clips/reflection_0.wav",
+      "reflection.1": "audio/parenting/parenting-04-not-rushing-childhood/clips/reflection_1.wav",
+      "reflection.2": "audio/parenting/parenting-04-not-rushing-childhood/clips/reflection_2.wav",
+      "sources.0": "audio/parenting/parenting-04-not-rushing-childhood/clips/sources_0.wav",
+      "sources.1": "audio/parenting/parenting-04-not-rushing-childhood/clips/sources_1.wav"
+    }
+  }
 }

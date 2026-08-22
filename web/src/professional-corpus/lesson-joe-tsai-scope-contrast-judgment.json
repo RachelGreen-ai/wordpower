@@ -14,7 +14,13 @@
     "zh": "一节访谈分析课：学习高质量表达者如何把大话题回答得体、聪明、扎实。"
   },
   "audience": "Professional English · Interview analysis · Smart conversation",
-  "tags": ["Celebrity Talks", "Joe Tsai", "Conversation Flow", "Smart Answers", "Leadership English"],
+  "tags": [
+    "Celebrity Talks",
+    "Joe Tsai",
+    "Conversation Flow",
+    "Smart Answers",
+    "Leadership English"
+  ],
   "source": {
     "type": "YouTube",
     "title": "蔡崇信訪談：球隊、馬雲、阿里巴巴、TikTok、AI、中美競爭...｜Joe Tsai: Alibaba, Jack Ma, Tiktok, AI, Us-China Competition...",
@@ -337,5 +343,51 @@
         }
       }
     ]
+  },
+  "audio": {
+    "narration": "audio/professional/joe-tsai-scope-contrast-judgment/narration.wav",
+    "clips": {
+      "tag.0": "audio/professional/joe-tsai-scope-contrast-judgment/clips/tag_0.wav",
+      "tag.1": "audio/professional/joe-tsai-scope-contrast-judgment/clips/tag_1.wav",
+      "tag.2": "audio/professional/joe-tsai-scope-contrast-judgment/clips/tag_2.wav",
+      "tag.3": "audio/professional/joe-tsai-scope-contrast-judgment/clips/tag_3.wav",
+      "tag.4": "audio/professional/joe-tsai-scope-contrast-judgment/clips/tag_4.wav",
+      "source": "audio/professional/joe-tsai-scope-contrast-judgment/clips/source.wav",
+      "scenario.customer": "audio/professional/joe-tsai-scope-contrast-judgment/clips/scenario_customer.wav",
+      "scenario.weakResponse": "audio/professional/joe-tsai-scope-contrast-judgment/clips/scenario_weakResponse.wav",
+      "scenario.reliableResponse": "audio/professional/joe-tsai-scope-contrast-judgment/clips/scenario_reliableResponse.wav",
+      "principle": "audio/professional/joe-tsai-scope-contrast-judgment/clips/principle.wav",
+      "talkAnalysis.flow.0": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_flow_0.wav",
+      "talkAnalysis.flow.1": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_flow_1.wav",
+      "talkAnalysis.flow.2": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_flow_2.wav",
+      "talkAnalysis.flow.3": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_flow_3.wav",
+      "talkAnalysis.flow.4": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_flow_4.wav",
+      "talkAnalysis.phraseBank.0": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_phraseBank_0.wav",
+      "talkAnalysis.phraseBank.1": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_phraseBank_1.wav",
+      "talkAnalysis.phraseBank.2": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_phraseBank_2.wav",
+      "talkAnalysis.logicMoves.0": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_logicMoves_0.wav",
+      "talkAnalysis.logicMoves.1": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_logicMoves_1.wav",
+      "talkAnalysis.logicMoves.2": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_logicMoves_2.wav",
+      "talkAnalysis.vocabulary.0": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_vocabulary_0.wav",
+      "talkAnalysis.vocabulary.1": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_vocabulary_1.wav",
+      "talkAnalysis.vocabulary.2": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_vocabulary_2.wav",
+      "talkAnalysis.vocabulary.3": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_vocabulary_3.wav",
+      "talkAnalysis.conversationLessons.0": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_conversationLessons_0.wav",
+      "talkAnalysis.conversationLessons.1": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_conversationLessons_1.wav",
+      "talkAnalysis.conversationLessons.2": "audio/professional/joe-tsai-scope-contrast-judgment/clips/talkAnalysis_conversationLessons_2.wav",
+      "languageMove.anchor": "audio/professional/joe-tsai-scope-contrast-judgment/clips/languageMove_anchor.wav",
+      "languageMove.concept": "audio/professional/joe-tsai-scope-contrast-judgment/clips/languageMove_concept.wav",
+      "languageMove.examples.0": "audio/professional/joe-tsai-scope-contrast-judgment/clips/languageMove_examples_0.wav",
+      "languageMove.examples.1": "audio/professional/joe-tsai-scope-contrast-judgment/clips/languageMove_examples_1.wav",
+      "languageMove.examples.2": "audio/professional/joe-tsai-scope-contrast-judgment/clips/languageMove_examples_2.wav",
+      "lines.0": "audio/professional/joe-tsai-scope-contrast-judgment/clips/lines_0.wav",
+      "lines.1": "audio/professional/joe-tsai-scope-contrast-judgment/clips/lines_1.wav",
+      "lines.2": "audio/professional/joe-tsai-scope-contrast-judgment/clips/lines_2.wav",
+      "lines.3": "audio/professional/joe-tsai-scope-contrast-judgment/clips/lines_3.wav",
+      "drill.prompt": "audio/professional/joe-tsai-scope-contrast-judgment/clips/drill_prompt.wav",
+      "drill.steps.0": "audio/professional/joe-tsai-scope-contrast-judgment/clips/drill_steps_0.wav",
+      "drill.steps.1": "audio/professional/joe-tsai-scope-contrast-judgment/clips/drill_steps_1.wav",
+      "drill.steps.2": "audio/professional/joe-tsai-scope-contrast-judgment/clips/drill_steps_2.wav"
+    }
   }
 }

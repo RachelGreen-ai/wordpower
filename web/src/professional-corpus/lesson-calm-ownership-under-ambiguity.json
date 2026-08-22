@@ -13,7 +13,13 @@
     "zh": "面向客户的 GenAI 专业人士，不是表演确定性，而是在不确定中铺出清晰路径。"
   },
   "audience": "GenAI FDE · AI consultant · Technical Account Manager",
-  "tags": ["GenAI", "FDE", "TAM", "Problem Solving", "Leadership English"],
+  "tags": [
+    "GenAI",
+    "FDE",
+    "TAM",
+    "Problem Solving",
+    "Leadership English"
+  ],
   "scenario": {
     "customer": "Our AI assistant is inconsistent. Some answers are useful, but some are wrong or not grounded. The team is losing trust.",
     "weakResponse": "We can improve the prompt, add RAG, and tune the model.",
@@ -192,5 +198,34 @@
         }
       }
     ]
+  },
+  "audio": {
+    "narration": "audio/professional/calm-ownership-under-ambiguity/narration.wav",
+    "clips": {
+      "tag.0": "audio/professional/calm-ownership-under-ambiguity/clips/tag_0.wav",
+      "tag.1": "audio/professional/calm-ownership-under-ambiguity/clips/tag_1.wav",
+      "tag.2": "audio/professional/calm-ownership-under-ambiguity/clips/tag_2.wav",
+      "tag.3": "audio/professional/calm-ownership-under-ambiguity/clips/tag_3.wav",
+      "tag.4": "audio/professional/calm-ownership-under-ambiguity/clips/tag_4.wav",
+      "scenario.customer": "audio/professional/calm-ownership-under-ambiguity/clips/scenario_customer.wav",
+      "scenario.weakResponse": "audio/professional/calm-ownership-under-ambiguity/clips/scenario_weakResponse.wav",
+      "scenario.reliableResponse": "audio/professional/calm-ownership-under-ambiguity/clips/scenario_reliableResponse.wav",
+      "principle": "audio/professional/calm-ownership-under-ambiguity/clips/principle.wav",
+      "languageMove.anchor": "audio/professional/calm-ownership-under-ambiguity/clips/languageMove_anchor.wav",
+      "languageMove.concept": "audio/professional/calm-ownership-under-ambiguity/clips/languageMove_concept.wav",
+      "languageMove.examples.0": "audio/professional/calm-ownership-under-ambiguity/clips/languageMove_examples_0.wav",
+      "languageMove.examples.1": "audio/professional/calm-ownership-under-ambiguity/clips/languageMove_examples_1.wav",
+      "languageMove.examples.2": "audio/professional/calm-ownership-under-ambiguity/clips/languageMove_examples_2.wav",
+      "lines.0": "audio/professional/calm-ownership-under-ambiguity/clips/lines_0.wav",
+      "lines.1": "audio/professional/calm-ownership-under-ambiguity/clips/lines_1.wav",
+      "lines.2": "audio/professional/calm-ownership-under-ambiguity/clips/lines_2.wav",
+      "lines.3": "audio/professional/calm-ownership-under-ambiguity/clips/lines_3.wav",
+      "lines.4": "audio/professional/calm-ownership-under-ambiguity/clips/lines_4.wav",
+      "lines.5": "audio/professional/calm-ownership-under-ambiguity/clips/lines_5.wav",
+      "drill.prompt": "audio/professional/calm-ownership-under-ambiguity/clips/drill_prompt.wav",
+      "drill.steps.0": "audio/professional/calm-ownership-under-ambiguity/clips/drill_steps_0.wav",
+      "drill.steps.1": "audio/professional/calm-ownership-under-ambiguity/clips/drill_steps_1.wav",
+      "drill.steps.2": "audio/professional/calm-ownership-under-ambiguity/clips/drill_steps_2.wav"
+    }
   }
 }
