@@ -14,7 +14,13 @@
     "zh": "一节访谈分析课：学习如何用平衡、运营语境和前瞻判断，回答地缘政治与 AI 问题。"
   },
   "audience": "Professional English · Global business conversation · AI strategy",
-  "tags": ["Celebrity Talks", "Joe Tsai", "US-China", "AI Strategy", "Conversation Logic"],
+  "tags": [
+    "Celebrity Talks",
+    "Joe Tsai",
+    "US-China",
+    "AI Strategy",
+    "Conversation Logic"
+  ],
   "source": {
     "type": "YouTube",
     "title": "Alibaba's Joe Tsai on US-China Rivalry, AI Future, Owning the Nets/Liberty, Caitlin Clark's Impact",
@@ -336,5 +342,8 @@
         }
       }
     ]
+  },
+  "audio": {
+    "narration": "audio/professional/joe-tsai-rivalry-ai-operating-reality/narration.wav"
   }
 }

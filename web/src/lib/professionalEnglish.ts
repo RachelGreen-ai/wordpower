@@ -58,6 +58,10 @@ export interface TalkAnalysis {
   conversationLessons: BilingualText[];
 }
 
+export interface ProfessionalLessonAudio {
+  narration?: string;
+}
+
 export interface ProfessionalEnglishLesson {
   lessonId: string;
   track?: ProfessionalEnglishTrack;
@@ -73,6 +77,7 @@ export interface ProfessionalEnglishLesson {
   };
   principle: BilingualText;
   source?: TalkSource;
+  audio?: ProfessionalLessonAudio;
   talkAnalysis?: TalkAnalysis;
   languageMove?: LanguageMove;
   lines: LeadershipLine[];

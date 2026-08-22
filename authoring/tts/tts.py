@@ -36,6 +36,7 @@ import os
 import sys
 import subprocess
 import time
+import tempfile
 from pathlib import Path
 from typing import Literal, Optional
 
@@ -129,25 +130,65 @@ def _synthesize_mlx(
         # Kokoro: voice is a label like af_heart, af_bella, bf_emma, zf_xiaobei, etc.
         kwargs["voice"] = voice
 
+    # Remove stale chunks from previous runs. mlx-audio writes files using the
+    # requested stem as a prefix, so stale chunks can otherwise be mistaken for
+    # new output and accidentally concatenated.
+    for stale in out_path.parent.glob(f"{out_path.stem}*.wav"):
+        stale.unlink(missing_ok=True)
+
     t0 = time.time()
     generate_audio(**kwargs)
     dt = time.time() - t0
 
-    # mlx-audio writes <file_prefix>_000.wav — rename to the requested path.
+    # mlx-audio writes <file_prefix>_000.wav, and can split longer narration
+    # into multiple chunks. Keep a single stable output path by concatenating
+    # every generated chunk in order.
     candidates = sorted(out_path.parent.glob(f"{out_path.stem}*.wav"))
     if not candidates:
         raise RuntimeError(
             f"mlx-audio produced no .wav at {out_path.parent}/{out_path.stem}*"
         )
-    primary = candidates[0]
-    if primary != out_path:
-        primary.replace(out_path)
-    # Clean up any extra chunks (Kokoro can split long text)
-    for extra in candidates[1:]:
-        if extra.exists():
-            extra.unlink()
+
+    if len(candidates) == 1:
+        primary = candidates[0]
+        if primary != out_path:
+            primary.replace(out_path)
+    else:
+        _concat_wav_chunks(candidates, out_path)
+        for chunk in candidates:
+            if chunk.exists() and chunk != out_path:
+                chunk.unlink()
 
     print(f"[mlx] generated in {dt:.2f}s → {out_path}", file=sys.stderr)
+
+
+def _concat_wav_chunks(chunks: list[Path], out_path: Path) -> None:
+    """Concatenate same-format wav chunks into one wav."""
+    if not _has_ffmpeg():
+        raise RuntimeError("ffmpeg is required to concatenate long TTS chunks")
+
+    tmp_out = out_path.with_suffix(".concat.wav")
+    with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False) as f:
+        list_path = Path(f.name)
+        for chunk in chunks:
+            escaped = str(chunk).replace("'", "'\\''")
+            f.write(f"file '{escaped}'\n")
+
+    try:
+        subprocess.run(
+            [
+                "ffmpeg", "-y", "-hide_banner", "-loglevel", "error",
+                "-f", "concat", "-safe", "0",
+                "-i", str(list_path),
+                "-c", "copy",
+                str(tmp_out),
+            ],
+            check=True,
+        )
+        tmp_out.replace(out_path)
+    finally:
+        list_path.unlink(missing_ok=True)
+        tmp_out.unlink(missing_ok=True)
 
 
 def _post_process_pause_compress(out_path: Path) -> None:

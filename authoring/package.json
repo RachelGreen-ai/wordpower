@@ -7,6 +7,7 @@
   "scripts": {
     "setup": "bash tts/setup.sh",
     "tts:vocab": "tsx generateVocabAudio.ts",
+    "tts:professional": "tsx generateProfessionalAudio.ts",
     "tts:test": "bash tts/test_tts.sh"
   },
   "dependencies": {

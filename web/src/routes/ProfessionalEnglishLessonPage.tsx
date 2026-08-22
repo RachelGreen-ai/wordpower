@@ -1,4 +1,5 @@
 import { Link, useParams } from "react-router-dom";
+import { AudioButton } from "../components/AudioButton";
 import { getProfessionalEnglishLesson } from "../lib/professionalEnglish";
 
 export function ProfessionalEnglishLessonPage() {
@@ -50,6 +51,23 @@ export function ProfessionalEnglishLessonPage() {
             </span>
           ))}
         </div>
+        {lesson.audio?.narration && (
+          <div className="mt-5 rounded-xl border border-accent/30 bg-paper-warm p-4">
+            <div className="flex flex-wrap items-center gap-3">
+              <AudioButton
+                src={lesson.audio.narration}
+                label="Listen to lesson"
+                size="md"
+              />
+              <div className="text-sm leading-relaxed text-ink-muted">
+                TTS narration · 朗读版：core idea, phrase bank, and leadership lines.
+                <span className="text-zh ml-1.5">
+                  听核心观点、关键表达和领导力句型。
+                </span>
+              </div>
+            </div>
+          </div>
+        )}
       </header>
 
       {lesson.source && (
