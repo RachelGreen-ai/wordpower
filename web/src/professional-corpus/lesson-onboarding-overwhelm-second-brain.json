@@ -1,0 +1,336 @@
+{
+  "lessonId": "onboarding-overwhelm-second-brain",
+  "track": "learning-career",
+  "series": {
+    "en": "Learning & Career: Onboarding Intelligence",
+    "zh": "学习与职业：入职沟通智慧"
+  },
+  "title": {
+    "en": "Sound engaged during onboarding without pretending you absorbed everything.",
+    "zh": "入职时显得投入，但不假装自己已经全部消化。"
+  },
+  "subtitle": {
+    "en": "A professional English lesson on naming rich onboarding material, managing overwhelm, and using a light Neuralink-style joke without sounding scattered.",
+    "zh": "一节关于 onboarding 的专业英语课：承认材料丰富、管理信息过载，并用一个 Neuralink 式玩笑轻轻释放压力。"
+  },
+  "audience": "New hire · Career changer · AI-era professional",
+  "tags": [
+    "Onboarding",
+    "Learning",
+    "Second Brain",
+    "Neuralink",
+    "Professional Humor"
+  ],
+  "scenario": {
+    "customer": "You are in onboarding. The material is inspiring, but there is a lot to absorb: product context, team history, processes, tools, acronyms, stakeholder expectations, and unwritten norms.",
+    "weakResponse": "There is so much information. I feel overwhelmed. I hope I can remember everything.",
+    "reliableResponse": "The onboarding material is genuinely inspiring, and I can already see how much context is behind the work. I am still absorbing the details, so I am trying to separate the big picture from the operational details. Honestly, this is the moment when a Neuralink-style brain-computer interface, or at least a very good second brain, would be helpful. Until that ships, I am building my own map and prioritizing what I need to understand first."
+  },
+  "principle": {
+    "en": "Turn overwhelm into a learning system, then use humor to stay human.",
+    "zh": "把 overwhelming 转成学习系统，再用幽默保留人的温度。"
+  },
+  "talkAnalysis": {
+    "flow": [
+      {
+        "en": "Start with appreciation: the material is rich, inspiring, and full of context.",
+        "zh": "先表达欣赏：材料丰富、有启发、背后有很多 context。"
+      },
+      {
+        "en": "Name the pressure without sounding defeated: there is a lot to absorb.",
+        "zh": "承认压力，但不要显得被打倒：有很多东西需要吸收。"
+      },
+      {
+        "en": "Show your sorting method: big picture first, operational details next.",
+        "zh": "展示你的整理方法：先抓大图，再处理操作细节。"
+      },
+      {
+        "en": "Make the joke precise: say brain-computer interface, Neuralink-style implant, or second brain.",
+        "zh": "玩笑要说准：brain-computer interface、Neuralink-style implant、second brain。"
+      },
+      {
+        "en": "Return to responsibility: I am building my own map and prioritizing what to learn first.",
+        "zh": "回到负责姿态：我在建立自己的 map，并排序先学什么。"
+      }
+    ],
+    "phraseBank": [
+      {
+        "intent": {
+          "en": "Praise onboarding material without sounding generic.",
+          "zh": "称赞 onboarding 材料，但不空泛。"
+        },
+        "line": "The onboarding material is not just informative; it gives me a sense of the thinking behind the work.",
+        "why": {
+          "en": "You show that you are reading for judgment, not just facts.",
+          "zh": "你表现出自己在读判断逻辑，而不只是读事实。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Admit overwhelm with composure.",
+          "zh": "稳定地承认信息量大。"
+        },
+        "line": "There is a lot to absorb, so I am trying to separate the strategic context from the operational details.",
+        "why": {
+          "en": "You name the pressure and immediately show a sorting strategy.",
+          "zh": "你承认压力，同时马上给出整理策略。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Use a light technology joke.",
+          "zh": "用一个轻松的科技玩笑。"
+        },
+        "line": "This is the kind of week when a Neuralink-style brain-computer interface sounds tempting, but for now my notebook will have to do.",
+        "why": {
+          "en": "The joke is smart because it is specific, current, and self-aware.",
+          "zh": "这个玩笑聪明，因为具体、有时代感，也有自知。"
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "onboarding",
+        "meaning": {
+          "en": "The process of helping a new person understand a team, role, product, workflow, and culture.",
+          "zh": "帮助新人理解团队、岗位、产品、流程和文化的过程。"
+        },
+        "use": {
+          "en": "Good onboarding is not only documentation; it is context transfer.",
+          "zh": "好的 onboarding 不只是文档，而是 context transfer。"
+        }
+      },
+      {
+        "word": "overwhelming",
+        "meaning": {
+          "en": "Too much to process at once; emotionally or cognitively heavy.",
+          "zh": "一下子太多，处理起来有心理或认知负担。"
+        },
+        "use": {
+          "en": "The material is valuable, but the volume can feel overwhelming in the first week.",
+          "zh": "材料很有价值，但第一周信息量会让人觉得 overwhelming。"
+        }
+      },
+      {
+        "word": "brain-computer interface",
+        "meaning": {
+          "en": "A system that translates brain signals into commands for an external device. BCI is the common abbreviation.",
+          "zh": "把大脑信号转成外部设备指令的系统，常缩写为 BCI。"
+        },
+        "use": {
+          "en": "In a professional joke, brain-computer interface sounds more precise than brain chip.",
+          "zh": "在职业玩笑里，brain-computer interface 比 brain chip 更精准。"
+        }
+      },
+      {
+        "word": "second brain",
+        "meaning": {
+          "en": "A personal knowledge system for capturing, organizing, and retrieving information.",
+          "zh": "用来收集、整理和提取信息的个人知识系统。"
+        },
+        "use": {
+          "en": "Until the brain implant arrives, I am building a second brain with notes, diagrams, and priorities.",
+          "zh": "在 brain implant 到来之前，我先用笔记、图和优先级搭一个 second brain。"
+        }
+      }
+    ],
+    "logicMoves": [
+      {
+        "intent": {
+          "en": "Turn emotion into method.",
+          "zh": "把情绪转成方法。"
+        },
+        "line": "I am trying not to treat every detail as equally urgent. My first pass is to understand the operating model, then I can attach details to the right buckets.",
+        "why": {
+          "en": "This shows prioritization instead of panic.",
+          "zh": "这展示的是排序能力，而不是慌乱。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Ask for manager guidance.",
+          "zh": "向老板请求排序建议。"
+        },
+        "line": "Could you help me pressure-test my onboarding map and tell me which areas matter most in the first month?",
+        "why": {
+          "en": "You ask for help without outsourcing responsibility.",
+          "zh": "你在求助，但没有把责任丢给别人。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Use humor without losing professionalism.",
+          "zh": "幽默但不失专业。"
+        },
+        "line": "I may need a second brain for the documentation, but I am starting with a very analog version: notes, priorities, and follow-up questions.",
+        "why": {
+          "en": "The joke lands, then immediately returns to action.",
+          "zh": "玩笑落地后，马上回到行动。"
+        }
+      }
+    ],
+    "conversationLessons": [
+      {
+        "en": "Do not say I am overwhelmed and stop there. Say what you are doing with the overwhelm.",
+        "zh": "不要只说 I am overwhelmed 就结束。要说你如何处理这个信息量。"
+      },
+      {
+        "en": "A good onboarding update contains appreciation, structure, and one clear ask.",
+        "zh": "好的 onboarding 汇报包含欣赏、结构和一个清晰请求。"
+      },
+      {
+        "en": "Professional humor works best when it is specific, brief, and followed by responsibility.",
+        "zh": "职场幽默最好是具体、简短，并且后面接回负责姿态。"
+      }
+    ]
+  },
+  "languageMove": {
+    "title": {
+      "en": "Use humor as a bridge, not an escape.",
+      "zh": "把幽默当桥梁，而不是逃避。"
+    },
+    "anchor": {
+      "phrase": "Until that ships, I am building my own map.",
+      "quote": "Honestly, this is the moment when a Neuralink-style brain-computer interface would be helpful. Until that ships, I am building my own map."
+    },
+    "concept": {
+      "en": "The joke works because it does not replace accountability. You use it to acknowledge the information load, then return to your learning system.",
+      "zh": "这个玩笑有效，是因为它没有替代责任。你用它承认信息量大，然后回到自己的学习系统。"
+    },
+    "examples": [
+      {
+        "intent": {
+          "en": "Talk to your manager.",
+          "zh": "和老板沟通。"
+        },
+        "line": "I am building an onboarding map so I can see the big picture first. Could you help me confirm whether I am prioritizing the right areas?",
+        "why": {
+          "en": "It makes you sound organized and coachable.",
+          "zh": "这让你听起来有组织，也愿意接受指导。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Talk to a peer.",
+          "zh": "和同事沟通。"
+        },
+        "line": "The material is inspiring, but I am still connecting the dots. If there is one unwritten thing you wish you had known earlier, I would love to hear it.",
+        "why": {
+          "en": "You invite practical wisdom without sounding needy.",
+          "zh": "你邀请对方分享经验，但不显得依赖。"
+        }
+      },
+      {
+        "intent": {
+          "en": "Make the joke safely.",
+          "zh": "安全地开玩笑。"
+        },
+        "line": "A Neuralink implant might be useful for week one, but until then I am relying on diagrams and very disciplined notes.",
+        "why": {
+          "en": "It is playful, but the last clause shows discipline.",
+          "zh": "前半句轻松，后半句显示纪律。"
+        }
+      }
+    ]
+  },
+  "lines": [
+    {
+      "intent": {
+        "en": "Give a first-week update.",
+        "zh": "做第一周入职更新。"
+      },
+      "line": "The onboarding has been very rich. I am starting to see the broader operating model, and I am organizing the details around that map.",
+      "why": {
+        "en": "You sound engaged and structured at the same time.",
+        "zh": "你同时显得投入、有结构。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Admit you are still learning.",
+        "zh": "承认还在学习。"
+      },
+      "line": "I am still absorbing the context, but I can already see a few themes that seem important.",
+      "why": {
+        "en": "You are honest without sounding lost.",
+        "zh": "诚实但不迷茫。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Ask your boss for priority calibration.",
+        "zh": "请老板帮你校准优先级。"
+      },
+      "line": "Could you help me calibrate what I should understand deeply in month one versus what can come later?",
+      "why": {
+        "en": "Calibrate is a strong professional verb for aligning judgment.",
+        "zh": "Calibrate 是很强的职业动词，表示校准判断。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Use the Neuralink joke.",
+        "zh": "使用 Neuralink 玩笑。"
+      },
+      "line": "This is the kind of onboarding where a Neuralink-style brain-computer interface sounds useful. Until that arrives, I am building a second brain with notes, diagrams, and questions.",
+      "why": {
+        "en": "It shows humor, technical awareness, and a concrete learning method.",
+        "zh": "它同时展示幽默、技术感和具体学习方法。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Talk to a teammate.",
+        "zh": "和同事聊。"
+      },
+      "line": "I am trying to understand not only the process, but also the judgment behind the process.",
+      "why": {
+        "en": "This makes you sound like someone learning culture, not just steps.",
+        "zh": "这让你像是在学文化和判断，而不只是流程步骤。"
+      }
+    },
+    {
+      "intent": {
+        "en": "Close with ownership.",
+        "zh": "用负责姿态收尾。"
+      },
+      "line": "My plan is to keep refining my map, identify the open questions, and bring a sharper version back to you next week.",
+      "why": {
+        "en": "You end with motion, accountability, and a timeline.",
+        "zh": "你用推进感、责任和时间点收尾。"
+      }
+    }
+  ],
+  "drill": {
+    "prompt": {
+      "en": "Practice three onboarding conversations with intelligence and warmth.",
+      "zh": "练习三种有智商也有温度的 onboarding 对话。"
+    },
+    "steps": [
+      {
+        "en": "Your manager asks how onboarding is going.",
+        "zh": "老板问你 onboarding 怎么样。",
+        "focus": {
+          "en": "Appreciate the material, show your map, and ask for priority calibration.",
+          "zh": "先表达材料有价值，再展示你的 map，最后请对方帮你校准优先级。"
+        }
+      },
+      {
+        "en": "A peer asks whether the material feels like a lot.",
+        "zh": "同事问你材料是不是很多。",
+        "focus": {
+          "en": "Admit the volume, make a light second-brain joke, and ask for one practical tip.",
+          "zh": "承认信息量大，用 second brain 轻松一下，再请对方给一个实用建议。"
+        }
+      },
+      {
+        "en": "You need to update your team after week one.",
+        "zh": "你需要在第一周后向团队同步。",
+        "focus": {
+          "en": "Summarize themes, open questions, and the next learning step.",
+          "zh": "总结主题、开放问题和下一步学习动作。"
+        }
+      }
+    ]
+  }
+}
