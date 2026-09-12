@@ -47,6 +47,13 @@ export function Home() {
             <span>Raising With Regard</span>
             <span className="text-zh text-xs text-ink-muted">有看见的养育</span>
           </Link>
+          <Link
+            to="/read-aloud"
+            className="inline-flex items-baseline gap-2 rounded-full border-2 border-accent/40 bg-paper-warm px-5 py-2 text-sm font-semibold hover:border-accent hover:bg-accent/10 transition-colors"
+          >
+            <span>Beautiful Read-Aloud</span>
+            <span className="text-zh text-xs text-ink-muted">美文跟读</span>
+          </Link>
         </nav>
       </header>
 
@@ -80,6 +87,23 @@ export function Home() {
             Parenting English for Bay Area families: how to talk about shy
             children, teacher conversations, school choices, activities, and a
             child's dignity without flattening them into a label.
+          </p>
+        </Link>
+      </section>
+
+      <section className="mb-12 rounded-xl border border-accent/30 bg-paper-warm px-6 py-5">
+        <div className="text-xs uppercase tracking-[0.2em] text-ink-soft font-semibold mb-2">
+          New Column · 新专栏
+        </div>
+        <Link to="/read-aloud" className="block group">
+          <h2 className="font-serif text-3xl font-bold leading-snug group-hover:text-accent transition-colors">
+            Beautiful English Read-Aloud
+          </h2>
+          <div className="text-zh text-lg mt-1">美文跟读</div>
+          <p className="mt-3 text-ink-muted leading-relaxed max-w-2xl">
+            Three-to-five-minute passages with full TTS narration, paragraph
+            clips, vocabulary, pronunciation focus, and shadowing drills for
+            better oral English.
           </p>
         </Link>
       </section>

@@ -1,6 +1,12 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import { getLesson, lessons } from "../lib/lessons";
+import { getParentingLesson, parentingLessons } from "../lib/parenting";
+import {
+  getProfessionalEnglishLesson,
+  professionalEnglishLessons,
+} from "../lib/professionalEnglish";
+import { getReadAloudLesson, readAloudLessons } from "../lib/readAloud";
 
 const SITE_URL =
   (import.meta.env.VITE_SITE_URL as string | undefined)?.replace(/\/$/, "") ??
@@ -152,6 +158,188 @@ function seoForPath(pathname: string): SeoState {
       keywords: ["vocabulary test", "active recall vocabulary", "English vocabulary quiz", "pronunciation practice"],
       schema: baseGraph("/test"),
     };
+  }
+
+  if (pathname === "/professional-english") {
+    return {
+      title: "Professional English for GenAI Work | Word Power, Reread",
+      description:
+        "Bilingual professional English lessons for GenAI customer conversations, agentic AI, interview analysis, career growth, and calm leadership language.",
+      canonicalPath: "/professional-english",
+      keywords: [
+        "professional English",
+        "GenAI communication",
+        "AI career English",
+        "leadership English",
+        "bilingual professional English",
+      ],
+      schema: baseGraph("/professional-english"),
+    };
+  }
+
+  const professionalMatch = pathname.match(/^\/professional-english\/([^/]+)$/);
+  if (professionalMatch) {
+    const lesson = getProfessionalEnglishLesson(decodeURIComponent(professionalMatch[1]));
+    if (lesson) {
+      const title = `${lesson.title.en} | Professional English`;
+      const description = `${lesson.subtitle.en} Practice bilingual professional English with leadership lines, vocabulary, drills, and TTS audio.`;
+      return {
+        title,
+        description,
+        canonicalPath: `/professional-english/${lesson.lessonId}`,
+        keywords: [
+          ...lesson.tags,
+          "professional English",
+          "AI communication",
+          "leadership language",
+          "bilingual English lesson",
+        ],
+        schema: {
+          ...baseGraph(`/professional-english/${lesson.lessonId}`),
+          "@graph": [
+            ...baseGraph(`/professional-english/${lesson.lessonId}`)["@graph"],
+            {
+              "@type": "LearningResource",
+              "@id": `${SITE_URL}/professional-english/${lesson.lessonId}#lesson`,
+              name: lesson.title.en,
+              description,
+              url: `${SITE_URL}/professional-english/${lesson.lessonId}`,
+              inLanguage: ["en", "zh-CN"],
+              learningResourceType: "Professional English lesson",
+              teaches: lesson.tags,
+              isPartOf: {
+                "@type": "Course",
+                name: "Professional English",
+                url: `${SITE_URL}/professional-english`,
+                numberOfLessons: professionalEnglishLessons.length,
+              },
+            },
+          ],
+        },
+      };
+    }
+  }
+
+  if (pathname === "/parenting") {
+    return {
+      title: "Raising With Regard | Parenting English",
+      description:
+        "Bilingual parenting English lessons for talking with teachers, parents, family, and children while protecting dignity and vitality.",
+      canonicalPath: "/parenting",
+      keywords: [
+        "parenting English",
+        "Bay Area parents",
+        "bilingual parenting",
+        "teacher conversation English",
+        "child dignity",
+      ],
+      schema: baseGraph("/parenting"),
+    };
+  }
+
+  const parentingMatch = pathname.match(/^\/parenting\/([^/]+)$/);
+  if (parentingMatch) {
+    const lesson = getParentingLesson(decodeURIComponent(parentingMatch[1]));
+    if (lesson) {
+      const title = `${lesson.title.en} | Parenting English`;
+      const description = `${lesson.subtitle.en} Practice bilingual parenting English with phrases, vocabulary, scripts, reflection, and TTS audio.`;
+      return {
+        title,
+        description,
+        canonicalPath: `/parenting/${lesson.lessonId}`,
+        keywords: [
+          ...lesson.tags,
+          "parenting English",
+          "bilingual parenting",
+          "teacher conversation",
+          "Bay Area parent",
+        ],
+        schema: {
+          ...baseGraph(`/parenting/${lesson.lessonId}`),
+          "@graph": [
+            ...baseGraph(`/parenting/${lesson.lessonId}`)["@graph"],
+            {
+              "@type": "LearningResource",
+              "@id": `${SITE_URL}/parenting/${lesson.lessonId}#lesson`,
+              name: lesson.title.en,
+              description,
+              url: `${SITE_URL}/parenting/${lesson.lessonId}`,
+              inLanguage: ["en", "zh-CN"],
+              learningResourceType: "Parenting English lesson",
+              teaches: lesson.tags,
+              isPartOf: {
+                "@type": "Course",
+                name: "Raising With Regard",
+                url: `${SITE_URL}/parenting`,
+                numberOfLessons: parentingLessons.length,
+              },
+            },
+          ],
+        },
+      };
+    }
+  }
+
+  if (pathname === "/read-aloud") {
+    return {
+      title: "Beautiful English Read-Aloud | Oral English Practice",
+      description:
+        "Three-to-five-minute bilingual read-aloud lessons with TTS narration, paragraph clips, vocabulary, pronunciation focus, and shadowing drills.",
+      canonicalPath: "/read-aloud",
+      keywords: [
+        "English read aloud",
+        "oral English practice",
+        "English shadowing",
+        "beautiful English passages",
+        "bilingual English speaking",
+      ],
+      schema: baseGraph("/read-aloud"),
+    };
+  }
+
+  const readAloudMatch = pathname.match(/^\/read-aloud\/([^/]+)$/);
+  if (readAloudMatch) {
+    const lesson = getReadAloudLesson(decodeURIComponent(readAloudMatch[1]));
+    if (lesson) {
+      const title = `${lesson.title.en} | Beautiful English Read-Aloud`;
+      const description = `${lesson.subtitle.en} Practice oral English with full TTS narration, paragraph clips, vocabulary, pronunciation focus, and shadowing drills.`;
+      return {
+        title,
+        description,
+        canonicalPath: `/read-aloud/${lesson.lessonId}`,
+        keywords: [
+          ...lesson.tags,
+          "English read aloud",
+          "English shadowing",
+          "oral English",
+          "pronunciation practice",
+          "bilingual English lesson",
+        ],
+        schema: {
+          ...baseGraph(`/read-aloud/${lesson.lessonId}`),
+          "@graph": [
+            ...baseGraph(`/read-aloud/${lesson.lessonId}`)["@graph"],
+            {
+              "@type": "LearningResource",
+              "@id": `${SITE_URL}/read-aloud/${lesson.lessonId}#lesson`,
+              name: lesson.title.en,
+              description,
+              url: `${SITE_URL}/read-aloud/${lesson.lessonId}`,
+              inLanguage: ["en", "zh-CN"],
+              learningResourceType: "Oral English read-aloud lesson",
+              teaches: lesson.tags,
+              timeRequired: lesson.duration,
+              isPartOf: {
+                "@type": "Course",
+                name: "Beautiful English Read-Aloud",
+                url: `${SITE_URL}/read-aloud`,
+                numberOfLessons: readAloudLessons.length,
+              },
+            },
+          ],
+        },
+      };
+    }
   }
 
   const lessonMatch = pathname.match(/^\/lesson\/([^/]+)$/);

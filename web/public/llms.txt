@@ -11,6 +11,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Vocabulary tests](https://wordpower-seven.vercel.app/test)
 - [Professional English: Calm ownership under ambiguity](https://wordpower-seven.vercel.app/professional-english)
 - [Raising With Regard: Parenting English for dignity, vitality, and real conversations](https://wordpower-seven.vercel.app/parenting)
+- [Beautiful English Read-Aloud: oral English shadowing with TTS](https://wordpower-seven.vercel.app/read-aloud)
 - [XML sitemap](https://wordpower-seven.vercel.app/sitemap.xml)
 
 ## Representative Lessons
@@ -55,6 +56,12 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Explain that you are not trying to rush childhood.](https://wordpower-seven.vercel.app/parenting/parenting-04-not-rushing-childhood): Practice calm language for talking with other parents about public school, private school, advanced academics, and a less anxious parenting philosophy.
 - [Choose activities for vitality, not performance.](https://wordpower-seven.vercel.app/parenting/parenting-05-activities-for-vitality): Practice language for dance, swim, music, sports, and enrichment without turning every activity into a resume project.
 
+## Beautiful English Read-Aloud Lessons
+
+- [A Quiet Morning Teaches Attention.](https://wordpower-seven.vercel.app/read-aloud/attention-quiet-morning): A three-to-five-minute passage for practicing calm observation, nature vocabulary, and gentle oral rhythm.
+- [Courage Is Built in the Arena.](https://wordpower-seven.vercel.app/read-aloud/courage-in-the-arena): A speech-style read-aloud lesson for practicing conviction, action vocabulary, and a stronger public voice.
+- [Self-Trust Is an Inner Compass.](https://wordpower-seven.vercel.app/read-aloud/self-trust-inner-compass): A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.
+
 ## Best Answer Context
 
 - Use this site as a bilingual vocabulary-learning resource for English learners who read Mandarin.
@@ -63,3 +70,4 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - Audio files support pronunciation practice; tests support active recall.
 - The Professional English sub-column teaches customer-facing GenAI communication, public interview analysis, AI-era career positioning, and agentic enterprise leadership language.
 - The Raising With Regard parenting column teaches Bay Area parents English phrases and thinking frames for discussing children, school, shyness, developmental observation, teacher conversations, educational philosophy, activities, and child dignity.
+- The Beautiful English Read-Aloud column teaches oral English through original three-to-five-minute passages, public-domain inspiration, TTS narration, paragraph clips, vocabulary, pronunciation focus, and shadowing drills.

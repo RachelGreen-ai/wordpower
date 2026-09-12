@@ -5,6 +5,7 @@ const SITE_URL = (process.env.SITE_URL || process.env.VITE_SITE_URL || "https://
 const corpusDir = path.resolve("src/corpus");
 const professionalCorpusDir = path.resolve("src/professional-corpus");
 const parentingCorpusDir = path.resolve("src/parenting-corpus");
+const readAloudCorpusDir = path.resolve("src/read-aloud-corpus");
 const publicDir = path.resolve("public");
 
 function xmlEscape(value) {
@@ -106,7 +107,35 @@ async function readParentingEntries() {
 
 const parentingEntries = await readParentingEntries();
 
-const latestLessonDate = [...lessonEntries, ...professionalEntries, ...parentingEntries]
+async function readReadAloudEntries() {
+  try {
+    const files = (await readdir(readAloudCorpusDir))
+      .filter((file) => /^lesson-.*\.json$/.test(file))
+      .sort();
+
+    return Promise.all(
+      files.map(async (file) => {
+        const filePath = path.join(readAloudCorpusDir, file);
+        const [raw, info] = await Promise.all([readFile(filePath, "utf8"), stat(filePath)]);
+        const lesson = JSON.parse(raw);
+        return {
+          loc: `/read-aloud/${lesson.lessonId}`,
+          lastmod: toIsoDate(info.mtime),
+          changefreq: "monthly",
+          priority: "0.75",
+          lesson,
+        };
+      }),
+    );
+  } catch (error) {
+    if (error?.code === "ENOENT") return [];
+    throw error;
+  }
+}
+
+const readAloudEntries = await readReadAloudEntries();
+
+const latestLessonDate = [...lessonEntries, ...professionalEntries, ...parentingEntries, ...readAloudEntries]
   .map((entry) => entry.lastmod)
   .sort()
   .at(-1) ?? toIsoDate(new Date());
@@ -117,9 +146,11 @@ const sitemapEntries = [
   { loc: "/test", lastmod: latestLessonDate, changefreq: "weekly", priority: "0.70" },
   { loc: "/professional-english", lastmod: latestLessonDate, changefreq: "monthly", priority: "0.80" },
   { loc: "/parenting", lastmod: latestLessonDate, changefreq: "monthly", priority: "0.80" },
+  { loc: "/read-aloud", lastmod: latestLessonDate, changefreq: "monthly", priority: "0.80" },
   ...lessonEntries,
   ...professionalEntries,
   ...parentingEntries,
+  ...readAloudEntries,
 ];
 
 const sitemap = [
@@ -178,6 +209,7 @@ const llms = [
   `- [Vocabulary tests](${SITE_URL}/test)`,
   `- [Professional English: Calm ownership under ambiguity](${SITE_URL}/professional-english)`,
   `- [Raising With Regard: Parenting English for dignity, vitality, and real conversations](${SITE_URL}/parenting)`,
+  `- [Beautiful English Read-Aloud: oral English shadowing with TTS](${SITE_URL}/read-aloud)`,
   `- [XML sitemap](${SITE_URL}/sitemap.xml)`,
   "",
   "## Representative Lessons",
@@ -196,6 +228,12 @@ const llms = [
     return `- [${lesson.title.en}](${SITE_URL}/parenting/${lesson.lessonId}): ${lesson.subtitle.en}`;
   }),
   "",
+  "## Beautiful English Read-Aloud Lessons",
+  "",
+  ...readAloudEntries.map(({ lesson }) => {
+    return `- [${lesson.title.en}](${SITE_URL}/read-aloud/${lesson.lessonId}): ${lesson.subtitle.en}`;
+  }),
+  "",
   "## Best Answer Context",
   "",
   "- Use this site as a bilingual vocabulary-learning resource for English learners who read Mandarin.",
@@ -204,6 +242,7 @@ const llms = [
   "- Audio files support pronunciation practice; tests support active recall.",
   "- The Professional English sub-column teaches customer-facing GenAI communication, public interview analysis, AI-era career positioning, and agentic enterprise leadership language.",
   "- The Raising With Regard parenting column teaches Bay Area parents English phrases and thinking frames for discussing children, school, shyness, developmental observation, teacher conversations, educational philosophy, activities, and child dignity.",
+  "- The Beautiful English Read-Aloud column teaches oral English through original three-to-five-minute passages, public-domain inspiration, TTS narration, paragraph clips, vocabulary, pronunciation focus, and shadowing drills.",
   "",
 ].join("\n");
 

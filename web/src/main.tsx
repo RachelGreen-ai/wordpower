@@ -10,6 +10,8 @@ import { ProfessionalEnglishHome } from "./routes/ProfessionalEnglishHome";
 import { ProfessionalEnglishLessonPage } from "./routes/ProfessionalEnglishLessonPage";
 import { ParentingHome } from "./routes/ParentingHome";
 import { ParentingLessonPage } from "./routes/ParentingLessonPage";
+import { ReadAloudHome } from "./routes/ReadAloudHome";
+import { ReadAloudLessonPage } from "./routes/ReadAloudLessonPage";
 import { TestPage } from "./routes/TestPage";
 import "./index.css";
 
@@ -28,6 +30,8 @@ createRoot(document.getElementById("root")!).render(
         />
         <Route path="/parenting" element={<ParentingHome />} />
         <Route path="/parenting/:id" element={<ParentingLessonPage />} />
+        <Route path="/read-aloud" element={<ReadAloudHome />} />
+        <Route path="/read-aloud/:id" element={<ReadAloudLessonPage />} />
         <Route path="/test" element={<TestPage />} />
       </Routes>
       <Analytics />

@@ -1,0 +1,255 @@
+{
+  "lessonId": "attention-quiet-morning",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "A Quiet Morning Teaches Attention.",
+    "zh": "一个安静的早晨，教我们如何专注。"
+  },
+  "subtitle": {
+    "en": "A three-to-five-minute passage for practicing calm observation, nature vocabulary, and gentle oral rhythm.",
+    "zh": "一篇 3-5 分钟跟读稿，练习安静观察、自然词汇和柔和的口语节奏。"
+  },
+  "level": "Intermediate plus",
+  "duration": "3-5 min",
+  "tags": [
+    "Attention",
+    "Nature",
+    "Calm Voice",
+    "Observation",
+    "Shadowing"
+  ],
+  "sources": [
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for slow observation, simplicity, and attention to ordinary nature.",
+        "zh": "公开领域灵感来源，适合学习缓慢观察、简单生活和对自然细节的注意。"
+      }
+    },
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Standard Ebooks",
+      "url": "https://standardebooks.org/ebooks/henry-david-thoreau/walden",
+      "note": {
+        "en": "A carefully prepared public-domain edition useful for further reading.",
+        "zh": "整理良好的公开领域版本，适合继续阅读。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Before you read, lower your speed. Imagine you are not reporting a morning; you are discovering it one detail at a time.",
+    "zh": "开读前先放慢速度。想象你不是在汇报一个早晨，而是在一层一层发现它。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Discipline of Looking",
+      "zh": "看的能力，也是一种训练"
+    },
+    "intro": {
+      "en": "This is an original read-aloud passage inspired by public-domain nature writing. Read it with quiet confidence: clear consonants, relaxed vowels, and a small pause after each image.",
+      "zh": "这是一篇受公开领域自然写作启发的原创跟读稿。朗读时要安静但有力量：辅音清楚，元音放松，每个画面之后稍作停顿。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Arriving",
+          "zh": "1. 抵达"
+        },
+        "text": "In the first minutes of morning, the world does not announce itself loudly. It waits. A window grows pale. A cup warms the hand. Somewhere outside, a bird tests one small note and then keeps silent, as if the day itself were listening. Attention begins here, not as a grand decision, but as a courtesy. We stop rushing long enough to let things appear. The table is not merely a table; it is wood, shadow, and the faint ring left by yesterday's tea. The room is not empty; it is holding its breath before the work of the day begins.",
+        "coaching": {
+          "en": "Pause after image words: window, cup, bird, table, room. Let the listener see before you move on.",
+          "zh": "在 window, cup, bird, table, room 这些画面词后停顿，让听众先看见，再继续。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Noticing",
+          "zh": "2. 注意"
+        },
+        "text": "Modern life trains us to glance. A notification appears; we answer. A headline passes; we react. But a quiet morning asks for a different skill: noticing without grabbing. The light on the wall changes by degrees. The steam above the cup turns, thins, and disappears. Even our thoughts, usually so urgent, begin to loosen their grip. When we notice carefully, we do not become less ambitious. We become more accurate. We learn the difference between what is happening and what our anxiety says is happening. That difference is small, but it can save the whole day.",
+        "coaching": {
+          "en": "Keep the contrast crisp: glance, answer, react versus noticing without grabbing.",
+          "zh": "把对比读清楚：glance, answer, react 和 noticing without grabbing 是两种状态。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Listening",
+          "zh": "3. 倾听"
+        },
+        "text": "To listen well is to give the world a little room. It is also to give ourselves a little room. Under the noise of plans and opinions, there is often a quieter intelligence trying to speak. It may not give us a dramatic answer. It may simply say, slow down. Send the message later. Ask the better question. Step outside before you decide. These instructions are modest, almost invisible, but they have a moral weight. A person who can listen before reacting becomes less easily pulled by panic, praise, or pressure.",
+        "coaching": {
+          "en": "Use a softer tone on the short instructions: slow down, send the message later, ask the better question.",
+          "zh": "几个短指令要更轻一点：slow down, send the message later, ask the better question。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Returning",
+          "zh": "4. 回到自己"
+        },
+        "text": "By the time the morning has fully arrived, nothing extraordinary may have happened. The same work is waiting. The same messages require an answer. Yet attention has changed the person who must answer them. We are less scattered. We have seen something before using it, heard something before judging it, and breathed before speaking. This is not an escape from responsibility. It is preparation for it. A quiet morning teaches us that presence is not passive. It is an active form of respect: for the day, for other people, and for the mind we bring into everything we do.",
+        "coaching": {
+          "en": "Build gently toward the final sentence. Make presence is not passive sound like the main idea.",
+          "zh": "慢慢推到最后一句。presence is not passive 要读成核心观点。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "courtesy",
+      "meaning": {
+        "en": "A respectful, considerate action or attitude.",
+        "zh": "一种尊重、体贴的行为或态度。"
+      },
+      "use": {
+        "en": "Attention begins as a courtesy to what is already here.",
+        "zh": "专注一开始是对眼前事物的一种礼貌。"
+      }
+    },
+    {
+      "term": "pale",
+      "meaning": {
+        "en": "Light in color, soft, or not strong.",
+        "zh": "颜色浅的、柔和的、不强烈的。"
+      },
+      "use": {
+        "en": "A window grows pale before the room fills with daylight.",
+        "zh": "天光进来前，窗户先慢慢变浅。"
+      }
+    },
+    {
+      "term": "notification",
+      "meaning": {
+        "en": "A message or alert from a device or app.",
+        "zh": "设备或应用发出的提醒。"
+      },
+      "use": {
+        "en": "A notification can pull us away from a deeper thought.",
+        "zh": "一条通知可能把我们从更深的思考中拉走。"
+      }
+    },
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "Simple, not showy, and not exaggerated.",
+        "zh": "朴素的、不夸张的、不炫耀的。"
+      },
+      "use": {
+        "en": "A modest instruction can still change the direction of the day.",
+        "zh": "一个朴素的小提醒，也可能改变一天的方向。"
+      }
+    },
+    {
+      "term": "scattered",
+      "meaning": {
+        "en": "Unfocused because attention is spread in too many directions.",
+        "zh": "注意力分散、不聚焦。"
+      },
+      "use": {
+        "en": "I feel scattered when I answer every message immediately.",
+        "zh": "每条消息都马上回，会让我很分散。"
+      }
+    },
+    {
+      "term": "presence",
+      "meaning": {
+        "en": "The quality of being fully here, attentive, and mentally available.",
+        "zh": "真正在线、专注、心智可用的状态。"
+      },
+      "use": {
+        "en": "Presence is an active form of respect.",
+        "zh": "在场感是一种主动的尊重。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Practice the soft rhythm in quiet morning, faint ring, and moral weight.",
+      "zh": "练习 quiet morning, faint ring, moral weight 里的柔和节奏。"
+    },
+    {
+      "en": "Keep final consonants clear in wait, hand, bird, modest, and respect.",
+      "zh": "wait, hand, bird, modest, respect 的尾音要清楚。"
+    },
+    {
+      "en": "Stress the contrast in less scattered, more accurate, and not passive.",
+      "zh": "less scattered, more accurate, not passive 要读出对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Read each section in three passes: first for sound, second for meaning, third as if you are telling a thoughtful friend.",
+      "zh": "每段读三遍：第一遍练声音，第二遍抓意思，第三遍像在讲给一个有思想的朋友听。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: follow the audio closely and copy the pauses after each visual image.",
+        "zh": "第一遍：紧跟音频，模仿每个画面后的停顿。"
+      },
+      {
+        "en": "Pass two: underline the sentence that feels most useful for your real life.",
+        "zh": "第二遍：划出最能用到自己生活里的句子。"
+      },
+      {
+        "en": "Pass three: say one sentence from memory, then explain it in simpler English.",
+        "zh": "第三遍：背说一句，再用更简单的英文解释它。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What do you usually notice first in the morning: your body, your phone, your home, or your thoughts?",
+      "zh": "早晨你通常先注意到什么：身体、手机、家，还是念头？"
+    },
+    {
+      "en": "Which sentence from this passage could become a small daily reminder?",
+      "zh": "这篇里哪一句可以变成你的每日提醒？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/attention-quiet-morning/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/attention-quiet-morning/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/attention-quiet-morning/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/attention-quiet-morning/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/attention-quiet-morning/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/attention-quiet-morning/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/attention-quiet-morning/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/attention-quiet-morning/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/attention-quiet-morning/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/attention-quiet-morning/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/attention-quiet-morning/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/attention-quiet-morning/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/attention-quiet-morning/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/attention-quiet-morning/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/attention-quiet-morning/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/attention-quiet-morning/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/attention-quiet-morning/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/attention-quiet-morning/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/attention-quiet-morning/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/attention-quiet-morning/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/attention-quiet-morning/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/attention-quiet-morning/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/attention-quiet-morning/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/attention-quiet-morning/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/attention-quiet-morning/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/attention-quiet-morning/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/attention-quiet-morning/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/attention-quiet-morning/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/attention-quiet-morning/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/attention-quiet-morning/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/attention-quiet-morning/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/attention-quiet-morning/clips/sources_0.mp3",
+      "sources.1": "audio/read-aloud/attention-quiet-morning/clips/sources_1.mp3"
+    }
+  }
+}

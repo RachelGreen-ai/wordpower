@@ -1,0 +1,244 @@
+{
+  "lessonId": "self-trust-inner-compass",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Self-Trust Is an Inner Compass.",
+    "zh": "自我信任，是内在指南针。"
+  },
+  "subtitle": {
+    "en": "A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.",
+    "zh": "一篇反思型跟读稿，练习有思考的语速、自我信任词汇和更成熟的表达气质。"
+  },
+  "level": "Intermediate plus",
+  "duration": "3-5 min",
+  "tags": [
+    "Self-Trust",
+    "Inner Compass",
+    "Reflection",
+    "Mature Voice",
+    "Personal Growth"
+  ],
+  "sources": [
+    {
+      "title": "Essays: First Series",
+      "author": "Ralph Waldo Emerson",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/16643",
+      "note": {
+        "en": "Public-domain inspiration for self-reliance, inward judgment, and moral independence.",
+        "zh": "公开领域灵感来源，适合学习自我依靠、内在判断和精神独立。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read this passage as if you are reminding yourself of something you already know but have forgotten under pressure.",
+    "zh": "朗读时想象你在提醒自己一件本来知道、但在压力下忘记了的事。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Quiet Authority Within",
+      "zh": "内心安静的权威"
+    },
+    "intro": {
+      "en": "This is an original read-aloud passage inspired by public-domain essays on self-reliance. Keep the tone reflective, warm, and steady.",
+      "zh": "这是一篇受公开领域自我依靠主题散文启发的原创跟读稿。语气要反思、温暖、稳定。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Borrowed Voice",
+          "zh": "1. 借来的声音"
+        },
+        "text": "Many of us learn to speak in borrowed voices. We borrow the urgency of our industry, the anxiety of our peers, the language of people who sound successful, and the opinions of people who seem certain. At first, this borrowing is natural. We need models. We need vocabulary. We need to hear how capable people think. But if we never return to ourselves, borrowed language becomes a borrowed life. We begin to ask, what will look impressive, instead of what is true. We begin to choose what is approved, instead of what is alive.",
+        "coaching": {
+          "en": "Let borrowed repeat gently. It is the anchor word of the section.",
+          "zh": "borrowed 要反复轻轻落下，它是这一段的锚点词。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Inner Compass",
+          "zh": "2. 内在指南针"
+        },
+        "text": "Self-trust is not stubbornness. It is not the refusal to listen, and it is not the fantasy that we are always right. Self-trust is the willingness to consult the quiet evidence inside us. What gives me energy? What makes me smaller? What do I keep noticing, even when I try to ignore it? Where am I performing confidence instead of building competence? These questions do not shout. They return. A compass does not walk for us, but it keeps telling us which direction is ours.",
+        "coaching": {
+          "en": "Read the definition slowly: Self-trust is not stubbornness. Then give each question its own breath.",
+          "zh": "定义句 Self-trust is not stubbornness 要慢。每个问题都给一口气。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Courage to Sound Like Yourself",
+          "zh": "3. 敢于听起来像自己"
+        },
+        "text": "There is a quiet courage in sounding like yourself. It may mean using simpler words when everyone else performs complexity. It may mean admitting, I do not know yet, but I can find out. It may mean saying no without decorating the no with too many apologies. It may mean choosing a path that looks ordinary from the outside but restores your strength from the inside. The world will always offer costumes: expert, genius, perfect parent, effortless leader. But maturity begins when we stop mistaking costume for character.",
+        "coaching": {
+          "en": "The repeated It may mean should feel calm and accumulative, not rushed.",
+          "zh": "重复的 It may mean 要读得平稳、有累积感，不要赶。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Steadier Yes",
+          "zh": "4. 更稳定的 Yes"
+        },
+        "text": "When we trust ourselves, our yes becomes steadier. We do not say yes only to please, to escape discomfort, or to collect approval. We say yes because something has passed through thought, body, memory, and conscience, and still feels worth choosing. This kind of yes is quieter than ambition, but stronger than impulse. It can survive a difficult morning, a skeptical room, or a season when progress is slow. Self-trust does not remove uncertainty. It gives us a place to stand while we keep becoming more honest.",
+        "coaching": {
+          "en": "Make steadier yes the emotional center. The final sentence should sound grounded, not sentimental.",
+          "zh": "steadier yes 是情绪中心。最后一句要扎实，不要煽情。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "borrowed voice",
+      "meaning": {
+        "en": "A way of speaking copied from others instead of formed from your own judgment.",
+        "zh": "从别人那里复制来的说话方式，而不是由自己的判断形成。"
+      },
+      "use": {
+        "en": "Borrowed voice can help us learn, but it should not replace our own mind.",
+        "zh": "借来的声音可以帮助学习，但不能替代自己的心智。"
+      }
+    },
+    {
+      "term": "self-trust",
+      "meaning": {
+        "en": "Confidence in your own ability to notice, choose, learn, and revise.",
+        "zh": "相信自己有能力观察、选择、学习和修正。"
+      },
+      "use": {
+        "en": "Self-trust grows when we act honestly and learn from the result.",
+        "zh": "当我们诚实行动并从结果中学习，自我信任会增长。"
+      }
+    },
+    {
+      "term": "stubbornness",
+      "meaning": {
+        "en": "Refusing to change your mind even when there is good reason to reconsider.",
+        "zh": "即使有理由重新思考，也拒绝改变。"
+      },
+      "use": {
+        "en": "Self-trust is not stubbornness; it still listens.",
+        "zh": "自我信任不是固执，它仍然会倾听。"
+      }
+    },
+    {
+      "term": "competence",
+      "meaning": {
+        "en": "The real ability to do something well.",
+        "zh": "真正把事情做好的能力。"
+      },
+      "use": {
+        "en": "Build competence before performing confidence.",
+        "zh": "先建立能力，再表现自信。"
+      }
+    },
+    {
+      "term": "conscience",
+      "meaning": {
+        "en": "The inner sense of what is right, honest, or responsible.",
+        "zh": "内在对正确、诚实和责任的感觉。"
+      },
+      "use": {
+        "en": "A decision should pass through thought, body, memory, and conscience.",
+        "zh": "一个决定应该经过思考、身体感受、记忆和良心。"
+      }
+    },
+    {
+      "term": "skeptical",
+      "meaning": {
+        "en": "Doubtful, questioning, or not easily convinced.",
+        "zh": "怀疑的、会提问的、不轻易相信的。"
+      },
+      "use": {
+        "en": "A steadier yes can survive a skeptical room.",
+        "zh": "更稳定的 yes 能经得起怀疑的房间。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Practice the contrast between self-trust and stubbornness.",
+      "zh": "练习 self-trust 和 stubbornness 的对比。"
+    },
+    {
+      "en": "Keep multi-syllable words smooth: anxiety, vocabulary, competence, conscience, uncertainty.",
+      "zh": "多音节词要顺：anxiety, vocabulary, competence, conscience, uncertainty。"
+    },
+    {
+      "en": "Use a thoughtful pause before the final phrase: while we keep becoming more honest.",
+      "zh": "最后 while we keep becoming more honest 前要有思考停顿。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Practice this as reflective speaking. You are not trying to impress; you are trying to sound awake and honest.",
+      "zh": "把它当反思表达来练。不是为了 impress，而是听起来清醒、诚实。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pauses after each question.",
+        "zh": "第一遍：模仿每个问题后的停顿。"
+      },
+      {
+        "en": "Pass two: choose one sentence and say it with three emotions: calm, firm, and warm.",
+        "zh": "第二遍：选一句，用三种状态读：平静、坚定、温暖。"
+      },
+      {
+        "en": "Pass three: finish this sentence in your own words: My steadier yes is...",
+        "zh": "第三遍：用自己的话补完：My steadier yes is..."
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where are you using a borrowed voice that no longer fits you?",
+      "zh": "你在哪件事上还在用一个已经不适合你的借来的声音？"
+    },
+    {
+      "en": "What kind of yes feels quieter than ambition but stronger than impulse?",
+      "zh": "什么样的 yes 比野心更安静，却比冲动更强？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/self-trust-inner-compass/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/self-trust-inner-compass/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/self-trust-inner-compass/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/self-trust-inner-compass/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/self-trust-inner-compass/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/self-trust-inner-compass/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/self-trust-inner-compass/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/self-trust-inner-compass/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/self-trust-inner-compass/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/self-trust-inner-compass/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/self-trust-inner-compass/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/self-trust-inner-compass/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/self-trust-inner-compass/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/self-trust-inner-compass/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/self-trust-inner-compass/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/self-trust-inner-compass/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/self-trust-inner-compass/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/self-trust-inner-compass/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/self-trust-inner-compass/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/self-trust-inner-compass/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/self-trust-inner-compass/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/self-trust-inner-compass/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/self-trust-inner-compass/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/self-trust-inner-compass/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/self-trust-inner-compass/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/self-trust-inner-compass/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/self-trust-inner-compass/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/self-trust-inner-compass/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/self-trust-inner-compass/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/self-trust-inner-compass/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/self-trust-inner-compass/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/self-trust-inner-compass/clips/sources_0.mp3"
+    }
+  }
+}
