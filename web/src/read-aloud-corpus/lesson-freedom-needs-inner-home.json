@@ -1,0 +1,255 @@
+{
+  "lessonId": "freedom-needs-inner-home",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Freedom Needs an Inner Home.",
+    "zh": "自由需要一个内在的家。"
+  },
+  "subtitle": {
+    "en": "A Fromm-inspired reflective passage on why freedom can feel frightening unless the self has somewhere to stand.",
+    "zh": "一篇受弗洛姆启发的反思型美文：为什么自由会令人害怕，除非自我有地方站住。"
+  },
+  "level": "Advanced reflective",
+  "duration": "3-5 min",
+  "tags": [
+    "Erich Fromm",
+    "Freedom",
+    "Inner Self",
+    "Modern Anxiety",
+    "Mature Voice"
+  ],
+  "sources": [
+    {
+      "title": "Escape from Freedom",
+      "author": "Erich Fromm",
+      "organization": "Open Library",
+      "url": "https://openlibrary.org/works/OL296413W/Escape_from_Freedom",
+      "note": {
+        "en": "Bibliographic source for Fromm's classic work on freedom, isolation, authoritarian escape, and conformity.",
+        "zh": "弗洛姆经典作品的书目信息；本课借鉴其关于自由、孤立、权威逃避和从众的思想。"
+      }
+    },
+    {
+      "title": "Erich Fromm",
+      "author": "Encyclopaedia Britannica",
+      "organization": "Britannica",
+      "url": "https://www.britannica.com/biography/Erich-Fromm",
+      "note": {
+        "en": "Useful background on Fromm as a psychoanalyst and social philosopher.",
+        "zh": "用于了解弗洛姆作为精神分析学家和社会思想家的背景。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read this slowly, as if you are speaking to someone who has many choices but does not yet feel free inside them.",
+    "zh": "慢慢读，像是在对一个拥有很多选择、但内心还没有真正自由的人说话。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Burden and Beauty of Being Free",
+      "zh": "自由的重量与美"
+    },
+    "intro": {
+      "en": "This original passage is inspired by Erich Fromm's questions about modern freedom. It does not quote the book; it turns the idea into a speakable meditation.",
+      "zh": "这篇原创稿受弗洛姆关于现代自由的问题意识启发，不引用原书，而是把思想转成可朗读的沉思。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Open Door",
+          "zh": "1. 打开的门"
+        },
+        "text": "Freedom often arrives like an open door. At first, we celebrate it. No one is blocking the way. No one is telling us exactly who to become. We can choose a career, a city, a style of love, a version of ourselves. Yet after the first brightness, another feeling may appear: the room beyond the door is very large, and we are alone inside it. The old walls were too small, but they were still walls. They gave shape. They gave instruction. Now the air is wider, but the self must learn how to stand without leaning on someone else's certainty.",
+        "coaching": {
+          "en": "Let open door sound hopeful first, then let very large and alone slow the mood down.",
+          "zh": "open door 一开始要有希望感，然后 very large 和 alone 要让情绪慢下来。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Temptation to Disappear",
+          "zh": "2. 想消失的诱惑"
+        },
+        "text": "When freedom becomes lonely, we may try to escape it without admitting that we are escaping. We may hand our judgment to a loud leader, a fashionable crowd, a professional script, or a machine that promises to think for us. We may say, I only want efficiency, or I only want belonging. But sometimes underneath those wishes is a quieter surrender: please remove the burden of choosing. Please tell me what to want. Please make me safe from the risk of being myself. This is not weakness in a simple sense. It is the human fear of becoming separate before becoming whole.",
+        "coaching": {
+          "en": "The repeated please should feel vulnerable, not theatrical. Keep the voice intimate.",
+          "zh": "重复的 please 要脆弱、诚实，不要戏剧化。声音要贴近内心。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. A Self That Can Answer",
+          "zh": "3. 一个能回答的自我"
+        },
+        "text": "Mature freedom is not the freedom of endless options. It is the freedom of having a self that can answer. What do I love enough to serve? What kind of authority do I respect without disappearing into it? Which fear is warning me, and which fear is only trying to keep me obedient? These questions require more than confidence. They require rootedness. A rooted person can listen without being swallowed, disagree without becoming cruel, belong without becoming blank, and stand alone without turning loneliness into pride.",
+        "coaching": {
+          "en": "Give the four questions real space. The listener should feel that each question asks for a life, not a quick opinion.",
+          "zh": "四个问题之间留出空间。听众要感觉每个问题问的是人生，不是即时观点。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Inner Home",
+          "zh": "4. 内在的家"
+        },
+        "text": "An inner home is not a fixed identity. It is a place inside us where truth can be spoken without panic. In that place, we can admit desire, shame, ambition, tenderness, and doubt without immediately running to a crowd for permission. We can choose connection not because we are afraid to be alone, but because love is richer than isolation. We can choose responsibility not because someone forces us, but because our strength wants a meaningful direction. Freedom without an inner home becomes noise. Freedom with an inner home becomes a life we can answer for.",
+        "coaching": {
+          "en": "Build gently toward the final contrast: freedom as noise versus freedom as a life we can answer for.",
+          "zh": "慢慢推到最后的对比：自由变成噪音，或自由变成一个我们能承担的人生。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "surrender",
+      "meaning": {
+        "en": "The act of giving up control, resistance, or responsibility.",
+        "zh": "放弃控制、抵抗或责任。"
+      },
+      "use": {
+        "en": "Conformity can hide a quiet surrender of judgment.",
+        "zh": "从众有时藏着一种安静的判断力放弃。"
+      }
+    },
+    {
+      "term": "rootedness",
+      "meaning": {
+        "en": "A grounded inner stability that helps a person remain themselves.",
+        "zh": "一种扎根的内在稳定，使人能保持自己。"
+      },
+      "use": {
+        "en": "Freedom needs rootedness, not just options.",
+        "zh": "自由需要扎根感，而不只是选项。"
+      }
+    },
+    {
+      "term": "authority",
+      "meaning": {
+        "en": "Power, expertise, or influence that guides people's decisions.",
+        "zh": "影响人们判断的权力、专业性或影响力。"
+      },
+      "use": {
+        "en": "A mature person can respect authority without disappearing into it.",
+        "zh": "成熟的人可以尊重权威，但不消失在权威里。"
+      }
+    },
+    {
+      "term": "obedient",
+      "meaning": {
+        "en": "Willing to follow orders or expectations.",
+        "zh": "愿意服从命令或期待的。"
+      },
+      "use": {
+        "en": "Some fear only tries to keep us obedient.",
+        "zh": "有些恐惧只是想让我们保持服从。"
+      }
+    },
+    {
+      "term": "isolation",
+      "meaning": {
+        "en": "The painful state of being separated or emotionally alone.",
+        "zh": "被隔离、情感上孤单的痛苦状态。"
+      },
+      "use": {
+        "en": "Love is richer than isolation.",
+        "zh": "爱比孤立更丰盛。"
+      }
+    },
+    {
+      "term": "answer for",
+      "meaning": {
+        "en": "To take responsibility for something and be able to explain it honestly.",
+        "zh": "能为某事负责，并诚实说明。"
+      },
+      "use": {
+        "en": "Freedom becomes a life we can answer for.",
+        "zh": "自由成为一个我们能承担的人生。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Practice the contrast in open door, very large, and alone.",
+      "zh": "练习 open door, very large, alone 里的情绪转折。"
+    },
+    {
+      "en": "Keep consonants clear in freedom, judgment, rootedness, strength, and responsibility.",
+      "zh": "freedom, judgment, rootedness, strength, responsibility 的辅音要清楚。"
+    },
+    {
+      "en": "Slow down before the final phrase: a life we can answer for.",
+      "zh": "最后 a life we can answer for 前要慢下来。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Practice this like a philosophical confession: calm, intimate, and exact.",
+      "zh": "把它当成哲学性的自白来练：平静、贴近、精准。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pauses after each question.",
+        "zh": "第一遍：模仿每个问题后的停顿。"
+      },
+      {
+        "en": "Pass two: underline one sentence that describes your own relationship with freedom.",
+        "zh": "第二遍：划出一句描述你和自由关系的句子。"
+      },
+      {
+        "en": "Pass three: explain inner home in your own simple English.",
+        "zh": "第三遍：用自己的简单英文解释 inner home。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where do you feel free on the outside but not yet free on the inside?",
+      "zh": "你在哪件事上外在自由，但内心还没有自由？"
+    },
+    {
+      "en": "What gives your freedom an inner home: love, work, faith, practice, or truth-telling?",
+      "zh": "什么给你的自由一个内在的家：爱、工作、信念、练习，还是说真话？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/freedom-needs-inner-home/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/freedom-needs-inner-home/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/freedom-needs-inner-home/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/freedom-needs-inner-home/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/freedom-needs-inner-home/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/freedom-needs-inner-home/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/freedom-needs-inner-home/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/freedom-needs-inner-home/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/freedom-needs-inner-home/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/freedom-needs-inner-home/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/freedom-needs-inner-home/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/freedom-needs-inner-home/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/freedom-needs-inner-home/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/freedom-needs-inner-home/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/freedom-needs-inner-home/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/freedom-needs-inner-home/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/freedom-needs-inner-home/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/freedom-needs-inner-home/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/freedom-needs-inner-home/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/freedom-needs-inner-home/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/freedom-needs-inner-home/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/freedom-needs-inner-home/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/freedom-needs-inner-home/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/freedom-needs-inner-home/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/freedom-needs-inner-home/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/freedom-needs-inner-home/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/freedom-needs-inner-home/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/freedom-needs-inner-home/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/freedom-needs-inner-home/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/freedom-needs-inner-home/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/freedom-needs-inner-home/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/freedom-needs-inner-home/clips/sources_0.mp3",
+      "sources.1": "audio/read-aloud/freedom-needs-inner-home/clips/sources_1.mp3"
+    }
+  }
+}

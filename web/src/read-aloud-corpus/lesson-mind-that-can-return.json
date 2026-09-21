@@ -1,0 +1,244 @@
+{
+  "lessonId": "mind-that-can-return",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "A Strong Mind Can Return.",
+    "zh": "强大的心，知道如何回来。"
+  },
+  "subtitle": {
+    "en": "A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.",
+    "zh": "一篇受斯多葛启发的美文，练习稳定、判断力和安静的自我掌控感。"
+  },
+  "level": "Intermediate plus",
+  "duration": "3-5 min",
+  "tags": [
+    "Stoicism",
+    "Composure",
+    "Judgment",
+    "Marcus Aurelius",
+    "Self-Command"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration for inner discipline, judgment, and returning the mind to what is within one's care.",
+        "zh": "公开领域灵感来源，适合学习内在纪律、判断力，以及把心带回自己能负责之处。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with steadiness. Imagine your voice is a hand on the shoulder of your own anxious mind.",
+    "zh": "稳定地读。想象你的声音是一只手，轻轻按在自己焦虑的心上。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Art of Coming Back",
+      "zh": "回来的艺术"
+    },
+    "intro": {
+      "en": "This original passage is inspired by Stoic reflections on attention and responsibility. It is written for speaking practice, not as a translation.",
+      "zh": "这篇原创稿受斯多葛关于注意力和责任的沉思启发，是为口语跟读而写，不是翻译。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The First Movement",
+          "zh": "1. 第一个动作"
+        },
+        "text": "The mind is always moving. Before breakfast, it has already visited three worries, two old embarrassments, one imagined argument, and a future that has not happened. We often call this thinking, but much of it is only wandering with better vocabulary. A strong mind is not a mind that never wanders. That would be a stone, not a human being. A strong mind is a mind that can notice where it has gone and return without drama. The first movement of wisdom is not control. It is recognition.",
+        "coaching": {
+          "en": "Let the list of worries move quickly, then slow down on return without drama.",
+          "zh": "担忧列表可以稍快，然后在 return without drama 慢下来。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. What Belongs to You",
+          "zh": "2. 什么属于你"
+        },
+        "text": "Every day offers us a thousand things that are not fully ours: weather, traffic, other people's moods, the tone of an email, the market, the memory someone has of us, the result after honest effort. If we attach our peace to all of them, we become a house with every window open in a storm. But there are things that do belong to us: the next sentence, the next repair, the next apology, the next honest refusal, the next breath before answering. These are small doors back into agency.",
+        "coaching": {
+          "en": "Make not fully ours gentle but clear. The phrase small doors back into agency is the emotional turn.",
+          "zh": "not fully ours 要温和但清楚。small doors back into agency 是情绪转折。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Judgment Before Reaction",
+          "zh": "3. 反应之前的判断"
+        },
+        "text": "Between event and reaction, there is often a space so narrow we miss it. A message arrives, and the body tightens. A comment lands, and the face prepares its defense. But if we can enter that narrow space, even for one breath, we discover a hidden freedom. We can ask: What exactly happened? What story did I add? What action would still respect my values tomorrow morning? This pause does not make us cold. It makes us available to reality before pride edits the scene.",
+        "coaching": {
+          "en": "Read the three questions with clean separation. They are tools, not decoration.",
+          "zh": "三个问题要分开读。它们是工具，不是装饰。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Returning as Practice",
+          "zh": "4. 回来是一种练习"
+        },
+        "text": "We will not stay centered all day. We will forget, react, exaggerate, scroll, compare, and replay. The practice is not to build a perfect mind, but to build a returning mind. Return to the task. Return to the person in front of you. Return to the promise you made when you were clear. Return to the body breathing under the story. Each return is small, but small returns become a character. A life is not shaped only by where the mind travels. It is shaped by what the mind learns to come back to.",
+        "coaching": {
+          "en": "The repeated Return to should feel like a steady drumbeat, not a scolding voice.",
+          "zh": "重复的 Return to 要像稳定的鼓点，不要像责备。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "composure",
+      "meaning": {
+        "en": "Calm control of yourself, especially under pressure.",
+        "zh": "在压力下保持冷静和自我控制。"
+      },
+      "use": {
+        "en": "Composure begins when the mind notices where it has gone.",
+        "zh": "稳定从心注意到自己跑到哪里开始。"
+      }
+    },
+    {
+      "term": "recognition",
+      "meaning": {
+        "en": "The act of noticing and understanding what is happening.",
+        "zh": "看见并理解正在发生什么。"
+      },
+      "use": {
+        "en": "The first movement of wisdom is recognition.",
+        "zh": "智慧的第一个动作是认出。"
+      }
+    },
+    {
+      "term": "agency",
+      "meaning": {
+        "en": "The ability to act, choose, and affect what happens.",
+        "zh": "行动、选择并影响事情的能力。"
+      },
+      "use": {
+        "en": "A small honest action can restore agency.",
+        "zh": "一个小而诚实的行动可以恢复主动性。"
+      }
+    },
+    {
+      "term": "reaction",
+      "meaning": {
+        "en": "A quick response, often before careful thought.",
+        "zh": "快速反应，常常先于仔细思考。"
+      },
+      "use": {
+        "en": "Judgment before reaction gives us hidden freedom.",
+        "zh": "反应之前的判断给我们一种隐藏的自由。"
+      }
+    },
+    {
+      "term": "centered",
+      "meaning": {
+        "en": "Calm, balanced, and connected to what matters.",
+        "zh": "平静、平衡，并和重要的东西相连。"
+      },
+      "use": {
+        "en": "We will not stay centered all day, but we can return.",
+        "zh": "我们不可能整天都稳定，但可以回来。"
+      }
+    },
+    {
+      "term": "drumbeat",
+      "meaning": {
+        "en": "A steady repeated rhythm or message.",
+        "zh": "稳定重复的节奏或信息。"
+      },
+      "use": {
+        "en": "Return to can sound like a steady drumbeat.",
+        "zh": "Return to 可以读成稳定的鼓点。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Practice final consonants in mind, event, breath, task, and shaped.",
+      "zh": "练习 mind, event, breath, task, shaped 的尾音。"
+    },
+    {
+      "en": "Keep the rhythm steady in Return to the task. Return to the person in front of you.",
+      "zh": "Return to the task. Return to the person in front of you. 要读出稳定节奏。"
+    },
+    {
+      "en": "Contrast wandering with recognition, reaction with judgment, and travel with come back.",
+      "zh": "读出 wandering 和 recognition、reaction 和 judgment、travel 和 come back 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Practice this as a voice of self-command: warm, steady, and not harsh.",
+      "zh": "把它当成自我掌控的声音来练：温暖、稳定、不苛刻。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the repeated Return to rhythm.",
+        "zh": "第一遍：模仿 Return to 的重复节奏。"
+      },
+      {
+        "en": "Pass two: read only the questions and leave a full breath after each one.",
+        "zh": "第二遍：只读问题，每个问题后留一整口气。"
+      },
+      {
+        "en": "Pass three: name one small door back into agency in your own day.",
+        "zh": "第三遍：说出你今天一个 small door back into agency。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What does your mind most often travel to when it is tired?",
+      "zh": "当你累的时候，你的心最常跑去哪里？"
+    },
+    {
+      "en": "What is one small return you can practice today?",
+      "zh": "今天你可以练习哪一个小小的回来？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/mind-that-can-return/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/mind-that-can-return/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/mind-that-can-return/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/mind-that-can-return/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/mind-that-can-return/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/mind-that-can-return/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/mind-that-can-return/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/mind-that-can-return/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/mind-that-can-return/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/mind-that-can-return/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/mind-that-can-return/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/mind-that-can-return/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/mind-that-can-return/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/mind-that-can-return/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/mind-that-can-return/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/mind-that-can-return/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/mind-that-can-return/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/mind-that-can-return/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/mind-that-can-return/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/mind-that-can-return/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/mind-that-can-return/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/mind-that-can-return/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/mind-that-can-return/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/mind-that-can-return/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/mind-that-can-return/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/mind-that-can-return/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/mind-that-can-return/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/mind-that-can-return/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/mind-that-can-return/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/mind-that-can-return/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/mind-that-can-return/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/mind-that-can-return/clips/sources_0.mp3"
+    }
+  }
+}
