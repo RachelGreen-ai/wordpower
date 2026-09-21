@@ -13,6 +13,7 @@
     "tts:parenting:all": "tsx generateParentingAudio.ts --all --skipExisting",
     "tts:read-aloud": "tsx generateReadAloudAudio.ts",
     "tts:read-aloud:all": "tsx generateReadAloudAudio.ts --all --skipExisting",
+    "validate:read-aloud": "tsx validateReadAloudBatch.ts",
     "tts:test": "bash tts/test_tts.sh"
   },
   "dependencies": {
