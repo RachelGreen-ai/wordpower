@@ -1,0 +1,244 @@
+{
+  "lessonId": "make-room-in-conversation",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Make Room in the Conversation",
+    "zh": "在对话里，留一点空间"
+  },
+  "subtitle": {
+    "en": "An original passage on calm speech, useful silence, and disagreement without contempt.",
+    "zh": "一篇原创美文：关于平静表达、有用的沉默，以及不带轻蔑的分歧。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Listening",
+    "Calm",
+    "Disagreement",
+    "Respect"
+  ],
+  "sources": [
+    {
+      "title": "Letters from a Stoic",
+      "author": "Seneca",
+      "organization": "Wikisource",
+      "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius",
+      "note": {
+        "en": "Public-domain philosophical inspiration for self-command and humane conduct; all lesson prose is original.",
+        "zh": "以公开领域斯多葛哲学中关于自持与仁厚待人的思想为灵感；课程正文全部原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Use a grounded, conversational voice. The goal is not to win the room, but to make understanding possible.",
+    "zh": "用沉稳、自然的对话语气。目标不是赢下全场，而是让理解成为可能。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Space Between Replies",
+      "zh": "回应之间的空间"
+    },
+    "intro": {
+      "en": "This original passage explores how restraint, curiosity, and precise language can keep a difficult conversation human.",
+      "zh": "这篇原创文章探讨：克制、好奇和准确表达，如何让困难的对话仍然保有人情味。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When Speed Takes Over",
+          "zh": "1. 当速度接管对话"
+        },
+        "text": "A difficult conversation can become a race no one intended to enter. One person speaks faster; the other prepares a defense before the sentence is finished. Volume rises, meanings narrow, and every pause feels dangerous. Yet speed is not always strength. Sometimes it is anxiety trying to control the ending. A slower reply can interrupt that pattern. It gives the body time to settle and the mind time to choose. Even one breath can return a conversation from reflex to intention.",
+        "coaching": {
+          "en": "Begin with rising momentum, then place a real breath before A slower reply.",
+          "zh": "开头逐渐加速，然后在 A slower reply 前真正吸一口气。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Listen for the Hidden Need",
+          "zh": "2. 听见话语背后的需要"
+        },
+        "text": "People rarely bring only facts into a disagreement. They also bring a wish to be respected, included, trusted, or safe. This does not mean every claim is correct. It means correction works better when dignity remains intact. You can say, I see why that mattered to you, without saying, I agree with every conclusion. Such a sentence is not surrender. It is a bridge sturdy enough to carry the truth across. When people feel accurately heard, they become more able to hear what challenges them.",
+        "coaching": {
+          "en": "Make the two quoted sentences warm but firm. Stress dignity remains intact.",
+          "zh": "两句引语要温和但坚定。重读 dignity remains intact。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Replace Heat with Shape",
+          "zh": "3. 用清晰取代火气"
+        },
+        "text": "Anger often speaks in clouds: you never listen; this always happens; nobody cares. Calm language gives the problem edges. Yesterday, I was interrupted twice while explaining the plan. I would like five uninterrupted minutes today. The second version may sound less dramatic, but it is more powerful because another person can respond to it. Precision is not coldness. It is a form of generosity. It separates the behavior from the whole person and turns a vague accusation into a possible next step.",
+        "coaching": {
+          "en": "Let the vague accusations sound compressed; give the precise request space and clarity.",
+          "zh": "模糊指责要读得紧促；具体请求则要留出空间，清楚表达。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave a Door Open",
+          "zh": "4. 留一扇门"
+        },
+        "text": "Not every conversation ends in agreement. Some end with a boundary, a question, or a promise to return later. We can still choose an ending that leaves no unnecessary wound. I disagree, and I want to understand what I may be missing. I cannot accept that request, but I can explain my concern. These are not perfect sentences. Their value lies in the room they preserve: room for self-respect, room for revision, room for tomorrow. A calm voice is not a small voice. It is a voice strong enough to leave a door open.",
+        "coaching": {
+          "en": "Read the final list with measured warmth, then make the last sentence steady and spacious.",
+          "zh": "最后一组排比要温暖而有分寸；末句读得稳定、开阔。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "reflex",
+      "meaning": {
+        "en": "An immediate reaction made without deliberate thought.",
+        "zh": "未经认真思考的即时反应。"
+      },
+      "use": {
+        "en": "One breath can move us from reflex to intention.",
+        "zh": "一次呼吸能让我们从本能反应回到有意识的选择。"
+      }
+    },
+    {
+      "term": "dignity",
+      "meaning": {
+        "en": "The quality of being worthy of respect.",
+        "zh": "值得尊重的尊严与体面。"
+      },
+      "use": {
+        "en": "Correction works better when dignity remains intact.",
+        "zh": "当尊严没有受损时，纠正更容易奏效。"
+      }
+    },
+    {
+      "term": "surrender",
+      "meaning": {
+        "en": "To stop resisting or give up control.",
+        "zh": "停止抵抗；放弃控制。"
+      },
+      "use": {
+        "en": "Listening carefully is not surrender.",
+        "zh": "认真倾听并不等于投降。"
+      }
+    },
+    {
+      "term": "sturdy",
+      "meaning": {
+        "en": "Strong and unlikely to break.",
+        "zh": "结实的；不易折断的。"
+      },
+      "use": {
+        "en": "Respect can build a sturdy bridge.",
+        "zh": "尊重可以搭起一座坚固的桥。"
+      }
+    },
+    {
+      "term": "accusation",
+      "meaning": {
+        "en": "A claim that someone has done something wrong.",
+        "zh": "指责某人做错了事的话。"
+      },
+      "use": {
+        "en": "Turn the accusation into a specific request.",
+        "zh": "把指责变成具体请求。"
+      }
+    },
+    {
+      "term": "revision",
+      "meaning": {
+        "en": "A reconsideration or change made after reflection.",
+        "zh": "反思后的重新考虑或修改。"
+      },
+      "use": {
+        "en": "Leave room for revision.",
+        "zh": "为重新思考留出空间。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use contrastive stress in speed is not always strength.",
+      "zh": "在 speed is not always strength 中使用对比重音。"
+    },
+    {
+      "en": "Practice the consonant clusters in respected, included, trusted, and safe.",
+      "zh": "练习 respected, included, trusted, safe 中的辅音组合。"
+    },
+    {
+      "en": "Let the repeated room for phrases share one calm rhythm.",
+      "zh": "让重复的 room for 短语保持同一个平静节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Practice sounding clear without becoming sharp, and warm without giving up your boundary.",
+      "zh": "练习清楚但不尖锐，温和但不放弃边界。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: breathe fully before each contrasting sentence.",
+        "zh": "第一遍：每个转折句前充分呼吸。"
+      },
+      {
+        "en": "Pass two: say the precise requests with a low, steady ending.",
+        "zh": "第二遍：用低而稳定的句尾说出具体请求。"
+      },
+      {
+        "en": "Pass three: adapt one bridge sentence to a real conversation.",
+        "zh": "第三遍：把一句桥梁式表达改写到真实对话中。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What helps you slow down when a conversation becomes tense?",
+      "zh": "当对话变得紧张时，什么能帮助你慢下来？"
+    },
+    {
+      "en": "Which vague complaint could you turn into a precise request?",
+      "zh": "你可以把哪一句模糊抱怨，变成具体请求？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-room-in-conversation/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-room-in-conversation/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-room-in-conversation/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-room-in-conversation/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-room-in-conversation/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/make-room-in-conversation/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/make-room-in-conversation/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-room-in-conversation/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-room-in-conversation/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-room-in-conversation/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-room-in-conversation/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-room-in-conversation/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-room-in-conversation/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-room-in-conversation/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-room-in-conversation/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-room-in-conversation/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-room-in-conversation/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-room-in-conversation/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-room-in-conversation/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-room-in-conversation/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-room-in-conversation/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-room-in-conversation/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-room-in-conversation/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-room-in-conversation/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-room-in-conversation/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-room-in-conversation/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-room-in-conversation/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-room-in-conversation/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-room-in-conversation/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-room-in-conversation/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-room-in-conversation/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-room-in-conversation/clips/sources_0.mp3"
+    }
+  }
+}

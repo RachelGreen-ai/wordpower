@@ -1,0 +1,244 @@
+{
+  "lessonId": "patient-eye-sees-more",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "The Patient Eye Sees More",
+    "zh": "耐心的眼睛，看见更多"
+  },
+  "subtitle": {
+    "en": "An original reflection on observation, curiosity, and the discipline of seeing before naming.",
+    "zh": "一篇原创美文：关于观察、好奇心，以及先看见、再命名的训练。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Observation",
+    "Science",
+    "Curiosity",
+    "Nature",
+    "Attention"
+  ],
+  "sources": [
+    {
+      "title": "The Voyage of the Beagle",
+      "author": "Charles Darwin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/944",
+      "note": {
+        "en": "Public-domain inspiration for attentive field observation; the lesson is wholly original and does not reproduce the source.",
+        "zh": "以这部公开领域作品中的细致野外观察为灵感；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with unhurried curiosity. Let each concrete detail arrive before you explain what it means.",
+    "zh": "用从容的好奇心朗读。先让每个具体细节出现，再解释它的意义。"
+  },
+  "passage": {
+    "title": {
+      "en": "Before the Name",
+      "zh": "在名字之前"
+    },
+    "intro": {
+      "en": "This original passage turns the naturalist's habit of patient observation into a practice for daily life and spoken English.",
+      "zh": "这篇原创文章把博物学家耐心观察的习惯，转化为日常生活与英语表达的练习。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Quick Label",
+          "zh": "1. 匆忙的标签"
+        },
+        "text": "The mind loves a quick label. A bird becomes merely a bird; a colleague becomes difficult; a morning becomes ordinary. A label is useful, but it can close the door too soon. Look again. The bird is balancing on a wire while the wind lifts its smallest feathers. The colleague pauses before answering and rubs a tired thumb across a notebook. The ordinary morning holds a pale square of sunlight on the floor. Description restores what judgment removes: texture, movement, and the possibility that our first conclusion was incomplete.",
+        "coaching": {
+          "en": "Keep the opening labels brisk, then widen your pace as the details come into view.",
+          "zh": "开头的标签读得简短利落；细节进入视野时，把节奏慢慢放宽。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Evidence Before Story",
+          "zh": "2. 先有证据，再讲故事"
+        },
+        "text": "Careful observers separate what they notice from the story they tell about it. I heard her voice become quieter is an observation. She has lost confidence is an interpretation. The distinction may seem small, yet it protects us from certainty that has not been earned. In science, it keeps a question open long enough for evidence to gather. In friendship, it makes room for another person's reality. We can ask, gently, what changed for you? Curiosity does not make us passive. It makes our response more precise.",
+        "coaching": {
+          "en": "Give the observation and interpretation different tones; make the question sound genuinely open.",
+          "zh": "用不同语气读出“观察”和“解读”；最后的问题要真正开放，而不是审问。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Scale of Wonder",
+          "zh": "3. 惊奇的尺度"
+        },
+        "text": "Wonder is not reserved for distant mountains or rare discoveries. It often begins when attention changes scale. Notice the silver line left by a snail, the tiny repair in a much-used sleeve, the brief silence before a child admits the truth. Nothing has been added to the world, but something has been returned to us. Patient attention turns the familiar from background into presence. It reminds us that reality is not thin; our looking sometimes is. To see more, we do not always need a new place. We may need a steadier gaze.",
+        "coaching": {
+          "en": "Let the three images feel distinct. Land gently on a steadier gaze.",
+          "zh": "三个画面要各自清晰。最后在 a steadier gaze 上轻轻落稳。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Practice of Respect",
+          "zh": "4. 尊重的练习"
+        },
+        "text": "To observe patiently is a form of respect. It says that a thing, a place, or a person may be more complex than our convenience allows. This practice also improves the voice. Specific seeing leads to specific language, and specific language carries trust. Instead of saying everything was amazing, tell us where the light fell, what surprised you, and why you stayed. The patient eye does not seek impressive words. It waits for the honest detail, then gives that detail enough air to be heard.",
+        "coaching": {
+          "en": "Read the final contrast with quiet confidence: not impressive words, but the honest detail.",
+          "zh": "最后的对比要沉静而坚定：不是华丽词语，而是真实细节。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "texture",
+      "meaning": {
+        "en": "The detailed quality or feel of something.",
+        "zh": "事物细腻的质感或层次。"
+      },
+      "use": {
+        "en": "Good description gives an ordinary scene texture.",
+        "zh": "好的描写让普通场景有了质感。"
+      }
+    },
+    {
+      "term": "interpretation",
+      "meaning": {
+        "en": "An explanation of what something means.",
+        "zh": "对某件事意义的解释。"
+      },
+      "use": {
+        "en": "Do not confuse an interpretation with a fact.",
+        "zh": "不要把解读和事实混为一谈。"
+      }
+    },
+    {
+      "term": "precise",
+      "meaning": {
+        "en": "Exact, clear, and carefully expressed.",
+        "zh": "准确、清楚、表达严谨的。"
+      },
+      "use": {
+        "en": "Curiosity can make our response more precise.",
+        "zh": "好奇心能让我们的回应更准确。"
+      }
+    },
+    {
+      "term": "reserved for",
+      "meaning": {
+        "en": "Kept specially for a particular person or purpose.",
+        "zh": "专门留给某人或某种用途。"
+      },
+      "use": {
+        "en": "Wonder is not reserved for distant places.",
+        "zh": "惊奇并不只属于远方。"
+      }
+    },
+    {
+      "term": "familiar",
+      "meaning": {
+        "en": "Well known because it is often seen or experienced.",
+        "zh": "因经常见到或经历而熟悉的。"
+      },
+      "use": {
+        "en": "Attention makes the familiar visible again.",
+        "zh": "注意力让熟悉之物重新变得可见。"
+      }
+    },
+    {
+      "term": "steadier",
+      "meaning": {
+        "en": "More stable, calm, and consistent.",
+        "zh": "更稳定、更沉着、更持续的。"
+      },
+      "use": {
+        "en": "A steadier gaze can reveal more.",
+        "zh": "更稳定的目光能发现更多。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Contrast the stressed nouns in texture, movement, and possibility.",
+      "zh": "突出 texture, movement, possibility 三个名词的重音。"
+    },
+    {
+      "en": "Link gently in the phrase an observation and an interpretation.",
+      "zh": "在 an observation and an interpretation 中自然连读。"
+    },
+    {
+      "en": "Pause before the contrast: reality is not thin; our looking sometimes is.",
+      "zh": "在对比句 reality is not thin; our looking sometimes is 中间停顿。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow the passage as if you are guiding someone to notice what they nearly missed.",
+      "zh": "跟读时，想象你正引导别人看见他们差点错过的东西。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pauses around each concrete image.",
+        "zh": "第一遍：模仿每个具体画面前后的停顿。"
+      },
+      {
+        "en": "Pass two: clearly separate observation from interpretation.",
+        "zh": "第二遍：清楚地区分观察与解读。"
+      },
+      {
+        "en": "Pass three: describe one nearby object with two honest details.",
+        "zh": "第三遍：用两个真实细节描述身边的一件物品。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar thing becomes interesting when you look again?",
+      "zh": "哪件熟悉的事物，在你再看一眼时变得有趣？"
+    },
+    {
+      "en": "Where might you be treating an interpretation as a fact?",
+      "zh": "在哪件事上，你可能把自己的解读当成了事实？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/patient-eye-sees-more/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/patient-eye-sees-more/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/patient-eye-sees-more/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/patient-eye-sees-more/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/patient-eye-sees-more/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/patient-eye-sees-more/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/patient-eye-sees-more/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/patient-eye-sees-more/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/patient-eye-sees-more/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/patient-eye-sees-more/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/patient-eye-sees-more/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/patient-eye-sees-more/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/patient-eye-sees-more/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/patient-eye-sees-more/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/patient-eye-sees-more/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/patient-eye-sees-more/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/patient-eye-sees-more/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/patient-eye-sees-more/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/patient-eye-sees-more/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/patient-eye-sees-more/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/patient-eye-sees-more/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/patient-eye-sees-more/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/patient-eye-sees-more/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/patient-eye-sees-more/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/patient-eye-sees-more/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/patient-eye-sees-more/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/patient-eye-sees-more/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/patient-eye-sees-more/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/patient-eye-sees-more/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/patient-eye-sees-more/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/patient-eye-sees-more/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/patient-eye-sees-more/clips/sources_0.mp3"
+    }
+  }
+}

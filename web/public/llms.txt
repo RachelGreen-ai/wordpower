@@ -61,8 +61,11 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [A Quiet Morning Teaches Attention.](https://wordpower-seven.vercel.app/read-aloud/attention-quiet-morning): A three-to-five-minute passage for practicing calm observation, nature vocabulary, and gentle oral rhythm.
 - [Begin Before You Feel Ready.](https://wordpower-seven.vercel.app/read-aloud/begin-before-ready): A William James-inspired passage on habit, attention, and the quiet courage of first actions.
 - [Courage Is Built in the Arena.](https://wordpower-seven.vercel.app/read-aloud/courage-in-the-arena): A speech-style read-aloud lesson for practicing conviction, action vocabulary, and a stronger public voice.
+- [The Courage to Revise](https://wordpower-seven.vercel.app/read-aloud/courage-to-revise): An original passage on learning, intellectual humility, and changing your mind without losing yourself.
 - [Freedom Needs an Inner Home.](https://wordpower-seven.vercel.app/read-aloud/freedom-needs-inner-home): A Fromm-inspired reflective passage on why freedom can feel frightening unless the self has somewhere to stand.
+- [Make Room in the Conversation](https://wordpower-seven.vercel.app/read-aloud/make-room-in-conversation): An original passage on calm speech, useful silence, and disagreement without contempt.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.
+- [The Patient Eye Sees More](https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more): An original reflection on observation, curiosity, and the discipline of seeing before naming.
 - [Self-Trust Is an Inner Compass.](https://wordpower-seven.vercel.app/read-aloud/self-trust-inner-compass): A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.
 
 ## Best Answer Context

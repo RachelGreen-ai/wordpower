@@ -1,0 +1,244 @@
+{
+  "lessonId": "courage-to-revise",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "The Courage to Revise",
+    "zh": "修正自己的勇气"
+  },
+  "subtitle": {
+    "en": "An original passage on learning, intellectual humility, and changing your mind without losing yourself.",
+    "zh": "一篇原创美文：关于学习、思想上的谦逊，以及如何改变想法而不失去自我。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Learning",
+    "Courage",
+    "Humility",
+    "Growth",
+    "Judgment"
+  ],
+  "sources": [
+    {
+      "title": "The Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/20203",
+      "note": {
+        "en": "Public-domain inspiration for deliberate self-improvement and more modest language; the passage itself is original.",
+        "zh": "以公开领域作品中关于主动自我改进与谦逊表达的思想为灵感；正文为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with reflective strength. This is not an apology for weakness; it is a defense of honest learning.",
+    "zh": "用沉思而有力量的语气朗读。这不是为软弱辩护，而是在捍卫诚实的学习。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Mind with Windows",
+      "zh": "一颗有窗的心"
+    },
+    "intro": {
+      "en": "This original passage considers revision not as embarrassment, but as one of the mature forms of courage.",
+      "zh": "这篇原创文章把“修正”视为一种成熟的勇气，而不是尴尬。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Weight of Being Right",
+          "zh": "1. 必须正确的重量"
+        },
+        "text": "There is a special fatigue in needing to be right all the time. Every new fact becomes a threat, every question a test, every disagreement a small public trial. We begin protecting yesterday's opinion as if it were our name. But an opinion is not a home we must defend forever. It is a working map. A good map helps us move; when the landscape proves it wrong, we redraw it. The purpose was never to admire the map. The purpose was to find our way.",
+        "coaching": {
+          "en": "Let the first sentence carry weight, then brighten slightly when the map image appears.",
+          "zh": "第一句要有重量；地图意象出现时，语气稍微明亮起来。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Language with Windows",
+          "zh": "2. 有窗的语言"
+        },
+        "text": "Certain phrases keep the mind ventilated. As I understand it. Based on what I know now. I may be missing something. These words do not drain authority from a speaker; they show that confidence has a foundation rather than a costume. They also invite useful correction. Compare You are wrong with Here is the part I see differently. The second phrase opens a window. Air enters. More importantly, another person may enter too, carrying evidence we could not have found alone.",
+        "coaching": {
+          "en": "Give each modest phrase its own pause. Keep Here is the part I see differently curious, not evasive.",
+          "zh": "每个谦逊表达后都停一下。Here is the part I see differently 要读得好奇，而不是闪躲。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Moment of Revision",
+          "zh": "3. 修正的时刻"
+        },
+        "text": "Changing your mind can feel awkward because other people witnessed the earlier version. We imagine that consistency will earn more respect than honesty. Often the opposite is true. A clear revision can sound like this: I believed the deadline was flexible. I have now seen the client agreement, and I was mistaken. Here is what I will change. Nothing in that sequence requires self-contempt. It names the old belief, acknowledges the evidence, and moves responsibility forward. Revision becomes credible when it produces a different action.",
+        "coaching": {
+          "en": "Read the example plainly, without shame. Stress what I will change and different action.",
+          "zh": "示例要平实，不带羞耻。重读 what I will change 和 different action。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Loyal to the Search",
+          "zh": "4. 忠于求真"
+        },
+        "text": "We need convictions, but we need them for living, not for display. Hold them firmly enough to act and lightly enough to examine. The strongest mind is not a locked room with thick walls. It is a well-built room with windows: sheltered from every passing gust, yet open to weather, distance, and light. When better evidence arrives, opening a window does not destroy the room. It reveals what the room is for. We are not betraying ourselves when we revise honestly. We are becoming more loyal to the search.",
+        "coaching": {
+          "en": "Build the room-and-window image slowly. Finish with warmth on loyal to the search.",
+          "zh": "慢慢建立房间与窗户的意象。最后在 loyal to the search 上温暖收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "working map",
+      "meaning": {
+        "en": "A useful but changeable model for understanding reality.",
+        "zh": "用来理解现实、但可以修正的模型。"
+      },
+      "use": {
+        "en": "Treat an opinion as a working map.",
+        "zh": "把观点当作一张可以修订的地图。"
+      }
+    },
+    {
+      "term": "ventilated",
+      "meaning": {
+        "en": "Supplied with fresh air; figuratively, kept open to new thought.",
+        "zh": "通风的；比喻思想保持开放。"
+      },
+      "use": {
+        "en": "Modest language keeps the mind ventilated.",
+        "zh": "谦逊的语言让头脑保持通透。"
+      }
+    },
+    {
+      "term": "foundation",
+      "meaning": {
+        "en": "The underlying support on which something rests.",
+        "zh": "事物赖以建立的基础。"
+      },
+      "use": {
+        "en": "Real confidence has a foundation.",
+        "zh": "真正的自信有坚实基础。"
+      }
+    },
+    {
+      "term": "credible",
+      "meaning": {
+        "en": "Believable and worthy of trust.",
+        "zh": "可信的；值得信任的。"
+      },
+      "use": {
+        "en": "Revision is credible when action changes.",
+        "zh": "当行动改变时，修正才可信。"
+      }
+    },
+    {
+      "term": "conviction",
+      "meaning": {
+        "en": "A firmly held belief or principle.",
+        "zh": "坚定持有的信念或原则。"
+      },
+      "use": {
+        "en": "A conviction should guide action, not decorate identity.",
+        "zh": "信念应当指导行动，而不是装饰身份。"
+      }
+    },
+    {
+      "term": "betray",
+      "meaning": {
+        "en": "To be disloyal to a person, value, or trust.",
+        "zh": "背叛某人、价值或信任。"
+      },
+      "use": {
+        "en": "Honest revision does not betray the self.",
+        "zh": "诚实的修正并不是背叛自我。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in fact, threat, test, and respect.",
+      "zh": "清楚读出 fact, threat, test, respect 的词尾辅音。"
+    },
+    {
+      "en": "Use a three-part rhythm for names the old belief, acknowledges the evidence, and moves responsibility forward.",
+      "zh": "用三段式节奏朗读 names the old belief, acknowledges the evidence, and moves responsibility forward。"
+    },
+    {
+      "en": "Contrast firmly enough to act with lightly enough to examine.",
+      "zh": "对比朗读 firmly enough to act 与 lightly enough to examine。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Practice a voice that can admit uncertainty without collapsing into apology.",
+      "zh": "练习一种能够承认不确定、却不会陷入过度道歉的声音。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pauses in the modest opening phrases.",
+        "zh": "第一遍：模仿谦逊开场语中的停顿。"
+      },
+      {
+        "en": "Pass two: deliver the revision example with steady responsibility.",
+        "zh": "第二遍：以稳定、负责的语气说出修正示例。"
+      },
+      {
+        "en": "Pass three: state one belief using Based on what I know now.",
+        "zh": "第三遍：用 Based on what I know now 表达一个观点。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which belief in your life should remain a working map rather than a fixed identity?",
+      "zh": "生活中的哪个观点，应该只是一张可修改的地图，而不是固定身份？"
+    },
+    {
+      "en": "What new evidence would genuinely change your mind?",
+      "zh": "什么样的新证据，真的会让你改变想法？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/courage-to-revise/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/courage-to-revise/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/courage-to-revise/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/courage-to-revise/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/courage-to-revise/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/courage-to-revise/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/courage-to-revise/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/courage-to-revise/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/courage-to-revise/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/courage-to-revise/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/courage-to-revise/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/courage-to-revise/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/courage-to-revise/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/courage-to-revise/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/courage-to-revise/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/courage-to-revise/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/courage-to-revise/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/courage-to-revise/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/courage-to-revise/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/courage-to-revise/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/courage-to-revise/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/courage-to-revise/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/courage-to-revise/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/courage-to-revise/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/courage-to-revise/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/courage-to-revise/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/courage-to-revise/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/courage-to-revise/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/courage-to-revise/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/courage-to-revise/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/courage-to-revise/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/courage-to-revise/clips/sources_0.mp3"
+    }
+  }
+}
