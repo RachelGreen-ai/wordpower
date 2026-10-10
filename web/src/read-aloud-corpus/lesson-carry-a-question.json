@@ -1,0 +1,244 @@
+{
+  "lessonId": "carry-a-question",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Carry a Question",
+    "zh": "带着一个问题前行"
+  },
+  "subtitle": {
+    "en": "An original reflection on scientific wonder, patient inquiry, and the value of not knowing yet.",
+    "zh": "一篇原创美文：关于科学惊奇、耐心探究，以及暂时不知道的价值。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Wonder",
+    "Learning",
+    "Inquiry",
+    "Humility"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration for finding large questions in ordinary phenomena; the lesson is wholly original and does not reproduce the lectures.",
+        "zh": "以这部公开领域作品中从日常现象发现重大问题的精神为灵感；本课全文原创，不复述讲稿。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert curiosity. Give small facts a sense of discovery without making them theatrical.",
+    "zh": "带着敏锐的好奇心朗读。让小事实显出发现感，但不要表演得过于夸张。"
+  },
+  "passage": {
+    "title": {
+      "en": "What the Flame Opens",
+      "zh": "火焰打开的问题"
+    },
+    "intro": {
+      "en": "This original passage begins with a candle and follows the habit that science shares with a lively mind: staying with a question long enough for it to change us.",
+      "zh": "这篇原创文章从一支蜡烛出发，追随科学与鲜活心灵共有的习惯：与一个问题相处足够久，直到它改变我们。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. An Ordinary Flame",
+          "zh": "1. 一簇普通的火焰"
+        },
+        "text": "Light a candle and the room changes at once. The flame appears simple: a bright shape, a dark wick, a little heat against the hand. Stay longer and simplicity opens. Melted wax climbs where gravity seems to pull it down. Air enters invisibly. Light, water, soot, and warmth emerge from one quiet event. The candle has not become strange; our attention has become more exact. A useful question often begins this way—not with ignorance alone, but with a familiar thing suddenly seen as unfinished.",
+        "coaching": {
+          "en": "Let the list of details unfold one by one. Stress suddenly seen as unfinished.",
+          "zh": "让细节清单逐项展开。强调 suddenly seen as unfinished。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Discipline of Yet",
+          "zh": "2. “尚未”的训练"
+        },
+        "text": "We are trained to reward quick answers. In a meeting, certainty sounds efficient; in a classroom, the raised hand wins attention. But discovery needs another sentence: I do not know yet. The final word matters. Yet keeps the door open while admitting where we stand. It invites a sketch, a measurement, a second attempt. It protects curiosity from embarrassment. This is not vague thinking. It is disciplined humility—the ability to hold a question without filling the silence with an answer we have not earned.",
+        "coaching": {
+          "en": "Pause before yet and give it quiet confidence. Keep disciplined humility crisp and clear.",
+          "zh": "在 yet 之前停顿，并读出安静的自信。disciplined humility 要清晰利落。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. A Better Experiment",
+          "zh": "3. 更好的实验"
+        },
+        "text": "A failed experiment is disappointing only if its sole purpose was to confirm us. If its purpose was to reveal, failure can become information. The seed did not grow. Was the soil too wet, the window too cold, the waiting too brief? Each result narrows the field and sharpens the next question. The same habit belongs outside a laboratory. When a conversation goes poorly or a plan falls flat, we can defend ourselves—or examine the conditions. What did this result teach that confidence had concealed?",
+        "coaching": {
+          "en": "Give the three possible causes a searching rhythm. Let the final question remain genuinely unanswered.",
+          "zh": "三个可能原因要读出探寻的节奏。最后的问题要保持真正的开放。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Keep the Window Open",
+          "zh": "4. 让窗口保持敞开"
+        },
+        "text": "Some questions yield by evening; others travel with us for years. Why does this pattern repeat? What kind of work deserves my life? How can people disagree without becoming enemies? We do not honor such questions by producing impressive replies on demand. We honor them by gathering evidence, revising language, and noticing what does not fit. A living question is not an empty room. It is a window kept open to weather. Through it, fresh facts enter, old assumptions move, and the mind learns to breathe beyond its first conclusion.",
+        "coaching": {
+          "en": "Widen the pace through the three big questions, then finish with a spacious, unforced tone.",
+          "zh": "三个大问题处逐渐放宽节奏；结尾要开阔、自然，不用刻意用力。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "phenomenon",
+      "meaning": {
+        "en": "An event or fact that can be observed and studied.",
+        "zh": "可以被观察和研究的事件或现象。"
+      },
+      "use": {
+        "en": "An ordinary phenomenon can open a remarkable question.",
+        "zh": "一个普通现象也能打开非凡的问题。"
+      }
+    },
+    {
+      "term": "emerge",
+      "meaning": {
+        "en": "To appear or become known gradually.",
+        "zh": "逐渐出现或显现。"
+      },
+      "use": {
+        "en": "A pattern began to emerge from the results.",
+        "zh": "一个规律开始从结果中显现。"
+      }
+    },
+    {
+      "term": "disciplined",
+      "meaning": {
+        "en": "Controlled and developed through careful practice.",
+        "zh": "通过认真练习形成的、自律而严谨的。"
+      },
+      "use": {
+        "en": "Good inquiry requires disciplined attention.",
+        "zh": "高质量的探究需要严谨的注意力。"
+      }
+    },
+    {
+      "term": "narrow the field",
+      "meaning": {
+        "en": "To reduce the number of possible explanations or choices.",
+        "zh": "缩小可能解释或选择的范围。"
+      },
+      "use": {
+        "en": "Each test helped us narrow the field.",
+        "zh": "每次测试都帮助我们缩小范围。"
+      }
+    },
+    {
+      "term": "fall flat",
+      "meaning": {
+        "en": "To fail to have the intended effect.",
+        "zh": "未能产生预期效果；反响平淡。"
+      },
+      "use": {
+        "en": "The first presentation fell flat, so we changed the opening.",
+        "zh": "第一次展示反响平淡，所以我们修改了开场。"
+      }
+    },
+    {
+      "term": "assumption",
+      "meaning": {
+        "en": "Something accepted as true without enough proof.",
+        "zh": "未经充分证明便被当作真实的假设。"
+      },
+      "use": {
+        "en": "New evidence moved an old assumption.",
+        "zh": "新证据动摇了一个旧假设。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link naturally in light, water, soot, and warmth while keeping each noun distinct.",
+      "zh": "在 light, water, soot, and warmth 中自然连读，同时保持每个名词清晰。"
+    },
+    {
+      "en": "Stress not and yet in I do not know yet.",
+      "zh": "在 I do not know yet 中重读 not 和 yet。"
+    },
+    {
+      "en": "Use rising intonation for the experimental questions, then fall gently at the end of each section.",
+      "zh": "实验性问题使用升调；每节末尾再轻轻降下来。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow the passage as if you are inviting a listener into an experiment, not delivering a finished lecture.",
+      "zh": "跟读时，想象你是在邀请听者进入一次实验，而不是发表一场结论已定的演讲。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pace changes from observation to question.",
+        "zh": "第一遍：模仿从观察转向问题时的节奏变化。"
+      },
+      {
+        "en": "Pass two: make I do not know yet sound capable rather than uncertain.",
+        "zh": "第二遍：让 I do not know yet 听起来有能力，而不是没把握。"
+      },
+      {
+        "en": "Pass three: name one result and ask what it revealed.",
+        "zh": "第三遍：说出一个结果，并追问它揭示了什么。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar object becomes mysterious when you observe it closely?",
+      "zh": "哪件熟悉的物品，在你仔细观察后变得神秘？"
+    },
+    {
+      "en": "Which unfinished question is worth carrying a little longer?",
+      "zh": "哪个尚未完成的问题，值得你再多带一程？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/carry-a-question/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/carry-a-question/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/carry-a-question/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/carry-a-question/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/carry-a-question/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/carry-a-question/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/carry-a-question/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/carry-a-question/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/carry-a-question/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/carry-a-question/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/carry-a-question/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/carry-a-question/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/carry-a-question/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/carry-a-question/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/carry-a-question/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/carry-a-question/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/carry-a-question/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/carry-a-question/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/carry-a-question/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/carry-a-question/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/carry-a-question/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/carry-a-question/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/carry-a-question/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/carry-a-question/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/carry-a-question/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/carry-a-question/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/carry-a-question/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/carry-a-question/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/carry-a-question/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/carry-a-question/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/carry-a-question/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/carry-a-question/clips/sources_0.mp3"
+    }
+  }
+}

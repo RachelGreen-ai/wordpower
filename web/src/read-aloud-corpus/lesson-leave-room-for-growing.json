@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-room-for-growing",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave Room for Growing",
+    "zh": "给成长留一点空间"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient guidance, useful boundaries, and the courage to let a child try.",
+    "zh": "一篇原创美文：关于耐心引导、有益的边界，以及让孩子亲自尝试的勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Patience",
+    "Growth",
+    "Trust",
+    "Guidance"
+  ],
+  "sources": [
+    {
+      "title": "The Montessori Method",
+      "author": "Maria Montessori",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/39863",
+      "note": {
+        "en": "Public-domain inspiration for respecting a child's purposeful independence; the lesson is wholly original and does not reproduce the source.",
+        "zh": "以这部公开领域作品中尊重儿童自主行动的思想为灵感；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with warmth rather than authority. Let the practical details carry the lesson.",
+    "zh": "用温暖而非命令的语气朗读。让具体细节自然承载道理。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Helpful Step Back",
+      "zh": "有益的退后一步"
+    },
+    "intro": {
+      "en": "This original passage explores a quiet form of care: staying near enough to help while leaving enough room for another person to grow.",
+      "zh": "这篇原创文章探讨一种安静的关爱：既在近处提供帮助，也给另一个人的成长留足空间。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Untied Shoe",
+          "zh": "1. 没系好的鞋带"
+        },
+        "text": "A child bends over an untied shoe. The loops collapse; the knot becomes a small puzzle in impatient fingers. An adult can solve it in three seconds. The temptation is almost physical: reach down, finish the task, keep the morning moving. Yet care is not always measured by how quickly we remove difficulty. Sometimes care waits beside the difficulty and says, without drama, try once more. The minute we save may cost the child a chance to discover what those hands can do.",
+        "coaching": {
+          "en": "Make the hurried temptation quick, then slow down for try once more.",
+          "zh": "读到匆忙的冲动时加快节奏；在 try once more 处放慢并给予鼓励。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Boundaries That Hold",
+          "zh": "2. 托住人的边界"
+        },
+        "text": "Giving room does not mean disappearing. Children need boundaries the way young trees need firm soil: not a cage around every branch, but something steady beneath the roots. A clear boundary sounds calm and specific. You may be angry, but you may not hit. You may choose your clothes, and we leave at eight. Such sentences do not humiliate or bargain. They make the shape of the moment visible. Inside that shape, a child can feel strong emotion without being ruled by it.",
+        "coaching": {
+          "en": "Give the two boundary sentences an even, grounded rhythm—firm without sounding cold.",
+          "zh": "两句边界表达要节奏平稳、语气落地：坚定，但不冰冷。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Questions Before Answers",
+          "zh": "3. 先提问，再给答案"
+        },
+        "text": "Advice often arrives before understanding. We hear half a problem and begin building a solution. But a useful question can return ownership to the person who is learning: What have you tried? Which part feels hardest? What might happen next? These are not tests with hidden correct answers. They are lanterns. They help a child look at experience, name a choice, and hear an inner voice becoming more capable. Guidance works best when it strengthens judgment instead of replacing it.",
+        "coaching": {
+          "en": "Let each question sound curious, not corrective. Place gentle emphasis on lanterns and ownership.",
+          "zh": "每个问题都要读出好奇，而非纠正。轻轻强调 lanterns 和 ownership。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Work of Trust",
+          "zh": "4. 信任的功课"
+        },
+        "text": "Stepping back can feel harder than stepping in. We must tolerate a crooked button, a slow explanation, a decision we would not have made. Of course, danger calls us forward. But ordinary struggle often asks for a different courage: the courage to witness effort without taking control. One day the shoe is tied, the apology is spoken, and the child walks into a room we cannot enter. Our restraint has been part of the preparation. Love did not do everything for them. Love helped them become someone who could do the next thing.",
+        "coaching": {
+          "en": "Build quietly toward the final contrast. Let the last sentence feel earned, not sentimental.",
+          "zh": "安静地推进到最后的对比。末句要读得自然可信，不要刻意煽情。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "temptation",
+      "meaning": {
+        "en": "A strong desire to do something, especially when another choice may be wiser.",
+        "zh": "想做某事的强烈冲动，尤其指另一种选择可能更明智时。"
+      },
+      "use": {
+        "en": "The temptation to solve every problem can weaken independence.",
+        "zh": "替人解决所有问题的冲动，可能削弱独立性。"
+      }
+    },
+    {
+      "term": "measured by",
+      "meaning": {
+        "en": "Judged or evaluated according to a particular standard.",
+        "zh": "按照某种标准来衡量。"
+      },
+      "use": {
+        "en": "Care is not measured only by speed.",
+        "zh": "关心不能只用速度来衡量。"
+      }
+    },
+    {
+      "term": "boundary",
+      "meaning": {
+        "en": "A clear limit that protects people or guides behavior.",
+        "zh": "保护人或引导行为的明确界限。"
+      },
+      "use": {
+        "en": "A calm boundary can make a difficult moment safer.",
+        "zh": "平静的边界能让困难时刻更安全。"
+      }
+    },
+    {
+      "term": "ownership",
+      "meaning": {
+        "en": "Responsibility and personal control over a choice or task.",
+        "zh": "对选择或任务承担责任并拥有自主权。"
+      },
+      "use": {
+        "en": "A good question returns ownership to the learner.",
+        "zh": "一个好问题会把自主权还给学习者。"
+      }
+    },
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "The ability to stop yourself from acting immediately.",
+        "zh": "克制自己、不立刻行动的能力。"
+      },
+      "use": {
+        "en": "Parental restraint can create room for growth.",
+        "zh": "父母的克制能为成长创造空间。"
+      }
+    },
+    {
+      "term": "tolerate",
+      "meaning": {
+        "en": "To accept something uncomfortable without reacting too quickly.",
+        "zh": "承受不适，而不急于作出反应。"
+      },
+      "use": {
+        "en": "We can learn to tolerate an imperfect first attempt.",
+        "zh": "我们可以学着容纳不完美的第一次尝试。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonants clear in firm soil and strong emotion.",
+      "zh": "读清 firm soil 和 strong emotion 中相邻的辅音。"
+    },
+    {
+      "en": "Use a falling tone for calm boundaries: You may be angry, but you may not hit.",
+      "zh": "边界句用平稳的降调：You may be angry, but you may not hit。"
+    },
+    {
+      "en": "Contrast stepping back with stepping in by stressing back and in.",
+      "zh": "重读 back 和 in，读出 stepping back 与 stepping in 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow the passage as if you are offering calm support in a difficult family moment.",
+      "zh": "跟读时，想象你正在一个困难的家庭时刻提供平静的支持。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pauses around the concrete parenting examples.",
+        "zh": "第一遍：模仿具体育儿场景前后的停顿。"
+      },
+      {
+        "en": "Pass two: make every boundary sound both firm and respectful.",
+        "zh": "第二遍：让每句边界表达既坚定又尊重。"
+      },
+      {
+        "en": "Pass three: ask the three questions in your own natural voice.",
+        "zh": "第三遍：用你自己的自然语气说出文中的三个问题。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where could you replace immediate help with patient presence?",
+      "zh": "在哪件事上，你可以用耐心陪伴代替立刻出手？"
+    },
+    {
+      "en": "What boundary can you express more calmly and specifically?",
+      "zh": "哪条边界，你可以表达得更平静、更具体？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-room-for-growing/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-room-for-growing/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-room-for-growing/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-room-for-growing/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-room-for-growing/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-room-for-growing/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-room-for-growing/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-room-for-growing/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-room-for-growing/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-room-for-growing/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-room-for-growing/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-room-for-growing/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-room-for-growing/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-room-for-growing/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-room-for-growing/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-room-for-growing/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-room-for-growing/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-room-for-growing/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-room-for-growing/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-room-for-growing/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-room-for-growing/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-room-for-growing/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-room-for-growing/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-room-for-growing/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-room-for-growing/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-room-for-growing/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-room-for-growing/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-room-for-growing/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-room-for-growing/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-room-for-growing/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-room-for-growing/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-room-for-growing/clips/sources_0.mp3"
+    }
+  }
+}

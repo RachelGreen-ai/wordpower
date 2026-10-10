@@ -1,0 +1,244 @@
+{
+  "lessonId": "imagine-the-unseen-life",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Imagine the Unseen Life",
+    "zh": "想象那段未被看见的人生"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, fair judgment, and the stories hidden behind behavior.",
+    "zh": "一篇原创美文：关于道德想象、公平判断，以及行为背后未被看见的故事。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Empathy",
+    "Judgment",
+    "Character",
+    "Listening",
+    "Moral Imagination"
+  ],
+  "sources": [
+    {
+      "title": "The Theory of Moral Sentiments",
+      "author": "Adam Smith",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/58559",
+      "note": {
+        "en": "Public-domain inspiration for examining sympathy and impartial judgment; the lesson is wholly original and does not reproduce the source.",
+        "zh": "以这部公开领域作品中对同感与公正判断的探讨为灵感；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with thoughtful restraint. Avoid a heroic tone; let empathy appear through precise observation.",
+    "zh": "用克制而深思的语气朗读。不要使用英雄式腔调，让同理心从准确观察中自然出现。"
+  },
+  "passage": {
+    "title": {
+      "en": "Beyond the Visible Moment",
+      "zh": "越过眼前这一刻"
+    },
+    "intro": {
+      "en": "This original passage asks what changes when we imagine that every visible action has an invisible history.",
+      "zh": "这篇原创文章追问：当我们意识到每个可见行为背后都有一段不可见的历史，判断会如何改变。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Single Frame",
+          "zh": "1. 单独的一帧"
+        },
+        "text": "We often meet people in a single frame. A driver cuts across our lane. A cashier answers without looking up. A friend cancels at the last minute. The visible act is real, and it may deserve a response. But it is not the whole film. Outside the frame may be a hospital call, a sleepless night, or fear with no graceful language. Moral imagination does not erase responsibility. It simply refuses to confuse one sharp moment with the complete shape of a life.",
+        "coaching": {
+          "en": "Keep the examples brisk, then widen the tone at not the whole film.",
+          "zh": "几个例子读得简洁明快；到 not the whole film 时把语气放宽。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Most Generous Plausible Story",
+          "zh": "2. 最善意而合理的解释"
+        },
+        "text": "When facts are missing, the mind invents a story. Curiously, it often chooses one that makes us innocent and the other person careless. We can interrupt this habit with a modest question: What is the most generous plausible explanation? Plausible matters. Empathy is not fantasy, and trust does not require blindness. Yet generosity prevents the imagination from becoming a private courtroom where we supply the evidence, deliver the verdict, and never invite the accused to speak.",
+        "coaching": {
+          "en": "Stress generous and plausible equally. Give the courtroom sentence a controlled, deliberate build.",
+          "zh": "同样重读 generous 和 plausible。法庭比喻句要有控制地层层推进。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Curiosity With a Backbone",
+          "zh": "3. 有原则的好奇心"
+        },
+        "text": "Understanding another person's reasons does not force us to approve the result. We can say, I see why you were overwhelmed, and the way you spoke still hurt me. This sentence holds two truths without making either disappear. It keeps compassion from becoming surrender and honesty from becoming punishment. Mature empathy has a backbone. It listens for the unseen pressure, names the visible harm, and looks for a next step that preserves dignity on both sides.",
+        "coaching": {
+          "en": "Read the sample sentence with tenderness and firmness in equal measure. Pause around the two truths.",
+          "zh": "示例句中，温柔与坚定要同等清晰。在 two truths 前后稍作停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Wider Human Picture",
+          "zh": "4. 更宽广的人性图景"
+        },
+        "text": "The practice begins close to home: at a crowded table, in a tense email, beside a child who cannot explain the tears. Over time, it enlarges our public voice. We become slower to turn strangers into symbols and less eager to win by making someone small. We ask what history, loyalty, loss, or hope might be present. Sometimes our judgment remains unchanged. Even then, its texture can change. A fair judgment can be clear without being cruel, because it remembers that no person is only the worst frame we have seen.",
+        "coaching": {
+          "en": "Move steadily through the list, then land on the final sentence with humane clarity.",
+          "zh": "列表部分保持稳定推进；最后一句要读出清醒而有人情味的力量。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "Calm control over what you say or do.",
+        "zh": "对言行保持冷静克制。"
+      },
+      "use": {
+        "en": "She answered the unfair comment with restraint.",
+        "zh": "她克制地回应了那句不公平的评论。"
+      }
+    },
+    {
+      "term": "plausible",
+      "meaning": {
+        "en": "Reasonable and possible enough to be believed.",
+        "zh": "合乎情理、具有可信可能性的。"
+      },
+      "use": {
+        "en": "We looked for a plausible explanation before judging.",
+        "zh": "我们在判断前寻找了一个合理的解释。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A formal decision or a firm judgment about someone.",
+        "zh": "正式裁决；对某人的断然判断。"
+      },
+      "use": {
+        "en": "Do not deliver a verdict before hearing the full story.",
+        "zh": "在听完整个故事前，不要急着下结论。"
+      }
+    },
+    {
+      "term": "overwhelmed",
+      "meaning": {
+        "en": "Unable to cope because something feels too intense or difficult.",
+        "zh": "因事情过于强烈或困难而难以应对的。"
+      },
+      "use": {
+        "en": "He became quiet when he felt overwhelmed.",
+        "zh": "他感到不堪重负时变得沉默。"
+      }
+    },
+    {
+      "term": "backbone",
+      "meaning": {
+        "en": "Strength of character and the courage to keep a principle.",
+        "zh": "人格力量；坚持原则的勇气。"
+      },
+      "use": {
+        "en": "Kindness needs a backbone when a boundary is crossed.",
+        "zh": "当边界被越过时，善意需要有原则。"
+      }
+    },
+    {
+      "term": "preserve dignity",
+      "meaning": {
+        "en": "To protect a person's sense of worth and respect.",
+        "zh": "维护一个人的价值感与尊严。"
+      },
+      "use": {
+        "en": "A calm correction can preserve dignity on both sides.",
+        "zh": "平静的纠正可以维护双方的尊严。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Contrast single frame with whole film by stressing frame and film.",
+      "zh": "重读 frame 和 film，读出 single frame 与 whole film 的对比。"
+    },
+    {
+      "en": "Keep the rhythm balanced in supply the evidence, deliver the verdict, and invite the accused.",
+      "zh": "在 supply the evidence, deliver the verdict, and invite the accused 中保持均衡节奏。"
+    },
+    {
+      "en": "Use clear contrastive stress in clear without being cruel.",
+      "zh": "在 clear without being cruel 中用清晰的对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow the passage as if you are helping two people see each other more fully without denying what happened.",
+      "zh": "跟读时，想象你在帮助两个人更完整地看见彼此，同时不否认已经发生的事。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the contrast between the visible act and the unseen history.",
+        "zh": "第一遍：模仿可见行为与不可见历史之间的对比。"
+      },
+      {
+        "en": "Pass two: keep empathy and accountability equally strong.",
+        "zh": "第二遍：让同理心与责任感同样有力。"
+      },
+      {
+        "en": "Pass three: say the two-truth sentence using a situation from your life.",
+        "zh": "第三遍：结合自己的经历，说出一个同时容纳两种事实的句子。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose behavior might look different if you knew more of the unseen story?",
+      "zh": "如果知道更多未被看见的故事，谁的行为可能会显得不同？"
+    },
+    {
+      "en": "How can you be generous in interpretation without abandoning a needed boundary?",
+      "zh": "你如何既善意解读，又不放弃必要的边界？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/imagine-the-unseen-life/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/imagine-the-unseen-life/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/imagine-the-unseen-life/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/imagine-the-unseen-life/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/imagine-the-unseen-life/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/imagine-the-unseen-life/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/imagine-the-unseen-life/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/imagine-the-unseen-life/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/imagine-the-unseen-life/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/imagine-the-unseen-life/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/imagine-the-unseen-life/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/imagine-the-unseen-life/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/imagine-the-unseen-life/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/imagine-the-unseen-life/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/imagine-the-unseen-life/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/imagine-the-unseen-life/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/imagine-the-unseen-life/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/imagine-the-unseen-life/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/imagine-the-unseen-life/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/imagine-the-unseen-life/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/imagine-the-unseen-life/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/imagine-the-unseen-life/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/imagine-the-unseen-life/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/imagine-the-unseen-life/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/imagine-the-unseen-life/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/imagine-the-unseen-life/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/imagine-the-unseen-life/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/imagine-the-unseen-life/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/imagine-the-unseen-life/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/imagine-the-unseen-life/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/imagine-the-unseen-life/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/imagine-the-unseen-life/clips/sources_0.mp3"
+    }
+  }
+}
