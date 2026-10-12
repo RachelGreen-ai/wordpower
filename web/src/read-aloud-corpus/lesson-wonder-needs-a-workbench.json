@@ -1,0 +1,244 @@
+{
+  "lessonId": "wonder-needs-a-workbench",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Wonder Needs a Workbench",
+    "zh": "好奇心也需要一张工作台"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient experiment, precise attention, and the craft hidden inside discovery.",
+    "zh": "一篇原创美文：关于耐心实验、精确观察，以及发现背后不为人见的手艺。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Wonder",
+    "Experiment",
+    "Attention",
+    "Craft"
+  ],
+  "sources": [
+    {
+      "title": "Experimental Researches in Electricity, Volume 1",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14986",
+      "note": {
+        "en": "Public-domain inspiration for disciplined experiment and careful observation; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "以这部公开领域作品中严谨实验与细致观察的精神为灵感；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert curiosity. Keep technical images clear, but let the human wonder remain audible.",
+    "zh": "带着敏锐的好奇心朗读。技术性画面要清楚，也要让人听见其中的人文惊喜。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Table Where Questions Become Visible",
+      "zh": "让问题显形的桌子"
+    },
+    "intro": {
+      "en": "This original passage follows a question from its first spark of wonder through the patient, practical work of learning what is true.",
+      "zh": "这篇原创文章追随一个问题：从最初的惊奇，到通过耐心而具体的实践，逐渐弄清什么是真实。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Small Disturbance",
+          "zh": "1. 微小的异动"
+        },
+        "text": "Discovery often begins with something that refuses to behave. A needle trembles when no hand touches it. A shadow falls at the wrong angle. A familiar sound arrives half a second late. Most of us smooth over the disturbance and continue with the day. The attentive person pauses. Not because every odd detail hides a great law, but because reality has briefly loosened one of its knots. Wonder is the willingness to notice that looseness. It says: this may be nothing, yet I would like to look again.",
+        "coaching": {
+          "en": "Begin conversationally. Slow down at reality has briefly loosened one of its knots, then make the final sentence light and curious.",
+          "zh": "开头用自然谈话的语气。在 reality has briefly loosened one of its knots 处放慢，末句读得轻盈而好奇。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Honest Arrangement",
+          "zh": "2. 诚实的布置"
+        },
+        "text": "Looking again requires more than enthusiasm. It requires an honest arrangement: a clean surface, a repeated action, a record made before memory edits the result. The workbench is humble on purpose. It gives the question somewhere to stand. Here, imagination does not compete with precision; each protects the other. Imagination proposes a door. Precision checks whether the door is painted on the wall. When an experiment fails, the room has not gone dark. One possible path has simply become visible as a dead end, and that is useful light.",
+        "coaching": {
+          "en": "Give the paired words imagination and precision equal weight. Land firmly on useful light.",
+          "zh": "让 imagination 和 precision 获得同等重音。结尾 useful light 要读得坚定。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Respect for the Result",
+          "zh": "3. 尊重结果"
+        },
+        "text": "There is a quiet moral quality in good observation. We may hope for one answer and receive another. We may have explained our clever theory to everyone in the room. Still, the instrument moves as it moves. To respect the result is to let the world correct us without treating correction as humiliation. This habit travels beyond science. In conversation, in art, in work, we become less eager to force experience into a favorite story. We ask what is actually here. Accuracy, practiced deeply enough, becomes a form of humility.",
+        "coaching": {
+          "en": "Keep the middle steady and unsentimental. Stress correct us, actually here, and humility.",
+          "zh": "中段保持平稳，不要煽情。重读 correct us、actually here 和 humility。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Wonder After the Answer",
+          "zh": "4. 答案之后的惊奇"
+        },
+        "text": "A solved question does not end wonder; it gives wonder better tools. The trembling needle joins a larger pattern. The late sound reveals distance. What seemed like a private surprise becomes knowledge that another person can test, challenge, and extend. This is why the workbench matters. It turns astonishment into a practice without draining it of life. We begin with open eyes, continue with patient hands, and finish with a clearer question than the one we brought. The world has not become smaller because we measured it. It has become more exact, and therefore more astonishing.",
+        "coaching": {
+          "en": "Build through the three-part sentence—open eyes, patient hands, clearer question—and let the final contrast widen calmly.",
+          "zh": "推进三段式表达：open eyes、patient hands、clearer question；最后的对比要平静地展开。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "smooth over",
+      "meaning": {
+        "en": "To ignore or minimize something awkward or unusual.",
+        "zh": "对尴尬或异常之处轻描淡写，或选择忽略。"
+      },
+      "use": {
+        "en": "Do not smooth over a detail that challenges your assumption.",
+        "zh": "不要忽略那个挑战你原有假设的细节。"
+      }
+    },
+    {
+      "term": "disturbance",
+      "meaning": {
+        "en": "A small interruption or change in a normal pattern.",
+        "zh": "对正常状态或规律造成的小干扰、小变化。"
+      },
+      "use": {
+        "en": "A slight disturbance in the data led us to check again.",
+        "zh": "数据中的轻微异动让我们决定重新检查。"
+      }
+    },
+    {
+      "term": "precision",
+      "meaning": {
+        "en": "The quality of being exact and carefully controlled.",
+        "zh": "精确、严谨且受到细致控制的品质。"
+      },
+      "use": {
+        "en": "Creative work also benefits from precision.",
+        "zh": "创造性的工作同样受益于精确。"
+      }
+    },
+    {
+      "term": "dead end",
+      "meaning": {
+        "en": "A path or method that cannot lead any further.",
+        "zh": "无法继续推进的道路或方法；死胡同。"
+      },
+      "use": {
+        "en": "The failed test showed that our first idea was a dead end.",
+        "zh": "失败的测试表明，我们最初的想法走不通。"
+      }
+    },
+    {
+      "term": "humility",
+      "meaning": {
+        "en": "The ability to accept that your knowledge or importance has limits.",
+        "zh": "承认自己的知识或重要性有限的谦逊。"
+      },
+      "use": {
+        "en": "Real expertise often brings intellectual humility.",
+        "zh": "真正的专业能力往往伴随着思想上的谦逊。"
+      }
+    },
+    {
+      "term": "astonishment",
+      "meaning": {
+        "en": "A feeling of great surprise and wonder.",
+        "zh": "强烈的惊讶与惊叹。"
+      },
+      "use": {
+        "en": "Her voice carried quiet astonishment.",
+        "zh": "她的声音里带着安静的惊叹。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the final consonant into the next vowel in look again and result is.",
+      "zh": "在 look again 和 result is 中，把前词末尾辅音与后词元音自然连读。"
+    },
+    {
+      "en": "Keep the three syllables distinct in precision: pre-ci-sion.",
+      "zh": "读 precision 时注意三个音节的节奏：pre-ci-sion。"
+    },
+    {
+      "en": "Use contrastive stress in not compete with precision; each protects the other.",
+      "zh": "在 not compete with precision; each protects the other 中用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are inviting a thoughtful friend into a laboratory after hours.",
+      "zh": "跟读时，想象你在闭馆后的实验室里邀请一位善于思考的朋友观察。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pauses after each concrete image.",
+        "zh": "第一遍：模仿每个具体画面之后的停顿。"
+      },
+      {
+        "en": "Pass two: make the contrasts between wonder and precision unmistakable.",
+        "zh": "第二遍：清楚读出 wonder 与 precision 之间的对照。"
+      },
+      {
+        "en": "Pass three: keep the final paragraph calm while gradually widening its energy.",
+        "zh": "第三遍：末段保持平静，同时逐步拓宽语气的能量。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What small disturbance have you recently been tempted to ignore?",
+      "zh": "最近有什么微小的异常，是你差点忽略的？"
+    },
+    {
+      "en": "Where could greater precision protect, rather than limit, your imagination?",
+      "zh": "在哪件事上，更高的精确度不是限制、反而能保护你的想象力？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/wonder-needs-a-workbench/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/wonder-needs-a-workbench/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/wonder-needs-a-workbench/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/wonder-needs-a-workbench/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/wonder-needs-a-workbench/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/wonder-needs-a-workbench/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/wonder-needs-a-workbench/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/wonder-needs-a-workbench/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/wonder-needs-a-workbench/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/wonder-needs-a-workbench/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/wonder-needs-a-workbench/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/wonder-needs-a-workbench/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/wonder-needs-a-workbench/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/wonder-needs-a-workbench/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/wonder-needs-a-workbench/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/wonder-needs-a-workbench/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/wonder-needs-a-workbench/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/wonder-needs-a-workbench/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/wonder-needs-a-workbench/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/wonder-needs-a-workbench/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/wonder-needs-a-workbench/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/wonder-needs-a-workbench/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/wonder-needs-a-workbench/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/wonder-needs-a-workbench/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/wonder-needs-a-workbench/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/wonder-needs-a-workbench/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/wonder-needs-a-workbench/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/wonder-needs-a-workbench/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/wonder-needs-a-workbench/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/wonder-needs-a-workbench/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/wonder-needs-a-workbench/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/wonder-needs-a-workbench/clips/sources_0.mp3"
+    }
+  }
+}

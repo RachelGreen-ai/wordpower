@@ -1,0 +1,244 @@
+{
+  "lessonId": "before-you-name-the-stranger",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Before You Name the Stranger",
+    "zh": "在你定义陌生人之前"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, incomplete stories, and the discipline of humane attention.",
+    "zh": "一篇原创美文：关于道德想象力、不完整的故事，以及对他人保持人性关注的自觉。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Empathy",
+    "Imagination",
+    "Judgment",
+    "Humanity",
+    "Attention"
+  ],
+  "sources": [
+    {
+      "title": "Silas Marner",
+      "author": "George Eliot",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/550",
+      "note": {
+        "en": "Public-domain inspiration for the moral power of community, sympathy, and changed understanding; this lesson is wholly original and reproduces none of the novel.",
+        "zh": "以这部公开领域小说中群体、同情与理解转变所展现的道德力量为灵感；本课全文原创，不复述原作。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with restraint and humane curiosity. Let each scene remain specific; do not turn it into a sermon.",
+    "zh": "用克制而有人情味的好奇心朗读。让每个场景保持具体，不要读成说教。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Story Beyond the Glance",
+      "zh": "一瞥之外的故事"
+    },
+    "intro": {
+      "en": "This original passage examines the instant stories we invent about strangers—and the small pause that can make those stories more just.",
+      "zh": "这篇原创文章审视我们对陌生人瞬间编出的故事，以及那个能让故事更公正一点的小小停顿。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Quick Verdict",
+          "zh": "1. 迅速的判词"
+        },
+        "text": "A man stands still at the top of a crowded staircase, searching his pockets while everyone flows around him. Within seconds, a verdict forms: careless, inconsiderate, in the way. The mind is efficient. It dislikes an empty space where an explanation should be, so it supplies one. Yet the scene contains more silence than evidence. We do not know about the hospital message on his phone, the address written on a folded receipt, or the language he is trying to translate before the train doors close.",
+        "coaching": {
+          "en": "Move quickly through the first verdict, then widen the pauses as the missing possibilities appear.",
+          "zh": "最初的判断要读得快；随着未知的可能性出现，逐渐拉开停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Imagination With Boundaries",
+          "zh": "2. 有边界的想象"
+        },
+        "text": "Moral imagination does not ask us to invent a noble excuse for every harmful act. It asks for something more disciplined: the recognition that a person exceeds the fragment we can see. We may still set a boundary, refuse a request, or name damage clearly. But judgment need not flatten a whole life into one difficult moment. The pause before certainty gives us room to respond to what happened without pretending we know everything about the person who made it happen.",
+        "coaching": {
+          "en": "Keep the boundary examples firm. Soften slightly on a person exceeds the fragment we can see.",
+          "zh": "边界相关的例子要读得坚定。在 a person exceeds the fragment we can see 处稍微放柔。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Neighbor Becomes Particular",
+          "zh": "3. 当邻居变得具体"
+        },
+        "text": "Distance makes categories; attention makes particulars. The noisy neighbor becomes the nurse who sleeps at unusual hours. The impatient cashier becomes a student rehearsing tomorrow’s exam between customers. The quiet child becomes the collector of smooth stones, each labeled with a place and date. These details do not make people innocent or easy. They make them real. Once a person becomes particular, cruelty requires more effort. We can no longer dismiss a label, because a voice, a habit, and a private hope have begun to stand behind it.",
+        "coaching": {
+          "en": "Give each person a distinct, vivid image. Pause before They make them real.",
+          "zh": "把每个人物都读成一个鲜明、具体的画面。在 They make them real 之前停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A More Spacious Sentence",
+          "zh": "4. 一句更宽阔的话"
+        },
+        "text": "The next time a stranger irritates us, we can try a more spacious sentence. Not: this is a selfish person. Instead: this action has made the moment harder, and I do not yet know the whole story. The second sentence is not weak. It preserves accuracy while resisting contempt. It leaves room for protection, accountability, and surprise. Most of us hope to be seen this way ourselves—not excused from consequences, but understood as larger than our worst five minutes. We can offer that same width of vision before anyone has earned our affection.",
+        "coaching": {
+          "en": "Make the two example sentences sharply different. Finish the last line quietly, with generosity rather than grandeur.",
+          "zh": "两句示范句要读出鲜明差别。末句安静收束，表达善意，不要追求宏大感。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A firm judgment or decision about someone or something.",
+        "zh": "对某人或某事作出的明确判断或结论。"
+      },
+      "use": {
+        "en": "We reached a verdict before hearing the full story.",
+        "zh": "我们还没听完故事，就下了结论。"
+      }
+    },
+    {
+      "term": "inconsiderate",
+      "meaning": {
+        "en": "Not thinking enough about other people’s needs or feelings.",
+        "zh": "没有充分考虑他人需要或感受的。"
+      },
+      "use": {
+        "en": "The interruption seemed inconsiderate at first.",
+        "zh": "起初，那次打断显得很不体贴。"
+      }
+    },
+    {
+      "term": "fragment",
+      "meaning": {
+        "en": "A small, incomplete part of a larger whole.",
+        "zh": "更大整体中一个细小、不完整的部分。"
+      },
+      "use": {
+        "en": "One meeting gives us only a fragment of someone’s character.",
+        "zh": "一次见面只能让我们看到一个人性格的一小部分。"
+      }
+    },
+    {
+      "term": "flatten",
+      "meaning": {
+        "en": "To make something complex seem simple and without depth.",
+        "zh": "把复杂的事物简化得扁平、失去深度。"
+      },
+      "use": {
+        "en": "A label can flatten a complicated life.",
+        "zh": "一个标签会把复杂的人生压扁成单一印象。"
+      }
+    },
+    {
+      "term": "contempt",
+      "meaning": {
+        "en": "The feeling that someone is beneath respect.",
+        "zh": "认为某人不值得尊重的轻蔑。"
+      },
+      "use": {
+        "en": "We can disagree firmly without speaking with contempt.",
+        "zh": "我们可以坚定反对，同时不带轻蔑地说话。"
+      }
+    },
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "Responsibility for actions and their consequences.",
+        "zh": "为自己的行为及其后果承担责任。"
+      },
+      "use": {
+        "en": "Understanding and accountability can exist together.",
+        "zh": "理解与问责可以同时存在。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the stress on the second syllable of considerate and inconsiderate.",
+      "zh": "considerate 和 inconsiderate 的重音都要落在第二音节。"
+    },
+    {
+      "en": "Link final consonants smoothly in whole story and worst five minutes.",
+      "zh": "在 whole story 和 worst five minutes 中自然连接词尾辅音。"
+    },
+    {
+      "en": "Use a clear falling tone for boundaries, then a gentler rise for unknown possibilities.",
+      "zh": "表达边界时使用清晰降调；说到未知可能时，语调稍微柔和上扬。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a thoughtful group examine a difficult first impression.",
+      "zh": "跟读时，想象你在帮助一群善于思考的人重新审视一个令人不适的第一印象。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: separate what is observed from what is assumed.",
+        "zh": "第一遍：用语气区分亲眼所见与主观推断。"
+      },
+      {
+        "en": "Pass two: keep firm boundaries audible without hardening your whole voice.",
+        "zh": "第二遍：让边界清晰可闻，但不要让整个声音变得生硬。"
+      },
+      {
+        "en": "Pass three: give the final paragraph spacious pauses and precise emphasis.",
+        "zh": "第三遍：末段留出宽松停顿，并使用准确的重音。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which recent judgment of a stranger was based on a fragment rather than a whole story?",
+      "zh": "最近你对哪个陌生人的判断，是基于一个片段，而不是完整故事？"
+    },
+    {
+      "en": "How can you hold someone accountable without reducing them to one action?",
+      "zh": "你如何既要求一个人承担责任，又不把他简化成某一个行为？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/before-you-name-the-stranger/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/before-you-name-the-stranger/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/before-you-name-the-stranger/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/before-you-name-the-stranger/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/before-you-name-the-stranger/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/before-you-name-the-stranger/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/before-you-name-the-stranger/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/before-you-name-the-stranger/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/before-you-name-the-stranger/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/before-you-name-the-stranger/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/before-you-name-the-stranger/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/before-you-name-the-stranger/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/before-you-name-the-stranger/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/before-you-name-the-stranger/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/before-you-name-the-stranger/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/before-you-name-the-stranger/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/before-you-name-the-stranger/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/before-you-name-the-stranger/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/before-you-name-the-stranger/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/before-you-name-the-stranger/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/before-you-name-the-stranger/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/before-you-name-the-stranger/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/before-you-name-the-stranger/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/before-you-name-the-stranger/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/before-you-name-the-stranger/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/before-you-name-the-stranger/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/before-you-name-the-stranger/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/before-you-name-the-stranger/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/before-you-name-the-stranger/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/before-you-name-the-stranger/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/before-you-name-the-stranger/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/before-you-name-the-stranger/clips/sources_0.mp3"
+    }
+  }
+}

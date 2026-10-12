@@ -1,0 +1,244 @@
+{
+  "lessonId": "career-built-in-drafts",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "A Career Is Built in Drafts",
+    "zh": "职业生涯，是一稿一稿写出来的"
+  },
+  "subtitle": {
+    "en": "An original reflection on useful work, transferable skills, and learning without a perfect map.",
+    "zh": "一篇原创美文：关于有用的工作、可迁移的能力，以及在没有完美地图时继续学习。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Career",
+    "Learning",
+    "Skill",
+    "Change",
+    "Purpose"
+  ],
+  "sources": [
+    {
+      "title": "Democracy and Education",
+      "author": "John Dewey",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/852",
+      "note": {
+        "en": "Public-domain inspiration for learning through experience and growth; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "以这部公开领域作品中“在经验中学习与成长”的思想为灵感；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Use a grounded, companionable voice. Avoid the tone of a speech; let the practical examples lead.",
+    "zh": "用踏实、像同伴一样的语气朗读。不要像演讲，让具体例子带着文章向前走。"
+  },
+  "passage": {
+    "title": {
+      "en": "Useful Before Certain",
+      "zh": "先成为有用的人，再等待确定"
+    },
+    "intro": {
+      "en": "This original passage offers a steadier way to think about work: not as one perfect decision, but as a series of skills, contributions, and revisions.",
+      "zh": "这篇原创文章提供一种更稳健的职业观：工作不是一次完美决定，而是一连串能力、贡献与修订。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Myth of the Map",
+          "zh": "1. 完整地图的迷思"
+        },
+        "text": "At the beginning of a working life, people often ask for a map. Which role should I choose? Where will this road lead in ten years? The questions are sensible, but the map they request does not exist. Industries change, interests deepen, and abilities appear only after they are tested. A career is less like selecting a destination from a menu and more like learning a landscape by walking through it. You still need direction. You simply do not need to pretend that direction is the same as certainty.",
+        "coaching": {
+          "en": "Let the opening questions sound genuine, not anxious. Stress direction and certainty in the final contrast.",
+          "zh": "开头的问题要读得真诚，而非焦虑。末句重读 direction 和 certainty，读出对比。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Gather Portable Tools",
+          "zh": "2. 收集可以带走的工具"
+        },
+        "text": "A job title can disappear while a well-practiced skill travels with you. Learn to explain a difficult idea plainly. Learn to notice what a customer does not say. Learn to estimate time, ask for help early, and finish a small promise by Friday. These abilities may look ordinary beside a dramatic ambition, yet they compound. Each one makes you easier to trust and quicker to learn. When the road changes, portable skills become a kind of luggage: light enough to carry, valuable in more than one place.",
+        "coaching": {
+          "en": "Give the repeated Learn to phrases a clean, forward rhythm. Warm the voice on easier to trust.",
+          "zh": "连续的 Learn to 要读出干净、向前的节奏。在 easier to trust 处让声音更温暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Read the Evidence",
+          "zh": "3. 阅读经验留下的证据"
+        },
+        "text": "Experience leaves clues. Notice which problems hold your attention after the meeting ends. Notice what colleagues repeatedly ask you to do. Notice which kind of tiredness feels empty and which feels earned. None of these clues should command your future, but together they form evidence. Review them without rushing to create a grand identity. Perhaps you do not need to declare, I am finally this kind of person. Perhaps you need only say, this work uses something in me that I would like to strengthen.",
+        "coaching": {
+          "en": "Repeat Notice with quiet insistence. Make the two identity statements reflective and distinct.",
+          "zh": "三次 Notice 要读出安静而坚定的提醒。两句关于身份的话要有思考感，并清楚区分。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Revise Without Erasing",
+          "zh": "4. 修改，但不必抹去"
+        },
+        "text": "Changing direction does not make the earlier years a waste. The teacher who becomes a designer brings an instinct for sequence. The engineer who enters public service brings respect for systems. Even a difficult role may teach the boundary you will defend next time. Revision is not erasure. A strong draft keeps what is alive, removes what no longer serves, and makes the purpose clearer. Your career can do the same. Choose the next chapter with care, then allow real work to edit the plan. A life becomes coherent not by avoiding change, but by learning from it.",
+        "coaching": {
+          "en": "Keep the examples brisk. Pause after Revision is not erasure, then finish with measured confidence.",
+          "zh": "例子部分读得利落。在 Revision is not erasure 后停顿，结尾用从容而有分寸的信心收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "sensible",
+      "meaning": {
+        "en": "Practical, reasonable, and based on good judgment.",
+        "zh": "实际、合理，体现良好判断力的。"
+      },
+      "use": {
+        "en": "It is sensible to ask what the role can teach you.",
+        "zh": "思考这份岗位能教会你什么，是很明智的。"
+      }
+    },
+    {
+      "term": "transferable",
+      "meaning": {
+        "en": "Useful in more than one job, field, or situation.",
+        "zh": "可以迁移到不同工作、领域或情境中的。"
+      },
+      "use": {
+        "en": "Clear writing is a highly transferable skill.",
+        "zh": "清晰写作是一项高度可迁移的能力。"
+      }
+    },
+    {
+      "term": "compound",
+      "meaning": {
+        "en": "To grow over time as each gain adds to earlier gains.",
+        "zh": "随着每次积累叠加在先前成果上而逐渐增长。"
+      },
+      "use": {
+        "en": "Small improvements compound across a career.",
+        "zh": "微小的进步会在职业生涯中持续复利。"
+      }
+    },
+    {
+      "term": "clue",
+      "meaning": {
+        "en": "A fact or detail that helps you understand something.",
+        "zh": "帮助理解某件事的事实或细节；线索。"
+      },
+      "use": {
+        "en": "Your strongest curiosity may be a clue about your next step.",
+        "zh": "你最强烈的好奇心，可能是下一步方向的线索。"
+      }
+    },
+    {
+      "term": "erasure",
+      "meaning": {
+        "en": "The act of removing something completely.",
+        "zh": "彻底擦除或抹去。"
+      },
+      "use": {
+        "en": "A change of direction is not an erasure of past effort.",
+        "zh": "改变方向，并不等于抹去过去的努力。"
+      }
+    },
+    {
+      "term": "coherent",
+      "meaning": {
+        "en": "Logical, connected, and forming a meaningful whole.",
+        "zh": "合乎逻辑、彼此连贯并形成有意义整体的。"
+      },
+      "use": {
+        "en": "Her varied experiences formed a coherent story.",
+        "zh": "她多样的经历组成了一个连贯的故事。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants crisp in portable skills and difficult role.",
+      "zh": "读清 portable skills 和 difficult role 中词尾的辅音。"
+    },
+    {
+      "en": "Use natural reductions in What do I and kind of without swallowing the meaning.",
+      "zh": "在 What do I 和 kind of 中使用自然弱读，但不要含混意思。"
+    },
+    {
+      "en": "Contrast waste, keeps, and clearer in the final paragraph.",
+      "zh": "末段重读 waste、keeps 和 clearer，形成意义上的推进。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking to a capable friend at a career crossroads.",
+      "zh": "跟读时，想象你在对一位站在职业路口、能力出众的朋友说话。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep every practical list clear and unhurried.",
+        "zh": "第一遍：把每组实用清单读得清楚、不匆忙。"
+      },
+      {
+        "en": "Pass two: copy the contrastive stress in direction, certainty, revision, and erasure.",
+        "zh": "第二遍：模仿 direction、certainty、revision、erasure 的对比重音。"
+      },
+      {
+        "en": "Pass three: deliver the ending as reassurance, not a command.",
+        "zh": "第三遍：把结尾读成一种安定的支持，而不是命令。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which skill from your current work could travel well into another field?",
+      "zh": "你现在工作中的哪项能力，能够很好地迁移到另一个领域？"
+    },
+    {
+      "en": "What evidence about your strengths have you been overlooking?",
+      "zh": "关于自己的优势，你一直忽略了哪些经验上的证据？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/career-built-in-drafts/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/career-built-in-drafts/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/career-built-in-drafts/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/career-built-in-drafts/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/career-built-in-drafts/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/career-built-in-drafts/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/career-built-in-drafts/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/career-built-in-drafts/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/career-built-in-drafts/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/career-built-in-drafts/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/career-built-in-drafts/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/career-built-in-drafts/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/career-built-in-drafts/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/career-built-in-drafts/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/career-built-in-drafts/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/career-built-in-drafts/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/career-built-in-drafts/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/career-built-in-drafts/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/career-built-in-drafts/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/career-built-in-drafts/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/career-built-in-drafts/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/career-built-in-drafts/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/career-built-in-drafts/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/career-built-in-drafts/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/career-built-in-drafts/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/career-built-in-drafts/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/career-built-in-drafts/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/career-built-in-drafts/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/career-built-in-drafts/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/career-built-in-drafts/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/career-built-in-drafts/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/career-built-in-drafts/clips/sources_0.mp3"
+    }
+  }
+}
