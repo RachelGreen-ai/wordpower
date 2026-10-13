@@ -1,0 +1,244 @@
+{
+  "lessonId": "lead-from-the-work",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Lead from the Work",
+    "zh": "从实事中领导"
+  },
+  "subtitle": {
+    "en": "An original reflection on credibility, shared labor, and leadership close to the ground.",
+    "zh": "一篇原创美文：关于可信度、共同劳动，以及贴近现场的领导力。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Leadership",
+    "Service",
+    "Credibility",
+    "Work",
+    "Courage"
+  ],
+  "sources": [
+    {
+      "title": "Up from Slavery",
+      "author": "Booker T. Washington",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2376",
+      "note": {
+        "en": "Public-domain inspiration for dignity in practical work and service; this lesson is wholly original and does not reproduce the source.",
+        "zh": "灵感来自这部公开领域作品中关于实际劳动与服务尊严的思想；本课全文原创，未复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical energy. Avoid a ceremonial leadership voice; let credibility grow from concrete actions.",
+    "zh": "用务实而有活力的语气朗读。不要摆出庄严的领导腔，让可信度从具体行动中自然生长。"
+  },
+  "passage": {
+    "title": {
+      "en": "Where the Handles Are Worn",
+      "zh": "把手磨亮的地方"
+    },
+    "intro": {
+      "en": "This original passage considers a kind of leadership that begins by learning the work, sharing its weight, and improving its conditions.",
+      "zh": "这篇原创文章思考一种领导方式：先学会实事，分担重量，再改善做事的条件。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The View from the Floor",
+          "zh": "1. 来自现场的视角"
+        },
+        "text": "Every workplace has a map that no organization chart can show. It lives where the printer jams, where the afternoon queue forms, where one missing signature sends a customer back downstairs. A leader who stays only in summaries may know the numbers and still misunderstand the day. Go to the place where the handles are worn. Ask the person doing the task to show you the slowest step. Watch without performing expertise. The floor has a way of correcting theories with facts that cannot be made tidy.",
+        "coaching": {
+          "en": "Keep the details brisk and concrete. Slow down for watch without performing expertise.",
+          "zh": "细节读得明快、具体。在 watch without performing expertise 处放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Carry Something Real",
+          "zh": "2. 分担真实的重量"
+        },
+        "text": "People notice what a leader is willing to carry. This does not mean seizing every task or turning help into a display. It means understanding effort from the inside: taking an early shift during a difficult week, answering one round of support requests, staying to stack the chairs after an event. Shared labor changes the quality of later decisions. It reveals which instructions are clumsy, which tools waste time, and which small kindness keeps a team from coming apart at the seams.",
+        "coaching": {
+          "en": "Use an even rhythm through the examples. Stress understanding effort from the inside, not the word leader.",
+          "zh": "例子部分保持均匀节奏。重读 understanding effort from the inside，而不是 leader。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Repair the System",
+          "zh": "3. 修好系统"
+        },
+        "text": "Service is incomplete if it becomes permanent rescue. After helping with the queue, ask why the queue exists. After fixing the form, remove the field nobody uses. Good leadership converts sympathy into design. It does not praise endurance while leaving preventable obstacles in place. Nor does it promise a grand transformation before making one useful repair. A clearer checklist, a protected lunch break, a decision made at the right level: modest changes can tell people that their time and attention are not disposable.",
+        "coaching": {
+          "en": "Make the paired sentences decisive. Give modest changes a warm emphasis and land firmly on not disposable.",
+          "zh": "成对的句子读得果断。温和强调 modest changes，在 not disposable 上坚定收束。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Authority That Can Be Trusted",
+          "zh": "4. 值得信任的权威"
+        },
+        "text": "A title may grant authority, but daily conduct decides whether others can trust it. Credibility gathers slowly: in promises remembered, mistakes named without disguise, credit passed outward, and blame not pushed downhill. None of this makes leadership soft. On the contrary, it makes difficult standards easier to accept because people have seen the standard applied honestly. When hard news must be delivered, the words carry the history of the hands that deliver them. The strongest position in the room may belong to the person who has stood close enough to the work to speak plainly about what it asks of everyone.",
+        "coaching": {
+          "en": "Build the list with measured weight. Let the final sentence sound earned and direct, never grandiose.",
+          "zh": "列举部分稳稳增加分量。末句要读得真实、直接，不要显得夸大。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "organization chart",
+      "meaning": {
+        "en": "A diagram showing roles and reporting relationships in an organization.",
+        "zh": "展示组织职位与汇报关系的结构图。"
+      },
+      "use": {
+        "en": "The organization chart did not explain how the work really moved.",
+        "zh": "组织结构图并不能说明工作实际如何流转。"
+      }
+    },
+    {
+      "term": "perform expertise",
+      "meaning": {
+        "en": "Try to appear knowledgeable instead of honestly learning.",
+        "zh": "只顾表现得懂行，而不是真诚学习。"
+      },
+      "use": {
+        "en": "She asked careful questions instead of performing expertise.",
+        "zh": "她认真提问，而不是装作什么都懂。"
+      }
+    },
+    {
+      "term": "come apart at the seams",
+      "meaning": {
+        "en": "Begin to fail or lose cohesion under pressure.",
+        "zh": "在压力下开始瓦解或失去凝聚力。"
+      },
+      "use": {
+        "en": "Clear priorities kept the project from coming apart at the seams.",
+        "zh": "清晰的优先级让项目没有在压力下散架。"
+      }
+    },
+    {
+      "term": "preventable",
+      "meaning": {
+        "en": "Able to be stopped from happening.",
+        "zh": "可以预防或避免的。"
+      },
+      "use": {
+        "en": "The team removed several preventable delays.",
+        "zh": "团队消除了几处本可避免的延误。"
+      }
+    },
+    {
+      "term": "disposable",
+      "meaning": {
+        "en": "Treated as if it can be used up and discarded without concern.",
+        "zh": "被视为可以随意消耗和丢弃的。"
+      },
+      "use": {
+        "en": "No employee's attention should be treated as disposable.",
+        "zh": "任何员工的注意力都不该被当作可随意消耗的东西。"
+      }
+    },
+    {
+      "term": "credibility",
+      "meaning": {
+        "en": "The quality of being believable and worthy of trust.",
+        "zh": "可信、值得信任的品质。"
+      },
+      "use": {
+        "en": "She built credibility by keeping small promises.",
+        "zh": "她通过兑现小承诺建立了可信度。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters clear in shared labor, protected lunch break, and strongest position.",
+      "zh": "读清 shared labor、protected lunch break 和 strongest position 中的辅音组合。"
+    },
+    {
+      "en": "Use contrastive stress in know the numbers and misunderstand the day.",
+      "zh": "在 know the numbers 与 misunderstand the day 之间用重音读出对比。"
+    },
+    {
+      "en": "Let list items rise slightly, then use a full falling tone on the final item.",
+      "zh": "列举项目时语调轻微上扬，最后一项用完整降调收束。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking to capable colleagues who value evidence more than slogans.",
+      "zh": "跟读时，想象你在对一群重证据、轻口号的能干同事讲话。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the workplace details quick and visible.",
+        "zh": "第一遍：把工作现场的细节读得明快、有画面。"
+      },
+      {
+        "en": "Pass two: give the practical reforms clear downward stress.",
+        "zh": "第二遍：用清晰的降调重读实际改进措施。"
+      },
+      {
+        "en": "Pass three: name one worn handle in your own workplace and what it reveals.",
+        "zh": "第三遍：说出你工作中的一处“磨亮的把手”，以及它揭示的问题。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where is the work currently correcting your theory?",
+      "zh": "哪项实际工作正在修正你的理论判断？"
+    },
+    {
+      "en": "What modest repair would show people that their time matters?",
+      "zh": "哪项小改进能让人感到自己的时间受到重视？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/lead-from-the-work/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/lead-from-the-work/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/lead-from-the-work/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/lead-from-the-work/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/lead-from-the-work/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/lead-from-the-work/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/lead-from-the-work/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/lead-from-the-work/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/lead-from-the-work/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/lead-from-the-work/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/lead-from-the-work/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/lead-from-the-work/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/lead-from-the-work/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/lead-from-the-work/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/lead-from-the-work/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/lead-from-the-work/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/lead-from-the-work/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/lead-from-the-work/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/lead-from-the-work/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/lead-from-the-work/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/lead-from-the-work/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/lead-from-the-work/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/lead-from-the-work/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/lead-from-the-work/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/lead-from-the-work/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/lead-from-the-work/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/lead-from-the-work/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/lead-from-the-work/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/lead-from-the-work/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/lead-from-the-work/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/lead-from-the-work/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/lead-from-the-work/clips/sources_0.mp3"
+    }
+  }
+}

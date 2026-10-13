@@ -58,6 +58,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 
 ## Beautiful English Read-Aloud Lessons
 
+- [Answer with Room](https://wordpower-seven.vercel.app/read-aloud/answer-with-room): An original reflection on keeping dignity and clarity inside a difficult conversation.
 - [A Quiet Morning Teaches Attention.](https://wordpower-seven.vercel.app/read-aloud/attention-quiet-morning): A three-to-five-minute passage for practicing calm observation, nature vocabulary, and gentle oral rhythm.
 - [Before You Name the Stranger](https://wordpower-seven.vercel.app/read-aloud/before-you-name-the-stranger): An original reflection on moral imagination, incomplete stories, and the discipline of humane attention.
 - [Begin Before You Feel Ready.](https://wordpower-seven.vercel.app/read-aloud/begin-before-ready): A William James-inspired passage on habit, attention, and the quiet courage of first actions.
@@ -67,9 +68,11 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [The Courage to Revise](https://wordpower-seven.vercel.app/read-aloud/courage-to-revise): An original passage on learning, intellectual humility, and changing your mind without losing yourself.
 - [Freedom Needs an Inner Home.](https://wordpower-seven.vercel.app/read-aloud/freedom-needs-inner-home): A Fromm-inspired reflective passage on why freedom can feel frightening unless the self has somewhere to stand.
 - [Imagine the Unseen Life](https://wordpower-seven.vercel.app/read-aloud/imagine-the-unseen-life): An original reflection on moral imagination, fair judgment, and the stories hidden behind behavior.
+- [Lead from the Work](https://wordpower-seven.vercel.app/read-aloud/lead-from-the-work): An original reflection on credibility, shared labor, and leadership close to the ground.
 - [Leave Room for Growing](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-growing): An original reflection on patient guidance, useful boundaries, and the courage to let a child try.
 - [Make Room in the Conversation](https://wordpower-seven.vercel.app/read-aloud/make-room-in-conversation): An original passage on calm speech, useful silence, and disagreement without contempt.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.
+- [Notice the Season Turn](https://wordpower-seven.vercel.app/read-aloud/notice-the-season-turn): An original reflection on recovering attention through the small announcements of autumn.
 - [The Patient Eye Sees More](https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more): An original reflection on observation, curiosity, and the discipline of seeing before naming.
 - [Self-Trust Is an Inner Compass.](https://wordpower-seven.vercel.app/read-aloud/self-trust-inner-compass): A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.
 - [Wonder Needs a Workbench](https://wordpower-seven.vercel.app/read-aloud/wonder-needs-a-workbench): An original reflection on patient experiment, precise attention, and the craft hidden inside discovery.

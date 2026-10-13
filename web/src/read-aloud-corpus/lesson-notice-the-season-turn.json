@@ -1,0 +1,244 @@
+{
+  "lessonId": "notice-the-season-turn",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Notice the Season Turn",
+    "zh": "看见季节转身"
+  },
+  "subtitle": {
+    "en": "An original reflection on recovering attention through the small announcements of autumn.",
+    "zh": "一篇原创美文：从秋日细微的讯息中，重新找回专注。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Attention",
+    "Nature",
+    "Autumn",
+    "Presence",
+    "Observation"
+  ],
+  "sources": [
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for deliberate observation of nature; this lesson is wholly original and reproduces no source passage.",
+        "zh": "灵感来自这部公开领域作品中对自然的用心观察；本课全文原创，未复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if you are walking slowly outdoors. Let each physical detail arrive before the reflection it carries.",
+    "zh": "想象自己正缓步走在户外。先让每个具体细节出现，再读出它承载的思考。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Calendar Underfoot",
+      "zh": "脚下的日历"
+    },
+    "intro": {
+      "en": "This original passage follows an ordinary walk and asks what becomes visible when we stop treating the season as background.",
+      "zh": "这篇原创文章从一次寻常散步出发，探问：当季节不再只是背景，我们会看见什么。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The First Evidence",
+          "zh": "1. 最初的证据"
+        },
+        "text": "The season rarely changes with a trumpet. It begins at the edge of attention: one yellow leaf turning in a street of green, the earlier angle of light across a kitchen table, a coolness that remains after sunrise. We say autumn arrived on a date, but the living world keeps a subtler calendar. Its pages are wind, scent, shadow, and the small migrations of birds. To notice them is not to become an expert. It is simply to admit that the day contains more news than a screen can report.",
+        "coaching": {
+          "en": "Keep the opening quiet and precise. Give a gentle lift to wind, scent, shadow, as if naming discoveries.",
+          "zh": "开头读得安静、准确。读 wind、scent、shadow 时轻轻上扬，像在逐一发现。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Practice of Looking",
+          "zh": "2. 练习观看"
+        },
+        "text": "On a familiar path, attention can fall asleep. The bakery, the bus stop, the sycamore: each becomes a label rather than a presence. Try walking one block without deciding in advance what matters. A spiderweb holds three drops of water. A bicycle chain ticks after its rider has stopped. Fallen leaves gather against a curb in colors no paint chart would dare to name. Looking closely does not make the world decorative. It restores texture to a life that hurry has flattened.",
+        "coaching": {
+          "en": "Pause after each observed detail. Stress restores texture, then soften the final phrase.",
+          "zh": "每个观察细节后停顿。重读 restores texture，末尾语气放柔。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Change Without Alarm",
+          "zh": "3. 不惊慌地变化"
+        },
+        "text": "Autumn is beautiful partly because it refuses to hide change. The trees release what they spent months making. Gardens darken. Afternoon withdraws a little sooner each day. Yet loss is not the only story. Seeds travel in the same wind that strips the branches, and bare limbs reveal nests that summer concealed. Nature does not offer a neat lesson about every ending. It offers something more trustworthy: evidence that change can be exacting without being empty, and that a quieter season may still be full of work.",
+        "coaching": {
+          "en": "Let the middle sentences grow spare and steady. Contrast exacting with empty clearly, without sounding dramatic.",
+          "zh": "中段句子读得简洁、平稳。清楚读出 exacting 与 empty 的对比，不必夸张。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carrying the Weather Home",
+          "zh": "4. 把天气带回家"
+        },
+        "text": "After such a walk, nothing spectacular has happened. The inbox still waits; the difficult conversation has not solved itself. But attention returns with better proportions. A worry that filled the whole mind now shares space with cold air, amber light, and the rough skin of a seedpod. This is not escape. It is a wider account of reality. We come home remembering that we inhabit a world, not merely a schedule. The season turned while we were looking, and perhaps, by looking, we turned a little too.",
+        "coaching": {
+          "en": "Read the practical worries plainly. Allow the final two sentences to widen and settle, with warmth rather than sentimentality.",
+          "zh": "现实烦恼读得朴实。最后两句逐渐舒展、落稳，温暖但不煽情。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "subtle",
+      "meaning": {
+        "en": "Present but not immediately obvious; delicate in effect.",
+        "zh": "存在却不显眼的；微妙的。"
+      },
+      "use": {
+        "en": "There was a subtle change in the evening light.",
+        "zh": "傍晚的光线发生了微妙的变化。"
+      }
+    },
+    {
+      "term": "underfoot",
+      "meaning": {
+        "en": "On the ground beneath your feet.",
+        "zh": "在脚下；在地面上。"
+      },
+      "use": {
+        "en": "Dry leaves cracked underfoot.",
+        "zh": "干叶在脚下发出碎裂声。"
+      }
+    },
+    {
+      "term": "restore texture",
+      "meaning": {
+        "en": "Bring back richness, detail, and variation.",
+        "zh": "恢复丰富的层次、细节与变化。"
+      },
+      "use": {
+        "en": "A slow walk can restore texture to an ordinary day.",
+        "zh": "一次慢慢的散步，能让平凡的一天重新有层次。"
+      }
+    },
+    {
+      "term": "exacting",
+      "meaning": {
+        "en": "Demanding careful effort or carrying a real cost.",
+        "zh": "要求很高的；需要付出切实代价的。"
+      },
+      "use": {
+        "en": "The transition was exacting, but it taught us patience.",
+        "zh": "这次转变很艰难，却教会了我们耐心。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "The relative size or importance of one thing compared with others.",
+        "zh": "一件事相对于其他事物的大小或重要程度。"
+      },
+      "use": {
+        "en": "Distance helped her see the problem in proportion.",
+        "zh": "一点距离让她更恰当地看待这个问题。"
+      }
+    },
+    {
+      "term": "inhabit",
+      "meaning": {
+        "en": "To live in or fully occupy a place or experience.",
+        "zh": "居住于；充分置身于某个地方或体验。"
+      },
+      "use": {
+        "en": "Try to inhabit the present moment instead of rushing through it.",
+        "zh": "试着充分活在当下，而不是匆匆穿过它。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in coolness, scent, and stopped.",
+      "zh": "读清 coolness、scent 和 stopped 的词尾辅音。"
+    },
+    {
+      "en": "Use light linking in a wider account of reality, without swallowing the key nouns.",
+      "zh": "在 a wider account of reality 中自然连读，但不要吞掉关键名词。"
+    },
+    {
+      "en": "Contrast world with schedule by stressing both nouns in the final section.",
+      "zh": "在末节重读 world 和 schedule，读出两者对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow the passage with the unhurried alertness of someone noticing a familiar place anew.",
+      "zh": "跟读时保持从容而敏锐，像第一次重新看见熟悉的地方。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pauses after each sensory detail.",
+        "zh": "第一遍：模仿每个感官细节后的停顿。"
+      },
+      {
+        "en": "Pass two: keep reflective sentences grounded and conversational.",
+        "zh": "第二遍：让思考性的句子保持自然、落地。"
+      },
+      {
+        "en": "Pass three: describe one sign of the season in your own words.",
+        "zh": "第三遍：用自己的话描述一个季节的迹象。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What small sign of the season have you overlooked this week?",
+      "zh": "这周你忽略了哪个细微的季节迹象？"
+    },
+    {
+      "en": "What part of your life needs a wider account of reality?",
+      "zh": "生活中的哪一部分，需要用更宽广的视角重新看待？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/notice-the-season-turn/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/notice-the-season-turn/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/notice-the-season-turn/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/notice-the-season-turn/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/notice-the-season-turn/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/notice-the-season-turn/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/notice-the-season-turn/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/notice-the-season-turn/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/notice-the-season-turn/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/notice-the-season-turn/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/notice-the-season-turn/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/notice-the-season-turn/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/notice-the-season-turn/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/notice-the-season-turn/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/notice-the-season-turn/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/notice-the-season-turn/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/notice-the-season-turn/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/notice-the-season-turn/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/notice-the-season-turn/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/notice-the-season-turn/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/notice-the-season-turn/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/notice-the-season-turn/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/notice-the-season-turn/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/notice-the-season-turn/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/notice-the-season-turn/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/notice-the-season-turn/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/notice-the-season-turn/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/notice-the-season-turn/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/notice-the-season-turn/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/notice-the-season-turn/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/notice-the-season-turn/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/notice-the-season-turn/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "answer-with-room",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Answer with Room",
+    "zh": "给回应留出空间"
+  },
+  "subtitle": {
+    "en": "An original reflection on keeping dignity and clarity inside a difficult conversation.",
+    "zh": "一篇原创美文：如何在艰难对话中守住尊严与清晰。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Calm",
+    "Dignity",
+    "Listening",
+    "Conflict"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain philosophical inspiration for governing one's response; the wording and situations in this lesson are entirely original.",
+        "zh": "灵感来自这部公开领域哲学作品中关于掌控自身回应的思想；本课文字与情境均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Use a low, steady voice. Let restraint sound strong, not passive, and make the practical phrases easy to borrow.",
+    "zh": "用低沉、稳定的声音朗读。让克制听起来有力量，而非消极；实用表达要读得便于借用。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Space Before the Reply",
+      "zh": "回答之前的空间"
+    },
+    "intro": {
+      "en": "This original passage explores the brief but consequential space between feeling challenged and choosing how to answer.",
+      "zh": "这篇原创文章探讨一个短暂却影响深远的空间：从感到被冒犯，到选择如何回应。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When the Room Narrows",
+          "zh": "1. 当房间变窄"
+        },
+        "text": "A difficult conversation can make a large room feel narrow. One careless sentence arrives, and the body prepares its defense before the mind has understood the charge. The jaw tightens. Breath climbs into the chest. We begin composing a reply while the other person is still speaking. In that instant, winning can seem more urgent than learning what is true. Yet urgency is often a poor editor. It removes context, sharpens suspicion, and sends out words that must later be carried back one by one.",
+        "coaching": {
+          "en": "Begin with contained tension. Shorten the physical sentences, then slow down for urgency is often a poor editor.",
+          "zh": "开头保持克制的紧张感。身体反应的短句读得利落，在 urgency is often a poor editor 处放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Pause with a Purpose",
+          "zh": "2. 有目的的停顿"
+        },
+        "text": "A pause is not surrender, and it need not be theatrical. It may be one full breath, a sip of water, or a sentence simple enough to survive pressure: I want to understand what you mean. Could you give me an example? Let me think before I answer. These phrases create room without abandoning the subject. They also return us to a useful distinction: discomfort is not always danger. We can remain present to a hard idea without treating the speaker as an enemy.",
+        "coaching": {
+          "en": "Give each sample phrase a calm downward tone. Emphasize room and remain present.",
+          "zh": "每个示范句都用平静的降调。重读 room 和 remain present。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Clear Is Kinder Than Vague",
+          "zh": "3. 清楚比含糊更友善"
+        },
+        "text": "Calm communication is not polished avoidance. Sometimes respect requires a boundary: I can discuss the decision, but I cannot continue while we insult each other. Sometimes it requires correction: That is not what I agreed to; here is my understanding. The aim is not to sound flawless. It is to keep the message clean enough that another person can respond to what we actually mean. Vague resentment leaves everyone guessing. Specific language gives the conversation somewhere honest to go.",
+        "coaching": {
+          "en": "Read both boundaries with firmness and no extra heat. Land clearly on specific language.",
+          "zh": "两句边界表达要坚定，但不要加重火气。清楚落在 specific language 上。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave a Door Unlocked",
+          "zh": "4. 留一扇未上锁的门"
+        },
+        "text": "Not every disagreement ends in agreement. We may still leave with different memories, priorities, or conclusions. But we can refuse the cheap victory of making the other person smaller. We can summarize fairly, name what remains unresolved, and decide when to return. A good ending might be: I see why this matters to you. I need more time, and I would like to continue tomorrow. Such words do not erase conflict. They keep dignity in the room and leave one door unlocked for understanding to enter later.",
+        "coaching": {
+          "en": "Let the disagreement remain real. Read the closing example warmly, then finish with quiet confidence.",
+          "zh": "保留分歧的真实感。结尾示范句读得温和，最后一句安静而笃定。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "consequential",
+      "meaning": {
+        "en": "Important because it produces significant results.",
+        "zh": "会带来重要结果的；影响深远的。"
+      },
+      "use": {
+        "en": "A brief pause can be a consequential choice.",
+        "zh": "短暂的停顿可能是一个影响深远的选择。"
+      }
+    },
+    {
+      "term": "compose a reply",
+      "meaning": {
+        "en": "Form or prepare an answer in your mind.",
+        "zh": "在脑中组织或准备回应。"
+      },
+      "use": {
+        "en": "I was composing a reply instead of listening.",
+        "zh": "我当时只顾组织回应，并没有真正倾听。"
+      }
+    },
+    {
+      "term": "distinction",
+      "meaning": {
+        "en": "A clear difference between two similar ideas.",
+        "zh": "两个相近概念之间的明确区别。"
+      },
+      "use": {
+        "en": "There is an important distinction between discomfort and danger.",
+        "zh": "不适与危险之间有一个重要区别。"
+      }
+    },
+    {
+      "term": "resentment",
+      "meaning": {
+        "en": "Lasting anger caused by feeling unfairly treated.",
+        "zh": "因觉得受到不公对待而产生的持久怨气。"
+      },
+      "use": {
+        "en": "Unspoken resentment made the meetings tense.",
+        "zh": "没有说出口的怨气让会议变得紧张。"
+      }
+    },
+    {
+      "term": "unresolved",
+      "meaning": {
+        "en": "Not yet settled, answered, or solved.",
+        "zh": "尚未解决或达成结论的。"
+      },
+      "use": {
+        "en": "We named the unresolved issue and agreed to return to it.",
+        "zh": "我们指出尚未解决的问题，并同意之后再谈。"
+      }
+    },
+    {
+      "term": "make someone smaller",
+      "meaning": {
+        "en": "Treat someone in a way that diminishes their dignity or confidence.",
+        "zh": "以贬低尊严或信心的方式对待某人。"
+      },
+      "use": {
+        "en": "A strong argument does not need to make anyone smaller.",
+        "zh": "有力的论点不需要贬低任何人。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use thought groups in I want to understand / what you mean.",
+      "zh": "在 I want to understand / what you mean 处按意群停顿。"
+    },
+    {
+      "en": "Keep the contrast crisp in discomfort is not always danger.",
+      "zh": "清晰读出 discomfort is not always danger 中的对比。"
+    },
+    {
+      "en": "Use a calm falling tone for boundaries so they sound settled rather than hostile.",
+      "zh": "边界句使用平静的降调，让语气坚定而不敌对。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are protecting both truth and dignity in a tense meeting.",
+      "zh": "跟读时，想象你正试图在紧张会议中同时守住事实与尊严。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the breathing spaces before each practical phrase.",
+        "zh": "第一遍：模仿每个实用表达之前的呼吸停顿。"
+      },
+      {
+        "en": "Pass two: make the boundaries firm without increasing volume.",
+        "zh": "第二遍：不提高音量，也能把边界读得坚定。"
+      },
+      {
+        "en": "Pass three: choose one phrase and adapt it to a real conversation.",
+        "zh": "第三遍：选择一个表达，改写成适合真实对话的句子。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which physical signal tells you that a conversation is narrowing?",
+      "zh": "哪个身体信号会提醒你：对话正在变得狭窄？"
+    },
+    {
+      "en": "What clear sentence could replace vague resentment in one relationship?",
+      "zh": "在哪段关系中，你可以用一句清楚的话替代含糊的怨气？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/answer-with-room/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/answer-with-room/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/answer-with-room/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/answer-with-room/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/answer-with-room/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/answer-with-room/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/answer-with-room/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/answer-with-room/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/answer-with-room/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/answer-with-room/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/answer-with-room/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/answer-with-room/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/answer-with-room/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/answer-with-room/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/answer-with-room/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/answer-with-room/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/answer-with-room/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/answer-with-room/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/answer-with-room/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/answer-with-room/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/answer-with-room/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/answer-with-room/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/answer-with-room/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/answer-with-room/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/answer-with-room/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/answer-with-room/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/answer-with-room/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/answer-with-room/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/answer-with-room/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/answer-with-room/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/answer-with-room/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/answer-with-room/clips/sources_0.mp3"
+    }
+  }
+}
