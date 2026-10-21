@@ -1,0 +1,244 @@
+{
+  "lessonId": "draw-what-light-is-doing",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Draw What the Light Is Doing",
+    "zh": "画下光正在做的事"
+  },
+  "subtitle": {
+    "en": "An original reflection on art, patient seeing, and the courage to notice before naming.",
+    "zh": "一篇原创美文：关于艺术、耐心观看，以及在命名之前先去注意的勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Art",
+    "Observation",
+    "Craft",
+    "Light",
+    "Perception"
+  ],
+  "sources": [
+    {
+      "title": "The Elements of Drawing",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30325",
+      "note": {
+        "en": "Public-domain inspiration for patient looking and drawing from observation; no source text is reproduced.",
+        "zh": "以耐心观看和写生的公开领域理念为灵感；本课不复述任何原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as though your eyes are adjusting to a room: begin simply, then reveal finer distinctions.",
+    "zh": "像眼睛逐渐适应一个房间那样朗读：开头简洁，随后显出更细腻的层次。"
+  },
+  "passage": {
+    "title": {
+      "en": "Before the Object Has a Name",
+      "zh": "在物体被命名之前"
+    },
+    "intro": {
+      "en": "This original passage enters the artist’s first discipline: seeing the particular world before habit replaces it with a label.",
+      "zh": "这篇原创文章进入艺术家的第一项训练：在习惯用标签取代真实之前，看见具体的世界。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Cup We Assume",
+          "zh": "1. 我们想当然的杯子"
+        },
+        "text": "Place a white cup near a window and ask someone to draw it. The hand often begins with an idea of a cup: two even sides, an oval mouth, a neat handle attached like an ear. But the cup before us is less obedient. One edge dissolves in brightness. The handle encloses a shape that is not quite round. The table throws warm color into the porcelain. We think we know the object, and that knowledge can become a curtain between the eye and what is there.",
+        "coaching": {
+          "en": "Read the imagined cup briskly, then slow as the real cup becomes less obedient.",
+          "zh": "想象中的杯子读得轻快；真实杯子变得“不听话”时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Light Is a Verb",
+          "zh": "2. 光是一个动词"
+        },
+        "text": "A beginner asks, “What color is the cup?” A painter may ask, “What is the light doing?” It pools, grazes, scatters, and withdraws. It makes one plane advance and another recede. Suddenly white is not a single answer but a field of cool gray, reflected amber, sharp brilliance, and quiet shade. The pencil cannot capture light itself. It can only place one tone beside another until the page begins to carry the relation. Art starts not in decoration, but in accurate surprise.",
+        "coaching": {
+          "en": "Make the four light verbs vivid. Give the color list space, then land on accurate surprise.",
+          "zh": "四个描写光的动词要鲜明。颜色清单要留出空间，最后落在 accurate surprise。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Mercy of Comparison",
+          "zh": "3. 比较的温柔"
+        },
+        "text": "When a drawing looks wrong, judgment arrives quickly: I have no talent. Comparison offers a kinder, more useful question. Is this angle steeper than that one? Is the shadow wider than the handle? Where does the darkest dark actually begin? Each comparison turns shame into a task the eye can perform. We stop demanding that the page admire us. We ask it to tell the truth about one relationship, then another. Skill grows through these modest corrections, almost too small to praise.",
+        "coaching": {
+          "en": "Keep the self-judgment brief. Let each practical question sound like relief.",
+          "zh": "自我否定要短促；每个实际问题都要读出一种如释重负。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Seeing Returns Us",
+          "zh": "4. 看见让我们归来"
+        },
+        "text": "The practice travels beyond paper. A face we call tired may also be guarded, hopeful, amused. A street we call ugly may hold blue evening in every window. Labels are efficient, but they close the case. Attention reopens it. The artist’s gift is not a special pair of eyes; it is the decision to keep looking after the first explanation arrives. Draw the cup, if you like. More importantly, notice the world refusing to be reduced to its outline. Light is still working on everything.",
+        "coaching": {
+          "en": "Widen the tone through the face and street images. Finish quietly, with the sense that the looking continues.",
+          "zh": "在人脸与街道的画面中拓宽语气。安静收尾，让人感到观看仍在继续。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "obedient",
+      "meaning": {
+        "en": "Doing exactly what is expected or wanted.",
+        "zh": "顺从预期的；听话的。"
+      },
+      "use": {
+        "en": "The material was less obedient than the designer expected.",
+        "zh": "这种材料不像设计师预想的那样听话。"
+      }
+    },
+    {
+      "term": "dissolve",
+      "meaning": {
+        "en": "To fade or disappear gradually.",
+        "zh": "逐渐淡去或消失。"
+      },
+      "use": {
+        "en": "The mountain dissolved into mist.",
+        "zh": "山峰渐渐消失在雾中。"
+      }
+    },
+    {
+      "term": "graze",
+      "meaning": {
+        "en": "To touch or pass over something lightly.",
+        "zh": "轻触；轻轻掠过。"
+      },
+      "use": {
+        "en": "Morning light grazed the wall.",
+        "zh": "晨光轻轻掠过墙面。"
+      }
+    },
+    {
+      "term": "recede",
+      "meaning": {
+        "en": "To seem to move farther away.",
+        "zh": "后退；看起来变得更远。"
+      },
+      "use": {
+        "en": "Cool colors can make a wall recede.",
+        "zh": "冷色可以让墙面显得后退。"
+      }
+    },
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "Limited in size or ambition, without being unimportant.",
+        "zh": "幅度不大但并非不重要的。"
+      },
+      "use": {
+        "en": "We made modest but steady progress.",
+        "zh": "我们取得了不大却稳定的进展。"
+      }
+    },
+    {
+      "term": "reduce to",
+      "meaning": {
+        "en": "To describe something as if it were only one simple thing.",
+        "zh": "把复杂事物简化成单一层面。"
+      },
+      "use": {
+        "en": "Do not reduce a person to one mistake.",
+        "zh": "不要用一个错误来定义一个人。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in light, shade, and task.",
+      "zh": "读 light、shade 和 task 时，词尾辅音要清晰。"
+    },
+    {
+      "en": "Use a rising, searching tone for the three comparison questions.",
+      "zh": "三个比较性问题要使用上扬、探寻的语调。"
+    },
+    {
+      "en": "Contrast first explanation with keep looking.",
+      "zh": "用重音对比 first explanation 与 keep looking。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a friend’s attention across a still life.",
+      "zh": "跟读时，想象你正引导朋友的目光掠过一幅静物。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: pause after each visible detail.",
+        "zh": "第一遍：在每个可见细节之后停顿。"
+      },
+      {
+        "en": "Pass two: make the verbs of light energetic but precise.",
+        "zh": "第二遍：把描写光的动词读得有活力且准确。"
+      },
+      {
+        "en": "Pass three: carry the final idea beyond drawing into daily perception.",
+        "zh": "第三遍：把末段的意义从绘画延伸到日常感知。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar object could you look at before naming it?",
+      "zh": "哪件熟悉的物品，值得你在命名之前重新观看？"
+    },
+    {
+      "en": "Which label about a person or place might attention reopen?",
+      "zh": "对于某个人或地方，哪一个标签可以被更细致的注意重新打开？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/draw-what-light-is-doing/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/draw-what-light-is-doing/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/draw-what-light-is-doing/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/draw-what-light-is-doing/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/draw-what-light-is-doing/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/draw-what-light-is-doing/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/draw-what-light-is-doing/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/draw-what-light-is-doing/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/draw-what-light-is-doing/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/draw-what-light-is-doing/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/draw-what-light-is-doing/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/draw-what-light-is-doing/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/draw-what-light-is-doing/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/draw-what-light-is-doing/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/draw-what-light-is-doing/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/draw-what-light-is-doing/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/draw-what-light-is-doing/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/draw-what-light-is-doing/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/draw-what-light-is-doing/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/draw-what-light-is-doing/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/draw-what-light-is-doing/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/draw-what-light-is-doing/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/draw-what-light-is-doing/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/draw-what-light-is-doing/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/draw-what-light-is-doing/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/draw-what-light-is-doing/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/draw-what-light-is-doing/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/draw-what-light-is-doing/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/draw-what-light-is-doing/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/draw-what-light-is-doing/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/draw-what-light-is-doing/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/draw-what-light-is-doing/clips/sources_0.mp3"
+    }
+  }
+}

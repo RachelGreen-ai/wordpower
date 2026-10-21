@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-one-chair-empty",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep One Chair Empty",
+    "zh": "留一把空椅子"
+  },
+  "subtitle": {
+    "en": "An original reflection on composure, disagreement, and leaving room for a better interpretation.",
+    "zh": "一篇原创美文：关于沉着面对分歧，以及为更善意的理解留下空间。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Composure",
+    "Communication",
+    "Perspective",
+    "Conflict",
+    "Wisdom"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration for examining impressions before reacting; this contemporary passage is wholly original.",
+        "zh": "以在反应前审视第一印象的公开领域思想为灵感；这篇现代文章全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded calm. The voice should sound observant and capable, never detached or superior.",
+    "zh": "用沉稳的平静朗读。声音应敏锐而有能力，绝不冷漠或居高临下。"
+  },
+  "passage": {
+    "title": {
+      "en": "Room for Another Meaning",
+      "zh": "为另一种含义留空间"
+    },
+    "intro": {
+      "en": "This original passage offers a practical image for difficult conversations: an empty chair where another explanation may sit.",
+      "zh": "这篇原创文章为艰难对话提供一个实用意象：留一把空椅子，让另一种解释可以坐下。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Fast Story",
+          "zh": "1. 飞快成形的故事"
+        },
+        "text": "A message arrives without a greeting: “Need this revised today.” Before the screen goes dark, the mind has furnished a whole room. They do not respect my time. They are blaming me. They always speak this way. The body joins the story—jaw tight, shoulders lifted, reply already sharpening. Perhaps the story is correct. But speed is not evidence. Between the words we received and the meaning we assigned, there is a narrow space. Composure begins by protecting it.",
+        "coaching": {
+          "en": "Make the quoted message plain. Accelerate through the assumptions, then pause fully before Perhaps.",
+          "zh": "引语读得平实。几个假设逐渐加速，然后在 Perhaps 之前充分停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. An Empty Chair",
+          "zh": "2. 一把空椅子"
+        },
+        "text": "Imagine placing one empty chair at the conversation. It is not reserved for an excuse. It is reserved for what we do not yet know: a deadline moved, a child became ill, a hurried writer mistook brevity for clarity. The chair does not require us to accept poor treatment. It asks only that accusation wait until inquiry has entered the room. We can answer, “I can revise this afternoon. Is there context I should know?” A question keeps dignity without pretending certainty.",
+        "coaching": {
+          "en": "Give each unknown possibility equal weight. Read the sample reply with composed professional warmth.",
+          "zh": "每一种未知可能都要获得同等分量。示范回复要读出镇定、专业的温度。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Calm Has a Backbone",
+          "zh": "3. 平静有脊梁"
+        },
+        "text": "Calm communication is often mistaken for softness. In fact, it needs a backbone. We can say, “I want to solve this, and I need requests without insults.” We can leave a meeting that has become unsafe. We can refuse the false choice between exploding and surrendering. The pause is not a place where self-respect disappears. It is where self-respect chooses its language. A boundary spoken without heat can still be firm enough to hold.",
+        "coaching": {
+          "en": "Stress backbone, without insults, and false choice. Keep the boundary sentence low and firm.",
+          "zh": "重读 backbone、without insults 和 false choice。边界句要低沉而坚定。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. What We Practice",
+          "zh": "4. 我们反复练习的东西"
+        },
+        "text": "We will not manage this perfectly. Some days the fast story will occupy every chair. Then the practice is repair: return, separate fact from interpretation, and choose a cleaner sentence. Over time, the space grows easier to find. We become less available for needless conflict and more available for truth. This is not because we expect everyone to mean well. It is because we no longer want our first alarm to speak for our whole character. Keep one chair empty. Let reality arrive before the verdict takes every seat.",
+        "coaching": {
+          "en": "Let the admission of imperfection sound humane. Finish the final two sentences with spacious authority.",
+          "zh": "承认不完美时要有人情味。最后两句要从容而有力量。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "furnish",
+      "meaning": {
+        "en": "To fill a room; here, to supply a situation with imagined details.",
+        "zh": "布置房间；此处指给情境添上想象出的细节。"
+      },
+      "use": {
+        "en": "Anxiety furnished the silence with threats.",
+        "zh": "焦虑把沉默布置成了威胁。"
+      }
+    },
+    {
+      "term": "assign meaning",
+      "meaning": {
+        "en": "To decide what something means.",
+        "zh": "给某事赋予某种含义。"
+      },
+      "use": {
+        "en": "We assigned meaning before asking a question.",
+        "zh": "我们还没提问，就先给它下了定义。"
+      }
+    },
+    {
+      "term": "brevity",
+      "meaning": {
+        "en": "The quality of using few words.",
+        "zh": "简洁；用词很少。"
+      },
+      "use": {
+        "en": "Her brevity sounded colder than she intended.",
+        "zh": "她的简短听起来比本意更冷淡。"
+      }
+    },
+    {
+      "term": "inquiry",
+      "meaning": {
+        "en": "An act of asking in order to learn the truth.",
+        "zh": "为了了解真相而进行的询问。"
+      },
+      "use": {
+        "en": "Inquiry entered before accusation.",
+        "zh": "质问之前，先让探询进入。"
+      }
+    },
+    {
+      "term": "backbone",
+      "meaning": {
+        "en": "Strength of character and firm principles.",
+        "zh": "性格中的力量与坚定原则。"
+      },
+      "use": {
+        "en": "Kindness needs a backbone.",
+        "zh": "善意也需要脊梁。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment or decision.",
+        "zh": "最终判断或结论。"
+      },
+      "use": {
+        "en": "Wait for the facts before reaching a verdict.",
+        "zh": "在下结论之前，先等待事实。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Reduce unstressed words naturally in Is there context I should know?",
+      "zh": "在 Is there context I should know? 中自然弱读非重读词。"
+    },
+    {
+      "en": "Use contrastive stress in exploding and surrendering.",
+      "zh": "在 exploding 和 surrendering 中使用对比重音。"
+    },
+    {
+      "en": "Let the consonants remain clear in fact, first, and verdict.",
+      "zh": "读 fact、first 和 verdict 时，辅音要保持清晰。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are steadying a tense room without giving away your boundaries.",
+      "zh": "跟读时，想象你在稳住一个紧张的房间，同时不放弃自己的边界。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the shift from quick assumption to deliberate pause.",
+        "zh": "第一遍：模仿从快速假设转向有意识停顿的变化。"
+      },
+      {
+        "en": "Pass two: make the sample boundary sound calm and non-negotiable.",
+        "zh": "第二遍：让示范边界听起来平静且不容含糊。"
+      },
+      {
+        "en": "Pass three: give the final image room to settle.",
+        "zh": "第三遍：给最后的意象留出沉淀空间。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which recent message did your mind furnish with a fast story?",
+      "zh": "最近哪条信息让你的头脑迅速补出了一整套故事？"
+    },
+    {
+      "en": "What question could protect both curiosity and self-respect?",
+      "zh": "哪一个问题既能保护好奇，也能守住自尊？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-one-chair-empty/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-one-chair-empty/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-one-chair-empty/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-one-chair-empty/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-one-chair-empty/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-one-chair-empty/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-one-chair-empty/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-one-chair-empty/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-one-chair-empty/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-one-chair-empty/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-one-chair-empty/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-one-chair-empty/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-one-chair-empty/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-one-chair-empty/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-one-chair-empty/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-one-chair-empty/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-one-chair-empty/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-one-chair-empty/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-one-chair-empty/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-one-chair-empty/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-one-chair-empty/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-one-chair-empty/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-one-chair-empty/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-one-chair-empty/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-one-chair-empty/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-one-chair-empty/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-one-chair-empty/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-one-chair-empty/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-one-chair-empty/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-one-chair-empty/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-one-chair-empty/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-one-chair-empty/clips/sources_0.mp3"
+    }
+  }
+}

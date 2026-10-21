@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-the-door-unlatched",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave the Door Unlatched",
+    "zh": "把门留一条缝"
+  },
+  "subtitle": {
+    "en": "An original reflection on guiding children without crowding out their independence.",
+    "zh": "一篇原创美文：关于如何引导孩子，同时不挤压他们独立成长的空间。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Independence",
+    "Patience",
+    "Learning",
+    "Trust"
+  ],
+  "sources": [
+    {
+      "title": "The Montessori Method",
+      "author": "Maria Montessori",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/39863",
+      "note": {
+        "en": "Public-domain inspiration for respectful observation and growing independence; the lesson is wholly original.",
+        "zh": "以尊重观察与培养独立的公开领域理念为灵感；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with warmth but without sentimentality. Let care sound spacious, patient, and practical.",
+    "zh": "用温暖但不煽情的语气朗读。让关爱听起来有空间、有耐心，也务实。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Kindness of Stepping Back",
+      "zh": "退后一步的温柔"
+    },
+    "intro": {
+      "en": "This original passage explores a demanding form of care: staying near enough to help while leaving a child room to try.",
+      "zh": "这篇原创文章探讨一种不容易的关爱：既近到足以帮助，又为孩子留下尝试的空间。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Stubborn Button",
+          "zh": "1. 那颗难扣的纽扣"
+        },
+        "text": "A child stands in the hallway wrestling with a stubborn button. The grown-up sees the simple solution: two quick hands, one small click, and everyone can leave on time. Yet the child is learning more than how to close a coat. She is learning what frustration feels like in the body, how fingers become steadier after failure, and whether difficulty always summons rescue. To wait beside her is not indifference. It is attention with its hands briefly folded.",
+        "coaching": {
+          "en": "Keep the opening concrete and lightly amused. Slow down through the three things the child is learning.",
+          "zh": "开头读得具体，带一点轻松笑意。孩子正在学习的三件事要逐渐放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Help That Has Edges",
+          "zh": "2. 有边界的帮助"
+        },
+        "text": "Good help has edges. It does not vanish when needed, and it does not spread across every unfinished task. We can name the first step, hold the sleeve, or say, “Try once more; I am here.” Then we return the work to its rightful owner. This restraint can feel uncomfortable because efficiency is persuasive. Adults know faster routes. But childhood is not a corridor to hurry through. It is a workshop where capability is built from repeated, imperfect attempts.",
+        "coaching": {
+          "en": "Give the short forms of help a clean rhythm. Stress rightful owner and workshop.",
+          "zh": "几种简短帮助要读出清晰节奏。重读 rightful owner 和 workshop。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Read the Request",
+          "zh": "3. 读懂请求"
+        },
+        "text": "Not every silence asks us to step back. A tired child may need comfort before courage; a frightened child may need our calm before a lesson. The art is to read the request beneath the noise. Is this danger, exhaustion, confusion, or the ordinary heat of trying? We will sometimes misjudge. Then we can repair: “I helped too quickly,” or, “I waited when you needed me.” Honest repair teaches something perfection cannot—that care can listen, revise, and return.",
+        "coaching": {
+          "en": "Let the four questions sound genuinely diagnostic, not rhetorical. Soften the two repair sentences.",
+          "zh": "四种判断要读得像真正的辨别，而非反问。两句修复性表达要柔和。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Door, Not a Wall",
+          "zh": "4. 是门，不是墙"
+        },
+        "text": "Independence is not a wall between parent and child. It is a door that the child gradually learns to open. Our task is not to disappear behind it, nor to carry them through every time. We keep the hinges sound. We remain visible. We trust the small hand on the handle. One morning, the button closes. The shoes are tied. A problem once carried to us is considered, attempted, and solved elsewhere. The quiet pride we feel is mixed with loss, as all healthy growing is. Still, we smile from the other side of the open door.",
+        "coaching": {
+          "en": "Build gently through the short sentences, then let the final image feel proud, tender, and unforced.",
+          "zh": "短句之间温和推进；最后的画面要自豪、温柔，却不刻意煽情。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "wrestle with",
+      "meaning": {
+        "en": "To struggle to solve or manage something difficult.",
+        "zh": "努力解决或应对难题。"
+      },
+      "use": {
+        "en": "I wrestled with the decision all weekend.",
+        "zh": "整个周末我都在反复权衡这个决定。"
+      }
+    },
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "The ability to stop yourself from acting too quickly.",
+        "zh": "克制；避免过快行动的能力。"
+      },
+      "use": {
+        "en": "Her restraint gave the team room to think.",
+        "zh": "她的克制给了团队思考的空间。"
+      }
+    },
+    {
+      "term": "rightful",
+      "meaning": {
+        "en": "Properly belonging to a person.",
+        "zh": "正当属于某人的。"
+      },
+      "use": {
+        "en": "Return the decision to its rightful owner.",
+        "zh": "把决定权交还给真正应该拥有它的人。"
+      }
+    },
+    {
+      "term": "capability",
+      "meaning": {
+        "en": "The ability or power to do something well.",
+        "zh": "做好某事的能力。"
+      },
+      "use": {
+        "en": "Capability grows through practice.",
+        "zh": "能力通过练习而增长。"
+      }
+    },
+    {
+      "term": "misjudge",
+      "meaning": {
+        "en": "To form a wrong opinion about a situation.",
+        "zh": "误判某种情况。"
+      },
+      "use": {
+        "en": "I misjudged how much help he needed.",
+        "zh": "我误判了他需要多少帮助。"
+      }
+    },
+    {
+      "term": "make a repair",
+      "meaning": {
+        "en": "To restore trust after a mistake or hurt.",
+        "zh": "在错误或伤害后修复关系。"
+      },
+      "use": {
+        "en": "A sincere apology can make a repair.",
+        "zh": "真诚的道歉可以修复关系。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link naturally in wait beside her and first step.",
+      "zh": "在 wait beside her 和 first step 中自然连读。"
+    },
+    {
+      "en": "Use contrastive stress in not a wall—it is a door.",
+      "zh": "在 not a wall—it is a door 中使用对比重音。"
+    },
+    {
+      "en": "Keep the consonants crisp in restraint, rightful, and trust.",
+      "zh": "读 restraint、rightful 和 trust 时，辅音要清晰。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking to a caring adult who is learning when to step back.",
+      "zh": "跟读时，想象你在对一位正在学习何时退后的照护者说话。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the practical images clear and conversational.",
+        "zh": "第一遍：把生活画面读得清楚自然。"
+      },
+      {
+        "en": "Pass two: make the contrasts between help and independence audible.",
+        "zh": "第二遍：清楚读出帮助与独立之间的对照。"
+      },
+      {
+        "en": "Pass three: let the final paragraph carry both pride and tenderness.",
+        "zh": "第三遍：让末段同时带着自豪与温柔。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where might your help be arriving a little too quickly?",
+      "zh": "在哪件事上，你的帮助或许来得稍快了一点？"
+    },
+    {
+      "en": "What phrase could offer support without taking over?",
+      "zh": "哪句话既能提供支持，又不会替对方包办？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-the-door-unlatched/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-the-door-unlatched/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-the-door-unlatched/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-the-door-unlatched/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-the-door-unlatched/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-the-door-unlatched/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-the-door-unlatched/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-the-door-unlatched/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-the-door-unlatched/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-the-door-unlatched/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-the-door-unlatched/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-the-door-unlatched/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-the-door-unlatched/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-the-door-unlatched/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-the-door-unlatched/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-the-door-unlatched/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-the-door-unlatched/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-the-door-unlatched/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-the-door-unlatched/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-the-door-unlatched/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-the-door-unlatched/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-the-door-unlatched/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-the-door-unlatched/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-the-door-unlatched/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-the-door-unlatched/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-the-door-unlatched/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-the-door-unlatched/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-the-door-unlatched/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-the-door-unlatched/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-the-door-unlatched/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-the-door-unlatched/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-the-door-unlatched/clips/sources_0.mp3"
+    }
+  }
+}
