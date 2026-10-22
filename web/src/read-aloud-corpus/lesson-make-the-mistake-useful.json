@@ -1,0 +1,244 @@
+{
+  "lessonId": "make-the-mistake-useful",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Make the Mistake Useful",
+    "zh": "让错误变得有用"
+  },
+  "subtitle": {
+    "en": "An original reflection on learning, intelligent practice, and turning error into better judgment.",
+    "zh": "一篇原创美文：关于学习、聪明的练习，以及如何把错误转化为更好的判断。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Learning",
+    "Practice",
+    "Career",
+    "Judgment",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Democracy and Education",
+      "author": "John Dewey",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/852",
+      "note": {
+        "en": "Public-domain inspiration for learning through experience and reflection; the situations and wording here are entirely original.",
+        "zh": "灵感来自这部公开领域作品中“从经验与反思中学习”的思想；本课情境与文字均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical kindness. The tone should respect effort while remaining exact about what better practice requires.",
+    "zh": "以务实的善意朗读。语气既要尊重努力，也要准确说明更好的练习需要什么。"
+  },
+  "passage": {
+    "title": {
+      "en": "What the Second Attempt Knows",
+      "zh": "第二次尝试知道什么"
+    },
+    "intro": {
+      "en": "This original passage separates the pain of being wrong from the craft of learning well, then offers a way to make the next attempt wiser.",
+      "zh": "这篇原创文章把“犯错的难受”与“学得更好的方法”分开，并提供一种让下一次尝试更明智的做法。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Red Mark",
+          "zh": "1. 那道红色标记"
+        },
+        "text": "A proposal returns with a red line through its central claim. A pronunciation recording reveals that one sound has been wrong for months. A customer asks a question we should have anticipated. The first sensation is rarely educational. It is heat in the face, a wish to explain, a quick search for someone to blame. Error feels like a verdict on the person who made it. Yet the red mark contains less information than our shame suggests. It says only: this attempt and reality did not meet where you expected.",
+        "coaching": {
+          "en": "Keep the examples brisk and recognizable. Slow at It says only, allowing the sentence to reduce the drama.",
+          "zh": "几个例子要读得利落而熟悉。到 It says only 时放慢，让这句话化解戏剧化情绪。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Open the Error",
+          "zh": "2. 把错误打开"
+        },
+        "text": "A useful mistake must be opened. What did you believe when you acted? Which signal did you miss? Was the method weak, the information incomplete, or the attention divided? These questions turn one heavy word—failure—into smaller parts that can be handled. Perhaps the claim lacked evidence. Perhaps your ear could not yet distinguish two unfamiliar sounds. Perhaps the customer’s concern was visible, but only after you learned where to look. Specificity is merciful because it gives improvement an address.",
+        "coaching": {
+          "en": "Give each diagnostic question its own pace. Stress smaller parts and improvement an address.",
+          "zh": "每个诊断问题都要有自己的节奏。重读 smaller parts 和 improvement an address。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Change One Variable",
+          "zh": "3. 一次改变一个变量"
+        },
+        "text": "The next attempt should not merely contain more effort. It should contain a better experiment. Add one source to the proposal and test whether the claim holds. Record the troublesome sound beside a word you pronounce easily. Ask the next customer one question earlier. Change one variable when you can; otherwise, success teaches as little as failure. You need to know what produced the difference. This is slower than making a grand promise to improve, but it is also kinder. It replaces vague self-criticism with a task small enough to begin.",
+        "coaching": {
+          "en": "Read the three experiments with capable forward motion. Contrast grand promise with task small enough to begin.",
+          "zh": "三个实验要读出干练的推进感。把 grand promise 与 task small enough to begin 读出对比。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Keep the Receipt",
+          "zh": "4. 留下学习的凭据"
+        },
+        "text": "After the second attempt, write down what changed. This small record is a receipt for learning. Without it, we remember only that the week was difficult; with it, we can see that our judgment became more precise. Over years, such receipts form a quiet professional confidence. Not the confidence of never being wrong, but the confidence of knowing what to do next when we are. The finest learners are not people whom error avoids. They are people who refuse to waste it. They let discomfort deliver its message, then release it. What remains is not a scarlet mark, but a map with one more road drawn clearly.",
+        "coaching": {
+          "en": "Warm the tone around quiet professional confidence. Give the final map image a measured, hopeful finish.",
+          "zh": "读到 quiet professional confidence 时让语气温暖起来。最后的地图意象要节制而有希望。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "anticipate",
+      "meaning": {
+        "en": "To expect something and prepare for it in advance.",
+        "zh": "预料某事并提前准备。"
+      },
+      "use": {
+        "en": "A good host anticipates what guests may need.",
+        "zh": "好的主人会预想到客人可能需要什么。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment about someone or something.",
+        "zh": "对人或事作出的最终判断。"
+      },
+      "use": {
+        "en": "One poor result is not a verdict on your ability.",
+        "zh": "一次不佳的结果并不是对你能力的最终判决。"
+      }
+    },
+    {
+      "term": "specificity",
+      "meaning": {
+        "en": "The quality of being exact and detailed.",
+        "zh": "准确而具体的特性；明确性。"
+      },
+      "use": {
+        "en": "Specificity made the feedback easier to use.",
+        "zh": "具体明确让这条反馈更容易使用。"
+      }
+    },
+    {
+      "term": "variable",
+      "meaning": {
+        "en": "A factor that can change and affect a result.",
+        "zh": "可以变化并影响结果的因素；变量。"
+      },
+      "use": {
+        "en": "We changed one variable in the second test.",
+        "zh": "我们在第二次测试中改变了一个变量。"
+      }
+    },
+    {
+      "term": "vague",
+      "meaning": {
+        "en": "Not clearly expressed, known, or defined.",
+        "zh": "表达、认识或定义得不清楚；模糊的。"
+      },
+      "use": {
+        "en": "Turn the vague goal into a daily action.",
+        "zh": "把模糊的目标变成每天的行动。"
+      }
+    },
+    {
+      "term": "professional confidence",
+      "meaning": {
+        "en": "Trust in one’s ability to handle work with skill and judgment.",
+        "zh": "对自己能够以技能与判断力处理工作的信任。"
+      },
+      "use": {
+        "en": "Preparation gave her quiet professional confidence.",
+        "zh": "充分准备给了她沉静的职业自信。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the stress clear in educational, information, and specificity.",
+      "zh": "读 educational、information 和 specificity 时，重音位置要清晰。"
+    },
+    {
+      "en": "Link naturally in what did you believe and what to do next.",
+      "zh": "自然连读 what did you believe 和 what to do next。"
+    },
+    {
+      "en": "Use contrastive stress in not more effort, but a better experiment.",
+      "zh": "在 not more effort, but a better experiment 中使用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a capable colleague turn disappointment into a precise next step.",
+      "zh": "跟读时，想象你正帮助一位有能力的同事把失望转化为准确的下一步。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the move from emotional heat to factual calm.",
+        "zh": "第一遍：模仿从情绪发热转向事实平静的变化。"
+      },
+      {
+        "en": "Pass two: make each diagnostic question sound curious rather than accusing.",
+        "zh": "第二遍：让每个诊断问题听起来好奇，而不是责备。"
+      },
+      {
+        "en": "Pass three: build steady confidence through the closing contrast and image.",
+        "zh": "第三遍：通过结尾的对比与意象，建立沉稳的信心。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which recent mistake could you open into smaller, workable parts?",
+      "zh": "最近哪一个错误可以被你拆成更小、更可处理的部分？"
+    },
+    {
+      "en": "What single variable will you change in your next attempt?",
+      "zh": "下一次尝试时，你会改变哪一个变量？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-the-mistake-useful/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-the-mistake-useful/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-the-mistake-useful/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-the-mistake-useful/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-the-mistake-useful/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/make-the-mistake-useful/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/make-the-mistake-useful/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-the-mistake-useful/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-the-mistake-useful/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-the-mistake-useful/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-the-mistake-useful/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-the-mistake-useful/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-the-mistake-useful/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-the-mistake-useful/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-the-mistake-useful/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-the-mistake-useful/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-the-mistake-useful/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-the-mistake-useful/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-the-mistake-useful/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-the-mistake-useful/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-the-mistake-useful/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-the-mistake-useful/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-the-mistake-useful/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-the-mistake-useful/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-the-mistake-useful/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-the-mistake-useful/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-the-mistake-useful/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-the-mistake-useful/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-the-mistake-useful/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-the-mistake-useful/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-the-mistake-useful/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-the-mistake-useful/clips/sources_0.mp3"
+    }
+  }
+}

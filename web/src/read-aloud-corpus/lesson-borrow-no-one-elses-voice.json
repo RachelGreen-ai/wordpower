@@ -1,0 +1,244 @@
+{
+  "lessonId": "borrow-no-one-elses-voice",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Borrow No One Else’s Voice",
+    "zh": "别借用他人的声音"
+  },
+  "subtitle": {
+    "en": "An original reflection on self-trust, honest speech, and the slow making of a voice that is truly yours.",
+    "zh": "一篇原创美文：关于自我信任、诚实表达，以及如何慢慢长出真正属于自己的声音。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Self-Trust",
+    "Voice",
+    "Courage",
+    "Identity",
+    "Expression"
+  ],
+  "sources": [
+    {
+      "title": "Essays, First Series: Self-Reliance",
+      "author": "Ralph Waldo Emerson",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/16643",
+      "note": {
+        "en": "Public-domain inspiration for independent thought and honest expression; no source wording is reproduced.",
+        "zh": "灵感来自这部公开领域作品中关于独立思考与诚实表达的思想；本课未复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with quiet conviction. Avoid a heroic tone; the voice should grow more certain by becoming more honest.",
+    "zh": "以安静的确信感朗读。不要使用英雄式语调；声音应因更加诚实而逐渐坚定。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Sound of Your Own Yes",
+      "zh": "属于你自己的那声“是”"
+    },
+    "intro": {
+      "en": "This original passage explores how an authentic voice is formed—not in isolation, but through attention, revision, and the courage to mean what we say.",
+      "zh": "这篇原创文章探讨真实声音如何形成：不是靠与世隔绝，而是靠专注、修正，以及说话算数的勇气。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Borrowed Sentence",
+          "zh": "1. 借来的句子"
+        },
+        "text": "There is a moment in many rooms when we hear ourselves speaking and recognize someone else. The polished phrase belongs to a manager we admire. The careful laugh came from a friend who always seems at ease. Even our opinion arrives wearing clothes chosen by the crowd. Borrowing is part of learning; every musician begins inside another person’s song. The trouble begins when the borrowed sentence earns approval and we become afraid to take it off. A voice can sound impressive while leaving its speaker strangely absent.",
+        "coaching": {
+          "en": "Read the opening as a private recognition. Stress polished, careful, and strangely absent without sounding judgmental.",
+          "zh": "开头要读出私下察觉自己的感觉。重读 polished、careful 和 strangely absent，但不要带评判。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Listen for the Flinch",
+          "zh": "2. 听见那一下退缩"
+        },
+        "text": "Your own voice is not necessarily the loudest one. Often it first appears as a flinch: a small inward movement when you agree too quickly, praise what you do not value, or promise what you cannot sustain. Pay attention there. The flinch is not always wisdom; fear can flinch at growth as well as falsehood. But it is information. Ask, What exactly feels untrue? Sometimes the answer is a single word. Replace it. Sometimes the answer is the whole direction of the conversation. Be brave enough to pause.",
+        "coaching": {
+          "en": "Keep flinch small in volume but important in meaning. Give the direct question a clean, searching tone.",
+          "zh": "flinch 的音量可以轻，但意义要重。直接提问要读得干净而有探寻感。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. A Voice Is Made in Revision",
+          "zh": "3. 声音在修正中长成"
+        },
+        "text": "Authenticity is not blurting out every first thought. A first thought may be inherited, defensive, or simply unfinished. An honest voice has editorial courage. It can say, I spoke too sharply yesterday. Here is what I meant. It can change its mind without calling the earlier self a fraud. A river remains itself while moving around stone. In the same way, a person can revise and still possess a center. The center is not a fixed set of answers. It is a faithful relationship with attention.",
+        "coaching": {
+          "en": "Let the correction sound mature, not apologetic. Widen the pace around the river image, then finish with calm precision.",
+          "zh": "修正的话要成熟，不必卑怯。读到河流意象时放宽节奏，结尾则平静而准确。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Mean the Small Things",
+          "zh": "4. 从小事开始说真话"
+        },
+        "text": "Self-trust is built in modest exchanges. Choose the tea you actually want. Admit that you need another day. Offer praise only when you can name what moved you. Say no before resentment writes a crueler answer. These choices may not look dramatic, but they teach the body that your words are a place where you can live. Then, when a larger moment asks for courage, you are not inventing a voice on the spot. You are using one strengthened by a hundred ordinary truths. Borrow technique. Welcome influence. Learn from every generous speaker. But when your own yes or no is required, let no one else stand inside your mouth.",
+        "coaching": {
+          "en": "Make the small choices warm and concrete. Build steady force through the final four sentences without rushing.",
+          "zh": "把这些小选择读得温暖而具体。最后四句逐步增强力量，但不要加速。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "at ease",
+      "meaning": {
+        "en": "Relaxed, comfortable, and free from worry.",
+        "zh": "放松、自在、不焦虑。"
+      },
+      "use": {
+        "en": "She made every new student feel at ease.",
+        "zh": "她让每位新同学都感到自在。"
+      }
+    },
+    {
+      "term": "flinch",
+      "meaning": {
+        "en": "A quick movement or inner reaction caused by fear or discomfort.",
+        "zh": "因恐惧或不适而迅速退缩或产生的内在反应。"
+      },
+      "use": {
+        "en": "He did not flinch from the difficult question.",
+        "zh": "面对那个难题，他没有退缩。"
+      }
+    },
+    {
+      "term": "sustain",
+      "meaning": {
+        "en": "To continue or support something over time.",
+        "zh": "使某事持续；长期支撑。"
+      },
+      "use": {
+        "en": "Choose a pace you can sustain.",
+        "zh": "选择一个你能长期保持的节奏。"
+      }
+    },
+    {
+      "term": "blurt out",
+      "meaning": {
+        "en": "To say something suddenly without thinking carefully.",
+        "zh": "未经仔细思考就脱口而出。"
+      },
+      "use": {
+        "en": "I almost blurted out an answer I did not mean.",
+        "zh": "我差点脱口说出一个并非本意的答案。"
+      }
+    },
+    {
+      "term": "editorial courage",
+      "meaning": {
+        "en": "The bravery to revise and improve what one says or creates.",
+        "zh": "敢于修正和改进表达或作品的勇气。"
+      },
+      "use": {
+        "en": "The apology showed real editorial courage.",
+        "zh": "这次道歉展现了真正的修正勇气。"
+      }
+    },
+    {
+      "term": "resentment",
+      "meaning": {
+        "en": "Lasting anger caused by feeling unfairly treated.",
+        "zh": "因感到受到不公对待而产生的持久怨气。"
+      },
+      "use": {
+        "en": "A timely boundary can prevent resentment.",
+        "zh": "及时设立边界可以避免怨气累积。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use contrastive stress in your own voice and someone else.",
+      "zh": "在 your own voice 与 someone else 之间使用对比重音。"
+    },
+    {
+      "en": "Keep the consonant cluster clear in strengthened and truths.",
+      "zh": "读 strengthened 和 truths 时，辅音组合要清晰。"
+    },
+    {
+      "en": "Let the short commands Choose, Admit, Offer, and Say no begin firmly.",
+      "zh": "Choose、Admit、Offer、Say no 等短指令的开头要坚定。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are discovering a steadier, more truthful register in your own speaking voice.",
+      "zh": "跟读时，想象你正在自己的说话声中发现一种更稳、更真实的音域。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the reflective pauses in the borrowed-sentence section.",
+        "zh": "第一遍：模仿“借来的句子”一节中的反思停顿。"
+      },
+      {
+        "en": "Pass two: make the correction sentence sound clear and self-respecting.",
+        "zh": "第二遍：把修正自己的那句话读得清楚且有自尊。"
+      },
+      {
+        "en": "Pass three: build conviction through the final sequence of short sentences.",
+        "zh": "第三遍：在结尾一连串短句中逐步建立确信感。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "In which situation do you most often hear yourself using a borrowed voice?",
+      "zh": "在哪种情境中，你最常听见自己使用一种借来的声音？"
+    },
+    {
+      "en": "What small honest sentence would strengthen your self-trust this week?",
+      "zh": "本周，哪一句小小的真话能增强你的自我信任？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/borrow-no-one-elses-voice/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/borrow-no-one-elses-voice/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/borrow-no-one-elses-voice/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/borrow-no-one-elses-voice/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/borrow-no-one-elses-voice/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/borrow-no-one-elses-voice/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/borrow-no-one-elses-voice/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/borrow-no-one-elses-voice/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/borrow-no-one-elses-voice/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/borrow-no-one-elses-voice/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/borrow-no-one-elses-voice/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/borrow-no-one-elses-voice/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/borrow-no-one-elses-voice/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/borrow-no-one-elses-voice/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/borrow-no-one-elses-voice/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/borrow-no-one-elses-voice/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/borrow-no-one-elses-voice/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/borrow-no-one-elses-voice/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/borrow-no-one-elses-voice/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/borrow-no-one-elses-voice/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/borrow-no-one-elses-voice/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/borrow-no-one-elses-voice/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/borrow-no-one-elses-voice/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/borrow-no-one-elses-voice/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/borrow-no-one-elses-voice/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/borrow-no-one-elses-voice/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/borrow-no-one-elses-voice/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/borrow-no-one-elses-voice/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/borrow-no-one-elses-voice/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/borrow-no-one-elses-voice/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/borrow-no-one-elses-voice/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/borrow-no-one-elses-voice/clips/sources_0.mp3"
+    }
+  }
+}

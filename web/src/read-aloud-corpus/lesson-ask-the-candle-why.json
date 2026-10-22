@@ -1,0 +1,244 @@
+{
+  "lessonId": "ask-the-candle-why",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Ask the Candle Why",
+    "zh": "向烛火问一个为什么"
+  },
+  "subtitle": {
+    "en": "An original reflection on scientific curiosity, patient questions, and the wonder hidden in ordinary things.",
+    "zh": "一篇原创美文：关于科学好奇心、耐心追问，以及藏在日常事物里的惊奇。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Curiosity",
+    "Attention",
+    "Learning",
+    "Wonder"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration for discovering large principles in an ordinary flame; this contemporary lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品：从一簇寻常火焰中发现宏大原理；本课文字为当代原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert wonder. Let each question sound like an invitation to look closer, not a test with one correct answer.",
+    "zh": "带着清醒的惊奇感朗读。每个问题都应像邀请人靠近观察，而不是只有一个正确答案的考试。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Small Flame, a Large World",
+      "zh": "一簇小火焰，一个大世界"
+    },
+    "intro": {
+      "en": "This original passage follows one candle from familiarity into mystery, and asks us to recover the habit of useful wonder.",
+      "zh": "这篇原创文章从一支熟悉的蜡烛走向未知，并邀请我们重新养成有用的惊奇。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Ordinary Object",
+          "zh": "1. 寻常之物"
+        },
+        "text": "Set a candle on the table and it seems to have nothing left to announce. We know its shape, its pale wax, the small dark thread at its center. We have seen candles on birthday cakes and beside windows during a storm. Then a match touches the wick, and the familiar object becomes a lively question. Why does the flame point upward? Where does the wax go? Why is there blue near the base and gold above it? The room has not changed, yet attention has opened a door inside it.",
+        "coaching": {
+          "en": "Begin conversationally. Slow down through the three questions, giving each one a fresh lift of curiosity.",
+          "zh": "开头读得自然亲切。三个问题要逐一放慢，每一个都带出新的好奇。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Wonder with Sleeves Rolled Up",
+          "zh": "2. 挽起袖子的惊奇"
+        },
+        "text": "Wonder is sometimes treated as a soft feeling, pleasant but impractical. Real inquiry asks more of us. It rolls up its sleeves. It watches, compares, measures, and admits when its first explanation fails. Hold a cool spoon above the flame and moisture gathers. Bring the wick too low and the light weakens. Every careful change lets the candle answer in its own language. Curiosity becomes disciplined without becoming dull. In fact, discipline protects wonder from the easy answer that would end it too soon.",
+        "coaching": {
+          "en": "Give rolls up its sleeves practical energy. Keep the action verbs crisp: watches, compares, measures, admits.",
+          "zh": "把 rolls up its sleeves 读出务实的力量。watches、compares、measures、admits 等动作词要清晰利落。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Better Questions",
+          "zh": "3. 更好的问题"
+        },
+        "text": "The same habit belongs beyond the laboratory. When a plan fails, we can ask not only Who caused this? but What condition did we overlook? When a learner falls silent, we can ask not What is wrong with her? but What would make speaking feel possible? A better question does not excuse harm or erase responsibility. It changes the angle of the lamp. Blame often narrows the scene to one person; inquiry notices the system, the sequence, and the missing piece. It gives the mind somewhere useful to go.",
+        "coaching": {
+          "en": "Use clear contrast between each narrow question and its wider alternative. Land gently on somewhere useful to go.",
+          "zh": "把每个狭窄问题与更宽阔的替代问题读出清楚对比。最后的 somewhere useful to go 要轻稳落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Keep One Mystery Near",
+          "zh": "4. 在身边留一个谜"
+        },
+        "text": "Choose one ordinary mystery and keep it near for a week: the fog on a mirror, the rhythm of traffic, the way bread rises, the reason a certain conversation repeatedly turns cold. Notice before you explain. Test before you declare. Let evidence revise the story you hoped would be true. Knowledge grows this way, but so does character. We become less embarrassed by not knowing and less enchanted by sounding certain. The candle is small enough to overlook. That is precisely why it is a fine teacher. It reminds us that the world does not run out of depth when our names for things become familiar.",
+        "coaching": {
+          "en": "Read the three short instructions with spacious authority. Let the final sentence widen beyond the candle.",
+          "zh": "三个简短指令要读得从容有力。最后一句要让意境从烛火向更广阔处展开。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "lively question",
+      "meaning": {
+        "en": "A question that feels active and full of possibilities.",
+        "zh": "充满活力、带着多种可能的问题。"
+      },
+      "use": {
+        "en": "The broken clock became a lively question for the child.",
+        "zh": "那只坏掉的钟成了孩子眼中一个鲜活的问题。"
+      }
+    },
+    {
+      "term": "inquiry",
+      "meaning": {
+        "en": "Careful questioning and investigation to discover the truth.",
+        "zh": "为发现真相而进行的认真提问与探究。"
+      },
+      "use": {
+        "en": "Inquiry begins when the easy answer feels incomplete.",
+        "zh": "当简单答案显得不完整时，探究便开始了。"
+      }
+    },
+    {
+      "term": "disciplined",
+      "meaning": {
+        "en": "Controlled by careful practice and clear methods.",
+        "zh": "经过认真练习并遵循清晰方法的；严谨的。"
+      },
+      "use": {
+        "en": "Her imagination was bold but disciplined.",
+        "zh": "她的想象大胆，却也严谨。"
+      }
+    },
+    {
+      "term": "overlook",
+      "meaning": {
+        "en": "To fail to notice or consider something.",
+        "zh": "没有注意到或考虑到；忽略。"
+      },
+      "use": {
+        "en": "We overlooked one quiet but important detail.",
+        "zh": "我们忽略了一个安静却重要的细节。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To change an idea after considering new information.",
+        "zh": "根据新信息修正想法。"
+      },
+      "use": {
+        "en": "Good evidence helped us revise the plan.",
+        "zh": "可靠的证据帮助我们修正了计划。"
+      }
+    },
+    {
+      "term": "enchanted by",
+      "meaning": {
+        "en": "Strongly attracted or delighted by something.",
+        "zh": "被某事强烈吸引或迷住。"
+      },
+      "use": {
+        "en": "Do not become enchanted by your own certainty.",
+        "zh": "不要被自己的笃定迷住。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in wick, wax, and light.",
+      "zh": "读 wick、wax 和 light 时，词尾辅音要清晰。"
+    },
+    {
+      "en": "Use rising intonation for the genuine questions in the first section.",
+      "zh": "第一节中的真诚疑问句使用自然升调。"
+    },
+    {
+      "en": "Link smoothly in notice before you explain and test before you declare.",
+      "zh": "流畅连读 notice before you explain 和 test before you declare。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a curious friend from a familiar object into a deeper world.",
+      "zh": "跟读时，想象你正带一位好奇的朋友，从熟悉之物走进更深的世界。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pace and upward energy of the candle questions.",
+        "zh": "第一遍：模仿烛火问题的节奏与向上的语势。"
+      },
+      {
+        "en": "Pass two: make each practical action sound precise and visible.",
+        "zh": "第二遍：让每个实际动作听起来准确而可见。"
+      },
+      {
+        "en": "Pass three: let the final paragraph move from instruction into wonder.",
+        "zh": "第三遍：让最后一段从行动指引自然走向惊奇。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which ordinary object near you could become a lively question today?",
+      "zh": "今天，你身边哪件寻常之物可以变成一个鲜活的问题？"
+    },
+    {
+      "en": "Where could a better question move you beyond blame?",
+      "zh": "在哪件事上，一个更好的问题能带你走出责备？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/ask-the-candle-why/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/ask-the-candle-why/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/ask-the-candle-why/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/ask-the-candle-why/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/ask-the-candle-why/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/ask-the-candle-why/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/ask-the-candle-why/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/ask-the-candle-why/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/ask-the-candle-why/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/ask-the-candle-why/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/ask-the-candle-why/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/ask-the-candle-why/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/ask-the-candle-why/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/ask-the-candle-why/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/ask-the-candle-why/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/ask-the-candle-why/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/ask-the-candle-why/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/ask-the-candle-why/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/ask-the-candle-why/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/ask-the-candle-why/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/ask-the-candle-why/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/ask-the-candle-why/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/ask-the-candle-why/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/ask-the-candle-why/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/ask-the-candle-why/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/ask-the-candle-why/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/ask-the-candle-why/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/ask-the-candle-why/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/ask-the-candle-why/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/ask-the-candle-why/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/ask-the-candle-why/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/ask-the-candle-why/clips/sources_0.mp3"
+    }
+  }
+}
