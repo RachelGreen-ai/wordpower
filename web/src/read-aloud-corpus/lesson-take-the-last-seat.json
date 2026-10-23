@@ -1,0 +1,244 @@
+{
+  "lessonId": "take-the-last-seat",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Take the Last Seat",
+    "zh": "坐到最后一个位置"
+  },
+  "subtitle": {
+    "en": "An original reflection on practical leadership, shared work, and earning the clearest view of a team.",
+    "zh": "一篇原创美文：关于务实领导、共同劳动，以及如何赢得观察团队的清晰视角。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Leadership",
+    "Teamwork",
+    "Service",
+    "Work",
+    "Courage"
+  ],
+  "sources": [
+    {
+      "title": "Up from Slavery: An Autobiography",
+      "author": "Booker T. Washington",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2376",
+      "note": {
+        "en": "Public-domain inspiration for dignity in practical work, self-command, and leadership grounded in contribution; this lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品中对实际劳动的尊严、自我约束与以贡献为根基的领导力的思考；本课完全原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded authority. Let service sound strong, and let leadership emerge from observation rather than performance.",
+    "zh": "以脚踏实地的权威感朗读。让服务听起来有力量，让领导力从观察而非表演中显现。"
+  },
+  "passage": {
+    "title": {
+      "en": "The View from the Edge of the Room",
+      "zh": "从房间边缘看到的风景"
+    },
+    "intro": {
+      "en": "This original passage considers a form of leadership that begins by noticing the work, the people, and what the room has failed to hear.",
+      "zh": "这篇原创文章思考一种领导方式：先看见工作、看见人，也看见房间里尚未被听见的声音。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Arrive Before the Role",
+          "zh": "1. 先到场，再进入角色"
+        },
+        "text": "A title may introduce you, but it cannot make the room trust you. Arrive early enough to notice what the polished agenda leaves out. Which cable always fails? Who moves the chairs without being asked? Which colleague has prepared carefully but has not found an opening to speak? Leadership begins as accurate attention. Before offering a vision, learn the weight of the ordinary work. Carry one box. Test one microphone. Ask the person at the door what usually goes wrong. These acts are not theatre if they genuinely improve your understanding. They place your decisions in contact with the floor.",
+        "coaching": {
+          "en": "Open with calm authority, then make the practical questions curious and exact. Give the three short actions crisp forward movement.",
+          "zh": "开头要沉着有分量，几个实际问题要好奇而准确。三个短行动要读得干净、有推进感。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Take the Last Seat",
+          "zh": "2. 坐到最后一个位置"
+        },
+        "text": "At the head of a table, every face is turned toward you. This feels informative, but attention can hide information. Now and then, take the last seat. From there, you can see who leans forward, who withdraws, and whose idea travels across the table under someone else's name. The edge of the room teaches a different geography of influence. You discover that the quietest person may hold the missing fact, while the quickest answer may merely have the clearest path to the air. A leader changes position not to appear humble, but to improve the quality of what can be seen.",
+        "coaching": {
+          "en": "Slow the shift from the head to the last seat. Read the room observations distinctly, then emphasize improve the quality of what can be seen.",
+          "zh": "从首席移到末座的转换要放慢。房间里的观察要清楚分开，重读 improve the quality of what can be seen。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Make the Work Shareable",
+          "zh": "3. 让工作可以被共同承担"
+        },
+        "text": "Some leaders protect their importance by remaining the only person who knows how things work. The team becomes dependent, and every emergency proves the leader necessary. Resist this flattering trap. Explain the reasoning behind a decision. Write the process so another person can improve it. Give someone a real responsibility, not a decorative task whose outcome has already been chosen. Shared knowledge may make you less central, but it makes the work more durable. Your value is not measured by how helpless the room becomes when you leave. It is revealed by how capably the room continues.",
+        "coaching": {
+          "en": "Use controlled disapproval for the flattering trap, never sarcasm. Build confidence through the three sharing actions and land on continues.",
+          "zh": "读 flattering trap 时要有克制的不赞同，但不要讽刺。三个分享行动要层层增强信心，最后落在 continues。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Spend Credit, Keep Responsibility",
+          "zh": "4. 分出功劳，留下责任"
+        },
+        "text": "When work succeeds, name the hands that carried it. Be specific: her careful estimate prevented delay; his early question changed the design. Specific credit teaches the group what excellence looks like and assures people that contribution is visible. When work fails, do not scatter blame like sparks in dry grass. State what happened, protect the truth, and keep your share of responsibility in view. This balance requires courage because praise can be spent while blame feels expensive. Yet people remember the leader who made achievement communal and difficulty safe to examine. Trust gathers around that memory, quietly preparing the room for harder work.",
+        "coaching": {
+          "en": "Make the examples of credit generous and precise. Darken the tone slightly for scattered blame, then finish with quiet, forward-looking trust.",
+          "zh": "功劳的例子要慷慨而具体。谈到四散的指责时语气稍沉，最后以安静、面向未来的信任收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "agenda",
+      "meaning": {
+        "en": "A list of subjects to be discussed or work to be done.",
+        "zh": "议程；待讨论或处理的事项清单。"
+      },
+      "use": {
+        "en": "The real concern was missing from the agenda.",
+        "zh": "真正的问题没有出现在议程上。"
+      }
+    },
+    {
+      "term": "withdraw",
+      "meaning": {
+        "en": "To become less involved or move away from participation.",
+        "zh": "退出；不再积极参与。"
+      },
+      "use": {
+        "en": "She withdrew when the discussion became dismissive.",
+        "zh": "当讨论变得轻慢时，她不再参与。"
+      }
+    },
+    {
+      "term": "geography",
+      "meaning": {
+        "en": "The arrangement of places or positions in an area.",
+        "zh": "地理格局；位置分布。"
+      },
+      "use": {
+        "en": "Changing seats revealed the meeting's social geography.",
+        "zh": "换个座位显露了会议中的人际格局。"
+      }
+    },
+    {
+      "term": "durable",
+      "meaning": {
+        "en": "Able to last and remain useful over time.",
+        "zh": "持久的；耐用的。"
+      },
+      "use": {
+        "en": "Shared knowledge makes the system more durable.",
+        "zh": "共享知识让系统更持久可靠。"
+      }
+    },
+    {
+      "term": "capably",
+      "meaning": {
+        "en": "In a skilled and effective way.",
+        "zh": "能干地；有效地。"
+      },
+      "use": {
+        "en": "The team handled the change capably.",
+        "zh": "团队能干地处理了这次变化。"
+      }
+    },
+    {
+      "term": "communal",
+      "meaning": {
+        "en": "Shared by or belonging to a whole group.",
+        "zh": "共有的；属于整个群体的。"
+      },
+      "use": {
+        "en": "The leader made the achievement communal.",
+        "zh": "领导者让这份成就属于整个团队。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Stress the verbs in Carry one box. Test one microphone. Ask the person at the door.",
+      "zh": "重读 Carry one box. Test one microphone. Ask the person at the door. 中的动词。"
+    },
+    {
+      "en": "Keep the final sounds clear in trust, asked, fact, shared, and sparks.",
+      "zh": "读 trust、asked、fact、shared 和 sparks 时，尾音要清晰。"
+    },
+    {
+      "en": "Use balanced contrast in spend credit, keep responsibility and succeeds, fails.",
+      "zh": "在 spend credit, keep responsibility 以及 succeeds, fails 中读出平衡的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are addressing capable colleagues who need clarity, respect, and a reason to trust your judgment.",
+      "zh": "跟读时，想象你正对一群能干的同事讲话；他们需要清晰、尊重，也需要相信你判断的理由。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: give the practical details calm authority.",
+        "zh": "第一遍：把实际细节读出沉着的权威感。"
+      },
+      {
+        "en": "Pass two: make every contrast between visibility and reality precise.",
+        "zh": "第二遍：把可见表象与真实情况之间的每组对比读准确。"
+      },
+      {
+        "en": "Pass three: let the final section combine courage with generosity.",
+        "zh": "第三遍：让最后一节同时带有勇气与慷慨。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What could you learn by taking a different seat in your next meeting?",
+      "zh": "下一次会议中，换一个位置会让你学到什么？"
+    },
+    {
+      "en": "Which piece of knowledge could you share now to make your team's work more durable?",
+      "zh": "你现在可以分享哪一项知识，让团队的工作更持久可靠？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/take-the-last-seat/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/take-the-last-seat/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/take-the-last-seat/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/take-the-last-seat/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/take-the-last-seat/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/take-the-last-seat/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/take-the-last-seat/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/take-the-last-seat/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/take-the-last-seat/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/take-the-last-seat/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/take-the-last-seat/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/take-the-last-seat/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/take-the-last-seat/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/take-the-last-seat/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/take-the-last-seat/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/take-the-last-seat/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/take-the-last-seat/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/take-the-last-seat/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/take-the-last-seat/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/take-the-last-seat/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/take-the-last-seat/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/take-the-last-seat/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/take-the-last-seat/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/take-the-last-seat/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/take-the-last-seat/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/take-the-last-seat/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/take-the-last-seat/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/take-the-last-seat/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/take-the-last-seat/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/take-the-last-seat/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/take-the-last-seat/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/take-the-last-seat/clips/sources_0.mp3"
+    }
+  }
+}

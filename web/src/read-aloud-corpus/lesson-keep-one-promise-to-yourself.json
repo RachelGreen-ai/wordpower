@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-one-promise-to-yourself",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep One Promise to Yourself",
+    "zh": "守住一个对自己的承诺"
+  },
+  "subtitle": {
+    "en": "An original reflection on self-trust, modest habits, and becoming someone whose own word has weight.",
+    "zh": "一篇原创美文：关于自我信任、微小习惯，以及如何让自己说出的话有分量。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Self-trust",
+    "Habits",
+    "Integrity",
+    "Growth",
+    "Discipline"
+  ],
+  "sources": [
+    {
+      "title": "The Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/20203",
+      "note": {
+        "en": "Public-domain inspiration for practical self-examination and the imperfect practice of habits; this lesson's prose and framework are entirely original.",
+        "zh": "灵感来自这部公开领域作品中务实的自省与并不完美的习惯练习；本课文字与框架完全原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read without self-accusation. Use a steady, companionable voice, as if helping someone begin again this morning.",
+    "zh": "不要带着自我责备朗读。声音要稳定、亲切，像在帮助一个人从今天早晨重新开始。"
+  },
+  "passage": {
+    "title": {
+      "en": "Evidence You Can Believe",
+      "zh": "你能够相信的证据"
+    },
+    "intro": {
+      "en": "This original passage explores how self-trust grows through small evidence rather than dramatic declarations.",
+      "zh": "这篇原创文章探讨：自我信任如何通过微小的证据，而非戏剧性的宣言，一点点生长。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Confidence Has a Memory",
+          "zh": "1. 信心拥有记忆"
+        },
+        "text": "When you promise yourself an hour of study and quietly abandon it, no judge enters the room. Still, some inward witness takes note. The next promise arrives with less authority. This is why confidence cannot be built entirely from encouraging sentences. It has a memory. It remembers the walk taken in bad weather, the difficult message sent with courtesy, and the page completed when applause was absent. It also remembers our elegant excuses. Self-trust is not a mood we summon before a challenge. It is a conclusion drawn from the evidence of how we have treated our own word.",
+        "coaching": {
+          "en": "Keep the opening intimate, never severe. Build clear emphasis through the remembered examples, then land firmly on our own word.",
+          "zh": "开头要亲近，绝不严厉。几个被记住的例子要逐层加重，最后稳稳落在 our own word 上。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make the Promise Smaller",
+          "zh": "2. 把承诺变小"
+        },
+        "text": "We often respond to disappointment by making a larger vow. Tomorrow I will rise at five, exercise, study two languages, and repair my entire life before breakfast. The scale feels noble because it postpones the test. Choose a promise small enough to meet today: ten attentive minutes, one honest paragraph, shoes placed beside the door. Small does not mean trivial. A bridge is trusted because each joint holds the weight assigned to it. Let today's promise carry today's weight. You are not trying to impress the future. You are giving tomorrow a reason to believe you.",
+        "coaching": {
+          "en": "Let the oversized vow sound lightly comic, not contemptuous. Slow down for the bridge image and warm the final sentence.",
+          "zh": "夸张的誓言要读出轻微幽默，不要嘲讽。桥的意象处放慢，最后一句加入暖意。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Record Without Drama",
+          "zh": "3. 不带戏剧性地记录"
+        },
+        "text": "Keep a plain record. Did you do what you said? Write yes or no, perhaps one useful sentence about the conditions. Resist turning a missed day into a character trial. You are collecting information, not composing a verdict. Was the promise unclear? Did it depend on energy you rarely have at night? Did fear disguise itself as busyness? Honest measurement removes the fog in which both pride and shame prefer to operate. A record should make the next attempt more intelligent. Its purpose is not to prove that you are good. Its purpose is to help you become dependable.",
+        "coaching": {
+          "en": "Use a clean, practical tone for the questions. Contrast collecting information with composing a verdict, and finish with quiet resolve.",
+          "zh": "几个问题要用干净、务实的语气。突出 collecting information 与 composing a verdict 的对比，结尾安静而坚定。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Begin Again at the Next Door",
+          "zh": "4. 在下一扇门前重新开始"
+        },
+        "text": "A broken promise matters, but it need not become an identity. Repair begins at the next available door, not at some ceremonial Monday. Apologize if another person carried the cost. Adjust the promise if reality exposed a flaw. Then perform one trustworthy action before your disappointment grows theatrical. Over time, these actions form a voice inside you—neither flattering nor cruel—that can say, We have been here before. We know how to proceed. That voice is quieter than sudden confidence, but far more useful. It does not guarantee success. It assures you that, whatever comes, you will remain present for the work.",
+        "coaching": {
+          "en": "Give the repair steps calm forward motion. Voice the two inner sentences with earned reassurance, then end on present for the work.",
+          "zh": "修复步骤要读出平静的向前感。两句内心话要有经过行动赢得的安定，最后落在 present for the work。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "authority",
+      "meaning": {
+        "en": "The power to influence because something is trusted or respected.",
+        "zh": "因受到信任或尊重而具有的影响力。"
+      },
+      "use": {
+        "en": "Her calm experience gave the advice authority.",
+        "zh": "她沉着的经验让这条建议有了分量。"
+      }
+    },
+    {
+      "term": "summon",
+      "meaning": {
+        "en": "To call up a feeling, quality, or person when needed.",
+        "zh": "召唤；鼓起某种情绪或品质。"
+      },
+      "use": {
+        "en": "He summoned the courage to speak plainly.",
+        "zh": "他鼓起勇气坦率地说了出来。"
+      }
+    },
+    {
+      "term": "trivial",
+      "meaning": {
+        "en": "Too small or unimportant to deserve much attention.",
+        "zh": "微不足道的；琐碎的。"
+      },
+      "use": {
+        "en": "A short daily practice is not trivial.",
+        "zh": "每天短暂的练习并非微不足道。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment or decision about something.",
+        "zh": "裁决；最终判断。"
+      },
+      "use": {
+        "en": "One mistake is evidence, not a verdict.",
+        "zh": "一次错误是证据，不是判决。"
+      }
+    },
+    {
+      "term": "dependable",
+      "meaning": {
+        "en": "Able to be trusted to do what is expected.",
+        "zh": "可靠的；值得信赖的。"
+      },
+      "use": {
+        "en": "She became dependable through ordinary choices.",
+        "zh": "她通过日常选择变得可靠。"
+      }
+    },
+    {
+      "term": "ceremonial",
+      "meaning": {
+        "en": "Connected with formal ritual rather than practical necessity.",
+        "zh": "仪式性的；重形式的。"
+      },
+      "use": {
+        "en": "You do not need a ceremonial beginning.",
+        "zh": "你不需要一个仪式感十足的开端。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use firm contrastive stress in evidence, not a verdict and good, not dependable.",
+      "zh": "在 evidence, not a verdict 和 good, not dependable 中使用坚定的对比重音。"
+    },
+    {
+      "en": "Keep consonant clusters clear in trusts, asks, missed, and next door.",
+      "zh": "读 trusts、asks、missed 和 next door 时，辅音连缀要清晰。"
+    },
+    {
+      "en": "Let the voice fall gently on the short questions Did you do what you said? and Was the promise unclear?",
+      "zh": "读 Did you do what you said? 和 Was the promise unclear? 时，语调轻柔下降。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice must be honest enough to guide and kind enough to be heard.",
+      "zh": "跟读时，想象你的声音既要诚实得足以指引，也要温和得让人愿意听见。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the pace steady through the concrete evidence.",
+        "zh": "第一遍：读具体证据时保持稳定节奏。"
+      },
+      {
+        "en": "Pass two: make the oversized promise playful, then return to practical calm.",
+        "zh": "第二遍：把夸张的承诺读得轻松，再回到务实的平静。"
+      },
+      {
+        "en": "Pass three: let the inner voice sound earned rather than inspirational.",
+        "zh": "第三遍：让内心的声音听起来是通过行动赢得的，而非空泛励志。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What small promise could you reliably keep before the day ends?",
+      "zh": "今天结束之前，你能可靠地守住哪一个小承诺？"
+    },
+    {
+      "en": "What does your recent evidence teach you about the conditions in which you do your best work?",
+      "zh": "最近的行动证据告诉你：在什么条件下，你最能做好自己的工作？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-one-promise-to-yourself/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-one-promise-to-yourself/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-one-promise-to-yourself/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-one-promise-to-yourself/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-one-promise-to-yourself/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-one-promise-to-yourself/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-one-promise-to-yourself/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-one-promise-to-yourself/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-one-promise-to-yourself/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-one-promise-to-yourself/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-one-promise-to-yourself/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-one-promise-to-yourself/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-one-promise-to-yourself/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-one-promise-to-yourself/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-one-promise-to-yourself/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-one-promise-to-yourself/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-one-promise-to-yourself/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-one-promise-to-yourself/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-one-promise-to-yourself/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-one-promise-to-yourself/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-one-promise-to-yourself/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-one-promise-to-yourself/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-one-promise-to-yourself/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-one-promise-to-yourself/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-one-promise-to-yourself/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-one-promise-to-yourself/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-one-promise-to-yourself/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-one-promise-to-yourself/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-one-promise-to-yourself/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-one-promise-to-yourself/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-one-promise-to-yourself/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-one-promise-to-yourself/clips/sources_0.mp3"
+    }
+  }
+}

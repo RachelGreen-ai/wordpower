@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-a-honest-edge",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave an Honest Edge",
+    "zh": "留下一道诚实的边缘"
+  },
+  "subtitle": {
+    "en": "An original reflection on craft, revision, and making work that still bears the warmth of a human hand.",
+    "zh": "一篇原创美文：关于手艺、修改，以及如何让作品保留人手的温度。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Art",
+    "Craft",
+    "Creativity",
+    "Revision",
+    "Patience"
+  ],
+  "sources": [
+    {
+      "title": "The Stones of Venice, Volume I",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30754",
+      "note": {
+        "en": "Public-domain inspiration for thinking about craftsmanship, visible labor, and humane imperfection; all prose and examples here are original.",
+        "zh": "灵感来自这部公开领域作品对手艺、可见劳动与人性化不完美的思考；本课文字与例子均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with the concentration of someone shaping a useful object. Let exact details carry more weight than grand declarations.",
+    "zh": "像一个正在打磨实用器物的人那样专注地朗读。让准确的细节比宏大的宣言更有分量。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Mark of the Maker",
+      "zh": "制作者留下的痕迹"
+    },
+    "intro": {
+      "en": "This original passage asks what gives handmade work its life: not carelessness, but disciplined choices that remain visibly human.",
+      "zh": "这篇原创文章追问：是什么赋予手工作品生命？不是草率，而是那些仍看得见人性的、经过训练的选择。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin with the Material",
+          "zh": "1. 从材料开始"
+        },
+        "text": "Before the potter forms an idea, the clay has already spoken. It is cool, heavy, and willing to bend only so far before it tears. Wood carries a grain. Wool remembers the animal and the weather. Even a paragraph has material: breath, consonants, silence, and the listener's limited attention. Good makers do not bully these facts into obedience. They test, listen, and adjust. Skill begins when ambition meets the actual substance of the work. The question is not merely, What do I want to make? It is also, What can this material become without losing its nature?",
+        "coaching": {
+          "en": "Give the opening materials a tactile, measured rhythm. Slow slightly for the two final questions and distinguish want from can become.",
+          "zh": "开头几种材料要读出可触摸、从容的节奏。最后两个问题稍微放慢，并区分 want 与 can become。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Revise toward Life",
+          "zh": "2. 向着生命力修改"
+        },
+        "text": "Revision is often described as correction, as though the first attempt were a room full of mistakes. A better image is tuning. Tighten the string until the note becomes clear, but stop before it snaps. Remove the sentence that performs intelligence without serving the reader. Smooth the rough corner that catches a hand, but keep the curve that gives the object character. Each change should recover the work's intention, not erase its history. Perfection can become a kind of silence: polished, flawless, and strangely unable to answer when someone asks who made it and why.",
+        "coaching": {
+          "en": "Let tuning guide the musical pace. Make the contrast between clarity and snapping audible, then soften into the final question.",
+          "zh": "让 tuning 带出音乐般的节奏。清楚读出清晰与绷断之间的对比，最后的问题则收柔。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Keep One Trace of the Hand",
+          "zh": "3. 留下一处手的痕迹"
+        },
+        "text": "Look closely at an old table. One joint may sit a fraction proud of the surface; a faint pencil mark may survive beneath a drawer. Such traces are not excuses for weak work. They are evidence of judgment under real conditions: one pair of eyes, one afternoon's light, one decision made and carried through. In your own work, leave room for a living edge. Keep the surprising phrase that earns its surprise. Let a presentation contain one honest uncertainty. Allow your voice to reveal that a person, not a machine of perfect confidence, considered the matter carefully.",
+        "coaching": {
+          "en": "Read the table details with quiet intimacy. Give each example of a living edge a calm, deliberate emphasis.",
+          "zh": "桌子的细节要读得安静而亲近。几个“有生命的边缘”的例子都要平静而有意地重读。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Offer Something That Can Be Used",
+          "zh": "4. 交出一件能被使用的作品"
+        },
+        "text": "A crafted thing completes itself in another person's life. The bowl meets soup and a cold evening. The song meets a listener who needed company. The clear report reaches a colleague facing a difficult choice. This is why beauty and usefulness need not quarrel. Beauty invites attention; usefulness rewards it. Finish your work well enough that it can leave you. Then release it without pretending it descended untouched from a cloud. Let it carry the care, the limits, and the unmistakable pressure of your hand. An honest edge does not diminish the gift. It tells the receiver that another human being was here.",
+        "coaching": {
+          "en": "Warm the three meetings between objects and people. Finish simply and firmly, placing gentle weight on another human being was here.",
+          "zh": "三组作品与人的相遇要读出暖意。结尾朴素而坚定，在 another human being was here 上轻轻落重音。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "grain",
+      "meaning": {
+        "en": "The natural lines and texture in wood or another material.",
+        "zh": "木材或其他材料中的天然纹理。"
+      },
+      "use": {
+        "en": "Cut with the grain rather than against it.",
+        "zh": "顺着纹理切，而不要逆着它。"
+      }
+    },
+    {
+      "term": "substance",
+      "meaning": {
+        "en": "The real material or essential nature of something.",
+        "zh": "实际材料；事物的本质。"
+      },
+      "use": {
+        "en": "The plan must respect the substance of the problem.",
+        "zh": "计划必须尊重问题的实际本质。"
+      }
+    },
+    {
+      "term": "tuning",
+      "meaning": {
+        "en": "Adjusting something until it works or sounds correctly.",
+        "zh": "调校；调整到合适状态。"
+      },
+      "use": {
+        "en": "The proposal needs tuning, not a complete rewrite.",
+        "zh": "这份提案需要微调，而不是彻底重写。"
+      }
+    },
+    {
+      "term": "flawless",
+      "meaning": {
+        "en": "Without any visible fault or imperfection.",
+        "zh": "毫无瑕疵的。"
+      },
+      "use": {
+        "en": "Her delivery was polished but not flawless.",
+        "zh": "她的表达很成熟，但并非毫无瑕疵。"
+      }
+    },
+    {
+      "term": "deliberate",
+      "meaning": {
+        "en": "Done consciously and with careful intention.",
+        "zh": "审慎的；有意识而为的。"
+      },
+      "use": {
+        "en": "The pause was deliberate, not uncertain.",
+        "zh": "那个停顿是有意的，并非犹豫。"
+      }
+    },
+    {
+      "term": "diminish",
+      "meaning": {
+        "en": "To make something seem smaller or less important.",
+        "zh": "削弱；贬低。"
+      },
+      "use": {
+        "en": "Honest limits do not diminish the achievement.",
+        "zh": "坦诚说明局限并不会削弱这项成就。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants distinct in craft, grain, snapped, and gift.",
+      "zh": "读 craft、grain、snapped 和 gift 时，尾辅音要清晰。"
+    },
+    {
+      "en": "Use contrastive stress in beauty invites attention; usefulness rewards it.",
+      "zh": "在 beauty invites attention; usefulness rewards it 中使用对比重音。"
+    },
+    {
+      "en": "Link smoothly in phrases such as an honest edge and another human being.",
+      "zh": "在 an honest edge 和 another human being 等短语中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if each sentence were an object you are placing carefully into a listener's hands.",
+      "zh": "跟读时，想象每个句子都是一件你正小心放进听者手中的物品。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the concrete materials feel weighty and specific.",
+        "zh": "第一遍：把具体材料读出重量与质感。"
+      },
+      {
+        "en": "Pass two: sharpen the contrasts between care and perfection.",
+        "zh": "第二遍：突出用心与完美之间的对比。"
+      },
+      {
+        "en": "Pass three: let the final paragraph sound generous, useful, and complete.",
+        "zh": "第三遍：让最后一段听起来慷慨、实用而完整。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where has polishing improved your work, and where has it removed some life?",
+      "zh": "打磨在哪些地方改善了你的作品，又在哪些地方磨掉了一些生命力？"
+    },
+    {
+      "en": "What honest edge would you choose to keep in something you are making now?",
+      "zh": "在你正在创作的作品中，你会选择保留哪一道诚实的边缘？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-a-honest-edge/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-a-honest-edge/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-a-honest-edge/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-a-honest-edge/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-a-honest-edge/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-a-honest-edge/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-a-honest-edge/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-a-honest-edge/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-a-honest-edge/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-a-honest-edge/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-a-honest-edge/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-a-honest-edge/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-a-honest-edge/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-a-honest-edge/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-a-honest-edge/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-a-honest-edge/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-a-honest-edge/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-a-honest-edge/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-a-honest-edge/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-a-honest-edge/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-a-honest-edge/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-a-honest-edge/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-a-honest-edge/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-a-honest-edge/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-a-honest-edge/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-a-honest-edge/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-a-honest-edge/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-a-honest-edge/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-a-honest-edge/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-a-honest-edge/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-a-honest-edge/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-a-honest-edge/clips/sources_0.mp3"
+    }
+  }
+}
