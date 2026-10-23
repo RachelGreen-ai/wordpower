@@ -1,0 +1,244 @@
+{
+  "lessonId": "set-one-more-place",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Set One More Place",
+    "zh": "再多摆一个座位"
+  },
+  "subtitle": {
+    "en": "An original reflection on hospitality, belonging, and the small civic art of making room.",
+    "zh": "一篇原创美文：关于待客之道、归属感，以及为他人腾出空间这种微小的公民艺术。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Community",
+    "Hospitality",
+    "Belonging",
+    "Citizenship",
+    "Kindness"
+  ],
+  "sources": [
+    {
+      "title": "Twenty Years at Hull-House",
+      "author": "Jane Addams",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1325",
+      "note": {
+        "en": "Public-domain inspiration for neighborly life, democratic fellowship, and practical hospitality; the prose and scenes here are entirely original.",
+        "zh": "灵感来自这部公开领域作品中关于邻里生活、民主友爱与实际待客之道的思想；本课文字与场景均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with generous steadiness. Let the ordinary objects carry the meaning; do not make the kindness sound grand.",
+    "zh": "以慷慨而沉稳的语气朗读。让日常物件承载意义，不要把善意读得过于宏大。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Architecture of Welcome",
+      "zh": "欢迎的建筑学"
+    },
+    "intro": {
+      "en": "This original passage notices how belonging is built through small arrangements: a chair, a name remembered, a rule explained, and space made before it is requested.",
+      "zh": "这篇原创文章观察归属感如何由细小安排建成：一把椅子、一个被记住的名字、一条被解释的规则，以及在开口请求之前就腾出的空间。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Before the Knock",
+          "zh": "1. 在敲门之前"
+        },
+        "text": "Hospitality begins before anyone knocks. It lives in the extra cup within reach, the coat hook left empty, the sign written so a newcomer can understand it. These arrangements seem too small to carry an idea as large as welcome. Yet a room reveals its expectations quietly. Some rooms ask a stranger to prove that they belong. Others have already set one more place. The difference may be no more than a chair turned toward the circle, but the body understands it before the mind finds words.",
+        "coaching": {
+          "en": "Read the objects slowly enough to make them visible. Warm the phrase already set one more place.",
+          "zh": "几个物件要读得足够慢，让人看得见。读 already set one more place 时语气变暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Explain the Unwritten Rule",
+          "zh": "2. 解释那条不成文的规则"
+        },
+        "text": "Every community has invisible doors. Regulars know when to speak, where to stand, which joke is affectionate, and whom to ask for help. A newcomer sees only confident movement and may mistake confusion for personal failure. Welcome becomes practical when someone explains the unwritten rule without displaying superiority. We usually begin here. You can leave your bag beside mine. That simple guidance lends a map without making the traveler feel foolish. Belonging grows when knowledge is shared as a tool, not guarded as proof of rank.",
+        "coaching": {
+          "en": "Keep the list of invisible rules light and observant. Make the spoken guidance natural and easy.",
+          "zh": "不成文规则的列举要轻巧而敏锐。直接说出的指引要自然、轻松。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Learn the Shape of a Name",
+          "zh": "3. 记住一个名字的形状"
+        },
+        "text": "A name remembered is another kind of chair. It says that a person has not dissolved into the category of guest, intern, neighbor, or foreigner. Ask how the name is pronounced, then listen closely enough to change your mouth. The effort may be brief, but it reverses a common burden: the newcomer no longer has to become easier for everyone else. Attention travels toward them. In that small journey, difference stops being an inconvenience and becomes a fact the room is capable of holding.",
+        "coaching": {
+          "en": "Treat the name-and-chair image gently. Give change your mouth respectful emphasis, never comic exaggeration.",
+          "zh": "温柔地处理名字与椅子的意象。尊重地重读 change your mouth，绝不要夸张逗趣。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Larger Table",
+          "zh": "4. 一张更大的桌子"
+        },
+        "text": "No table can expand without limit. Time, money, and energy are real, and welcome without boundaries soon becomes exhaustion. But within our limits, we can ask a useful question: Who is doing all the adapting? Perhaps the meeting time always suits the same lives. Perhaps one confident voice fills every pause. Perhaps the tradition we treasure has become an entrance exam. To set one more place is not merely to add a chair; it is to adjust the arrangement so another person can arrive as themselves. This is how a household becomes a neighborhood and a group becomes a public. Civilization is built in laws and institutions, but it is rehearsed whenever someone looks around the table and moves over.",
+        "coaching": {
+          "en": "Give the questions practical seriousness. Let the final sentence broaden naturally from table to civic life.",
+          "zh": "几个问题要读出务实的认真。最后一句从餐桌自然拓展到公共生活。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "within reach",
+      "meaning": {
+        "en": "Close enough to be touched or obtained easily.",
+        "zh": "伸手可及；容易取得。"
+      },
+      "use": {
+        "en": "Keep a notebook within reach during the call.",
+        "zh": "通话时把笔记本放在伸手可及的地方。"
+      }
+    },
+    {
+      "term": "newcomer",
+      "meaning": {
+        "en": "A person who has recently arrived or joined.",
+        "zh": "新来的人；新成员。"
+      },
+      "use": {
+        "en": "She introduced the newcomer to the whole team.",
+        "zh": "她把新成员介绍给了整个团队。"
+      }
+    },
+    {
+      "term": "unwritten rule",
+      "meaning": {
+        "en": "A custom understood by a group but not formally stated.",
+        "zh": "群体默认但未正式写明的规则。"
+      },
+      "use": {
+        "en": "No one had explained the office’s unwritten rule.",
+        "zh": "没人解释过办公室里的那条不成文规则。"
+      }
+    },
+    {
+      "term": "superiority",
+      "meaning": {
+        "en": "The belief or state of being better than others.",
+        "zh": "优越感；优于他人的状态。"
+      },
+      "use": {
+        "en": "He offered advice without an air of superiority.",
+        "zh": "他提供建议时没有摆出优越姿态。"
+      }
+    },
+    {
+      "term": "dissolve",
+      "meaning": {
+        "en": "To disappear into something larger or lose a distinct form.",
+        "zh": "消散；融入更大的整体而失去清晰形态。"
+      },
+      "use": {
+        "en": "Individual voices should not dissolve into the group.",
+        "zh": "个人的声音不应消失在群体之中。"
+      }
+    },
+    {
+      "term": "rehearse",
+      "meaning": {
+        "en": "To practice something in preparation for real use.",
+        "zh": "排练；为实际使用而练习。"
+      },
+      "use": {
+        "en": "Daily choices rehearse the values we claim.",
+        "zh": "日常选择演练着我们所宣称的价值。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the rhythm smooth in the extra cup within reach and the coat hook left empty.",
+      "zh": "读 the extra cup within reach 和 the coat hook left empty 时保持流畅节奏。"
+    },
+    {
+      "en": "Stress the first syllable in newcomer and the second syllable in superiority.",
+      "zh": "newcomer 重读第一音节，superiority 重读第二音节。"
+    },
+    {
+      "en": "Build a gentle three-part rise in household, neighborhood, and public.",
+      "zh": "在 household、neighborhood 和 public 的三段递进中，语势温和上扬。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are welcoming one thoughtful person into a room they do not yet know.",
+      "zh": "跟读时，想象你正在欢迎一位体贴的人走进一个尚不熟悉的房间。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make each ordinary object clear and quietly meaningful.",
+        "zh": "第一遍：把每件日常物品读得清晰，并带出安静的意义。"
+      },
+      {
+        "en": "Pass two: let the practical guidance sound natural, never patronizing.",
+        "zh": "第二遍：让实用指引听起来自然，绝不居高临下。"
+      },
+      {
+        "en": "Pass three: widen the voice gradually from one chair to civic belonging.",
+        "zh": "第三遍：让声音从一把椅子逐步拓展到公民归属。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which unwritten rule could you explain kindly to a newcomer?",
+      "zh": "你可以向新来的人善意解释哪一条不成文的规则？"
+    },
+    {
+      "en": "Where could you make room before someone has to ask?",
+      "zh": "你可以在哪里先腾出空间，而不必等别人开口请求？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/set-one-more-place/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/set-one-more-place/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/set-one-more-place/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/set-one-more-place/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/set-one-more-place/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/set-one-more-place/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/set-one-more-place/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/set-one-more-place/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/set-one-more-place/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/set-one-more-place/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/set-one-more-place/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/set-one-more-place/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/set-one-more-place/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/set-one-more-place/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/set-one-more-place/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/set-one-more-place/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/set-one-more-place/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/set-one-more-place/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/set-one-more-place/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/set-one-more-place/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/set-one-more-place/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/set-one-more-place/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/set-one-more-place/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/set-one-more-place/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/set-one-more-place/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/set-one-more-place/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/set-one-more-place/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/set-one-more-place/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/set-one-more-place/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/set-one-more-place/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/set-one-more-place/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/set-one-more-place/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "carry-a-lantern-not-a-verdict",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Carry a Lantern, Not a Verdict",
+    "zh": "带一盏灯，而不是一纸判决"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, incomplete stories, and the discipline of seeing people whole.",
+    "zh": "一篇原创美文：关于道德想象、不完整的故事，以及看见一个完整之人的修养。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Empathy",
+    "Moral Imagination",
+    "Judgment",
+    "Character",
+    "Perspective"
+  ],
+  "sources": [
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/145",
+      "note": {
+        "en": "Public-domain inspiration for moral imagination and the hidden complexity of ordinary lives; no source wording is reproduced.",
+        "zh": "灵感来自这部公开领域小说中对道德想象与普通人生隐秘复杂性的关注；本课未复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with humane curiosity. Avoid sentimentality; the compassion should feel observant and earned.",
+    "zh": "以有人情味的好奇心朗读。避免煽情；同情应来自细致观察，显得真实而有依据。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Rooms We Cannot See",
+      "zh": "我们看不见的房间"
+    },
+    "intro": {
+      "en": "This original passage asks what changes when we treat another person not as a finished judgment, but as a house with rooms beyond our view.",
+      "zh": "这篇原创文章追问：当我们不把他人视作一个已下定论的判断，而把他们看作一座仍有房间在视线之外的房子，会发生什么变化。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Single Lit Window",
+          "zh": "1. 唯一亮着的窗"
+        },
+        "text": "We often meet a person through one lit window. A colleague interrupts us in a meeting. A neighbor leaves the gate open again. A stranger speaks sharply to a tired cashier. The visible act is real; imagination should not erase it. But one window is not the whole house. Behind it may be a room of fear, habit, pride, grief, or simple carelessness. We do not know which. The danger begins when certainty rushes in where knowledge has stopped, furnishing every unseen room with the same dark furniture.",
+        "coaching": {
+          "en": "Keep the examples concrete and unsentimental. Slow slightly through the house image and stress certainty.",
+          "zh": "例子要读得具体、不煽情。进入房屋意象时稍微放慢，并重读 certainty。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Imagination With a Backbone",
+          "zh": "2. 有脊梁的想象力"
+        },
+        "text": "Moral imagination is not the invention of excuses. It does not ask us to call harm harmless or remain where respect is absent. It asks for a stronger feat: to hold two truths without dropping either. This action caused damage. This person is larger than the action. Such thinking requires a backbone because simple villains make clean stories. Whole human beings make untidy ones. Their tenderness may live beside vanity; their courage beside avoidance. To see this mixture in others is also to recognize the unfinished country inside ourselves.",
+        "coaching": {
+          "en": "Give the two truths equal weight. Make backbone firm, then soften into the recognition of shared complexity.",
+          "zh": "两条真相要读得同样有分量。backbone 要坚定，随后转入对共同复杂性的温和认识。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask for Another Window",
+          "zh": "3. 再找一扇窗"
+        },
+        "text": "When judgment arrives too quickly, ask for another window. What pattern came before this moment? What responsibility does the person accept afterward? How do they behave when no advantage is offered? Context does not remove consequence, but it improves proportion. A repeated cruelty should not be mistaken for a difficult afternoon. Nor should one difficult afternoon become a permanent name. We need enough light to tell the difference. Patience is not endless delay; it is the refusal to declare the picture complete while essential details are still in shadow.",
+        "coaching": {
+          "en": "Let each question investigate rather than accuse. Contrast repeated cruelty with difficult afternoon clearly.",
+          "zh": "每个问题都要读出探究感，而不是指控。清晰读出 repeated cruelty 与 difficult afternoon 的对比。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Lantern We Carry",
+          "zh": "4. 我们手中的灯"
+        },
+        "text": "We cannot enter every hidden room, and we should not pretend to. Humility is part of accurate seeing. Still, we can choose what we carry toward another life. A verdict closes the door and leaves us certain in the dark. A lantern admits that darkness remains, then helps us take the next honest step. We can name harm, protect a boundary, offer repair, or walk away without reducing a person to the worst thing we know about them. This is not softness. It is moral precision: the courage to judge actions carefully while leaving human beings larger than our judgment.",
+        "coaching": {
+          "en": "Read the verdict and lantern contrast with spacious clarity. Finish moral precision with calm conviction.",
+          "zh": "判决与灯笼的对比要读得开阔清楚。以平静而确信的语气收束 moral precision。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "erase",
+      "meaning": {
+        "en": "To remove or make something disappear.",
+        "zh": "擦除；使某事消失。"
+      },
+      "use": {
+        "en": "Understanding context does not erase the harm.",
+        "zh": "理解背景并不会抹去伤害。"
+      }
+    },
+    {
+      "term": "furnish",
+      "meaning": {
+        "en": "To fill or provide a room with what it needs.",
+        "zh": "为房间布置或配备物品。"
+      },
+      "use": {
+        "en": "Do not furnish the unknown with your worst fears.",
+        "zh": "不要用最坏的恐惧填满未知。"
+      }
+    },
+    {
+      "term": "backbone",
+      "meaning": {
+        "en": "Strength of character and courage.",
+        "zh": "品格上的坚定与勇气；骨气。"
+      },
+      "use": {
+        "en": "Compassion needs a backbone as well as a heart.",
+        "zh": "同情心既需要心，也需要脊梁。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "A fair relationship between importance, size, or degree.",
+        "zh": "重要性、大小或程度之间恰当的比例。"
+      },
+      "use": {
+        "en": "Distance helped her see the problem in proportion.",
+        "zh": "距离让她能以恰当的分寸看待问题。"
+      }
+    },
+    {
+      "term": "humility",
+      "meaning": {
+        "en": "A willingness to accept the limits of one’s knowledge or importance.",
+        "zh": "愿意承认自身知识或重要性有限的谦逊。"
+      },
+      "use": {
+        "en": "He had the humility to revise his first impression.",
+        "zh": "他谦逊地修正了第一印象。"
+      }
+    },
+    {
+      "term": "moral precision",
+      "meaning": {
+        "en": "Careful, accurate judgment about right action and human responsibility.",
+        "zh": "对正确行动与人的责任所作的谨慎、准确判断。"
+      },
+      "use": {
+        "en": "The decision required compassion and moral precision.",
+        "zh": "这个决定既需要同情心，也需要道德上的准确判断。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the stress clear in imagination, responsibility, and humility.",
+      "zh": "读 imagination、responsibility 和 humility 时，重音要清晰。"
+    },
+    {
+      "en": "Use balanced stress in This action caused damage; this person is larger than the action.",
+      "zh": "在 This action caused damage; this person is larger than the action 中使用平衡的重音。"
+    },
+    {
+      "en": "Link naturally in one lit window, enough light, and next honest step.",
+      "zh": "自然连读 one lit window、enough light 和 next honest step。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are widening a listener’s view without denying what is difficult or true.",
+      "zh": "跟读时，想象你正在拓宽听者的视野，同时不否认困难与事实。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the opening observations exact and free of melodrama.",
+        "zh": "第一遍：让开头的观察准确，避免戏剧化。"
+      },
+      {
+        "en": "Pass two: balance firmness and compassion in the paired truths.",
+        "zh": "第二遍：在成对的真相中平衡坚定与同情。"
+      },
+      {
+        "en": "Pass three: widen the pace through the final lantern image.",
+        "zh": "第三遍：在最后的灯笼意象中舒展开节奏。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where might one visible action be standing in for a whole person in your mind?",
+      "zh": "在你的心里，哪一个可见行为可能正代替了一个完整的人？"
+    },
+    {
+      "en": "What additional window would help you judge a difficult situation more accurately?",
+      "zh": "再看哪一扇窗，能帮助你更准确地判断一个困难情境？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/carry-a-lantern-not-a-verdict/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/carry-a-lantern-not-a-verdict/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "speak-at-the-temperature-of-truth",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Speak at the Temperature of Truth",
+    "zh": "以真相的温度说话"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm communication, honest disagreement, and words that leave dignity intact.",
+    "zh": "一篇原创美文：关于平静沟通、诚实分歧，以及如何让言语保全彼此的尊严。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Calm",
+    "Courage",
+    "Listening",
+    "Relationships"
+  ],
+  "sources": [
+    {
+      "title": "The Enchiridion",
+      "author": "Epictetus",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/45109",
+      "note": {
+        "en": "Public-domain inspiration for distinguishing events from our judgments about them; the situations and wording here are entirely original.",
+        "zh": "灵感来自这部公开领域作品中区分事件与主观判断的思想；本课情境与文字均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with contained warmth. Let firmness come from precision rather than volume.",
+    "zh": "以克制的温暖朗读。坚定感应来自准确，而不是音量。"
+  },
+  "passage": {
+    "title": {
+      "en": "When the Room Grows Hot",
+      "zh": "当房间里的气氛升温"
+    },
+    "intro": {
+      "en": "This original passage offers a practical voice for difficult conversations: cool enough to think, warm enough to care, and clear enough to be trusted.",
+      "zh": "这篇原创文章为艰难对话提供一种实用的声音：冷静到足以思考，温暖到仍有关怀，清晰到值得信任。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Heat Arrives First",
+          "zh": "1. 情绪先抵达"
+        },
+        "text": "A difficult conversation often begins before the first sentence. A late reply, a changed plan, or a careless remark has already entered the body. The jaw tightens. The mind prepares evidence for a trial no one agreed to attend. By the time we speak, we may be answering not only what happened, but every earlier moment that resembles it. This is why volume can feel like clarity. Heat gathers scattered hurts into one bright flame. Yet a flame shows that something matters; it does not show us exactly what is true.",
+        "coaching": {
+          "en": "Begin with quiet recognition. Build energy through the physical details, then cool the pace at Yet a flame.",
+          "zh": "开头读出安静的认同感。身体细节处逐渐积蓄能量，到 Yet a flame 时放慢、降温。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Name What the Camera Saw",
+          "zh": "2. 说出镜头真正看见的事"
+        },
+        "text": "Before offering a verdict, describe what a camera might have recorded. You arrived after the meeting began. I asked twice and heard no answer. We agreed on Friday, and the work came on Monday. Such sentences are modest, but they create solid ground. They do not claim to know another person’s motives. They leave room for information we do not yet possess. Then add the human consequence without decoration: I felt unprepared. I worried that my time did not matter. Accuracy lowers the temperature because neither person must fight a story in order to discuss an event.",
+        "coaching": {
+          "en": "Give the factual examples an even, unhurried rhythm. Stress solid ground and human consequence.",
+          "zh": "事实例句要读得平稳、不急。重读 solid ground 和 human consequence。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Make a Door, Not a Corner",
+          "zh": "3. 留一扇门，不要逼进墙角"
+        },
+        "text": "A cornered person rarely becomes wiser. Ask a question that opens a door: What was happening from your side? Is there something I have missed? Listening does not cancel your position. It tests whether your position can survive contact with a fuller reality. You may learn that the delay had a reason. You may also learn that no good reason exists. Either way, curiosity has done useful work. It has separated explanation from excuse and intention from effect. Now your boundary can be firm without pretending that the other person is simple.",
+        "coaching": {
+          "en": "Let the questions sound genuinely open. Contrast explanation with excuse and intention with effect.",
+          "zh": "两个问题要读出真正的开放感。把 explanation 与 excuse、intention 与 effect 读出对比。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave Dignity in the Room",
+          "zh": "4. 让尊严留在房间里"
+        },
+        "text": "The aim of a hard conversation is not to make discomfort disappear. Sometimes truth is uncomfortable because a promise was broken or a pattern must end. The aim is to speak at the temperature of truth: no colder than honesty, no hotter than the facts. Say what needs to change. Say what you will do if it does not. Refuse the little cruelties that add pain but no understanding. A conversation may still end in disagreement, distance, or goodbye. Even then, dignity can remain in the room like a chair neither person overturned. Later, when the heat has passed, that chair may be the first place from which trust can begin again.",
+        "coaching": {
+          "en": "Build calm authority through the short commands. Let the final chair image settle with restraint and possibility.",
+          "zh": "用几个短指令建立平静的权威感。最后的椅子意象要克制地落下，并保留可能性。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment or decision.",
+        "zh": "最终的判断或裁决。"
+      },
+      "use": {
+        "en": "Ask one more question before delivering a verdict.",
+        "zh": "在下结论之前，再问一个问题。"
+      }
+    },
+    {
+      "term": "solid ground",
+      "meaning": {
+        "en": "A reliable basis for thought or action.",
+        "zh": "思考或行动的可靠基础。"
+      },
+      "use": {
+        "en": "Shared facts gave the discussion solid ground.",
+        "zh": "共同认可的事实为讨论提供了坚实基础。"
+      }
+    },
+    {
+      "term": "possess",
+      "meaning": {
+        "en": "To have or own something.",
+        "zh": "拥有；具备。"
+      },
+      "use": {
+        "en": "We may not possess the whole story yet.",
+        "zh": "我们可能还没有掌握完整的故事。"
+      }
+    },
+    {
+      "term": "cornered",
+      "meaning": {
+        "en": "Trapped with little room to respond or escape.",
+        "zh": "被逼入困境、几乎没有回应或退路的。"
+      },
+      "use": {
+        "en": "The accusation made him feel cornered.",
+        "zh": "这项指责让他感到被逼到了墙角。"
+      }
+    },
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "Calm control over one’s words or actions.",
+        "zh": "对言语或行动的冷静克制。"
+      },
+      "use": {
+        "en": "She answered the criticism with restraint.",
+        "zh": "她克制地回应了批评。"
+      }
+    },
+    {
+      "term": "dignity",
+      "meaning": {
+        "en": "The state of being worthy of respect.",
+        "zh": "值得尊重的状态；尊严。"
+      },
+      "use": {
+        "en": "A clear boundary can protect everyone’s dignity.",
+        "zh": "清晰的边界可以保护每个人的尊严。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use contrastive stress in no colder than honesty, no hotter than the facts.",
+      "zh": "在 no colder than honesty, no hotter than the facts 中使用对比重音。"
+    },
+    {
+      "en": "Keep the final consonants clear in facts, missed, effect, and trust.",
+      "zh": "读 facts、missed、effect 和 trust 时，尾辅音要清晰。"
+    },
+    {
+      "en": "Let the questions rise gently without sounding doubtful or defensive.",
+      "zh": "问句语调轻柔上扬，不要读得犹豫或防御。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are protecting both the truth and the relationship in a difficult conversation.",
+      "zh": "跟读时，想象你正在一场艰难对话中同时保护真相与关系。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the shift from bodily heat to factual calm.",
+        "zh": "第一遍：模仿从身体的燥热转向事实的冷静。"
+      },
+      {
+        "en": "Pass two: make the open questions sound curious and self-respecting.",
+        "zh": "第二遍：把开放式问题读得既好奇又有自尊。"
+      },
+      {
+        "en": "Pass three: build quiet authority through the final short sentences.",
+        "zh": "第三遍：通过结尾的短句建立安静的权威感。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which fact in a difficult conversation could you describe without adding a motive?",
+      "zh": "在一场艰难对话中，哪一个事实可以不附加动机地描述出来？"
+    },
+    {
+      "en": "What boundary could you state firmly while leaving dignity in the room?",
+      "zh": "你可以坚定地表达哪一条边界，同时让尊严留在房间里？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/speak-at-the-temperature-of-truth/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/speak-at-the-temperature-of-truth/clips/sources_0.mp3"
+    }
+  }
+}
