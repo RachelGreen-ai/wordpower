@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-room-for-the-answer",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave Room for the Answer",
+    "zh": "给答案留一点空间"
+  },
+  "subtitle": {
+    "en": "An original reflection on parenting, patient questions, and the courage to let a child grow beyond our script.",
+    "zh": "一篇原创美文：关于养育、耐心提问，以及允许孩子长出我们预设之外模样的勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Listening",
+    "Growth",
+    "Patience",
+    "Family"
+  ],
+  "sources": [
+    {
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/514",
+      "note": {
+        "en": "Public-domain inspiration for portraying young people as distinct, growing personalities within family life; this passage is entirely original.",
+        "zh": "灵感来自这部公开领域作品对家庭生活中各具个性、不断成长的年轻人的描写；本课文章完全原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with patient warmth. Let the questions sound like open doors, not hidden instructions.",
+    "zh": "以耐心的温暖朗读。让问题听起来像敞开的门，而不是藏起来的指令。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Pause After the Question",
+      "zh": "问题之后的停顿"
+    },
+    "intro": {
+      "en": "This original passage considers a quiet parenting skill: asking honestly, waiting generously, and listening for the person a child is becoming.",
+      "zh": "这篇原创文章探讨一种安静的养育能力：真诚地问，慷慨地等，并倾听孩子正在成为怎样的人。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Ask What You Do Not Know",
+          "zh": "1. 问你真正不知道的事"
+        },
+        "text": "Adults often ask questions whose answers they have already written. Did you have a good day? You did finish your work, didn't you? Wouldn't music lessons be wonderful? A child quickly hears the answer hidden inside the question and learns to choose between obedience and honesty. Try asking for news instead. What part of today stayed with you? Where did the work become difficult? What do you notice when you play? A real question carries a small risk: the answer may rearrange the room. That risk is also what makes trust possible.",
+        "coaching": {
+          "en": "Let the first questions sound slightly crowded. Open the pace and tone when the real questions begin.",
+          "zh": "前几个问题要读出一点逼仄感。真正的问题出现后，把节奏与语气打开。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Do Not Rescue the Silence",
+          "zh": "2. 不要急着挽救沉默"
+        },
+        "text": "After a thoughtful question, silence may arrive. It can feel like a social emergency. The adult supplies a hint, softens the question, or answers it entirely. But a child may simply be searching for words large enough to carry an unfamiliar feeling. Count one breath, then another. Look interested rather than alarmed. The pause tells the child that reflection is not failure and that conversation need not be a race. Some answers need quiet in the way roots need dark soil: not because nothing is happening, but because growth has begun out of sight.",
+        "coaching": {
+          "en": "Allow real pauses after the opening sentences. Read the roots and soil image slowly, without becoming sentimental.",
+          "zh": "开头几句之后留出真实停顿。根与土壤的意象要慢读，但不要过度煽情。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Hear the Need Beneath the Position",
+          "zh": "3. 听见立场下面的需要"
+        },
+        "text": "A child says, I hate school, and the adult prepares a speech about gratitude. Yet the sentence may contain embarrassment, loneliness, exhaustion, or one bad Tuesday. Strong words are sometimes rough envelopes around delicate news. Before correcting the address, find out what is inside. Tell me what happened just before you felt that way. What would make tomorrow ten percent easier? Listening for the need does not require agreement with every demand. It allows guidance to meet the actual problem instead of delivering wisdom to an empty chair.",
+        "coaching": {
+          "en": "Keep the list of possible feelings compassionate and specific. Give the two practical questions calm usefulness.",
+          "zh": "几种可能感受的列举要具体而有同理心。两个实用问题要读出平静的可操作感。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Let the Future Have Its Own Voice",
+          "zh": "4. 让未来拥有自己的声音"
+        },
+        "text": "Parents carry memories forward: the road not taken, the talent neglected, the danger barely escaped. Love naturally wants to turn experience into a map. Offer the map, but do not confuse it with the territory. A child may value a different summit, travel at another speed, or invent a path you cannot yet see. Your task is not to become unnecessary. It is to become trustworthy enough that growing independence does not require disguise. One day the answer to your question may surprise you. Leave room at the table for that answer, and for the new person who brings it.",
+        "coaching": {
+          "en": "Use gentle authority on offer the map. Let the final table image hold both tenderness and respect.",
+          "zh": "读 offer the map 时要温和而坚定。最后的餐桌意象要同时承载温柔与尊重。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "rearrange",
+      "meaning": {
+        "en": "To change the position or order of things.",
+        "zh": "重新排列；重新安排。"
+      },
+      "use": {
+        "en": "Her honest answer rearranged my assumptions.",
+        "zh": "她诚实的回答改变了我的原有假设。"
+      }
+    },
+    {
+      "term": "supply",
+      "meaning": {
+        "en": "To provide something that is needed or wanted.",
+        "zh": "提供；补充。"
+      },
+      "use": {
+        "en": "Resist the urge to supply the answer.",
+        "zh": "克制住替对方提供答案的冲动。"
+      }
+    },
+    {
+      "term": "reflection",
+      "meaning": {
+        "en": "Careful thought about an idea or experience.",
+        "zh": "对想法或经历的认真思考。"
+      },
+      "use": {
+        "en": "The question deserves a moment of reflection.",
+        "zh": "这个问题值得花一点时间思考。"
+      }
+    },
+    {
+      "term": "beneath",
+      "meaning": {
+        "en": "Under something, including at a deeper emotional level.",
+        "zh": "在……之下；在更深的情感层面。"
+      },
+      "use": {
+        "en": "Listen for the worry beneath the anger.",
+        "zh": "倾听愤怒之下的担忧。"
+      }
+    },
+    {
+      "term": "neglected",
+      "meaning": {
+        "en": "Not given enough care or attention.",
+        "zh": "被忽视的；未得到足够关注的。"
+      },
+      "use": {
+        "en": "He returned to a talent he had neglected.",
+        "zh": "他重新拾起了一个曾被忽视的天赋。"
+      }
+    },
+    {
+      "term": "trustworthy",
+      "meaning": {
+        "en": "Able to be relied on as honest and dependable.",
+        "zh": "值得信赖的；可靠的。"
+      },
+      "use": {
+        "en": "A calm response makes you more trustworthy.",
+        "zh": "平静的回应会让你更值得信赖。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Let genuine questions rise gently, then allow a full pause for the imagined answer.",
+      "zh": "真诚的问题要轻柔上扬，然后为想象中的回答留出完整停顿。"
+    },
+    {
+      "en": "Link consonants and vowels smoothly in part of today, need beneath, and map of the territory.",
+      "zh": "在 part of today、need beneath 和 map of the territory 中自然连读辅音与元音。"
+    },
+    {
+      "en": "Use warm contrastive stress in offer the map, but do not confuse it with the territory.",
+      "zh": "在 offer the map, but do not confuse it with the territory 中用温暖的对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking to someone young whose dignity matters as much as the lesson.",
+      "zh": "跟读时，想象你在对一个年轻人说话，而他的尊严与要传达的道理同样重要。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: hear the difference between leading questions and open questions.",
+        "zh": "第一遍：听出诱导式问题与开放式问题的区别。"
+      },
+      {
+        "en": "Pass two: keep the silences comfortable and attentive.",
+        "zh": "第二遍：让停顿保持舒适而专注。"
+      },
+      {
+        "en": "Pass three: give the final section warmth without ownership.",
+        "zh": "第三遍：让最后一节有温度，却不带占有感。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which question do you often ask while secretly hoping for one answer?",
+      "zh": "你常问哪一个问题，却在心里暗暗期待唯一的答案？"
+    },
+    {
+      "en": "How could you make silence feel safer in your next family conversation?",
+      "zh": "下一次家庭对话中，你怎样能让沉默变得更安全？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-room-for-the-answer/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-room-for-the-answer/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-room-for-the-answer/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-room-for-the-answer/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-room-for-the-answer/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-room-for-the-answer/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-room-for-the-answer/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-room-for-the-answer/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-room-for-the-answer/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-room-for-the-answer/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-room-for-the-answer/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-room-for-the-answer/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-room-for-the-answer/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-room-for-the-answer/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-room-for-the-answer/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-room-for-the-answer/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-room-for-the-answer/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-room-for-the-answer/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-room-for-the-answer/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-room-for-the-answer/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-room-for-the-answer/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-room-for-the-answer/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-room-for-the-answer/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-room-for-the-answer/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-room-for-the-answer/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-room-for-the-answer/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-room-for-the-answer/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-room-for-the-answer/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-room-for-the-answer/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-room-for-the-answer/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-room-for-the-answer/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-room-for-the-answer/clips/sources_0.mp3"
+    }
+  }
+}

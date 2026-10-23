@@ -1,0 +1,244 @@
+{
+  "lessonId": "make-a-window-for-wonder",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Make a Window for Wonder",
+    "zh": "为惊奇开一扇窗"
+  },
+  "subtitle": {
+    "en": "An original reflection on experiments, useful questions, and the patient craft of discovery.",
+    "zh": "一篇原创美文：关于实验、有用的问题，以及耐心发现的技艺。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Wonder",
+    "Learning",
+    "Experiment",
+    "Creativity"
+  ],
+  "sources": [
+    {
+      "title": "Experimental Researches in Electricity, Volume 1",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14986",
+      "note": {
+        "en": "Public-domain inspiration for careful experiment and intellectual humility; all examples and wording in this lesson are original.",
+        "zh": "灵感来自这部公开领域作品所体现的细致实验与求知谦逊；本课例子与措辞均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with bright curiosity and practical calm, as if demonstrating a simple experiment to a small audience.",
+    "zh": "以明亮的好奇心和务实的平静朗读，像在为一小群人演示一个简单实验。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Question with Handles",
+      "zh": "一个有把手的问题"
+    },
+    "intro": {
+      "en": "This original passage explores how wonder becomes productive when we give it a clear question, a modest test, and room to be corrected.",
+      "zh": "这篇原创文章探讨：当惊奇拥有清晰的问题、小而可行的测试，以及被修正的空间时，它如何转化为真正的发现。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Wonder Is an Invitation",
+          "zh": "1. 惊奇是一份邀请"
+        },
+        "text": "A soap film catches the colors of a sunset. A spoon trembles beside a passing train. A seed splits its coat in a dark cupboard. Wonder begins when an ordinary thing refuses to remain ordinary. We often respond with a large question: How does the world work? The question is sincere, but too smooth to hold. Give it handles. Which colors move when the film grows thinner? How close must the train be before the spoon begins to shake? A workable question does not reduce wonder. It gives wonder somewhere to go.",
+        "coaching": {
+          "en": "Let the opening images sparkle without rushing. Make the smaller questions sound precise and genuinely eager.",
+          "zh": "开头的意象要有光彩，但不要赶。几个小问题要准确，并读出真切的求知欲。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Build the Smallest Honest Test",
+          "zh": "2. 设计最小而诚实的测试"
+        },
+        "text": "You do not need a marble laboratory to begin. You need a change you can make, a result you can notice, and the discipline to keep other conditions steady. Move the spoon farther from the window. Place one seed in light and one in darkness. Write down what you expect before the result arrives. Prediction reveals the shape of your thinking; measurement reveals where that shape fails. The experiment is a conversation in which nature is allowed to answer in a language other than yes.",
+        "coaching": {
+          "en": "Use an orderly rhythm for the method. Pause around prediction and measurement so their different roles are clear.",
+          "zh": "方法部分读出有条理的节奏。在 prediction 与 measurement 前后停顿，清楚区分二者作用。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Welcome the Awkward Result",
+          "zh": "3. 欢迎那个不合预期的结果"
+        },
+        "text": "A result that disagrees with you is not rude. It may be the most useful guest in the room. Check the apparatus. Repeat the test. Ask whether your words were vague or your measurement clumsy. Then consider the more difficult possibility: the idea itself may need to change. This is not humiliation. It is the privilege of learning something that was not already inside your head. A polished mistake protects your pride for an afternoon; an awkward fact can improve your understanding for years.",
+        "coaching": {
+          "en": "Give the short checking commands clean authority. Warm the phrase privilege of learning, then land firmly on for years.",
+          "zh": "几个检查指令要读得干净有力。在 privilege of learning 处加入暖意，最后在 for years 上稳稳收束。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Show the Window, Not Only the View",
+          "zh": "4. 不只展示风景，也展示那扇窗"
+        },
+        "text": "When you share a discovery, show how you reached it. Name the question, the test, the surprise, and what remains uncertain. A conclusion without its path can sound like magic or command. A conclusion with its path becomes an invitation: look through this window and check what I saw. The finest explanations do not make the listener feel small. They lend the listener a tool. Wonder then travels from one mind to another, not as a glittering answer to admire, but as a careful practice anyone may continue.",
+        "coaching": {
+          "en": "Build through the four-part list. Make the invitation spacious, and finish with calm generosity on anyone may continue.",
+          "zh": "四项列举要层层推进。邀请句要有空间感，结尾 anyone may continue 读出平静的慷慨。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "workable",
+      "meaning": {
+        "en": "Practical enough to be used successfully.",
+        "zh": "切实可行的。"
+      },
+      "use": {
+        "en": "We turned the broad idea into a workable question.",
+        "zh": "我们把宽泛的想法变成了一个可操作的问题。"
+      }
+    },
+    {
+      "term": "condition",
+      "meaning": {
+        "en": "A circumstance that affects how something happens.",
+        "zh": "影响事情发生方式的条件。"
+      },
+      "use": {
+        "en": "Keep every other condition the same.",
+        "zh": "让其他所有条件保持不变。"
+      }
+    },
+    {
+      "term": "prediction",
+      "meaning": {
+        "en": "A statement about what you expect to happen.",
+        "zh": "对预期结果的预测。"
+      },
+      "use": {
+        "en": "Write your prediction before you run the test.",
+        "zh": "在进行测试之前写下你的预测。"
+      }
+    },
+    {
+      "term": "apparatus",
+      "meaning": {
+        "en": "Equipment used for a scientific or technical purpose.",
+        "zh": "用于科学或技术目的的设备。"
+      },
+      "use": {
+        "en": "She checked the apparatus for a loose wire.",
+        "zh": "她检查设备是否有电线松动。"
+      }
+    },
+    {
+      "term": "humiliation",
+      "meaning": {
+        "en": "A painful loss of pride or dignity.",
+        "zh": "羞辱；自尊受到伤害。"
+      },
+      "use": {
+        "en": "Being corrected is not the same as humiliation.",
+        "zh": "被纠正并不等于受到羞辱。"
+      }
+    },
+    {
+      "term": "uncertain",
+      "meaning": {
+        "en": "Not completely known, decided, or confident.",
+        "zh": "不确定的；尚未完全弄清的。"
+      },
+      "use": {
+        "en": "Be clear about what remains uncertain.",
+        "zh": "要清楚说明哪些方面仍不确定。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Stress the content words in a change you can make, a result you can notice.",
+      "zh": "在 a change you can make, a result you can notice 中重读实义词。"
+    },
+    {
+      "en": "Keep the consonant clusters clear in splits, expects, facts, and tests.",
+      "zh": "读 splits、expects、facts 和 tests 时，辅音连缀要清晰。"
+    },
+    {
+      "en": "Use a gentle fall-rise on uncertain to signal that the inquiry continues.",
+      "zh": "读 uncertain 时使用轻柔的降升调，表示探究仍在继续。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your curiosity is contagious and your evidence deserves care.",
+      "zh": "跟读时，想象你的好奇心能够感染他人，而你的证据值得被认真对待。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: give the opening objects vivid but natural emphasis.",
+        "zh": "第一遍：让开头的物件获得生动而自然的重音。"
+      },
+      {
+        "en": "Pass two: make the procedural sentences measured and easy to follow.",
+        "zh": "第二遍：把步骤句读得有分寸、易于跟随。"
+      },
+      {
+        "en": "Pass three: balance humility with confidence in the final section.",
+        "zh": "第三遍：在最后一节中平衡谦逊与自信。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What broad question could you turn into one small, honest test?",
+      "zh": "你能把哪一个宽泛的问题转化为一次小而诚实的测试？"
+    },
+    {
+      "en": "When has an awkward fact improved your understanding?",
+      "zh": "什么时候，一个不合预期的事实曾改善了你的理解？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-a-window-for-wonder/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-a-window-for-wonder/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-a-window-for-wonder/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-a-window-for-wonder/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-a-window-for-wonder/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/make-a-window-for-wonder/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/make-a-window-for-wonder/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-a-window-for-wonder/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-a-window-for-wonder/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-a-window-for-wonder/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-a-window-for-wonder/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-a-window-for-wonder/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-a-window-for-wonder/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-a-window-for-wonder/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-a-window-for-wonder/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-a-window-for-wonder/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-a-window-for-wonder/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-a-window-for-wonder/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-a-window-for-wonder/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-a-window-for-wonder/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-a-window-for-wonder/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-a-window-for-wonder/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-a-window-for-wonder/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-a-window-for-wonder/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-a-window-for-wonder/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-a-window-for-wonder/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-a-window-for-wonder/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-a-window-for-wonder/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-a-window-for-wonder/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-a-window-for-wonder/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-a-window-for-wonder/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-a-window-for-wonder/clips/sources_0.mp3"
+    }
+  }
+}

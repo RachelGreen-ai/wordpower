@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-a-field-notebook",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep a Field Notebook",
+    "zh": "随身带一本观察笔记"
+  },
+  "subtitle": {
+    "en": "An original reflection on attention, patient observation, and learning to see before we explain.",
+    "zh": "一篇原创美文：关于专注、耐心观察，以及在解释之前先学会看见。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Attention",
+    "Nature",
+    "Learning",
+    "Observation",
+    "Curiosity"
+  ],
+  "sources": [
+    {
+      "title": "The Voyage of the Beagle",
+      "author": "Charles Darwin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/944",
+      "note": {
+        "en": "Public-domain inspiration for disciplined observation in the natural world; the passage and wording here are entirely original.",
+        "zh": "灵感来自这部公开领域作品中对自然世界的严谨观察；本课文章与措辞均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert calm. Give each concrete detail enough space to appear in the listener's mind.",
+    "zh": "以清醒而平静的状态朗读。让每个具体细节都有足够空间浮现在听者脑海中。"
+  },
+  "passage": {
+    "title": {
+      "en": "Before the Name Arrives",
+      "zh": "在名称抵达之前"
+    },
+    "intro": {
+      "en": "This original passage invites you to observe like a field naturalist: closely, humbly, and without rushing the world into a conclusion.",
+      "zh": "这篇原创文章邀请你像野外博物学家一样观察：细致、谦逊，不急着把世界塞进结论里。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Small Book",
+          "zh": "1. 那本小册子"
+        },
+        "text": "Carry a notebook small enough to forget in your pocket. Do not reserve it for grand discoveries. Record the pale line on a shell, the hour the swallows turn home, the smell of pavement just before rain. Write what happened, not what should have happened. A page of exact particulars may look modest, but it trains a generous form of attention. It says to the ordinary world: you do not have to perform for me. I am willing to meet you at your own scale.",
+        "coaching": {
+          "en": "Begin lightly, as if opening a pocket notebook. Slow down through the list of shell, swallows, and rain.",
+          "zh": "开头要轻，像翻开一本口袋笔记。读到贝壳、燕子和雨的列举时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Separate Seeing from Knowing",
+          "zh": "2. 把看见与知道分开"
+        },
+        "text": "The mind loves a quick label. Once we call a bird common or a colleague difficult, we stop receiving fresh evidence. Try a cleaner sentence. The bird lifted one wing before the other. My colleague interrupted twice, then stayed behind to help. Description keeps experience open a little longer. It does not forbid interpretation; it asks interpretation to earn its place. This pause is useful in a forest, a meeting, and a friendship. Many errors begin when a familiar name arrives before an unfamiliar fact has finished speaking.",
+        "coaching": {
+          "en": "Use crisp contrast on label and evidence. Let the two example sentences sound neutral, precise, and newly noticed.",
+          "zh": "在 label 与 evidence 上读出鲜明对比。两个例句要中性、准确，像刚刚发现。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Return to the Same Place",
+          "zh": "3. 回到同一个地方"
+        },
+        "text": "One visit produces an impression; returning produces knowledge. Walk the same path in different weather. Ask the same question after you have slept. Revisit a skill that once embarrassed you. Repetition is not the enemy of discovery. It is the lens that reveals change. The tree you thought motionless is busy with buds. The task you thought impossible has become merely awkward. Your own attention has altered too. A field notebook quietly records both landscapes: the place in front of you and the mind through which you saw it.",
+        "coaching": {
+          "en": "Build a steady walking rhythm through the short commands. Warm the voice when the impossible becomes merely awkward.",
+          "zh": "几个短指令要读出稳定的步行节奏。当 impossible 变成 merely awkward 时，声音加入暖意。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Let Wonder Stay Specific",
+          "zh": "4. 让惊奇保持具体"
+        },
+        "text": "Wonder becomes trustworthy when it can point. Not everything is amazing in the same vague way. This stone holds heat after sunset. This child asks a question no adult in the room considered. This failed experiment leaves one clean result. Specific wonder protects us from both boredom and exaggeration. At the end of the day, choose one observation and read it aloud. Hear how a fact, carefully held, begins to shine without decoration. The world is not short of marvels. More often, it is short of witnesses who have learned to stay.",
+        "coaching": {
+          "en": "Give the three This sentences distinct, grounded emphasis. End quietly, stressing witnesses and stay.",
+          "zh": "三个以 This 开头的句子要各自读出扎实的重音。结尾轻下来，重读 witnesses 与 stay。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "particulars",
+      "meaning": {
+        "en": "Specific facts or details.",
+        "zh": "具体事实或细节。"
+      },
+      "use": {
+        "en": "Give me the particulars before your conclusion.",
+        "zh": "先告诉我具体细节，再说你的结论。"
+      }
+    },
+    {
+      "term": "reserve",
+      "meaning": {
+        "en": "To keep something for a special purpose or time.",
+        "zh": "为特殊用途或时刻保留。"
+      },
+      "use": {
+        "en": "Do not reserve curiosity for extraordinary days.",
+        "zh": "不要只在非凡的日子里才保持好奇。"
+      }
+    },
+    {
+      "term": "interpretation",
+      "meaning": {
+        "en": "An explanation of what something means.",
+        "zh": "对某事含义的解释。"
+      },
+      "use": {
+        "en": "Her interpretation changed when new evidence appeared.",
+        "zh": "新证据出现后，她的解释改变了。"
+      }
+    },
+    {
+      "term": "revisit",
+      "meaning": {
+        "en": "To return to a place, idea, or subject.",
+        "zh": "重访；重新审视。"
+      },
+      "use": {
+        "en": "Let us revisit the question tomorrow.",
+        "zh": "让我们明天再重新审视这个问题。"
+      }
+    },
+    {
+      "term": "lens",
+      "meaning": {
+        "en": "A way of viewing or understanding something.",
+        "zh": "观察或理解事物的视角。"
+      },
+      "use": {
+        "en": "Experience gave her a more patient lens.",
+        "zh": "经验给了她一种更耐心的视角。"
+      }
+    },
+    {
+      "term": "grounded",
+      "meaning": {
+        "en": "Sensible, realistic, and connected to facts.",
+        "zh": "理性务实、以事实为基础的。"
+      },
+      "use": {
+        "en": "His optimism remained grounded in evidence.",
+        "zh": "他的乐观始终建立在证据之上。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in fact, task, walked, and short.",
+      "zh": "读 fact、task、walked 和 short 时，尾辅音要清晰。"
+    },
+    {
+      "en": "Use contrastive stress in what happened, not what should have happened.",
+      "zh": "在 what happened, not what should have happened 中使用对比重音。"
+    },
+    {
+      "en": "Link smoothly in phrases such as an unfamiliar fact and at the end of the day.",
+      "zh": "在 an unfamiliar fact 和 at the end of the day 等短语中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a friend through a landscape you know by heart but still find surprising.",
+      "zh": "跟读时，想象你正带朋友走过一片熟悉却仍令人惊喜的风景。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the unhurried pace of the concrete details.",
+        "zh": "第一遍：模仿具体细节处从容的节奏。"
+      },
+      {
+        "en": "Pass two: sharpen the contrasts between labels and evidence.",
+        "zh": "第二遍：突出标签与证据之间的对比。"
+      },
+      {
+        "en": "Pass three: let the final lines carry quiet conviction rather than excitement.",
+        "zh": "第三遍：结尾用安静的笃定，而不是兴奋来承载。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What ordinary detail did you notice today that you would usually overlook?",
+      "zh": "今天你注意到了哪一个平常会忽略的普通细节？"
+    },
+    {
+      "en": "Where might a description serve you better than a quick label?",
+      "zh": "在哪件事上，描述事实可能比快速贴标签更有帮助？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-field-notebook/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-field-notebook/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-field-notebook/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-field-notebook/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-field-notebook/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-a-field-notebook/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-a-field-notebook/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-field-notebook/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-field-notebook/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-field-notebook/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-field-notebook/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-field-notebook/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-field-notebook/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-field-notebook/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-field-notebook/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-field-notebook/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-field-notebook/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-field-notebook/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-field-notebook/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-field-notebook/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-field-notebook/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-field-notebook/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-field-notebook/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-field-notebook/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-field-notebook/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-field-notebook/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-field-notebook/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-field-notebook/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-field-notebook/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-field-notebook/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-field-notebook/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-field-notebook/clips/sources_0.mp3"
+    }
+  }
+}
