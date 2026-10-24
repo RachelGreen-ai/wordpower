@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-the-door-in-the-conversation",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep the Door in the Conversation",
+    "zh": "在对话中留一扇门"
+  },
+  "subtitle": {
+    "en": "An original reflection on disagreement, dignity, and the language that keeps understanding possible.",
+    "zh": "一篇原创美文：关于分歧、尊严，以及让理解仍有可能的语言。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Dignity",
+    "Listening",
+    "Disagreement",
+    "Civility"
+  ],
+  "sources": [
+    {
+      "title": "On Liberty",
+      "author": "John Stuart Mill",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/34901",
+      "note": {
+        "en": "Public-domain inspiration for thinking about disagreement and intellectual freedom; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对分歧与思想自由的思考；本课完全原创，未复用原文措辞。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with calm firmness. Let disagreement have edges, but keep your voice spacious enough for another person to remain in the room.",
+    "zh": "以平静而坚定的语气朗读。让分歧有棱角，同时让声音保有空间，使对方仍愿意留在对话中。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Sentence with a Way Back",
+      "zh": "一句留有归路的话"
+    },
+    "intro": {
+      "en": "This original passage explores how precise, humane speech can protect both truth and relationship when a conversation grows difficult.",
+      "zh": "这篇原创文章探讨：当对话变得艰难时，准确而有人情味的表达如何同时守护事实与关系。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Lower the Temperature, Not the Standard",
+          "zh": "1. 降低温度，而非降低标准"
+        },
+        "text": "A difficult conversation often arrives wearing the costume of an emergency. Voices rise, motives are guessed, and every pause begins to look like surrender. Yet urgency is not always honesty. You can lower the temperature without lowering the standard of truth. Begin with what you actually observed, not the secret intention you have assigned to someone else. Say, I heard the deadline change twice, rather than, You never respect my time. The first sentence gives reality a clean outline. The second builds a locked room. Precision is not timid. It is strong enough to stand without borrowing heat from accusation.",
+        "coaching": {
+          "en": "Open with controlled tension. Slow down for the two example sentences, and land firmly on precision and accusation.",
+          "zh": "开头读出克制的张力。两个示例句要放慢，最后在 precision 和 accusation 上稳稳收住。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Leave One Generous Possibility",
+          "zh": "2. 留下一种善意的可能"
+        },
+        "text": "When we are hurt, certainty can feel like shelter. We become sure that the other person was careless, selfish, or deliberately cruel. Certainty closes the case before the evidence has finished speaking. Leave one generous possibility beside your anger: perhaps there is a fact you do not know, a fear the other person has not named, or a clumsy attempt at something decent. This possibility does not erase harm or require instant forgiveness. It simply keeps your judgment from becoming larger than your knowledge. A door left open is not an invitation to denial. It is room for the truth to enter from another direction.",
+        "coaching": {
+          "en": "Let certainty sound tempting before you question it. Give the final image of the open door a patient, welcoming cadence.",
+          "zh": "先让 certainty 听起来颇具诱惑，再提出质疑。最后“敞开的门”这一意象要读得耐心、温和。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask for Meaning Before Defense",
+          "zh": "3. 在辩护之前先追问含义"
+        },
+        "text": "Many arguments are two people defending themselves against meanings that were never intended. One word lands badly; an old memory supplies the rest. Before preparing your reply, ask a question narrow enough to be answered: When you said that the plan was unrealistic, which part concerned you? A useful question is not a courtroom trap. It is a lamp carried back to the exact place where the path divided. Listen for the answer beneath the polish. People often reveal their real concern in an ordinary phrase: I did not want to disappoint you. I thought there was no room to object. Understanding that sentence may not settle the disagreement, but it changes what the disagreement is about.",
+        "coaching": {
+          "en": "Use a curious tone for the central question. Brighten the lamp image, then soften for the two vulnerable admissions.",
+          "zh": "核心问题要读出真诚的好奇。“灯”的意象要明亮，两个脆弱的坦白则要放柔。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. End with a Next Step, Not a Verdict",
+          "zh": "4. 以下一步结束，而非以判决结束"
+        },
+        "text": "A conversation can be honest without deciding the entire future of a relationship. Sometimes the wisest ending is modest: Let us check the numbers tomorrow. I need an hour before I can answer well. We disagree about the choice, but I understand what matters to you. These sentences do not manufacture harmony. They give dignity somewhere practical to stand. A verdict divides the world into winner and offender; a next step asks what truth requires now. Keep one clear boundary, one accurate sentence, and one path forward. That is often enough courage for a single conversation. Tomorrow, if needed, you can return with another lamp.",
+        "coaching": {
+          "en": "Give each practical sentence its own breath. Contrast verdict with next step, and finish tomorrow with quiet confidence.",
+          "zh": "每个务实的句子都留出独立呼吸。读出 verdict 与 next step 的对比，最后以安静的信心落在 tomorrow。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "surrender",
+      "meaning": {
+        "en": "The act of giving up resistance or control.",
+        "zh": "投降；放弃抵抗或控制。"
+      },
+      "use": {
+        "en": "A thoughtful pause is not a surrender.",
+        "zh": "深思后的停顿并不等于投降。"
+      }
+    },
+    {
+      "term": "accusation",
+      "meaning": {
+        "en": "A claim that someone has done something wrong.",
+        "zh": "指控；声称某人做错了事。"
+      },
+      "use": {
+        "en": "She replaced the accusation with a precise observation.",
+        "zh": "她用准确的观察替代了指控。"
+      }
+    },
+    {
+      "term": "generous",
+      "meaning": {
+        "en": "Willing to interpret another person with fairness and goodwill.",
+        "zh": "宽厚的；愿意以公平和善意理解他人的。"
+      },
+      "use": {
+        "en": "He left room for a more generous explanation.",
+        "zh": "他为一种更宽厚的解释留出了空间。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment or decision about a matter.",
+        "zh": "裁决；对某事作出的最终判断。"
+      },
+      "use": {
+        "en": "The meeting ended with a next step rather than a verdict.",
+        "zh": "会议以一个下一步行动收尾，而不是一纸裁决。"
+      }
+    },
+    {
+      "term": "dignity",
+      "meaning": {
+        "en": "The quality of being worthy of respect.",
+        "zh": "尊严；值得尊重的品质。"
+      },
+      "use": {
+        "en": "Clear boundaries can protect everyone's dignity.",
+        "zh": "清晰的界限能够保护每个人的尊严。"
+      }
+    },
+    {
+      "term": "cadence",
+      "meaning": {
+        "en": "The natural rhythm and flow of spoken language.",
+        "zh": "语调节奏；语言自然的起伏与流动。"
+      },
+      "use": {
+        "en": "Her calm cadence made the hard message easier to hear.",
+        "zh": "她平静的语调让那条艰难的信息更容易被听进去。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Contrast lower the temperature with not the standard, stressing temperature and standard.",
+      "zh": "对比朗读 lower the temperature 与 not the standard，重读 temperature 和 standard。"
+    },
+    {
+      "en": "Link naturally in leave_one generous possibility, truth_to enter, and need_an hour.",
+      "zh": "在 leave_one generous possibility、truth_to enter 和 need_an hour 中自然连读。"
+    },
+    {
+      "en": "Use a falling tone for boundaries and a gently rising tone for sincere questions.",
+      "zh": "表达界限时用降调，提出真诚问题时用柔和的升调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are protecting both candor and connection: clear in meaning, unhurried in delivery.",
+      "zh": "跟读时仿佛同时守护坦诚与连接：意思清楚，表达从容。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: separate observations from accusations with a clear pause.",
+        "zh": "第一遍：用清晰停顿区分观察与指控。"
+      },
+      {
+        "en": "Pass two: warm your tone whenever a generous possibility appears.",
+        "zh": "第二遍：每当出现善意的可能，就让语气变得温暖。"
+      },
+      {
+        "en": "Pass three: make every next step sound practical and possible.",
+        "zh": "第三遍：让每一个下一步都听起来务实而可行。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which accusation in your language could become a precise observation?",
+      "zh": "你语言中的哪一句指控，可以改写成准确的观察？"
+    },
+    {
+      "en": "What generous possibility might keep one difficult conversation open?",
+      "zh": "哪一种善意的可能，可以让一场艰难的对话继续敞开？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-the-door-in-the-conversation/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-the-door-in-the-conversation/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-the-door-in-the-conversation/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-the-door-in-the-conversation/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-the-door-in-the-conversation/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-the-door-in-the-conversation/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-the-door-in-the-conversation/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-the-door-in-the-conversation/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-the-door-in-the-conversation/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-the-door-in-the-conversation/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-the-door-in-the-conversation/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-the-door-in-the-conversation/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-the-door-in-the-conversation/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-the-door-in-the-conversation/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-the-door-in-the-conversation/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-the-door-in-the-conversation/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-the-door-in-the-conversation/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-the-door-in-the-conversation/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-the-door-in-the-conversation/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-the-door-in-the-conversation/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-the-door-in-the-conversation/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-the-door-in-the-conversation/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-the-door-in-the-conversation/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-the-door-in-the-conversation/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-the-door-in-the-conversation/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-the-door-in-the-conversation/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-the-door-in-the-conversation/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-the-door-in-the-conversation/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-the-door-in-the-conversation/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-the-door-in-the-conversation/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-the-door-in-the-conversation/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-the-door-in-the-conversation/clips/sources_0.mp3"
+    }
+  }
+}

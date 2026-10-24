@@ -1,0 +1,244 @@
+{
+  "lessonId": "mend-the-small-tear",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Mend the Small Tear",
+    "zh": "缝补那道小小的裂口"
+  },
+  "subtitle": {
+    "en": "An original reflection on friendship, repair, and the courage to return before distance hardens.",
+    "zh": "一篇原创美文：关于友谊、修复，以及在疏远凝固之前回头的勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Friendship",
+    "Repair",
+    "Humility",
+    "Trust",
+    "Reconciliation"
+  ],
+  "sources": [
+    {
+      "title": "Persuasion",
+      "author": "Jane Austen",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/105",
+      "note": {
+        "en": "Public-domain inspiration for reflections on constancy, misjudgment, and renewed understanding; this lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品对恒久情感、误判与重新理解的思考；本课完全原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with tender honesty. Avoid melodrama; let the smallest gestures carry the greatest emotional weight.",
+    "zh": "以温柔而诚实的语气朗读。避免戏剧化，让最细微的动作承载最深的情感分量。"
+  },
+  "passage": {
+    "title": {
+      "en": "Before Silence Learns Your Name",
+      "zh": "在沉默熟悉你的名字之前"
+    },
+    "intro": {
+      "en": "This original passage considers how friendships are often repaired not by perfect speeches, but by timely, ordinary acts of return.",
+      "zh": "这篇原创文章思考：修复友谊往往不靠完美演说，而靠及时、平常的回归行动。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Notice the First Loose Thread",
+          "zh": "1. 看见第一根松动的线头"
+        },
+        "text": "Friendships rarely break with the sound of glass. More often, a small thread loosens. A message receives a shorter reply. A joke carries a hidden barb. Two people leave the same table with different versions of what happened, and neither wants to seem oversensitive. So the tear waits. Pride calls the silence patience; fear calls it dignity. Meanwhile, the imagination begins its careless sewing, attaching one old disappointment to another. Notice the first loose thread. You do not need a grand conclusion. You need enough honesty to say, Something felt different yesterday. Did I miss something between us? Early questions are lighter to carry than late explanations.",
+        "coaching": {
+          "en": "Keep the opening quiet and observant. Sharpen slightly on pride and fear, then make the central question gentle and direct.",
+          "zh": "开头保持安静、善于观察。在 pride 和 fear 处稍加力度，核心问题则要温和而直接。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Apologize for the Actual Wound",
+          "zh": "2. 为真正的伤口道歉"
+        },
+        "text": "A vague apology protects the speaker more than the friendship. I am sorry you felt that way leaves the injured person carrying both the wound and the explanation. A useful apology names the action, recognizes its effect, and does not rush toward pardon: I repeated something you told me privately. That made your trust feel unsafe. I am sorry. Notice how little decoration is required. Remorse becomes credible when it is specific. If context matters, offer it later, after responsibility has a place to stand. An explanation may complete the picture, but it should not arrive disguised as an eraser.",
+        "coaching": {
+          "en": "Read the vague apology with restrained discomfort. Give the specific apology clean pauses, and land decisively on eraser.",
+          "zh": "含糊的道歉要读出克制的不适。具体道歉要有清晰停顿，最后坚定地落在 eraser。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Repair in the Currency of Attention",
+          "zh": "3. 用专注这种货币来修复"
+        },
+        "text": "Words reopen the door; attention proves that you walked through it. If you forgot what mattered to a friend, remember it next time without being prompted. If you occupied every conversation, ask a question and stay long enough for the full answer. Repair is often repetitive and almost invisible. It is the returned book, the protected confidence, the invitation sent again after an awkward evening. Trust does not usually demand a spectacular payment. It asks for small coins, offered consistently. The gesture may look ordinary from outside. To the person watching for evidence, it says: I understood the cost, and I am changing where my hands go.",
+        "coaching": {
+          "en": "Use a steady rhythm through the practical repairs. Warm small coins, and make the final promise sound embodied rather than dramatic.",
+          "zh": "一连串实际修复动作要读得平稳。读暖 small coins，最后的承诺要具体可感，而非戏剧化。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Accept the Shape After Mending",
+          "zh": "4. 接受缝补之后的形状"
+        },
+        "text": "Not every friendship returns to its former shape. Repair may leave a visible seam, a new boundary, or a slower pace. This is not always failure. A mended cloth can become more carefully used because both people know where it was thin. Sometimes reconciliation means renewed closeness. Sometimes it means respect without intimacy, or a kind farewell without another season together. Your task is not to force the old pattern back into place. It is to meet the truth without punishment or disguise. Make the honest repair you can make. Then let the relationship answer in its own time, keeping your heart open but your hands free of force.",
+        "coaching": {
+          "en": "Let the visible seam sound tender, not tragic. Give each possible outcome dignity, then release the final sentence slowly.",
+          "zh": "让 visible seam 听起来温柔，而非悲凉。赋予每种可能的结果以尊严，最后一句缓缓松开。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "barb",
+      "meaning": {
+        "en": "A sharp, hurtful remark hidden inside speech or humor.",
+        "zh": "带刺的话；藏在言语或玩笑中的尖刻伤害。"
+      },
+      "use": {
+        "en": "The joke contained a barb that everyone noticed.",
+        "zh": "那个玩笑里带着一根人人都察觉到的刺。"
+      }
+    },
+    {
+      "term": "oversensitive",
+      "meaning": {
+        "en": "Too easily affected or offended by what others say or do.",
+        "zh": "过度敏感的；太容易被言行触动或冒犯的。"
+      },
+      "use": {
+        "en": "He stayed silent because he feared sounding oversensitive.",
+        "zh": "他担心显得过度敏感，于是保持沉默。"
+      }
+    },
+    {
+      "term": "remorse",
+      "meaning": {
+        "en": "Deep regret for having done something wrong.",
+        "zh": "悔恨；因做错事而产生的深切懊悔。"
+      },
+      "use": {
+        "en": "Her remorse was clear because she named the harm exactly.",
+        "zh": "她准确说出了伤害，因此悔意清晰可信。"
+      }
+    },
+    {
+      "term": "credible",
+      "meaning": {
+        "en": "Able to be believed or trusted.",
+        "zh": "可信的；值得相信或信赖的。"
+      },
+      "use": {
+        "en": "A specific promise sounds more credible than a grand one.",
+        "zh": "具体的承诺比宏大的承诺更可信。"
+      }
+    },
+    {
+      "term": "reconciliation",
+      "meaning": {
+        "en": "The restoration of a friendly relationship after conflict.",
+        "zh": "和解；冲突后恢复友好关系。"
+      },
+      "use": {
+        "en": "Reconciliation required both honesty and time.",
+        "zh": "和解既需要诚实，也需要时间。"
+      }
+    },
+    {
+      "term": "intimacy",
+      "meaning": {
+        "en": "Close familiarity, trust, and emotional connection.",
+        "zh": "亲密；熟悉、信任与情感联结。"
+      },
+      "use": {
+        "en": "Respect can remain even when intimacy changes.",
+        "zh": "即使亲密程度改变，尊重仍然可以保留。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use clean pauses in I repeated something, That made your trust feel unsafe, and I am sorry.",
+      "zh": "朗读 I repeated something、That made your trust feel unsafe 和 I am sorry 时使用清晰停顿。"
+    },
+    {
+      "en": "Link smoothly in thread_loosened, leave_an injured person, and respect_without intimacy.",
+      "zh": "在 thread_loosened、leave_an injured person 和 respect_without intimacy 中自然连读。"
+    },
+    {
+      "en": "Contrast the old pattern with the honest repair by stressing old and honest.",
+      "zh": "通过重读 old 和 honest，读出 the old pattern 与 the honest repair 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with quiet courage: specific enough to repair, gentle enough to leave the other person free.",
+      "zh": "带着安静的勇气跟读：足够具体，可以修复；足够温柔，也让对方保持自由。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: let each image of thread and cloth remain light and concrete.",
+        "zh": "第一遍：让每个线与布的意象保持轻盈、具体。"
+      },
+      {
+        "en": "Pass two: make the apology plain, slow, and free of self-defense.",
+        "zh": "第二遍：把道歉读得朴素、缓慢，不带自我辩护。"
+      },
+      {
+        "en": "Pass three: give every possible ending respect without forcing hope.",
+        "zh": "第三遍：尊重每一种可能的结局，不强求希望。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Is there a small tear in a friendship that is still light enough to mend?",
+      "zh": "是否有一段友谊里的小裂口，尚且来得及轻轻缝补？"
+    },
+    {
+      "en": "What specific action would make one apology more credible?",
+      "zh": "哪一个具体行动，能让一次道歉变得更加可信？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/mend-the-small-tear/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/mend-the-small-tear/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/mend-the-small-tear/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/mend-the-small-tear/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/mend-the-small-tear/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/mend-the-small-tear/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/mend-the-small-tear/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/mend-the-small-tear/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/mend-the-small-tear/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/mend-the-small-tear/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/mend-the-small-tear/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/mend-the-small-tear/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/mend-the-small-tear/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/mend-the-small-tear/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/mend-the-small-tear/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/mend-the-small-tear/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/mend-the-small-tear/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/mend-the-small-tear/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/mend-the-small-tear/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/mend-the-small-tear/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/mend-the-small-tear/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/mend-the-small-tear/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/mend-the-small-tear/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/mend-the-small-tear/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/mend-the-small-tear/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/mend-the-small-tear/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/mend-the-small-tear/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/mend-the-small-tear/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/mend-the-small-tear/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/mend-the-small-tear/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/mend-the-small-tear/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/mend-the-small-tear/clips/sources_0.mp3"
+    }
+  }
+}

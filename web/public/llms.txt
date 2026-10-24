@@ -77,6 +77,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Keep a Field Notebook](https://wordpower-seven.vercel.app/read-aloud/keep-a-field-notebook): An original reflection on attention, patient observation, and learning to see before we explain.
 - [Keep One Chair Empty](https://wordpower-seven.vercel.app/read-aloud/keep-one-chair-empty): An original reflection on composure, disagreement, and leaving room for a better interpretation.
 - [Keep One Promise to Yourself](https://wordpower-seven.vercel.app/read-aloud/keep-one-promise-to-yourself): An original reflection on self-trust, modest habits, and becoming someone whose own word has weight.
+- [Keep the Door in the Conversation](https://wordpower-seven.vercel.app/read-aloud/keep-the-door-in-the-conversation): An original reflection on disagreement, dignity, and the language that keeps understanding possible.
 - [Lead from the Work](https://wordpower-seven.vercel.app/read-aloud/lead-from-the-work): An original reflection on credibility, shared labor, and leadership close to the ground.
 - [Leave an Honest Edge](https://wordpower-seven.vercel.app/read-aloud/leave-a-honest-edge): An original reflection on craft, revision, and making work that still bears the warmth of a human hand.
 - [Leave Room for Growing](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-growing): An original reflection on patient guidance, useful boundaries, and the courage to let a child try.
@@ -86,9 +87,11 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Make a Window for Wonder](https://wordpower-seven.vercel.app/read-aloud/make-a-window-for-wonder): An original reflection on experiments, useful questions, and the patient craft of discovery.
 - [Make Room in the Conversation](https://wordpower-seven.vercel.app/read-aloud/make-room-in-conversation): An original passage on calm speech, useful silence, and disagreement without contempt.
 - [Make the Mistake Useful](https://wordpower-seven.vercel.app/read-aloud/make-the-mistake-useful): An original reflection on learning, intelligent practice, and turning error into better judgment.
+- [Mend the Small Tear](https://wordpower-seven.vercel.app/read-aloud/mend-the-small-tear): An original reflection on friendship, repair, and the courage to return before distance hardens.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.
 - [Notice the Season Turn](https://wordpower-seven.vercel.app/read-aloud/notice-the-season-turn): An original reflection on recovering attention through the small announcements of autumn.
 - [The Patient Eye Sees More](https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more): An original reflection on observation, curiosity, and the discipline of seeing before naming.
+- [Practice the Art of Enough](https://wordpower-seven.vercel.app/read-aloud/practice-the-art-of-enough): An original reflection on gratitude, proportion, and the quiet wealth of an ordinary day.
 - [Self-Trust Is an Inner Compass.](https://wordpower-seven.vercel.app/read-aloud/self-trust-inner-compass): A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.
 - [Set One More Place](https://wordpower-seven.vercel.app/read-aloud/set-one-more-place): An original reflection on hospitality, belonging, and the small civic art of making room.
 - [Speak at the Temperature of Truth](https://wordpower-seven.vercel.app/read-aloud/speak-at-the-temperature-of-truth): An original reflection on calm communication, honest disagreement, and words that leave dignity intact.

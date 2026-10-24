@@ -499,6 +499,12 @@
     <priority>0.75</priority>
   </url>
   <url>
+    <loc>https://wordpower-seven.vercel.app/read-aloud/keep-the-door-in-the-conversation</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
     <loc>https://wordpower-seven.vercel.app/read-aloud/lead-from-the-work</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -553,6 +559,12 @@
     <priority>0.75</priority>
   </url>
   <url>
+    <loc>https://wordpower-seven.vercel.app/read-aloud/mend-the-small-tear</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
     <loc>https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -567,6 +579,12 @@
   <url>
     <loc>https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more</loc>
     <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://wordpower-seven.vercel.app/read-aloud/practice-the-art-of-enough</loc>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>

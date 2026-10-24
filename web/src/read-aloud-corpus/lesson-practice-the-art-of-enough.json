@@ -1,0 +1,244 @@
+{
+  "lessonId": "practice-the-art-of-enough",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Practice the Art of Enough",
+    "zh": "练习“已经足够”的艺术"
+  },
+  "subtitle": {
+    "en": "An original reflection on gratitude, proportion, and the quiet wealth of an ordinary day.",
+    "zh": "一篇原创美文：关于感恩、分寸，以及平常日子里安静的丰盛。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Gratitude",
+    "Contentment",
+    "Attention",
+    "Daily Life",
+    "Perspective"
+  ],
+  "sources": [
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for examining simplicity, attention, and the scale of a sufficient life; this lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品对简朴、专注与充足生活尺度的思考；本课完全原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with unforced warmth. Notice the small concrete nouns, and let the word enough sound awake rather than resigned.",
+    "zh": "以自然、不用力的温暖语气朗读。留意具体而微小的名词，让 enough 听起来清醒，而非无奈。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Wealth Already in the Room",
+      "zh": "房间里已有的丰盛"
+    },
+    "intro": {
+      "en": "This original passage invites us to notice sufficiency without abandoning ambition, and to measure a day by more than appetite.",
+      "zh": "这篇原创文章邀请我们在不放弃进取心的同时看见充足，并用欲望之外的尺度衡量一天。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Appetite Has No Natural Horizon",
+          "zh": "1. 欲望没有天然的地平线"
+        },
+        "text": "The mind can move the finish line with astonishing speed. A room once dreamed of becomes too small; a salary once celebrated becomes merely expected. Appetite is useful when it leads us toward food, skill, shelter, and meaningful change. Left unexamined, however, it becomes a surveyor who redraws the border each night. Nothing is permitted to arrive. The art of enough begins by noticing this motion without shame. Ask, What did I once hope would be present in my life today? The answer may be waiting in plain clothes: work worth doing, a person who answers, a body that carried you home.",
+        "coaching": {
+          "en": "Begin briskly as the finish line moves. Slow for the question, then give the three ordinary gifts a tone of fresh recognition.",
+          "zh": "开头随着终点线移动而稍快。问题处放慢，最后三份平常的馈赠要读出重新发现的惊喜。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Count in Concrete Nouns",
+          "zh": "2. 用具体名词来数"
+        },
+        "text": "Gratitude becomes believable when it is specific. Do not command yourself to appreciate life in general. Name the blue cup that fits your hand, the bus driver who waited three seconds, the clean shirt, the message with a badly timed joke that still made you laugh. Concrete nouns rescue gratitude from performance. They do not ask you to pretend that grief is pleasant or injustice acceptable. They simply refuse to let difficulty occupy every chair in the room. One warm bowl can be real beside one hard diagnosis. The heart is capable of holding both facts without forcing either one to disappear.",
+        "coaching": {
+          "en": "Enjoy the list without making it cute. Give difficulty gravity, then balance the final two facts with equal weight.",
+          "zh": "带着愉悦读清单，但不要故作可爱。读出 difficulty 的分量，最后两个事实要保持同等重量。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Enough Be a Platform",
+          "zh": "3. 让“足够”成为平台"
+        },
+        "text": "Enough is sometimes mistaken for a sofa on which ambition falls asleep. It can be something sturdier: a platform from which wise effort begins. When you are not trying to prove your worth with every result, you can choose work for its usefulness, beauty, or challenge. When affection is not a prize to be earned, you can offer it without keeping an anxious ledger. Sufficiency frees energy from display. It lets improvement grow from curiosity instead of contempt for the present self. You may still want a larger table, a stronger voice, or a braver life. Want them as extensions of aliveness, not as evidence that your current existence deserves admission.",
+        "coaching": {
+          "en": "Make the sofa image lightly humorous. Strengthen on platform, then warm the final contrast between aliveness and admission.",
+          "zh": "“沙发”意象可读出一点轻松的幽默。在 platform 上加强，最后读暖 aliveness 与 admission 的对比。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Close the Day Before It Vanishes",
+          "zh": "4. 在一天消失前为它收尾"
+        },
+        "text": "Before sleep, gather the day from its scattered pieces. Name one thing completed, one thing received, and one thing released. Perhaps you answered the difficult email, tasted a good pear, and stopped rehearsing an argument that never happened. This is not an audit designed to improve tomorrow. It is a small ceremony of arrival. The day was imperfect, and it existed. You were hurried, generous, distracted, patient, and alive within it. Say enough not because nothing more is needed, but because this portion of time deserves to be fully inhabited before another begins. Then turn out the light without asking the darkness for one more achievement.",
+        "coaching": {
+          "en": "Use a gentle ritual rhythm for the three things. Linger on the day existed, and let the final sentence settle like a light going out.",
+          "zh": "三件事要读出温柔的仪式感。在 the day existed 处稍作停留，最后一句像灯光熄灭般安静落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "sufficiency",
+      "meaning": {
+        "en": "The state of having enough for a particular need.",
+        "zh": "充足；足以满足特定需要的状态。"
+      },
+      "use": {
+        "en": "A sense of sufficiency made her choices calmer.",
+        "zh": "充足感让她的选择更加从容。"
+      }
+    },
+    {
+      "term": "unexamined",
+      "meaning": {
+        "en": "Not carefully considered or questioned.",
+        "zh": "未经审视的；未被认真思考或质疑的。"
+      },
+      "use": {
+        "en": "An unexamined appetite can keep moving the finish line.",
+        "zh": "未经审视的欲望会不断移动终点线。"
+      }
+    },
+    {
+      "term": "concrete",
+      "meaning": {
+        "en": "Specific, definite, and connected to real things.",
+        "zh": "具体的；明确且与真实事物相连的。"
+      },
+      "use": {
+        "en": "Give me one concrete example of what helped.",
+        "zh": "请给我一个具体的例子，说明什么起了作用。"
+      }
+    },
+    {
+      "term": "ledger",
+      "meaning": {
+        "en": "A record of amounts owed or exchanged.",
+        "zh": "账本；记录收支或亏欠的簿册。"
+      },
+      "use": {
+        "en": "Friendship weakens when every favor enters a ledger.",
+        "zh": "如果每次帮忙都被记进账本，友谊就会变得脆弱。"
+      }
+    },
+    {
+      "term": "contempt",
+      "meaning": {
+        "en": "A strong feeling that someone or something is beneath respect.",
+        "zh": "轻蔑；认为某人或某事不值得尊重的强烈感受。"
+      },
+      "use": {
+        "en": "Lasting change rarely grows from contempt for yourself.",
+        "zh": "持久的改变很少源自对自己的轻蔑。"
+      }
+    },
+    {
+      "term": "inhabit",
+      "meaning": {
+        "en": "To live in or be fully present within a place or experience.",
+        "zh": "栖居；充分置身于某个地方或体验之中。"
+      },
+      "use": {
+        "en": "She learned to inhabit the quiet hour without distraction.",
+        "zh": "她学会了不受干扰地全然置身于那段安静时光。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep a light, even rhythm in one thing completed, one thing received, and one thing released.",
+      "zh": "朗读 one thing completed、one thing received、one thing released 时保持轻盈均匀的节奏。"
+    },
+    {
+      "en": "Link consonants and vowels in worth_with every result, one_warm bowl, and turn_out the light.",
+      "zh": "在 worth_with every result、one_warm bowl 和 turn_out the light 中自然连读。"
+    },
+    {
+      "en": "Stress enough differently: questioning at first, grounded in the final section.",
+      "zh": "用不同方式重读 enough：开头带着追问，最后一节则沉稳笃定。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with alert contentment: grateful without sentimentality, ambitious without hunger in every sentence.",
+      "zh": "带着清醒的知足跟读：感恩却不煽情，进取却不让每句话都充满匮乏。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: brighten every concrete noun you can picture.",
+        "zh": "第一遍：把每个能在脑海中看见的具体名词读亮。"
+      },
+      {
+        "en": "Pass two: give grief and gratitude equal honesty.",
+        "zh": "第二遍：让悲伤与感恩拥有同等的诚实。"
+      },
+      {
+        "en": "Pass three: let the closing lines slow toward rest.",
+        "zh": "第三遍：让结尾几句逐渐放慢，走向安歇。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What ordinary thing in your life was once something you hoped for?",
+      "zh": "你生活中的哪件平常事，曾经也是你所盼望的？"
+    },
+    {
+      "en": "What would you pursue differently if enough were your platform rather than your finish line?",
+      "zh": "如果“足够”是你的起点而非终点，你会以何种不同方式去追求目标？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/practice-the-art-of-enough/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/practice-the-art-of-enough/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/practice-the-art-of-enough/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/practice-the-art-of-enough/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/practice-the-art-of-enough/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/practice-the-art-of-enough/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/practice-the-art-of-enough/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/practice-the-art-of-enough/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/practice-the-art-of-enough/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/practice-the-art-of-enough/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/practice-the-art-of-enough/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/practice-the-art-of-enough/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/practice-the-art-of-enough/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/practice-the-art-of-enough/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/practice-the-art-of-enough/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/practice-the-art-of-enough/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/practice-the-art-of-enough/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/practice-the-art-of-enough/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/practice-the-art-of-enough/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/practice-the-art-of-enough/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/practice-the-art-of-enough/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/practice-the-art-of-enough/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/practice-the-art-of-enough/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/practice-the-art-of-enough/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/practice-the-art-of-enough/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/practice-the-art-of-enough/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/practice-the-art-of-enough/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/practice-the-art-of-enough/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/practice-the-art-of-enough/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/practice-the-art-of-enough/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/practice-the-art-of-enough/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/practice-the-art-of-enough/clips/sources_0.mp3"
+    }
+  }
+}
