@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-the-failed-sketch",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep the Failed Sketch",
+    "zh": "留下那张失败的草图"
+  },
+  "subtitle": {
+    "en": "An original reflection on experiments, useful mistakes, and learning to think with your hands.",
+    "zh": "一篇原创美文：关于实验、有用的错误，以及用双手帮助思考。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Learning",
+    "Science",
+    "Craft",
+    "Experiment",
+    "Career"
+  ],
+  "sources": [
+    {
+      "title": "Experimental Researches in Electricity",
+      "author": "Michael Faraday",
+      "organization": "Internet Archive",
+      "url": "https://archive.org/details/experimentalres01fararich",
+      "note": {
+        "en": "Public-domain inspiration for learning through careful experiments and records; all prose and examples in this lesson are original.",
+        "zh": "灵感来自这部公开领域作品中以细致实验和记录推进学习的方法；本课文字与例子均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical energy. Let the language of tools and materials feel physical, not abstract.",
+    "zh": "用务实而有活力的语气朗读。让工具和材料的语言听起来具体可触，而非抽象。"
+  },
+  "passage": {
+    "title": {
+      "en": "Evidence from the Workbench",
+      "zh": "工作台上的证据"
+    },
+    "intro": {
+      "en": "This original passage treats imperfect attempts as records of thought, not stains to be hidden.",
+      "zh": "这篇原创文章把不完美的尝试看作思考的记录，而不是需要藏起的污点。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Page You Want to Tear Out",
+          "zh": "1. 那张想撕掉的纸"
+        },
+        "text": "The first sketch leans badly to the left. The handle is too narrow; the hinge cannot open; the elegant curve would be expensive to make. Your hand moves toward the wastebasket. Stop. Write the date in one corner and keep the page. It contains more than failure. It shows what you believed before the material answered. Tomorrow, when the design changes, you will be able to see why. A discarded attempt disappears; a dated attempt becomes evidence.",
+        "coaching": {
+          "en": "Make the flaws crisp and concrete. Pause firmly after Stop, then soften into the reason for keeping the page.",
+          "zh": "把缺陷读得清楚具体。在 Stop 后坚定停顿，再放柔语气说明保留它的理由。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Let the Material Reply",
+          "zh": "2. 让材料回答"
+        },
+        "text": "Ideas behave beautifully while they remain in the mind. Wood splits along its grain. Fabric pulls at a seam. A sentence that looked graceful on the screen catches in the mouth when spoken aloud. These are not insults from reality. They are replies. Skilled makers develop respect for this conversation. They propose, test, listen, and adjust. The work becomes better because the world is allowed to disagree. Imagination supplies a direction; contact supplies the correction.",
+        "coaching": {
+          "en": "Give each material its own texture. Stress propose, test, listen, and adjust as a clean sequence.",
+          "zh": "让每种材料都有自己的质感。清楚重读 propose、test、listen、adjust 这一组动作。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Name What Changed",
+          "zh": "3. 说清哪里变了"
+        },
+        "text": "Experience teaches poorly when we describe it only as good or bad. Be more exact. The meeting improved after the question became smaller. The dough rose when the room warmed. The presentation failed because its central example arrived six minutes too late. Precision turns memory into a tool. Keep a brief record: what you expected, what occurred, what you will alter next. This habit is humble because it admits surprise, and confident because it assumes another attempt is possible.",
+        "coaching": {
+          "en": "Read the three examples like clear field notes. Land with balanced emphasis on humble and confident.",
+          "zh": "三个例子要像清晰的实验记录。结尾对 humble 与 confident 给予均衡重音。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Career Made of Revisions",
+          "zh": "4. 由修订构成的职业"
+        },
+        "text": "From a distance, accomplished work can look inevitable. Up close, it is crowded with crossed-out lines, blunt prototypes, rehearsals that went flat, and tools chosen badly. The difference is not the absence of error. It is the willingness to keep error where it can teach. Save one failed sketch. Beside it, place the next version and write one sentence about what changed. Over time, the pages will show something more encouraging than talent: a mind becoming answerable to evidence, and hands becoming brave enough to try again.",
+        "coaching": {
+          "en": "Build steadily through the hidden work. Let the final phrase try again feel grounded, not triumphant.",
+          "zh": "稳步读出那些隐藏的工作。最后的 try again 要踏实，不要读成高亢的胜利。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "hinge",
+      "meaning": {
+        "en": "A joint that lets a door or object swing open.",
+        "zh": "铰链；让门或物体转动开合的连接件。"
+      },
+      "use": {
+        "en": "The lid moves on a small metal hinge.",
+        "zh": "盖子通过一个小金属铰链开合。"
+      }
+    },
+    {
+      "term": "discard",
+      "meaning": {
+        "en": "To throw something away as no longer useful.",
+        "zh": "丢弃；认为无用而扔掉。"
+      },
+      "use": {
+        "en": "Do not discard the notes from your first attempt.",
+        "zh": "不要丢掉第一次尝试的笔记。"
+      }
+    },
+    {
+      "term": "grain",
+      "meaning": {
+        "en": "The natural lines or fibers in wood.",
+        "zh": "木纹；木材中的天然纹理。"
+      },
+      "use": {
+        "en": "Cutting against the grain may split the wood.",
+        "zh": "逆着木纹切割可能使木头裂开。"
+      }
+    },
+    {
+      "term": "prototype",
+      "meaning": {
+        "en": "An early model used to test an idea.",
+        "zh": "原型；用来检验想法的早期模型。"
+      },
+      "use": {
+        "en": "The team tested a rough prototype.",
+        "zh": "团队测试了一个粗略原型。"
+      }
+    },
+    {
+      "term": "inevitable",
+      "meaning": {
+        "en": "Certain to happen and seemingly impossible to avoid.",
+        "zh": "不可避免的；似乎注定会发生的。"
+      },
+      "use": {
+        "en": "Success looked inevitable only in hindsight.",
+        "zh": "只是在事后看来，成功才像是必然的。"
+      }
+    },
+    {
+      "term": "answerable to",
+      "meaning": {
+        "en": "Required to respond honestly to a standard or authority.",
+        "zh": "须对某种标准或权威负责。"
+      },
+      "use": {
+        "en": "A good theory is answerable to evidence.",
+        "zh": "好的理论必须对证据负责。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Release the final sounds in sketch, left, splits, and crossed.",
+      "zh": "读 sketch、left、splits 和 crossed 时，要清楚释放词尾音。"
+    },
+    {
+      "en": "Keep an even beat through propose, test, listen, and adjust.",
+      "zh": "读 propose、test、listen、adjust 时保持均匀节拍。"
+    },
+    {
+      "en": "Contrast what you expected with what occurred.",
+      "zh": "用重音对比 what you expected 与 what occurred。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are encouraging a capable colleague after an imperfect first attempt.",
+      "zh": "跟读时，想象你正在一次不完美的初次尝试后鼓励一位有能力的同事。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every physical flaw easy to picture.",
+        "zh": "第一遍：让每个具体缺陷都容易被想象。"
+      },
+      {
+        "en": "Pass two: keep the action sequences crisp and forward-moving.",
+        "zh": "第二遍：动作序列要清楚，并保持向前推进。"
+      },
+      {
+        "en": "Pass three: finish with calm professional confidence.",
+        "zh": "第三遍：用沉着的职业自信收尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which failed attempt contains evidence you have not yet examined?",
+      "zh": "哪一次失败的尝试里，还藏着你没有仔细查看的证据？"
+    },
+    {
+      "en": "What could you test with your hands instead of debating only in your head?",
+      "zh": "什么事情可以动手检验，而不是只在脑中争论？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-the-failed-sketch/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-the-failed-sketch/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-the-failed-sketch/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-the-failed-sketch/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-the-failed-sketch/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-the-failed-sketch/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-the-failed-sketch/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-the-failed-sketch/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-the-failed-sketch/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-the-failed-sketch/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-the-failed-sketch/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-the-failed-sketch/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-the-failed-sketch/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-the-failed-sketch/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-the-failed-sketch/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-the-failed-sketch/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-the-failed-sketch/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-the-failed-sketch/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-the-failed-sketch/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-the-failed-sketch/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-the-failed-sketch/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-the-failed-sketch/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-the-failed-sketch/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-the-failed-sketch/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-the-failed-sketch/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-the-failed-sketch/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-the-failed-sketch/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-the-failed-sketch/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-the-failed-sketch/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-the-failed-sketch/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-the-failed-sketch/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-the-failed-sketch/clips/sources_0.mp3"
+    }
+  }
+}

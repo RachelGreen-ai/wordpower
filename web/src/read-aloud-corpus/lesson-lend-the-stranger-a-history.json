@@ -1,0 +1,244 @@
+{
+  "lessonId": "lend-the-stranger-a-history",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Lend the Stranger a History",
+    "zh": "借给陌生人一段来路"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, fair judgment, and the stories we cannot see.",
+    "zh": "一篇原创美文：关于道德想象、公平判断，以及我们看不见的来路。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Empathy",
+    "Moral Imagination",
+    "Community",
+    "Judgment",
+    "Kindness"
+  ],
+  "sources": [
+    {
+      "title": "The Theory of Moral Sentiments",
+      "author": "Adam Smith",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/58559",
+      "note": {
+        "en": "Public-domain inspiration for imaginative fellow-feeling and measured judgment; the contemporary passage is entirely original.",
+        "zh": "灵感来自这部公开领域作品中关于设身处地与审慎判断的思想；这篇当代文章为完全原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with restraint and humane curiosity. Avoid sentimentality; let the ordinary scenes carry the moral weight.",
+    "zh": "以克制而有人情味的好奇来朗读。避免煽情，让日常场景承担道德分量。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Missing Chapter",
+      "zh": "缺失的那一章"
+    },
+    "intro": {
+      "en": "This original passage explores a disciplined kindness: remembering that every visible act belongs to a longer, partly hidden story.",
+      "zh": "这篇原创文章探讨一种有分寸的善意：记得每个可见行为，都属于一段更长且部分隐藏的故事。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. One Frame of the Film",
+          "zh": "1. 电影中的一帧"
+        },
+        "text": "A woman answers sharply at the pharmacy counter. A driver waits too long after the light turns green. A new colleague declines lunch for the third time. We receive one frame of the film and quietly invent the rest. Rude. Careless. Unfriendly. The labels are efficient, and sometimes they are partly right. But efficiency is not the same as fairness. Before the verdict hardens, lend the stranger a history. Not an excuse—simply a past, a morning, a body, a reason that may exist beyond the edge of the frame.",
+        "coaching": {
+          "en": "Keep the opening scenes neutral and precise. Separate Not an excuse with a clean pause and firm restraint.",
+          "zh": "开头的场景要中性、准确。在 Not an excuse 前后清楚停顿，语气坚定克制。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Imagine Without Pretending to Know",
+          "zh": "2. 想象，但不假装知道"
+        },
+        "text": "Moral imagination is not a talent for guessing private facts. We do not know whether the woman has slept, whether the driver is frightened, or whether the colleague is caring for someone at home. The point is not to select the most touching possibility. It is to interrupt the lazy certainty that our first account is complete. We can hold two truths together: the behavior affected us, and its meaning may be larger than what we saw. Curiosity keeps accountability from becoming contempt.",
+        "coaching": {
+          "en": "Make the repeated whether clauses thoughtful, not dramatic. Balance the two truths with equal weight.",
+          "zh": "几个 whether 从句要读得审慎，不要戏剧化。两条真相要用同等分量表达。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Question That Leaves a Door",
+          "zh": "3. 留一扇门的问题"
+        },
+        "text": "A fair question leaves room for information to enter. Instead of Why are you like this? try Is something making this difficult today? Instead of telling a story about silence, ask whether the invitation felt possible. Such questions do not require us to accept cruelty, ignore a boundary, or repair every stranger’s life. They merely refuse to turn a moment into a whole person. A door left open by one inch is still a door. Through it may come an apology, a fact, or a better way to proceed.",
+        "coaching": {
+          "en": "Use a colder edge on the accusing question, then genuine openness on its alternative.",
+          "zh": "指责性问题要稍冷；替代问题则读出真诚的开放。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return the Person to the Picture",
+          "zh": "4. 把“人”放回画面"
+        },
+        "text": "At day’s end, recall one person you reduced to a label. Add no invented tragedy. Simply restore the dimensions the label removed: a childhood you did not witness, loyalties you cannot name, skills that never appeared in your brief encounter, worries waiting beyond your view. Then decide what the moment still requires. Perhaps kindness. Perhaps distance. Perhaps a clear no. Moral imagination does not erase judgment; it gives judgment a human scale. We act more wisely when the person remains in the picture, even when the answer must remain firm.",
+        "coaching": {
+          "en": "Slow through the restored dimensions. Give kindness, distance, and a clear no equal dignity.",
+          "zh": "读到被还原的人生维度时放慢。kindness、distance 与 a clear no 要读出同等的尊严。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A firm judgment or decision about someone or something.",
+        "zh": "裁决；对人或事作出的明确判断。"
+      },
+      "use": {
+        "en": "Do not reach a verdict from one brief exchange.",
+        "zh": "不要凭一次短暂交流就下结论。"
+      }
+    },
+    {
+      "term": "harden",
+      "meaning": {
+        "en": "To become fixed, severe, or less open to change.",
+        "zh": "变得僵硬、严厉或难以改变。"
+      },
+      "use": {
+        "en": "Her first impression hardened into certainty.",
+        "zh": "她的第一印象逐渐固化成了确信。"
+      }
+    },
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "The duty to accept responsibility for actions.",
+        "zh": "问责；为自己的行为承担责任。"
+      },
+      "use": {
+        "en": "Empathy and accountability can exist together.",
+        "zh": "共情与问责可以同时存在。"
+      }
+    },
+    {
+      "term": "contempt",
+      "meaning": {
+        "en": "A feeling that someone is beneath respect.",
+        "zh": "轻蔑；认为某人不值得尊重。"
+      },
+      "use": {
+        "en": "Curiosity can keep anger from becoming contempt.",
+        "zh": "好奇能防止愤怒变成轻蔑。"
+      }
+    },
+    {
+      "term": "reduce to",
+      "meaning": {
+        "en": "To treat a complex person or thing as only one simple quality.",
+        "zh": "把复杂的人或事简化为单一特征。"
+      },
+      "use": {
+        "en": "Do not reduce a person to one mistake.",
+        "zh": "不要把一个人简化成一次错误。"
+      }
+    },
+    {
+      "term": "human scale",
+      "meaning": {
+        "en": "A way of judging that respects ordinary human limits and complexity.",
+        "zh": "尊重普通人的局限与复杂性的尺度。"
+      },
+      "use": {
+        "en": "The conversation returned the problem to a human scale.",
+        "zh": "这次谈话让问题回到了人的尺度。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep consonant clusters clear in stranger, frame, first, and contempt.",
+      "zh": "读 stranger、frame、first 和 contempt 时，辅音组合要清晰。"
+    },
+    {
+      "en": "Use balanced stress in the behavior affected us, and its meaning may be larger.",
+      "zh": "在 the behavior affected us, and its meaning may be larger 中使用均衡重音。"
+    },
+    {
+      "en": "Let Perhaps kindness. Perhaps distance. Perhaps a clear no. fall in three measured steps.",
+      "zh": "把 Perhaps kindness. Perhaps distance. Perhaps a clear no. 读成三个沉稳的层次。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking to a thoughtful friend after a difficult public encounter.",
+      "zh": "跟读时，想象你正在一次困难的公共场合遭遇后，与一位善于思考的朋友交谈。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the opening judgments clipped and recognizable.",
+        "zh": "第一遍：开头的判断要简短，让人感到熟悉。"
+      },
+      {
+        "en": "Pass two: give uncertainty a steady, confident voice.",
+        "zh": "第二遍：用稳定而自信的声音表达不确定。"
+      },
+      {
+        "en": "Pass three: make the final boundaries humane but firm.",
+        "zh": "第三遍：让最后的边界既有人情味又坚定。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which recent verdict of yours was based on only one frame?",
+      "zh": "你最近的哪一个判断，只依据了“电影中的一帧”？"
+    },
+    {
+      "en": "How can you leave room for history without surrendering a necessary boundary?",
+      "zh": "如何既给他人的来路留空间，又不放弃必要的边界？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/lend-the-stranger-a-history/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/lend-the-stranger-a-history/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/lend-the-stranger-a-history/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/lend-the-stranger-a-history/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/lend-the-stranger-a-history/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/lend-the-stranger-a-history/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/lend-the-stranger-a-history/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/lend-the-stranger-a-history/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/lend-the-stranger-a-history/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/lend-the-stranger-a-history/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/lend-the-stranger-a-history/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/lend-the-stranger-a-history/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/lend-the-stranger-a-history/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/lend-the-stranger-a-history/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/lend-the-stranger-a-history/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/lend-the-stranger-a-history/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/lend-the-stranger-a-history/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/lend-the-stranger-a-history/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/lend-the-stranger-a-history/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/lend-the-stranger-a-history/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/lend-the-stranger-a-history/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/lend-the-stranger-a-history/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/lend-the-stranger-a-history/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/lend-the-stranger-a-history/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/lend-the-stranger-a-history/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/lend-the-stranger-a-history/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/lend-the-stranger-a-history/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/lend-the-stranger-a-history/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/lend-the-stranger-a-history/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/lend-the-stranger-a-history/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/lend-the-stranger-a-history/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/lend-the-stranger-a-history/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "wait-for-the-second-birdsong",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Wait for the Second Birdsong",
+    "zh": "等到第二声鸟鸣"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient attention, natural pauses, and the details that hurry conceals.",
+    "zh": "一篇原创美文：关于耐心专注、自然停顿，以及匆忙所遮蔽的细节。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Attention",
+    "Nature",
+    "Patience",
+    "Listening",
+    "Presence"
+  ],
+  "sources": [
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for deliberate attention to ordinary nature; the lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中对日常自然的专注观察；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if the listener is walking beside you at daybreak. Leave real silence around the smallest sounds.",
+    "zh": "想象听者正与你在黎明同行。为最细小的声音留出真正的安静。"
+  },
+  "passage": {
+    "title": {
+      "en": "What the Pause Reveals",
+      "zh": "停顿让什么显现"
+    },
+    "intro": {
+      "en": "This original passage asks what becomes audible when we resist naming a quiet moment empty.",
+      "zh": "这篇原创文章追问：当我们不再把安静称作空白，会听见什么？"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Before the Path Is Busy",
+          "zh": "1. 小径热闹之前"
+        },
+        "text": "Before the path is busy, it has another life. Mist rests in the ditch. A spiderweb holds the night in silver beads. Somewhere behind the hedge, one bird offers a phrase and stops. If you hurry to identify it, you may miss the answer from farther off. Wait for the second birdsong. The pause between the two is not empty. It carries distance, direction, and the shape of an unseen valley. Attention begins when we allow a thing to arrive before we decide what it means.",
+        "coaching": {
+          "en": "Begin softly and make the concrete details visible. Give the pause before Wait for the second birdsong its full length.",
+          "zh": "开头轻柔，让具体细节清晰可见。在 Wait for the second birdsong 之前留足停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Habit of Filling",
+          "zh": "2. 填满一切的习惯"
+        },
+        "text": "We have become skilled at filling every interval. A lift takes twelve seconds, so we reach for a screen. A friend searches for a word, so we supply one. A question enters the room, and we rush to prove that we already have an answer. Yet an interval can be fertile. It lets memory gather, embarrassment loosen, and a truer sentence find its feet. Silence is not always agreement, confusion, or refusal. Sometimes it is thought becoming ready to speak.",
+        "coaching": {
+          "en": "Keep the list lightly brisk, then open the pace on Yet an interval can be fertile.",
+          "zh": "列举时节奏稍快；读到 Yet an interval can be fertile 时放慢并打开空间。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Listening Past the First Meaning",
+          "zh": "3. 听过第一层意思"
+        },
+        "text": "The first sound is often the loudest, not the deepest. Anger may be the first birdsong of fear. A quick no may protect a question someone cannot yet ask. Even praise can hide uncertainty: was the work truly good, or merely safe? Patient listening does not invent secret motives. It stays curious long enough for another note to appear. We can say, Tell me a little more. We can let a person revise a sentence without holding the first version against them. This is how listening becomes hospitality rather than extraction.",
+        "coaching": {
+          "en": "Let the examples sound observant, not suspicious. Warm the invitation Tell me a little more.",
+          "zh": "例子要读得敏锐而不猜疑。Tell me a little more 要温暖、真诚。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Day with More Depth",
+          "zh": "4. 更有深度的一天"
+        },
+        "text": "Try leaving three small spaces unfilled today. Stand at the window after the kettle clicks off. Take one breath before answering a difficult message. At dusk, listen until the nearest sound is joined by one farther away. Nothing dramatic may happen. That is part of the practice. A life gains depth not only from rare experiences, but from giving ordinary experience enough time to disclose itself. The world has been speaking in layers. We hear more of it when we stop demanding that every moment speak at once.",
+        "coaching": {
+          "en": "Give the three invitations an easy, practical rhythm. End with quiet conviction on speaking in layers.",
+          "zh": "三个邀请要读得轻松、可实践。结尾在 speaking in layers 上用安静而笃定的语气落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "interval",
+      "meaning": {
+        "en": "A short period or space between events.",
+        "zh": "间隔；事件之间的一小段时间。"
+      },
+      "use": {
+        "en": "Leave an interval before your reply.",
+        "zh": "回答前留一点间隔。"
+      }
+    },
+    {
+      "term": "fertile",
+      "meaning": {
+        "en": "Able to produce rich growth or useful ideas.",
+        "zh": "富有生长力或能产生好想法的。"
+      },
+      "use": {
+        "en": "A quiet walk can be fertile ground for thought.",
+        "zh": "安静散步可以成为思想的沃土。"
+      }
+    },
+    {
+      "term": "loosen",
+      "meaning": {
+        "en": "To become less tight, fixed, or tense.",
+        "zh": "放松；变得不那么紧绷或僵硬。"
+      },
+      "use": {
+        "en": "A kind question helped the tension loosen.",
+        "zh": "一个善意的问题让紧张缓和下来。"
+      }
+    },
+    {
+      "term": "disclose",
+      "meaning": {
+        "en": "To make something previously hidden known.",
+        "zh": "揭示；让原本隐藏的事物显现。"
+      },
+      "use": {
+        "en": "Time may disclose a different pattern.",
+        "zh": "时间可能会揭示另一种规律。"
+      }
+    },
+    {
+      "term": "hospitality",
+      "meaning": {
+        "en": "A generous welcome that makes room for another person.",
+        "zh": "热情接纳；为他人留出空间。"
+      },
+      "use": {
+        "en": "Good listening is a form of hospitality.",
+        "zh": "好的倾听是一种接纳。"
+      }
+    },
+    {
+      "term": "hold against",
+      "meaning": {
+        "en": "To continue blaming someone for something.",
+        "zh": "因某事一直责怪某人。"
+      },
+      "use": {
+        "en": "Do not hold one awkward sentence against her.",
+        "zh": "不要因为一句笨拙的话一直责怪她。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in mist, rests, first, and depth.",
+      "zh": "读 mist、rests、first 和 depth 时，词尾辅音要清晰。"
+    },
+    {
+      "en": "Use contrastive stress in the loudest, not the deepest.",
+      "zh": "在 the loudest, not the deepest 中使用对比重音。"
+    },
+    {
+      "en": "Link naturally in wait for the second birdsong and tell me a little more.",
+      "zh": "自然连读 wait for the second birdsong 与 tell me a little more。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are teaching the listener to hear a landscape—and a person—more patiently.",
+      "zh": "跟读时，想象你正教听者更耐心地听见一片风景，也听见一个人。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: preserve the silences around the nature images.",
+        "zh": "第一遍：保留自然意象周围的安静。"
+      },
+      {
+        "en": "Pass two: sharpen the contrast between filling and allowing.",
+        "zh": "第二遍：突出填满与容许之间的对比。"
+      },
+      {
+        "en": "Pass three: make the invitations sound warm and usable.",
+        "zh": "第三遍：让文中的邀请听起来温暖而可实践。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which interval do you fill before it has a chance to become useful?",
+      "zh": "哪一段间隔还没来得及发挥作用，就被你填满了？"
+    },
+    {
+      "en": "Who might need you to wait for their second birdsong?",
+      "zh": "谁可能需要你等一等，听见他的“第二声鸟鸣”？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/wait-for-the-second-birdsong/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/wait-for-the-second-birdsong/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/wait-for-the-second-birdsong/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/wait-for-the-second-birdsong/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/wait-for-the-second-birdsong/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/wait-for-the-second-birdsong/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/wait-for-the-second-birdsong/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/wait-for-the-second-birdsong/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/wait-for-the-second-birdsong/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/wait-for-the-second-birdsong/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/wait-for-the-second-birdsong/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/wait-for-the-second-birdsong/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/wait-for-the-second-birdsong/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/wait-for-the-second-birdsong/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/wait-for-the-second-birdsong/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/wait-for-the-second-birdsong/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/wait-for-the-second-birdsong/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/wait-for-the-second-birdsong/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/wait-for-the-second-birdsong/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/wait-for-the-second-birdsong/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/wait-for-the-second-birdsong/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/wait-for-the-second-birdsong/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/wait-for-the-second-birdsong/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/wait-for-the-second-birdsong/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/wait-for-the-second-birdsong/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/wait-for-the-second-birdsong/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/wait-for-the-second-birdsong/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/wait-for-the-second-birdsong/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/wait-for-the-second-birdsong/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/wait-for-the-second-birdsong/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/wait-for-the-second-birdsong/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/wait-for-the-second-birdsong/clips/sources_0.mp3"
+    }
+  }
+}
