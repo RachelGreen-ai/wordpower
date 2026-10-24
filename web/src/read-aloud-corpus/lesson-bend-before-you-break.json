@@ -1,0 +1,244 @@
+{
+  "lessonId": "bend-before-you-break",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Bend Before You Break",
+    "zh": "在折断之前学会弯曲"
+  },
+  "subtitle": {
+    "en": "An original reflection on resilient strength, adaptation, and staying rooted while circumstances change.",
+    "zh": "一篇原创美文：关于有韧性的力量、适应变化，以及在环境改变时仍然扎根。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Resilience",
+    "Adaptation",
+    "Courage",
+    "Change",
+    "Balance"
+  ],
+  "sources": [
+    {
+      "title": "The Country of the Pointed Firs",
+      "author": "Sarah Orne Jewett",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/367",
+      "note": {
+        "en": "Public-domain inspiration for coastal life, weather-tested character, and strength shaped by place; this lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品中对海岸生活、经风雨考验的品格，以及由环境塑造的力量的描写；本课完全原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with a low, steady center. Let the storm images carry force, but keep resilience flexible rather than heroic.",
+    "zh": "用低沉、稳定的声音中心朗读。风暴意象要有力量，但韧性应当灵活，而非英雄式夸张。"
+  },
+  "passage": {
+    "title": {
+      "en": "What the Coastal Trees Know",
+      "zh": "海岸树木懂得的事"
+    },
+    "intro": {
+      "en": "This original passage finds a practical model of resilience in trees that survive not by resisting every wind, but by learning its shape.",
+      "zh": "这篇原创文章从海岸树木中寻找一种务实的韧性：它们不是抵抗每一阵风，而是学会风的形状。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Strength Has More Than One Shape",
+          "zh": "1. 力量不只一种形状"
+        },
+        "text": "On an exposed coast, the tallest tree is not always the strongest. The wind has a long reach and no interest in appearances. It presses for hours, salts the leaves, and tests every proud, rigid branch. The trees that remain may lean inland. Their trunks carry old curves; their crowns look unfinished on the seaward side. Nothing about them is symmetrical, yet they are alive. They have made an agreement with pressure: yield where yielding preserves the whole, hold where holding protects the root. Their shape is not evidence of defeat. It is a record of intelligent survival.",
+        "coaching": {
+          "en": "Give the coast physical force, then soften slightly at the trees that remain. Make yield and hold a balanced pair.",
+          "zh": "把海岸的力量读得有质感，到 the trees that remain 时稍稍放柔。让 yield 和 hold 形成平衡的一组。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Notice the First Creak",
+          "zh": "2. 留意第一声吱响"
+        },
+        "text": "People often admire endurance only after it becomes visible suffering. We praise the person who never cancels, never asks, never slows down. But resilience begins earlier, in the quiet skill of noticing strain. A shortened temper, a task reread three times, a body that cannot settle at night: these are not moral failures. They are the first creaks in the timber. Listen before the sound becomes a split. Move one deadline. Request one pair of hands. Take the walk that returns your breathing to its natural depth. A small adjustment made honestly can prevent a dramatic collapse performed bravely.",
+        "coaching": {
+          "en": "Keep the warning compassionate, not alarming. Read the three signs distinctly, then give the three adjustments practical momentum.",
+          "zh": "警示要带着体谅，而不是制造恐慌。三个信号要分明，三个调整行动要读出务实的推进感。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Protect the Root, Change the Branch",
+          "zh": "3. 护住根，改变枝条"
+        },
+        "text": "Adaptation does not require you to abandon everything. Decide what is root and what is branch. Your root may be care for your family, honesty in your work, or the promise to keep learning. A schedule is a branch. A job title is a branch. Even a cherished method may be only a branch. When conditions change, protect the value and reconsider the form. You may serve the same purpose through a different role, keep a friendship through a new rhythm, or pursue a craft by a humbler route. Flexibility becomes trustworthy when it serves something deeper than convenience.",
+        "coaching": {
+          "en": "Use warm emphasis for the roots and a lighter, more movable tone for the branches. Slow down on protect the value and reconsider the form.",
+          "zh": "读到根时要温暖重读，读到枝条时语气更轻、更灵活。在 protect the value and reconsider the form 处放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Grow in the New Direction",
+          "zh": "4. 朝新的方向生长"
+        },
+        "text": "After the storm, resilience is not a return to the exact former shape. Some doors remain closed. Some plans deserve to remain behind you. The question is not, How do I become untouched again? Ask instead, Where is there light now? Growth may begin sideways, beneath the notice of people waiting for a grand recovery. Let it be modest. Let the new branch be thin. Its first work is not to impress the horizon but to find enough light for another leaf. In time, what looked like a bend in your story may become the direction from which your strongest life continues.",
+        "coaching": {
+          "en": "Give the two questions different emotional colors: grief first, then curiosity. Keep the final growth modest and deeply hopeful.",
+          "zh": "两个问题要有不同的情感色彩：先是失落，再是好奇。结尾的生长要克制而深怀希望。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "exposed",
+      "meaning": {
+        "en": "Not protected from weather, danger, or pressure.",
+        "zh": "暴露的；未受保护的。"
+      },
+      "use": {
+        "en": "The house stands on an exposed hillside.",
+        "zh": "那座房子坐落在毫无遮挡的山坡上。"
+      }
+    },
+    {
+      "term": "rigid",
+      "meaning": {
+        "en": "Unable or unwilling to bend or change.",
+        "zh": "僵硬的；不愿改变的。"
+      },
+      "use": {
+        "en": "A rigid plan can fail when conditions shift.",
+        "zh": "条件变化时，僵化的计划可能失效。"
+      }
+    },
+    {
+      "term": "yield",
+      "meaning": {
+        "en": "To give way under pressure without necessarily giving up.",
+        "zh": "退让；在压力下弯曲，但不一定放弃。"
+      },
+      "use": {
+        "en": "The branch yielded to the wind and remained whole.",
+        "zh": "树枝顺着风弯曲，因此保持完整。"
+      }
+    },
+    {
+      "term": "strain",
+      "meaning": {
+        "en": "Pressure or tension caused by excessive demand.",
+        "zh": "压力；因负荷过重产生的紧张。"
+      },
+      "use": {
+        "en": "The extra workload placed strain on the team.",
+        "zh": "额外的工作量给团队带来了压力。"
+      }
+    },
+    {
+      "term": "collapse",
+      "meaning": {
+        "en": "A sudden failure or falling down of a system or structure.",
+        "zh": "崩溃；结构或系统突然失效。"
+      },
+      "use": {
+        "en": "Early support helped prevent a complete collapse.",
+        "zh": "及时的支持避免了彻底崩溃。"
+      }
+    },
+    {
+      "term": "cherished",
+      "meaning": {
+        "en": "Loved, valued, and protected with care.",
+        "zh": "珍爱的；被悉心珍视的。"
+      },
+      "use": {
+        "en": "She adapted a cherished tradition to a new home.",
+        "zh": "她让珍爱的传统适应了新家。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Lengthen the vowels slightly in coast, whole, root, and growth to create steadiness.",
+      "zh": "适当延长 coast、whole、root 和 growth 中的元音，营造稳定感。"
+    },
+    {
+      "en": "Keep the consonant clusters crisp in strength, pressed, strain, and branch.",
+      "zh": "清晰读出 strength、pressed、strain 和 branch 中的辅音组合。"
+    },
+    {
+      "en": "Balance the paired verbs in yield where yielding preserves and hold where holding protects.",
+      "zh": "平衡朗读 yield where yielding preserves 与 hold where holding protects 这组动词结构。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with the grounded flexibility of a coastal tree: rooted in value, responsive to weather.",
+      "zh": "像海岸树木那样带着扎根的灵活性跟读：价值坚定，对环境有回应。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: feel the pressure and release in each long sentence.",
+        "zh": "第一遍：感受每个长句中的压力与释放。"
+      },
+      {
+        "en": "Pass two: make the practical adjustments sound normal and wise.",
+        "zh": "第二遍：把务实的调整读得自然而明智。"
+      },
+      {
+        "en": "Pass three: let the final question turn grief into curiosity.",
+        "zh": "第三遍：让最后的问题把失落转化为好奇。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What first creak have you been treating as a personal failure instead of useful information?",
+      "zh": "你一直把哪一个“最初的吱响”当作个人失败，而没有视为有用的信息？"
+    },
+    {
+      "en": "In one changing situation, what is the root you want to protect and the branch you can alter?",
+      "zh": "在一个正在变化的处境中，你想保护的“根”是什么，又可以改变哪根“枝条”？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/bend-before-you-break/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/bend-before-you-break/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/bend-before-you-break/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/bend-before-you-break/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/bend-before-you-break/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/bend-before-you-break/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/bend-before-you-break/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/bend-before-you-break/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/bend-before-you-break/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/bend-before-you-break/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/bend-before-you-break/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/bend-before-you-break/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/bend-before-you-break/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/bend-before-you-break/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/bend-before-you-break/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/bend-before-you-break/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/bend-before-you-break/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/bend-before-you-break/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/bend-before-you-break/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/bend-before-you-break/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/bend-before-you-break/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/bend-before-you-break/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/bend-before-you-break/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/bend-before-you-break/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/bend-before-you-break/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/bend-before-you-break/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/bend-before-you-break/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/bend-before-you-break/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/bend-before-you-break/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/bend-before-you-break/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/bend-before-you-break/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/bend-before-you-break/clips/sources_0.mp3"
+    }
+  }
+}

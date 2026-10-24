@@ -1,0 +1,244 @@
+{
+  "lessonId": "give-the-work-its-season",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Give the Work Its Season",
+    "zh": "给工作一个完整的季节"
+  },
+  "subtitle": {
+    "en": "An original reflection on humane ambition, patient craft, and building a life at a sustainable pace.",
+    "zh": "一篇原创美文：关于有温度的抱负、耐心的技艺，以及以可持续的节奏构筑人生。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Ambition",
+    "Patience",
+    "Career",
+    "Craft",
+    "Sustainable Growth"
+  ],
+  "sources": [
+    {
+      "title": "The Conduct of Life",
+      "author": "Ralph Waldo Emerson",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/39827",
+      "note": {
+        "en": "Public-domain inspiration for reflections on work, power, culture, and the long formation of character; this lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品中对工作、力量、文化与人格长期养成的思考；本课完全原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with patient forward motion. Let ambition sound warm and durable, never frantic, and give the seasonal images room to breathe.",
+    "zh": "以耐心而向前的节奏朗读。让抱负听起来温暖、持久，而非急迫；给季节意象留出呼吸空间。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Pace That Can Carry You",
+      "zh": "能够承载你的节奏"
+    },
+    "intro": {
+      "en": "This original passage asks how we can pursue meaningful work without demanding that every seed become a harvest by Friday.",
+      "zh": "这篇原创文章追问：我们如何追求有意义的工作，而不要求每一粒种子都在周五之前变成收获。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Refuse the Emergency of Comparison",
+          "zh": "1. 拒绝比较制造的紧迫感"
+        },
+        "text": "Another person's success can turn an ordinary Tuesday into an emergency. You see the announcement, the new position, the finished book, and suddenly your own steady work appears late. Comparison removes the years from every achievement. It shows you the bright window but not the stairs, the repairs, or the evenings when no one applauded. Return time to the picture. The musician you admire once practiced scales badly. The trusted colleague once entered the room unsure of every name. A life seen whole is rarely a leap; it is usually a long agreement with repetition.",
+        "coaching": {
+          "en": "Begin with quick social pressure, then slow down at Return time to the picture. Make the hidden years feel reassuring, not dull.",
+          "zh": "开头读出社交压力的急促，到 Return time to the picture 时放慢。让隐藏的岁月听起来令人安心，而非乏味。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Name the Season You Are In",
+          "zh": "2. 说清你所处的季节"
+        },
+        "text": "Not every season is a season of visible fruit. Some are for learning the tools, paying the debt, caring for a parent, rebuilding health, or becoming less afraid of your own voice. If you demand a harvest from a season of roots, you may call necessary work a failure. Name the season accurately. This month may be for apprenticeship rather than recognition. This year may be for creating margin rather than expanding reach. A clear season does not excuse drift; it gives effort a direction. You can ask a kinder, sharper question: What does good work look like here, now, with these conditions?",
+        "coaching": {
+          "en": "Give each kind of season equal dignity. Stress accurately, then make the final question both kind and exacting.",
+          "zh": "赋予每一种季节同等的尊严。重读 accurately，最后的问题既要温和，也要有要求。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Build at the Speed of Trust",
+          "zh": "3. 以信任形成的速度建造"
+        },
+        "text": "Useful work often grows at the speed of trust. Trust in your hands comes from doing the small operation correctly many times. Trust between people comes from promises kept when keeping them is inconvenient. Trust in an idea comes from testing it where reality can answer back. None of this is instant, and none of it is passive. Patient work is full of motion: measuring, practicing, listening, correcting, returning. Its pace only looks slow to someone watching for spectacle. From inside the craft, each careful repetition is a beam being set into place.",
+        "coaching": {
+          "en": "Use a steady pulse through the three kinds of trust. Accelerate slightly through the five active verbs, then settle on beam.",
+          "zh": "三种信任要读出稳定的节拍。五个行动动词稍稍加速，最后稳稳落在 beam。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Choose a Pace That Leaves a Person",
+          "zh": "4. 选择一种还能留下完整自我的节奏"
+        },
+        "text": "There are victories that consume the person who wins them. A pace may be impressive for a month and impossible for a life. Before calling it discipline, ask what it is teaching your body, your friendships, and your attention. Sustainable ambition is not ambition made small. It is ambition designed to arrive with your curiosity intact and people you love still able to recognize you. Work hard, but leave enough silence to hear whether the work remains yours. The right pace will not remove difficulty. It will let difficulty shape your skill without taking possession of your whole character.",
+        "coaching": {
+          "en": "Open with sober gravity, not fear. Warm the definition of sustainable ambition, then finish with quiet authority on whole character.",
+          "zh": "开头要庄重克制，不要恐吓。解释 sustainable ambition 时要温暖，最后以安静的力量落在 whole character。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "frantic",
+      "meaning": {
+        "en": "Wildly hurried, anxious, or uncontrolled.",
+        "zh": "慌乱的；焦急而失控的。"
+      },
+      "use": {
+        "en": "A frantic pace made careful thinking difficult.",
+        "zh": "慌乱的节奏让缜密思考变得困难。"
+      }
+    },
+    {
+      "term": "apprenticeship",
+      "meaning": {
+        "en": "A period of learning a skill through guided practical work.",
+        "zh": "学徒期；通过指导下的实践学习技能的阶段。"
+      },
+      "use": {
+        "en": "She treated her first year as an apprenticeship.",
+        "zh": "她把第一年视为一段学徒期。"
+      }
+    },
+    {
+      "term": "margin",
+      "meaning": {
+        "en": "Extra room in time, money, or energy for unexpected needs.",
+        "zh": "余量；为意外需求留下的时间、金钱或精力空间。"
+      },
+      "use": {
+        "en": "A free evening gave him margin to recover.",
+        "zh": "一个空闲的夜晚给了他恢复的余量。"
+      }
+    },
+    {
+      "term": "drift",
+      "meaning": {
+        "en": "To move without a clear direction or deliberate choice.",
+        "zh": "漂移；缺乏明确方向地前进。"
+      },
+      "use": {
+        "en": "A patient plan still needs milestones to prevent drift.",
+        "zh": "耐心的计划仍需要里程碑，以免失去方向。"
+      }
+    },
+    {
+      "term": "spectacle",
+      "meaning": {
+        "en": "An impressive public display or striking sight.",
+        "zh": "盛大场面；引人注目的公开展示。"
+      },
+      "use": {
+        "en": "Real progress is not always a spectacle.",
+        "zh": "真正的进步并不总是轰动的场面。"
+      }
+    },
+    {
+      "term": "sustainable",
+      "meaning": {
+        "en": "Able to continue over time without exhausting its resources.",
+        "zh": "可持续的；能够长期维持而不耗尽资源的。"
+      },
+      "use": {
+        "en": "We need a sustainable rhythm for the whole year.",
+        "zh": "我们需要一种能维持全年的可持续节奏。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the rhythm even in measuring, practicing, listening, correcting, returning.",
+      "zh": "朗读 measuring、practicing、listening、correcting、returning 时保持均匀节奏。"
+    },
+    {
+      "en": "Link consonants smoothly in trust_in your hands, work_often grows, and leave_enough silence.",
+      "zh": "在 trust_in your hands、work_often grows 和 leave_enough silence 中自然连读。"
+    },
+    {
+      "en": "Contrast visible fruit with roots, recognition with apprenticeship, and spectacle with craft.",
+      "zh": "读出 visible fruit 与 roots、recognition 与 apprenticeship、spectacle 与 craft 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with steady ambition: purposeful enough to move, patient enough to remain fully human.",
+      "zh": "带着稳健的抱负跟读：目标明确，足以向前；也足够耐心，仍保有完整的人性。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: slow the moments where comparison distorts time.",
+        "zh": "第一遍：在比较扭曲时间的地方放慢。"
+      },
+      {
+        "en": "Pass two: make every season sound active and worthy.",
+        "zh": "第二遍：让每一种季节都听起来积极而有价值。"
+      },
+      {
+        "en": "Pass three: give sustainable ambition warmth and conviction.",
+        "zh": "第三遍：把可持续的抱负读出温度与信念。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What season are you actually in, and what would good work look like within it?",
+      "zh": "你实际上正处于什么季节？在这个季节里，好的工作应当是什么样子？"
+    },
+    {
+      "en": "Which part of your ambition needs a longer, more humane timetable?",
+      "zh": "你的哪一份抱负需要一个更长、更有人情味的时间表？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/give-the-work-its-season/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/give-the-work-its-season/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/give-the-work-its-season/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/give-the-work-its-season/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/give-the-work-its-season/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/give-the-work-its-season/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/give-the-work-its-season/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/give-the-work-its-season/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/give-the-work-its-season/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/give-the-work-its-season/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/give-the-work-its-season/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/give-the-work-its-season/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/give-the-work-its-season/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/give-the-work-its-season/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/give-the-work-its-season/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/give-the-work-its-season/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/give-the-work-its-season/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/give-the-work-its-season/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/give-the-work-its-season/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/give-the-work-its-season/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/give-the-work-its-season/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/give-the-work-its-season/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/give-the-work-its-season/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/give-the-work-its-season/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/give-the-work-its-season/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/give-the-work-its-season/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/give-the-work-its-season/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/give-the-work-its-season/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/give-the-work-its-season/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/give-the-work-its-season/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/give-the-work-its-season/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/give-the-work-its-season/clips/sources_0.mp3"
+    }
+  }
+}
