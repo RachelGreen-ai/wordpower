@@ -1,0 +1,244 @@
+{
+  "lessonId": "lower-your-voice-keep-your-ground",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Lower Your Voice, Keep Your Ground",
+    "zh": "放低声音，站稳立场"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm disagreement, precise language, and strength that does not need to shout.",
+    "zh": "一篇原创美文：关于冷静分歧、准确表达，以及无需高声证明的力量。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Composure",
+    "Boundaries",
+    "Listening",
+    "Courage"
+  ],
+  "sources": [
+    {
+      "title": "Moral Letters to Lucilius",
+      "author": "Seneca",
+      "organization": "Wikisource",
+      "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius",
+      "note": {
+        "en": "Public-domain inspiration for self-command and ethical speech; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中关于自我节制与合宜言说的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with a low, steady center. Let firmness come from clear endings, not extra volume.",
+    "zh": "用低沉、稳定的声音朗读。让坚定来自清晰的句尾，而不是更大的音量。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Quiet Weight of a Clear Sentence",
+      "zh": "清晰一句话的安静分量"
+    },
+    "intro": {
+      "en": "This original passage explores how a calm voice can protect both truth and relationship when a conversation grows tense.",
+      "zh": "这篇原创文章探讨：当谈话变得紧张时，平静的声音如何同时守护事实与关系。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When the Room Narrows",
+          "zh": "1. 当房间忽然变窄"
+        },
+        "text": "A difficult conversation can make a wide room feel narrow. The body prepares for danger before the mind has chosen its words: the jaw tightens, the breath rises, and every sentence seems to arrive wearing armor. We begin to listen for weapons instead of meaning. At such a moment, lowering your voice is not surrender. It is a way of returning choice to the conversation. A quieter pace gives each word a clean edge. It also gives the other person less noise to fight and more meaning to answer. Calm does not erase disagreement; it makes disagreement visible enough to examine.",
+        "coaching": {
+          "en": "Begin with contained tension. Slow after not surrender, and give the final contrast a measured, confident fall.",
+          "zh": "开头保留克制的紧张感。在 not surrender 之后放慢，末句的对比要沉稳、自信地下落。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Separate Heat from Light",
+          "zh": "2. 分开热度与光亮"
+        },
+        "text": "Anger sometimes carries useful information. It may tell us that a promise was broken, a boundary crossed, or a burden quietly shifted onto one pair of shoulders. But information and delivery are different things. If we throw the whole flame across the table, the light inside it becomes hard to see. Try naming the fact before judging the person: We agreed on Friday, and I received the work on Tuesday. Then name the effect: I had to cancel another commitment. Precision turns a cloud of accusation into something both people can hold. It does not make the harm smaller. It makes repair more possible.",
+        "coaching": {
+          "en": "Contrast flame with light. Read the two example statements plainly, leaving a brief pause between fact and effect.",
+          "zh": "突出 flame 与 light 的对比。两个示例句要平实清楚，事实与影响之间留一个短停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. A Boundary Is a Doorframe",
+          "zh": "3. 边界如同门框"
+        },
+        "text": "A boundary is not a wall built to punish someone. It is more like a doorframe: a clear shape that shows where a healthy exchange can pass. You can say, I want to continue this discussion, and I will do that when we can speak without insults. The sentence contains welcome and limit together. Notice what it does not contain: a threat, a diagnosis, or a performance of coldness. A good boundary describes your next action rather than trying to control another person's character. Because it is specific, it can be trusted. Because it is calm, it can be heard.",
+        "coaching": {
+          "en": "Warm the image of the doorframe. Give equal weight to welcome and limit, then make the last two sentences concise and grounded.",
+          "zh": "把 doorframe 的意象读得温和。welcome 与 limit 同等重读，最后两句要简洁、沉着。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave Dignity in the Room",
+          "zh": "4. 把尊严留在房间里"
+        },
+        "text": "The strongest conversations leave dignity in the room, even when agreement does not arrive. This requires a particular kind of courage: the willingness to protect your point without humiliating the person across from you. You may still say no. You may still name what must change. Yet you can refuse the small victory of making someone flinch. Later, people rarely remember every argument, but they remember whether truth was used as a lamp or a blade. Keep your ground. Lower your voice. Speak so that tomorrow, whether the relationship continues or ends, you can recognize the person who spoke today.",
+        "coaching": {
+          "en": "Let the paragraph widen toward dignity. Pause around lamp or a blade, then deliver the three closing sentences with quiet resolve.",
+          "zh": "让这一段逐步展开到 dignity。在 lamp or a blade 前后停顿，最后三句用安静的决心收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "composure",
+      "meaning": {
+        "en": "A calm and controlled state, especially under pressure.",
+        "zh": "沉着；尤其在压力下保持冷静自持。"
+      },
+      "use": {
+        "en": "She kept her composure while explaining the problem.",
+        "zh": "她在解释问题时保持了沉着。"
+      }
+    },
+    {
+      "term": "surrender",
+      "meaning": {
+        "en": "To stop resisting or give up a position.",
+        "zh": "投降；放弃抵抗或立场。"
+      },
+      "use": {
+        "en": "Speaking gently does not mean surrendering your point.",
+        "zh": "温和地说话并不意味着放弃你的立场。"
+      }
+    },
+    {
+      "term": "accusation",
+      "meaning": {
+        "en": "A claim that someone has done something wrong.",
+        "zh": "指责；声称某人做错了事。"
+      },
+      "use": {
+        "en": "Turn the accusation into a specific observation.",
+        "zh": "把指责转化为具体的观察。"
+      }
+    },
+    {
+      "term": "boundary",
+      "meaning": {
+        "en": "A clear limit that protects a healthy relationship or action.",
+        "zh": "边界；保护健康关系或行动的明确界限。"
+      },
+      "use": {
+        "en": "I need to set a boundary around weekend work.",
+        "zh": "我需要为周末工作设定边界。"
+      }
+    },
+    {
+      "term": "flinch",
+      "meaning": {
+        "en": "To make a quick movement from fear, pain, or surprise.",
+        "zh": "畏缩；因恐惧、疼痛或惊讶而猛然退缩。"
+      },
+      "use": {
+        "en": "Honesty should clarify the issue, not make people flinch.",
+        "zh": "坦诚应该澄清问题，而不是让人畏缩。"
+      }
+    },
+    {
+      "term": "quiet resolve",
+      "meaning": {
+        "en": "Firm determination expressed without drama or aggression.",
+        "zh": "安静的决心；不靠戏剧化或攻击来表达的坚定。"
+      },
+      "use": {
+        "en": "He answered with quiet resolve.",
+        "zh": "他以安静而坚定的态度作答。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants crisp in keep your ground and crossed a boundary.",
+      "zh": "在 keep your ground 和 crossed a boundary 中，把词尾辅音读清楚。"
+    },
+    {
+      "en": "Use contrastive stress in information and delivery are different things.",
+      "zh": "在 information and delivery are different things 中使用对比重音。"
+    },
+    {
+      "en": "Let your pitch fall steadily on Because it is calm, it can be heard.",
+      "zh": "读 Because it is calm, it can be heard 时，让音高稳定下降。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are protecting a relationship without abandoning the truth.",
+      "zh": "跟读时，想象你既在保护一段关系，也没有放弃事实。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: slow your breath before every sentence that names a limit.",
+        "zh": "第一遍：每个表达界限的句子之前，先放慢呼吸。"
+      },
+      {
+        "en": "Pass two: separate observations, effects, and requests with clear pauses.",
+        "zh": "第二遍：用清晰停顿分开观察、影响与请求。"
+      },
+      {
+        "en": "Pass three: make the ending firm enough to trust and warm enough to hear.",
+        "zh": "第三遍：让结尾坚定得值得信任，也温和得让人听得进去。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which difficult sentence would become stronger if you said it more quietly?",
+      "zh": "哪一句难说的话，如果声音更轻，反而会更有力量？"
+    },
+    {
+      "en": "How can you describe a boundary through your own next action?",
+      "zh": "你可以怎样用自己的下一步行动来表达边界？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/lower-your-voice-keep-your-ground/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/lower-your-voice-keep-your-ground/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-evidence-surprise-you",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Evidence Surprise You",
+    "zh": "让证据带来惊喜"
+  },
+  "subtitle": {
+    "en": "An original reflection on scientific curiosity, careful observation, and the freedom to revise a cherished idea.",
+    "zh": "一篇原创美文：关于科学好奇、细致观察，以及修改心爱观点的自由。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Curiosity",
+    "Observation",
+    "Learning",
+    "Humility"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration for attentive experiment and explaining science through ordinary phenomena; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中对细致实验与借日常现象讲解科学的实践；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with bright attention and intellectual humility. Let each observation feel freshly noticed.",
+    "zh": "带着明亮的专注与求知的谦逊朗读。让每一次观察都像刚刚被发现。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Experiment That Answers Back",
+      "zh": "会回答你的实验"
+    },
+    "intro": {
+      "en": "This original passage considers the moment when careful observation becomes more interesting than being right.",
+      "zh": "这篇原创文章思考这样一个时刻：细致观察开始比证明自己正确更有趣。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin with the Ordinary",
+          "zh": "1. 从平常之物开始"
+        },
+        "text": "A good question does not always enter wearing a white coat. It may be hiding in steam above a cup, in the brown edge of a cut apple, or in the faint delay between lightning and thunder. The ordinary world is generous with mysteries, but familiarity can make us poor observers. We name a thing and imagine we have finished seeing it. Science begins when the name becomes a doorway instead of a lid. What changes? What remains? What would happen if one condition were different? Curiosity gives the familiar world its depth back.",
+        "coaching": {
+          "en": "Read the opening images with fresh delight. Pause after each question, then give the final sentence a warm sense of discovery.",
+          "zh": "开头的意象要读出新鲜的欣喜。每个问题后停顿，末句带着温暖的发现感。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Give Wonder a Notebook",
+          "zh": "2. 给惊奇一本笔记"
+        },
+        "text": "Wonder becomes useful when it learns to keep notes. Write what happened before explaining why. Record the awkward result as carefully as the elegant one. Measure twice when your expectation feels especially strong, because desire can lean over the scale without making a sound. A notebook protects the experiment from the storyteller in us, the part that prefers a smooth plot and an impressive ending. Dates, quantities, sketches, and failed attempts may look dull on the page. Together, they form a path another mind can follow. Precision is curiosity made shareable.",
+        "coaching": {
+          "en": "Keep the instructions practical and lightly playful. Stress storyteller, smooth plot, and shareable.",
+          "zh": "这些指引要读得务实，并带一点轻盈。重读 storyteller、smooth plot 和 shareable。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Welcome the Difficult Result",
+          "zh": "3. 欢迎那个为难你的结果"
+        },
+        "text": "The most valuable result may be the one that embarrasses your prediction. At first, the mind rushes to defend itself: the tool was faulty, the sample unusual, the timing unfair. Any of these may be true, so check them. Then run the test again. If the difficult result remains, let it remain long enough to teach you. An idea is not a home you must defend from strangers. It is a temporary instrument for seeing. When evidence changes the tune, revising your idea is not an intellectual defeat. It is the moment your thinking becomes more accurate than your pride.",
+        "coaching": {
+          "en": "Add gentle humor to the mind's excuses. Slow through temporary instrument for seeing, then land firmly on accurate and pride.",
+          "zh": "读内心找借口的部分时带一点温和幽默。在 temporary instrument for seeing 处放慢，结尾重读 accurate 与 pride。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Explain the Flame",
+          "zh": "4. 讲清那束火焰"
+        },
+        "text": "Understanding grows stronger when it can travel. Try explaining what you observed to someone who does not share your vocabulary. Do not remove the complexity; build a clean path into it. Begin with what both of you can notice. Use one image, test where it breaks, and replace it when it begins to mislead. The aim is not to sound impressive. It is to make another person's attention more powerful. A well-explained idea is like a flame passed from one candle to another: the first light is not diminished, and the room becomes easier for everyone to examine.",
+        "coaching": {
+          "en": "Make the guidance inviting, not instructional. Brighten the candle image and let the final phrase open outward.",
+          "zh": "这些建议要读得像邀请，而不是说教。让 candle 的意象明亮起来，最后一句向外舒展。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "phenomenon",
+      "meaning": {
+        "en": "An event or fact that can be observed and studied.",
+        "zh": "现象；可以被观察和研究的事件或事实。"
+      },
+      "use": {
+        "en": "We began with an ordinary phenomenon: ice melting.",
+        "zh": "我们从一个普通现象开始：冰的融化。"
+      }
+    },
+    {
+      "term": "condition",
+      "meaning": {
+        "en": "A circumstance that affects how something happens.",
+        "zh": "条件；影响事情如何发生的情境因素。"
+      },
+      "use": {
+        "en": "Change one condition and observe the result.",
+        "zh": "改变一个条件，然后观察结果。"
+      }
+    },
+    {
+      "term": "precision",
+      "meaning": {
+        "en": "The quality of being exact and carefully expressed or measured.",
+        "zh": "精确；表达或测量准确而细致的品质。"
+      },
+      "use": {
+        "en": "Her precision made the experiment easy to repeat.",
+        "zh": "她的精确记录让实验很容易被重复。"
+      }
+    },
+    {
+      "term": "faulty",
+      "meaning": {
+        "en": "Not working correctly or containing a mistake.",
+        "zh": "有故障的；存在错误的。"
+      },
+      "use": {
+        "en": "We checked whether the sensor was faulty.",
+        "zh": "我们检查了传感器是否有故障。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To change an idea or text in order to improve or correct it.",
+        "zh": "修正；为改进或纠错而改变观点或文本。"
+      },
+      "use": {
+        "en": "The new evidence led us to revise our explanation.",
+        "zh": "新证据促使我们修正了解释。"
+      }
+    },
+    {
+      "term": "intellectual humility",
+      "meaning": {
+        "en": "Readiness to admit the limits of what you know and to learn from evidence.",
+        "zh": "求知的谦逊；愿意承认认知边界并向证据学习。"
+      },
+      "use": {
+        "en": "Intellectual humility makes disagreement more productive.",
+        "zh": "求知的谦逊让分歧更有建设性。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the four syllables clear in phenomenon: phe-nom-e-non.",
+      "zh": "读 phenomenon 时，清楚呈现四个音节：phe-nom-e-non。"
+    },
+    {
+      "en": "Link consonant to vowel in write what happened and run the test again.",
+      "zh": "在 write what happened 和 run the test again 中自然连接辅音与元音。"
+    },
+    {
+      "en": "Use contrastive stress in more accurate than your pride.",
+      "zh": "在 more accurate than your pride 中使用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are inviting a curious friend to look again at something familiar.",
+      "zh": "跟读时，想象你正邀请一位好奇的朋友重新观察一件熟悉之物。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: give every concrete image enough space to appear in the listener's mind.",
+        "zh": "第一遍：给每个具体意象足够空间，让它出现在听者脑海里。"
+      },
+      {
+        "en": "Pass two: make the questions sound genuinely open rather than rhetorical.",
+        "zh": "第二遍：把问题读得真正开放，而不是反问。"
+      },
+      {
+        "en": "Pass three: move from private discovery to the shared light of the final paragraph.",
+        "zh": "第三遍：从个人发现自然走向末段的共同光亮。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What ordinary phenomenon would you enjoy observing more carefully?",
+      "zh": "你愿意更仔细地观察哪一种日常现象？"
+    },
+    {
+      "en": "When did an inconvenient result improve your understanding?",
+      "zh": "什么时候，一个不合预期的结果反而改善了你的理解？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-evidence-surprise-you/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-evidence-surprise-you/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-evidence-surprise-you/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-evidence-surprise-you/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-evidence-surprise-you/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-evidence-surprise-you/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-evidence-surprise-you/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-evidence-surprise-you/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-evidence-surprise-you/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-evidence-surprise-you/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-evidence-surprise-you/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-evidence-surprise-you/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-evidence-surprise-you/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-evidence-surprise-you/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-evidence-surprise-you/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-evidence-surprise-you/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-evidence-surprise-you/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-evidence-surprise-you/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-evidence-surprise-you/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-evidence-surprise-you/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-evidence-surprise-you/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-evidence-surprise-you/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-evidence-surprise-you/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-evidence-surprise-you/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-evidence-surprise-you/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-evidence-surprise-you/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-evidence-surprise-you/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-evidence-surprise-you/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-evidence-surprise-you/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-evidence-surprise-you/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-evidence-surprise-you/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-evidence-surprise-you/clips/sources_0.mp3"
+    }
+  }
+}

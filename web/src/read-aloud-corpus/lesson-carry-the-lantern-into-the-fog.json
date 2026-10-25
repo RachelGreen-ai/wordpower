@@ -1,0 +1,244 @@
+{
+  "lessonId": "carry-the-lantern-into-the-fog",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Carry the Lantern into the Fog",
+    "zh": "提灯走入雾中"
+  },
+  "subtitle": {
+    "en": "An original reflection on leadership when the map is incomplete and certainty is unavailable.",
+    "zh": "一篇原创美文：关于地图尚不完整、确定性并不存在时的领导力。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Leadership",
+    "Courage",
+    "Uncertainty",
+    "Responsibility",
+    "Trust"
+  ],
+  "sources": [
+    {
+      "title": "South: The Story of Shackleton's Last Expedition, 1914-1917",
+      "author": "Ernest Shackleton",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/5199",
+      "note": {
+        "en": "Public-domain inspiration for leadership, endurance, and shared responsibility under uncertainty; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中关于不确定处境下的领导、坚忍与共同责任；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with forward motion and humane authority. Let uncertainty sound honest, never helpless.",
+    "zh": "用向前的节奏与有人情味的权威感朗读。让不确定听起来诚实，而不是无助。"
+  },
+  "passage": {
+    "title": {
+      "en": "Enough Light for the Next Ten Steps",
+      "zh": "照亮前方十步的光"
+    },
+    "intro": {
+      "en": "This original passage follows a leader who learns that direction can be credible even when the whole route is not yet known.",
+      "zh": "这篇原创文章写一位带领者如何明白：即使尚不知道完整路线，方向依然可以令人信服。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Map Ends Here",
+          "zh": "1. 地图到此为止"
+        },
+        "text": "There comes a point in every serious journey where the map becomes less detailed than the ground. The neat line on paper meets weather, fatigue, and a bridge that is no longer there. People turn toward the person in front, not because they expect magic, but because uncertainty has made attention precious. A weak leader invents confidence and calls it certainty. A useful leader says, Here is what we know, here is what has changed, and here is our next safe move. The admission does not shrink authority. It gives authority a surface people can stand on.",
+        "coaching": {
+          "en": "Open with spacious narration, then sharpen the three-part statement. Stress know, changed, and next safe move.",
+          "zh": "开头读得开阔，随后收紧三段式陈述。重读 know、changed 和 next safe move。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make the Load Visible",
+          "zh": "2. 让负担看得见"
+        },
+        "text": "In hard conditions, invisible burdens grow quickly. One person is carrying the extra equipment. Another is translating every instruction. Someone else is keeping fear from reaching the youngest member of the group. Leadership begins by noticing this hidden work. Ask who is tired before tiredness becomes failure. Rotate the difficult role before resentment hardens around it. Share the reason behind a decision, so sacrifice does not feel arbitrary. People can endure a demanding path when they understand its shape and see that the weight is being distributed with care. Fairness is not softness; it is a form of engineering for human strength.",
+        "coaching": {
+          "en": "Use a steady listing rhythm for the hidden burdens. Land clearly on Fairness is not softness, then broaden the final image.",
+          "zh": "列举隐形负担时保持稳定节奏。在 Fairness is not softness 上清楚落音，再展开最后的意象。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Keep One Promise Small Enough",
+          "zh": "3. 留一个足够小的承诺"
+        },
+        "text": "When the future is unstable, grand promises become brittle. A better promise may be smaller: I will tell you when the plan changes. I will not hide a risk to protect my image. I will ask before assuming you can carry more. Such promises fit inside a day, which means they can be kept and observed. Each kept promise becomes a plank in a bridge that did not exist that morning. Trust is rarely built by one magnificent speech. More often, it is assembled from modest statements that remain true after the weather turns.",
+        "coaching": {
+          "en": "Give each promise its own breath. Warm the bridge image, and slow the final phrase after the weather turns.",
+          "zh": "每个承诺都单独换气。把 bridge 的意象读得温暖，在 after the weather turns 处放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Walk Within the Light",
+          "zh": "4. 走在光照之内"
+        },
+        "text": "A lantern does not abolish the fog. It offers enough light for the next ten steps, and then the next ten after those. This is often what people need from a leader: not a performance of perfect vision, but a disciplined practice of looking, deciding, and looking again. The person carrying the light must stay close enough to hear footsteps behind her. She must also raise it high enough for others to notice hazards and choices for themselves. Good leadership does not make followers dependent on one pair of eyes. It helps a group become more observant, more honest, and more capable of finding the way together.",
+        "coaching": {
+          "en": "Let the lantern image glow without becoming sentimental. Build momentum through looking, deciding, and looking again, then finish inclusively.",
+          "zh": "让 lantern 的意象发光，但不要煽情。在 looking, deciding, and looking again 中推进节奏，最后以包容的语气收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "credible",
+      "meaning": {
+        "en": "Able to be believed or trusted.",
+        "zh": "可信的；值得相信或信赖的。"
+      },
+      "use": {
+        "en": "The plan is credible because it names the risks.",
+        "zh": "这份计划之所以可信，是因为它说明了风险。"
+      }
+    },
+    {
+      "term": "arbitrary",
+      "meaning": {
+        "en": "Based on personal choice rather than a clear reason or system.",
+        "zh": "武断的；缺乏明确理由或规则的。"
+      },
+      "use": {
+        "en": "Explain the decision so it does not feel arbitrary.",
+        "zh": "解释这个决定，以免让人觉得它很武断。"
+      }
+    },
+    {
+      "term": "distributed",
+      "meaning": {
+        "en": "Shared or spread across several people or places.",
+        "zh": "被分配的；分散到多人或多处的。"
+      },
+      "use": {
+        "en": "The workload should be distributed fairly.",
+        "zh": "工作量应该得到公平分配。"
+      }
+    },
+    {
+      "term": "brittle",
+      "meaning": {
+        "en": "Hard but easily broken; unable to adapt under pressure.",
+        "zh": "脆弱易碎的；在压力下缺乏弹性的。"
+      },
+      "use": {
+        "en": "Overconfident promises become brittle when conditions change.",
+        "zh": "条件变化时，过度自信的承诺会变得脆弱。"
+      }
+    },
+    {
+      "term": "disciplined",
+      "meaning": {
+        "en": "Controlled, consistent, and guided by careful practice.",
+        "zh": "自律而有章法的；由持续、审慎的实践所引导。"
+      },
+      "use": {
+        "en": "We need a disciplined review of the evidence.",
+        "zh": "我们需要有章法地审视证据。"
+      }
+    },
+    {
+      "term": "within the light",
+      "meaning": {
+        "en": "Inside the range of what can currently be known or seen.",
+        "zh": "在光照范围内；处于当前能够知道或看见的范围。"
+      },
+      "use": {
+        "en": "Make the best decision available within the light.",
+        "zh": "在现有认知范围内作出最好的决定。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the words smoothly in next safe move and shared responsibility.",
+      "zh": "在 next safe move 和 shared responsibility 中自然连读。"
+    },
+    {
+      "en": "Keep the unstressed syllables light in uncertainty and responsibility.",
+      "zh": "读 uncertainty 和 responsibility 时，非重读音节要轻。"
+    },
+    {
+      "en": "Use a rising list and a firm fall in looking, deciding, and looking again.",
+      "zh": "在 looking, deciding, and looking again 中，列举部分上扬，结尾坚定下降。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your calm honesty is helping a tired group take one more useful step.",
+      "zh": "跟读时，想象你的冷静与坦诚正在帮助一个疲惫的团队再迈出有效的一步。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: mark every contrast between false certainty and useful direction.",
+        "zh": "第一遍：标出虚假确定与有效方向之间的每一处对比。"
+      },
+      {
+        "en": "Pass two: make the small promises sound concrete and immediately believable.",
+        "zh": "第二遍：把那些小承诺读得具体、当下就可信。"
+      },
+      {
+        "en": "Pass three: let the final section move from one lantern to shared sight.",
+        "zh": "第三遍：让最后一节从一盏灯自然走向共同的视野。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What is one honest next step you can name without pretending to know the whole route?",
+      "zh": "不假装知道完整路线的前提下，你能说清的下一个诚实步骤是什么？"
+    },
+    {
+      "en": "Which invisible burden in your group needs to be noticed or redistributed?",
+      "zh": "你的团队中，哪一份隐形负担需要被看见或重新分配？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/carry-the-lantern-into-the-fog/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/carry-the-lantern-into-the-fog/clips/sources_0.mp3"
+    }
+  }
+}
