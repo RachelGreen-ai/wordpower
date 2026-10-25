@@ -60,6 +60,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 
 - [Answer with Room](https://wordpower-seven.vercel.app/read-aloud/answer-with-room): An original reflection on keeping dignity and clarity inside a difficult conversation.
 - [Ask the Candle Why](https://wordpower-seven.vercel.app/read-aloud/ask-the-candle-why): An original reflection on scientific curiosity, patient questions, and the wonder hidden in ordinary things.
+- [Ask the Unpolished Question](https://wordpower-seven.vercel.app/read-aloud/ask-the-unpolished-question): An original reflection on learning aloud, useful uncertainty, and the courage to be briefly inexperienced.
 - [A Quiet Morning Teaches Attention.](https://wordpower-seven.vercel.app/read-aloud/attention-quiet-morning): A three-to-five-minute passage for practicing calm observation, nature vocabulary, and gentle oral rhythm.
 - [Before You Name the Stranger](https://wordpower-seven.vercel.app/read-aloud/before-you-name-the-stranger): An original reflection on moral imagination, incomplete stories, and the discipline of humane attention.
 - [Begin Before You Feel Ready.](https://wordpower-seven.vercel.app/read-aloud/begin-before-ready): A William James-inspired passage on habit, attention, and the quiet courage of first actions.
@@ -72,9 +73,11 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [The Courage to Revise](https://wordpower-seven.vercel.app/read-aloud/courage-to-revise): An original passage on learning, intellectual humility, and changing your mind without losing yourself.
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
 - [Freedom Needs an Inner Home.](https://wordpower-seven.vercel.app/read-aloud/freedom-needs-inner-home): A Fromm-inspired reflective passage on why freedom can feel frightening unless the self has somewhere to stand.
+- [Give the Child a Real Task](https://wordpower-seven.vercel.app/read-aloud/give-the-child-a-real-task): An original reflection on trust, capable hands, and the dignity of contributing to family life.
 - [Give the Work Its Season](https://wordpower-seven.vercel.app/read-aloud/give-the-work-its-season): An original reflection on humane ambition, patient craft, and building a life at a sustainable pace.
 - [Imagine the Unseen Life](https://wordpower-seven.vercel.app/read-aloud/imagine-the-unseen-life): An original reflection on moral imagination, fair judgment, and the stories hidden behind behavior.
 - [Keep a Field Notebook](https://wordpower-seven.vercel.app/read-aloud/keep-a-field-notebook): An original reflection on attention, patient observation, and learning to see before we explain.
+- [Keep a Private Measure](https://wordpower-seven.vercel.app/read-aloud/keep-a-private-measure): An original reflection on self-trust, borrowed standards, and the quiet discipline of choosing what counts.
 - [Keep One Chair Empty](https://wordpower-seven.vercel.app/read-aloud/keep-one-chair-empty): An original reflection on composure, disagreement, and leaving room for a better interpretation.
 - [Keep One Promise to Yourself](https://wordpower-seven.vercel.app/read-aloud/keep-one-promise-to-yourself): An original reflection on self-trust, modest habits, and becoming someone whose own word has weight.
 - [Keep the Door in the Conversation](https://wordpower-seven.vercel.app/read-aloud/keep-the-door-in-the-conversation): An original reflection on disagreement, dignity, and the language that keeps understanding possible.

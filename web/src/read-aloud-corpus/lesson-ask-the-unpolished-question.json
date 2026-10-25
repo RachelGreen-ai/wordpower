@@ -1,0 +1,244 @@
+{
+  "lessonId": "ask-the-unpolished-question",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Ask the Unpolished Question",
+    "zh": "问出那个尚未打磨的问题"
+  },
+  "subtitle": {
+    "en": "An original reflection on learning aloud, useful uncertainty, and the courage to be briefly inexperienced.",
+    "zh": "一篇原创美文：关于公开学习、有价值的不确定，以及暂时显得生疏的勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Learning",
+    "Career",
+    "Curiosity",
+    "Courage",
+    "Conversation"
+  ],
+  "sources": [
+    {
+      "title": "The Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/20203",
+      "note": {
+        "en": "Public-domain inspiration for deliberate learning and practical inquiry; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中对主动学习与务实探究的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with open, grounded curiosity. Let each question sound like an invitation, not an apology.",
+    "zh": "带着坦诚而踏实的好奇心朗读。让每个问题听起来像邀请，而不是道歉。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Question Before It Learns to Dress",
+      "zh": "问题尚未学会穿戴整齐时"
+    },
+    "intro": {
+      "en": "This original passage follows a learner who discovers that a plain question can move a whole room toward clearer work.",
+      "zh": "这篇原创文章写一位学习者如何发现：一个朴素的问题，也能带领整个房间走向更清晰的工作。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Polished Room",
+          "zh": "1. 光鲜的房间"
+        },
+        "text": "In a meeting, everyone may appear to understand. Heads nod at the right moments. Familiar phrases cross the table, smooth from years of use. Yet beneath the polished surface, several people may be carrying the same small confusion. Each waits for someone more junior, more senior, or less cautious to expose it. Silence begins to imitate knowledge. Then one person asks, plainly, What will this change for the customer on Monday morning? The room pauses. Not because the question is clever, but because it restores the floor beneath the conversation.",
+        "coaching": {
+          "en": "Keep the opening observant and lightly ironic. Give the quoted question clean emphasis, then slow down on restores the floor.",
+          "zh": "开头读得敏锐，带一点轻微反讽。引用的问题要清楚重读，在 restores the floor 处放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Temporary Awkwardness",
+          "zh": "2. 短暂的笨拙"
+        },
+        "text": "A useful question often arrives without elegant clothing. It may be too direct. It may reveal that we missed a step others seem to have crossed. This is why asking can feel expensive: we trade a few seconds of looking inexperienced for the chance to become genuinely informed. The trade is usually favorable. Embarrassment fades quickly; a false assumption can travel for months. The learner who accepts temporary awkwardness is not lowering the standard of the room. She is refusing to let performance replace understanding.",
+        "coaching": {
+          "en": "Stress the contrast between a few seconds and months. Keep the final sentence firm, without sounding defensive.",
+          "zh": "重读 a few seconds 与 months 的对比。末句要坚定，但不要带防御感。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Give It a Handle",
+          "zh": "3. 给问题装上把手"
+        },
+        "text": "Questions improve when we give them a handle. Instead of saying, I do not get it, name the point where the path disappeared: I understand why we chose the goal, but not how this measure will show progress. A handle lets another person lift the problem with you. It also shows that curiosity and preparation are partners. You have listened closely enough to locate the gap. Precision does not make a question less humble. It makes the humility useful.",
+        "coaching": {
+          "en": "Read the example slowly enough for its structure to register. Land warmly on makes the humility useful.",
+          "zh": "示例句要放慢，让结构清晰可辨。结尾 makes the humility useful 要温和落地。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Culture That Can Learn",
+          "zh": "4. 一个会学习的环境"
+        },
+        "text": "Over time, honest questions change more than the person who asks them. They teach a team what kind of uncertainty is welcome. They make it easier to test a plan before reality tests it more harshly. They allow expertise to breathe, because experts no longer need to pretend that every answer arrived complete. The unpolished question is not the opposite of confidence. Often it is confidence in its most durable form: trust that your value can survive one unfinished sentence, and that the work matters more than appearing finished yourself.",
+        "coaching": {
+          "en": "Build gently through the repeated They phrases. Widen the final sentence and stress durable, survive, and work.",
+          "zh": "在重复的 They 句式中逐步推进。末句舒展开来，重读 durable、survive 和 work。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "polished",
+      "meaning": {
+        "en": "Refined, confident, and carefully presented.",
+        "zh": "经过打磨的；表达成熟而得体的。"
+      },
+      "use": {
+        "en": "The proposal was polished, but one assumption remained unclear.",
+        "zh": "这份提案很成熟，但仍有一个假设不够清楚。"
+      }
+    },
+    {
+      "term": "expose",
+      "meaning": {
+        "en": "To make something hidden visible or known.",
+        "zh": "揭示；使隐藏之物显露。"
+      },
+      "use": {
+        "en": "Her question exposed a gap in our plan.",
+        "zh": "她的问题揭示了计划中的一个缺口。"
+      }
+    },
+    {
+      "term": "genuinely",
+      "meaning": {
+        "en": "Truly and sincerely, rather than only in appearance.",
+        "zh": "真正地；并非只停留在表面。"
+      },
+      "use": {
+        "en": "I want to be genuinely informed before I decide.",
+        "zh": "我想在决定前真正了解情况。"
+      }
+    },
+    {
+      "term": "favorable",
+      "meaning": {
+        "en": "Likely to produce a good or useful result.",
+        "zh": "有利的；可能带来好结果的。"
+      },
+      "use": {
+        "en": "The long-term trade is favorable.",
+        "zh": "从长期来看，这笔取舍是划算的。"
+      }
+    },
+    {
+      "term": "locate the gap",
+      "meaning": {
+        "en": "To identify the exact point where understanding is missing.",
+        "zh": "找出理解中具体的断点。"
+      },
+      "use": {
+        "en": "A careful summary helped us locate the gap.",
+        "zh": "一次仔细的总结帮助我们找到了理解的断点。"
+      }
+    },
+    {
+      "term": "durable",
+      "meaning": {
+        "en": "Able to remain strong or useful over time.",
+        "zh": "持久的；经得住时间考验的。"
+      },
+      "use": {
+        "en": "Trust is more durable than a perfect first impression.",
+        "zh": "信任比完美的第一印象更持久。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the consonants smoothly in polished surface and useful question.",
+      "zh": "在 polished surface 和 useful question 中自然连接相邻音节。"
+    },
+    {
+      "en": "Keep the middle syllable light in genuinely: gen-u-ine-ly.",
+      "zh": "读 genuinely 时，中间音节要轻：gen-u-ine-ly。"
+    },
+    {
+      "en": "Use contrastive stress in performance replace understanding.",
+      "zh": "在 performance replace understanding 中使用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are making it safer for a thoughtful colleague to speak next.",
+      "zh": "跟读时，想象你正在让一位认真思考的同事更安心地接着发言。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: preserve the short pauses around each contrast.",
+        "zh": "第一遍：保留每组对比前后的短停顿。"
+      },
+      {
+        "en": "Pass two: make every example question clear and unhurried.",
+        "zh": "第二遍：把每个示例问题读得清楚从容。"
+      },
+      {
+        "en": "Pass three: let the final paragraph grow from personal courage into shared culture.",
+        "zh": "第三遍：让末段从个人勇气自然扩展到共同文化。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What question have you delayed because it did not sound polished enough?",
+      "zh": "有什么问题，你因为觉得它不够成熟而迟迟没有问？"
+    },
+    {
+      "en": "How could you give that question a clearer handle?",
+      "zh": "你可以怎样给这个问题装上一个更清晰的“把手”？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/ask-the-unpolished-question/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/ask-the-unpolished-question/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/ask-the-unpolished-question/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/ask-the-unpolished-question/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/ask-the-unpolished-question/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/ask-the-unpolished-question/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/ask-the-unpolished-question/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/ask-the-unpolished-question/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/ask-the-unpolished-question/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/ask-the-unpolished-question/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/ask-the-unpolished-question/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/ask-the-unpolished-question/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/ask-the-unpolished-question/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/ask-the-unpolished-question/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/ask-the-unpolished-question/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/ask-the-unpolished-question/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/ask-the-unpolished-question/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/ask-the-unpolished-question/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/ask-the-unpolished-question/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/ask-the-unpolished-question/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/ask-the-unpolished-question/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/ask-the-unpolished-question/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/ask-the-unpolished-question/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/ask-the-unpolished-question/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/ask-the-unpolished-question/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/ask-the-unpolished-question/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/ask-the-unpolished-question/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/ask-the-unpolished-question/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/ask-the-unpolished-question/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/ask-the-unpolished-question/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/ask-the-unpolished-question/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/ask-the-unpolished-question/clips/sources_0.mp3"
+    }
+  }
+}

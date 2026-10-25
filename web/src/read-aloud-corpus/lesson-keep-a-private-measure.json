@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-a-private-measure",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep a Private Measure",
+    "zh": "为自己保留一把尺子"
+  },
+  "subtitle": {
+    "en": "An original reflection on self-trust, borrowed standards, and the quiet discipline of choosing what counts.",
+    "zh": "一篇原创美文：关于自我信任、借来的标准，以及选择何为重要的安静自律。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Self-trust",
+    "Values",
+    "Attention",
+    "Courage",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Essays, First Series",
+      "author": "Ralph Waldo Emerson",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2944",
+      "note": {
+        "en": "Public-domain inspiration for self-reliance and independent judgment; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中关于自立与独立判断的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with quiet conviction. Let the central images carry weight without turning them into slogans.",
+    "zh": "带着安静的笃定朗读。让核心意象自然承载分量，不要把它们读成口号。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Ruler No One Else Can Hold",
+      "zh": "那把别人无法替你拿的尺子"
+    },
+    "intro": {
+      "en": "This original passage explores how a private standard can steady us when public signals grow loud and contradictory.",
+      "zh": "这篇原创文章探讨：当外界信号喧闹而矛盾时，一套内在标准如何让我们站稳。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Public Scoreboard",
+          "zh": "1. 公共记分牌"
+        },
+        "text": "The world is generous with measurements. It counts the messages answered, the miles traveled, the applause collected before lunch. Some measures are useful; they show movement and reveal neglect. Trouble begins when every number becomes a verdict. We start arranging our days for the scoreboard rather than the life beneath it. A crowded calendar looks important, although the work that matters may require an empty hour. A quick reply looks caring, although a truthful reply may need a night of thought.",
+        "coaching": {
+          "en": "Keep the opening crisp. Slow down through the two although contrasts and let them sound humane, not critical.",
+          "zh": "开头读得利落。两个 although 对比要放慢，语气保持体谅，不要批判。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Borrowed Rulers",
+          "zh": "2. 借来的尺子"
+        },
+        "text": "Many standards enter quietly. We borrow a colleague's pace, a parent's definition of security, a stranger's picture of a good morning. Soon we are disappointed by a life we never consciously chose. The borrowed ruler is not always wrong. It may contain wisdom, warning, or hard-earned craft. But before we use it, we should ask what it was built to measure. A ruler designed for speed cannot tell us whether the journey deserves to be made.",
+        "coaching": {
+          "en": "Give the list a measured rhythm. Place a clean pause before the final sentence and stress speed and deserves.",
+          "zh": "列表要读出从容节奏。末句前清楚停顿，重读 speed 和 deserves。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Choose the Evidence",
+          "zh": "3. 选择证据"
+        },
+        "text": "A private measure begins with evidence close to the bone. Did I keep the promise that no one would have noticed me breaking? Did my attention make another person less alone? Did I leave the work more honest than I found it? These questions do not guarantee comfort. In fact, they can be more demanding than praise, because they cannot be satisfied by appearance. Yet they offer a steadier kind of freedom: the ability to recognize progress before the room agrees.",
+        "coaching": {
+          "en": "Let each question stand on its own. Keep demanding firm, then soften into steadier kind of freedom.",
+          "zh": "让每个问题独立成立。demanding 要读得坚定，随后在 steadier kind of freedom 处放柔。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Measure, Then Release",
+          "zh": "4. 衡量，然后放下"
+        },
+        "text": "Even a private standard can become a cage if we grip it without mercy. The purpose is not to inspect every hour for failure. It is to return, now and then, to the direction we meant to travel. Measure with honesty; adjust with kindness; continue without ceremony. Self-trust grows from this repeated return. It is not the belief that every choice is right. It is the knowledge that when noise carries you away, you have a quiet instrument for finding your way back.",
+        "coaching": {
+          "en": "Read the three-part instruction with balanced beats. Let the final sentence become slower and more spacious.",
+          "zh": "三段式指引要节拍均衡。最后一句逐渐放慢，读出更开阔的空间感。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment about a person, action, or result.",
+        "zh": "对人、行动或结果作出的最终判断。"
+      },
+      "use": {
+        "en": "One difficult week is not a verdict on your ability.",
+        "zh": "艰难的一周并不能断定你的能力。"
+      }
+    },
+    {
+      "term": "beneath",
+      "meaning": {
+        "en": "Under something, including below its visible surface.",
+        "zh": "在……之下；也指隐藏在表面之下。"
+      },
+      "use": {
+        "en": "Look beneath the number to the life it represents.",
+        "zh": "越过数字，看看它所代表的生活。"
+      }
+    },
+    {
+      "term": "consciously",
+      "meaning": {
+        "en": "With deliberate awareness and intention.",
+        "zh": "有意识地；经过主动思考地。"
+      },
+      "use": {
+        "en": "She consciously chose a slower pace.",
+        "zh": "她有意识地选择了更慢的节奏。"
+      }
+    },
+    {
+      "term": "hard-earned",
+      "meaning": {
+        "en": "Gained through considerable effort or difficulty.",
+        "zh": "通过大量努力或困难才获得的。"
+      },
+      "use": {
+        "en": "His advice came from hard-earned experience.",
+        "zh": "他的建议来自来之不易的经验。"
+      }
+    },
+    {
+      "term": "close to the bone",
+      "meaning": {
+        "en": "Deeply personal, essential, and emotionally direct.",
+        "zh": "切中内心、关乎本质且直接的。"
+      },
+      "use": {
+        "en": "Her final question came close to the bone.",
+        "zh": "她最后的问题直抵内心。"
+      }
+    },
+    {
+      "term": "without ceremony",
+      "meaning": {
+        "en": "Simply, without extra attention or formality.",
+        "zh": "不声张地；没有多余仪式地。"
+      },
+      "use": {
+        "en": "He corrected the course and continued without ceremony.",
+        "zh": "他不声张地调整方向，继续前行。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters clear in private standard and hard-earned craft.",
+      "zh": "清楚读出 private standard 和 hard-earned craft 中的辅音组合。"
+    },
+    {
+      "en": "Reduce the function words naturally in the life beneath it.",
+      "zh": "在 the life beneath it 中自然弱读功能词。"
+    },
+    {
+      "en": "Use balanced stress in honesty, kindness, and ceremony.",
+      "zh": "在 honesty、kindness 和 ceremony 上使用均衡重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking to yourself at the end of a noisy week.",
+      "zh": "跟读时，想象你在喧闹的一周结束时对自己说话。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: mark every contrast with a small pause.",
+        "zh": "第一遍：用短停顿标出每一处对比。"
+      },
+      {
+        "en": "Pass two: make the three private questions direct and sincere.",
+        "zh": "第二遍：把三个内在问题读得直接而真诚。"
+      },
+      {
+        "en": "Pass three: let the ending settle rather than rise into triumph.",
+        "zh": "第三遍：让结尾安静落定，不要扬成胜利宣言。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which borrowed measure has been shaping your choices lately?",
+      "zh": "最近，有哪一把“借来的尺子”正在影响你的选择？"
+    },
+    {
+      "en": "What private evidence would tell you that this week mattered?",
+      "zh": "什么内在证据能让你确认，这一周过得有意义？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-private-measure/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-private-measure/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-private-measure/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-private-measure/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-private-measure/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-a-private-measure/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-a-private-measure/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-private-measure/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-private-measure/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-private-measure/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-private-measure/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-private-measure/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-private-measure/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-private-measure/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-private-measure/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-private-measure/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-private-measure/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-private-measure/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-private-measure/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-private-measure/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-private-measure/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-private-measure/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-private-measure/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-private-measure/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-private-measure/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-private-measure/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-private-measure/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-private-measure/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-private-measure/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-private-measure/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-private-measure/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-private-measure/clips/sources_0.mp3"
+    }
+  }
+}

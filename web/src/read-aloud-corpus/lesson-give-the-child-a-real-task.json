@@ -1,0 +1,244 @@
+{
+  "lessonId": "give-the-child-a-real-task",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Give the Child a Real Task",
+    "zh": "给孩子一件真正的任务"
+  },
+  "subtitle": {
+    "en": "An original reflection on trust, capable hands, and the dignity of contributing to family life.",
+    "zh": "一篇原创美文：关于信任、有能力的双手，以及参与家庭生活的尊严。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Trust",
+    "Responsibility",
+    "Growth",
+    "Family"
+  ],
+  "sources": [
+    {
+      "title": "The Montessori Method",
+      "author": "Maria Montessori",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/39863",
+      "note": {
+        "en": "Public-domain inspiration for purposeful activity, independence, and respect for a child's developing abilities; this lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品中对有目的的活动、独立性和尊重儿童成长能力的思考；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with warmth and respect. Avoid a childish tone; let the child's competence be heard.",
+    "zh": "带着温暖与尊重朗读。不要使用幼稚化的语气，要让人听见孩子的能力。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Place at the Working Table",
+      "zh": "在做事的桌边留一个位置"
+    },
+    "intro": {
+      "en": "This original passage considers what changes when children are invited not merely to watch family life, but to help shape it.",
+      "zh": "这篇原创文章思考：当孩子不只是旁观家庭生活，而是受邀参与其中时，会发生怎样的变化。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Small Pitcher",
+          "zh": "1. 小水壶"
+        },
+        "text": "A child carries a small pitcher toward the table with both hands. The adults notice every danger: the loose rug, the crowded chair, the glass waiting at the edge. Their first impulse is to rescue the moment—to take the pitcher, pour the water, and preserve a dry floor. But the child is not carrying only water. She is carrying a share of the evening. Her steps say, I belong to what happens here. If we remove every risk, we may also remove the proof that her effort is needed.",
+        "coaching": {
+          "en": "Begin with careful visual detail. Slow down on not carrying only water, and make the final sentence thoughtful rather than severe.",
+          "zh": "开头细致呈现画面。在 not carrying only water 处放慢，末句要引人思考，不要读得严厉。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Work That Matters",
+          "zh": "2. 真正有用的事"
+        },
+        "text": "Children recognize decorative work. They know when the towel they folded will be unfolded and done again, or when praise arrives before anyone has looked. A real task has a consequence. The dog receives water. The torn page becomes usable. Three spoons reach three places because someone counted carefully. Such work does not need to be grand. It needs to enter the living current of the household, where one person's attention makes another person's day easier.",
+        "coaching": {
+          "en": "Keep the examples concrete and rhythmic. Give consequence and living current gentle emphasis.",
+          "zh": "把几个例子读得具体而有节奏。轻轻重读 consequence 和 living current。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Patient Standards",
+          "zh": "3. 有耐心的标准"
+        },
+        "text": "Respect does not mean pretending that every attempt is perfect. Water spills. Corners remain dusty. A button is fastened through the wrong hole. We can protect dignity while teaching skill: show one movement slowly, name one improvement clearly, and leave room for another attempt. Constant correction makes the adult the owner of the task. Patient standards return ownership to the learner. The message becomes neither Anything goes nor Do it my way. It becomes: this work matters, and I believe you can grow into it.",
+        "coaching": {
+          "en": "Use a calm teaching rhythm through the three instructions. Hold the two rejected messages apart, then warm the final line.",
+          "zh": "三个指导动作要用平静的教学节奏。两个被否定的说法之间要留出距离，末句读得温暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Memory of Usefulness",
+          "zh": "4. 被需要的记忆"
+        },
+        "text": "Years later, a child may not remember the spotless room. She may remember the weight of the pitcher and the adult who did not seize it. From such moments, self-trust gathers quietly. I can learn the movement. I can repair a mistake. I can be useful without being flawless. A family teaches belonging not only through affection, but through shared responsibility. Love says, You are precious here. Meaningful work adds another sentence: You have something to give.",
+        "coaching": {
+          "en": "Let the three I can sentences gather confidence. Separate the final two sentences with a generous pause.",
+          "zh": "让三个 I can 句子逐步积聚信心。最后两句之间留出宽裕的停顿。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "first impulse",
+      "meaning": {
+        "en": "The immediate urge to act before reflection.",
+        "zh": "未经思考时最先出现的行动冲动。"
+      },
+      "use": {
+        "en": "My first impulse was to help, but she wanted to try.",
+        "zh": "我的第一反应是帮忙，但她想自己试试。"
+      }
+    },
+    {
+      "term": "preserve",
+      "meaning": {
+        "en": "To keep something in its existing condition.",
+        "zh": "保持；使某物维持原状。"
+      },
+      "use": {
+        "en": "We cannot preserve a perfect room and encourage every experiment.",
+        "zh": "我们无法既保持房间完美，又鼓励每一次尝试。"
+      }
+    },
+    {
+      "term": "consequence",
+      "meaning": {
+        "en": "A result or effect produced by an action.",
+        "zh": "行动所带来的结果或影响。"
+      },
+      "use": {
+        "en": "The task has a visible consequence.",
+        "zh": "这项任务会带来一个看得见的结果。"
+      }
+    },
+    {
+      "term": "dignity",
+      "meaning": {
+        "en": "The quality of deserving respect.",
+        "zh": "值得尊重的尊严。"
+      },
+      "use": {
+        "en": "Correct the mistake without damaging her dignity.",
+        "zh": "纠正错误时，不要伤害她的尊严。"
+      }
+    },
+    {
+      "term": "fasten",
+      "meaning": {
+        "en": "To close or attach something securely.",
+        "zh": "扣紧；系牢。"
+      },
+      "use": {
+        "en": "He learned to fasten his own coat.",
+        "zh": "他学会了自己扣好外套。"
+      }
+    },
+    {
+      "term": "flawless",
+      "meaning": {
+        "en": "Without any fault or imperfection.",
+        "zh": "毫无瑕疵的；完美无缺的。"
+      },
+      "use": {
+        "en": "Useful work does not have to be flawless.",
+        "zh": "有用的工作不必完美无缺。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link final consonants in small pitcher and shared responsibility.",
+      "zh": "在 small pitcher 和 shared responsibility 中自然连接词尾辅音。"
+    },
+    {
+      "en": "Keep all five syllables clear in responsibility.",
+      "zh": "读 responsibility 时，要清楚呈现五个音节。"
+    },
+    {
+      "en": "Use gentle contrastive stress in precious here and something to give.",
+      "zh": "在 precious here 和 something to give 中使用温和的对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are telling a true family story to a thoughtful parent.",
+      "zh": "跟读时，想象你正向一位善于思考的家长讲述一个真实的家庭故事。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: pause after each concrete household image.",
+        "zh": "第一遍：在每个具体的家庭画面后停顿。"
+      },
+      {
+        "en": "Pass two: make the contrasts sound caring, never judgmental.",
+        "zh": "第二遍：把对比读得有关怀感，不带评判。"
+      },
+      {
+        "en": "Pass three: let the final I can sequence sound quietly earned.",
+        "zh": "第三遍：让末段的 I can 句式呈现出静静赢得的信心。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What real task could a child in your life safely own?",
+      "zh": "你生活中的孩子可以安全地独立负责哪一件真正的任务？"
+    },
+    {
+      "en": "How can you correct skill while protecting dignity?",
+      "zh": "你可以怎样在纠正技能的同时保护孩子的尊严？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/give-the-child-a-real-task/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/give-the-child-a-real-task/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/give-the-child-a-real-task/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/give-the-child-a-real-task/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/give-the-child-a-real-task/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/give-the-child-a-real-task/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/give-the-child-a-real-task/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/give-the-child-a-real-task/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/give-the-child-a-real-task/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/give-the-child-a-real-task/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/give-the-child-a-real-task/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/give-the-child-a-real-task/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/give-the-child-a-real-task/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/give-the-child-a-real-task/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/give-the-child-a-real-task/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/give-the-child-a-real-task/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/give-the-child-a-real-task/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/give-the-child-a-real-task/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/give-the-child-a-real-task/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/give-the-child-a-real-task/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/give-the-child-a-real-task/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/give-the-child-a-real-task/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/give-the-child-a-real-task/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/give-the-child-a-real-task/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/give-the-child-a-real-task/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/give-the-child-a-real-task/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/give-the-child-a-real-task/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/give-the-child-a-real-task/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/give-the-child-a-real-task/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/give-the-child-a-real-task/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/give-the-child-a-real-task/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/give-the-child-a-real-task/clips/sources_0.mp3"
+    }
+  }
+}
