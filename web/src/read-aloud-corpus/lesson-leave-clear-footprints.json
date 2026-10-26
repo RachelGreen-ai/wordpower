@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-clear-footprints",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave Clear Footprints",
+    "zh": "留下清晰的足迹"
+  },
+  "subtitle": {
+    "en": "An original reflection on handovers, useful records, and the quiet generosity of work that others can continue.",
+    "zh": "一篇原创美文：关于工作交接、有用记录，以及让他人能够接续的那份安静慷慨。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Career",
+    "Stewardship",
+    "Teamwork",
+    "Clarity",
+    "Leadership"
+  ],
+  "sources": [
+    {
+      "title": "Notes on Nursing: What It Is, and What It Is Not",
+      "author": "Florence Nightingale",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/17366",
+      "note": {
+        "en": "Public-domain inspiration for careful observation, practical records, and continuity of care; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中对细致观察、实用记录与持续照料的重视；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical generosity. Keep the workplace details crisp, and let the deeper idea of stewardship emerge without preaching.",
+    "zh": "用务实而慷慨的语气朗读。工作细节要利落，让更深层的托付意识自然显现，不要说教。"
+  },
+  "passage": {
+    "title": {
+      "en": "Work Another Person Can Enter",
+      "zh": "让后来者能够进入的工作"
+    },
+    "intro": {
+      "en": "This original passage explores why clear handovers are not administrative leftovers but a form of professional care.",
+      "zh": "这篇原创文章探讨：为什么清晰的交接不是行政余事，而是一种职业上的照料。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Drawer Only You Understand",
+          "zh": "1. 只有你看得懂的抽屉"
+        },
+        "text": "Every workplace has a drawer that only one person understands. The spare key is beneath an old receipt. The useful spreadsheet is called version seven, really final. A client preference lives nowhere except in someone's excellent memory. For a while, this private knowledge can look like competence. Questions travel toward the same desk, and answers return quickly. But when that person is ill, promoted, or simply on a train without signal, the strength reveals its hidden weakness. Work that depends on one memory has not yet become shared work.",
+        "coaching": {
+          "en": "Enjoy the humor in the file name, then turn gently serious. Stress hidden weakness and shared work.",
+          "zh": "文件名的幽默感可以轻轻带出，随后自然转为认真。重读 hidden weakness 与 shared work。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Record the Reason",
+          "zh": "2. 记录原因"
+        },
+        "text": "A useful handover contains more than a list of steps. It records the reason behind the steps: which promise shaped the deadline, which warning sign deserves attention, which shortcut was tested and abandoned. Instructions tell the next person where to place a foot. Context shows where the ground may move. This does not require a grand manual. A clear paragraph, a sensible file name, or three lines written after a decision can prevent hours of archaeology later. The best record is not the longest one. It is the one that answers the next honest question.",
+        "coaching": {
+          "en": "Keep the list precise. Give Instructions tell and Context shows balanced emphasis, then lighten the archaeology image.",
+          "zh": "列表要读得准确。均衡强调 Instructions tell 与 Context shows；archaeology 的比喻可稍轻快。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Make an Entrance",
+          "zh": "3. 为后来者留一个入口"
+        },
+        "text": "Before leaving a task, imagine a capable stranger arriving tomorrow. What would help her begin without guessing? Name the current state. Mark the next decision. Point to the source that can be trusted, and separate what is known from what is merely assumed. This small act changes the meaning of finishing. We are no longer tidying the desk only for ourselves. We are making an entrance. Leadership often looks like this: reducing needless confusion for people who may never know who cleared the path.",
+        "coaching": {
+          "en": "Voice the questions as a calm review. Pause after We are making an entrance, and keep the final line modest but firm.",
+          "zh": "把问题读成平静的复盘。在 We are making an entrance 后停顿；末句谦和但坚定。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Trail Continues",
+          "zh": "4. 路还会继续"
+        },
+        "text": "No document can remove every uncertainty, nor should it. The next person will notice something we missed and improve what we began. A good trail is not a fence around the future. It is a visible path to the point where fresh judgment is needed. Leave the file legible. Leave the promise named. Leave enough of your reasoning that someone else can disagree intelligently. Then let the work travel beyond you. There is a quiet freedom in building something that does not require our constant presence to remain useful.",
+        "coaching": {
+          "en": "Contrast trail and fence clearly. Build rhythm through the three Leave phrases, then release the last sentence calmly.",
+          "zh": "清楚对比 trail 与 fence。三个 Leave 短语要逐步形成节奏，末句平静舒展。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "handover",
+      "meaning": {
+        "en": "The transfer of responsibility or information to another person.",
+        "zh": "把责任或信息移交给另一个人的过程。"
+      },
+      "use": {
+        "en": "I wrote a short handover before taking leave.",
+        "zh": "休假前，我写了一份简短的交接说明。"
+      }
+    },
+    {
+      "term": "continuity",
+      "meaning": {
+        "en": "The state of continuing smoothly without a harmful break.",
+        "zh": "不受有害中断、顺畅延续的状态。"
+      },
+      "use": {
+        "en": "Good notes protect continuity when the team changes.",
+        "zh": "团队人员变动时，良好的记录能保障工作的连续性。"
+      }
+    },
+    {
+      "term": "context",
+      "meaning": {
+        "en": "The circumstances that help explain an event, choice, or statement.",
+        "zh": "帮助解释事件、选择或陈述的背景情况。"
+      },
+      "use": {
+        "en": "The numbers make sense once you know the context.",
+        "zh": "了解背景之后，这些数字就说得通了。"
+      }
+    },
+    {
+      "term": "archaeology",
+      "meaning": {
+        "en": "Here, a humorous metaphor for digging through old material to discover what happened.",
+        "zh": "此处是幽默比喻，指翻找旧资料以弄清过去发生了什么。"
+      },
+      "use": {
+        "en": "Without a decision log, the review became digital archaeology.",
+        "zh": "没有决策记录，复盘变成了一场数字考古。"
+      }
+    },
+    {
+      "term": "legible",
+      "meaning": {
+        "en": "Clear enough to be read or understood.",
+        "zh": "清楚到足以阅读或理解的。"
+      },
+      "use": {
+        "en": "Please leave the diagram legible for the next team.",
+        "zh": "请把图表整理得清楚易懂，方便下一个团队使用。"
+      }
+    },
+    {
+      "term": "stewardship",
+      "meaning": {
+        "en": "The responsible care of something entrusted to you.",
+        "zh": "对受托之物负责任地照料与管理。"
+      },
+      "use": {
+        "en": "Documentation is part of good stewardship, not an afterthought.",
+        "zh": "文档是良好托付管理的一部分，不是事后补充。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Stress the first syllable in handover and the second syllable in continuity.",
+      "zh": "handover 的重音在第一音节，continuity 的重音在第二音节。"
+    },
+    {
+      "en": "Keep the consonant cluster clear in next step without adding an extra vowel.",
+      "zh": "读 next step 时保持辅音群清晰，不要在中间添加额外元音。"
+    },
+    {
+      "en": "Use parallel stress in Leave the file, Leave the promise, Leave enough of your reasoning.",
+      "zh": "在 Leave the file、Leave the promise、Leave enough of your reasoning 中使用平行重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are handing meaningful work to a capable colleague you may never meet.",
+      "zh": "跟读时，想象你正把一项重要工作交给一位或许永远不会见面的能干同事。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the clean rhythm of the workplace lists.",
+        "zh": "第一遍：模仿工作清单中清晰利落的节奏。"
+      },
+      {
+        "en": "Pass two: make each contrast sound useful rather than dramatic.",
+        "zh": "第二遍：把每组对比读得实用，不要戏剧化。"
+      },
+      {
+        "en": "Pass three: build the repeated Leave phrases toward a calm sense of release.",
+        "zh": "第三遍：通过重复的 Leave 短语逐步走向平静的放手感。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What piece of work currently depends too heavily on your memory?",
+      "zh": "目前哪项工作过度依赖你的个人记忆？"
+    },
+    {
+      "en": "What one paragraph could you write today to make another person's start easier?",
+      "zh": "今天你可以写下哪一段话，让后来者更容易开始？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-clear-footprints/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-clear-footprints/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-clear-footprints/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-clear-footprints/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-clear-footprints/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-clear-footprints/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-clear-footprints/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-clear-footprints/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-clear-footprints/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-clear-footprints/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-clear-footprints/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-clear-footprints/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-clear-footprints/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-clear-footprints/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-clear-footprints/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-clear-footprints/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-clear-footprints/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-clear-footprints/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-clear-footprints/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-clear-footprints/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-clear-footprints/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-clear-footprints/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-clear-footprints/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-clear-footprints/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-clear-footprints/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-clear-footprints/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-clear-footprints/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-clear-footprints/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-clear-footprints/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-clear-footprints/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-clear-footprints/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-clear-footprints/clips/sources_0.mp3"
+    }
+  }
+}

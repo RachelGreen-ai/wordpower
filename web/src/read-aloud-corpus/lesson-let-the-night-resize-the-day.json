@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-night-resize-the-day",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Night Resize the Day",
+    "zh": "让夜空重画一天的尺度"
+  },
+  "subtitle": {
+    "en": "An original reflection on starlight, proportion, and returning to ordinary problems with a wider mind.",
+    "zh": "一篇原创美文：关于星光、尺度，以及如何带着更开阔的心重新面对日常难题。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Astronomy",
+    "Perspective",
+    "Wonder",
+    "Calm",
+    "Science"
+  ],
+  "sources": [
+    {
+      "title": "The Story of the Heavens",
+      "author": "Robert Stawell Ball",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/28434",
+      "note": {
+        "en": "Public-domain inspiration for looking at the night sky with scientific wonder; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部以科学眼光仰望夜空的公开领域作品；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with spacious calm. Let the astronomical images widen your voice, then bring it gently back to the human scale.",
+    "zh": "用开阔、平静的语气朗读。让天文画面拓宽声音，再温柔地回到人的尺度。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Larger Measure",
+      "zh": "更大的尺度"
+    },
+    "intro": {
+      "en": "This original passage explores how the night sky can restore proportion without making our daily lives feel unimportant.",
+      "zh": "这篇原创文章探讨：夜空如何帮我们找回恰当的尺度，同时不让日常生活显得无足轻重。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Room We Carry",
+          "zh": "1. 我们随身携带的房间"
+        },
+        "text": "A difficult day can shrink the world to the size of one room. The unanswered message occupies a whole wall. A careless remark becomes the ceiling. Even tomorrow seems to be waiting just outside the door, dressed in the same gray clothes. Then evening comes, and we step outdoors almost by accident. Above the roofs, the first star has already appeared. It does not solve the problem. It does something quieter: it changes the room. The walls move outward. Air returns between one thought and the next.",
+        "coaching": {
+          "en": "Keep the opening close and slightly confined. Widen your pace after the first star appears, and soften the final sentence.",
+          "zh": "开头读得贴近、略有局促感。第一颗星出现后放宽节奏，末句放柔。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Old Light Arriving",
+          "zh": "2. 远古的光抵达此刻"
+        },
+        "text": "Some of the light entering our eyes tonight began its journey before we were born. It crossed distances that refuse to fit inside ordinary language, while cities rose, friendships changed, and generations learned the names of things. To notice this is not to become small in a humiliating way. It is to become small in a relieving way. We are released from the belief that every mistake is permanent and every delay is a verdict. Time is larger than this afternoon. Reality contains more than the part currently asking for our attention.",
+        "coaching": {
+          "en": "Give old light arriving a sense of distance. Contrast humiliating and relieving clearly, without overplaying either word.",
+          "zh": "把 old light arriving 读出遥远感。清楚对比 humiliating 与 relieving，但不要夸张。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Perspective Is Not Escape",
+          "zh": "3. 视野并非逃避"
+        },
+        "text": "A wider view can be mistaken for indifference. If the universe is vast, why answer the message, repair the promise, or wash the cup? Because scale does not erase responsibility; it places responsibility in proportion. The stars do not excuse us from the day. They return us to it with less vanity and more steadiness. The cup is still ours to wash. The apology is still ours to make. But neither task needs the thunder of a final judgment. We can do the next right thing without pretending it is the only thing beneath the sky.",
+        "coaching": {
+          "en": "Let the questions sound sincere. Stress does not erase and in proportion, then make the concrete duties warm and grounded.",
+          "zh": "把问句读得真诚。重读 does not erase 与 in proportion；具体责任要读得温暖、踏实。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Bring Back One Star",
+          "zh": "4. 带一颗星回来"
+        },
+        "text": "When you go inside, bring back one star—not as decoration, but as a measure. Place the day's trouble beside something ancient and still unfolding. Ask what will matter after a week, what deserves care tonight, and what can be allowed to lose its false urgency. This is the gift of looking up: not an answer written in light, but enough distance to choose an honest answer ourselves. The night enlarges the world, and in that larger world, our lives become neither enormous nor meaningless. They become particular, temporary, and precious enough to tend well.",
+        "coaching": {
+          "en": "Pause after not as decoration. Build the three questions steadily, then land on tend well with quiet tenderness.",
+          "zh": "在 not as decoration 后停顿。三个问题逐步推进，最后用安静的温柔落在 tend well 上。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "The right size or importance of one thing in relation to another.",
+        "zh": "一件事相对于另一件事所占的恰当大小或重要程度。"
+      },
+      "use": {
+        "en": "A short walk helped me see the setback in proportion.",
+        "zh": "短暂散步后，我能更恰当地看待这次挫折。"
+      }
+    },
+    {
+      "term": "confined",
+      "meaning": {
+        "en": "Limited within a small space or narrow range.",
+        "zh": "被限制在狭小空间或范围内的。"
+      },
+      "use": {
+        "en": "The discussion felt confined until someone asked a larger question.",
+        "zh": "直到有人提出一个更宏观的问题，讨论才不再显得局促。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment or decision.",
+        "zh": "最终的判断或裁决。"
+      },
+      "use": {
+        "en": "One rejection is information, not a verdict on your ability.",
+        "zh": "一次拒绝只是信息，并非对你能力的最终判决。"
+      }
+    },
+    {
+      "term": "indifference",
+      "meaning": {
+        "en": "A lack of interest, concern, or care.",
+        "zh": "缺乏兴趣、关切或在意。"
+      },
+      "use": {
+        "en": "Her calm was not indifference; she was listening carefully.",
+        "zh": "她的平静并非冷漠，而是在认真倾听。"
+      }
+    },
+    {
+      "term": "steadiness",
+      "meaning": {
+        "en": "The quality of being calm, reliable, and not easily shaken.",
+        "zh": "沉着、可靠、不易动摇的状态。"
+      },
+      "use": {
+        "en": "The team needed her steadiness more than a dramatic speech.",
+        "zh": "团队需要的是她的沉稳，而不是一场激昂的演讲。"
+      }
+    },
+    {
+      "term": "unfold",
+      "meaning": {
+        "en": "To develop or become known gradually.",
+        "zh": "逐渐展开、发展或显现。"
+      },
+      "use": {
+        "en": "Let the conversation unfold before you decide what it means.",
+        "zh": "先让对话自然展开，再判断它意味着什么。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the first syllable clear and reduce the last vowel in universe: YOO-nuh-vurs.",
+      "zh": "读 universe 时首音节清晰，末尾元音弱化：YOO-nuh-vurs。"
+    },
+    {
+      "en": "Link light entering and star has so the phrases travel smoothly.",
+      "zh": "在 light entering 与 star has 中自然连读，让短语流畅前行。"
+    },
+    {
+      "en": "Use contrastive stress in neither enormous nor meaningless.",
+      "zh": "在 neither enormous nor meaningless 中使用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a worried friend from a narrow room into a clear night.",
+      "zh": "跟读时，想象你正带一位忧心的朋友从狭小房间走进晴朗夜空。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pauses that create a sense of widening space.",
+        "zh": "第一遍：模仿那些营造空间逐渐开阔感的停顿。"
+      },
+      {
+        "en": "Pass two: make the scientific ideas sound conversational, not ceremonial.",
+        "zh": "第二遍：把科学观念读得自然亲切，不要过于庄严。"
+      },
+      {
+        "en": "Pass three: keep the final paragraph tender while maintaining clear forward movement.",
+        "zh": "第三遍：末段保持温柔，同时维持清晰的向前节奏。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which problem in your life might look different beside a larger measure of time?",
+      "zh": "你生活中的哪个难题，若放在更长的时间尺度中，会显得不同？"
+    },
+    {
+      "en": "What is one small responsibility that still deserves your care tonight?",
+      "zh": "今晚仍值得你认真照料的一项小责任是什么？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-night-resize-the-day/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-night-resize-the-day/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-night-resize-the-day/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-night-resize-the-day/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-night-resize-the-day/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-night-resize-the-day/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-night-resize-the-day/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-night-resize-the-day/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-night-resize-the-day/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-night-resize-the-day/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-night-resize-the-day/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-night-resize-the-day/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-night-resize-the-day/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-night-resize-the-day/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-night-resize-the-day/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-night-resize-the-day/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-night-resize-the-day/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-night-resize-the-day/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-night-resize-the-day/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-night-resize-the-day/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-night-resize-the-day/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-night-resize-the-day/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-night-resize-the-day/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-night-resize-the-day/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-night-resize-the-day/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-night-resize-the-day/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-night-resize-the-day/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-night-resize-the-day/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-night-resize-the-day/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-night-resize-the-day/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-night-resize-the-day/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-night-resize-the-day/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "say-the-name-again",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Say the Name Again",
+    "zh": "请再说一遍你的名字"
+  },
+  "subtitle": {
+    "en": "An original reflection on names, attentive pronunciation, and the everyday dignity of trying again.",
+    "zh": "一篇原创美文：关于名字、用心发音，以及愿意再试一次所体现的日常尊重。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Dignity",
+    "Language",
+    "Belonging",
+    "Listening",
+    "Respect"
+  ],
+  "sources": [
+    {
+      "title": "The Analects of Confucius",
+      "author": "Confucius; translated by James Legge",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3330",
+      "note": {
+        "en": "Public-domain inspiration for treating names and precise language as matters of social care; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中对正名与准确语言的重视；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with attentive warmth. Treat every example name as something entrusted to you, never as a test to perform.",
+    "zh": "用专注而温暖的语气朗读。把每个示例名字都当作别人交托给你的事，而不是一场表演。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Courtesy of Another Attempt",
+      "zh": "再试一次的礼貌"
+    },
+    "intro": {
+      "en": "This original passage considers why learning another person's name is a small but meaningful form of welcome.",
+      "zh": "这篇原创文章思考：为什么认真学会一个人的名字，是一种细小却重要的欢迎。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Quick Substitute",
+          "zh": "1. 匆忙的替代"
+        },
+        "text": "A new colleague says her name, and the room hesitates. Someone laughs kindly, shortens it without asking, and moves on. The moment is small enough to disappear from the meeting, but not always from the person. A name is often the first piece of home we carry into a strange room. It may hold a grandparent's hope, a language shaped by another coast, or simply the sound by which love has always called us to dinner. When we replace it for our convenience, we may also replace a little of the person standing there.",
+        "coaching": {
+          "en": "Keep the opening natural and observant. Slow down through the images of home, coast, and dinner without becoming sentimental.",
+          "zh": "开头读得自然、敏锐。读到家、海岸与晚餐的画面时放慢，但不要过度煽情。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Ask Without Making a Stage",
+          "zh": "2. 询问，但别把它变成舞台"
+        },
+        "text": "The respectful response is neither confident invention nor a public apology that makes the other person comfort us. It is a simple request: Would you say it once more? Then we listen for the music of the word—where it rises, where it rests, which consonant needs more air. We try. We accept correction. We try again. Curiosity helps; humility helps more. The goal is not instant perfection. The goal is to show that another person's preference can interrupt our habit and be worth the extra moment.",
+        "coaching": {
+          "en": "Voice the request plainly and warmly. Give We try, We accept correction, We try again an even, unembarrassed rhythm.",
+          "zh": "请求句要坦率、温暖。We try、We accept correction、We try again 要读得均匀、从容。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Muscle of Attention",
+          "zh": "3. 注意力的肌肉"
+        },
+        "text": "This practice reaches beyond names. It trains the ear to notice what our first understanding missed. Perhaps a client uses a title we did not expect. Perhaps a neighbor prefers a word for her family that is different from ours. Careful language is not a cage in which every sentence becomes frightening. It is a form of coordination. Like learning a dance step, we become less awkward by paying attention, receiving guidance, and continuing. Respect grows more credible when it is visible in the ordinary mechanics of speech.",
+        "coaching": {
+          "en": "Keep the examples light and practical. Stress not a cage and coordination to make the central contrast clear.",
+          "zh": "例子读得轻松、实在。重读 not a cage 与 coordination，清楚呈现核心对比。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Place in the Sentence",
+          "zh": "4. 在句子里有一个位置"
+        },
+        "text": "Later, introduce the colleague to someone else and say her name as she taught you. Watch how little the gesture announces itself. No speech is required. The room simply makes the right space. This is one way belonging is built: not only through generous ideals, but through syllables remembered on an ordinary Tuesday. We will still make mistakes. The meaningful question is what we do next. We can rush past, or we can pause, listen, and offer the name another honest attempt. Sometimes welcome sounds exactly like that.",
+        "coaching": {
+          "en": "Let the room simply makes the right space land softly. End the final sentence with warmth, not a grand flourish.",
+          "zh": "让 the room simply makes the right space 轻轻落下。末句要温暖，不必宏大收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "hesitate",
+      "meaning": {
+        "en": "To pause because you are uncertain about what to do or say.",
+        "zh": "因不确定该做什么或说什么而停顿。"
+      },
+      "use": {
+        "en": "Do not hesitate to ask how the name is pronounced.",
+        "zh": "别犹豫，可以直接询问这个名字怎么发音。"
+      }
+    },
+    {
+      "term": "entrust",
+      "meaning": {
+        "en": "To give someone responsibility for something valuable.",
+        "zh": "把有价值的事物托付给某人。"
+      },
+      "use": {
+        "en": "She entrusted me with introducing the new team member.",
+        "zh": "她把介绍新团队成员的任务交给了我。"
+      }
+    },
+    {
+      "term": "convenience",
+      "meaning": {
+        "en": "Ease or suitability for one's needs.",
+        "zh": "对自身需求而言的便利或省事。"
+      },
+      "use": {
+        "en": "We should not rename people for our own convenience.",
+        "zh": "我们不该为了自己省事而替别人改名。"
+      }
+    },
+    {
+      "term": "humility",
+      "meaning": {
+        "en": "A willingness to admit limits and learn from others.",
+        "zh": "愿意承认局限并向他人学习的态度。"
+      },
+      "use": {
+        "en": "Good listening requires curiosity and humility.",
+        "zh": "良好的倾听需要好奇心，也需要谦逊。"
+      }
+    },
+    {
+      "term": "coordination",
+      "meaning": {
+        "en": "The act of making people or parts work well together.",
+        "zh": "让人或不同部分彼此良好配合的过程。"
+      },
+      "use": {
+        "en": "Clear language improves coordination across the team.",
+        "zh": "清晰的语言能改善团队协作。"
+      }
+    },
+    {
+      "term": "credible",
+      "meaning": {
+        "en": "Believable and worthy of trust.",
+        "zh": "可信的、值得信赖的。"
+      },
+      "use": {
+        "en": "Respect becomes credible when our habits support our words.",
+        "zh": "当习惯与言语一致时，尊重才真正可信。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep all four syllables clear in pronunciation: pro-nun-ci-A-tion.",
+      "zh": "读 pronunciation 时注意音节清晰，重音落在 A：pro-nun-ci-A-tion。"
+    },
+    {
+      "en": "Link say it and try again so the requests remain warm and fluid.",
+      "zh": "在 say it 和 try again 中自然连读，让请求听起来温暖流畅。"
+    },
+    {
+      "en": "Use gentle contrastive stress in curiosity helps; humility helps more.",
+      "zh": "在 curiosity helps; humility helps more 中使用柔和的对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are welcoming one new person into a room where everyone else already feels at home.",
+      "zh": "跟读时，想象你在欢迎一个新人进入一间其他人都已很自在的房间。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the speaker's patient pauses around each request and correction.",
+        "zh": "第一遍：模仿每次询问与纠正前后的耐心停顿。"
+      },
+      {
+        "en": "Pass two: keep the practical examples conversational and free of embarrassment.",
+        "zh": "第二遍：把实际例子读得自然，不带尴尬。"
+      },
+      {
+        "en": "Pass three: make the final paragraph sound like a quiet invitation to act.",
+        "zh": "第三遍：把末段读成一个安静的行动邀请。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose name could you learn or pronounce more carefully this week?",
+      "zh": "这周，你可以更认真地学习或发准谁的名字？"
+    },
+    {
+      "en": "How can you ask for correction without making the other person manage your discomfort?",
+      "zh": "你怎样请对方纠正自己，而不让对方还要照顾你的不自在？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/say-the-name-again/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/say-the-name-again/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/say-the-name-again/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/say-the-name-again/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/say-the-name-again/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/say-the-name-again/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/say-the-name-again/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/say-the-name-again/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/say-the-name-again/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/say-the-name-again/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/say-the-name-again/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/say-the-name-again/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/say-the-name-again/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/say-the-name-again/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/say-the-name-again/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/say-the-name-again/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/say-the-name-again/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/say-the-name-again/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/say-the-name-again/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/say-the-name-again/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/say-the-name-again/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/say-the-name-again/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/say-the-name-again/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/say-the-name-again/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/say-the-name-again/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/say-the-name-again/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/say-the-name-again/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/say-the-name-again/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/say-the-name-again/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/say-the-name-again/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/say-the-name-again/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/say-the-name-again/clips/sources_0.mp3"
+    }
+  }
+}
