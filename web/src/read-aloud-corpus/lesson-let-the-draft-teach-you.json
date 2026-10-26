@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-draft-teach-you",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Draft Teach You",
+    "zh": "让初稿成为老师"
+  },
+  "subtitle": {
+    "en": "An original reflection on learning by making, useful mistakes, and the intelligence that appears during revision.",
+    "zh": "一篇原创美文：关于在创造中学习、有价值的错误，以及修改过程中逐渐显现的智慧。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Learning",
+    "Revision",
+    "Creativity",
+    "Practice",
+    "Career"
+  ],
+  "sources": [
+    {
+      "title": "How We Think",
+      "author": "John Dewey",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/37423",
+      "note": {
+        "en": "Public-domain inspiration for reflective inquiry and learning through consequences; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品对反思性探究与从结果中学习的讨论；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with curious momentum. Allow the imperfect examples to sound alive, then slow down where reflection turns experience into knowledge.",
+    "zh": "带着好奇的推动感朗读。让不完美的例子充满生命力；当反思把经验转化为知识时，再放慢语速。"
+  },
+  "passage": {
+    "title": {
+      "en": "Knowledge with Pencil Marks",
+      "zh": "带着铅笔痕迹的知识"
+    },
+    "intro": {
+      "en": "This original passage follows the kind of understanding that arrives only after an idea has met paper, material, or practice.",
+      "zh": "这篇原创文章追随一种特别的理解：只有当想法真正接触纸面、材料或实践之后，它才会到来。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Before the First Attempt",
+          "zh": "1. 第一次尝试之前"
+        },
+        "text": "An idea in the mind enjoys perfect weather. The chair is elegant because nobody has sat in it. The speech is persuasive because no audience has looked away. The plan moves smoothly because it has not yet touched Tuesday afternoon. Imagination is necessary, but it is a generous host: it quietly removes awkward questions from the room. The first attempt invites them back. A weak joint bends. A paragraph loses its direction. A learner discovers that knowing a rule and using it at speed are different kinds of knowledge.",
+        "coaching": {
+          "en": "Keep the first examples playful. Stress has not yet touched Tuesday afternoon, then turn more reflective in the final two sentences.",
+          "zh": "开头几个例子读得轻快。在 has not yet touched Tuesday afternoon 处重读，最后两句转为更具反思的语气。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Evidence You Can Hold",
+          "zh": "2. 可以握在手里的证据"
+        },
+        "text": "A draft gives thought a body. Now you can point to the place where the explanation thins, hear where the melody becomes predictable, or watch where a customer hesitates. This evidence may bruise the ego, but it feeds the work. Instead of asking whether you are talented, you can ask a smaller and more productive question: what is this version teaching me? The answer is often concrete. The opening needs air. The handle needs texture. The instruction needs an example. Improvement begins when judgment becomes specific enough to guide the next move.",
+        "coaching": {
+          "en": "Make point, hear, and watch distinct. Ask the central question with genuine curiosity, not self-criticism.",
+          "zh": "清楚区分 point、hear 和 watch。核心问题要读出真正的好奇，而不是自我批评。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Revision Is a Conversation",
+          "zh": "3. 修改是一场对话"
+        },
+        "text": "Revision is not punishment for getting the first version wrong. It is a conversation between intention and result. You make a choice; the work answers. You listen, adjust, and ask again. Over time, this exchange develops judgment that theory alone cannot supply. The baker learns how dough feels before it is ready. The teacher notices confusion before a hand rises. The speaker senses when one plain sentence will carry farther than five impressive ones. Skill is built from these meetings with consequence, repeated until attention becomes almost instinctive.",
+        "coaching": {
+          "en": "Use a steady back-and-forth rhythm for make, answers, listen, adjust. Let the three professional examples grow warmer and more assured.",
+          "zh": "在 make、answers、listen、adjust 之间读出稳定的来回节奏。三个职业例子要逐渐变得温暖而笃定。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Make Something Answerable",
+          "zh": "4. 做出一件能够回应你的东西"
+        },
+        "text": "When a problem feels foggy, make something answerable. Write the rough page. Build the small model. Say the explanation aloud to an empty chair. Do not demand that the attempt prove your worth; ask it to reveal the next useful fact. Some drafts will be discarded, but none of the attentive work is wasted. It changes the maker. We begin by trying to shape an object, a sentence, or a lesson. If we remain awake to its reply, the unfinished thing quietly shapes us in return, leaving our judgment more patient, more exact, and more ready for reality.",
+        "coaching": {
+          "en": "Give the short imperatives clean energy. Slow through it changes the maker, then widen the final three-part cadence.",
+          "zh": "几个简短祈使句要读得干净有力。在 it changes the maker 处放慢，最后的三段节奏逐步展开。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "persuasive",
+      "meaning": {
+        "en": "Able to make someone believe or do something through clear reasons.",
+        "zh": "能通过清晰理由使人相信或采取行动的；有说服力的。"
+      },
+      "use": {
+        "en": "Her example made the proposal more persuasive.",
+        "zh": "她的例子让这项提议更有说服力。"
+      }
+    },
+    {
+      "term": "joint",
+      "meaning": {
+        "en": "A place where two parts are connected.",
+        "zh": "两个部分相连接的地方；接合处。"
+      },
+      "use": {
+        "en": "The carpenter strengthened the weakest joint.",
+        "zh": "木匠加固了最薄弱的接合处。"
+      }
+    },
+    {
+      "term": "bruise the ego",
+      "meaning": {
+        "en": "To hurt someone's pride or confidence slightly.",
+        "zh": "轻微挫伤某人的自尊或自信。"
+      },
+      "use": {
+        "en": "Honest feedback may bruise the ego, but it can improve the work.",
+        "zh": "坦诚的反馈也许会挫伤自尊，却能改善作品。"
+      }
+    },
+    {
+      "term": "productive",
+      "meaning": {
+        "en": "Leading to a useful result or meaningful progress.",
+        "zh": "能够带来有用结果或实质进展的。"
+      },
+      "use": {
+        "en": "We turned the complaint into a productive discussion.",
+        "zh": "我们把抱怨转化成了一场富有成效的讨论。"
+      }
+    },
+    {
+      "term": "instinctive",
+      "meaning": {
+        "en": "Done naturally and quickly without conscious planning.",
+        "zh": "无需有意识计划便自然、迅速完成的；本能般的。"
+      },
+      "use": {
+        "en": "With practice, the response became instinctive.",
+        "zh": "经过练习，这种反应变得近乎本能。"
+      }
+    },
+    {
+      "term": "answerable",
+      "meaning": {
+        "en": "Clear or concrete enough to receive a useful response.",
+        "zh": "足够清晰或具体，因而能够得到有效回应的。"
+      },
+      "use": {
+        "en": "Turn the broad worry into an answerable question.",
+        "zh": "把宽泛的担忧变成一个可以回答的问题。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep all four syllables clear in persuasive: per-SUA-sive.",
+      "zh": "读 persuasive 时保持各音节清楚，重音落在 SUA：per-SUA-sive。"
+    },
+    {
+      "en": "Link naturally across consonant and vowel in draft invites and work answers.",
+      "zh": "在 draft invites 和 work answers 中，自然连接前词辅音与后词元音。"
+    },
+    {
+      "en": "Use falling stress on the three commands: write, build, say.",
+      "zh": "三个指令 write、build、say 使用清晰的降调重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are encouraging a thoughtful beginner at a worktable, not delivering a lecture.",
+      "zh": "跟读时，想象你在工作台旁鼓励一位善于思考的初学者，而不是发表演讲。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the playful timing of the opening examples.",
+        "zh": "第一遍：模仿开头例子中轻快的节奏。"
+      },
+      {
+        "en": "Pass two: make each practical revision sound concrete and useful.",
+        "zh": "第二遍：把每项实际修改读得具体而有用。"
+      },
+      {
+        "en": "Pass three: build the ending from action toward quiet transformation.",
+        "zh": "第三遍：让结尾从行动逐渐走向安静的改变。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What unfinished version could teach you more than another hour of planning?",
+      "zh": "哪个尚未完成的版本，可能比再计划一个小时教会你更多？"
+    },
+    {
+      "en": "What specific question could you ask your latest attempt?",
+      "zh": "你可以向最近的一次尝试提出什么具体问题？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-draft-teach-you/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-draft-teach-you/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-draft-teach-you/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-draft-teach-you/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-draft-teach-you/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-draft-teach-you/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-draft-teach-you/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-draft-teach-you/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-draft-teach-you/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-draft-teach-you/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-draft-teach-you/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-draft-teach-you/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-draft-teach-you/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-draft-teach-you/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-draft-teach-you/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-draft-teach-you/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-draft-teach-you/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-draft-teach-you/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-draft-teach-you/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-draft-teach-you/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-draft-teach-you/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-draft-teach-you/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-draft-teach-you/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-draft-teach-you/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-draft-teach-you/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-draft-teach-you/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-draft-teach-you/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-draft-teach-you/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-draft-teach-you/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-draft-teach-you/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-draft-teach-you/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-draft-teach-you/clips/sources_0.mp3"
+    }
+  }
+}

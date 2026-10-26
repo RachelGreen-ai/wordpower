@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-room-for-the-weather",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave Room for the Weather",
+    "zh": "为天气留一点余地"
+  },
+  "subtitle": {
+    "en": "An original reflection on resilient plans, useful margins, and the freedom to adapt without surrendering direction.",
+    "zh": "一篇原创美文：关于有韧性的计划、有用的余量，以及不放弃方向也能灵活调整的自由。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Resilience",
+    "Planning",
+    "Adaptability",
+    "Work",
+    "Calm"
+  ],
+  "sources": [
+    {
+      "title": "The Discourses of Epictetus",
+      "author": "Epictetus",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/10661",
+      "note": {
+        "en": "Public-domain inspiration for distinguishing deliberate action from uncontrollable conditions; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中对主动行动与不可控条件的区分；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical calm. Let the concrete images feel light, and give the central contrasts a firm, unhurried rhythm.",
+    "zh": "用务实而平静的语气朗读。具体画面要轻盈，核心对比则要坚定、从容。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Plan with Open Windows",
+      "zh": "一份开着窗的计划"
+    },
+    "intro": {
+      "en": "This original passage explores why a strong plan includes enough margin to meet the world as it actually arrives.",
+      "zh": "这篇原创文章探讨：为什么真正可靠的计划，会留出足够余地去面对现实到来时的模样。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Beautiful Schedule",
+          "zh": "1. 漂亮的日程表"
+        },
+        "text": "On Sunday evening, the week can look beautifully obedient. The meetings fit into clean rectangles. The train arrives on time. Energy remains level from breakfast to dusk. Then Monday enters carrying rain. A colleague needs help, a child wakes with a fever, or one ordinary task reveals three hidden ones. We often call this failure, though nothing moral has happened. The map was neat; the country was alive. A useful plan does not demand that life become less living. It gives intention a shape while leaving the windows open.",
+        "coaching": {
+          "en": "Keep the opening bright and orderly, then warm the phrase Monday enters carrying rain. Pause after the map was neat.",
+          "zh": "开头读得明亮有序；到 Monday enters carrying rain 时增添温度。在 the map was neat 后停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Wisdom of a Margin",
+          "zh": "2. 余量的智慧"
+        },
+        "text": "A margin is not empty space. It is where reality is allowed to answer back. The ten unclaimed minutes between calls let you write down what mattered. The unscheduled evening receives the delayed train without turning inconvenience into catastrophe. Even a small reserve of attention can keep a mistake from multiplying. We admire efficiency because every piece appears to be used, yet a bridge is not made safer by loading every inch of it. Good structure includes breathing room. It protects what matters most from the ordinary pressure of what nobody predicted.",
+        "coaching": {
+          "en": "Stress not empty space and breathing room. Let the bridge image carry quiet authority rather than drama.",
+          "zh": "重读 not empty space 和 breathing room。桥梁的比喻要有安静的分量，不必戏剧化。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Bend Without Wandering",
+          "zh": "3. 弯而不迷"
+        },
+        "text": "Adaptation is sometimes mistaken for indecision. But changing the route is not the same as abandoning the destination. The sailor who adjusts a sail has not betrayed the harbor. She has noticed the wind. In work and in learning, we need the same intelligent flexibility: shorten the session, ask for another pair of eyes, move the difficult conversation to a kinder hour. Direction supplies the courage to change method. When the reason for our effort is clear, revision feels less like defeat and more like navigation.",
+        "coaching": {
+          "en": "Use clear contrast on changing the route and abandoning the destination. Give the sailor image space to breathe.",
+          "zh": "在 changing the route 与 abandoning the destination 之间读出清晰对比。水手的画面要留出呼吸感。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. What the Day Can Hold",
+          "zh": "4. 一天所能承载的"
+        },
+        "text": "Before filling tomorrow, ask what tomorrow can honestly hold. Choose a few promises that deserve protection. Place air around them. If weather comes, respond to weather; if the road clears, use the gift without stuffing it full. This is not a smaller life. It is a life built at human scale, where attention can recover and good work can keep its edges. The aim is not to control every hour. It is to remain available to the hour in front of us, steady enough to continue and spacious enough to notice when continuation must take a different form.",
+        "coaching": {
+          "en": "Begin gently, then build through steady enough and spacious enough. Land on different form with quiet confidence.",
+          "zh": "轻柔起句，在 steady enough 与 spacious enough 处逐步推进；结尾 different form 要安静而自信。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "margin",
+      "meaning": {
+        "en": "Extra room, time, or capacity kept available for change.",
+        "zh": "为变化预留的额外空间、时间或能力。"
+      },
+      "use": {
+        "en": "Leave a margin between the estimate and the deadline.",
+        "zh": "在预计完成时间和截止日期之间留出余量。"
+      }
+    },
+    {
+      "term": "unclaimed",
+      "meaning": {
+        "en": "Not yet assigned, requested, or used.",
+        "zh": "尚未被安排、占用或使用的。"
+      },
+      "use": {
+        "en": "I keep one unclaimed hour on Friday afternoon.",
+        "zh": "我会保留周五下午一个不作安排的小时。"
+      }
+    },
+    {
+      "term": "reserve",
+      "meaning": {
+        "en": "A supply kept for a later need.",
+        "zh": "为日后需要而保留的储备。"
+      },
+      "use": {
+        "en": "She kept a reserve of energy for the final discussion.",
+        "zh": "她为最后的讨论保留了一些精力。"
+      }
+    },
+    {
+      "term": "adaptation",
+      "meaning": {
+        "en": "A change made to fit new conditions.",
+        "zh": "为适应新情况而作出的调整。"
+      },
+      "use": {
+        "en": "The new schedule is an adaptation, not a retreat.",
+        "zh": "新日程是一种调整，而不是退缩。"
+      }
+    },
+    {
+      "term": "betray",
+      "meaning": {
+        "en": "To be disloyal to a person, promise, or principle.",
+        "zh": "背叛某人、承诺或原则。"
+      },
+      "use": {
+        "en": "Changing the method does not betray the goal.",
+        "zh": "改变方法并不等于背叛目标。"
+      }
+    },
+    {
+      "term": "human scale",
+      "meaning": {
+        "en": "A size or pace suited to real human needs and limits.",
+        "zh": "适合真实人类需求与限度的尺度或节奏。"
+      },
+      "use": {
+        "en": "We redesigned the project at a more human scale.",
+        "zh": "我们以更符合人性尺度的方式重新设计了项目。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the final consonant into the next vowel in margin is and wind is.",
+      "zh": "在 margin is 和 wind is 中，把前词末尾辅音自然连到后词元音。"
+    },
+    {
+      "en": "Keep the middle syllable light in adaptation: ad-ap-TA-tion.",
+      "zh": "读 adaptation 时保持中间音节轻巧，重音落在 TA：ad-ap-TA-tion。"
+    },
+    {
+      "en": "Use contrastive stress in change the route, not abandon the destination.",
+      "zh": "在 change the route, not abandon the destination 中使用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a capable friend redesign an overcrowded week.",
+      "zh": "跟读时，想象你在帮助一位能干的朋友重新安排过度拥挤的一周。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the pauses around each contrast.",
+        "zh": "第一遍：模仿每组对比前后的停顿。"
+      },
+      {
+        "en": "Pass two: make the practical examples sound conversational and specific.",
+        "zh": "第二遍：把实际例子读得自然、具体。"
+      },
+      {
+        "en": "Pass three: keep the final paragraph spacious without losing forward movement.",
+        "zh": "第三遍：末段保持宽松感，同时不失向前的推动力。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where does your current schedule need a more honest margin?",
+      "zh": "你目前的日程中，哪里需要更诚实地留出余量？"
+    },
+    {
+      "en": "What method could you change without betraying your destination?",
+      "zh": "在不背离目标的前提下，你可以改变哪一种方法？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-room-for-the-weather/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-room-for-the-weather/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-room-for-the-weather/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-room-for-the-weather/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-room-for-the-weather/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-room-for-the-weather/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-room-for-the-weather/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-room-for-the-weather/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-room-for-the-weather/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-room-for-the-weather/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-room-for-the-weather/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-room-for-the-weather/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-room-for-the-weather/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-room-for-the-weather/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-room-for-the-weather/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-room-for-the-weather/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-room-for-the-weather/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-room-for-the-weather/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-room-for-the-weather/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-room-for-the-weather/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-room-for-the-weather/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-room-for-the-weather/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-room-for-the-weather/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-room-for-the-weather/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-room-for-the-weather/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-room-for-the-weather/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-room-for-the-weather/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-room-for-the-weather/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-room-for-the-weather/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-room-for-the-weather/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-room-for-the-weather/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-room-for-the-weather/clips/sources_0.mp3"
+    }
+  }
+}

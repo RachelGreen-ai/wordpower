@@ -1,0 +1,244 @@
+{
+  "lessonId": "listen-for-the-unfinished-sentence",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Listen for the Unfinished Sentence",
+    "zh": "听见那句没有说完的话"
+  },
+  "subtitle": {
+    "en": "An original reflection on civic listening, hidden experience, and the patience required to understand across difference.",
+    "zh": "一篇原创美文：关于公共倾听、隐而未言的经历，以及跨越差异去理解他人所需的耐心。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Listening",
+    "Community",
+    "Empathy",
+    "Dialogue",
+    "Imagination"
+  ],
+  "sources": [
+    {
+      "title": "Twenty Years at Hull-House",
+      "author": "Jane Addams",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1325",
+      "note": {
+        "en": "Public-domain inspiration for neighborhood knowledge and democratic listening; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品对社区知识与民主倾听的重视；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with generous attention. Resist rushing to the lesson; let uncertainty and human detail remain audible.",
+    "zh": "带着宽厚的专注朗读。不要急着下结论，让不确定性与人的细节都能被听见。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Part We Have Not Heard",
+      "zh": "我们尚未听见的部分"
+    },
+    "intro": {
+      "en": "This original passage considers listening not as silence alone, but as a disciplined search for the experience behind another person's words.",
+      "zh": "这篇原创文章把倾听视为一种有意识的探寻：不只是保持沉默，更要寻找他人话语背后的经历。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Quick Reply",
+          "zh": "1. 太快的回应"
+        },
+        "text": "A room can be full of speech and empty of listening. Someone begins to explain why the bus route matters, why a school rule feels unfair, or why a familiar corner no longer feels safe. Before the sentence reaches its difficult center, another person recognizes a category and prepares a reply. We do this efficiently. We sort, label, and defend. Yet the speaker may still be standing at the doorway of the story. The most important fact may be arriving slowly because it is embarrassing, complicated, or not yet clear even to the person who carries it.",
+        "coaching": {
+          "en": "Start with measured clarity. Slightly quicken sort, label, and defend, then slow down for the final sentence.",
+          "zh": "开头清晰而克制；sort, label, and defend 略微加快，末句则放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Experience Has a Grammar",
+          "zh": "2. 经历自有其语法"
+        },
+        "text": "Facts matter, but facts live inside arrangements. A closed gate means little on a map and everything to the nurse walking home after midnight. A fee that looks modest in a budget may erase a week's small pleasures from a family table. To listen well is to learn the grammar of another person's experience: what carries weight, what repeats, what cannot easily be named. This does not require instant agreement. It requires enough curiosity to discover what the disagreement is actually about. Without that work, we argue with our own summary and call it conversation.",
+        "coaching": {
+          "en": "Give the gate and family-table images warmth. Stress instant agreement and actually about to clarify the distinction.",
+          "zh": "给大门和家庭餐桌的画面增添温度。重读 instant agreement 和 actually about，读清区别。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Courage to Be Revised",
+          "zh": "3. 被修正的勇气"
+        },
+        "text": "Real listening creates a risk: we may have to revise the person we imagined. The neighbor who seemed careless may be exhausted. The manager who sounded cold may be protecting a frightened team. Explanation does not erase responsibility, but it changes the quality of judgment. We can become more precise, and precision is often kinder than certainty. It names the harm without reducing a whole life to the moment of harm. Such listening asks for courage because our first opinion is easy to carry. A truer one may require both hands.",
+        "coaching": {
+          "en": "Keep the examples balanced and non-defensive. Let precision is often kinder than certainty become the quiet center.",
+          "zh": "例子要读得平衡，不带辩解感。把 precision is often kinder than certainty 作为安静的中心。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Make Space for the Next Word",
+          "zh": "4. 为下一个词留出空间"
+        },
+        "text": "In the next difficult conversation, try leaving one small door open. Ask what happened next. Ask which part has been hardest to explain. Notice when your mind has completed a sentence that the other person is still forming. The purpose is not endless hesitation. Decisions must be made, boundaries kept, and harm addressed. But judgment becomes more trustworthy after attention has done its full work. A community is not held together by perfect agreement. It is held by people willing to hear one another beyond the convenient ending, until the unfinished sentence has enough room to become true speech.",
+        "coaching": {
+          "en": "Make the questions inviting, not interrogative. Build steadily through decisions, boundaries, and harm, then soften the final line.",
+          "zh": "问题要像邀请，而非审问。读到 decisions、boundaries 和 harm 时稳步推进，末句再柔和下来。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "category",
+      "meaning": {
+        "en": "A group used to organize people, things, or ideas by shared features.",
+        "zh": "按共同特征整理人、事物或观念的类别。"
+      },
+      "use": {
+        "en": "The case does not fit neatly into one category.",
+        "zh": "这个案例无法被整齐地归入一个类别。"
+      }
+    },
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "Limited or not very large in amount, size, or importance.",
+        "zh": "数量、规模或重要性不大的；适度的。"
+      },
+      "use": {
+        "en": "Even a modest fee can create a barrier.",
+        "zh": "即使金额不高的费用，也可能形成障碍。"
+      }
+    },
+    {
+      "term": "grammar",
+      "meaning": {
+        "en": "Here, the underlying pattern that gives an experience meaning.",
+        "zh": "此处指赋予一段经历意义的内在规律。"
+      },
+      "use": {
+        "en": "Every workplace has an unwritten social grammar.",
+        "zh": "每个职场都有一套不成文的社交规则。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To reconsider and change an idea, judgment, or piece of work.",
+        "zh": "重新思考并修改观点、判断或作品。"
+      },
+      "use": {
+        "en": "New evidence led me to revise my opinion.",
+        "zh": "新证据促使我修正了自己的看法。"
+      }
+    },
+    {
+      "term": "erase",
+      "meaning": {
+        "en": "To remove something completely or make it seem not to exist.",
+        "zh": "彻底去除，或使某事看起来仿佛不存在。"
+      },
+      "use": {
+        "en": "An explanation does not erase the impact.",
+        "zh": "解释并不能抹去影响。"
+      }
+    },
+    {
+      "term": "trustworthy",
+      "meaning": {
+        "en": "Deserving confidence because it is reliable and honest.",
+        "zh": "因可靠、诚实而值得信任的。"
+      },
+      "use": {
+        "en": "A careful process produces more trustworthy decisions.",
+        "zh": "审慎的过程能带来更值得信赖的决定。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant cluster clear in trustworthy without adding an extra vowel.",
+      "zh": "读 trustworthy 时把辅音群读清楚，不要在其中添加额外元音。"
+    },
+    {
+      "en": "Use a falling tone for statements and a gently rising tone for the two invitation questions.",
+      "zh": "陈述句使用降调，两句邀请式提问使用柔和的升调。"
+    },
+    {
+      "en": "Link the words naturally in part of the story and quality of judgment.",
+      "zh": "在 part of the story 和 quality of judgment 中进行自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice itself is making room for someone who has rarely been fully heard.",
+      "zh": "跟读时，想象你的声音正在为一个很少被完整倾听的人腾出空间。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: preserve the pauses before each important qualification.",
+        "zh": "第一遍：保留每个重要限定语之前的停顿。"
+      },
+      {
+        "en": "Pass two: distinguish curiosity from agreement through calm contrastive stress.",
+        "zh": "第二遍：用平静的对比重音区分好奇与赞同。"
+      },
+      {
+        "en": "Pass three: let the final sentence lengthen without becoming vague.",
+        "zh": "第三遍：让末句舒展开来，但不要读得含糊。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose unfinished sentence have you recently completed too quickly?",
+      "zh": "最近，你是否过早替谁说完了那句尚未说完的话？"
+    },
+    {
+      "en": "What question could help you learn the grammar of someone else's experience?",
+      "zh": "什么问题能帮助你理解另一个人经历背后的规律？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/listen-for-the-unfinished-sentence/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/listen-for-the-unfinished-sentence/clips/sources_0.mp3"
+    }
+  }
+}
