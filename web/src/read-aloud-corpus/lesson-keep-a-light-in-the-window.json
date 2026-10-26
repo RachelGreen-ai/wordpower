@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-a-light-in-the-window",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep a Light in the Window",
+    "zh": "为归来的人留一盏灯"
+  },
+  "subtitle": {
+    "en": "An original reflection on hospitality, belonging, and the quiet courage of making room.",
+    "zh": "一篇原创美文：关于待客之道、归属感，以及为他人腾出空间的安静勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Hospitality",
+    "Community",
+    "Belonging",
+    "Kindness",
+    "Courage"
+  ],
+  "sources": [
+    {
+      "title": "The Souls of Black Folk",
+      "author": "W. E. B. Du Bois",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/408",
+      "note": {
+        "en": "Public-domain inspiration for dignified attention to belonging and shared human life; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对归属与共同人性的庄重关注；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with an open, grounded warmth. Let the images of threshold, table, and lamplight feel tangible.",
+    "zh": "用开放而沉稳的温度朗读。让门槛、餐桌与灯光的意象变得可触可感。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Architecture of Welcome",
+      "zh": "欢迎的建筑学"
+    },
+    "intro": {
+      "en": "This original passage explores how small acts of welcome can turn an unfamiliar place into shared ground.",
+      "zh": "这篇原创文章探索微小的欢迎之举，如何把陌生之地变成共同的立足之所。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Notice the Threshold",
+          "zh": "1. 看见那道门槛"
+        },
+        "text": "Every room has a threshold, even when there is no door. A newcomer feels it at once: the half-second of silence after entering, the chairs already claimed by coats, the private joke that closes like a gate. Those inside may notice nothing. Belonging has made the room transparent to them. But welcome begins by seeing what comfort has taught us to overlook. We glance up. We move a bag. We explain the joke without turning the person into an interruption. Hospitality is not performance. It is attention translated into space.",
+        "coaching": {
+          "en": "Begin observantly, with small pauses around the concrete details. Land simply and firmly on attention translated into space.",
+          "zh": "开头读出观察感，在具体细节间稍作停顿。末句 attention translated into space 要朴素而坚定地落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Set One More Place",
+          "zh": "2. 多摆一个位置"
+        },
+        "text": "A generous table is not measured by silver or abundance. It is measured by whether a guest must pretend to need nothing. Put the water within reach. Name the unfamiliar dish. Ask a question that does not demand a polished answer, then leave enough quiet for the real one to arrive. The smallest courtesies say, You do not have to earn your chair every minute. This matters because many people enter a room carrying invisible arithmetic: how useful must I be, how charming, how easy to keep? A place freely offered interrupts that calculation.",
+        "coaching": {
+          "en": "Keep the practical details light and natural. Soften the inner questions, then give the final sentence calm authority.",
+          "zh": "生活细节要读得轻巧自然。内心问题读得柔和，末句则带着平静的力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Make Difference Speakable",
+          "zh": "3. 让差异可以说出口"
+        },
+        "text": "Welcome is not the art of making everyone identical. A room can feel friendly and still require a person to hide the most truthful parts of themselves. Deeper hospitality makes difference speakable. It asks, with genuine interest, what a name means and how it should sound. It allows a custom to be explained without treating it as an exhibit. When we make a mistake, we correct it without asking the injured person to comfort us. Curiosity opens the door; humility keeps it open. Together they create a place where no one must shrink in order to stay.",
+        "coaching": {
+          "en": "Read without sentimentality. Stress genuine interest, humility, and no one must shrink.",
+          "zh": "不要煽情。重读 genuine interest、humility 和 no one must shrink。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave the Lamp Burning",
+          "zh": "4. 让灯继续亮着"
+        },
+        "text": "The finest welcome lasts beyond the first evening. It becomes a message sent after the difficult week, a remembered preference, an invitation that survives one refusal. It says that absence has not erased a person's place. Communities are built through this patient memory. Their strength is not that nobody leaves, but that return remains imaginable. Keep a light in the window, literally or otherwise. Let someone know where the spare key is. The world gives us enough locked doors. We can choose, within our reach, to become a recognizable light on the road home.",
+        "coaching": {
+          "en": "Let the pace grow spacious and hopeful. Brighten recognizable light, and finish home with warmth rather than drama.",
+          "zh": "节奏逐渐舒展而充满希望。点亮 recognizable light，最后的 home 要温暖，不要夸张。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "threshold",
+      "meaning": {
+        "en": "The entrance to a place or the point where something begins.",
+        "zh": "门槛；入口，或某事开始的临界点。"
+      },
+      "use": {
+        "en": "A warm greeting helped her cross the social threshold.",
+        "zh": "一句温暖的问候帮助她跨过社交的门槛。"
+      }
+    },
+    {
+      "term": "tangible",
+      "meaning": {
+        "en": "Clear and real enough to be felt or noticed.",
+        "zh": "切实可感的；清楚真实到能够被感知。"
+      },
+      "use": {
+        "en": "His relief was almost tangible.",
+        "zh": "他的如释重负几乎清晰可感。"
+      }
+    },
+    {
+      "term": "courtesy",
+      "meaning": {
+        "en": "A considerate and respectful act or manner.",
+        "zh": "礼貌；体贴并尊重他人的行为或态度。"
+      },
+      "use": {
+        "en": "A small courtesy can change the tone of a meeting.",
+        "zh": "一个小小的礼貌之举能改变会议的气氛。"
+      }
+    },
+    {
+      "term": "abundance",
+      "meaning": {
+        "en": "A large amount; more than enough.",
+        "zh": "丰盛；大量而充足。"
+      },
+      "use": {
+        "en": "Hospitality does not require abundance.",
+        "zh": "待客之道并不需要物质丰盛。"
+      }
+    },
+    {
+      "term": "interrupt",
+      "meaning": {
+        "en": "To stop a process or pattern for a time.",
+        "zh": "打断；暂时中止一个过程或模式。"
+      },
+      "use": {
+        "en": "Her question interrupted my anxious thoughts.",
+        "zh": "她的问题打断了我焦虑的思绪。"
+      }
+    },
+    {
+      "term": "belonging",
+      "meaning": {
+        "en": "The feeling of being accepted and at home in a group or place.",
+        "zh": "归属感；在群体或地方中被接纳、感到自在。"
+      },
+      "use": {
+        "en": "Belonging grows through repeated acts of care.",
+        "zh": "归属感在一次次关怀中生长。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant cluster clear at the end of warmth and threshold.",
+      "zh": "清楚读出 warmth 和 threshold 词尾的辅音组合。"
+    },
+    {
+      "en": "Link naturally in move a bag and leave enough quiet.",
+      "zh": "在 move a bag 和 leave enough quiet 中自然连读。"
+    },
+    {
+      "en": "Use contrastive stress in curiosity opens the door; humility keeps it open.",
+      "zh": "在 curiosity opens the door; humility keeps it open 中使用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking to a room that wants to become more generous.",
+      "zh": "跟读时，想象你正对一个愿意变得更慷慨的房间说话。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make each physical detail visible without rushing.",
+        "zh": "第一遍：不赶速度，让每个物理细节清晰可见。"
+      },
+      {
+        "en": "Pass two: soften the questions so they sound genuinely welcoming.",
+        "zh": "第二遍：把问题读得柔和，真正带有欢迎之意。"
+      },
+      {
+        "en": "Pass three: carry the final paragraph forward like a steady lamp.",
+        "zh": "第三遍：像举着一盏稳定的灯一样推进末段。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What small signal makes you feel that a place has room for you?",
+      "zh": "什么微小信号会让你觉得，一个地方真正为你留了位置？"
+    },
+    {
+      "en": "Whose return could you make more imaginable this week?",
+      "zh": "这周，你能让谁更容易想象自己会被欢迎归来？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-light-in-the-window/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-light-in-the-window/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-light-in-the-window/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-light-in-the-window/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-light-in-the-window/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-a-light-in-the-window/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-a-light-in-the-window/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-light-in-the-window/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-light-in-the-window/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-light-in-the-window/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-light-in-the-window/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-light-in-the-window/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-light-in-the-window/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-light-in-the-window/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-light-in-the-window/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-light-in-the-window/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-light-in-the-window/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-light-in-the-window/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-light-in-the-window/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-light-in-the-window/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-light-in-the-window/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-light-in-the-window/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-light-in-the-window/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-light-in-the-window/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-light-in-the-window/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-light-in-the-window/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-light-in-the-window/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-light-in-the-window/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-light-in-the-window/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-light-in-the-window/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-light-in-the-window/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-light-in-the-window/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "tell-the-friend-the-truth",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Tell the Friend the Truth",
+    "zh": "把真话告诉朋友"
+  },
+  "subtitle": {
+    "en": "An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.",
+    "zh": "一篇原创美文：关于忠诚的友谊、坦诚的劝告，以及陪在一个人身边的勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Friendship",
+    "Honesty",
+    "Loyalty",
+    "Courage",
+    "Communication"
+  ],
+  "sources": [
+    {
+      "title": "Nicomachean Ethics",
+      "author": "Aristotle",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/8438",
+      "note": {
+        "en": "Public-domain inspiration for reflection on friendship, character, and mutual good; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对友谊、品格与共同善的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with affection and moral clarity. Keep the voice close and conversational, never grand.",
+    "zh": "带着关爱与道德上的清醒朗读。声音要亲近、自然，切勿宏大说教。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Loyalty That Does Not Look Away",
+      "zh": "不移开目光的忠诚"
+    },
+    "intro": {
+      "en": "This original passage explores the kind of friendship that can hold warmth and difficult truth at the same time.",
+      "zh": "这篇原创文章探索一种能同时容纳温情与难言真相的友谊。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Stay Past the Easy Answer",
+          "zh": "1. 留在轻松回答之后"
+        },
+        "text": "A friend asks, Do you think I handled that well? The easy answer arrives quickly. It protects the evening, the mood, perhaps even our image as a kind person. But friendship is not merely the removal of discomfort. Sometimes kindness must remain in the room after comfort has left it. Before speaking, we listen for what the question truly asks. Does our friend want reassurance, judgment, or help seeing what emotion has hidden? Honest counsel begins there—not with the pleasure of correcting someone, but with the willingness to understand the cost of what we say.",
+        "coaching": {
+          "en": "Make the opening question natural. Slow through the three possibilities, and keep the final phrase compassionate.",
+          "zh": "开头的问题要自然。三个可能性处放慢，最后一句保持体恤。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Speak Without a Weapon",
+          "zh": "2. 不把真话变成武器"
+        },
+        "text": "Truth changes shape according to how we carry it. In a clenched hand, even an accurate observation becomes a weapon. We can describe what we saw without claiming to know every motive. We can say, I noticed your voice changed when she disagreed, instead of, You always need to win. One sentence invites reflection; the other builds a cell. Specific language is often the gentlest language because it leaves room for a person to be larger than one mistake. Candor needs boundaries: no public performance, no old grievances smuggled into the present, no cruelty disguised as courage.",
+        "coaching": {
+          "en": "Contrast the two quoted sentences clearly. Give the final three boundaries a measured, even rhythm.",
+          "zh": "清楚对比两句引语。最后三条界限读得节奏均匀、克制。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Risk Being Misunderstood",
+          "zh": "3. 承担被误解的风险"
+        },
+        "text": "Even careful honesty may be unwelcome. A friend may become quiet, defensive, or angry. We cannot control the first reaction, and we should not demand gratitude as proof that our courage was noble. Say what matters once, without piling argument upon argument. Then make space. The aim is not to win a verdict but to place a clear mirror within reach. Perhaps it will be used tomorrow. Perhaps never. Moral courage includes this uncertainty: acting from loyal concern while accepting that another person remains free to disagree, to leave, or to change in their own time.",
+        "coaching": {
+          "en": "Keep the middle restrained, not defensive. Let the mirror image stand in silence, then broaden the final sentence.",
+          "zh": "中段要克制，不要带辩解感。让镜子的意象停留片刻，再舒展末句。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Remain Beside the Person",
+          "zh": "4. 仍然站在对方身边"
+        },
+        "text": "The truest counsel does not point at a fault and then disappear. It remains available for the repair. If an apology is needed, we help our friend find language that does not excuse the harm. If a habit must change, we notice the difficult second and third attempts. And when we ourselves have spoken badly, we invite the same honesty we claim to value. Friendship becomes trustworthy through this reciprocity. I will not flatter you into loneliness. I will not reduce you to your worst hour. I will tell you what I can see, listen for what I cannot, and stay long enough for truth to become useful.",
+        "coaching": {
+          "en": "Build warmth through the practical acts. Read the final four promises slowly, with quiet conviction.",
+          "zh": "通过具体行动逐渐累积温度。最后四个承诺放慢，用安静的信念读出。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "counsel",
+      "meaning": {
+        "en": "Careful advice, especially about an important decision.",
+        "zh": "劝告；尤其针对重要决定的慎重建议。"
+      },
+      "use": {
+        "en": "She asked a trusted colleague for counsel.",
+        "zh": "她向一位信任的同事征求意见。"
+      }
+    },
+    {
+      "term": "reassurance",
+      "meaning": {
+        "en": "Words or actions that reduce worry or doubt.",
+        "zh": "安慰；减轻担忧或疑虑的话语或行动。"
+      },
+      "use": {
+        "en": "He needed reassurance before the interview.",
+        "zh": "面试前，他需要一些安慰与信心。"
+      }
+    },
+    {
+      "term": "candor",
+      "meaning": {
+        "en": "The quality of speaking openly and honestly.",
+        "zh": "坦率；公开而诚实地表达的品质。"
+      },
+      "use": {
+        "en": "I appreciated her candor about the problem.",
+        "zh": "我很欣赏她对这个问题的坦诚。"
+      }
+    },
+    {
+      "term": "grievance",
+      "meaning": {
+        "en": "A complaint caused by feeling unfairly treated.",
+        "zh": "不满；因感到受到不公对待而产生的抱怨。"
+      },
+      "use": {
+        "en": "Do not bring every old grievance into one discussion.",
+        "zh": "不要把所有旧怨都带进一次谈话。"
+      }
+    },
+    {
+      "term": "reciprocity",
+      "meaning": {
+        "en": "A relationship in which each side gives and receives.",
+        "zh": "相互性；双方都有给予和接受的关系。"
+      },
+      "use": {
+        "en": "Trust depends on honesty and reciprocity.",
+        "zh": "信任依赖坦诚与相互回应。"
+      }
+    },
+    {
+      "term": "conviction",
+      "meaning": {
+        "en": "A firmly held belief or a confident manner based on it.",
+        "zh": "坚定信念；由深信不疑而产生的笃定态度。"
+      },
+      "use": {
+        "en": "She spoke calmly but with conviction.",
+        "zh": "她说得平静，却十分坚定。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the first syllable strong in counsel, candor, and courage.",
+      "zh": "在 counsel、candor 和 courage 中重读第一个音节。"
+    },
+    {
+      "en": "Link smoothly in what we say and larger than one mistake.",
+      "zh": "在 what we say 和 larger than one mistake 中流畅连读。"
+    },
+    {
+      "en": "Use contrastive stress in not to win a verdict but to place a clear mirror.",
+      "zh": "在 not to win a verdict but to place a clear mirror 中使用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if one trusted friend is sitting across from you at a quiet table.",
+      "zh": "跟读时，想象一位信任的朋友正坐在安静餐桌的对面。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep every question genuinely open.",
+        "zh": "第一遍：让每个问题都真正保持开放。"
+      },
+      {
+        "en": "Pass two: make the contrasts clear without sounding accusatory.",
+        "zh": "第二遍：清楚读出对比，但不要带指责感。"
+      },
+      {
+        "en": "Pass three: deliver the final promises with warmth and steadiness.",
+        "zh": "第三遍：温暖而稳定地读出最后的承诺。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What helps difficult honesty feel like care rather than attack?",
+      "zh": "什么能让难以启齿的真话听起来是关心，而不是攻击？"
+    },
+    {
+      "en": "When has a friend's candor helped you grow?",
+      "zh": "什么时候，朋友的坦诚曾帮助你成长？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/tell-the-friend-the-truth/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/tell-the-friend-the-truth/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/tell-the-friend-the-truth/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/tell-the-friend-the-truth/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/tell-the-friend-the-truth/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/tell-the-friend-the-truth/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/tell-the-friend-the-truth/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/tell-the-friend-the-truth/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/tell-the-friend-the-truth/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/tell-the-friend-the-truth/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/tell-the-friend-the-truth/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/tell-the-friend-the-truth/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/tell-the-friend-the-truth/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/tell-the-friend-the-truth/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/tell-the-friend-the-truth/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/tell-the-friend-the-truth/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/tell-the-friend-the-truth/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/tell-the-friend-the-truth/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/tell-the-friend-the-truth/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/tell-the-friend-the-truth/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/tell-the-friend-the-truth/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/tell-the-friend-the-truth/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/tell-the-friend-the-truth/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/tell-the-friend-the-truth/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/tell-the-friend-the-truth/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/tell-the-friend-the-truth/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/tell-the-friend-the-truth/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/tell-the-friend-the-truth/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/tell-the-friend-the-truth/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/tell-the-friend-the-truth/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/tell-the-friend-the-truth/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/tell-the-friend-the-truth/clips/sources_0.mp3"
+    }
+  }
+}

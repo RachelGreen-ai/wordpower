@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-work-ripen",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Work Ripen",
+    "zh": "让作品慢慢成熟"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient craft, revision, and knowing when careful work is ready.",
+    "zh": "一篇原创美文：关于耐心的手艺、修改，以及如何判断作品已经成熟。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Craft",
+    "Patience",
+    "Art",
+    "Revision",
+    "Attention"
+  ],
+  "sources": [
+    {
+      "title": "The Stones of Venice, Volume I",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30754",
+      "note": {
+        "en": "Public-domain inspiration for patient craftsmanship and the dignity of visible human work; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对耐心手艺与可见人工尊严的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with the steady concentration of a craftsperson. Give the short sentences weight and the longer ones an unhurried flow.",
+    "zh": "带着手艺人的稳定专注朗读。短句要有分量，长句则从容流动。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Pace of the Hand",
+      "zh": "手的速度"
+    },
+    "intro": {
+      "en": "This original passage considers why good work needs both disciplined revision and the courage to stop polishing.",
+      "zh": "这篇原创文章思考：好作品为何既需要有纪律的修改，也需要停止打磨的勇气。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Learn the Grain",
+          "zh": "1. 读懂纹理"
+        },
+        "text": "Before a carpenter cuts a board, the hand travels over it. The grain is not decoration; it is information. Push against it carelessly and the wood tears. Work with it and the tool seems to grow quieter. Every material has such a nature: clay remembers pressure, language resists a false note, an argument reveals where its joints are weak. Skill begins before action, in the patient study of what is actually here. We often hurry because we want mastery to look decisive. Yet the surest hands are usually listening first.",
+        "coaching": {
+          "en": "Read the opening tactilely. Slow down through the list of materials, then make listening first quiet and assured.",
+          "zh": "开头要读出触感。列举材料时放慢，最后的 listening first 要安静而笃定。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Keep the Useful Scar",
+          "zh": "2. 留下有用的痕迹"
+        },
+        "text": "Revision is not the pursuit of a surface without fingerprints. Some irregularities show where attention entered the work. A sentence may keep one rough edge because perfect symmetry would drain its life. A repaired bowl may reveal the line of its breaking. The question is not, Can I hide every sign of effort? It is, Does each mark belong? Remove what distracts. Strengthen what must carry weight. But do not polish away the evidence that a human mind wrestled with a real difficulty. Character often lives in the place where control becomes care.",
+        "coaching": {
+          "en": "Keep the central questions conversational. Contrast distracts with carry weight, and warm the word care.",
+          "zh": "核心问题要读得像真诚自问。对比 distracts 与 carry weight，并温暖地读出 care。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Return with New Eyes",
+          "zh": "3. 带着新眼光回来"
+        },
+        "text": "When a piece refuses to improve, distance may be the next tool. Close the notebook. Cover the canvas. Walk until your mind stops repeating the same solution. Time does not finish the work for you, but it loosens your grip on the version you have memorized. On returning, you may hear the crowded paragraph, see the unnecessary color, or discover that the supposed flaw gives the whole piece balance. Rest is not always avoidance. Used honestly, it restores proportion. It lets the work become an object again instead of an extension of your anxiety.",
+        "coaching": {
+          "en": "Let the imperatives breathe. Make the shift at On returning feel fresh, then settle into the final sentence.",
+          "zh": "让几个祈使句有呼吸。读到 On returning 时带出新鲜转折，然后沉稳进入末句。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Know When to Release",
+          "zh": "4. 知道何时放手"
+        },
+        "text": "No craft is completed by certainty. There comes a morning when another adjustment would merely exchange one imperfection for another. The maker must decide that the work can now meet the world. This is not neglect; it is trust earned through attention. You have tested the joint, read the paragraph aloud, stepped back from the color, and corrected what honesty required. Leave one breath of openness in the finished thing. Let the listener, reader, or guest complete it with their own presence. Good work is not sealed shut. It is made ready to enter another life.",
+        "coaching": {
+          "en": "Read with growing resolution. Pause after This is not neglect, and open the final sentence toward the listener.",
+          "zh": "读出逐渐增强的决心。This is not neglect 后停顿，末句朝听者敞开。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "grain",
+      "meaning": {
+        "en": "The natural lines and texture in wood; also the basic character of something.",
+        "zh": "纹理；木材的天然线条与质地，也可指事物的基本特性。"
+      },
+      "use": {
+        "en": "Cutting with the grain produced a cleaner edge.",
+        "zh": "顺着纹理切割，边缘会更整洁。"
+      }
+    },
+    {
+      "term": "tactile",
+      "meaning": {
+        "en": "Connected with the sense of touch.",
+        "zh": "触觉的；与触摸感受有关的。"
+      },
+      "use": {
+        "en": "The fabric gives the room a tactile warmth.",
+        "zh": "这种织物给房间带来可触摸般的温暖。"
+      }
+    },
+    {
+      "term": "irregularity",
+      "meaning": {
+        "en": "A detail that differs from a regular pattern.",
+        "zh": "不规则之处；偏离规律模式的细节。"
+      },
+      "use": {
+        "en": "That small irregularity makes the cup distinctive.",
+        "zh": "那处小小的不规则让杯子独具特色。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "A balanced relationship between parts of a whole.",
+        "zh": "比例；整体各部分之间平衡的关系。"
+      },
+      "use": {
+        "en": "A short break restored her sense of proportion.",
+        "zh": "短暂休息让她重新找回分寸感。"
+      }
+    },
+    {
+      "term": "neglect",
+      "meaning": {
+        "en": "Failure to give something the care it needs.",
+        "zh": "忽视；未给予某事应有的照料。"
+      },
+      "use": {
+        "en": "Simplicity is not the same as neglect.",
+        "zh": "简洁并不等同于疏忽。"
+      }
+    },
+    {
+      "term": "ripen",
+      "meaning": {
+        "en": "To develop gradually until ready or mature.",
+        "zh": "成熟；逐渐发展到准备充分的状态。"
+      },
+      "use": {
+        "en": "The idea needed time to ripen.",
+        "zh": "这个想法需要时间慢慢成熟。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants audible in craft, grain, and weight.",
+      "zh": "清楚读出 craft、grain 和 weight 的词尾辅音。"
+    },
+    {
+      "en": "Link smoothly in work with it and return with new eyes.",
+      "zh": "在 work with it 和 return with new eyes 中流畅连读。"
+    },
+    {
+      "en": "Use deliberate contrast in not neglect; it is trust.",
+      "zh": "在 not neglect; it is trust 中使用明确的对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice is shaping a useful object: attentive, economical, and warm.",
+      "zh": "跟读时，想象你的声音正在塑造一件实用之物：专注、克制而温暖。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: feel the physical verbs—travels, cuts, tears, and carries.",
+        "zh": "第一遍：感受 travels、cuts、tears 和 carries 这些动作词。"
+      },
+      {
+        "en": "Pass two: give each reflective question enough silence around it.",
+        "zh": "第二遍：在每个反思性问题前后留出足够静默。"
+      },
+      {
+        "en": "Pass three: let the ending sound released, not abandoned.",
+        "zh": "第三遍：让结尾听起来是从容放手，而不是随意丢弃。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What part of your work needs another careful pass, and what part needs distance?",
+      "zh": "你的作品中，哪部分需要再仔细修改，哪部分需要暂时拉开距离？"
+    },
+    {
+      "en": "How do you recognize the moment when further polishing stops helping?",
+      "zh": "你如何判断继续打磨已经不再有帮助？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-work-ripen/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-work-ripen/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-work-ripen/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-work-ripen/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-work-ripen/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-work-ripen/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-work-ripen/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-work-ripen/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-work-ripen/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-work-ripen/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-work-ripen/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-work-ripen/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-work-ripen/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-work-ripen/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-work-ripen/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-work-ripen/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-work-ripen/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-work-ripen/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-work-ripen/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-work-ripen/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-work-ripen/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-work-ripen/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-work-ripen/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-work-ripen/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-work-ripen/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-work-ripen/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-work-ripen/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-work-ripen/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-work-ripen/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-work-ripen/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-work-ripen/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-work-ripen/clips/sources_0.mp3"
+    }
+  }
+}
