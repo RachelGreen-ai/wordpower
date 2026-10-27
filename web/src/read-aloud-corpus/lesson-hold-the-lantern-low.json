@@ -1,0 +1,244 @@
+{
+  "lessonId": "hold-the-lantern-low",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Hold the Lantern Low",
+    "zh": "把灯提低一些"
+  },
+  "subtitle": {
+    "en": "An original reflection on quiet leadership, shared danger, and making the next step visible.",
+    "zh": "一篇关于安静的领导力、共同面对危险，以及照亮下一步的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Leadership",
+    "Courage",
+    "Service",
+    "Trust",
+    "Clarity"
+  ],
+  "sources": [
+    {
+      "title": "On Heroes, Hero-Worship, and the Heroic in History",
+      "author": "Thomas Carlyle",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1091",
+      "note": {
+        "en": "Public-domain counterpoint for reflecting on everyday, non-heroic leadership; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "以这部公开领域著作作为反思日常、非英雄式领导力的思想参照；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded authority. Keep the danger vivid, but make steadiness—not drama—the dominant note.",
+    "zh": "用沉稳而有分量的声音朗读。危险感要鲜明，但主调应是镇定，而非戏剧化。"
+  },
+  "passage": {
+    "title": {
+      "en": "Enough Light for the Next Step",
+      "zh": "足以照亮下一步的光"
+    },
+    "intro": {
+      "en": "This original passage considers leadership as the practical work of helping people see and move together under pressure.",
+      "zh": "这篇原创文章把领导力视为一种实际工作：在压力之下，帮助人们看清方向、共同前行。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When the Power Fails",
+          "zh": "1. 停电时刻"
+        },
+        "text": "The storm removed the lights just after midnight. In the old apartment building, doors opened along six floors, and worried voices entered the stairwell. Someone smelled smoke. Someone else had left medicine in a refrigerator downstairs. Phones shone into faces but threw almost no useful light on the steps. Then a neighbor appeared with a camping lantern. She did not raise it above her head like a symbol. She held it low, where the broken tile, the loose rail, and the next landing could be seen. “One floor at a time,” she said. The sentence was plain enough to be trusted.",
+        "coaching": {
+          "en": "Build mild urgency, then settle when the lantern appears. Give one floor at a time calm authority.",
+          "zh": "先营造适度的紧迫感，灯出现后语气稳定下来。One floor at a time 要平静而有力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Work Nearest the Ground",
+          "zh": "2. 最贴近地面的工作"
+        },
+        "text": "We often picture leadership at a height: a platform, a podium, a view over the crowd. Yet in uncertain moments, the useful work is usually nearer the ground. Who needs an arm? Which route is blocked? What fact do we know, and what are we merely repeating because fear gives rumor a loud voice? The person who asks these questions does more than organize movement. She lowers the temperature of the group. Her confidence comes not from pretending to know the whole night, but from making the next ten feet intelligible. Clarity, offered in portions people can use, becomes a form of shelter.",
+        "coaching": {
+          "en": "Make the questions practical and brisk. Slow slightly on the contrast between the whole night and the next ten feet.",
+          "zh": "几个问题要实际、利落。在 the whole night 与 the next ten feet 的对比处稍稍放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Borrowed Courage",
+          "zh": "3. 借来的勇气"
+        },
+        "text": "Courage passes between people in ordinary ways. A steady hand on a door keeps another hand from shaking. A name spoken clearly returns a frightened person to the room. An honest “I don't know yet” can be more reassuring than a confident invention, because it gives everyone solid ground. We borrow composure from one another before we can produce our own. This is why tone matters. So does pace. So does the leader's willingness to carry a box, count the children, or walk back up the stairs. Authority grows credible when it accepts a share of the weight.",
+        "coaching": {
+          "en": "Let the first three images breathe. Keep the repeated so does phrases firm and evenly paced.",
+          "zh": "前三个画面之间留出呼吸。重复的 so does 要坚定，节奏均匀。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. After the Lights Return",
+          "zh": "4. 灯亮之后"
+        },
+        "text": "By morning, the power returned and the stairwell looked ordinary again. The neighbor put away her lantern. No speech followed; no one named the night a triumph. Still, the building had learned something about her, and perhaps about itself. Leadership had not entered wearing certainty. It had arrived carrying a modest circle of light and a willingness to remain beside the slowest person. We cannot illuminate every consequence or promise that no one will stumble. We can hold the lantern where feet must land. We can tell the truth about what we see. Then we can take the next step with others, which is often how a frightened crowd becomes a capable company.",
+        "coaching": {
+          "en": "Read the ending with warmth and restraint. Build gently through the three we can sentences.",
+          "zh": "结尾温暖而克制。三个 we can 句子要逐步推进。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "stairwell",
+      "meaning": {
+        "en": "The vertical space containing a staircase.",
+        "zh": "楼梯及其上下贯通空间；楼梯间。"
+      },
+      "use": {
+        "en": "Their voices echoed through the stairwell.",
+        "zh": "他们的声音在楼梯间回荡。"
+      }
+    },
+    {
+      "term": "podium",
+      "meaning": {
+        "en": "A raised platform used by a speaker or leader.",
+        "zh": "演讲者或领导者使用的高台。"
+      },
+      "use": {
+        "en": "She stepped away from the podium to answer questions.",
+        "zh": "她走下讲台回答问题。"
+      }
+    },
+    {
+      "term": "intelligible",
+      "meaning": {
+        "en": "Clear enough to be understood.",
+        "zh": "清楚到足以理解的。"
+      },
+      "use": {
+        "en": "The guide made a complex process intelligible.",
+        "zh": "这位向导把复杂的过程讲得清楚易懂。"
+      }
+    },
+    {
+      "term": "composure",
+      "meaning": {
+        "en": "A calm and controlled state of mind.",
+        "zh": "沉着；镇定自若的状态。"
+      },
+      "use": {
+        "en": "He recovered his composure before speaking.",
+        "zh": "他恢复镇定后才开口。"
+      }
+    },
+    {
+      "term": "credible",
+      "meaning": {
+        "en": "Able to be believed or trusted.",
+        "zh": "可信的；值得信任的。"
+      },
+      "use": {
+        "en": "Specific evidence made her explanation credible.",
+        "zh": "具体证据让她的解释更可信。"
+      }
+    },
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "Calm control over emotion or action.",
+        "zh": "对情绪或行动的克制。"
+      },
+      "use": {
+        "en": "He responded with admirable restraint.",
+        "zh": "他的回应表现出令人钦佩的克制。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link final consonants in lights just and hand on a door.",
+      "zh": "在 lights just 和 hand on a door 中自然连读词尾辅音。"
+    },
+    {
+      "en": "Keep all three syllables clear in composure: com-PO-sure.",
+      "zh": "读 composure 时注意三个音节与重音：com-PO-sure。"
+    },
+    {
+      "en": "Use falling intonation for the practical questions to sound decisive rather than anxious.",
+      "zh": "实际问题用降调，听起来果断而非焦虑。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your calm voice must help a group move safely through darkness.",
+      "zh": "跟读时想象：你的沉稳声音要帮助一群人在黑暗中安全前进。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the narrative images crisp and concrete.",
+        "zh": "第一遍：把叙事画面读得清楚具体。"
+      },
+      {
+        "en": "Pass two: copy the firm downward tone of the instructions.",
+        "zh": "第二遍：模仿指令句坚定的降调。"
+      },
+      {
+        "en": "Pass three: build the ending without becoming grand or theatrical.",
+        "zh": "第三遍：逐步推进结尾，但不要宏大或戏剧化。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Who has lent you composure in a difficult moment, and how?",
+      "zh": "谁曾在困难时刻把镇定“借”给你？他是怎么做的？"
+    },
+    {
+      "en": "Where could you make the next ten feet clearer for someone else?",
+      "zh": "在哪件事上，你可以替别人把眼前的“十英尺”照得更清楚？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/hold-the-lantern-low/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/hold-the-lantern-low/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/hold-the-lantern-low/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/hold-the-lantern-low/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/hold-the-lantern-low/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/hold-the-lantern-low/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/hold-the-lantern-low/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/hold-the-lantern-low/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/hold-the-lantern-low/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/hold-the-lantern-low/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/hold-the-lantern-low/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/hold-the-lantern-low/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/hold-the-lantern-low/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/hold-the-lantern-low/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/hold-the-lantern-low/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/hold-the-lantern-low/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/hold-the-lantern-low/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/hold-the-lantern-low/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/hold-the-lantern-low/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/hold-the-lantern-low/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/hold-the-lantern-low/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/hold-the-lantern-low/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/hold-the-lantern-low/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/hold-the-lantern-low/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/hold-the-lantern-low/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/hold-the-lantern-low/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/hold-the-lantern-low/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/hold-the-lantern-low/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/hold-the-lantern-low/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/hold-the-lantern-low/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/hold-the-lantern-low/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/hold-the-lantern-low/clips/sources_0.mp3"
+    }
+  }
+}

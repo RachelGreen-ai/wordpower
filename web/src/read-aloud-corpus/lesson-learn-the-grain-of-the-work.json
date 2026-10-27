@@ -1,0 +1,244 @@
+{
+  "lessonId": "learn-the-grain-of-the-work",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Learn the Grain of the Work",
+    "zh": "摸清工作的纹理"
+  },
+  "subtitle": {
+    "en": "An original reflection on apprenticeship, useful ambition, and knowledge earned through the hands.",
+    "zh": "一篇关于学徒精神、务实的抱负，以及从亲手实践中获得知识的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Learning",
+    "Career",
+    "Craft",
+    "Apprenticeship",
+    "Judgment"
+  ],
+  "sources": [
+    {
+      "title": "The Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/20203",
+      "note": {
+        "en": "Public-domain inspiration for practical self-education and craft; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中的实践性自我教育与手艺精神；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical warmth. Let the workshop images feel physical, and keep the advice conversational rather than grand.",
+    "zh": "用务实而温暖的声音朗读。让工坊画面有触感，建议部分保持谈话感，不要宏大。"
+  },
+  "passage": {
+    "title": {
+      "en": "What the Material Teaches",
+      "zh": "材料教会我们的事"
+    },
+    "intro": {
+      "en": "This original passage follows a new worker from abstract ambition toward the quieter intelligence of practiced hands.",
+      "zh": "这篇原创文章写一位新手如何从抽象的雄心，走向熟练双手所拥有的安静智慧。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The First Morning",
+          "zh": "1. 第一个早晨"
+        },
+        "text": "On her first morning in the cabinetmaker's shop, Lina wanted to build a table. She had drawn one in a notebook, watched hours of instruction, and learned the names of every joint. The cabinetmaker handed her a broom. After sweeping, she sorted offcuts by thickness, sharpened two pencils, and carried boards from a damp wall to a dry rack. The tasks felt insultingly small until he placed two pieces of oak before her. One had warped overnight; the other had remained true. “Tell me why,” he said. Her books had given her words. The morning began to give those words weight.",
+        "coaching": {
+          "en": "Let Lina's impatience show without mocking her. Land thoughtfully on words and weight.",
+          "zh": "读出 Lina 的急切，但不要嘲讽她。结尾 words 与 weight 要读得意味深长。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Resistance Is Information",
+          "zh": "2. 阻力也是信息"
+        },
+        "text": "Every material has a grain, whether it is wood, language, software, soil, or an institution. Push carelessly, and it tears. Move only in the easy direction, and you may never make the shape the work requires. Apprenticeship begins when resistance stops feeling like a personal insult and becomes information. The stubborn board reveals where its fibers run. The confusing customer reveals what the brief failed to ask. The broken program reveals an assumption hidden inside the design. Skill grows through this exchange: we act, the world answers, and we adjust without surrendering either patience or purpose.",
+        "coaching": {
+          "en": "Give the list of materials a natural lift. Emphasize resistance, information, answers, and adjust.",
+          "zh": "材料列表要自然上扬。重读 resistance、information、answers 和 adjust。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ambition With Sleeves Rolled Up",
+          "zh": "3. 卷起袖子的雄心"
+        },
+        "text": "There is nothing wrong with wanting important work. The danger is wanting to appear advanced more than wanting to become useful. Useful people notice the dull blade before it ruins the cut. They ask the question that saves an afternoon. They clean the shared tool, label the uncertain file, and admit when a measurement must be taken again. Such actions do not shrink ambition; they give it a body. Reliability is imagination that has learned to keep an appointment. Judgment is knowledge tested against consequences. Over time, the apprentice is trusted with larger decisions because she has stopped treating small decisions as beneath her.",
+        "coaching": {
+          "en": "Keep the examples brisk and capable. Slow down for the two definitions, giving each its own space.",
+          "zh": "例子要读得利落、能干。两个定义句放慢，各自留出空间。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Table That Stands",
+          "zh": "4. 一张站得稳的桌子"
+        },
+        "text": "Months later, Lina built her table. It was not the daring object from her first sketch. Its beauty was quieter: drawers that met without scraping, legs that stood evenly on an imperfect floor, a surface chosen with the changing seasons in mind. She could explain each decision, but some knowledge had traveled beyond explanation into posture, pressure, and timing. Her hands now paused before forcing a joint. They had learned to listen. This is the dignity of apprenticeship. It does not ask us to think less. It asks thought to enter the world, encounter resistance, and return more honest. The finished work stands because the learner was willing, for a long while, to stand close enough to be corrected.",
+        "coaching": {
+          "en": "Warm the voice as the table appears. Let the final sentence unfold slowly, with firm stress on stands, willing, and corrected.",
+          "zh": "桌子出现时让声音变暖。末句缓缓展开，重读 stands、willing 和 corrected。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "offcut",
+      "meaning": {
+        "en": "A piece left over after material has been cut.",
+        "zh": "材料裁切后剩下的边角料。"
+      },
+      "use": {
+        "en": "We tested the stain on an offcut first.",
+        "zh": "我们先在一块边角料上测试了染色效果。"
+      }
+    },
+    {
+      "term": "warp",
+      "meaning": {
+        "en": "To bend or twist out of shape.",
+        "zh": "弯曲、翘曲或变形。"
+      },
+      "use": {
+        "en": "Too much moisture can warp the frame.",
+        "zh": "水分过多会使框架变形。"
+      }
+    },
+    {
+      "term": "grain",
+      "meaning": {
+        "en": "The natural direction or texture of a material.",
+        "zh": "材料天然的纹理或走向。"
+      },
+      "use": {
+        "en": "Cutting with the grain produced a cleaner edge.",
+        "zh": "顺着纹理切割，边缘更加干净。"
+      }
+    },
+    {
+      "term": "brief",
+      "meaning": {
+        "en": "A set of instructions describing the aims of a piece of work.",
+        "zh": "说明工作目标与要求的任务简报。"
+      },
+      "use": {
+        "en": "The design brief left the audience undefined.",
+        "zh": "设计简报没有明确目标受众。"
+      }
+    },
+    {
+      "term": "reliability",
+      "meaning": {
+        "en": "The quality of being consistently dependable.",
+        "zh": "一贯可靠、值得依赖的品质。"
+      },
+      "use": {
+        "en": "Her reliability earned the team's confidence.",
+        "zh": "她一贯可靠，赢得了团队的信任。"
+      }
+    },
+    {
+      "term": "beneath someone",
+      "meaning": {
+        "en": "Considered too unimportant for a person's status or ability.",
+        "zh": "被认为不配某人的身份或能力；不屑于做。"
+      },
+      "use": {
+        "en": "No honest task was beneath him.",
+        "zh": "他从不认为任何正当工作有失身份。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the consonants in first morning and learned to listen without adding a vowel.",
+      "zh": "在 first morning 和 learned to listen 中连接辅音，不要额外添元音。"
+    },
+    {
+      "en": "Keep the stress clear in reliability: re-li-a-BIL-i-ty.",
+      "zh": "读 reliability 时保持重音清晰：re-li-a-BIL-i-ty。"
+    },
+    {
+      "en": "Use parallel rhythm in we act, the world answers, and we adjust.",
+      "zh": "在 we act, the world answers, and we adjust 中读出平行节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a skilled mentor explaining the work beside a bench, not from a stage.",
+      "zh": "跟读时像一位熟练的师傅在工作台旁讲解，而不是站在舞台上演讲。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every workshop object easy to picture.",
+        "zh": "第一遍：让每件工坊物品都容易被想象出来。"
+      },
+      {
+        "en": "Pass two: stress the verbs that show action, feedback, and adjustment.",
+        "zh": "第二遍：重读表现行动、反馈与调整的动词。"
+      },
+      {
+        "en": "Pass three: keep the advice warm, direct, and free of performance.",
+        "zh": "第三遍：建议部分保持温暖直接，不要有表演腔。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What resistance in your current work is trying to give you information?",
+      "zh": "你当前工作中的哪一种阻力，正在试图向你提供信息？"
+    },
+    {
+      "en": "Which small task could help your ambition become more useful?",
+      "zh": "哪一项小任务，能让你的雄心变得更有用、更落地？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/learn-the-grain-of-the-work/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/learn-the-grain-of-the-work/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/learn-the-grain-of-the-work/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/learn-the-grain-of-the-work/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/learn-the-grain-of-the-work/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/learn-the-grain-of-the-work/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/learn-the-grain-of-the-work/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/learn-the-grain-of-the-work/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/learn-the-grain-of-the-work/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/learn-the-grain-of-the-work/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/learn-the-grain-of-the-work/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/learn-the-grain-of-the-work/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/learn-the-grain-of-the-work/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/learn-the-grain-of-the-work/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/learn-the-grain-of-the-work/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/learn-the-grain-of-the-work/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/learn-the-grain-of-the-work/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/learn-the-grain-of-the-work/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/learn-the-grain-of-the-work/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/learn-the-grain-of-the-work/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/learn-the-grain-of-the-work/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/learn-the-grain-of-the-work/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/learn-the-grain-of-the-work/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/learn-the-grain-of-the-work/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/learn-the-grain-of-the-work/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/learn-the-grain-of-the-work/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/learn-the-grain-of-the-work/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/learn-the-grain-of-the-work/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/learn-the-grain-of-the-work/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/learn-the-grain-of-the-work/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/learn-the-grain-of-the-work/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/learn-the-grain-of-the-work/clips/sources_0.mp3"
+    }
+  }
+}

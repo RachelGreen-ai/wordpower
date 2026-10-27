@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-one-stroke-unfinished",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave One Stroke Unfinished",
+    "zh": "留一笔，不急着画完"
+  },
+  "subtitle": {
+    "en": "An original reflection on drawing, attention, and the courage to keep looking.",
+    "zh": "一篇关于绘画、专注，以及勇于继续观察的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Art",
+    "Attention",
+    "Patience",
+    "Seeing",
+    "Craft"
+  ],
+  "sources": [
+    {
+      "title": "The Elements of Drawing",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30325",
+      "note": {
+        "en": "Public-domain inspiration for learning to see through patient drawing; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域著作中以耐心绘画训练观察力的思想；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if you are guiding a friend through a quiet studio. Let each visual detail arrive before you explain it.",
+    "zh": "想象你正带朋友走进一间安静的画室。先让每个视觉细节出现，再作解释。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Pencil That Waits",
+      "zh": "愿意等待的铅笔"
+    },
+    "intro": {
+      "en": "This original passage explores how drawing can interrupt assumption and return us to the particular world.",
+      "zh": "这篇原创文章探讨绘画如何打断想当然，把我们带回具体而真实的世界。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Convenient Leaf",
+          "zh": "1. 方便的叶子"
+        },
+        "text": "Ask a beginner to draw a leaf, and the hand often produces a familiar green symbol: pointed at both ends, divided by one obedient line. It is efficient, recognizable, and almost entirely false. The leaf on the table is broader near the stem. One edge has been eaten into a small bay. Its central vein bends after an old injury, while afternoon light turns half the surface silver. None of this is difficult to see. The difficulty is that we believe we have already seen it. A ready-made idea reaches the page before the living object has time to speak.",
+        "coaching": {
+          "en": "Keep the opening lightly amused, then slow down through the concrete details. Stress already seen it.",
+          "zh": "开头带一点轻松的笑意，进入具体细节后放慢。重读 already seen it。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Useful Hesitation",
+          "zh": "2. 有用的迟疑"
+        },
+        "text": "A good pencil hesitates. It moves, stops, measures a distance, and returns. This is not timidity. It is respect for evidence. The eye notices that a shadow has no hard border, that two petals overlap without becoming one shape, that white paper can hold ten kinds of pale gray. Gradually, the hand gives up its impatient shorthand. The drawing may remain awkward, but the looking becomes exact. In that interval between seeing and naming, attention recovers its freshness. We meet the ordinary object without demanding that it resemble our memory of every object like it.",
+        "coaching": {
+          "en": "Use clean pauses after moves, stops, and returns. Let the final sentence feel spacious rather than solemn.",
+          "zh": "在 moves、stops、returns 后作清楚停顿。末句要有空间感，不要过分庄重。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Mercy of Revision",
+          "zh": "3. 修改的温柔"
+        },
+        "text": "The page also teaches a gentler relation to error. A line can be too dark, an angle too proud, a proportion quietly wrong. We do not need to defend the mark because we made it. We can soften it, place a truer line beside it, or begin again on clean paper. Revision is not punishment; it is the visible form of renewed attention. This lesson travels well beyond the studio. A first impression of a colleague may be as crude as the convenient leaf. A judgment about ourselves may be an outline drawn years ago and never inspected since. Looking again is how accuracy becomes mercy.",
+        "coaching": {
+          "en": "Give the list of errors a steady rhythm. Warm the voice on revision is not punishment and accuracy becomes mercy.",
+          "zh": "列举错误时保持稳定节奏。在 revision is not punishment 与 accuracy becomes mercy 处让声音更温暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Keep the Page Open",
+          "zh": "4. 让画页保持打开"
+        },
+        "text": "There is wisdom in leaving one stroke unfinished for a while. The open place reminds us that perception is not possession. Tomorrow's light may reveal a contour we missed; another person's eye may notice weight, movement, or tenderness where we saw only form. Completion has its hour, but it should not arrive merely because uncertainty makes us restless. Set down the pencil. Cross the room. Return with quieter eyes. The unfinished stroke is not a failure of confidence. It is a small door left open to reality—the admission that the world is more detailed than our first account of it, and generous enough to be seen again.",
+        "coaching": {
+          "en": "Pause fully after the three short instructions. Make the last sentence confident, clear, and quietly grateful.",
+          "zh": "三个简短指令之后都充分停顿。末句读得自信、清晰，并带着安静的感激。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "ready-made",
+      "meaning": {
+        "en": "Prepared in advance rather than formed for the present case.",
+        "zh": "预先制成的；并非针对眼前情况形成的。"
+      },
+      "use": {
+        "en": "A ready-made answer can prevent a real conversation.",
+        "zh": "套用现成答案，可能会妨碍真正的交流。"
+      }
+    },
+    {
+      "term": "shorthand",
+      "meaning": {
+        "en": "A simplified way of representing a more complex idea.",
+        "zh": "表达复杂事物的简化方式；速记式表达。"
+      },
+      "use": {
+        "en": "The label became shorthand for a much richer story.",
+        "zh": "这个标签成了一个丰富得多的故事的简写。"
+      }
+    },
+    {
+      "term": "timidity",
+      "meaning": {
+        "en": "A lack of courage or confidence.",
+        "zh": "胆怯；缺乏勇气或信心。"
+      },
+      "use": {
+        "en": "Her careful pause was precision, not timidity.",
+        "zh": "她谨慎的停顿源于精确，而非胆怯。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "The size or amount of one part in relation to another.",
+        "zh": "一个部分与另一个部分相比的大小或比例。"
+      },
+      "use": {
+        "en": "The response was out of proportion to the mistake.",
+        "zh": "这一反应与错误的严重程度不成比例。"
+      }
+    },
+    {
+      "term": "contour",
+      "meaning": {
+        "en": "The outer line or shape of something.",
+        "zh": "物体的外部轮廓。"
+      },
+      "use": {
+        "en": "Evening light softened the contour of the hills.",
+        "zh": "暮色柔化了群山的轮廓。"
+      }
+    },
+    {
+      "term": "restless",
+      "meaning": {
+        "en": "Unable to remain calm, still, or patient.",
+        "zh": "无法平静、安定或耐心等待的。"
+      },
+      "use": {
+        "en": "We grew restless while waiting for a decision.",
+        "zh": "等待决定时，我们渐渐变得焦躁。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link consonants into vowels in pointed at and light turns.",
+      "zh": "在 pointed at 和 light turns 中，把前词末辅音自然连接到后词。"
+    },
+    {
+      "en": "Keep the unstressed middle syllable light in proportion: pro-POR-tion.",
+      "zh": "读 proportion 时弱化非重读音节：pro-POR-tion。"
+    },
+    {
+      "en": "Use contrastive stress in not punishment; it is the visible form of renewed attention.",
+      "zh": "在 not punishment; it is the visible form of renewed attention 中读出对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with the calm concentration of someone drawing from life.",
+      "zh": "跟读时保持写生般平静而集中的状态。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: pause after each visual image and let it become clear.",
+        "zh": "第一遍：每个视觉画面后停顿，让它变得清楚。"
+      },
+      {
+        "en": "Pass two: distinguish the short, firm sentences from the longer reflective ones.",
+        "zh": "第二遍：区分简短有力的句子与较长的反思句。"
+      },
+      {
+        "en": "Pass three: carry quiet warmth into the final paragraph without slowing too much.",
+        "zh": "第三遍：末段带入安静的温度，但不要过度放慢。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar thing might look different if you studied it for five minutes?",
+      "zh": "哪件熟悉的事物，若认真观察五分钟，可能会呈现不同面貌？"
+    },
+    {
+      "en": "Which old judgment in your life deserves a truer second line?",
+      "zh": "你生活中的哪个旧判断，值得用更准确的一笔重新描画？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-one-stroke-unfinished/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-one-stroke-unfinished/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-one-stroke-unfinished/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-one-stroke-unfinished/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-one-stroke-unfinished/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-one-stroke-unfinished/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-one-stroke-unfinished/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-one-stroke-unfinished/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-one-stroke-unfinished/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-one-stroke-unfinished/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-one-stroke-unfinished/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-one-stroke-unfinished/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-one-stroke-unfinished/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-one-stroke-unfinished/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-one-stroke-unfinished/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-one-stroke-unfinished/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-one-stroke-unfinished/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-one-stroke-unfinished/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-one-stroke-unfinished/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-one-stroke-unfinished/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-one-stroke-unfinished/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-one-stroke-unfinished/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-one-stroke-unfinished/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-one-stroke-unfinished/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-one-stroke-unfinished/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-one-stroke-unfinished/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-one-stroke-unfinished/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-one-stroke-unfinished/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-one-stroke-unfinished/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-one-stroke-unfinished/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-one-stroke-unfinished/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-one-stroke-unfinished/clips/sources_0.mp3"
+    }
+  }
+}
