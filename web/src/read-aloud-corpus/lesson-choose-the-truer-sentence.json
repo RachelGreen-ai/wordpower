@@ -1,0 +1,244 @@
+{
+  "lessonId": "choose-the-truer-sentence",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Choose the Truer Sentence",
+    "zh": "选择更真实的那句话"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm communication, honest revision, and words that leave room for another person.",
+    "zh": "一篇关于平静沟通、诚实修正，以及为他人留出空间的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Honesty",
+    "Listening",
+    "Restraint",
+    "Trust"
+  ],
+  "sources": [
+    {
+      "title": "Essays of Michel de Montaigne",
+      "author": "Michel de Montaigne",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3600",
+      "note": {
+        "en": "Public-domain inspiration for self-questioning and candid conversation; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中的自我审视与坦诚交谈；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with thoughtful restraint. Let each revised sentence sound more accurate, not merely softer.",
+    "zh": "用审慎而克制的声音朗读。每次改写都要显得更准确，而不只是更温和。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Sentence Before the Sentence",
+      "zh": "说出口之前的那句话"
+    },
+    "intro": {
+      "en": "This original passage follows a difficult conversation from its first defensive draft toward language sturdy enough to hold two realities.",
+      "zh": "这篇原创文章写一次艰难谈话如何从防御性的初稿，走向足以容纳两种现实的语言。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Fast Draft",
+          "zh": "1. 脱口而出的初稿"
+        },
+        "text": "The sentence arrived while Mara was still reading the message: “You never listen.” It came complete, carrying its own evidence and verdict. Her thumb hovered over send. Across the kitchen, rain made a patient sound against the window, and the kettle had not yet boiled. She read the four words again. They were forceful, but not exact. Her colleague had listened on Tuesday, and again during the long call in May. What hurt was narrower: this morning, he had answered the easiest part of her question and ignored the risk she had tried three times to name. Anger had written quickly. Accuracy would need another minute.",
+        "coaching": {
+          "en": "Give the opening sentence a sharp edge, then slow as Mara begins to distinguish force from accuracy.",
+          "zh": "开头那句话要带锋芒；当 Mara 开始区分力量与准确时，逐渐放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Revision Is Not Retreat",
+          "zh": "2. 修正不是退让"
+        },
+        "text": "We sometimes fear that revising our language will weaken our position. If we remove always and never, will the other person escape responsibility? Yet exaggeration offers an easy door out. The accused person can defend one exception and avoid the central truth. A precise sentence closes that door without locking the whole room: “When the budget came up today, you answered my timeline question but not my concern about safety.” Now there is an event to examine, an effect to acknowledge, and a conversation that can move. Precision does not drain courage from speech. It gives courage somewhere useful to stand.",
+        "coaching": {
+          "en": "Keep the questions genuinely searching. Deliver the revised sentence slowly and plainly, with no courtroom drama.",
+          "zh": "疑问句要有真实的探索感。改写后的句子要缓慢、平实，不要像法庭陈词。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. A Door Left Unlocked",
+          "zh": "3. 留一扇没有上锁的门"
+        },
+        "text": "The truer sentence also leaves one door unlocked: the possibility that we do not possess the entire account. “I may have missed something,” Mara added, “but I left the meeting unsure whether you had heard that concern.” This was not a decorative apology. It named the boundary of her knowledge. She knew what she had said and how the meeting had felt; she did not know what distraction, assumption, or private worry had occupied the other mind. Calm communication is not the performance of perfect calm. The voice may tremble. The heart may race. Its discipline is simpler: do not claim more than you know, and do not hide what you do know.",
+        "coaching": {
+          "en": "Warm the quoted lines slightly. Build firm contrast through do not claim and do not hide.",
+          "zh": "引语稍微读暖一些。在 do not claim 与 do not hide 的对照中读出坚定。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Language With a Handle",
+          "zh": "4. 让语言有可握之处"
+        },
+        "text": "Mara sent the revised message. Ten minutes later, her colleague called. He had heard the word safety, he said, but had mistaken it for a delay she wanted to prevent rather than a hazard she wanted investigated. The misunderstanding did not make her concern less serious. It made the next action clearer. They returned to the report together. A useful sentence is not one that leaves the speaker victorious and the listener speechless. It is language with a handle: another person can take hold of it, test its weight, and help carry what is true. Before you send the fastest sentence, wait beside it. Ask what happened, what you felt, and what you cannot yet know. Then choose the sentence that makes honesty possible on both sides.",
+        "coaching": {
+          "en": "Let the resolution feel practical rather than tidy. Give the final three questions measured, inviting space.",
+          "zh": "结局要显得实际，而不是过分圆满。最后三个问题之间留出从容、邀请式的空间。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A judgment or decision reached after considering a matter.",
+        "zh": "经过考虑后作出的判断或裁决。"
+      },
+      "use": {
+        "en": "She wanted a conversation, not an instant verdict.",
+        "zh": "她想要的是一次交谈，而不是立刻下结论。"
+      }
+    },
+    {
+      "term": "hover",
+      "meaning": {
+        "en": "To remain close to a place or position without settling.",
+        "zh": "停留在某处附近，悬而未定。"
+      },
+      "use": {
+        "en": "His hand hovered above the reply button.",
+        "zh": "他的手停在回复按钮上方。"
+      }
+    },
+    {
+      "term": "exaggeration",
+      "meaning": {
+        "en": "A statement that makes something seem greater than it is.",
+        "zh": "把事情说得比实际更严重或更大的夸张表达。"
+      },
+      "use": {
+        "en": "Exaggeration weakened an otherwise fair complaint.",
+        "zh": "夸张削弱了一个原本合理的诉求。"
+      }
+    },
+    {
+      "term": "acknowledge",
+      "meaning": {
+        "en": "To accept or recognize that something is true or exists.",
+        "zh": "承认或确认某事真实存在。"
+      },
+      "use": {
+        "en": "He acknowledged the delay without making excuses.",
+        "zh": "他承认了延误，没有找借口。"
+      }
+    },
+    {
+      "term": "discipline",
+      "meaning": {
+        "en": "Controlled practice that trains a way of acting or thinking.",
+        "zh": "训练行为或思维方式的自我约束与练习。"
+      },
+      "use": {
+        "en": "Careful listening is a discipline, not a mood.",
+        "zh": "认真倾听是一种练习，不是一时的心情。"
+      }
+    },
+    {
+      "term": "take hold of",
+      "meaning": {
+        "en": "To grasp something physically or understand and engage with an idea.",
+        "zh": "抓住某物；理解并投入处理某个想法。"
+      },
+      "use": {
+        "en": "The team could take hold of the concrete proposal.",
+        "zh": "团队能够真正着手处理这项具体提议。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link consonants smoothly in sent the message and missed something.",
+      "zh": "在 sent the message 和 missed something 中自然连接辅音。"
+    },
+    {
+      "en": "Keep the first syllable stressed in accurate and accuracy: AC-cu-rate, AC-cu-ra-cy.",
+      "zh": "accurate 与 accuracy 的重音都在第一音节：AC-cu-rate，AC-cu-ra-cy。"
+    },
+    {
+      "en": "Use contrastive stress in what you do know and what you cannot yet know.",
+      "zh": "在 what you do know 与 what you cannot yet know 中读出对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are making a difficult truth easier to receive without making it smaller.",
+      "zh": "跟读时想象：你要让一件艰难的事实更容易被听进去，但绝不缩小它。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: mark the difference between the fast draft and the precise revision.",
+        "zh": "第一遍：读出脱口而出的初稿与精确改写之间的差别。"
+      },
+      {
+        "en": "Pass two: keep quoted speech direct, calm, and free of sarcasm.",
+        "zh": "第二遍：引语要直接、平静，不带讽刺。"
+      },
+      {
+        "en": "Pass three: let the final invitation sound strong enough to be trusted.",
+        "zh": "第三遍：让结尾的邀请听起来有足够的力量，值得信任。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which word in a recent disagreement made your sentence less exact?",
+      "zh": "最近一次分歧中，哪个词让你的表达变得不够准确？"
+    },
+    {
+      "en": "How could you name what you know while leaving room for what you do not?",
+      "zh": "你怎样既说清自己知道的，又为尚不知道的部分留出空间？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/choose-the-truer-sentence/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/choose-the-truer-sentence/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/choose-the-truer-sentence/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/choose-the-truer-sentence/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/choose-the-truer-sentence/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/choose-the-truer-sentence/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/choose-the-truer-sentence/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/choose-the-truer-sentence/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/choose-the-truer-sentence/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/choose-the-truer-sentence/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/choose-the-truer-sentence/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/choose-the-truer-sentence/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/choose-the-truer-sentence/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/choose-the-truer-sentence/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/choose-the-truer-sentence/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/choose-the-truer-sentence/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/choose-the-truer-sentence/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/choose-the-truer-sentence/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/choose-the-truer-sentence/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/choose-the-truer-sentence/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/choose-the-truer-sentence/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/choose-the-truer-sentence/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/choose-the-truer-sentence/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/choose-the-truer-sentence/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/choose-the-truer-sentence/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/choose-the-truer-sentence/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/choose-the-truer-sentence/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/choose-the-truer-sentence/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/choose-the-truer-sentence/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/choose-the-truer-sentence/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/choose-the-truer-sentence/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/choose-the-truer-sentence/clips/sources_0.mp3"
+    }
+  }
+}

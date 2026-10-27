@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-child-finish-the-map",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Child Finish the Map",
+    "zh": "让孩子把地图画完"
+  },
+  "subtitle": {
+    "en": "An original reflection on guidance, useful mistakes, and the patience to let understanding take shape.",
+    "zh": "一篇关于引导、有价值的错误，以及耐心等待理解成形的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Learning",
+    "Patience",
+    "Guidance",
+    "Curiosity"
+  ],
+  "sources": [
+    {
+      "title": "Emile; or, Concerning Education",
+      "author": "Jean-Jacques Rousseau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/5427",
+      "note": {
+        "en": "Public-domain inspiration for learning through direct experience; this lesson is wholly original and endorses none of the source's outdated claims.",
+        "zh": "灵感来自这部公开领域作品中通过亲身经验学习的思想；本课全文原创，也不认同原作中过时的观点。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with patient affection. Keep the adult's urge to help recognizable, and let the child's discoveries retain their dignity.",
+    "zh": "用耐心而亲切的声音朗读。让大人想帮忙的冲动真实可感，也保留孩子发现时的尊严。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Long Way to the Duck Pond",
+      "zh": "去鸭塘的那条远路"
+    },
+    "intro": {
+      "en": "This original passage considers the delicate distance between protecting a child and doing the child's thinking for them.",
+      "zh": "这篇原创文章思考保护孩子与替孩子思考之间那段微妙的距离。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Crooked Blue Line",
+          "zh": "1. 弯弯曲曲的蓝线"
+        },
+        "text": "On Saturday, Eli drew a map from the park gate to the duck pond. His mother knew the route: past the greenhouse, left at the drinking fountain, then down the gravel path. Eli's blue line went right. It circled a patch of trees, crossed what he called “the windy grass,” and placed the pond beside a bench that was actually two hundred meters away. His mother reached for the pencil. One quick correction would save time, wet shoes, and perhaps a complaint before lunch. Then Eli covered the page with his hand. “I'm not finished,” he said. She put the pencil down.",
+        "coaching": {
+          "en": "Keep the map details playful and clear. Pause after I'm not finished so the small boundary has weight.",
+          "zh": "地图细节要轻快清楚。在 I'm not finished 之后停顿，让这个小小的界限有分量。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Cost of Useful Confusion",
+          "zh": "2. 有用的迷路也有代价"
+        },
+        "text": "Adults can see the price of a mistake before a child sees its shape. We know that the missing coat will mean cold shoulders, that the cup balanced at the table's edge will fall, that the forgotten instruction will require a second trip. This foresight is part of care. But when we remove every minor consequence, we may also remove the evidence from which judgment grows. The aim is not to manufacture hardship or stand proudly aside while harm approaches. It is to distinguish danger from inconvenience. A scraped knee needs attention; a route that adds seven safe minutes may be allowed to teach.",
+        "coaching": {
+          "en": "Read the examples with warm recognition. Make the distinction between danger and inconvenience crisp and practical.",
+          "zh": "例子要读出温暖的熟悉感。danger 与 inconvenience 的区别要清楚、实际。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Questions That Do Not Steal",
+          "zh": "3. 不夺走答案的问题"
+        },
+        "text": "At the fork in the path, Eli stopped. Both directions looked possible. His mother could have pointed left. Instead she asked, “What can you see on your map from where we are?” He found the greenhouse roof behind them. He listened and heard traffic on one side, quieter birdsong on the other. He turned the page, frowned, and changed the blue line himself. A good guiding question does not disguise an order with a question mark. It returns the learner's attention to evidence. It says: your mind is still needed here. The pause may feel inefficient, but it is where borrowed instructions begin to become personal judgment.",
+        "coaching": {
+          "en": "Let the mother's question sound curious, not strategic. Stress your mind is still needed here with quiet confidence.",
+          "zh": "母亲的问题要像真心好奇，而不是策略。your mind is still needed here 要安静而坚定。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Map With Memory In It",
+          "zh": "4. 一张装着记忆的地图"
+        },
+        "text": "They reached the pond by the long path. Eli's shoes were damp at the edges, and the ducks were no more impressed by his arrival than ducks usually are. On the way home, he redrew the map. The greenhouse became a green square. The fork gained two arrows. The windy grass remained, although no official map would have named it. His mother noticed that the page was now accurate without becoming impersonal. It contained not only the route but the act of finding it. Children need our knowledge, our limits, and our protection. They also need stretches of ground where their own attention can lead. Offer the pencil when it is asked for. Until then, stay near enough to help—and patient enough to let the map become theirs.",
+        "coaching": {
+          "en": "Warm the voice through the redrawn map. Let the final sentence balance nearness with restraint.",
+          "zh": "读到重画地图时让声音变暖。末句要平衡陪伴与克制。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "crooked",
+      "meaning": {
+        "en": "Bent, curved, or not forming a straight line.",
+        "zh": "弯曲的；不成直线的。"
+      },
+      "use": {
+        "en": "A crooked path led through the orchard.",
+        "zh": "一条弯弯曲曲的小路穿过果园。"
+      }
+    },
+    {
+      "term": "foresight",
+      "meaning": {
+        "en": "The ability to anticipate what may happen in the future.",
+        "zh": "预见未来可能发生之事的能力。"
+      },
+      "use": {
+        "en": "A little foresight prevented a larger problem.",
+        "zh": "一点远见避免了更大的问题。"
+      }
+    },
+    {
+      "term": "consequence",
+      "meaning": {
+        "en": "A result or effect of an action or condition.",
+        "zh": "某种行动或情况造成的结果。"
+      },
+      "use": {
+        "en": "He learned from the natural consequence of being late.",
+        "zh": "他从迟到所带来的自然后果中学到了东西。"
+      }
+    },
+    {
+      "term": "distinguish",
+      "meaning": {
+        "en": "To recognize or show the difference between things.",
+        "zh": "辨别或说明事物之间的差异。"
+      },
+      "use": {
+        "en": "Experience helped her distinguish urgency from panic.",
+        "zh": "经验帮助她分清紧迫与慌乱。"
+      }
+    },
+    {
+      "term": "disguise",
+      "meaning": {
+        "en": "To hide the true nature of something by changing its appearance.",
+        "zh": "通过改变外表来掩盖某事的真实性质。"
+      },
+      "use": {
+        "en": "The suggestion disguised a firm command.",
+        "zh": "这个建议其实掩饰着一道强硬的命令。"
+      }
+    },
+    {
+      "term": "impersonal",
+      "meaning": {
+        "en": "Not connected to a particular person or their feelings.",
+        "zh": "非个人化的；不带个人感受的。"
+      },
+      "use": {
+        "en": "The efficient reply felt strangely impersonal.",
+        "zh": "这封高效的回复却显得异常冷淡、缺少人情味。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link final consonants in park gate, left at, and map from.",
+      "zh": "在 park gate、left at 和 map from 中自然连接词尾辅音。"
+    },
+    {
+      "en": "Keep the stress clear in inconvenience: in-con-VE-ni-ence.",
+      "zh": "读 inconvenience 时保持重音清晰：in-con-VE-ni-ence。"
+    },
+    {
+      "en": "Use a genuine rising tone in What can you see, then fall gently at the end of the full question.",
+      "zh": "What can you see 处自然上扬，完整问句结尾再轻轻下降。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a patient adult walking beside a child who is capable of noticing more than expected.",
+      "zh": "跟读时像一位耐心的大人，陪着一个比你想象中更会观察的孩子前行。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the park route visible through clear nouns and directions.",
+        "zh": "第一遍：通过清楚的名词与方向词，让公园路线可见。"
+      },
+      {
+        "en": "Pass two: keep guidance warm without turning it into baby talk.",
+        "zh": "第二遍：引导语要温暖，但不要变成哄小孩的语气。"
+      },
+      {
+        "en": "Pass three: give the final balance of protection and freedom an even rhythm.",
+        "zh": "第三遍：用均衡的节奏读出保护与自由之间的平衡。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where might a safe inconvenience teach more than a quick correction?",
+      "zh": "在哪件事上，一点安全范围内的不便，可能比迅速纠正教得更多？"
+    },
+    {
+      "en": "What question could return a learner's attention to the evidence?",
+      "zh": "你可以问什么问题，把学习者的注意力重新带回证据？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-child-finish-the-map/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-child-finish-the-map/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-child-finish-the-map/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-child-finish-the-map/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-child-finish-the-map/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-child-finish-the-map/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-child-finish-the-map/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-child-finish-the-map/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-child-finish-the-map/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-child-finish-the-map/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-child-finish-the-map/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-child-finish-the-map/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-child-finish-the-map/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-child-finish-the-map/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-child-finish-the-map/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-child-finish-the-map/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-child-finish-the-map/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-child-finish-the-map/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-child-finish-the-map/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-child-finish-the-map/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-child-finish-the-map/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-child-finish-the-map/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-child-finish-the-map/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-child-finish-the-map/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-child-finish-the-map/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-child-finish-the-map/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-child-finish-the-map/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-child-finish-the-map/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-child-finish-the-map/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-child-finish-the-map/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-child-finish-the-map/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-child-finish-the-map/clips/sources_0.mp3"
+    }
+  }
+}

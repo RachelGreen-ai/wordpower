@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-a-window-for-the-unknown",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep a Window for the Unknown",
+    "zh": "为未知留一扇窗"
+  },
+  "subtitle": {
+    "en": "An original reflection on experiment, intellectual humility, and the pleasure of a question that survives its first answer.",
+    "zh": "一篇关于实验、求知的谦逊，以及一个问题超越首个答案之后所带来乐趣的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Curiosity",
+    "Humility",
+    "Experiment",
+    "Wonder"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration for finding large questions in ordinary phenomena; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中从日常现象发现重大问题的精神；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert curiosity. Make the laboratory details exact, while allowing wonder to grow from observation rather than performance.",
+    "zh": "用敏锐的好奇心朗读。实验细节要准确，让惊奇从观察中自然生长，而不是刻意表演。"
+  },
+  "passage": {
+    "title": {
+      "en": "What the Clear Jar Did Not Explain",
+      "zh": "透明玻璃罐没有解释的事"
+    },
+    "intro": {
+      "en": "This original passage follows a small experiment that succeeds, then becomes interesting for a reason no one planned.",
+      "zh": "这篇原创文章写一个小实验先获得成功，随后又因意外的原因变得真正有趣。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Satisfactory Result",
+          "zh": "1. 一个令人满意的结果"
+        },
+        "text": "The class placed a short candle in a shallow dish of water, lit it, and lowered a clear jar over the flame. The flame narrowed, trembled, and disappeared. Water rose inside the jar. Pens moved across notebooks. Their teacher had asked what fire requires, and the demonstration seemed to answer neatly: air. The students drew arrows, labeled the jar, and prepared to close their books. Only Noor kept watching. Tiny beads had formed on the inner glass. “Where did the water come from?” she asked. The planned lesson had ended. The real lesson had found a window.",
+        "coaching": {
+          "en": "Keep the procedure crisp and unhurried. Let Noor's question open the room without making it theatrical.",
+          "zh": "实验步骤要清楚、不急。Noor 的问题要自然地打开新的空间，不要戏剧化。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Trouble With a Successful Answer",
+          "zh": "2. 成功答案的麻烦"
+        },
+        "text": "An answer is useful because it reduces confusion. It can also become a curtain. Once we have named a cause, completed a chart, or matched the expected result, attention relaxes. We see what the explanation prepared us to see and overlook the damp glass at its edge. This is not stupidity. It is an ordinary economy of mind; no one can investigate everything at once. The danger begins when efficiency hardens into certainty. A strong explanation should organize what we know without pretending that nothing remains outside it. Good knowledge is a room with walls, a door, and at least one open window.",
+        "coaching": {
+          "en": "Use a measured explanatory tone. Stress organize without pretending to clarify the central distinction.",
+          "zh": "使用从容的解释语气。重读 organize without pretending，突出核心区别。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask the Residue",
+          "zh": "3. 追问剩下的痕迹"
+        },
+        "text": "Scientists often learn to ask not only, “Did the experiment work?” but also, “What residue did it leave?” A surprising smell, a warmer surface, a measurement that refuses to repeat—each may be noise, error, or the beginning of another account. The skill is neither to worship every anomaly nor to erase it for the sake of a clean report. Record it. Test the instrument. Change one condition. Invite a second pair of eyes. Humility in inquiry is active, not vague. It does not say that every idea is equally true. It says that reality has the right to correct our favorite idea.",
+        "coaching": {
+          "en": "Make the list of actions concise and energetic. Land firmly on reality and correct our favorite idea.",
+          "zh": "一连串行动要简洁有力。在 reality 与 correct our favorite idea 上坚定落音。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Question After the Answer",
+          "zh": "4. 答案之后的问题"
+        },
+        "text": "The next day, Noor's class repeated the demonstration with cooler glass, warmer glass, and a metal cover that hid the droplets. They read about combustion and learned that burning wax produces water vapor among other things. The beads were no longer mysterious, but they had changed the class's habit of looking. Now, after an answer, someone usually waited. Someone checked the rim of the dish, touched the table for warmth, or asked what the diagram had left out. Wonder does not require us to remain ignorant. It asks us to become knowledgeable without becoming sealed. Learn the sound explanation. Use it well. Then keep a window for the detail that still taps softly against the glass.",
+        "coaching": {
+          "en": "Let the repeated observations carry quiet excitement. Slow the final three sentences and finish with attentive softness.",
+          "zh": "重复的观察要带着安静的兴奋。最后三句放慢，以专注而轻柔的声音收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "phenomenon",
+      "meaning": {
+        "en": "An observable event or fact, especially one studied scientifically.",
+        "zh": "可观察到的事件或事实，尤指科学研究中的现象。"
+      },
+      "use": {
+        "en": "The familiar phenomenon deserved a closer look.",
+        "zh": "这个熟悉的现象值得更仔细地观察。"
+      }
+    },
+    {
+      "term": "demonstration",
+      "meaning": {
+        "en": "A practical display that shows how something works or is done.",
+        "zh": "展示某事如何运作或完成的实际演示。"
+      },
+      "use": {
+        "en": "The teacher began with a simple demonstration.",
+        "zh": "老师从一个简单的演示开始。"
+      }
+    },
+    {
+      "term": "residue",
+      "meaning": {
+        "en": "Something that remains after a process has finished.",
+        "zh": "某个过程结束后留下的残余物或痕迹。"
+      },
+      "use": {
+        "en": "A pale residue remained at the bottom of the cup.",
+        "zh": "杯底留下一层浅色残留物。"
+      }
+    },
+    {
+      "term": "anomaly",
+      "meaning": {
+        "en": "Something that differs from what is normal or expected.",
+        "zh": "偏离正常或预期情况的异常现象。"
+      },
+      "use": {
+        "en": "They repeated the test before dismissing the anomaly.",
+        "zh": "他们再次测试后，才判断这个异常是否可以忽略。"
+      }
+    },
+    {
+      "term": "inquiry",
+      "meaning": {
+        "en": "A process of asking questions and investigating a subject.",
+        "zh": "通过提问和调查来研究某个主题的过程。"
+      },
+      "use": {
+        "en": "Careful inquiry replaced confident guessing.",
+        "zh": "仔细探究取代了自信的猜测。"
+      }
+    },
+    {
+      "term": "sealed",
+      "meaning": {
+        "en": "Completely closed, or unwilling to admit new ideas or evidence.",
+        "zh": "完全封闭的；不愿接纳新想法或新证据的。"
+      },
+      "use": {
+        "en": "Her conclusion remained firm but not sealed.",
+        "zh": "她的结论坚定，却没有封闭。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link final consonants in short candle, clear jar, and kept watching.",
+      "zh": "在 short candle、clear jar 和 kept watching 中自然连接词尾辅音。"
+    },
+    {
+      "en": "Stress the second syllable in anomaly and inquiry: a-NOM-a-ly, in-QUI-ry.",
+      "zh": "anomaly 与 inquiry 的重音分别落在第二音节：a-NOM-a-ly，in-QUI-ry。"
+    },
+    {
+      "en": "Use balanced rhythm in noise, error, or the beginning of another account.",
+      "zh": "在 noise, error, or the beginning of another account 中保持均衡节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a scientist speaking to curious visitors: exact enough to trust, open enough to invite another question.",
+      "zh": "跟读时像科学家向好奇的访客讲解：准确得值得信任，也开放得足以邀请下一个问题。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every movement in the experiment easy to follow.",
+        "zh": "第一遍：让实验中的每个动作都清楚易懂。"
+      },
+      {
+        "en": "Pass two: distinguish confident evidence from open questions through intonation.",
+        "zh": "第二遍：用语调区分确定的证据与开放的问题。"
+      },
+      {
+        "en": "Pass three: let wonder rise from precise details, not from exaggerated excitement.",
+        "zh": "第三遍：让惊奇从准确细节中生长，不要靠夸张的兴奋。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What detail have you recently overlooked because the main answer seemed complete?",
+      "zh": "最近哪一个细节，因为主要答案看似完整而被你忽略了？"
+    },
+    {
+      "en": "How can you stay open to correction without treating every claim as equally likely?",
+      "zh": "你怎样既对修正保持开放，又不把所有说法都视为同样可信？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-window-for-the-unknown/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-window-for-the-unknown/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-window-for-the-unknown/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-window-for-the-unknown/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-window-for-the-unknown/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-a-window-for-the-unknown/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-a-window-for-the-unknown/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-window-for-the-unknown/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-window-for-the-unknown/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-window-for-the-unknown/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-window-for-the-unknown/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-window-for-the-unknown/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-window-for-the-unknown/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-window-for-the-unknown/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-window-for-the-unknown/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-window-for-the-unknown/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-window-for-the-unknown/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-window-for-the-unknown/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-window-for-the-unknown/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-window-for-the-unknown/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-window-for-the-unknown/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-window-for-the-unknown/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-window-for-the-unknown/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-window-for-the-unknown/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-window-for-the-unknown/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-window-for-the-unknown/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-window-for-the-unknown/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-window-for-the-unknown/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-window-for-the-unknown/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-window-for-the-unknown/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-window-for-the-unknown/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-window-for-the-unknown/clips/sources_0.mp3"
+    }
+  }
+}
