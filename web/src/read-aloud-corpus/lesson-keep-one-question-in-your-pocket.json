@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-one-question-in-your-pocket",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep One Question in Your Pocket",
+    "zh": "在口袋里留一个问题"
+  },
+  "subtitle": {
+    "en": "An original reflection on useful uncertainty, patient learning, and questions that mature beside our work.",
+    "zh": "一篇原创美文：关于有益的不确定、耐心的学习，以及陪伴工作逐渐成熟的问题。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Learning",
+    "Career",
+    "Curiosity",
+    "Uncertainty",
+    "Craft"
+  ],
+  "sources": [
+    {
+      "title": "Talks to Teachers on Psychology; and to Students on Some of Life's Ideals",
+      "author": "William James",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/16287",
+      "note": {
+        "en": "Public-domain inspiration for attention, habit, and practical learning; this lesson is wholly original and does not reproduce the source.",
+        "zh": "灵感来自这部公开领域作品中关于注意、习惯与实践学习的思想；本课全文原创，未复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert calm. Let uncertainty sound like an instrument of learning, not a confession of weakness.",
+    "zh": "用清醒而平静的语气朗读。让不确定听起来像学习的工具，而不是软弱的自白。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Question That Walks Beside the Work",
+      "zh": "陪着工作向前走的问题"
+    },
+    "intro": {
+      "en": "This original passage considers the value of carrying one precise, unfinished question through the ordinary days of learning a craft.",
+      "zh": "这篇原创文章思考：在学习一门本领的日常岁月里，带着一个准确而未完成的问题，有何价值。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Empty Pocket",
+          "zh": "1. 空着的口袋"
+        },
+        "text": "At the beginning of a career, people often collect answers as if rain were coming. They save formulas, repeat confident phrases, and borrow other people's conclusions for meetings that move too quickly. Some answers are useful shelter. Yet a person who carries only answers may stop noticing what the work is actually asking. Leave one pocket empty. Put into it a question small enough to remember: Where does this process lose the human being? What makes this lesson stay? Which detail changes the result?",
+        "coaching": {
+          "en": "Give the opening a brisk, gathering rhythm. Slow down for Leave one pocket empty and make each question distinct.",
+          "zh": "开头用明快、不断收集的节奏。在 Leave one pocket empty 处放慢，并把每个问题读清。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Let Evidence Accumulate",
+          "zh": "2. 让证据逐渐累积"
+        },
+        "text": "Do not demand an answer by Friday merely because Friday has a calendar square. Carry the question through real rooms. Notice when a customer hesitates, when a student looks up, when a tool is quietly set aside. Record the exceptions instead of trimming them to fit your first idea. A durable answer often arrives as a pattern before it arrives as a sentence. Patience here is active. It compares, tests, and returns to the scene with sharper attention.",
+        "coaching": {
+          "en": "Read the Friday line with dry humor. Build steady energy through compares, tests, and returns.",
+          "zh": "Friday 那句带一点克制的幽默。读 compares、tests、returns 时稳步增强力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask Better, Not Bigger",
+          "zh": "3. 问得更好，而非更大"
+        },
+        "text": "An enormous question can flatter us while producing no useful movement. How can everything be improved? sounds ambitious, but it gives the hands nowhere to begin. Better questions acquire edges. They name a moment, a person, a constraint. Why do new colleagues stop asking for help after the second week? can lead to a changed welcome, a clearer map, or one honest conversation. Precision does not make curiosity smaller. It gives curiosity a door through which to enter the world.",
+        "coaching": {
+          "en": "Contrast the enormous question with the precise one. Warm the final sentence and open the vowel in door.",
+          "zh": "对比宏大的问题与精确的问题。末句读得温暖，并把 door 的元音打开。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. An Answer with Roots",
+          "zh": "4. 有根的答案"
+        },
+        "text": "Months later, the question may return an answer you could not have invented at the desk. It may also return a better question. Both are signs of learning. The aim is not to remain uncertain forever, nor to decorate indecision with noble language. The aim is to let thought earn contact with experience. When you finally speak, your confidence will have texture: examples behind it, revisions inside it, limits honestly named. Such confidence is quieter than borrowed certainty, but it can bear more weight.",
+        "coaching": {
+          "en": "Keep the distinction about uncertainty firm. Let texture, revisions, and limits carry weight before a quiet ending.",
+          "zh": "谈到不确定时要把界限读得坚定。让 texture、revisions、limits 承载分量，然后安静收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "unfinished question",
+      "meaning": {
+        "en": "A question kept open while more evidence is gathered.",
+        "zh": "在继续收集证据时暂不封闭的问题。"
+      },
+      "use": {
+        "en": "She carried an unfinished question through the project.",
+        "zh": "她带着一个未完成的问题走过整个项目。"
+      }
+    },
+    {
+      "term": "accumulate",
+      "meaning": {
+        "en": "Gather gradually over time.",
+        "zh": "随着时间逐渐积累。"
+      },
+      "use": {
+        "en": "Let evidence accumulate before making a claim.",
+        "zh": "先让证据积累起来，再提出结论。"
+      }
+    },
+    {
+      "term": "durable",
+      "meaning": {
+        "en": "Able to remain useful or reliable for a long time.",
+        "zh": "能够长期保持有用或可靠的。"
+      },
+      "use": {
+        "en": "Practice builds durable knowledge.",
+        "zh": "实践能建立持久可靠的知识。"
+      }
+    },
+    {
+      "term": "constraint",
+      "meaning": {
+        "en": "A limit that shapes what can be done.",
+        "zh": "影响可行做法的限制条件。"
+      },
+      "use": {
+        "en": "Name the constraint before proposing a solution.",
+        "zh": "提出方案之前，先说清限制条件。"
+      }
+    },
+    {
+      "term": "acquire edges",
+      "meaning": {
+        "en": "Become more precise and clearly defined.",
+        "zh": "变得更精确、更有清晰边界。"
+      },
+      "use": {
+        "en": "The idea acquired edges after several interviews.",
+        "zh": "经过几次访谈，这个想法变得更清晰具体。"
+      }
+    },
+    {
+      "term": "bear weight",
+      "meaning": {
+        "en": "Remain dependable under pressure or responsibility.",
+        "zh": "在压力或责任之下仍然可靠。"
+      },
+      "use": {
+        "en": "A tested explanation can bear more weight.",
+        "zh": "经过检验的解释更经得住考验。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final sounds clear in asks, tests, facts, and limits.",
+      "zh": "读清 asks、tests、facts 和 limits 的词尾音。"
+    },
+    {
+      "en": "Use contrastive stress in better, not bigger and answer, not certainty.",
+      "zh": "在 better, not bigger 与 answer, not certainty 中用重音读出对比。"
+    },
+    {
+      "en": "Link smoothly in one honest conversation and contact with experience.",
+      "zh": "自然连读 one honest conversation 和 contact with experience。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are advising a capable colleague who feels pressure to sound certain too soon.",
+      "zh": "跟读时，想象你在劝一位能干的同事：不必迫于压力过早显得确定。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the borrowed answers quick and slightly crowded.",
+        "zh": "第一遍：把借来的答案读得快一些，略显拥挤。"
+      },
+      {
+        "en": "Pass two: give each practical observation time to register.",
+        "zh": "第二遍：给每个实际观察留出被听见的时间。"
+      },
+      {
+        "en": "Pass three: state one precise question you can carry into tomorrow's work.",
+        "zh": "第三遍：说出一个你可以带进明天工作的精确问题。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What question is precise enough to improve your attention this week?",
+      "zh": "哪个问题足够精确，能在本周改善你的注意力？"
+    },
+    {
+      "en": "Where are you using borrowed certainty instead of tested experience?",
+      "zh": "你在哪件事上正用借来的确定感代替经过检验的经验？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-one-question-in-your-pocket/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-one-question-in-your-pocket/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-one-question-in-your-pocket/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-one-question-in-your-pocket/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-one-question-in-your-pocket/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-one-question-in-your-pocket/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-one-question-in-your-pocket/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-one-question-in-your-pocket/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-one-question-in-your-pocket/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-one-question-in-your-pocket/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-one-question-in-your-pocket/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-one-question-in-your-pocket/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-one-question-in-your-pocket/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-one-question-in-your-pocket/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-one-question-in-your-pocket/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-one-question-in-your-pocket/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-one-question-in-your-pocket/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-one-question-in-your-pocket/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-one-question-in-your-pocket/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-one-question-in-your-pocket/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-one-question-in-your-pocket/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-one-question-in-your-pocket/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-one-question-in-your-pocket/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-one-question-in-your-pocket/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-one-question-in-your-pocket/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-one-question-in-your-pocket/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-one-question-in-your-pocket/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-one-question-in-your-pocket/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-one-question-in-your-pocket/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-one-question-in-your-pocket/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-one-question-in-your-pocket/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-one-question-in-your-pocket/clips/sources_0.mp3"
+    }
+  }
+}

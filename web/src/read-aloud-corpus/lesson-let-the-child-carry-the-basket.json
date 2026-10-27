@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-child-carry-the-basket",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Child Carry the Basket",
+    "zh": "让孩子提一会儿篮子"
+  },
+  "subtitle": {
+    "en": "An original reflection on useful responsibility, patient guidance, and the dignity of growing capable.",
+    "zh": "一篇原创美文：关于有意义的责任、耐心的引导，以及成长为有能力之人的尊严。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Responsibility",
+    "Patience",
+    "Confidence",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "How Gertrude Teaches Her Children",
+      "author": "Johann Heinrich Pestalozzi",
+      "organization": "Internet Archive",
+      "url": "https://archive.org/details/howgertrudeteach00pest",
+      "note": {
+        "en": "Public-domain inspiration for learning through purposeful activity; this lesson is wholly original and does not reproduce the source.",
+        "zh": "灵感来自这部公开领域作品中“在有目的的行动中学习”的思想；本课全文原创，未复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with affection and restraint. Let the practical details carry the feeling; avoid a lecturing parent voice.",
+    "zh": "用温柔而克制的语气朗读。让实际细节承载感情，不要读成说教的家长腔。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Weight Small Enough to Learn From",
+      "zh": "一份刚好能从中学习的重量"
+    },
+    "intro": {
+      "en": "This original passage explores how children build confidence when adults offer real work, an honest margin for error, and help that does not arrive too soon.",
+      "zh": "这篇原创文章探讨：当大人给孩子真实的任务、允许适度犯错，并不过早出手相助时，孩子如何建立自信。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Offer",
+          "zh": "1. 交付"
+        },
+        "text": "At the market, the child reaches for the basket. It is not heavy, though it is heavier than the bright plastic toys made for pretending. The adult could carry it more quickly and keep the apples from knocking together. Instead, one handle is placed in the child's hand. The errand changes at once. Walking beside the vegetables is no longer a way of passing time; it is part of bringing dinner home. A small face grows attentive because the task is real.",
+        "coaching": {
+          "en": "Keep the opening scene light and visible. Give the task is real a quiet, grounded emphasis.",
+          "zh": "开头的场景读得轻快、有画面。用安静而踏实的重音读 the task is real。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Wobble",
+          "zh": "2. 摇晃"
+        },
+        "text": "Halfway down the street, the basket tilts. An orange rolls against the paper bag, and the child's steps become careful. Here is the difficult mercy of the adult: not to snatch the handle at the first wobble. Readiness is not the same as rescue. A hand can remain near without taking over. A calm voice can say, Try both hands, or Rest it on the wall. Guidance leaves the child inside the problem, where balance, judgment, and persistence are being quietly assembled.",
+        "coaching": {
+          "en": "Pause after the first wobble. Make Readiness is not the same as rescue clear, warm, and unhurried.",
+          "zh": "在 first wobble 后停顿。把 Readiness is not the same as rescue 读得清楚、温暖、不急促。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Useful Praise",
+          "zh": "3. 有用的赞许"
+        },
+        "text": "When they reach the door, praise need not become fireworks. You kept the basket level after the corner is more nourishing than You are amazing. Specific words return the achievement to its owner. They name the choice, the adjustment, the second attempt. The child learns that competence is not a magical quality granted by applause. It is something built from attention. Later, when a harder task arrives and nobody is watching, that knowledge is portable. It can be carried like the basket itself.",
+        "coaching": {
+          "en": "Contrast the two kinds of praise without sarcasm. Let portable and carried echo gently.",
+          "zh": "对比两种赞许时不要带讽刺。让 portable 与 carried 形成轻柔呼应。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Walking Home Together",
+          "zh": "4. 一起走回家"
+        },
+        "text": "Independence does not require adults to disappear. The finest support is often close enough to steady, far enough to permit discovery. It notices fatigue before it becomes shame and offers a pause without turning the pause into defeat. At home, the basket is set on the table. Perhaps one apple is bruised. Dinner will still be made. The deeper harvest is less visible: a child has contributed to the household and met a manageable difficulty without being robbed of it. Tomorrow, the weight may be slightly greater.",
+        "coaching": {
+          "en": "Use a reassuring pace. Soften Perhaps one apple is bruised, then finish with patient confidence.",
+          "zh": "保持令人安心的节奏。轻读 Perhaps one apple is bruised，末句以耐心的信心收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "purposeful",
+      "meaning": {
+        "en": "Having a clear and useful aim.",
+        "zh": "有明确且有用的目的。"
+      },
+      "use": {
+        "en": "Children often become focused during purposeful work.",
+        "zh": "孩子在有意义的劳动中往往会变得专注。"
+      }
+    },
+    {
+      "term": "margin for error",
+      "meaning": {
+        "en": "Room for mistakes without serious harm.",
+        "zh": "允许犯错而不会造成严重后果的余地。"
+      },
+      "use": {
+        "en": "Give beginners a safe margin for error.",
+        "zh": "要给初学者留出安全的犯错余地。"
+      }
+    },
+    {
+      "term": "take over",
+      "meaning": {
+        "en": "Assume control of a task from someone else.",
+        "zh": "从别人手中接管一项任务。"
+      },
+      "use": {
+        "en": "Offer a hint before you take over.",
+        "zh": "在接管之前，先给一个提示。"
+      }
+    },
+    {
+      "term": "nourishing",
+      "meaning": {
+        "en": "Helping someone grow stronger or healthier.",
+        "zh": "能够滋养并帮助人成长的。"
+      },
+      "use": {
+        "en": "Specific encouragement is more nourishing than empty praise.",
+        "zh": "具体的鼓励比空泛的夸奖更能滋养人。"
+      }
+    },
+    {
+      "term": "portable",
+      "meaning": {
+        "en": "Able to be carried or used in new situations.",
+        "zh": "可携带的；可迁移到新情境的。"
+      },
+      "use": {
+        "en": "Good judgment is a portable skill.",
+        "zh": "良好的判断力是一种可迁移的能力。"
+      }
+    },
+    {
+      "term": "manageable",
+      "meaning": {
+        "en": "Difficult but possible to deal with.",
+        "zh": "虽有难度但可以应付的。"
+      },
+      "use": {
+        "en": "Break the challenge into manageable steps.",
+        "zh": "把挑战拆成可以应付的步骤。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the ending consonants clear in placed, tilted, and helped.",
+      "zh": "读清 placed、tilted 和 helped 的词尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress in close enough to steady, far enough to permit discovery.",
+      "zh": "在 close enough to steady 与 far enough to permit discovery 中用重音读出对比。"
+    },
+    {
+      "en": "Link naturally in part of bringing dinner home and margin for error.",
+      "zh": "自然连读 part of bringing dinner home 和 margin for error。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are encouraging a thoughtful parent during an ordinary walk home.",
+      "zh": "跟读时，想象你在一次平常的回家路上鼓励一位用心的家长。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the market scene concrete and conversational.",
+        "zh": "第一遍：把市场场景读得具体、自然。"
+      },
+      {
+        "en": "Pass two: slow down around the sentences about rescue and guidance.",
+        "zh": "第二遍：在谈到解救与引导的句子处放慢。"
+      },
+      {
+        "en": "Pass three: describe one real task a child could safely own.",
+        "zh": "第三遍：描述一项孩子可以安全承担的真实任务。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where might your help be arriving one minute too soon?",
+      "zh": "在哪件事上，你的帮助可能早来了一分钟？"
+    },
+    {
+      "en": "What useful responsibility could grow with a child's ability?",
+      "zh": "哪一项有用的责任可以随着孩子的能力一起增长？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-child-carry-the-basket/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-child-carry-the-basket/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-child-carry-the-basket/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-child-carry-the-basket/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-child-carry-the-basket/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-child-carry-the-basket/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-child-carry-the-basket/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-child-carry-the-basket/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-child-carry-the-basket/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-child-carry-the-basket/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-child-carry-the-basket/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-child-carry-the-basket/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-child-carry-the-basket/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-child-carry-the-basket/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-child-carry-the-basket/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-child-carry-the-basket/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-child-carry-the-basket/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-child-carry-the-basket/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-child-carry-the-basket/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-child-carry-the-basket/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-child-carry-the-basket/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-child-carry-the-basket/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-child-carry-the-basket/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-child-carry-the-basket/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-child-carry-the-basket/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-child-carry-the-basket/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-child-carry-the-basket/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-child-carry-the-basket/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-child-carry-the-basket/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-child-carry-the-basket/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-child-carry-the-basket/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-child-carry-the-basket/clips/sources_0.mp3"
+    }
+  }
+}

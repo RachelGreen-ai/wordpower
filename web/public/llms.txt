@@ -72,6 +72,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Carry the Lantern into the Fog](https://wordpower-seven.vercel.app/read-aloud/carry-the-lantern-into-the-fog): An original reflection on leadership when the map is incomplete and certainty is unavailable.
 - [Courage Is Built in the Arena.](https://wordpower-seven.vercel.app/read-aloud/courage-in-the-arena): A speech-style read-aloud lesson for practicing conviction, action vocabulary, and a stronger public voice.
 - [The Courage to Revise](https://wordpower-seven.vercel.app/read-aloud/courage-to-revise): An original passage on learning, intellectual humility, and changing your mind without losing yourself.
+- [Cross the Street Before Judging](https://wordpower-seven.vercel.app/read-aloud/cross-the-street-before-judging): An original reflection on moral imagination, neighborhood knowledge, and the discipline of seeing from nearby.
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
 - [Freedom Needs an Inner Home.](https://wordpower-seven.vercel.app/read-aloud/freedom-needs-inner-home): A Fromm-inspired reflective passage on why freedom can feel frightening unless the self has somewhere to stand.
 - [Give the Child a Real Task](https://wordpower-seven.vercel.app/read-aloud/give-the-child-a-real-task): An original reflection on trust, capable hands, and the dignity of contributing to family life.
@@ -83,6 +84,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Keep a Private Measure](https://wordpower-seven.vercel.app/read-aloud/keep-a-private-measure): An original reflection on self-trust, borrowed standards, and the quiet discipline of choosing what counts.
 - [Keep One Chair Empty](https://wordpower-seven.vercel.app/read-aloud/keep-one-chair-empty): An original reflection on composure, disagreement, and leaving room for a better interpretation.
 - [Keep One Promise to Yourself](https://wordpower-seven.vercel.app/read-aloud/keep-one-promise-to-yourself): An original reflection on self-trust, modest habits, and becoming someone whose own word has weight.
+- [Keep One Question in Your Pocket](https://wordpower-seven.vercel.app/read-aloud/keep-one-question-in-your-pocket): An original reflection on useful uncertainty, patient learning, and questions that mature beside our work.
 - [Keep the Door in the Conversation](https://wordpower-seven.vercel.app/read-aloud/keep-the-door-in-the-conversation): An original reflection on disagreement, dignity, and the language that keeps understanding possible.
 - [Keep the Failed Sketch](https://wordpower-seven.vercel.app/read-aloud/keep-the-failed-sketch): An original reflection on experiments, useful mistakes, and learning to think with your hands.
 - [Lead from the Work](https://wordpower-seven.vercel.app/read-aloud/lead-from-the-work): An original reflection on credibility, shared labor, and leadership close to the ground.
@@ -94,6 +96,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Leave the Door Unlatched](https://wordpower-seven.vercel.app/read-aloud/leave-the-door-unlatched): An original reflection on guiding children without crowding out their independence.
 - [Leave the Map Unfinished](https://wordpower-seven.vercel.app/read-aloud/leave-the-map-unfinished): An original reflection on intellectual humility, discovery, and the courage to revise what we think we know.
 - [Lend the Stranger a History](https://wordpower-seven.vercel.app/read-aloud/lend-the-stranger-a-history): An original reflection on moral imagination, fair judgment, and the stories we cannot see.
+- [Let the Child Carry the Basket](https://wordpower-seven.vercel.app/read-aloud/let-the-child-carry-the-basket): An original reflection on useful responsibility, patient guidance, and the dignity of growing capable.
 - [Let the Draft Teach You](https://wordpower-seven.vercel.app/read-aloud/let-the-draft-teach-you): An original reflection on learning by making, useful mistakes, and the intelligence that appears during revision.
 - [Let the Evidence Surprise You](https://wordpower-seven.vercel.app/read-aloud/let-the-evidence-surprise-you): An original reflection on scientific curiosity, careful observation, and the freedom to revise a cherished idea.
 - [Let the Night Resize the Day](https://wordpower-seven.vercel.app/read-aloud/let-the-night-resize-the-day): An original reflection on starlight, proportion, and returning to ordinary problems with a wider mind.

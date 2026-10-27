@@ -1,0 +1,244 @@
+{
+  "lessonId": "cross-the-street-before-judging",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Cross the Street Before Judging",
+    "zh": "评判之前，先走到街对面"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, neighborhood knowledge, and the discipline of seeing from nearby.",
+    "zh": "一篇原创美文：关于道德想象、邻里经验，以及走近之后再观看的修养。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Moral Imagination",
+    "Community",
+    "Empathy",
+    "Listening",
+    "Judgment"
+  ],
+  "sources": [
+    {
+      "title": "Twenty Years at Hull-House",
+      "author": "Jane Addams",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1325",
+      "note": {
+        "en": "Public-domain inspiration for learning from neighbors through shared civic life; this lesson is wholly original and does not reproduce the source.",
+        "zh": "灵感来自这部公开领域作品中“在共同生活中向邻人学习”的思想；本课全文原创，未复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with curiosity rather than moral certainty. Let each physical detail widen the speaker's understanding.",
+    "zh": "用好奇而非道德上的自以为是来朗读。让每个具体细节都拓宽说话者的理解。"
+  },
+  "passage": {
+    "title": {
+      "en": "The View from the Other Pavement",
+      "zh": "另一侧人行道上的视角"
+    },
+    "intro": {
+      "en": "This original passage asks what becomes visible when opinion leaves its comfortable window and enters the ordinary life of another street.",
+      "zh": "这篇原创文章追问：当观点离开舒适的窗口，走进另一条街的日常生活，会看见什么。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Clean Explanation",
+          "zh": "1. 一个干净利落的解释"
+        },
+        "text": "From an upstairs window, the problem looked simple. The corner was noisy after dark; rubbish gathered beside the fence; children sometimes arrived late to school. It was easy to arrange these facts into a tidy explanation about careless people. Distance is talented at tidiness. It removes the broken lift, the night shift, the bus that comes twice an hour. It turns a crowded life into a character flaw. The observer feels informed because nothing in the picture can answer back.",
+        "coaching": {
+          "en": "Begin with cool confidence, then let the missing details gently unsettle it. Stress Distance is talented at tidiness.",
+          "zh": "开头带着冷静的确信，随后让缺失的细节慢慢动摇它。重读 Distance is talented at tidiness。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Crossing Over",
+          "zh": "2. 走过去"
+        },
+        "text": "Then one wet evening, the observer crosses the street. The noise is a family calling up to a grandmother whose intercom has failed. The bags near the fence are waiting for a collection delayed since Tuesday. A boy in a school jumper is carrying soup to his father before beginning his homework. None of these discoveries makes the neighborhood perfect. They do something more useful: they make the explanation porous. Judgment has to admit facts it did not invent.",
+        "coaching": {
+          "en": "Make the discoveries vivid but unsentimental. Pause before they make the explanation porous.",
+          "zh": "把发现读得鲜明但不煽情。在 they make the explanation porous 前停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Nearness Is Not Agreement",
+          "zh": "3. 走近不等于赞同"
+        },
+        "text": "To understand a circumstance is not to approve every choice made within it. Nearness does not cancel standards; it improves their aim. The neighbor who listens may still ask for quieter nights, safer stairs, or a cleaner corner. Yet the request changes when it is made with knowledge rather than accusation. It can distinguish what a person must repair from what a landlord, employer, or city has neglected. Moral imagination is not softness. It is accuracy enlarged by fellow feeling.",
+        "coaching": {
+          "en": "Use firm contrast on not to approve and improves their aim. Land the final definition without grandness.",
+          "zh": "在 not to approve 与 improves their aim 上读出坚定对比。末句定义要稳，不要夸张。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Return Home",
+          "zh": "4. 回到家中"
+        },
+        "text": "The observer returns to the same upstairs room, but the window is no longer the same instrument. Beyond it are names, schedules, favors exchanged, and burdens unevenly assigned. A good opinion should survive contact with particular lives; if it cannot, it was only a convenient story. We do not need to abandon judgment. We need to make it travel: down the stairs, across the traffic, into conversation, and home again carrying evidence. The shortest route to fairness may begin with crossing one familiar street.",
+        "coaching": {
+          "en": "Build momentum through the traveling list. Finish quietly, as if proposing a practice for tomorrow.",
+          "zh": "在行进式的列举中逐渐增强节奏。结尾轻一些，像是在提出明天就能实践的方法。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "character flaw",
+      "meaning": {
+        "en": "A weakness in someone's moral or personal qualities.",
+        "zh": "一个人在品格或性情上的缺点。"
+      },
+      "use": {
+        "en": "Do not mistake a difficult circumstance for a character flaw.",
+        "zh": "不要把艰难处境误当作品格缺陷。"
+      }
+    },
+    {
+      "term": "answer back",
+      "meaning": {
+        "en": "Respond to a claim or criticism, especially with another view.",
+        "zh": "对说法或批评作出回应，尤其提出另一种看法。"
+      },
+      "use": {
+        "en": "The report included people who could answer back.",
+        "zh": "这份报告也纳入了能够回应的人。"
+      }
+    },
+    {
+      "term": "porous",
+      "meaning": {
+        "en": "Open enough for new ideas or information to pass through.",
+        "zh": "能让新观念或信息进入的；开放的。"
+      },
+      "use": {
+        "en": "A good theory remains porous to evidence.",
+        "zh": "好的理论会对证据保持开放。"
+      }
+    },
+    {
+      "term": "circumstance",
+      "meaning": {
+        "en": "A condition that affects a situation or decision.",
+        "zh": "影响某种情形或决定的条件。"
+      },
+      "use": {
+        "en": "Ask about the circumstance before judging the choice.",
+        "zh": "评判选择之前，先问清当时的处境。"
+      }
+    },
+    {
+      "term": "fellow feeling",
+      "meaning": {
+        "en": "Sympathy arising from recognizing shared human experience.",
+        "zh": "因认识到共同的人类经验而产生的同感。"
+      },
+      "use": {
+        "en": "Her criticism was balanced by fellow feeling.",
+        "zh": "她的批评因同感而更为平衡。"
+      }
+    },
+    {
+      "term": "survive contact with",
+      "meaning": {
+        "en": "Remain convincing after meeting real facts or experience.",
+        "zh": "在接触真实事实或经验后仍然站得住脚。"
+      },
+      "use": {
+        "en": "The plan did not survive contact with daily life.",
+        "zh": "这个计划在面对日常现实后站不住脚。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters crisp in crossed the street, facts, and standards.",
+      "zh": "读清 crossed the street、facts 和 standards 中的辅音组合。"
+    },
+    {
+      "en": "Use downward stress in landlord, employer, or city to make the alternatives distinct.",
+      "zh": "在 landlord、employer、city 上分别用降调，让各项清晰。"
+    },
+    {
+      "en": "Link smoothly in into conversation and an upstairs window.",
+      "zh": "自然连读 into conversation 和 an upstairs window。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are revising a strong opinion in front of a trusted neighbor.",
+      "zh": "跟读时，想象你正面对一位信任的邻居，修正自己原本强烈的看法。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the opening judgment neat and slightly distant.",
+        "zh": "第一遍：把开头的判断读得干净而略带距离。"
+      },
+      {
+        "en": "Pass two: warm the voice as names and circumstances appear.",
+        "zh": "第二遍：随着人物与处境出现，让声音逐渐温暖。"
+      },
+      {
+        "en": "Pass three: describe one opinion that changed when you moved closer.",
+        "zh": "第三遍：描述一个在你走近之后发生改变的看法。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which tidy explanation in your life needs one more street-level fact?",
+      "zh": "你生活中的哪一个“干净解释”，还需要一个来自现场的事实？"
+    },
+    {
+      "en": "How can you seek nearness without pretending that every choice is acceptable?",
+      "zh": "你如何在走近理解的同时，不假装所有选择都可以接受？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/cross-the-street-before-judging/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/cross-the-street-before-judging/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/cross-the-street-before-judging/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/cross-the-street-before-judging/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/cross-the-street-before-judging/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/cross-the-street-before-judging/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/cross-the-street-before-judging/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/cross-the-street-before-judging/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/cross-the-street-before-judging/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/cross-the-street-before-judging/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/cross-the-street-before-judging/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/cross-the-street-before-judging/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/cross-the-street-before-judging/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/cross-the-street-before-judging/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/cross-the-street-before-judging/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/cross-the-street-before-judging/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/cross-the-street-before-judging/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/cross-the-street-before-judging/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/cross-the-street-before-judging/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/cross-the-street-before-judging/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/cross-the-street-before-judging/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/cross-the-street-before-judging/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/cross-the-street-before-judging/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/cross-the-street-before-judging/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/cross-the-street-before-judging/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/cross-the-street-before-judging/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/cross-the-street-before-judging/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/cross-the-street-before-judging/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/cross-the-street-before-judging/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/cross-the-street-before-judging/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/cross-the-street-before-judging/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/cross-the-street-before-judging/clips/sources_0.mp3"
+    }
+  }
+}
