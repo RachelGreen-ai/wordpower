@@ -1,0 +1,244 @@
+{
+  "lessonId": "make-the-apology-specific",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Make the Apology Specific",
+    "zh": "让道歉落到实处"
+  },
+  "subtitle": {
+    "en": "An original reflection on repairing trust with honest detail, proportion, and changed behavior.",
+    "zh": "一篇原创美文：如何用诚实的细节、恰当的分寸与行为改变来修复信任。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Trust",
+    "Courage",
+    "Accountability",
+    "Relationships"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration for examining one’s conduct and returning to principled action; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中对自省与回归正直行动的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with quiet courage. Keep the examples conversational, and let the firmest lines sound responsible rather than severe.",
+    "zh": "用安静的勇气朗读。例子要自然口语化，最坚定的句子也应显得负责，而非严厉。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Door with a Real Handle",
+      "zh": "一扇真正有把手的门"
+    },
+    "intro": {
+      "en": "This original passage explores why a useful apology names the harm, respects the listener, and opens into action.",
+      "zh": "这篇原创文章探讨：有效的道歉为何要说清伤害、尊重对方，并落实为行动。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Fog of “If”",
+          "zh": "1. “如果”制造的迷雾"
+        },
+        "text": "Some apologies arrive wrapped in fog. I am sorry if you felt ignored. I regret that things became difficult. The sentences are polished, yet no one can find the event inside them. Responsibility has been softened into weather. A specific apology does the opposite. It says: I interrupted you three times in the meeting, and then presented your idea as if it were mine. The detail is uncomfortable, but it gives the conversation a real handle. Both people can finally touch the same door.",
+        "coaching": {
+          "en": "Let the vague examples sound smooth but empty. Slow down for the specific admission, then land gently on the door image.",
+          "zh": "模糊的例句要读得顺滑却空洞。具体承认错误时放慢速度，最后轻轻落在“门”的意象上。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Name the Cost",
+          "zh": "2. 说清代价"
+        },
+        "text": "The next step is not to perform shame. It is to understand cost. Perhaps someone had to redo an hour of work. Perhaps a joke made the room feel unsafe. Perhaps silence allowed a false impression to stand. Naming the cost tells the other person that we have looked beyond our own embarrassment. It also keeps the apology in proportion. We need not declare ourselves terrible people. We need to show that this particular choice had a particular effect, and that the effect matters.",
+        "coaching": {
+          "en": "Keep the three Perhaps phrases measured and distinct. Stress beyond our own embarrassment and in proportion.",
+          "zh": "三个 Perhaps 短语要有分寸并彼此区分。重读 beyond our own embarrassment 与 in proportion。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Do Not Ask for Immediate Comfort",
+          "zh": "3. 不要立刻索求安慰"
+        },
+        "text": "After apologizing, we may want quick relief: Tell me we are fine. Say you know I meant well. But forgiveness is not a receipt we can demand at the counter. The listener may need time, a question, or a boundary. Leave room for that response. Listen without correcting the emotional record. An explanation can be useful later, but when it rushes in too early, it often sounds like an appeal to cancel the harm. Patience is part of the repair.",
+        "coaching": {
+          "en": "Voice the requests for comfort with recognizable urgency. Pause after the receipt image, and make the last sentence simple and steady.",
+          "zh": "把索求安慰的句子读出熟悉的急切感。在“收据”的比喻后停顿，末句要简洁沉稳。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Let Tomorrow Finish the Sentence",
+          "zh": "4. 让明天把话说完"
+        },
+        "text": "The strongest apology contains a future tense. Next time, I will credit the idea before I add to it. I will check the address before I send the message. I will pause before making humor out of someone else’s risk. Then tomorrow must finish the sentence. Changed behavior is not a dramatic proof performed once; it is a small pattern made visible over time. Words begin the repair because they make truth speakable. Practice completes it because trust listens with its eyes.",
+        "coaching": {
+          "en": "Give the three promises clear parallel rhythm. Build quietly through changed behavior, and finish the final contrast with warmth.",
+          "zh": "三个承诺要读出清晰的平行节奏。在 changed behavior 处逐渐蓄力，温暖地收束最后的对比。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "Willingness to accept responsibility for one’s actions.",
+        "zh": "愿意为自己的行为承担责任。"
+      },
+      "use": {
+        "en": "Her apology showed accountability without self-punishment.",
+        "zh": "她的道歉体现了担当，却没有陷入自我惩罚。"
+      }
+    },
+    {
+      "term": "in proportion",
+      "meaning": {
+        "en": "At a suitable level for the size or importance of something.",
+        "zh": "与事情的大小或重要性相称。"
+      },
+      "use": {
+        "en": "Keep your response in proportion to the mistake.",
+        "zh": "你的回应要与错误的严重程度相称。"
+      }
+    },
+    {
+      "term": "impression",
+      "meaning": {
+        "en": "An idea or belief formed about a person or situation.",
+        "zh": "对某人或某种情况形成的看法或印象。"
+      },
+      "use": {
+        "en": "My silence created the wrong impression.",
+        "zh": "我的沉默造成了错误的印象。"
+      }
+    },
+    {
+      "term": "boundary",
+      "meaning": {
+        "en": "A limit that protects a person’s needs or well-being.",
+        "zh": "保护个人需要或身心状态的界限。"
+      },
+      "use": {
+        "en": "She set a clear boundary around after-hours calls.",
+        "zh": "她为下班后的电话设定了明确界限。"
+      }
+    },
+    {
+      "term": "cancel the harm",
+      "meaning": {
+        "en": "To act as though an explanation can erase a harmful effect.",
+        "zh": "仿佛一个解释就能抹去已造成的伤害。"
+      },
+      "use": {
+        "en": "Good intentions do not cancel the harm.",
+        "zh": "良好意图并不能抹去伤害。"
+      }
+    },
+    {
+      "term": "repair",
+      "meaning": {
+        "en": "The process of restoring trust or a damaged relationship.",
+        "zh": "重建信任或修复受损关系的过程。"
+      },
+      "use": {
+        "en": "Consistent action is part of the repair.",
+        "zh": "持续一致的行动是修复的一部分。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Stress the second syllable in accountability and the first syllable in specific.",
+      "zh": "accountability 的重音在第二音节，specific 的重音在第一音节。"
+    },
+    {
+      "en": "Link felt ignored smoothly, keeping the final consonant in felt clear.",
+      "zh": "流畅连读 felt ignored，同时保留 felt 末尾辅音的清晰度。"
+    },
+    {
+      "en": "Use parallel stress in I will credit, I will check, and I will pause.",
+      "zh": "在 I will credit、I will check 与 I will pause 中使用平行重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are choosing honesty over self-protection in a conversation that matters.",
+      "zh": "跟读时，想象你在一场重要谈话中选择诚实，而非自我防卫。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the contrast between vague language and specific detail.",
+        "zh": "第一遍：模仿模糊措辞与具体细节之间的对比。"
+      },
+      {
+        "en": "Pass two: keep the emotional lines sincere without becoming theatrical.",
+        "zh": "第二遍：情感真诚，但不要戏剧化。"
+      },
+      {
+        "en": "Pass three: give the future promises a calm, credible rhythm.",
+        "zh": "第三遍：把面向未来的承诺读得平静而可信。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What detail turns a vague apology into an honest one?",
+      "zh": "哪一个细节能把模糊的道歉变成诚实的道歉？"
+    },
+    {
+      "en": "What small repeated action could help rebuild trust?",
+      "zh": "哪一个可以反复践行的小行动，能够帮助重建信任？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-the-apology-specific/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-the-apology-specific/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-the-apology-specific/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-the-apology-specific/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-the-apology-specific/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/make-the-apology-specific/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/make-the-apology-specific/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-the-apology-specific/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-the-apology-specific/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-the-apology-specific/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-the-apology-specific/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-the-apology-specific/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-the-apology-specific/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-the-apology-specific/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-the-apology-specific/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-the-apology-specific/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-the-apology-specific/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-the-apology-specific/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-the-apology-specific/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-the-apology-specific/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-the-apology-specific/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-the-apology-specific/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-the-apology-specific/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-the-apology-specific/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-the-apology-specific/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-the-apology-specific/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-the-apology-specific/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-the-apology-specific/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-the-apology-specific/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-the-apology-specific/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-the-apology-specific/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-the-apology-specific/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "give-the-idea-a-smaller-room",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Give the Idea a Smaller Room",
+    "zh": "给想法一间小一点的房间"
+  },
+  "subtitle": {
+    "en": "An original reflection on how creative limits can turn hesitation into invention.",
+    "zh": "一篇原创美文：创造性的限制如何把犹豫转化为发明。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Creativity",
+    "Art",
+    "Constraints",
+    "Practice",
+    "Invention"
+  ],
+  "sources": [
+    {
+      "title": "The Notebooks of Leonardo Da Vinci — Complete",
+      "author": "Leonardo da Vinci, translated by Jean Paul Richter",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/5000",
+      "note": {
+        "en": "Public-domain inspiration for disciplined observation, experiment, and invention; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域笔记中对严谨观察、实验与创造的重视；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with playful precision. Keep the practical examples brisk, and let the central paradox unfold with growing confidence.",
+    "zh": "以轻快而准确的语气朗读。实用例子要利落，让核心悖论逐渐展现出信心。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Freedom of a Useful Limit",
+      "zh": "有用限制带来的自由"
+    },
+    "intro": {
+      "en": "This original passage argues that a smaller canvas, shorter deadline, or narrower tool set can help an idea find its form.",
+      "zh": "这篇原创文章讨论：更小的画布、更短的期限或更精简的工具，如何帮助想法找到形状。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Trouble with Every Door",
+          "zh": "1. 每扇门都开着的麻烦"
+        },
+        "text": "A blank page is often described as freedom, but complete freedom can feel strangely heavy. Every subject is possible. Every tone, length, and form waits to be chosen. The mind stands in a hallway where every door is open and enters none. A useful limit closes most of those doors. Write the scene using only dialogue. Photograph one color for a week. Explain the proposal in two hundred words. Suddenly the question is no longer What could I possibly make? It is What can I discover inside this shape?",
+        "coaching": {
+          "en": "Let complete freedom sound genuinely heavy. Move briskly through the three constraints, then open the final question with curiosity.",
+          "zh": "把 complete freedom 的沉重感读真实。三个限制快速推进，最后的问题要带着好奇展开。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Pressure Reveals Structure",
+          "zh": "2. 压力显出结构"
+        },
+        "text": "A limit applies pressure, and pressure reveals structure. When time is short, we learn which sentence carries the argument. When materials are scarce, we notice which part of the design is doing real work. When a melody must fit a small range, rhythm becomes more inventive. This is not the romance of deprivation. Good tools and generous time matter. But temporary constraint can work like a frame around a window: it does not create the view; it helps us see where to look.",
+        "coaching": {
+          "en": "Build a firm rhythm through the three When clauses. Distinguish deprivation from temporary constraint, and relax into the window image.",
+          "zh": "三个 When 从句要形成坚定节奏。区分 deprivation 与 temporary constraint，进入窗框意象时放松。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Choose the Rule Deliberately",
+          "zh": "3. 有意识地选择规则"
+        },
+        "text": "Not every restriction is useful. A limit should provoke invention, not merely shrink the result. Choose one that touches the problem. If your writing is vague, ban abstract nouns for a paragraph. If meetings wander, require each decision to end with a name and a date. If a drawing feels stiff, make ten versions without lifting the pencil. The rule is a temporary teacher. Once it has shown you a habit or revealed a possibility, you may thank it and set it aside.",
+        "coaching": {
+          "en": "Keep the opening distinction crisp. Make each example practical and lively, then give temporary teacher a light touch.",
+          "zh": "开头的区分要利落。每个例子都要实用而有活力，temporary teacher 可读得轻巧。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave One Door Open",
+          "zh": "4. 留一扇门开着"
+        },
+        "text": "The art is to combine a firm boundary with one living freedom. Fix the length, but let the voice surprise you. Use only familiar ingredients, but change the order. Keep the budget, but question the old arrangement. A good constraint does not shrink the work. It gives energy a definite place to gather. The river moves because it has banks. Give your idea a smaller room, then watch carefully. It may stop pacing, pull a chair toward the light, and begin.",
+        "coaching": {
+          "en": "Balance boundary and freedom in each pair. Give the river sentence weight, then make the final image quiet, visual, and expectant.",
+          "zh": "每一组都要平衡 boundary 与 freedom。让河流那句有分量，结尾意象要安静、可见且充满期待。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "constraint",
+      "meaning": {
+        "en": "A limit or restriction that shapes what can be done.",
+        "zh": "塑造可行范围的限制或约束。"
+      },
+      "use": {
+        "en": "The short deadline became a useful constraint.",
+        "zh": "短期限成了一项有用的限制。"
+      }
+    },
+    {
+      "term": "inventive",
+      "meaning": {
+        "en": "Skilled at creating new ideas or methods.",
+        "zh": "善于创造新想法或新方法的。"
+      },
+      "use": {
+        "en": "The team found an inventive use for the small space.",
+        "zh": "团队为这处小空间找到了富有创意的用途。"
+      }
+    },
+    {
+      "term": "deprivation",
+      "meaning": {
+        "en": "The state of lacking something necessary or valuable.",
+        "zh": "缺少必要或有价值之物的状态。"
+      },
+      "use": {
+        "en": "Creative discipline should not be confused with deprivation.",
+        "zh": "不应把创作纪律与匮乏混为一谈。"
+      }
+    },
+    {
+      "term": "provoke",
+      "meaning": {
+        "en": "To cause a thought, feeling, or creative response.",
+        "zh": "激起一种想法、感受或创造性回应。"
+      },
+      "use": {
+        "en": "A strong question can provoke a new approach.",
+        "zh": "一个有力的问题能激发新的方法。"
+      }
+    },
+    {
+      "term": "deliberately",
+      "meaning": {
+        "en": "Intentionally and with careful thought.",
+        "zh": "有意地；经过认真考虑地。"
+      },
+      "use": {
+        "en": "We deliberately reduced the number of options.",
+        "zh": "我们有意减少了选项数量。"
+      }
+    },
+    {
+      "term": "definite",
+      "meaning": {
+        "en": "Clear, exact, and not vague.",
+        "zh": "明确的、确切的、不含糊的。"
+      },
+      "use": {
+        "en": "Give the discussion a definite ending time.",
+        "zh": "给讨论设定一个明确的结束时间。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Stress the second syllable in constraint and the first syllable in deliberately.",
+      "zh": "constraint 的重音在第二音节，deliberately 的重音在第一音节。"
+    },
+    {
+      "en": "Keep the consonants distinct in blank page, short deadline, and small range.",
+      "zh": "清楚区分 blank page、short deadline 与 small range 中相邻的辅音。"
+    },
+    {
+      "en": "Use contrastive stress in Fix the length, but let the voice surprise you.",
+      "zh": "在 Fix the length, but let the voice surprise you 中使用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a talented friend begin instead of waiting for perfect freedom.",
+      "zh": "跟读时，想象你在帮助一位有才华的朋友开始行动，而不是等待完美的自由。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the examples quick, concrete, and clearly separated.",
+        "zh": "第一遍：例子要快速、具体且层次清楚。"
+      },
+      {
+        "en": "Pass two: emphasize the productive contrasts between limit and freedom.",
+        "zh": "第二遍：强调限制与自由之间富有成效的对比。"
+      },
+      {
+        "en": "Pass three: build the closing images toward a quiet beginning.",
+        "zh": "第三遍：让结尾意象逐步走向一个安静的开始。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which open-ended project would benefit from one useful limit?",
+      "zh": "哪一个开放式项目会因一项有用限制而受益？"
+    },
+    {
+      "en": "What freedom would you deliberately keep inside that boundary?",
+      "zh": "在那条边界之内，你会有意保留哪一种自由？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/give-the-idea-a-smaller-room/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/give-the-idea-a-smaller-room/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/give-the-idea-a-smaller-room/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/give-the-idea-a-smaller-room/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/give-the-idea-a-smaller-room/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/give-the-idea-a-smaller-room/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/give-the-idea-a-smaller-room/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/give-the-idea-a-smaller-room/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/give-the-idea-a-smaller-room/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/give-the-idea-a-smaller-room/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/give-the-idea-a-smaller-room/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/give-the-idea-a-smaller-room/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/give-the-idea-a-smaller-room/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/give-the-idea-a-smaller-room/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/give-the-idea-a-smaller-room/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/give-the-idea-a-smaller-room/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/give-the-idea-a-smaller-room/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/give-the-idea-a-smaller-room/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/give-the-idea-a-smaller-room/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/give-the-idea-a-smaller-room/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/give-the-idea-a-smaller-room/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/give-the-idea-a-smaller-room/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/give-the-idea-a-smaller-room/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/give-the-idea-a-smaller-room/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/give-the-idea-a-smaller-room/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/give-the-idea-a-smaller-room/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/give-the-idea-a-smaller-room/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/give-the-idea-a-smaller-room/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/give-the-idea-a-smaller-room/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/give-the-idea-a-smaller-room/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/give-the-idea-a-smaller-room/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/give-the-idea-a-smaller-room/clips/sources_0.mp3"
+    }
+  }
+}

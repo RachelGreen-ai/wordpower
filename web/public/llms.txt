@@ -75,6 +75,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
 - [Freedom Needs an Inner Home.](https://wordpower-seven.vercel.app/read-aloud/freedom-needs-inner-home): A Fromm-inspired reflective passage on why freedom can feel frightening unless the self has somewhere to stand.
 - [Give the Child a Real Task](https://wordpower-seven.vercel.app/read-aloud/give-the-child-a-real-task): An original reflection on trust, capable hands, and the dignity of contributing to family life.
+- [Give the Idea a Smaller Room](https://wordpower-seven.vercel.app/read-aloud/give-the-idea-a-smaller-room): An original reflection on how creative limits can turn hesitation into invention.
 - [Give the Work Its Season](https://wordpower-seven.vercel.app/read-aloud/give-the-work-its-season): An original reflection on humane ambition, patient craft, and building a life at a sustainable pace.
 - [Imagine the Unseen Life](https://wordpower-seven.vercel.app/read-aloud/imagine-the-unseen-life): An original reflection on moral imagination, fair judgment, and the stories hidden behind behavior.
 - [Keep a Field Notebook](https://wordpower-seven.vercel.app/read-aloud/keep-a-field-notebook): An original reflection on attention, patient observation, and learning to see before we explain.
@@ -101,6 +102,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Lower Your Voice, Keep Your Ground](https://wordpower-seven.vercel.app/read-aloud/lower-your-voice-keep-your-ground): An original reflection on calm disagreement, precise language, and strength that does not need to shout.
 - [Make a Window for Wonder](https://wordpower-seven.vercel.app/read-aloud/make-a-window-for-wonder): An original reflection on experiments, useful questions, and the patient craft of discovery.
 - [Make Room in the Conversation](https://wordpower-seven.vercel.app/read-aloud/make-room-in-conversation): An original passage on calm speech, useful silence, and disagreement without contempt.
+- [Make the Apology Specific](https://wordpower-seven.vercel.app/read-aloud/make-the-apology-specific): An original reflection on repairing trust with honest detail, proportion, and changed behavior.
 - [Make the Mistake Useful](https://wordpower-seven.vercel.app/read-aloud/make-the-mistake-useful): An original reflection on learning, intelligent practice, and turning error into better judgment.
 - [Mend the Small Tear](https://wordpower-seven.vercel.app/read-aloud/mend-the-small-tear): An original reflection on friendship, repair, and the courage to return before distance hardens.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.
@@ -114,6 +116,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Take the Last Seat](https://wordpower-seven.vercel.app/read-aloud/take-the-last-seat): An original reflection on practical leadership, shared work, and earning the clearest view of a team.
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.
 - [Wait for the Second Birdsong](https://wordpower-seven.vercel.app/read-aloud/wait-for-the-second-birdsong): An original reflection on patient attention, natural pauses, and the details that hurry conceals.
+- [Walk Until the World Returns](https://wordpower-seven.vercel.app/read-aloud/walk-until-the-world-returns): An original reflection on recovering attention through an unhurried walk and the company of ordinary things.
 - [Wonder Needs a Workbench](https://wordpower-seven.vercel.app/read-aloud/wonder-needs-a-workbench): An original reflection on patient experiment, precise attention, and the craft hidden inside discovery.
 
 ## Best Answer Context

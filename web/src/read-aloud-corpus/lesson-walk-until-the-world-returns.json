@@ -1,0 +1,244 @@
+{
+  "lessonId": "walk-until-the-world-returns",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Walk Until the World Returns",
+    "zh": "走到世界重新归来"
+  },
+  "subtitle": {
+    "en": "An original reflection on recovering attention through an unhurried walk and the company of ordinary things.",
+    "zh": "一篇原创美文：在从容的步行与寻常事物的陪伴中，重新找回注意力。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Attention",
+    "Nature",
+    "Walking",
+    "Presence",
+    "Wonder"
+  ],
+  "sources": [
+    {
+      "title": "The Journal of Dorothy Wordsworth, Volume 1",
+      "author": "Dorothy Wordsworth",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/42856",
+      "note": {
+        "en": "Public-domain inspiration for close observation during everyday walks; this lesson is wholly original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域日记中对日常步行的细致观察；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read at a walking pace. Let each concrete image arrive clearly, with small pauses that feel noticed rather than performed.",
+    "zh": "用步行般的节奏朗读。让每个具体意象清晰抵达，以自然觉察的短暂停顿来呈现，而非刻意表演。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Street Has Been Waiting",
+      "zh": "街道一直在等你"
+    },
+    "intro": {
+      "en": "This original passage follows a tired mind outdoors, where attention slowly becomes available again.",
+      "zh": "这篇原创文章跟随一颗疲惫的心走到户外，看注意力如何慢慢重新变得可用。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin Without a Mission",
+          "zh": "1. 不带任务出发"
+        },
+        "text": "There are afternoons when the mind feels like a room with every radio on. Messages flash, unfinished tasks repeat their names, and even rest becomes another item to manage. On such an afternoon, leave the room without a mission. Do not walk to improve your step count or solve your life. Take the ordinary street. Let the first few minutes be untidy. Your thoughts may follow you out like papers caught in a draft. Keep walking. The body knows how to carry what the mind cannot yet arrange.",
+        "coaching": {
+          "en": "Begin with contained mental noise. Ease the pace at leave the room, and make Keep walking a quiet invitation.",
+          "zh": "开头读出受控的内心嘈杂。在 leave the room 处放慢，把 Keep walking 读成安静的邀请。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Accept the Small Evidence",
+          "zh": "2. 接纳细小的证据"
+        },
+        "text": "Soon the street begins to offer evidence. A bicycle chain ticks between gear changes. Rainwater holds a torn blue corner of sky. Someone has placed a bowl beside a gate for a neighborhood cat. None of this is important in the usual sense. That is precisely its gift. These details make no demand and deliver no verdict. They return the eye to color, distance, edge, and movement. The world becomes particular again, and a particular world is harder to dismiss than a blur.",
+        "coaching": {
+          "en": "Give each image its own space. Brighten slightly at precisely its gift, then articulate the final contrast between particular and blur.",
+          "zh": "给每个意象留出独立空间。在 precisely its gift 处微微提亮，并清楚读出 particular 与 blur 的对比。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Distance Change the Question",
+          "zh": "3. 让距离改变问题"
+        },
+        "text": "A problem carried indoors can fill the whole ceiling. Outdoors, it must share scale with roofs, clouds, and the long perspective of a road. The problem does not disappear; nor should it. Yet the question may change. Instead of How can I finish everything? we ask What is the next faithful thing? Instead of Why am I still worried? we ask What does this worry need me to notice? Walking does not hand us answers. It gives our questions enough air to become honest.",
+        "coaching": {
+          "en": "Open the scale on roofs, clouds, and road. Contrast each old question with the quieter new one, then soften the final sentence.",
+          "zh": "在 roofs、clouds 与 road 处拉开空间。对比每个旧问题与更安静的新问题，末句放柔。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return Carrying One Detail",
+          "zh": "4. 带着一个细节回来"
+        },
+        "text": "When you turn home, choose one detail to carry back: the copper light on a wall, the patient swing of a branch, the smell of bread escaping a warm doorway. You are not collecting a lesson. You are keeping company with what was there. Later, when the radios begin again, that detail may remain—a small, exact counterweight to abstraction. Attention is not always a heroic beam we direct by force. Sometimes it is a door that reopens because we went outside and allowed the world to knock.",
+        "coaching": {
+          "en": "Savor the three returning images without over-coloring them. Pause at that detail may remain, and end with an easy sense of opening.",
+          "zh": "细细品读三个归途意象，但不要过度渲染。在 that detail may remain 处停顿，结尾要有轻松开启之感。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "unhurried",
+      "meaning": {
+        "en": "Calm and not rushed.",
+        "zh": "从容的；不匆忙的。"
+      },
+      "use": {
+        "en": "We took an unhurried walk after dinner.",
+        "zh": "晚饭后，我们从容地散了步。"
+      }
+    },
+    {
+      "term": "particular",
+      "meaning": {
+        "en": "Specific, distinct, and carefully noticed.",
+        "zh": "具体、独特且被仔细留意的。"
+      },
+      "use": {
+        "en": "She remembered the particular blue of the door.",
+        "zh": "她记得那扇门独特的蓝色。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A firm judgment or decision about something.",
+        "zh": "对某事作出的明确判断或结论。"
+      },
+      "use": {
+        "en": "One difficult morning is not a verdict on the week.",
+        "zh": "一个艰难的早晨并不是对整周的定论。"
+      }
+    },
+    {
+      "term": "perspective",
+      "meaning": {
+        "en": "A way of seeing something in relation to a wider context.",
+        "zh": "把事物放在更广阔背景中看待的视角。"
+      },
+      "use": {
+        "en": "A short walk gave me perspective on the problem.",
+        "zh": "短暂的散步让我重新看清了问题。"
+      }
+    },
+    {
+      "term": "counterweight",
+      "meaning": {
+        "en": "Something that balances the effect of another force or idea.",
+        "zh": "用来平衡另一种力量或观念之影响的事物。"
+      },
+      "use": {
+        "en": "Daily conversation is a counterweight to lonely work.",
+        "zh": "日常交谈能平衡独自工作的孤独感。"
+      }
+    },
+    {
+      "term": "abstraction",
+      "meaning": {
+        "en": "An idea separated from concrete experience or detail.",
+        "zh": "脱离具体经验或细节的抽象概念。"
+      },
+      "use": {
+        "en": "The example turned an abstraction into something memorable.",
+        "zh": "这个例子把抽象概念变成了令人难忘的东西。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in street, gift, and world.",
+      "zh": "清楚读出 street、gift 与 world 的词尾辅音。"
+    },
+    {
+      "en": "Use light linking in corner of sky and bowl beside a gate.",
+      "zh": "在 corner of sky 与 bowl beside a gate 中自然轻连读。"
+    },
+    {
+      "en": "Let the paired questions fall at the end, as genuine reflections rather than demands.",
+      "zh": "两组问题的句尾使用降调，像真诚思考，而非质问。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a tired friend along a familiar street at dusk.",
+      "zh": "跟读时，想象你正陪一位疲惫的朋友走过黄昏时熟悉的街道。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: match the calm walking pace and clean pauses.",
+        "zh": "第一遍：模仿平静的步行节奏与清晰停顿。"
+      },
+      {
+        "en": "Pass two: make every sensory detail visible in the voice.",
+        "zh": "第二遍：让每个感官细节都在声音中变得可见。"
+      },
+      {
+        "en": "Pass three: widen the tone for distance, then return to intimacy.",
+        "zh": "第三遍：在空间拉远时拓宽语气，随后回到亲近感。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which ordinary detail on your usual route have you stopped noticing?",
+      "zh": "你常走的路上，有哪个寻常细节已不再被你注意？"
+    },
+    {
+      "en": "What question might change if you gave it more physical space?",
+      "zh": "如果给某个问题更多现实空间，它可能会如何改变？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/walk-until-the-world-returns/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/walk-until-the-world-returns/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/walk-until-the-world-returns/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/walk-until-the-world-returns/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/walk-until-the-world-returns/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/walk-until-the-world-returns/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/walk-until-the-world-returns/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/walk-until-the-world-returns/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/walk-until-the-world-returns/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/walk-until-the-world-returns/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/walk-until-the-world-returns/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/walk-until-the-world-returns/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/walk-until-the-world-returns/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/walk-until-the-world-returns/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/walk-until-the-world-returns/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/walk-until-the-world-returns/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/walk-until-the-world-returns/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/walk-until-the-world-returns/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/walk-until-the-world-returns/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/walk-until-the-world-returns/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/walk-until-the-world-returns/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/walk-until-the-world-returns/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/walk-until-the-world-returns/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/walk-until-the-world-returns/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/walk-until-the-world-returns/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/walk-until-the-world-returns/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/walk-until-the-world-returns/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/walk-until-the-world-returns/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/walk-until-the-world-returns/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/walk-until-the-world-returns/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/walk-until-the-world-returns/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/walk-until-the-world-returns/clips/sources_0.mp3"
+    }
+  }
+}
