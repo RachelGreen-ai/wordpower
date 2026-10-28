@@ -1,0 +1,244 @@
+{
+  "lessonId": "carry-the-smaller-lantern",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Carry the Smaller Lantern",
+    "zh": "提起那盏小灯"
+  },
+  "subtitle": {
+    "en": "An original reflection on leadership, useful courage, and making uncertainty easier to cross together.",
+    "zh": "一篇关于领导力、务实的勇气，以及如何一起穿越不确定的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Leadership",
+    "Courage",
+    "Teamwork",
+    "Judgment",
+    "Trust"
+  ],
+  "sources": [
+    {
+      "title": "Plutarch's Lives, Volume I",
+      "author": "Plutarch",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14033",
+      "note": {
+        "en": "Public-domain inspiration for examining courage through conduct; all characters and events in this lesson are original.",
+        "zh": "灵感来自这部公开领域作品中以行动审视勇气的传统；本课人物与事件均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded confidence. Keep the storm concrete, the leader human, and the courage free of theatrical grandeur.",
+    "zh": "用踏实、自信的声音朗读。让风暴具体，让领导者真实，也让勇气远离戏剧化的宏大。"
+  },
+  "passage": {
+    "title": {
+      "en": "Across the Flooded Courtyard",
+      "zh": "穿过积水的院子"
+    },
+    "intro": {
+      "en": "This original passage considers how leadership changes when the person in front makes the next step visible instead of pretending to know the whole road.",
+      "zh": "这篇原创文章思考一种领导方式：走在前面的人不假装看清整条路，而是让下一步变得可见。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When the Main Lights Failed",
+          "zh": "1. 主灯熄灭之后"
+        },
+        "text": "The mountain clinic lost power shortly after midnight. Rain struck the metal roof so hard that ordinary conversation became guesswork. In the treatment room, two nurses checked the backup batteries while Dr. Imani looked through the glass door at the courtyard. Water had risen over the painted path to the generator shed. The maintenance team was stranded on the lower road, and the radio offered only fragments. Everyone turned toward Imani. She felt the familiar pressure to produce a complete answer quickly. Leaders are often rewarded for sounding certain, especially when certainty is scarce. But a confident invention would not lower the water or reveal the hidden steps. She said, plainly, “I don't know if the whole crossing is safe. I know how we can test the first ten meters.” Then she reached for the smallest lantern on the emergency shelf.",
+        "coaching": {
+          "en": "Make the rain loud through firm consonants. Deliver I don't know without apology, then strengthen the sentence that follows.",
+          "zh": "用有力的辅音读出雨声。I don't know 不必带歉意，后一句则要更坚定。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Courage With Measurements",
+          "zh": "2. 有尺度的勇气"
+        },
+        "text": "Imani tied a bright cord around her waist and gave the other end to Tomas, the senior nurse. They agreed on signals before opening the door: one pull meant stop, two meant return, three meant send more line. She marked the water level against her boots and used a broom handle to feel for each edge of pavement. At the first drain, the current tugged harder. She stopped. This pause mattered more than a dramatic advance would have. Courage is not an appetite for danger; it is the ability to remain useful while danger is present. It asks for measurements, companions, and a point beyond which pride will not push. Imani returned to the doorway and reported exactly what she had learned. The crossing was possible to the drain. Beyond it, they needed a safer angle and a longer rope.",
+        "coaching": {
+          "en": "Keep the signals and actions exact. Stress remain useful, then make the report sound factual rather than triumphant.",
+          "zh": "信号与动作要读得准确。重读 remain useful，汇报部分要事实清楚，不要胜利式的语气。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Making Fear Informative",
+          "zh": "3. 让恐惧提供信息"
+        },
+        "text": "The team spread a building plan across the desk. A nursing assistant remembered that the courtyard sloped toward a service wall. Tomas noticed a handrail drawn beside the laundry entrance. Another nurse worried that loose bins might be moving beneath the dark water. No one was told to be fearless. Instead, each fear was translated into a question that could improve the plan. Where is the current strongest? What can become an anchor? What must remain dry? Fear became less contagious when it was given work. They chose a route along the wall, carried the rope above the water, and moved in pairs. Imani went first again, but now the path belonged to the team's combined attention. Her role was not to collect everyone else's bravery. It was to arrange their knowledge so that bravery had somewhere sensible to go.",
+        "coaching": {
+          "en": "Let each question land distinctly. Build warmth in the shift from individual leadership to combined attention.",
+          "zh": "每个问题都要清楚落下。从个人带领转向共同专注时，声音逐渐变暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Light That Came Back",
+          "zh": "4. 重新亮起的灯"
+        },
+        "text": "They reached the generator, cleared the flooded intake, and restored power before the backup batteries failed. The clinic lights returned all at once, bright enough to make everyone blink. In the morning, the story traveled down the valley and grew more heroic with every telling. Imani supposedly crossed alone through waist-deep water, guided by instinct and an enormous lamp. Tomas laughed when he heard it. The real lantern could fit in one hand, and the deepest water had reached only halfway up a boot. Yet the smaller story contained the larger courage. A person admitted what she could not see. A group turned alarm into observation. They advanced only as far as the evidence allowed, then brought back enough knowledge for the next attempt. Leadership does not always blaze like a beacon on a hill. Sometimes it is a modest light held low, showing several people where to place the next foot.",
+        "coaching": {
+          "en": "Enjoy the exaggerated legend lightly. Slow for the final image and give next foot a firm, quiet landing.",
+          "zh": "轻松地读出被夸大的传说。最后的画面要放慢，让 next foot 安静而有力地落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "stranded",
+      "meaning": {
+        "en": "Unable to leave a place or continue a journey.",
+        "zh": "被困的；无法继续行程的。"
+      },
+      "use": {
+        "en": "The storm left several travelers stranded.",
+        "zh": "暴风雨让几名旅客被困。"
+      }
+    },
+    {
+      "term": "fragment",
+      "meaning": {
+        "en": "A small incomplete part of something.",
+        "zh": "碎片；不完整的一小部分。"
+      },
+      "use": {
+        "en": "Only fragments of the message reached us.",
+        "zh": "我们只收到了零碎的信息。"
+      }
+    },
+    {
+      "term": "scarce",
+      "meaning": {
+        "en": "Insufficient or difficult to find.",
+        "zh": "稀少的；不足的。"
+      },
+      "use": {
+        "en": "Reliable information was scarce that night.",
+        "zh": "那晚可靠的信息很少。"
+      }
+    },
+    {
+      "term": "contagious",
+      "meaning": {
+        "en": "Likely to spread quickly from one person to another.",
+        "zh": "容易在人与人之间传播的。"
+      },
+      "use": {
+        "en": "Her calm focus became contagious.",
+        "zh": "她平静的专注感染了大家。"
+      }
+    },
+    {
+      "term": "anchor",
+      "meaning": {
+        "en": "A secure point that holds something steady.",
+        "zh": "锚点；使某物保持稳固的支点。"
+      },
+      "use": {
+        "en": "A clear purpose can anchor a difficult conversation.",
+        "zh": "明确的目的能稳住一场艰难的谈话。"
+      }
+    },
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "Limited in size or scale; not showy.",
+        "zh": "适度的；不张扬的。"
+      },
+      "use": {
+        "en": "They began with a modest, testable plan.",
+        "zh": "他们从一个适度且可验证的计划开始。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link consonants in lost power, bright cord, and next foot.",
+      "zh": "在 lost power、bright cord 和 next foot 中自然连接辅音。"
+    },
+    {
+      "en": "Stress the first syllable in confident and contagious: CON-fi-dent, con-TA-gious has stress on the second.",
+      "zh": "注意 confident 重读第一音节，而 contagious 重读第二音节：CON-fi-dent，con-TA-gious。"
+    },
+    {
+      "en": "Use firm parallel rhythm in measurements, companions, and a point beyond which pride will not push.",
+      "zh": "在 measurements、companions、a point beyond which pride will not push 中保持坚定的平行节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a leader giving a clear briefing in bad weather: calm, exact, and honest about the edge of the known.",
+      "zh": "跟读时像恶劣天气中做清晰简报的领导者：平静、准确，并诚实说明已知的边界。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep actions and safety signals crisp.",
+        "zh": "第一遍：动作与安全信号要清楚利落。"
+      },
+      {
+        "en": "Pass two: contrast uncertainty with practical resolve.",
+        "zh": "第二遍：用语气对比不确定与务实的决心。"
+      },
+      {
+        "en": "Pass three: make the final image quiet enough to be believed.",
+        "zh": "第三遍：把最后的画面读得足够安静，才让人信服。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where would admitting one uncertainty make your leadership more trustworthy?",
+      "zh": "在哪件事上，承认一个不确定之处，反而会让你的领导更可信？"
+    },
+    {
+      "en": "What is the next visible step in a problem that currently feels too large?",
+      "zh": "面对一个目前显得过于庞大的问题，下一步可见的行动是什么？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/carry-the-smaller-lantern/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/carry-the-smaller-lantern/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/carry-the-smaller-lantern/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/carry-the-smaller-lantern/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/carry-the-smaller-lantern/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/carry-the-smaller-lantern/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/carry-the-smaller-lantern/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/carry-the-smaller-lantern/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/carry-the-smaller-lantern/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/carry-the-smaller-lantern/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/carry-the-smaller-lantern/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/carry-the-smaller-lantern/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/carry-the-smaller-lantern/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/carry-the-smaller-lantern/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/carry-the-smaller-lantern/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/carry-the-smaller-lantern/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/carry-the-smaller-lantern/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/carry-the-smaller-lantern/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/carry-the-smaller-lantern/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/carry-the-smaller-lantern/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/carry-the-smaller-lantern/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/carry-the-smaller-lantern/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/carry-the-smaller-lantern/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/carry-the-smaller-lantern/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/carry-the-smaller-lantern/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/carry-the-smaller-lantern/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/carry-the-smaller-lantern/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/carry-the-smaller-lantern/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/carry-the-smaller-lantern/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/carry-the-smaller-lantern/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/carry-the-smaller-lantern/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/carry-the-smaller-lantern/clips/sources_0.mp3"
+    }
+  }
+}

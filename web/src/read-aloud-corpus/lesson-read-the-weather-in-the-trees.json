@@ -1,0 +1,244 @@
+{
+  "lessonId": "read-the-weather-in-the-trees",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Read the Weather in the Trees",
+    "zh": "从树上读天气"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient observation, local knowledge, and the intelligence of paying attention.",
+    "zh": "一篇关于耐心观察、地方知识，以及专注本身所蕴含的智慧的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Nature",
+    "Attention",
+    "Observation",
+    "Learning",
+    "Calm"
+  ],
+  "sources": [
+    {
+      "title": "Walden; or, Life in the Woods",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for close observation of ordinary nature; this contemporary story and all wording are original.",
+        "zh": "灵感来自这部公开领域作品对日常自然的细致观察；本课故事与文字均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert calm. Give each natural detail enough space to appear, and let curiosity sound more important than certainty.",
+    "zh": "用警觉而平静的声音朗读。给每个自然细节足够的空间显现，让好奇听起来比确定更重要。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Forecast Beside the Bus Stop",
+      "zh": "公交站旁的天气预报"
+    },
+    "intro": {
+      "en": "This original passage follows a commuter who discovers that careful observation can turn a familiar street into a living field of knowledge.",
+      "zh": "这篇原创文章写一位通勤者如何发现：细心观察能把熟悉的街道变成一片活的知识田野。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Forecast in a Pocket",
+          "zh": "1. 口袋里的预报"
+        },
+        "text": "Every weekday, Nina checked the weather before leaving her apartment. The forecast lived in her pocket as a row of neat symbols: a yellow sun, a gray cloud, three blue drops. She trusted it enough to choose a coat and forgot it as soon as the choice was made. At the bus stop, an elderly neighbor named Mr. Vale often studied the plane trees instead of his phone. One morning he said rain would arrive before lunch. The screen showed only clouds. Nina looked up. The sky was pale and undecided; the pavement was dry. “How can you tell?” she asked. He pointed to the leaves. Their lighter undersides had begun to flash as the branches twisted in the wind. “It isn't a promise,” he said. “It's one piece of evidence.” By eleven, rain was tapping the office windows.",
+        "coaching": {
+          "en": "Keep the digital symbols light and quick. Slow when Nina looks up, and make one piece of evidence modest but memorable.",
+          "zh": "数字图标部分轻快简洁。Nina 抬头时放慢，把 one piece of evidence 读得谦逊却令人记住。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Learning a Small Place",
+          "zh": "2. 学会读懂一小片地方"
+        },
+        "text": "After that, Nina began arriving five minutes early. Mr. Vale never offered rules without conditions. Swallows flying low might indicate insects pressed downward by heavy air, but the same flight could also follow a rich patch of food. A stronger smell from the soil might announce moisture, unless the gardeners had watered at dawn. Pinecones often tightened before damp weather, yet one cone on one day proved very little. The pleasure lay in comparison. What had changed since yesterday? Which signs appeared together? What happened next? Nina kept notes on bus receipts: wind from the bakery corner, ants moving eggs uphill, a dark seam above the western roofs. Attention made the neighborhood larger without adding a single street. Places reveal depth when we stop treating them as scenery between destinations.",
+        "coaching": {
+          "en": "Give the cautions equal weight with the clues. Let the three questions rise naturally, then warm the final sentence.",
+          "zh": "限制条件与线索要同样重视。三个问题自然上扬，末句则读得温暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Observation Without Superstition",
+          "zh": "3. 不迷信的观察"
+        },
+        "text": "Nina's guesses were sometimes wrong. A dramatic ceiling of clouds produced no rain; ants climbed for reasons she could not discover. At first, failure embarrassed her. Mr. Vale seemed pleased. “Now you have something to compare,” he said. He taught her to separate noticing from claiming. Noticing says, the leaves turned and the air cooled. Claiming says, therefore rain must come. The first can be accurate even when the second fails. This distinction protected curiosity from becoming superstition. It also made Nina more careful at work. In meetings, she began to hear when a colleague's silence meant thought rather than agreement. In reports, she marked observations separately from explanations. The habits were the same: look closely, name what is present, test the story you place around it, and remain willing to revise.",
+        "coaching": {
+          "en": "Read the wrong guesses without shame. Make noticing and claiming sharply distinct, then give the final sequence an even, teachable rhythm.",
+          "zh": "读到错误判断时不要带羞愧。清楚区分 noticing 与 claiming，最后的步骤保持均匀、易学的节奏。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Street That Answers Back",
+          "zh": "4. 会回应的街道"
+        },
+        "text": "In spring, Mr. Vale moved to live near his son. On his last morning at the stop, Nina brought him a new notebook. He opened it, admired the blank pages, and handed it back. “You have more weather here than I do now,” he said. Months later, Nina still checked the forecast. Instruments gathered knowledge no pair of neighborhood eyes could replace, and she had no wish to romanticize a wet commute. But she also watched the trees. She knew where wind gathered wrappers against the curb and which wall held afternoon warmth. The street no longer seemed mute. It answered attention with patterns, exceptions, and fresh questions. To observe is not merely to collect facts. It is to enter a patient conversation with the world—one in which confidence grows slowly, correction is welcome, and even a familiar tree can say, Look again.",
+        "coaching": {
+          "en": "Keep the farewell restrained. In the final sentence, open the voice through conversation, correction, and Look again.",
+          "zh": "告别要克制。末句读到 conversation、correction 与 Look again 时，让声音逐渐打开。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "underside",
+      "meaning": {
+        "en": "The lower surface of something.",
+        "zh": "某物的底面；下侧。"
+      },
+      "use": {
+        "en": "The underside of the leaf was almost silver.",
+        "zh": "叶子的背面几乎是银色的。"
+      }
+    },
+    {
+      "term": "indicate",
+      "meaning": {
+        "en": "To show that something may be true or likely.",
+        "zh": "表明；显示某事可能为真。"
+      },
+      "use": {
+        "en": "A slower response may indicate careful thought.",
+        "zh": "较慢的回应可能表示对方正在认真思考。"
+      }
+    },
+    {
+      "term": "seam",
+      "meaning": {
+        "en": "A narrow line where two things meet.",
+        "zh": "接缝；两物相接的窄线。"
+      },
+      "use": {
+        "en": "A seam of light appeared beneath the door.",
+        "zh": "门下露出一道细细的光。"
+      }
+    },
+    {
+      "term": "scenery",
+      "meaning": {
+        "en": "The natural or surrounding features seen in a place.",
+        "zh": "风景；周围可见的景物。"
+      },
+      "use": {
+        "en": "The familiar scenery became interesting when we slowed down.",
+        "zh": "当我们放慢脚步，熟悉的景物也变得有趣。"
+      }
+    },
+    {
+      "term": "superstition",
+      "meaning": {
+        "en": "A belief not supported by reason or reliable evidence.",
+        "zh": "迷信；缺乏理性或可靠证据支持的信念。"
+      },
+      "use": {
+        "en": "Careful records helped separate knowledge from superstition.",
+        "zh": "仔细的记录帮助人们区分知识与迷信。"
+      }
+    },
+    {
+      "term": "romanticize",
+      "meaning": {
+        "en": "To describe something as more attractive or ideal than it really is.",
+        "zh": "浪漫化；把某事描述得比实际更理想。"
+      },
+      "use": {
+        "en": "We should value simple work without romanticizing hardship.",
+        "zh": "我们应珍视朴素的劳动，但不必浪漫化艰辛。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link consonants in checked the weather, dark seam, and facts it is.",
+      "zh": "在 checked the weather、dark seam 和 facts it is 中自然连读辅音。"
+    },
+    {
+      "en": "Stress the second syllable in indicate and romanticize: IN-di-cate has first-syllable stress; ro-MAN-ti-cize has second-syllable stress.",
+      "zh": "注意 indicate 重读第一音节，romanticize 重读第二音节：IN-di-cate，ro-MAN-ti-cize。"
+    },
+    {
+      "en": "Use a clean four-beat rhythm in look closely, name what is present, test the story, and remain willing to revise.",
+      "zh": "在 look closely、name what is present、test the story、remain willing to revise 中读出清楚的四组节拍。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a curious observer sharing field notes: attentive, specific, and ready to revise the forecast.",
+      "zh": "跟读时像一位分享野外笔记的好奇观察者：专注、具体，也随时愿意修正预报。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: let each sensory detail appear clearly.",
+        "zh": "第一遍：让每个感官细节清楚显现。"
+      },
+      {
+        "en": "Pass two: contrast evidence with explanation through stress.",
+        "zh": "第二遍：用重音区分证据与解释。"
+      },
+      {
+        "en": "Pass three: give the ending the openness of a continuing conversation.",
+        "zh": "第三遍：让结尾带有一场仍在继续的对话所拥有的开放感。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What ordinary sign in your surroundings have you stopped noticing?",
+      "zh": "你周围有什么普通的信号，是你已经不再留意的？"
+    },
+    {
+      "en": "Where could separating observation from explanation improve your judgment?",
+      "zh": "在哪件事上，把观察与解释分开，能改善你的判断？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/read-the-weather-in-the-trees/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/read-the-weather-in-the-trees/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/read-the-weather-in-the-trees/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/read-the-weather-in-the-trees/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/read-the-weather-in-the-trees/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/read-the-weather-in-the-trees/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/read-the-weather-in-the-trees/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/read-the-weather-in-the-trees/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/read-the-weather-in-the-trees/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/read-the-weather-in-the-trees/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/read-the-weather-in-the-trees/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/read-the-weather-in-the-trees/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/read-the-weather-in-the-trees/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/read-the-weather-in-the-trees/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/read-the-weather-in-the-trees/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/read-the-weather-in-the-trees/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/read-the-weather-in-the-trees/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/read-the-weather-in-the-trees/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/read-the-weather-in-the-trees/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/read-the-weather-in-the-trees/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/read-the-weather-in-the-trees/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/read-the-weather-in-the-trees/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/read-the-weather-in-the-trees/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/read-the-weather-in-the-trees/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/read-the-weather-in-the-trees/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/read-the-weather-in-the-trees/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/read-the-weather-in-the-trees/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/read-the-weather-in-the-trees/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/read-the-weather-in-the-trees/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/read-the-weather-in-the-trees/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/read-the-weather-in-the-trees/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/read-the-weather-in-the-trees/clips/sources_0.mp3"
+    }
+  }
+}

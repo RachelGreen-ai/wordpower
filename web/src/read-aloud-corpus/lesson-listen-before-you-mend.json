@@ -1,0 +1,244 @@
+{
+  "lessonId": "listen-before-you-mend",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Listen Before You Mend",
+    "zh": "修补之前，先听一听"
+  },
+  "subtitle": {
+    "en": "An original reflection on craftsmanship, attentive listening, and repairs that respect a thing's history.",
+    "zh": "一篇关于手艺、专注倾听，以及尊重物件历史的修补之道的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Craft",
+    "Listening",
+    "Patience",
+    "Art",
+    "Care"
+  ],
+  "sources": [
+    {
+      "title": "Hopes and Fears for Art",
+      "author": "William Morris",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3773",
+      "note": {
+        "en": "Public-domain inspiration for the dignity of useful craft; the lesson itself is wholly original.",
+        "zh": "灵感来自这部公开领域作品中关于实用手艺之尊严的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if speaking across a quiet workbench. Let precise details carry the emotion, and keep the advice gentle rather than solemn.",
+    "zh": "像隔着一张安静的工作台说话。让准确的细节承载情感，建议的语气要温和，不必庄严。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Chair That Asked for Time",
+      "zh": "那把请求一点时间的椅子"
+    },
+    "intro": {
+      "en": "This original passage follows a furniture repairer who learns that good restoration begins not with tools, but with attention.",
+      "zh": "这篇原创文章写一位家具修复师如何明白：好的修复并非始于工具，而是始于专注。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Quick Diagnosis",
+          "zh": "1. 过快的判断"
+        },
+        "text": "Mara brought the old dining chair into the morning light and gave it the brisk inspection she gave every new job. One rail was loose. The cane seat sagged. A pale ring marked the place where someone had set down a wet glass years ago. She could picture the repair already: fresh glue, new cane, a careful stain to make the surface uniform. Then she turned the chair over and noticed a row of shallow scratches beneath the seat. They were too regular to be accidental. Five short lines, then a sixth; another five, then a sixth. Mara put down her brush. A repairer often sees damage first, because damage is what she has been invited to correct. But a scar and a record can look alike until someone takes time to ask.",
+        "coaching": {
+          "en": "Begin briskly, then slow at the scratches. Give the final contrast between scar and record a thoughtful, open cadence.",
+          "zh": "开头利落，读到划痕时放慢。末句 scar 与 record 的对比要若有所思，并保持开放的语调。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. What the Wood Remembered",
+          "zh": "2. 木头记得什么"
+        },
+        "text": "The owner, Mr. Han, smiled when Mara asked about the marks. His daughters had measured their growing years on that chair because the kitchen wall had been tiled. Every birthday, their grandfather turned it upside down, added a line, and wrote the date in pencil beside it. The writing had faded, but the cuts remained. The water ring came from a summer when the family learned to make plum cordial. The worn front rung had supported hundreds of impatient heels during long dinners. None of this made the chair rare or valuable at auction. It made the chair particular. Its irregularities were not decoration, yet they belonged to its identity. Mara began to understand that restoration was not the art of returning an object to innocence. It was the art of deciding what must be strengthened, what may be softened, and what deserves to remain legible.",
+        "coaching": {
+          "en": "Warm the family details without becoming sentimental. Stress rare, particular, and legible to clarify the passage's idea.",
+          "zh": "家庭细节要温暖，但不要煽情。重读 rare、particular 与 legible，突出文章的核心。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. A Repair That Can Be Read",
+          "zh": "3. 看得懂的修补"
+        },
+        "text": "She tightened the joints and rewove the seat with cane close in color to the original. She cleaned the surface but did not bleach it. Around the water ring, she blended the sharp edge until the mark no longer shouted, though it still spoke. Under the seat, she brushed dust from the birthday lines and sealed them beneath a thin protective coat. The work took longer than her first plan. It also required restraint, a skill less visible than cutting or joining. Anyone can confuse improvement with erasure when the goal is a flawless photograph. In use, however, perfection matters less than continuity. A worthy repair allows the object to serve again without pretending it has never served before. It gives the future a sound place to sit while leaving the past enough room to be recognized.",
+        "coaching": {
+          "en": "Keep the verbs clean and tactile. Pause before though it still spoke, then let the last sentence settle with quiet assurance.",
+          "zh": "动词要读得干净、有触感。在 though it still spoke 前停顿，末句以安静笃定的语气落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Discipline of Noticing",
+          "zh": "4. 看见的功夫"
+        },
+        "text": "When Mr. Han collected the chair, he ran a thumb across the smooth joint and then looked underneath. The small lines were clear. He did not say much; gratitude sometimes arrives as a longer breath. After he left, Mara changed a sentence on the card above her bench. It had said, Make it strong. She added three words: Know what strength is for. The lesson traveled beyond furniture. A hurried apology may polish away the very truth another person needs acknowledged. A revised plan may become neater while losing the odd detail that made it useful. Before we mend a chair, a custom, or a conversation, we can listen for what is still alive inside it. Care is not passive. It makes distinctions. It repairs the weakness, preserves the meaning, and leaves the finished work ready to carry more life.",
+        "coaching": {
+          "en": "Let gratitude sometimes arrives as a longer breath breathe. Build the final three verbs with steady, practical confidence.",
+          "zh": "让 gratitude sometimes arrives as a longer breath 真正留出呼吸。最后三个动词要稳健、务实地递进。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "brisk",
+      "meaning": {
+        "en": "Quick, energetic, and businesslike.",
+        "zh": "轻快利落的；干脆的。"
+      },
+      "use": {
+        "en": "She gave the proposal a brisk first review.",
+        "zh": "她迅速而利落地初审了这份提案。"
+      }
+    },
+    {
+      "term": "uniform",
+      "meaning": {
+        "en": "Consistent in appearance or character.",
+        "zh": "外观或性质一致的；均匀的。"
+      },
+      "use": {
+        "en": "The handmade bowls were beautiful without being uniform.",
+        "zh": "这些手工碗并不完全一致，却很美。"
+      }
+    },
+    {
+      "term": "particular",
+      "meaning": {
+        "en": "Distinctive and specific to one person or thing.",
+        "zh": "独特的；属于某个具体人或事物的。"
+      },
+      "use": {
+        "en": "The room had a particular warmth in winter.",
+        "zh": "这个房间在冬天有一种独特的温暖。"
+      }
+    },
+    {
+      "term": "legible",
+      "meaning": {
+        "en": "Clear enough to be read or understood.",
+        "zh": "清晰可读的；易于理解的。"
+      },
+      "use": {
+        "en": "Please keep the handwritten label legible.",
+        "zh": "请让手写标签保持清晰可辨。"
+      }
+    },
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "Calm control that prevents excessive action.",
+        "zh": "克制；避免过度行动的自制力。"
+      },
+      "use": {
+        "en": "Her restraint made the criticism easier to hear.",
+        "zh": "她的克制让批评更容易被听进去。"
+      }
+    },
+    {
+      "term": "continuity",
+      "meaning": {
+        "en": "The state of continuing with a recognizable connection over time.",
+        "zh": "延续性；在时间中保持可辨认的连接。"
+      },
+      "use": {
+        "en": "The ritual gave the family a sense of continuity.",
+        "zh": "这个仪式给了家人一种延续感。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link final consonants in wet glass, brushed dust, and sound place.",
+      "zh": "在 wet glass、brushed dust 和 sound place 中自然连接词尾辅音。"
+    },
+    {
+      "en": "Keep the stress clear in irregularities: ir-reg-u-LAR-i-ties.",
+      "zh": "读 irregularities 时保持重音清晰：ir-reg-u-LAR-i-ties。"
+    },
+    {
+      "en": "Use three even beats in repairs the weakness, preserves the meaning, and leaves the finished work.",
+      "zh": "在 repairs the weakness、preserves the meaning、leaves the finished work 中保持三组均衡节拍。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a skilled craftsperson explaining a delicate choice: precise, unhurried, and quietly proud of useful work.",
+      "zh": "跟读时像一位手艺人解释一个微妙的选择：准确、不慌不忙，并对有用的工作怀有安静的自豪。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the chair and its marks visible through crisp nouns and verbs.",
+        "zh": "第一遍：用清楚的名词与动词，让椅子和痕迹变得可见。"
+      },
+      {
+        "en": "Pass two: distinguish damage from memory through contrastive stress.",
+        "zh": "第二遍：用对比重音区分 damage 与 memory。"
+      },
+      {
+        "en": "Pass three: let the ending sound practical, not preachy.",
+        "zh": "第三遍：让结尾听起来务实，不要说教。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What are you tempted to improve before you have understood its history?",
+      "zh": "有什么东西，你还没理解它的历史，就急着去改进？"
+    },
+    {
+      "en": "Where could restraint make your next repair, revision, or apology more truthful?",
+      "zh": "下一次修补、修改或道歉时，克制能在哪一点让它更真实？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/listen-before-you-mend/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/listen-before-you-mend/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/listen-before-you-mend/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/listen-before-you-mend/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/listen-before-you-mend/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/listen-before-you-mend/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/listen-before-you-mend/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/listen-before-you-mend/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/listen-before-you-mend/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/listen-before-you-mend/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/listen-before-you-mend/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/listen-before-you-mend/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/listen-before-you-mend/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/listen-before-you-mend/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/listen-before-you-mend/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/listen-before-you-mend/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/listen-before-you-mend/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/listen-before-you-mend/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/listen-before-you-mend/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/listen-before-you-mend/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/listen-before-you-mend/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/listen-before-you-mend/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/listen-before-you-mend/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/listen-before-you-mend/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/listen-before-you-mend/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/listen-before-you-mend/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/listen-before-you-mend/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/listen-before-you-mend/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/listen-before-you-mend/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/listen-before-you-mend/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/listen-before-you-mend/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/listen-before-you-mend/clips/sources_0.mp3"
+    }
+  }
+}

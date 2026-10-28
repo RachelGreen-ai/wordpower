@@ -70,6 +70,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Carry a Lantern, Not a Verdict](https://wordpower-seven.vercel.app/read-aloud/carry-a-lantern-not-a-verdict): An original reflection on moral imagination, incomplete stories, and the discipline of seeing people whole.
 - [Carry a Question](https://wordpower-seven.vercel.app/read-aloud/carry-a-question): An original reflection on scientific wonder, patient inquiry, and the value of not knowing yet.
 - [Carry the Lantern into the Fog](https://wordpower-seven.vercel.app/read-aloud/carry-the-lantern-into-the-fog): An original reflection on leadership when the map is incomplete and certainty is unavailable.
+- [Carry the Smaller Lantern](https://wordpower-seven.vercel.app/read-aloud/carry-the-smaller-lantern): An original reflection on leadership, useful courage, and making uncertainty easier to cross together.
 - [Choose the Truer Sentence](https://wordpower-seven.vercel.app/read-aloud/choose-the-truer-sentence): An original reflection on calm communication, honest revision, and words that leave room for another person.
 - [Courage Is Built in the Arena.](https://wordpower-seven.vercel.app/read-aloud/courage-in-the-arena): A speech-style read-aloud lesson for practicing conviction, action vocabulary, and a stronger public voice.
 - [The Courage to Revise](https://wordpower-seven.vercel.app/read-aloud/courage-to-revise): An original passage on learning, intellectual humility, and changing your mind without losing yourself.
@@ -107,6 +108,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Let the Evidence Surprise You](https://wordpower-seven.vercel.app/read-aloud/let-the-evidence-surprise-you): An original reflection on scientific curiosity, careful observation, and the freedom to revise a cherished idea.
 - [Let the Night Resize the Day](https://wordpower-seven.vercel.app/read-aloud/let-the-night-resize-the-day): An original reflection on starlight, proportion, and returning to ordinary problems with a wider mind.
 - [Let the Work Ripen](https://wordpower-seven.vercel.app/read-aloud/let-the-work-ripen): An original reflection on patient craft, revision, and knowing when careful work is ready.
+- [Listen Before You Mend](https://wordpower-seven.vercel.app/read-aloud/listen-before-you-mend): An original reflection on craftsmanship, attentive listening, and repairs that respect a thing's history.
 - [Listen for the Unfinished Sentence](https://wordpower-seven.vercel.app/read-aloud/listen-for-the-unfinished-sentence): An original reflection on civic listening, hidden experience, and the patience required to understand across difference.
 - [Lower Your Voice, Keep Your Ground](https://wordpower-seven.vercel.app/read-aloud/lower-your-voice-keep-your-ground): An original reflection on calm disagreement, precise language, and strength that does not need to shout.
 - [Make a Window for Wonder](https://wordpower-seven.vercel.app/read-aloud/make-a-window-for-wonder): An original reflection on experiments, useful questions, and the patient craft of discovery.
@@ -118,6 +120,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Notice the Season Turn](https://wordpower-seven.vercel.app/read-aloud/notice-the-season-turn): An original reflection on recovering attention through the small announcements of autumn.
 - [The Patient Eye Sees More](https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more): An original reflection on observation, curiosity, and the discipline of seeing before naming.
 - [Practice the Art of Enough](https://wordpower-seven.vercel.app/read-aloud/practice-the-art-of-enough): An original reflection on gratitude, proportion, and the quiet wealth of an ordinary day.
+- [Read the Weather in the Trees](https://wordpower-seven.vercel.app/read-aloud/read-the-weather-in-the-trees): An original reflection on patient observation, local knowledge, and the intelligence of paying attention.
 - [Say the Name Again](https://wordpower-seven.vercel.app/read-aloud/say-the-name-again): An original reflection on names, attentive pronunciation, and the everyday dignity of trying again.
 - [Self-Trust Is an Inner Compass.](https://wordpower-seven.vercel.app/read-aloud/self-trust-inner-compass): A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.
 - [Set One More Place](https://wordpower-seven.vercel.app/read-aloud/set-one-more-place): An original reflection on hospitality, belonging, and the small civic art of making room.
