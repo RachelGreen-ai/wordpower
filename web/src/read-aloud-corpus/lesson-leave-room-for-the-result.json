@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-room-for-the-result",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave Room for the Result",
+    "zh": "给结果留一点空间"
+  },
+  "subtitle": {
+    "en": "An original reflection on experiment, uncertainty, and the discipline of seeing what is actually there.",
+    "zh": "一篇关于实验、不确定性，以及如实看见事物之训练的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Curiosity",
+    "Patience",
+    "Learning",
+    "Attention"
+  ],
+  "sources": [
+    {
+      "title": "Experimental Researches in Electricity, Volume 1",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14986",
+      "note": {
+        "en": "Public-domain inspiration for patient experimental inquiry; the lesson itself is wholly original.",
+        "zh": "灵感来自这部公开领域作品中耐心求证的实验精神；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert curiosity. Keep the scientific details clear, and let uncertainty sound spacious rather than anxious.",
+    "zh": "带着敏锐的好奇心朗读。科学细节要清楚，让不确定性听起来开阔，而不是焦虑。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Experiment That Refused to Agree",
+      "zh": "那个不肯配合的实验"
+    },
+    "intro": {
+      "en": "This original passage follows a young researcher whose failed demonstration becomes a lesson in intellectual honesty.",
+      "zh": "这篇原创文章写一位年轻研究者如何从一次失败的演示中学会求知的诚实。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Beautiful Prediction",
+          "zh": "1. 漂亮的预测"
+        },
+        "text": "Nina arrived before sunrise because she wanted the laboratory to be quiet when she proved her idea. For three weeks, she had studied how a thin film changed as it cooled. Her graph suggested a graceful pattern: lower the temperature by ten degrees, and the film would become twice as resistant to an electric current. She had rehearsed the explanation until every sentence clicked neatly into the next. At nine, her colleagues gathered around the bench. Nina connected the final wire, watched the instrument settle, and wrote down the number. It was wrong. She checked the cable, cleaned the contact, and began again. The second number was wrong in a different direction. A beautiful prediction can make disorder feel insulting. For one hot moment, she wanted the apparatus to apologize.",
+        "coaching": {
+          "en": "Move briskly through the preparation, then pause after It was wrong. Give the last sentence a light touch of humor.",
+          "zh": "准备过程读得利落，读到 It was wrong 后停顿。末句带一点轻微的幽默感。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Temptation to Tidy",
+          "zh": "2. 整理结果的诱惑"
+        },
+        "text": "There were easy ways to rescue the morning. She could remove the awkward readings and call them noise. She could adjust the scale so the remaining points leaned closer to her line. Neither choice required an outright lie. Both could be defended with vocabulary that sounded responsible. Yet Dr. Hale, her supervisor, asked a plain question: What did you expect the instrument to do that it did not do? Nina stopped explaining and looked again. The irregular readings appeared only after the sample had rested for several minutes. When she rushed, the pattern behaved. When she waited, it wandered. The flaw might be in the instrument, the material, or her assumption. She did not know. Saying so felt at first like losing authority. Then it felt like opening a window.",
+        "coaching": {
+          "en": "Stress easy, rescue, and neither to expose the temptation. Read the supervisor's question simply, without drama.",
+          "zh": "重读 easy、rescue 与 neither，突出诱惑。导师的问题要朴素地读，不必戏剧化。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. A Fact with Rough Edges",
+          "zh": "3. 一条带着毛边的事实"
+        },
+        "text": "They spent the afternoon changing one condition at a time. A new cable made no difference. A fresh sample produced the same drift. At last Nina noticed that the film's surface was developing tiny islands invisible to the naked eye. Cooling did change its resistance, but time changed its structure as well. Her original graph had captured only the first half of a moving process. The result was less elegant than her prediction and more useful. It suggested a material that could respond not only to temperature but also to duration. The disorder had not ruined the experiment; it had described something she had failed to ask about. Evidence often arrives with rough edges. Our task is not to sand it into the shape of our hope, but to find the question whose answer it already is.",
+        "coaching": {
+          "en": "Keep the sequence measured and exact. Broaden the cadence on less elegant and more useful, then land firmly on already is.",
+          "zh": "过程要读得沉着、准确。在 less elegant 与 more useful 处舒展语调，末尾 already is 要稳稳落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. An Honest Notebook",
+          "zh": "4. 一本诚实的记录簿"
+        },
+        "text": "That evening, Nina rewrote the first page of her report. She did not begin with the result she had hoped to announce. She began with the moment the numbers separated from her expectation. The page looked untidy: arrows, revised labels, a question in the margin. It was also the most truthful account she had made. Outside a laboratory, we perform quieter experiments every day. We predict how a child will react, how a meeting will unfold, what kind of work will satisfy us. When life refuses the pattern, we can force the evidence into an old story or become students again. Curiosity is not endless indecision. It is the courage to let reality finish its sentence. Good judgment still chooses and acts, but it leaves a little room beside certainty—a clean place where the unexpected result can stand and be seen.",
+        "coaching": {
+          "en": "Let the notebook details feel intimate. Build gently toward let reality finish its sentence, and close with calm conviction.",
+          "zh": "记录簿的细节要有亲近感。逐渐推进到 let reality finish its sentence，结尾平静而笃定。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "resistant",
+      "meaning": {
+        "en": "Not easily affected, changed, or passed through.",
+        "zh": "有抵抗力的；不易受影响或穿透的。"
+      },
+      "use": {
+        "en": "This coating is resistant to heat.",
+        "zh": "这种涂层耐热。"
+      }
+    },
+    {
+      "term": "apparatus",
+      "meaning": {
+        "en": "Equipment designed for a particular technical purpose.",
+        "zh": "为特定技术用途设计的仪器设备。"
+      },
+      "use": {
+        "en": "The apparatus must be tested before use.",
+        "zh": "这套仪器使用前必须测试。"
+      }
+    },
+    {
+      "term": "irregular",
+      "meaning": {
+        "en": "Not following an expected pattern.",
+        "zh": "不规则的；不符合预期模式的。"
+      },
+      "use": {
+        "en": "We noticed an irregular rhythm in the data.",
+        "zh": "我们注意到数据中有一种不规则的节奏。"
+      }
+    },
+    {
+      "term": "assumption",
+      "meaning": {
+        "en": "Something accepted as true without complete proof.",
+        "zh": "尚未得到充分证明便被视为真的假设。"
+      },
+      "use": {
+        "en": "The discussion exposed a hidden assumption.",
+        "zh": "讨论揭示了一个隐藏的假设。"
+      }
+    },
+    {
+      "term": "drift",
+      "meaning": {
+        "en": "A gradual movement away from a position or value.",
+        "zh": "逐渐偏离某个位置或数值。"
+      },
+      "use": {
+        "en": "The sensor showed a slow upward drift.",
+        "zh": "传感器显示数值缓慢上移。"
+      }
+    },
+    {
+      "term": "conviction",
+      "meaning": {
+        "en": "A firmly held belief or confident manner.",
+        "zh": "坚定的信念；确信。"
+      },
+      "use": {
+        "en": "She spoke with quiet conviction.",
+        "zh": "她说话时带着安静的笃定。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the four clear beats in a beautiful prediction can make disorder feel insulting.",
+      "zh": "在 a beautiful prediction can make disorder feel insulting 中保持四个清晰节拍。"
+    },
+    {
+      "en": "Link consonants smoothly in fresh sample, rough edges, and good judgment.",
+      "zh": "在 fresh sample、rough edges 和 good judgment 中自然连接辅音。"
+    },
+    {
+      "en": "Stress the second syllable in resistant and the second syllable in conviction.",
+      "zh": "resistant 重读第二音节，conviction 也重读第二音节。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a scientist sharing a surprising discovery: precise, candid, and quietly delighted by the unexpected.",
+      "zh": "跟读时像一位分享意外发现的科学家：准确、坦诚，并对意外结果感到安静的欣喜。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the experiment easy to picture through clean technical nouns.",
+        "zh": "第一遍：用清楚的技术名词，让实验容易想象。"
+      },
+      {
+        "en": "Pass two: use contrastive stress for prediction, evidence, and result.",
+        "zh": "第二遍：用对比重音读 prediction、evidence 与 result。"
+      },
+      {
+        "en": "Pass three: make uncertainty sound intelligent, not hesitant.",
+        "zh": "第三遍：让不确定听起来理性，而不是犹豫。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where are you currently asking the evidence to agree with your first story?",
+      "zh": "你目前在哪件事上，正要求证据配合自己的第一个故事？"
+    },
+    {
+      "en": "What unexpected result might become useful if you look at it without embarrassment?",
+      "zh": "如果不带窘迫地去看，哪个意外结果或许会变得有用？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-room-for-the-result/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-room-for-the-result/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-room-for-the-result/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-room-for-the-result/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-room-for-the-result/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-room-for-the-result/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-room-for-the-result/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-room-for-the-result/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-room-for-the-result/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-room-for-the-result/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-room-for-the-result/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-room-for-the-result/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-room-for-the-result/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-room-for-the-result/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-room-for-the-result/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-room-for-the-result/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-room-for-the-result/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-room-for-the-result/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-room-for-the-result/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-room-for-the-result/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-room-for-the-result/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-room-for-the-result/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-room-for-the-result/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-room-for-the-result/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-room-for-the-result/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-room-for-the-result/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-room-for-the-result/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-room-for-the-result/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-room-for-the-result/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-room-for-the-result/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-room-for-the-result/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-room-for-the-result/clips/sources_0.mp3"
+    }
+  }
+}

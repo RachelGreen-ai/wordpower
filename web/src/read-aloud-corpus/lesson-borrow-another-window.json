@@ -1,0 +1,244 @@
+{
+  "lessonId": "borrow-another-window",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Borrow Another Window",
+    "zh": "借一扇别人的窗"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, incomplete stories, and the effort required to judge fairly.",
+    "zh": "一篇关于道德想象、不完整的故事，以及公正判断所需努力的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Empathy",
+    "Fairness",
+    "Community",
+    "Perspective",
+    "Character"
+  ],
+  "sources": [
+    {
+      "title": "The Theory of Moral Sentiments",
+      "author": "Adam Smith",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/67363",
+      "note": {
+        "en": "Public-domain inspiration for impartial perspective-taking; the lesson itself is wholly original.",
+        "zh": "灵感来自这部公开领域作品中以公正视角设身处地的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as a thoughtful neighbor telling a true-feeling story. Keep the judgments light and the human details warm.",
+    "zh": "像一位体贴的邻居讲述一个真实可感的故事。判断要轻，人物细节要温暖。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Light Across the Courtyard",
+      "zh": "院子对面的那盏灯"
+    },
+    "intro": {
+      "en": "This original passage follows two neighbors who discover how much of a person remains hidden from a single point of view.",
+      "zh": "这篇原创文章写两位邻居如何发现：从单一角度看去，一个人有太多部分仍被遮住。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Upstairs Complaint",
+          "zh": "1. 楼上的抱怨"
+        },
+        "text": "From her kitchen window, Lila could see the apartment across the courtyard. Its light came on at eleven each night and stayed on until nearly three. Soon afterward, music would begin—not loud enough for a formal complaint, but persistent enough to enter her sleep. The tenant was a young man named Tomas, whom she knew only by his hurried footsteps on the stairs. He never held the front door. He left cardboard beside the recycling bin instead of folding it. In Lila's mind, these details joined into a complete portrait: careless, self-absorbed, awake at hours when decent people rested. We are gifted makers of coherence. Give us three scattered facts, and by morning we have built a character sturdy enough to dislike.",
+        "coaching": {
+          "en": "Let the small irritations accumulate with dry humor. Stress complete portrait and three scattered facts.",
+          "zh": "让小小的不满带着一点干幽默逐渐累积。重读 complete portrait 与 three scattered facts。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Different Angle",
+          "zh": "2. 换一个角度"
+        },
+        "text": "One rainy afternoon, the elevator stopped between floors. Lila and Tomas waited together in the lobby while a mechanic worked above them. Tomas was carrying a violin case and a bag of groceries. He apologized for the late music before she mentioned it. His mother lived six time zones away and had begun forgetting familiar names. At night, when she became frightened, he played the songs she remembered from childhood over a video call. The groceries were for an older tenant on the fourth floor. The unfolded boxes? He laughed and admitted there was no noble explanation; he was simply lazy about cardboard. The new facts did not turn him into a saint. They did something more useful. They returned proportion to the picture and made room for a person where a verdict had been.",
+        "coaching": {
+          "en": "Warm the middle without becoming sentimental. Give the cardboard admission an easy smile, then slow for returned proportion.",
+          "zh": "中段读得温暖，但不要煽情。说到纸箱时带一点轻松的笑意，然后在 returned proportion 处放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The View from Everywhere",
+          "zh": "3. 从各处看去"
+        },
+        "text": "Fairness does not require us to excuse every disturbance. Lila still needed sleep, and Tomas still needed to lower the volume. But judgment changes when imagination supplies the missing rooms. From one window, we see a light burning wastefully. From another, we see a son trying to keep memory company. Neither view erases the other. Together they make a world with depth. Moral imagination is sometimes described as kindness, but it is also a form of accuracy. It asks what pressures, loyalties, fears, and hopes might exist beyond the visible act. The answer may not remove responsibility. It can, however, prevent us from enlarging one fault until it covers an entire human being. A fair mind keeps the frame wide enough for correction and dignity to occupy it together.",
+        "coaching": {
+          "en": "Keep the opening firm. Balance the two window sentences evenly, and emphasize kindness, accuracy, correction, and dignity.",
+          "zh": "开头要坚定。两句窗景保持均衡，重读 kindness、accuracy、correction 与 dignity。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Two Small Adjustments",
+          "zh": "4. 两个小小的调整"
+        },
+        "text": "They made an agreement. Tomas would place a practice mute on the violin after midnight, and Lila would send a message if the sound still crossed the courtyard. The solution was ordinary. No one delivered a speech. Yet both apartments changed. Tomas began folding his boxes because he now pictured Lila finding them downstairs. Lila, waking briefly at one, saw the square of light and no longer filled it with contempt. She imagined an old woman listening for the next melody. To borrow another person's window is not to abandon our own. It is to notice that our view has edges. Before we name a stranger selfish, a colleague difficult, or a child ungrateful, we can walk mentally around the courtyard. Perhaps the first story will remain true. But we will hold it with cleaner hands, knowing it is a view, not the whole sky.",
+        "coaching": {
+          "en": "Read the agreement plainly. Let the final image widen gradually, and finish whole sky with a gentle falling tone.",
+          "zh": "协议部分朴素地读。让最后的画面逐渐开阔，以轻柔的降调收住 whole sky。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "persistent",
+      "meaning": {
+        "en": "Continuing for a long time or refusing to disappear.",
+        "zh": "持续存在的；久久不消失的。"
+      },
+      "use": {
+        "en": "A persistent tapping kept me awake.",
+        "zh": "持续的敲击声让我无法入睡。"
+      }
+    },
+    {
+      "term": "coherence",
+      "meaning": {
+        "en": "The quality of forming a clear, connected whole.",
+        "zh": "连贯性；形成清晰整体的特质。"
+      },
+      "use": {
+        "en": "Her examples gave the argument coherence.",
+        "zh": "她的例子让论点更连贯。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A formal decision, or a firm judgment about someone.",
+        "zh": "裁决；对某人的明确判断。"
+      },
+      "use": {
+        "en": "Do not reach a verdict from one conversation.",
+        "zh": "不要仅凭一次谈话就下结论。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "A balanced or appropriate relationship between parts.",
+        "zh": "比例；各部分之间恰当而均衡的关系。"
+      },
+      "use": {
+        "en": "Distance restored a sense of proportion.",
+        "zh": "距离让人重新找回了分寸感。"
+      }
+    },
+    {
+      "term": "contempt",
+      "meaning": {
+        "en": "The feeling that someone is beneath respect.",
+        "zh": "轻蔑；认为某人不值得尊重的感受。"
+      },
+      "use": {
+        "en": "Criticism works poorly when mixed with contempt.",
+        "zh": "批评一旦夹杂轻蔑，效果往往很差。"
+      }
+    },
+    {
+      "term": "dignity",
+      "meaning": {
+        "en": "The worth and respect that belong to a person.",
+        "zh": "尊严；一个人应有的价值与尊重。"
+      },
+      "use": {
+        "en": "The nurse protected the patient's dignity.",
+        "zh": "护士维护了病人的尊严。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link final consonants in front door, cardboard beside, and mind keeps.",
+      "zh": "在 front door、cardboard beside 和 mind keeps 中自然连接词尾辅音。"
+    },
+    {
+      "en": "Keep the stress contrast clear in one window and another window.",
+      "zh": "清楚对比 one window 与 another window 的重音。"
+    },
+    {
+      "en": "Use an even three-part rhythm in pressures, loyalties, fears, and hopes.",
+      "zh": "读 pressures、loyalties、fears and hopes 时保持均匀的列举节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a humane observer correcting an incomplete story: warm, exact, and free of self-congratulation.",
+      "zh": "跟读时像一位有人情味的观察者修正一个不完整的故事：温暖、准确，不自我标榜。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the courtyard and its windows visually clear.",
+        "zh": "第一遍：把院子和窗户读得画面清晰。"
+      },
+      {
+        "en": "Pass two: distinguish facts from verdicts with contrastive stress.",
+        "zh": "第二遍：用对比重音区分 facts 与 verdicts。"
+      },
+      {
+        "en": "Pass three: let the conclusion invite reflection rather than demand agreement.",
+        "zh": "第三遍：让结尾邀请思考，而不是强求认同。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose behavior have you turned too quickly into a complete portrait?",
+      "zh": "你曾把谁的某个行为过快地拼成了完整画像？"
+    },
+    {
+      "en": "What missing room might change the proportion of your judgment?",
+      "zh": "哪个尚未看见的房间，可能改变你判断中的分寸？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/borrow-another-window/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/borrow-another-window/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/borrow-another-window/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/borrow-another-window/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/borrow-another-window/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/borrow-another-window/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/borrow-another-window/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/borrow-another-window/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/borrow-another-window/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/borrow-another-window/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/borrow-another-window/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/borrow-another-window/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/borrow-another-window/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/borrow-another-window/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/borrow-another-window/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/borrow-another-window/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/borrow-another-window/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/borrow-another-window/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/borrow-another-window/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/borrow-another-window/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/borrow-another-window/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/borrow-another-window/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/borrow-another-window/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/borrow-another-window/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/borrow-another-window/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/borrow-another-window/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/borrow-another-window/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/borrow-another-window/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/borrow-another-window/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/borrow-another-window/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/borrow-another-window/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/borrow-another-window/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "lower-the-temperature-of-the-room",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Lower the Temperature of the Room",
+    "zh": "让房间先降降温"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm communication, leadership, and the strength of a well-timed pause.",
+    "zh": "一篇关于冷静沟通、领导力，以及适时停顿之力量的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Leadership",
+    "Composure",
+    "Work",
+    "Listening"
+  ],
+  "sources": [
+    {
+      "title": "Plutarch's Morals: Ethical Essays",
+      "author": "Plutarch",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3052",
+      "note": {
+        "en": "Public-domain inspiration for restraint in anger and conversation; the lesson itself is wholly original.",
+        "zh": "灵感来自这部公开领域作品中关于克制愤怒与言谈的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded authority. Use deliberate pauses, keep the conflict controlled, and never confuse calm with coldness.",
+    "zh": "以沉稳而有分量的语气朗读。停顿要有意识，冲突要克制，不要把冷静读成冷漠。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Meeting with the Open Door",
+      "zh": "那场开着门的会议"
+    },
+    "intro": {
+      "en": "This original passage follows a team leader who learns that the first duty in a heated room is to make clear thought possible again.",
+      "zh": "这篇原创文章写一位团队负责人如何明白：房间情绪升温时，首要责任是让清晰思考重新成为可能。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When Every Voice Rose",
+          "zh": "1. 当所有声音都抬高"
+        },
+        "text": "By the time Amira entered the conference room, the disagreement had already chosen its weapons. Two engineers were speaking over each other. The project manager was tapping a pen against the table. On the screen, a delivery date glowed in red beside a list of unfinished tasks. The failure mattered: a school district was waiting for software it had been promised. Everyone in the room cared, which was precisely why no one could hear. Amira felt the same heat rise in her chest. She had facts to correct and authority to use. She could have claimed the room by becoming its loudest voice. Instead, she walked to the door, opened it, and asked for two minutes of silence. The hallway air entered before anyone's better judgment did.",
+        "coaching": {
+          "en": "Build pressure through the concrete details. Pause after Everyone in the room cared, then cool the pace when the door opens.",
+          "zh": "用具体细节逐渐制造压力。在 Everyone in the room cared 后停顿，门打开时放慢语速、降低温度。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Pause with a Purpose",
+          "zh": "2. 有目的的停顿"
+        },
+        "text": "The silence was not a trick, nor was it an escape from the decision. Amira wrote three headings on the board: What happened. What is at risk. What we can do by Friday. She asked each person to contribute one sentence under the first heading without assigning blame. At first, their sentences arrived disguised as accusations. She trimmed them back to observable facts. A test had failed. A warning had gone unanswered. A schedule had contained no margin for repair. As the language became more exact, the room became less personal. Precision did not make the problem smaller. It made the problem shareable. Anger says, This is yours. Clear speech says, Here it is. Once the failure sat visibly between them, no single person had to carry it as an attack.",
+        "coaching": {
+          "en": "Give the three headings equal weight. Make This is yours sharp but brief; make Here it is open and steady.",
+          "zh": "三个标题要读得分量均等。This is yours 要短促尖锐；Here it is 要开放、稳定。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Strength That Does Not Spread",
+          "zh": "3. 不让火势蔓延的力量"
+        },
+        "text": "Composure is often mistaken for a mild personality. In practice, it is demanding work. A composed person still registers insult, urgency, and fear; she simply refuses to distribute them before deciding what they are for. Amira did not erase accountability. One decision had been careless, and she named it. But she named the action rather than enlarging it into a description of the person. She also named her own mistake: she had approved a schedule with no room for surprise. This admission changed the posture of the table. Shoulders lowered. Questions replaced defenses. Calm proved contagious, though it traveled more slowly than alarm. Leadership, Amira realized, was not the art of remaining untouched. It was the art of feeling the room's temperature without becoming another source of heat.",
+        "coaching": {
+          "en": "Stress demanding work and distribute. Slow down through the definition of leadership, keeping it strong rather than soft.",
+          "zh": "重读 demanding work 与 distribute。领导力的定义要放慢，语气坚定而不是软弱。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Door Left Open",
+          "zh": "4. 仍然开着的门"
+        },
+        "text": "They finished with a smaller promise they could keep: a stable version on Friday, followed by the missing features the next week. Before leaving, each person wrote one risk that must be raised earlier next time. The meeting had not become pleasant, but it had become useful. Amira left the door open. Later, people remembered that detail as if fresh air had solved the problem. It had not. The work was solved by honest sentences, accepted responsibility, and choices made without humiliation. The air had merely helped them begin. In our own difficult rooms, we may not control the first flash of anger. We can control whether we add oxygen. A lowered voice, a factual sentence, or a pause long enough to breathe can protect the space where truth must land. Sometimes the strongest speaker is the one who makes strength unnecessary in everyone else.",
+        "coaching": {
+          "en": "Keep the solution practical. Give the final examples room to breathe, then close with quiet, earned authority.",
+          "zh": "解决方案要读得务实。最后几个例子之间留出呼吸，以安静而有来由的分量收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "composure",
+      "meaning": {
+        "en": "A calm and controlled state of mind.",
+        "zh": "沉着；冷静而自制的心理状态。"
+      },
+      "use": {
+        "en": "She recovered her composure before replying.",
+        "zh": "她恢复冷静后才作答。"
+      }
+    },
+    {
+      "term": "observable",
+      "meaning": {
+        "en": "Able to be noticed or measured directly.",
+        "zh": "可直接观察或衡量的。"
+      },
+      "use": {
+        "en": "Describe the observable behavior first.",
+        "zh": "先描述可观察到的行为。"
+      }
+    },
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "Responsibility for actions and their results.",
+        "zh": "问责；对行动及其结果承担责任。"
+      },
+      "use": {
+        "en": "Trust requires clear accountability.",
+        "zh": "信任需要明确的责任担当。"
+      }
+    },
+    {
+      "term": "contagious",
+      "meaning": {
+        "en": "Likely to spread from one person to another.",
+        "zh": "会在人与人之间传播的；有感染力的。"
+      },
+      "use": {
+        "en": "Her steady optimism was contagious.",
+        "zh": "她沉稳的乐观很有感染力。"
+      }
+    },
+    {
+      "term": "humiliation",
+      "meaning": {
+        "en": "The painful feeling of being made to seem foolish or unworthy.",
+        "zh": "羞辱；被贬低或被显得愚蠢时的痛苦感受。"
+      },
+      "use": {
+        "en": "Correction does not require humiliation.",
+        "zh": "纠正错误并不需要羞辱。"
+      }
+    },
+    {
+      "term": "margin",
+      "meaning": {
+        "en": "Extra time, space, or capacity kept available.",
+        "zh": "预留的时间、空间或余量。"
+      },
+      "use": {
+        "en": "Leave a margin for unexpected delays.",
+        "zh": "为意外延误留出余量。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use clean contrastive stress in Anger says, This is yours. Clear speech says, Here it is.",
+      "zh": "在 Anger says, This is yours. Clear speech says, Here it is. 中使用清楚的对比重音。"
+    },
+    {
+      "en": "Keep the consonant clusters clear in first flash, strongest speaker, and accepted responsibility.",
+      "zh": "清楚读出 first flash、strongest speaker 与 accepted responsibility 中的辅音群。"
+    },
+    {
+      "en": "Stress the middle syllables in accountability and humiliation.",
+      "zh": "accountability 与 humiliation 的中间重读音节要清晰。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a leader lowering the temperature without lowering the standard: calm, specific, and firm.",
+      "zh": "跟读时像一位既降低情绪温度、又不降低标准的领导者：冷静、具体、坚定。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the pressure audible without shouting.",
+        "zh": "第一遍：不靠喊叫，也让压力可听见。"
+      },
+      {
+        "en": "Pass two: place deliberate pauses before the factual sentences.",
+        "zh": "第二遍：在陈述事实的句子前有意识地停顿。"
+      },
+      {
+        "en": "Pass three: let the ending carry authority without blame.",
+        "zh": "第三遍：让结尾有分量，但不带责备。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What temperature do you bring into a room when something important goes wrong?",
+      "zh": "重要的事情出错时，你会把怎样的情绪温度带进房间？"
+    },
+    {
+      "en": "Which factual sentence could make your next difficult conversation more shareable?",
+      "zh": "哪一句事实陈述，能让你的下一场艰难对话更容易共同面对？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/lower-the-temperature-of-the-room/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/lower-the-temperature-of-the-room/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/lower-the-temperature-of-the-room/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/lower-the-temperature-of-the-room/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/lower-the-temperature-of-the-room/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/lower-the-temperature-of-the-room/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/lower-the-temperature-of-the-room/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/lower-the-temperature-of-the-room/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/lower-the-temperature-of-the-room/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/lower-the-temperature-of-the-room/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/lower-the-temperature-of-the-room/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/lower-the-temperature-of-the-room/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/lower-the-temperature-of-the-room/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/lower-the-temperature-of-the-room/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/lower-the-temperature-of-the-room/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/lower-the-temperature-of-the-room/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/lower-the-temperature-of-the-room/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/lower-the-temperature-of-the-room/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/lower-the-temperature-of-the-room/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/lower-the-temperature-of-the-room/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/lower-the-temperature-of-the-room/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/lower-the-temperature-of-the-room/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/lower-the-temperature-of-the-room/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/lower-the-temperature-of-the-room/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/lower-the-temperature-of-the-room/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/lower-the-temperature-of-the-room/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/lower-the-temperature-of-the-room/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/lower-the-temperature-of-the-room/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/lower-the-temperature-of-the-room/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/lower-the-temperature-of-the-room/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/lower-the-temperature-of-the-room/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/lower-the-temperature-of-the-room/clips/sources_0.mp3"
+    }
+  }
+}
