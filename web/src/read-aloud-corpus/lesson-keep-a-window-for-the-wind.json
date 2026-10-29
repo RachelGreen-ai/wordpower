@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-a-window-for-the-wind",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep a Window for the Wind",
+    "zh": "为风留一扇窗"
+  },
+  "subtitle": {
+    "en": "An original reflection on attention, uncertainty, and the intelligence of leaving room.",
+    "zh": "一篇关于专注、不确定性，以及懂得留白之智慧的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Attention",
+    "Nature",
+    "Uncertainty",
+    "Calm",
+    "Perspective"
+  ],
+  "sources": [
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for deliberate attention to ordinary nature; the lesson itself is wholly original.",
+        "zh": "灵感来自这部公开领域作品中对日常自然的有意观察；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with spacious attention. Let the room, the weather, and the pauses feel equally alive.",
+    "zh": "带着开阔的注意力朗读。让房间、天气与停顿都同样鲜活。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Room That Could Breathe",
+      "zh": "会呼吸的房间"
+    },
+    "intro": {
+      "en": "This original passage follows an architect who learns that a good plan must sometimes admit what it cannot control.",
+      "zh": "这篇原创文章写一位建筑师如何明白：好的方案有时必须容纳自己无法控制的事物。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Perfectly Sealed Room",
+          "zh": "1. 密不透风的房间"
+        },
+        "text": "Mara designed a small reading room for a school beside the sea. She planned every detail: low shelves, warm lamps, cork beneath the chairs, and windows thick enough to silence the road. On the screen, the room looked complete. Nothing entered without permission. Yet when she visited after opening day, the air felt strangely tired. Children stayed for ten minutes, then wandered out. Their teacher opened a narrow window that Mara had marked for emergencies. At once, a salt wind lifted the paper leaves of a student display. A boy looked up from his book and smiled. The room had not become quieter. It had become awake.",
+        "coaching": {
+          "en": "Begin with controlled precision. Pause after nothing entered without permission, then let the wind brighten the pace.",
+          "zh": "开头读得克制而精确。在 nothing entered without permission 后停顿，再让风使节奏明亮起来。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. What the Plan Forgot",
+          "zh": "2. 方案忘记了什么"
+        },
+        "text": "Mara had treated attention as something that needed protection from the world. Often it does. A closed door can rescue an hour; a silenced phone can return a thought to us. But protection can harden into control. The mind does not flourish merely because interruption has been defeated. It also needs contact: a change of light, a distant gull, the cool edge of weather on the skin. These small arrivals do not always steal attention. Sometimes they renew it. They remind the body where it is, and the mind discovers that concentration is not a wall. It is a living agreement between what we choose and what the world offers.",
+        "coaching": {
+          "en": "Keep the contrast balanced, not argumentative. Stress protection, control, and living agreement.",
+          "zh": "对比要平衡，不要读成争辩。重读 protection、control 与 living agreement。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Unscheduled Visitor",
+          "zh": "3. 未经安排的访客"
+        },
+        "text": "The next week, rain arrived during a class. It tapped the metal sill, softly at first, then with the confidence of many fingers. The teacher did not close the window immediately. She asked the children to listen for three breaths. One child heard a drum. Another heard seeds falling into a jar. Then they returned to their pages, and the room settled more deeply than before. Mara watched from the doorway. She understood that not every useful moment can be designed in advance. A plan gives shape to possibility, but it should not consume possibility. There must be a hinge, a margin, some modest place where reality is allowed to answer back.",
+        "coaching": {
+          "en": "Make the rain audible through rhythm. Slow down for the final three-part list.",
+          "zh": "用节奏让雨声可听。在最后的三项排比处放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Practice of Openings",
+          "zh": "4. 留出开口的练习"
+        },
+        "text": "Mara changed the window label. Instead of Emergency Use, it now read Weather Window. The children developed a habit: once each afternoon, someone opened it and reported what the air was doing. Cold and silver. Warm with traffic. Carrying cut grass. Their words became more exact because the world kept refusing to repeat itself. We also live in rooms of our own design—calendars, opinions, routines, explanations. They shelter us, but they can grow airless. Leave one opening. Let a fact revise the story. Let another person finish an unexpected sentence. Let the morning alter your pace. Attention is not proved by shutting everything out. Sometimes its finest form is the courage to notice what has entered.",
+        "coaching": {
+          "en": "Give the weather reports crisp color. Build gentle conviction through the final invitations without sounding preachy.",
+          "zh": "天气描述要简洁有色彩。最后的邀请句逐渐增强信念感，但不要说教。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "sealed",
+      "meaning": {
+        "en": "closed completely so that air or liquid cannot enter",
+        "zh": "密封的；完全关闭以阻止空气或液体进入"
+      },
+      "use": {
+        "en": "The documents remained in a sealed envelope.",
+        "zh": "文件一直装在密封的信封里。"
+      }
+    },
+    {
+      "term": "flourish",
+      "meaning": {
+        "en": "to grow or develop successfully",
+        "zh": "蓬勃发展；茁壮成长"
+      },
+      "use": {
+        "en": "Ideas flourish when people feel safe to question.",
+        "zh": "当人们能够安心提问时，思想便会蓬勃生长。"
+      }
+    },
+    {
+      "term": "renew",
+      "meaning": {
+        "en": "to restore strength, freshness, or energy",
+        "zh": "使恢复活力；更新"
+      },
+      "use": {
+        "en": "A short walk renewed her concentration.",
+        "zh": "短暂散步让她重新集中注意力。"
+      }
+    },
+    {
+      "term": "margin",
+      "meaning": {
+        "en": "extra space or time left around what is necessary",
+        "zh": "余量；必要部分之外留出的空间或时间"
+      },
+      "use": {
+        "en": "Leave a margin for unexpected delays.",
+        "zh": "为意外延误留出余量。"
+      }
+    },
+    {
+      "term": "airless",
+      "meaning": {
+        "en": "lacking fresh air or a sense of openness",
+        "zh": "不通风的；缺乏开放感的"
+      },
+      "use": {
+        "en": "The discussion became airless and repetitive.",
+        "zh": "讨论变得沉闷而重复。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "to change something after considering new information",
+        "zh": "修正；根据新信息作出修改"
+      },
+      "use": {
+        "en": "We revised the plan after hearing the evidence.",
+        "zh": "听取证据后，我们修正了计划。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link consonants smoothly in salt wind, distant gull, and cut grass.",
+      "zh": "在 salt wind、distant gull 与 cut grass 中自然连接辅音。"
+    },
+    {
+      "en": "Use contrastive stress in not a wall, but a living agreement.",
+      "zh": "在 not a wall, but a living agreement 中使用对比重音。"
+    },
+    {
+      "en": "Keep the final consonants clear in sealed, world, and finest.",
+      "zh": "清楚读出 sealed、world 与 finest 的尾辅音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a thoughtful observer opening a room to weather: calm, precise, and quietly receptive.",
+      "zh": "跟读时像一位把房间向天气打开的观察者：平静、准确而安然接纳。"
+    },
+    "steps": [
+      {
+        "en": "Give physical details enough space to appear.",
+        "zh": "给具体细节留出足够的呈现空间。"
+      },
+      {
+        "en": "Let each contrast turn clearly without becoming sharp.",
+        "zh": "让每一次转折清楚发生，但不要读得尖锐。"
+      },
+      {
+        "en": "End with openness rather than certainty.",
+        "zh": "结尾要开放，而不是斩钉截铁。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What part of your routine has become too tightly sealed?",
+      "zh": "你的日常中，哪一部分已经封闭得太严？"
+    },
+    {
+      "en": "What unexpected arrival recently renewed your attention?",
+      "zh": "最近有什么意外到来之物重新唤醒了你的注意力？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-window-for-the-wind/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-window-for-the-wind/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-window-for-the-wind/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-window-for-the-wind/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-window-for-the-wind/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-a-window-for-the-wind/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-a-window-for-the-wind/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-window-for-the-wind/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-window-for-the-wind/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-window-for-the-wind/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-window-for-the-wind/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-window-for-the-wind/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-window-for-the-wind/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-window-for-the-wind/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-window-for-the-wind/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-window-for-the-wind/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-window-for-the-wind/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-window-for-the-wind/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-window-for-the-wind/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-window-for-the-wind/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-window-for-the-wind/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-window-for-the-wind/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-window-for-the-wind/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-window-for-the-wind/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-window-for-the-wind/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-window-for-the-wind/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-window-for-the-wind/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-window-for-the-wind/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-window-for-the-wind/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-window-for-the-wind/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-window-for-the-wind/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-window-for-the-wind/clips/sources_0.mp3"
+    }
+  }
+}

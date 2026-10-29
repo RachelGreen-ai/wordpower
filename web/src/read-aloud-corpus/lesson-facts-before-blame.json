@@ -1,0 +1,244 @@
+{
+  "lessonId": "facts-before-blame",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Facts Before Blame",
+    "zh": "先找事实，再谈责任"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm leadership, accountability, and making a crisis usable.",
+    "zh": "一篇关于冷静领导、担当，以及如何让危机重新可处理的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Leadership",
+    "Communication",
+    "Courage",
+    "Accountability",
+    "Composure"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration for composure and principled action; the lesson itself is wholly original.",
+        "zh": "灵感来自这部公开领域作品中关于镇定与依原则行动的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded authority. Keep urgency clear, but let firmness come from precise words rather than volume.",
+    "zh": "带着沉稳的权威感朗读。紧迫感要清楚，但让坚定来自准确的措辞，而不是音量。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Meeting After the Alarm",
+      "zh": "警报之后的会议"
+    },
+    "intro": {
+      "en": "This original passage follows a team leader who discovers that calm speech can carry a hard truth farther than anger.",
+      "zh": "这篇原创文章写一位团队负责人如何发现：冷静的表达能让艰难的真相走得比愤怒更远。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Red Screen",
+          "zh": "1. 变红的屏幕"
+        },
+        "text": "At 4:17 on a Thursday afternoon, every monitor in the control room turned red. A software release had stopped thousands of customers from completing their orders. Messages arrived faster than anyone could answer them. Ravi, the operations lead, called the engineers into a glass meeting room. One manager entered already speaking loudly. He wanted a name, a mistake, and a promise that the system would be fixed in ten minutes. The room tightened around his urgency. Ravi felt the same fear, but he placed both hands on the table and said, quietly, We need facts before blame. The sentence did not remove the danger. It gave the danger a shape they could work with.",
+        "coaching": {
+          "en": "Build pressure through the opening details. Make We need facts before blame low, slow, and unmistakable.",
+          "zh": "用开头的细节逐渐制造压力。We need facts before blame 要读得低沉、缓慢而明确。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Heat and Direction",
+          "zh": "2. 热度与方向"
+        },
+        "text": "Anger can feel like action because it fills the body with energy. It sharpens the face, speeds the pulse, and makes every sentence seem urgent. But energy is not direction. In a crisis, heat may expose what matters, yet too much heat destroys useful detail. Ravi asked three questions: What changed? What still works? What can we reverse safely? The engineers began answering in order. One found a failed payment setting. Another located the last stable version. The loud manager interrupted twice, and twice Ravi said, I will hear your concern after this answer. He did not apologize for the boundary, and he did not decorate it with hostility.",
+        "coaching": {
+          "en": "Contrast heat with direction clearly. Keep Ravi's boundary courteous, brief, and final.",
+          "zh": "清楚读出 heat 与 direction 的对比。Ravi 的界限要礼貌、简短而明确。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. A Voice People Can Use",
+          "zh": "3. 让人用得上的声音"
+        },
+        "text": "The rollback took twenty-six minutes. During that time, Ravi narrated only what the team knew. He refused to offer certainty they had not earned. Customers received an honest update; executives received a short timeline; the engineers received enough quiet to think. Calm did not mean pretending the failure was small. Ravi named its cost and the decisions that had allowed it. But he separated accountability from humiliation. Accountability asks us to face cause and consequence. Humiliation turns a person into the whole problem. One improves the next decision. The other teaches everyone nearby to hide the next mistake.",
+        "coaching": {
+          "en": "Keep the timeline factual. Slow down for the distinction between accountability and humiliation.",
+          "zh": "时间线读得客观。在 accountability 与 humiliation 的区别处放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Strength That Remains",
+          "zh": "4. 留下来的力量"
+        },
+        "text": "The system returned before sunset. The following morning, Ravi began the review with his own omission: he had approved a release process with too few safeguards. Then he asked each person to describe one repair. No one escaped responsibility, and no one had to perform shame. The meeting ended with a better checklist and a quieter room. We often imagine firmness as a raised voice, a slammed door, a sentence that leaves no survivor. Yet durable firmness is less theatrical. It says what happened, what must change, and what will not be accepted again. It leaves dignity in the room because dignity is not the enemy of standards. Facts before blame does not mean facts instead of responsibility. It means finding the truth clearly enough that responsibility can repair something.",
+        "coaching": {
+          "en": "Let Ravi's admission sound direct, not dramatic. Finish with steady authority and practical hope.",
+          "zh": "Ravi 的承认要直接，不要戏剧化。结尾要有稳定的权威感与务实的希望。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "urgency",
+      "meaning": {
+        "en": "the quality of needing immediate attention",
+        "zh": "紧迫性；需要立即处理的状态"
+      },
+      "use": {
+        "en": "The message conveyed urgency without panic.",
+        "zh": "这条信息传达了紧迫感，却没有引发恐慌。"
+      }
+    },
+    {
+      "term": "reverse",
+      "meaning": {
+        "en": "to return an action or process to an earlier state",
+        "zh": "撤销；使过程恢复到较早状态"
+      },
+      "use": {
+        "en": "The team reversed the risky update.",
+        "zh": "团队撤销了有风险的更新。"
+      }
+    },
+    {
+      "term": "hostility",
+      "meaning": {
+        "en": "unfriendly or aggressive behavior",
+        "zh": "敌意；不友好或攻击性的态度"
+      },
+      "use": {
+        "en": "She disagreed without hostility.",
+        "zh": "她表达了不同意见，却没有敌意。"
+      }
+    },
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "responsibility for actions and their results",
+        "zh": "担当；对行动及其结果负责"
+      },
+      "use": {
+        "en": "Accountability includes repairing the damage.",
+        "zh": "真正的担当包括修复造成的损害。"
+      }
+    },
+    {
+      "term": "humiliation",
+      "meaning": {
+        "en": "the painful experience of being made to feel ashamed",
+        "zh": "羞辱；被迫感到难堪的痛苦经历"
+      },
+      "use": {
+        "en": "Correction does not require humiliation.",
+        "zh": "纠正错误并不需要羞辱他人。"
+      }
+    },
+    {
+      "term": "durable",
+      "meaning": {
+        "en": "able to remain strong or useful for a long time",
+        "zh": "持久的；长期保持坚固或有用的"
+      },
+      "use": {
+        "en": "Trust is more durable than fear.",
+        "zh": "信任比恐惧更持久。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep final consonants clear in facts, stopped, and ground.",
+      "zh": "清楚读出 facts、stopped 与 ground 的尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress in energy is not direction.",
+      "zh": "在 energy is not direction 中使用对比重音。"
+    },
+    {
+      "en": "Let the three questions rise slightly, then land firmly on safely.",
+      "zh": "三个问题的语调略微上扬，并在 safely 处稳稳落下。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a leader making a difficult room usable: composed, exact, and humane.",
+      "zh": "跟读时像一位让艰难会议重新可运作的领导者：镇定、准确而有人情味。"
+    },
+    "steps": [
+      {
+        "en": "Keep urgent details quick but intelligible.",
+        "zh": "紧急细节读得快，但必须清晰。"
+      },
+      {
+        "en": "Lower your pitch when setting a boundary.",
+        "zh": "设定界限时降低音高。"
+      },
+      {
+        "en": "Give the final distinction strength without aggression.",
+        "zh": "让最后的区分有力量，却没有攻击性。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where would facts help you replace blame with useful responsibility?",
+      "zh": "在哪件事上，事实能帮助你用有效的担当取代指责？"
+    },
+    {
+      "en": "How can you protect dignity without lowering standards?",
+      "zh": "你可以如何在不降低标准的同时保护尊严？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/facts-before-blame/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/facts-before-blame/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/facts-before-blame/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/facts-before-blame/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/facts-before-blame/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/facts-before-blame/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/facts-before-blame/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/facts-before-blame/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/facts-before-blame/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/facts-before-blame/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/facts-before-blame/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/facts-before-blame/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/facts-before-blame/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/facts-before-blame/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/facts-before-blame/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/facts-before-blame/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/facts-before-blame/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/facts-before-blame/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/facts-before-blame/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/facts-before-blame/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/facts-before-blame/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/facts-before-blame/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/facts-before-blame/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/facts-before-blame/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/facts-before-blame/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/facts-before-blame/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/facts-before-blame/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/facts-before-blame/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/facts-before-blame/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/facts-before-blame/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/facts-before-blame/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/facts-before-blame/clips/sources_0.mp3"
+    }
+  }
+}

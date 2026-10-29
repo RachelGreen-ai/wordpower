@@ -60,6 +60,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 
 - [Answer with Room](https://wordpower-seven.vercel.app/read-aloud/answer-with-room): An original reflection on keeping dignity and clarity inside a difficult conversation.
 - [Ask the Candle Why](https://wordpower-seven.vercel.app/read-aloud/ask-the-candle-why): An original reflection on scientific curiosity, patient questions, and the wonder hidden in ordinary things.
+- [Ask the Experiment](https://wordpower-seven.vercel.app/read-aloud/ask-the-experiment): An original reflection on learning, intellectual humility, and the courage to test a cherished idea.
 - [Ask the Unpolished Question](https://wordpower-seven.vercel.app/read-aloud/ask-the-unpolished-question): An original reflection on learning aloud, useful uncertainty, and the courage to be briefly inexperienced.
 - [A Quiet Morning Teaches Attention.](https://wordpower-seven.vercel.app/read-aloud/attention-quiet-morning): A three-to-five-minute passage for practicing calm observation, nature vocabulary, and gentle oral rhythm.
 - [Before You Name the Stranger](https://wordpower-seven.vercel.app/read-aloud/before-you-name-the-stranger): An original reflection on moral imagination, incomplete stories, and the discipline of humane attention.
@@ -77,6 +78,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [The Courage to Revise](https://wordpower-seven.vercel.app/read-aloud/courage-to-revise): An original passage on learning, intellectual humility, and changing your mind without losing yourself.
 - [Cross the Street Before Judging](https://wordpower-seven.vercel.app/read-aloud/cross-the-street-before-judging): An original reflection on moral imagination, neighborhood knowledge, and the discipline of seeing from nearby.
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
+- [Facts Before Blame](https://wordpower-seven.vercel.app/read-aloud/facts-before-blame): An original reflection on calm leadership, accountability, and making a crisis usable.
 - [Freedom Needs an Inner Home.](https://wordpower-seven.vercel.app/read-aloud/freedom-needs-inner-home): A Fromm-inspired reflective passage on why freedom can feel frightening unless the self has somewhere to stand.
 - [Give the Child a Real Task](https://wordpower-seven.vercel.app/read-aloud/give-the-child-a-real-task): An original reflection on trust, capable hands, and the dignity of contributing to family life.
 - [Give the Idea a Smaller Room](https://wordpower-seven.vercel.app/read-aloud/give-the-idea-a-smaller-room): An original reflection on how creative limits can turn hesitation into invention.
@@ -87,6 +89,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Keep a Light in the Window](https://wordpower-seven.vercel.app/read-aloud/keep-a-light-in-the-window): An original reflection on hospitality, belonging, and the quiet courage of making room.
 - [Keep a Private Measure](https://wordpower-seven.vercel.app/read-aloud/keep-a-private-measure): An original reflection on self-trust, borrowed standards, and the quiet discipline of choosing what counts.
 - [Keep a Window for the Unknown](https://wordpower-seven.vercel.app/read-aloud/keep-a-window-for-the-unknown): An original reflection on experiment, intellectual humility, and the pleasure of a question that survives its first answer.
+- [Keep a Window for the Wind](https://wordpower-seven.vercel.app/read-aloud/keep-a-window-for-the-wind): An original reflection on attention, uncertainty, and the intelligence of leaving room.
 - [Keep One Chair Empty](https://wordpower-seven.vercel.app/read-aloud/keep-one-chair-empty): An original reflection on composure, disagreement, and leaving room for a better interpretation.
 - [Keep One Promise to Yourself](https://wordpower-seven.vercel.app/read-aloud/keep-one-promise-to-yourself): An original reflection on self-trust, modest habits, and becoming someone whose own word has weight.
 - [Keep One Question in Your Pocket](https://wordpower-seven.vercel.app/read-aloud/keep-one-question-in-your-pocket): An original reflection on useful uncertainty, patient learning, and questions that mature beside our work.

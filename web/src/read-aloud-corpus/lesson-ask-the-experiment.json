@@ -1,0 +1,244 @@
+{
+  "lessonId": "ask-the-experiment",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Ask the Experiment",
+    "zh": "去问实验"
+  },
+  "subtitle": {
+    "en": "An original reflection on learning, intellectual humility, and the courage to test a cherished idea.",
+    "zh": "一篇关于学习、求知谦逊，以及检验珍爱观点之勇气的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Learning",
+    "Curiosity",
+    "Humility",
+    "Career"
+  ],
+  "sources": [
+    {
+      "title": "Experimental Researches in Electricity, Volume 1",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14986",
+      "note": {
+        "en": "Public-domain inspiration for patient experiment and disciplined observation; the lesson itself is wholly original.",
+        "zh": "灵感来自这部公开领域作品中耐心实验与严谨观察的精神；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert curiosity. Let each observation feel concrete, and make uncertainty sound like an invitation to look again.",
+    "zh": "带着敏锐的好奇心朗读。让每个观察都具体，并把不确定读成再次察看的邀请。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Magnet That Said No",
+      "zh": "说“不”的磁铁"
+    },
+    "intro": {
+      "en": "This original passage follows a young engineer whose failed demonstration becomes a lesson in how evidence teaches.",
+      "zh": "这篇原创文章写一位年轻工程师如何从失败的演示中学会聆听证据。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Beautiful Explanation",
+          "zh": "1. 一个漂亮的解释"
+        },
+        "text": "Nina had built a small magnetic sensor for a greenhouse door. When the door opened, a magnet moved away from a circuit, and a fan began to turn. Her explanation was elegant enough for a whiteboard: distance changed the field, the sensor noticed, the fan responded. On demonstration day, twelve colleagues gathered around the workbench. Nina opened the door. Nothing happened. She closed it and tried again. The fan remained still, as if it had never heard of her beautiful explanation. Someone suggested a loose wire. Someone else blamed the battery. Nina felt heat rise into her face. She wanted the problem to be small because her story was already complete.",
+        "coaching": {
+          "en": "Make the explanation neat and confident. Pause after Nothing happened, then let embarrassment enter without melodrama.",
+          "zh": "解释要读得利落自信。在 Nothing happened 后停顿，再让尴尬自然进入，不要戏剧化。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Refusing the Convenient Answer",
+          "zh": "2. 拒绝方便的答案"
+        },
+        "text": "Her mentor, Tomas, did not touch the machine. He asked Nina to name what she had observed, not what she believed had occurred. The distinction felt annoying and exact. She had observed that the fan did not turn. She had not observed a dead battery, a broken wire, or a weak field. They tested each possibility. The battery was charged. The wire carried current. The sensor responded when the magnet approached from one side but not the other. Nina rotated the magnet, and the fan started immediately. The failure had not insulted her idea. It had revealed a condition her idea had ignored.",
+        "coaching": {
+          "en": "Keep Tomas patient and exact. Give each test equal weight, then brighten on the moment the fan starts.",
+          "zh": "Tomas 要读得耐心而精确。每项测试分量相同，在风扇启动时让语气明亮起来。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Evidence Has Manners of Its Own",
+          "zh": "3. 证据有自己的规矩"
+        },
+        "text": "Evidence is often described as cold, but Nina found it oddly generous. It did not demand that she feel foolish. It simply refused to cooperate with a false description. A good experiment gives reality a clean opportunity to disagree with us. That is why its design matters. If we change five things at once, success flatters us and failure confuses us. If we change one thing, record what happens, and repeat the test, the world can answer in a voice we recognize. The answer may still be incomplete. Yet a precise no is more useful than a vague yes, because it shows the edge of what we understand.",
+        "coaching": {
+          "en": "Read the opening with warmth. Stress clean opportunity, one thing, and precise no.",
+          "zh": "开头要读出温度。重读 clean opportunity、one thing 与 precise no。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Career of Better Questions",
+          "zh": "4. 用更好的问题成就职业"
+        },
+        "text": "Nina added an alignment mark to the device and rewrote her instructions. More importantly, she changed the way she presented new work. Instead of saying, This proves my design is right, she began with, Here is what this test can tell us. The sentence sounded less impressive, but it made stronger work possible. In laboratories, offices, classrooms, and kitchens, we are always running small experiments. We try a schedule, a recipe, a hiring question, a new way to apologize. Learning begins when the result is allowed to be information rather than a verdict on our intelligence. Protect your curiosity more carefully than your conclusion. When an idea matters, do not ask applause to confirm it. Ask the experiment. Then be brave enough to hear the answer.",
+        "coaching": {
+          "en": "Let Nina's new phrasing sound modest and capable. Build the examples lightly, then finish with clear courage.",
+          "zh": "Nina 的新说法要谦逊而有能力感。例子轻快推进，最后以清醒的勇气收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "sensor",
+      "meaning": {
+        "en": "a device that detects or measures a physical change",
+        "zh": "传感器；检测或测量物理变化的装置"
+      },
+      "use": {
+        "en": "The sensor detected movement near the door.",
+        "zh": "传感器检测到门边的移动。"
+      }
+    },
+    {
+      "term": "elegant",
+      "meaning": {
+        "en": "simple, effective, and pleasingly designed",
+        "zh": "精巧的；简洁、有效且设计优美的"
+      },
+      "use": {
+        "en": "They found an elegant solution to the problem.",
+        "zh": "他们为这个问题找到了一个精巧的解决方案。"
+      }
+    },
+    {
+      "term": "distinction",
+      "meaning": {
+        "en": "a clear difference between two similar things",
+        "zh": "区别；相似事物之间的清楚差异"
+      },
+      "use": {
+        "en": "The distinction between facts and guesses matters.",
+        "zh": "事实与猜测之间的区别很重要。"
+      }
+    },
+    {
+      "term": "cooperate",
+      "meaning": {
+        "en": "to work together or behave in the expected way",
+        "zh": "合作；按预期方式运作"
+      },
+      "use": {
+        "en": "The old printer refused to cooperate.",
+        "zh": "那台旧打印机就是不肯正常工作。"
+      }
+    },
+    {
+      "term": "alignment",
+      "meaning": {
+        "en": "the correct positioning of parts in relation to one another",
+        "zh": "对齐；各部分之间的正确位置关系"
+      },
+      "use": {
+        "en": "Check the wheel alignment before driving.",
+        "zh": "开车前检查车轮定位。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "a final judgment or decision",
+        "zh": "裁决；最终判断"
+      },
+      "use": {
+        "en": "One poor result is not a verdict on your ability.",
+        "zh": "一次不佳的结果并不是对你能力的最终判决。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep consonant clusters clear in field, twelve colleagues, and precise no.",
+      "zh": "清楚读出 field、twelve colleagues 与 precise no 中的辅音组合。"
+    },
+    {
+      "en": "Use contrastive stress in what she observed, not what she believed.",
+      "zh": "在 what she observed, not what she believed 中使用对比重音。"
+    },
+    {
+      "en": "Stress the second syllable in cooperate and alignment.",
+      "zh": "cooperate 与 alignment 的第二音节要重读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a scientist sharing a useful surprise: curious, disciplined, and free of embarrassment.",
+      "zh": "跟读时像一位分享有益意外的科学家：好奇、严谨而不窘迫。"
+    },
+    "steps": [
+      {
+        "en": "Make the failed demonstration easy to picture.",
+        "zh": "让失败的演示清晰可见。"
+      },
+      {
+        "en": "Give the sequence of tests a measured rhythm.",
+        "zh": "让一连串测试保持有分寸的节奏。"
+      },
+      {
+        "en": "Let uncertainty sound capable, not weak.",
+        "zh": "让不确定听起来有能力，而不是软弱。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What belief could you turn into a small, fair experiment?",
+      "zh": "你可以把哪个观点变成一个小而公平的实验？"
+    },
+    {
+      "en": "When has a precise no taught you more than a vague yes?",
+      "zh": "什么时候，一个明确的“不”比含糊的“是”教会了你更多？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/ask-the-experiment/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/ask-the-experiment/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/ask-the-experiment/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/ask-the-experiment/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/ask-the-experiment/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/ask-the-experiment/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/ask-the-experiment/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/ask-the-experiment/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/ask-the-experiment/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/ask-the-experiment/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/ask-the-experiment/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/ask-the-experiment/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/ask-the-experiment/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/ask-the-experiment/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/ask-the-experiment/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/ask-the-experiment/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/ask-the-experiment/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/ask-the-experiment/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/ask-the-experiment/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/ask-the-experiment/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/ask-the-experiment/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/ask-the-experiment/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/ask-the-experiment/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/ask-the-experiment/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/ask-the-experiment/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/ask-the-experiment/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/ask-the-experiment/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/ask-the-experiment/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/ask-the-experiment/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/ask-the-experiment/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/ask-the-experiment/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/ask-the-experiment/clips/sources_0.mp3"
+    }
+  }
+}
