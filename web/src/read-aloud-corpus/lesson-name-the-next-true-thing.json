@@ -1,0 +1,244 @@
+{
+  "lessonId": "name-the-next-true-thing",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Name the Next True Thing",
+    "zh": "说出下一件确定的事"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm communication, uncertainty, and the discipline of speaking clearly under pressure.",
+    "zh": "一篇原创美文：关于平静沟通、不确定性，以及在压力下清楚表达的自律。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Leadership",
+    "Uncertainty",
+    "Clarity",
+    "Work"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration for separating present facts from anxious interpretation; this lesson is wholly original and uses no source wording.",
+        "zh": "灵感来自这部公开领域作品对眼前事实与焦虑解读的区分；本课全文原创，不使用原文措辞。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded clarity. Short factual sentences should feel steady, while uncertain phrases remain open and honest.",
+    "zh": "以沉稳清晰的方式朗读。简短的事实句要稳定，不确定的表达则保持开放与诚实。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Handrail in the Fog",
+      "zh": "雾中的扶手"
+    },
+    "intro": {
+      "en": "This original passage offers a language practice for tense moments: state what is known, what is not, and what happens next.",
+      "zh": "这篇原创文章提供一种应对紧张时刻的语言练习：说清已知、未知，以及下一步。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When the Room Speeds Up",
+          "zh": "1. 当房间开始加速"
+        },
+        "text": "A project fails an important test on the morning of release. Messages multiply. Someone asks whether the launch is ruined; someone else begins explaining whose fault it is. Under pressure, language races ahead of evidence. A delay becomes a disaster, a mistake becomes a habit, and a difficult hour becomes a story about the future. The room does not need another prediction. It needs a handrail. A calm voice can provide one by naming the next true thing: The test failed at nine fifteen. We are checking whether the cause affects customer data. The next update will come in thirty minutes.",
+        "coaching": {
+          "en": "Build controlled urgency in the opening. Then make the three factual sentences slower, lower, and unmistakably clear.",
+          "zh": "开头读出受控的紧迫感。随后三个事实句要放慢、压低并读得格外清楚。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Separate Fact from Weather",
+          "zh": "2. 把事实与情绪天气分开"
+        },
+        "text": "Facts are not emotionless, and emotions are not errors. Fear may be entirely reasonable. Frustration may reveal a real cost. But feelings describe the weather inside us; they do not always describe the road. Say both without confusing them: I am concerned because we do not yet know the scope. The concern is real. So is the phrase do not yet know. That small distinction protects the conversation from false certainty. It also protects trust. People can tolerate unwelcome news more easily than language that keeps changing its claim. Accuracy is a form of steadiness others can lean on.",
+        "coaching": {
+          "en": "Avoid sounding clinical. Give feelings warmth, facts clean edges, and stress the modest but vital phrase do not yet know.",
+          "zh": "不要读得像临床报告。情绪要有温度，事实要轮廓清晰，并重读朴素却关键的 do not yet know。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Make the Next Step Visible",
+          "zh": "3. 让下一步看得见"
+        },
+        "text": "Uncertainty becomes heavier when nobody knows what to do with the next ten minutes. A useful leader makes action visible. Mina will reproduce the error. Theo will compare the last stable build. I will tell support what we know and what we are still investigating. Clear ownership is not theatre; it reduces the number of decisions each person must carry. Avoid promises that borrow confidence from the future. Say, We expect to decide by noon, not, Everything will be fine. Hope is strongest when it has a task, a name, and a time attached to it.",
+        "coaching": {
+          "en": "Give each assignment a crisp rhythm. Contrast the two promises clearly, and let the final sentence sound practical rather than inspirational.",
+          "zh": "每项分工都要读得利落。清楚对比两种承诺，末句要实用，不要像口号。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Update Without Defending",
+          "zh": "4. 更新信息，不急于辩护"
+        },
+        "text": "Later, new evidence may correct the first account. This is not a failure of calm communication; it is part of it. Say what changed. Earlier, we believed the issue was isolated. The new test shows a wider effect, so we are postponing the release. Do not bury the change beneath excuses or decorate it with certainty you no longer possess. A trustworthy voice is allowed to revise itself. Its strength comes from loyalty to reality, not loyalty to appearing right. In fog, we cannot promise the whole road. We can keep one hand on the facts, place the other on the next responsible action, and help the room move together.",
+        "coaching": {
+          "en": "Read the correction without embarrassment or defensiveness. Broaden the pace in the final image and finish on together with quiet confidence.",
+          "zh": "读修正信息时不要尴尬或防御。最后的意象要放宽节奏，在 together 上平静而自信地收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "scope",
+      "meaning": {
+        "en": "The full range or extent of a problem or activity.",
+        "zh": "范围；问题或活动涉及的全部程度。"
+      },
+      "use": {
+        "en": "We are still assessing the scope of the issue.",
+        "zh": "我们仍在评估问题的影响范围。"
+      }
+    },
+    {
+      "term": "distinction",
+      "meaning": {
+        "en": "A clear difference between two related ideas.",
+        "zh": "区别；两个相关概念之间的清晰差异。"
+      },
+      "use": {
+        "en": "That distinction keeps the report accurate.",
+        "zh": "这个区别让报告保持准确。"
+      }
+    },
+    {
+      "term": "ownership",
+      "meaning": {
+        "en": "Clear responsibility for an action or result.",
+        "zh": "责任归属；对行动或结果承担明确责任。"
+      },
+      "use": {
+        "en": "Clear ownership helped the team respond quickly.",
+        "zh": "明确的责任归属帮助团队迅速行动。"
+      }
+    },
+    {
+      "term": "reproduce",
+      "meaning": {
+        "en": "To make an event or technical problem happen again for examination.",
+        "zh": "复现；让事件或技术问题再次出现以便检查。"
+      },
+      "use": {
+        "en": "Can you reproduce the error on another device?",
+        "zh": "你能在另一台设备上复现这个错误吗？"
+      }
+    },
+    {
+      "term": "postpone",
+      "meaning": {
+        "en": "To arrange for something to happen at a later time.",
+        "zh": "推迟；把某事安排到更晚的时间。"
+      },
+      "use": {
+        "en": "We chose to postpone the release until Friday.",
+        "zh": "我们决定把发布推迟到周五。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To change an opinion, plan, or text after receiving new information.",
+        "zh": "修正；根据新信息改变观点、计划或文本。"
+      },
+      "use": {
+        "en": "New evidence led us to revise the plan.",
+        "zh": "新证据促使我们修正了计划。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use firm sentence stress in The test failed, We are checking, and The next update will come.",
+      "zh": "在 The test failed、We are checking 和 The next update will come 中使用清晰的句子重音。"
+    },
+    {
+      "en": "Link smoothly in what we know and what we are still investigating.",
+      "zh": "在 what we know and what we are still investigating 中自然连读。"
+    },
+    {
+      "en": "Keep the contrast clear between We expect to decide and Everything will be fine.",
+      "zh": "清楚读出 We expect to decide 与 Everything will be fine 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if colleagues are relying on your voice to understand a tense situation without panic or false reassurance.",
+      "zh": "跟读时，想象同事正依靠你的声音，在不恐慌也不被虚假安慰的情况下理解紧张局面。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: pause cleanly between what is known, unknown, and next.",
+        "zh": "第一遍：在已知、未知和下一步之间清楚停顿。"
+      },
+      {
+        "en": "Pass two: make the action assignments concise and audible.",
+        "zh": "第二遍：把行动分工读得简洁、清楚。"
+      },
+      {
+        "en": "Pass three: revise the update aloud without sounding defensive.",
+        "zh": "第三遍：大声读出修正后的更新，不带防御语气。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What uncertain situation would become lighter if you named the next true thing?",
+      "zh": "哪种不确定局面，会因为你说出下一件确定的事而变得轻一些？"
+    },
+    {
+      "en": "How can you revise a claim while preserving trust?",
+      "zh": "你怎样在修正说法的同时维护信任？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/name-the-next-true-thing/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/name-the-next-true-thing/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/name-the-next-true-thing/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/name-the-next-true-thing/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/name-the-next-true-thing/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/name-the-next-true-thing/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/name-the-next-true-thing/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/name-the-next-true-thing/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/name-the-next-true-thing/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/name-the-next-true-thing/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/name-the-next-true-thing/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/name-the-next-true-thing/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/name-the-next-true-thing/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/name-the-next-true-thing/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/name-the-next-true-thing/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/name-the-next-true-thing/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/name-the-next-true-thing/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/name-the-next-true-thing/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/name-the-next-true-thing/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/name-the-next-true-thing/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/name-the-next-true-thing/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/name-the-next-true-thing/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/name-the-next-true-thing/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/name-the-next-true-thing/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/name-the-next-true-thing/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/name-the-next-true-thing/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/name-the-next-true-thing/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/name-the-next-true-thing/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/name-the-next-true-thing/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/name-the-next-true-thing/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/name-the-next-true-thing/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/name-the-next-true-thing/clips/sources_0.mp3"
+    }
+  }
+}

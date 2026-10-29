@@ -1,0 +1,244 @@
+{
+  "lessonId": "widen-the-frame-before-judgment",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Widen the Frame Before Judgment",
+    "zh": "判断之前，先把画面拉宽"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, careful judgment, and seeing a life from more than one room.",
+    "zh": "一篇原创美文：关于道德想象、审慎判断，以及从不止一个房间观看人生。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Empathy",
+    "Judgment",
+    "Perspective",
+    "Listening",
+    "Character"
+  ],
+  "sources": [
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/145",
+      "note": {
+        "en": "Public-domain inspiration for attending to the hidden complexity of ordinary lives; this lesson is entirely original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对普通人生隐秘复杂性的关注；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert compassion. Keep the concrete scenes clear, and let each change of perspective slightly alter your tone.",
+    "zh": "以清醒的同理心朗读。把具体场景读清楚，每次视角转换时都让语气发生细微变化。"
+  },
+  "passage": {
+    "title": {
+      "en": "The View We Do Not Have",
+      "zh": "我们尚未拥有的视角"
+    },
+    "intro": {
+      "en": "This original passage explores a practical form of empathy: widening the frame before we decide what another person means.",
+      "zh": "这篇原创文章探讨一种实用的同理心：在判断他人之前，先把画面拉宽。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The First Window",
+          "zh": "1. 第一扇窗"
+        },
+        "text": "From one office window, a colleague looks careless. She arrives late, misses a detail, and answers a simple question with unusual sharpness. The evidence seems complete because it is close at hand. We name the pattern, then quietly name the person: unreliable, difficult, selfish. Judgment is efficient in this way. It turns a crowded human scene into a clean label that fits inside the mind. Yet a window is not the whole building. It shows what passed before us, not what happened in the rooms beyond our sight. Wisdom begins when certainty notices its own narrow frame.",
+        "coaching": {
+          "en": "Keep the opening brisk and observational. Slow down at Yet a window is not the whole building, and give the final sentence quiet weight.",
+          "zh": "开头读得利落、客观。到 Yet a window is not the whole building 时放慢，末句要安静而有分量。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Missing Room",
+          "zh": "2. 看不见的房间"
+        },
+        "text": "Perhaps the late arrival began before dawn in a hospital corridor. Perhaps the missed detail followed a night spent calming a frightened child. Perhaps the sharp answer was not contempt but exhaustion wearing borrowed armor. We do not invent these possibilities to excuse every action. Consequences still matter; promises still need repair. Imagination serves a different purpose. It prevents one visible moment from claiming to be the entire truth. Before we deliver a verdict, we can ask one honest question: What part of this story might I be unable to see? The question does not weaken judgment. It gives judgment room to become accurate.",
+        "coaching": {
+          "en": "Let each perhaps open a distinct possibility. Read the boundary about consequences firmly, then make the honest question spacious rather than dramatic.",
+          "zh": "每个 perhaps 都要打开一种不同的可能。关于后果的边界要读得坚定，那个真诚问题则要舒展而不夸张。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask Without Trespassing",
+          "zh": "3. 询问，但不越界"
+        },
+        "text": "Curiosity can become another form of intrusion. No one owes us the private history behind every difficult day. A better question offers choice: You seem under pressure; is there anything I should understand, or any practical help that would be useful? The door may open, or it may remain closed. Either answer deserves respect. Moral imagination is not a demand for disclosure. It is the discipline of leaving a little unclaimed space around another person. In that space, we can address the missed deadline without attacking a character, name the hurt without pretending to know its source, and remain humane without becoming vague.",
+        "coaching": {
+          "en": "Make the offered question sound usable and unforced. Stress choice, respect, and discipline; keep the final list balanced and calm.",
+          "zh": "把那个问题读得自然、可用。重读 choice、respect 和 discipline；末尾的并列句要平衡而平静。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return to Your Own Window",
+          "zh": "4. 回到自己的窗前"
+        },
+        "text": "After borrowing another window, we return to our own with better proportions. The colleague may still need to apologize. We may still need a boundary, a plan, or a difficult conversation. But the purpose changes. We are no longer trying to reduce a person to the worst five minutes we witnessed. We are trying to restore workable trust between two complicated lives. This is slower than labeling and less satisfying than blame. It is also closer to reality. Each of us hopes to be seen with this generous precision: neither excused from responsibility nor imprisoned inside a single scene. Offer that view when you can. Someday, you will need to borrow it too.",
+        "coaching": {
+          "en": "Use steady authority through the practical actions. Warm the phrase generous precision, and finish the last sentence personally and simply.",
+          "zh": "谈到实际行动时保持沉稳有力。读暖 generous precision，最后一句要真诚、简洁。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A firm decision or judgment about someone or something.",
+        "zh": "定论；对人或事作出的明确判断。"
+      },
+      "use": {
+        "en": "Pause before turning one mistake into a verdict.",
+        "zh": "别急着把一次错误变成定论。"
+      }
+    },
+    {
+      "term": "intrusion",
+      "meaning": {
+        "en": "An unwelcome entry into another person's space or privacy.",
+        "zh": "侵扰；不受欢迎地进入他人的空间或隐私。"
+      },
+      "use": {
+        "en": "Concern should not become intrusion.",
+        "zh": "关心不应变成对隐私的侵扰。"
+      }
+    },
+    {
+      "term": "disclosure",
+      "meaning": {
+        "en": "The act of making private information known.",
+        "zh": "披露；把私人信息说出来。"
+      },
+      "use": {
+        "en": "Offer support without demanding disclosure.",
+        "zh": "提供支持，但不要强求对方披露隐私。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "A balanced sense of the true size or importance of something.",
+        "zh": "分寸；对事物真实大小或重要性的平衡判断。"
+      },
+      "use": {
+        "en": "Distance helped me recover a sense of proportion.",
+        "zh": "拉开距离后，我重新找回了分寸感。"
+      }
+    },
+    {
+      "term": "humane",
+      "meaning": {
+        "en": "Showing compassion while remaining thoughtful and responsible.",
+        "zh": "有人情味的；富有同情心且审慎负责的。"
+      },
+      "use": {
+        "en": "We need a solution that is both clear and humane.",
+        "zh": "我们需要一个既清晰又有人情味的解决办法。"
+      }
+    },
+    {
+      "term": "precision",
+      "meaning": {
+        "en": "The quality of being exact, careful, and accurate.",
+        "zh": "精确；细致而准确的品质。"
+      },
+      "use": {
+        "en": "Describe the problem with precision, not exaggeration.",
+        "zh": "准确描述问题，不要夸大。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in missed detail, difficult day, and workable trust.",
+      "zh": "读清 missed detail、difficult day 和 workable trust 中的词尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress in not contempt but exhaustion and neither excused nor imprisoned.",
+      "zh": "在 not contempt but exhaustion 和 neither excused nor imprisoned 中使用对比重音。"
+    },
+    {
+      "en": "Let the voice rise gently on the offered question, then settle on useful.",
+      "zh": "提出那个体贴的问题时语调轻轻上扬，在 useful 上平稳落下。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a thoughtful listener replace quick certainty with accurate compassion.",
+      "zh": "跟读时，想象你在帮助一位善于思考的听者，用准确的同理心取代仓促的确信。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: mark every shift from observation to possibility.",
+        "zh": "第一遍：标出每一次从观察转向可能性的变化。"
+      },
+      {
+        "en": "Pass two: keep the boundaries firm without making them cold.",
+        "zh": "第二遍：把边界读得坚定，但不要冰冷。"
+      },
+      {
+        "en": "Pass three: deliver the final paragraph in your own calm, mature voice.",
+        "zh": "第三遍：用你自己平静成熟的声音读出最后一段。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where have you mistaken one visible scene for a whole story?",
+      "zh": "你曾在哪件事上，把眼前的一幕误当成了完整故事？"
+    },
+    {
+      "en": "How can you name a problem precisely without reducing the person?",
+      "zh": "你怎样既准确指出问题，又不把一个人简化成问题本身？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/widen-the-frame-before-judgment/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/widen-the-frame-before-judgment/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/widen-the-frame-before-judgment/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/widen-the-frame-before-judgment/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/widen-the-frame-before-judgment/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/widen-the-frame-before-judgment/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/widen-the-frame-before-judgment/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/widen-the-frame-before-judgment/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/widen-the-frame-before-judgment/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/widen-the-frame-before-judgment/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/widen-the-frame-before-judgment/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/widen-the-frame-before-judgment/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/widen-the-frame-before-judgment/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/widen-the-frame-before-judgment/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/widen-the-frame-before-judgment/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/widen-the-frame-before-judgment/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/widen-the-frame-before-judgment/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/widen-the-frame-before-judgment/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/widen-the-frame-before-judgment/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/widen-the-frame-before-judgment/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/widen-the-frame-before-judgment/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/widen-the-frame-before-judgment/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/widen-the-frame-before-judgment/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/widen-the-frame-before-judgment/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/widen-the-frame-before-judgment/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/widen-the-frame-before-judgment/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/widen-the-frame-before-judgment/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/widen-the-frame-before-judgment/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/widen-the-frame-before-judgment/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/widen-the-frame-before-judgment/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/widen-the-frame-before-judgment/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/widen-the-frame-before-judgment/clips/sources_0.mp3"
+    }
+  }
+}

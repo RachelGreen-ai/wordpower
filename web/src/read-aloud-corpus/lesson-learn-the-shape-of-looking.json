@@ -1,0 +1,244 @@
+{
+  "lessonId": "learn-the-shape-of-looking",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Learn the Shape of Looking",
+    "zh": "学习观看的形状"
+  },
+  "subtitle": {
+    "en": "An original reflection on drawing, attention, and the patient craft of seeing what is actually there.",
+    "zh": "一篇原创美文：关于绘画、注意力，以及耐心看见真实事物的手艺。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Art",
+    "Attention",
+    "Practice",
+    "Observation",
+    "Learning"
+  ],
+  "sources": [
+    {
+      "title": "The Elements of Drawing",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30325",
+      "note": {
+        "en": "Public-domain inspiration for drawing as disciplined attention to visible form; this lesson is entirely original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品把绘画视为对可见形态的专注训练；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with visual curiosity. Let nouns feel precise, and give the slower acts of measuring, noticing, and correcting enough time.",
+    "zh": "带着视觉好奇心朗读。名词要准确，测量、观察与修正这些缓慢动作要留出足够时间。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Pencil Slows the Eye",
+      "zh": "铅笔让眼睛慢下来"
+    },
+    "intro": {
+      "en": "This original passage considers why drawing can train a voice and a mind: it teaches us to notice before we name.",
+      "zh": "这篇原创文章思考绘画为何能训练声音与心智：它教我们先观察，再命名。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Draw the Cup You Have",
+          "zh": "1. 画眼前这只杯子"
+        },
+        "text": "Place an ordinary cup on the table and try to draw it. At once, the mind offers a symbol: two upright lines, an oval, a handle like an ear. The symbol is efficient, recognizable, and mostly wrong. The left edge may lean. The opening may be narrower than memory suggests. The handle may disappear behind the body before returning as a small crescent of light. To draw the cup you have, rather than the cup you know, you must delay the comfort of naming. Look again. The object has been quiet all along; it is our certainty that has been noisy.",
+        "coaching": {
+          "en": "Make the list of assumed shapes quick and familiar. Slow down for the actual edges, and let Look again stand alone as a gentle instruction.",
+          "zh": "想当然的形状列表要读得快速熟悉。描写真实边缘时放慢，让 Look again 像一句温和而独立的指令。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Measure the Empty Space",
+          "zh": "2. 测量空白"
+        },
+        "text": "Beginners stare at the object and overlook the air around it. Yet empty space has shape. The triangle between handle and cup, the pale strip between base and shadow, the distance from rim to page edge: these absences can be measured. When the empty shapes become accurate, the object often settles into place. This is a useful surprise beyond drawing. In conversation, we hear words but miss the pause before an answer. In a schedule, we count appointments but ignore the recovery between them. Attention matures when it notices not only what occupies the frame, but what allows everything else to breathe.",
+        "coaching": {
+          "en": "Keep the spatial details exact and unhurried. Lighten the voice at useful surprise, then broaden the final sentence.",
+          "zh": "空间细节要准确、不慌不忙。到 useful surprise 时语气稍亮，末句则把声音铺开。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let the Line Be Corrected",
+          "zh": "3. 允许线条被修正"
+        },
+        "text": "A fearful hand tries to produce one perfect line. A practiced hand makes a light mark, compares it with the subject, and adjusts. The page keeps a faint history of these decisions. Correction is not evidence that the looking failed; it is evidence that the looking continued. This changes the emotional weather of practice. Instead of asking, Am I talented? we ask, What is different from what I expected? The second question returns us to the world. It gives the eye a task and the hand another chance. Skill grows through this humble loop: mark, compare, revise, and look once more.",
+        "coaching": {
+          "en": "Contrast fearful and practiced hands without judgment. Give the four final verbs equal, deliberate beats.",
+          "zh": "对比恐惧的手与熟练的手，但不要评判。最后四个动词要用均匀、从容的节拍读出。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry the Practice Outside",
+          "zh": "4. 把练习带到画纸之外"
+        },
+        "text": "You may close the sketchbook and never frame the drawing. The practice has already traveled further. On the walk home, you notice that winter branches are not brown but violet, silver, and green. At a meeting, you hear the exact moment a confident voice becomes uncertain. While listening to a friend, you resist replacing their experience with the familiar symbol in your mind. Art has sharpened attention without making it hard. You have learned that precision can be tender, that revision can be hopeful, and that the world becomes more various when we stop insisting we have already seen it. The pencil was only the beginning.",
+        "coaching": {
+          "en": "Let each observation arrive freshly. Warm the three lessons near the end, then finish the final sentence with modest wonder.",
+          "zh": "让每个观察都像初次发现。结尾附近的三点领悟要读得温暖，最后一句以克制的惊喜收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "crescent",
+      "meaning": {
+        "en": "A curved shape that is narrow at both ends, like a young moon.",
+        "zh": "新月形；两端尖窄的弯曲形状。"
+      },
+      "use": {
+        "en": "A crescent of light appeared beside the handle.",
+        "zh": "杯柄旁出现了一弯月牙般的光。"
+      }
+    },
+    {
+      "term": "overlook",
+      "meaning": {
+        "en": "To fail to notice something important.",
+        "zh": "忽略；没有注意到重要事物。"
+      },
+      "use": {
+        "en": "We often overlook the quiet space between events.",
+        "zh": "我们常常忽略事件之间的安静空隙。"
+      }
+    },
+    {
+      "term": "occupy",
+      "meaning": {
+        "en": "To fill or use a space, time, or position.",
+        "zh": "占据；填满或使用空间、时间或位置。"
+      },
+      "use": {
+        "en": "One worry can occupy the whole afternoon.",
+        "zh": "一桩担忧可能占据整个下午。"
+      }
+    },
+    {
+      "term": "faint",
+      "meaning": {
+        "en": "Slight, pale, or not strongly visible.",
+        "zh": "微弱的；浅淡而不明显的。"
+      },
+      "use": {
+        "en": "The paper kept a faint trace of the first line.",
+        "zh": "纸上留下了第一条线的淡淡痕迹。"
+      }
+    },
+    {
+      "term": "deliberate",
+      "meaning": {
+        "en": "Careful, intentional, and not hurried.",
+        "zh": "从容审慎的；有意而不匆忙的。"
+      },
+      "use": {
+        "en": "She answered in a deliberate voice.",
+        "zh": "她用从容审慎的语气回答。"
+      }
+    },
+    {
+      "term": "precision",
+      "meaning": {
+        "en": "Careful exactness in thought, speech, or action.",
+        "zh": "精准；思考、表达或行动中的细致准确。"
+      },
+      "use": {
+        "en": "Precision can make a description more tender.",
+        "zh": "精准能让描述更加温柔。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters clear in upright lines, pale strip, and practiced hand.",
+      "zh": "读清 upright lines、pale strip 和 practiced hand 中的辅音组合。"
+    },
+    {
+      "en": "Use small pauses in mark, compare, revise, and look once more.",
+      "zh": "在 mark, compare, revise, and look once more 的各动作之间作短暂停顿。"
+    },
+    {
+      "en": "Contrast the cup you have with the cup you know by stressing have and know.",
+      "zh": "重读 have 和 know，读出 the cup you have 与 the cup you know 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice were guiding someone's eye across a still life, patiently and precisely.",
+      "zh": "跟读时，想象你的声音正耐心而精准地引导某人的目光穿过一幅静物画。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every shape and distance visible in the rhythm.",
+        "zh": "第一遍：用节奏让每个形状与距离都清晰可见。"
+      },
+      {
+        "en": "Pass two: give correction a curious, hopeful tone.",
+        "zh": "第二遍：把修正读出好奇与希望。"
+      },
+      {
+        "en": "Pass three: carry the final observations into a warm, natural speaking voice.",
+        "zh": "第三遍：用温暖自然的口语声音说出最后那些观察。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar object could you look at again before naming it?",
+      "zh": "哪件熟悉的物品，值得你在命名之前重新看一遍？"
+    },
+    {
+      "en": "Where might correction be evidence that your attention continued?",
+      "zh": "在哪件事上，修正恰好能证明你的观察仍在继续？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/learn-the-shape-of-looking/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/learn-the-shape-of-looking/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/learn-the-shape-of-looking/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/learn-the-shape-of-looking/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/learn-the-shape-of-looking/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/learn-the-shape-of-looking/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/learn-the-shape-of-looking/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/learn-the-shape-of-looking/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/learn-the-shape-of-looking/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/learn-the-shape-of-looking/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/learn-the-shape-of-looking/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/learn-the-shape-of-looking/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/learn-the-shape-of-looking/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/learn-the-shape-of-looking/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/learn-the-shape-of-looking/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/learn-the-shape-of-looking/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/learn-the-shape-of-looking/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/learn-the-shape-of-looking/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/learn-the-shape-of-looking/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/learn-the-shape-of-looking/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/learn-the-shape-of-looking/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/learn-the-shape-of-looking/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/learn-the-shape-of-looking/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/learn-the-shape-of-looking/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/learn-the-shape-of-looking/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/learn-the-shape-of-looking/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/learn-the-shape-of-looking/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/learn-the-shape-of-looking/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/learn-the-shape-of-looking/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/learn-the-shape-of-looking/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/learn-the-shape-of-looking/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/learn-the-shape-of-looking/clips/sources_0.mp3"
+    }
+  }
+}

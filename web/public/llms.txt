@@ -97,6 +97,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Keep the Failed Sketch](https://wordpower-seven.vercel.app/read-aloud/keep-the-failed-sketch): An original reflection on experiments, useful mistakes, and learning to think with your hands.
 - [Lead from the Work](https://wordpower-seven.vercel.app/read-aloud/lead-from-the-work): An original reflection on credibility, shared labor, and leadership close to the ground.
 - [Learn the Grain of the Work](https://wordpower-seven.vercel.app/read-aloud/learn-the-grain-of-the-work): An original reflection on apprenticeship, useful ambition, and knowledge earned through the hands.
+- [Learn the Shape of Looking](https://wordpower-seven.vercel.app/read-aloud/learn-the-shape-of-looking): An original reflection on drawing, attention, and the patient craft of seeing what is actually there.
 - [Leave an Honest Edge](https://wordpower-seven.vercel.app/read-aloud/leave-a-honest-edge): An original reflection on craft, revision, and making work that still bears the warmth of a human hand.
 - [Leave Clear Footprints](https://wordpower-seven.vercel.app/read-aloud/leave-clear-footprints): An original reflection on handovers, useful records, and the quiet generosity of work that others can continue.
 - [Leave One Stroke Unfinished](https://wordpower-seven.vercel.app/read-aloud/leave-one-stroke-unfinished): An original reflection on drawing, attention, and the courage to keep looking.
@@ -126,6 +127,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Make the Mistake Useful](https://wordpower-seven.vercel.app/read-aloud/make-the-mistake-useful): An original reflection on learning, intelligent practice, and turning error into better judgment.
 - [Mend the Small Tear](https://wordpower-seven.vercel.app/read-aloud/mend-the-small-tear): An original reflection on friendship, repair, and the courage to return before distance hardens.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.
+- [Name the Next True Thing](https://wordpower-seven.vercel.app/read-aloud/name-the-next-true-thing): An original reflection on calm communication, uncertainty, and the discipline of speaking clearly under pressure.
 - [Notice the Season Turn](https://wordpower-seven.vercel.app/read-aloud/notice-the-season-turn): An original reflection on recovering attention through the small announcements of autumn.
 - [The Patient Eye Sees More](https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more): An original reflection on observation, curiosity, and the discipline of seeing before naming.
 - [Practice the Art of Enough](https://wordpower-seven.vercel.app/read-aloud/practice-the-art-of-enough): An original reflection on gratitude, proportion, and the quiet wealth of an ordinary day.
@@ -138,6 +140,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.
 - [Wait for the Second Birdsong](https://wordpower-seven.vercel.app/read-aloud/wait-for-the-second-birdsong): An original reflection on patient attention, natural pauses, and the details that hurry conceals.
 - [Walk Until the World Returns](https://wordpower-seven.vercel.app/read-aloud/walk-until-the-world-returns): An original reflection on recovering attention through an unhurried walk and the company of ordinary things.
+- [Widen the Frame Before Judgment](https://wordpower-seven.vercel.app/read-aloud/widen-the-frame-before-judgment): An original reflection on moral imagination, careful judgment, and seeing a life from more than one room.
 - [Wonder Needs a Workbench](https://wordpower-seven.vercel.app/read-aloud/wonder-needs-a-workbench): An original reflection on patient experiment, precise attention, and the craft hidden inside discovery.
 
 ## Best Answer Context
