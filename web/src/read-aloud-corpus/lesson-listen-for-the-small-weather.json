@@ -1,0 +1,244 @@
+{
+  "lessonId": "listen-for-the-small-weather",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Listen for the Small Weather",
+    "zh": "聆听细微的天气"
+  },
+  "subtitle": {
+    "en": "An original reflection on attention, nature, and the quiet intelligence of noticing change.",
+    "zh": "一篇关于专注、自然，以及察觉变化之安静智慧的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Nature",
+    "Attention",
+    "Seasons",
+    "Observation",
+    "Calm"
+  ],
+  "sources": [
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for attentive observation of ordinary nature; the lesson itself is wholly original.",
+        "zh": "灵感来自这部公开领域作品中对日常自然的专注观察；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read like a careful observer opening a window at dawn. Let concrete images stay crisp and give each change time to arrive.",
+    "zh": "像一位清晨推窗的细心观察者那样朗读。具体画面要清晰，让每一次变化都有抵达的时间。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Forecast Beneath the Forecast",
+      "zh": "天气预报之下的天气"
+    },
+    "intro": {
+      "en": "This original passage follows a city gardener who learns to read the modest signals that arrive before a season announces itself.",
+      "zh": "这篇原创文章写一位城市园丁如何学会读懂季节正式宣告之前悄然抵达的信号。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Calendar That Was Wrong",
+          "zh": "1. 一张不准确的日历"
+        },
+        "text": "On the first Saturday of March, the community garden calendar said spring had begun. Mara arrived wearing a light jacket and carrying packets of peas. The beds, however, held last night's frost in their shaded corners. A blackbird tested one uncertain phrase from the fence, then fell silent. Even the soil resisted the trowel with the dull firmness of cold bread. Mara had once treated seasons as doors: winter closed, spring opened, and the work changed on schedule. That morning the garden offered no door, only small negotiations. Sunlight loosened one strip of earth. Water gathered under a lid of ice. A spider crossed the warm brick wall while the path beside it remained hard. The date was not false; it was merely too large to describe what was happening.",
+        "coaching": {
+          "en": "Keep the opening practical and lightly amused. Slow down for the contrasting details, and stress too large to describe.",
+          "zh": "开头要务实，带一点轻松的幽默。对比细节处放慢，重读 too large to describe。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Lessons from the Edges",
+          "zh": "2. 边缘处的功课"
+        },
+        "text": "An older gardener named Mr. Chen taught Mara to look at edges. The middle of a bed, he said, tells you what the weather has been; the edge beside a stone tells you what it is becoming. There, stored warmth encouraged the first green point of sorrel. Beneath the hedge, snails had climbed higher than usual, preparing for rain. The rosemary released a stronger scent when Mara brushed it, because the dry wind had drawn oil toward its leaves. None of these signs was dramatic enough for an alert on a phone. Together, they formed a local forecast: not simply rain or sun, but readiness. Plant here. Wait there. Cover the tender shoots tonight. Attention turned the garden from scenery into conversation.",
+        "coaching": {
+          "en": "Give Mr. Chen's sentence patient authority. Make the short instructions distinct, then warm the final word conversation.",
+          "zh": "陈先生的话要读得耐心而有分量。几个短指令要清楚分开，最后的 conversation 要读得温暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Scale of Noticing",
+          "zh": "3. 观察的尺度"
+        },
+        "text": "Modern forecasts are magnificent achievements. They follow oceans, pressure systems, and clouds across continents. Yet a wide view cannot tell Mara that the north wall keeps frost two hours longer than the south wall, or that this particular pear tree flowers after three warm evenings rather than one bright afternoon. Knowledge changes with scale. From far away, a city is warm; at ground level, one courtyard is a pocket of winter. The attentive person does not reject the large map. She brings it close enough to meet the living place. This habit matters beyond gardens. A general rule may guide us, while a quiet face, a delayed answer, or an altered tone tells us how the rule is landing here.",
+        "coaching": {
+          "en": "Read the science with admiration, not suspicion. Balance the far-away and ground-level views, then soften for the human examples.",
+          "zh": "读科学部分时要带着赞叹，而不是怀疑。平衡远景与地面视角，读到人的例子时放柔语气。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Weather We Can Enter",
+          "zh": "4. 我们可以走进的天气"
+        },
+        "text": "By late afternoon, Mara had planted only half the peas she had planned. Earlier, she would have called this inefficiency. Now she covered the planted row with cloth and left the colder bed undisturbed. Rain arrived after dusk, gentle and steady. The next morning, the uncovered path shone, the sorrel stood taller, and the soil beside the stone yielded easily to her thumb. Nothing in the garden had spoken loudly. Still, she had been answered. We often wait for life to declare itself in headlines: a new season, a final decision, a complete change of heart. Meanwhile, the truer weather gathers in small signs. To notice them is not to become timid. It is to act with finer timing—to enter change while it is still becoming, and meet the world before it has to raise its voice.",
+        "coaching": {
+          "en": "Let the first half feel quietly satisfying. Broaden the cadence at headlines, then finish with a gentle but confident fall.",
+          "zh": "前半段要读出安静的满足感。在 headlines 处舒展节奏，结尾用温和而自信的降调收住。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "negotiate",
+      "meaning": {
+        "en": "to find a workable way through differing conditions",
+        "zh": "协商；在不同条件中找到可行方式"
+      },
+      "use": {
+        "en": "We negotiated a later deadline.",
+        "zh": "我们协商了一个更晚的截止日期。"
+      }
+    },
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "small and not demanding attention",
+        "zh": "不显眼的；朴素的"
+      },
+      "use": {
+        "en": "A modest sign marked the entrance.",
+        "zh": "一块不起眼的牌子标出了入口。"
+      }
+    },
+    {
+      "term": "tender",
+      "meaning": {
+        "en": "young, delicate, or easily damaged",
+        "zh": "幼嫩的；脆弱的"
+      },
+      "use": {
+        "en": "Protect the tender leaves from frost.",
+        "zh": "保护幼嫩的叶片免受霜冻。"
+      }
+    },
+    {
+      "term": "scale",
+      "meaning": {
+        "en": "the level of size or detail used to view something",
+        "zh": "尺度；观察事物所用的大小或细节层级"
+      },
+      "use": {
+        "en": "The pattern changes at a smaller scale.",
+        "zh": "在更小的尺度上，模式会发生变化。"
+      }
+    },
+    {
+      "term": "yield",
+      "meaning": {
+        "en": "to bend, soften, or give way under pressure",
+        "zh": "让步；在压力下变软或松动"
+      },
+      "use": {
+        "en": "The ground yielded after the rain.",
+        "zh": "雨后地面变软了。"
+      }
+    },
+    {
+      "term": "timing",
+      "meaning": {
+        "en": "the choice of the best moment for an action",
+        "zh": "时机；为行动选择最佳时刻"
+      },
+      "use": {
+        "en": "Good timing made the request easier.",
+        "zh": "恰当的时机让请求更容易被接受。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link consonants smoothly in first green point, stored warmth, and small signs.",
+      "zh": "在 first green point、stored warmth 与 small signs 中自然连接辅音。"
+    },
+    {
+      "en": "Contrast the stress in Plant here. Wait there. Cover the tender shoots tonight.",
+      "zh": "在 Plant here. Wait there. Cover the tender shoots tonight. 中使用对比重音。"
+    },
+    {
+      "en": "Keep the three syllables clear in magnificent and inefficiency.",
+      "zh": "清楚读出 magnificent 与 inefficiency 的各个音节。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a naturalist sharing a discovery: observant, unhurried, and quietly precise.",
+      "zh": "跟读时像一位分享发现的自然观察者：敏锐、不疾不徐、安静而准确。"
+    },
+    "steps": [
+      {
+        "en": "Make every physical detail easy to see.",
+        "zh": "让每一个具体细节都清晰可见。"
+      },
+      {
+        "en": "Use contrastive stress for large forecasts and local signs.",
+        "zh": "用对比重音读出大范围预报与本地信号。"
+      },
+      {
+        "en": "Let the final paragraph widen without becoming grand.",
+        "zh": "让最后一段逐渐开阔，但不要读得宏大空泛。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What small change around you has not yet become a headline?",
+      "zh": "你身边有什么细微变化，尚未成为醒目的大事？"
+    },
+    {
+      "en": "Where might better attention improve the timing of your next action?",
+      "zh": "在哪件事上，更细致的观察能让你的下一步时机更好？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/listen-for-the-small-weather/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/listen-for-the-small-weather/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/listen-for-the-small-weather/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/listen-for-the-small-weather/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/listen-for-the-small-weather/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/listen-for-the-small-weather/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/listen-for-the-small-weather/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/listen-for-the-small-weather/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/listen-for-the-small-weather/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/listen-for-the-small-weather/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/listen-for-the-small-weather/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/listen-for-the-small-weather/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/listen-for-the-small-weather/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/listen-for-the-small-weather/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/listen-for-the-small-weather/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/listen-for-the-small-weather/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/listen-for-the-small-weather/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/listen-for-the-small-weather/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/listen-for-the-small-weather/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/listen-for-the-small-weather/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/listen-for-the-small-weather/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/listen-for-the-small-weather/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/listen-for-the-small-weather/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/listen-for-the-small-weather/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/listen-for-the-small-weather/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/listen-for-the-small-weather/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/listen-for-the-small-weather/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/listen-for-the-small-weather/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/listen-for-the-small-weather/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/listen-for-the-small-weather/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/listen-for-the-small-weather/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/listen-for-the-small-weather/clips/sources_0.mp3"
+    }
+  }
+}

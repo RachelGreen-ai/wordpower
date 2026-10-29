@@ -103,6 +103,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Leave Room for the Weather](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-weather): An original reflection on resilient plans, useful margins, and the freedom to adapt without surrendering direction.
 - [Leave the Door Unlatched](https://wordpower-seven.vercel.app/read-aloud/leave-the-door-unlatched): An original reflection on guiding children without crowding out their independence.
 - [Leave the Map Unfinished](https://wordpower-seven.vercel.app/read-aloud/leave-the-map-unfinished): An original reflection on intellectual humility, discovery, and the courage to revise what we think we know.
+- [Leave the Question on the Table](https://wordpower-seven.vercel.app/read-aloud/leave-the-question-on-the-table): An original reflection on parenting, learning, and the courage to let curiosity remain unfinished.
 - [Lend the Stranger a History](https://wordpower-seven.vercel.app/read-aloud/lend-the-stranger-a-history): An original reflection on moral imagination, fair judgment, and the stories we cannot see.
 - [Let the Child Carry the Basket](https://wordpower-seven.vercel.app/read-aloud/let-the-child-carry-the-basket): An original reflection on useful responsibility, patient guidance, and the dignity of growing capable.
 - [Let the Child Finish the Map](https://wordpower-seven.vercel.app/read-aloud/let-the-child-finish-the-map): An original reflection on guidance, useful mistakes, and the patience to let understanding take shape.
@@ -111,10 +112,12 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Let the Night Resize the Day](https://wordpower-seven.vercel.app/read-aloud/let-the-night-resize-the-day): An original reflection on starlight, proportion, and returning to ordinary problems with a wider mind.
 - [Let the Work Ripen](https://wordpower-seven.vercel.app/read-aloud/let-the-work-ripen): An original reflection on patient craft, revision, and knowing when careful work is ready.
 - [Listen Before You Mend](https://wordpower-seven.vercel.app/read-aloud/listen-before-you-mend): An original reflection on craftsmanship, attentive listening, and repairs that respect a thing's history.
+- [Listen for the Small Weather](https://wordpower-seven.vercel.app/read-aloud/listen-for-the-small-weather): An original reflection on attention, nature, and the quiet intelligence of noticing change.
 - [Listen for the Unfinished Sentence](https://wordpower-seven.vercel.app/read-aloud/listen-for-the-unfinished-sentence): An original reflection on civic listening, hidden experience, and the patience required to understand across difference.
 - [Lower the Temperature of the Room](https://wordpower-seven.vercel.app/read-aloud/lower-the-temperature-of-the-room): An original reflection on calm communication, leadership, and the strength of a well-timed pause.
 - [Lower Your Voice, Keep Your Ground](https://wordpower-seven.vercel.app/read-aloud/lower-your-voice-keep-your-ground): An original reflection on calm disagreement, precise language, and strength that does not need to shout.
 - [Make a Window for Wonder](https://wordpower-seven.vercel.app/read-aloud/make-a-window-for-wonder): An original reflection on experiments, useful questions, and the patient craft of discovery.
+- [Make One Honest Thing](https://wordpower-seven.vercel.app/read-aloud/make-one-honest-thing): An original reflection on craft, career, and the quiet standard that survives applause.
 - [Make Room in the Conversation](https://wordpower-seven.vercel.app/read-aloud/make-room-in-conversation): An original passage on calm speech, useful silence, and disagreement without contempt.
 - [Make the Apology Specific](https://wordpower-seven.vercel.app/read-aloud/make-the-apology-specific): An original reflection on repairing trust with honest detail, proportion, and changed behavior.
 - [Make the Mistake Useful](https://wordpower-seven.vercel.app/read-aloud/make-the-mistake-useful): An original reflection on learning, intelligent practice, and turning error into better judgment.

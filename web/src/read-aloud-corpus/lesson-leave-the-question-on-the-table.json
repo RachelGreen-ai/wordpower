@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-the-question-on-the-table",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave the Question on the Table",
+    "zh": "把问题留在桌上"
+  },
+  "subtitle": {
+    "en": "An original reflection on parenting, learning, and the courage to let curiosity remain unfinished.",
+    "zh": "一篇关于亲子相处、学习，以及允许好奇暂时未完成之勇气的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Learning",
+    "Curiosity",
+    "Patience",
+    "Conversation"
+  ],
+  "sources": [
+    {
+      "title": "Democracy and Education",
+      "author": "John Dewey",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/852",
+      "note": {
+        "en": "Public-domain inspiration for learning through inquiry and experience; the lesson itself is wholly original.",
+        "zh": "灵感来自这部公开领域作品中通过探究与经验学习的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with affectionate curiosity. Give the child's questions genuine weight, and make the pauses feel inviting rather than empty.",
+    "zh": "带着温柔的好奇心朗读。认真对待孩子的问题，让停顿听起来像邀请，而不是空白。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Blue Cup Experiment",
+      "zh": "蓝杯子实验"
+    },
+    "intro": {
+      "en": "This original passage follows a parent who discovers that a useful answer may begin by making room for a better question.",
+      "zh": "这篇原创文章写一位家长如何发现：有用的回答，有时始于为更好的问题腾出空间。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Why Is the Sky in the Water?",
+          "zh": "1. 为什么水里有天空？"
+        },
+        "text": "At breakfast, eight-year-old Leo set a blue cup beside the window and asked why the sky appeared inside the water. His father, Daniel, was answering work messages with one hand and buttering toast with the other. He knew several respectable phrases: reflected light, angle of incidence, surface of the water. The answer was waiting in him, polished and efficient. He nearly delivered it. Then Leo moved the cup, and the patch of blue vanished. He moved it back; the sky returned. His face held the serious delight of someone who had found a door in an ordinary wall. Daniel closed the laptop. Instead of explaining, he asked, What could we change to find out? The question remained between them, bright and slightly inconvenient.",
+        "coaching": {
+          "en": "Keep the busy opening brisk. Pause before What could we change, then let the last phrase carry gentle humor.",
+          "zh": "忙碌的开头读得利落。在 What could we change 前停顿，末句带一点温和的幽默。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Table Full of Light",
+          "zh": "2. 满桌子的光"
+        },
+        "text": "They gathered a clear glass, a metal bowl, a spoon, and three pieces of colored paper. Leo predicted that every container would hold the sky. The metal bowl gave him a bent window and half his own face. The glass offered only a pale stripe. When Daniel placed white paper beneath the cup, the blue deepened; red paper made it muddy. Soon the table was wet, the toast was cold, and their first theory had become several smaller questions. Daniel felt the familiar adult urge to tidy both the water and the thinking. Yet confusion, he noticed, was not the absence of learning. It was learning before the pieces had agreed on their positions.",
+        "coaching": {
+          "en": "Make the objects playful and distinct. Slow down for the definition of confusion, with warmth rather than solemnity.",
+          "zh": "桌上的物品要读得活泼而清楚。对 confusion 的定义要放慢，温暖而不要庄严。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Gift of Not Yet",
+          "zh": "3. “还不知道”的礼物"
+        },
+        "text": "Adults often protect children from uncertainty because we mistake immediate clarity for security. A quick answer can indeed be kind. It can name a danger, settle a fear, or provide the fact a child needs. But an answer can also close the shutters too early. When Daniel said, I am not sure yet, Leo did not lose confidence in him. He leaned closer. Together they searched for a flashlight and tried the experiment away from the window. The beam entered the water, struck the bottom, and returned to the ceiling as a trembling oval. Their uncertainty now had shape and direction. Not knowing had ceased to be a failure; it had become a place where both of them could stand.",
+        "coaching": {
+          "en": "Keep the distinction between useful answers and premature answers clear. Give not sure yet a relaxed, trustworthy tone.",
+          "zh": "清楚区分有用的回答与过早的回答。I am not sure yet 要读得放松而可信。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. An Answer That Keeps Breathing",
+          "zh": "4. 会呼吸的答案"
+        },
+        "text": "After dinner, they found a simple explanation in a science book and drew arrows showing how light traveled. Leo copied one diagram, then added a small figure of himself beside the cup. The answer did not erase the morning's questions; it arranged them. Daniel realized that teaching was not a performance of permanent certainty. It was the practice of lending steadiness while understanding grew. Some evenings require a direct answer. Others ask us to leave the question on the table beside the crumbs and cups, trusting that curiosity can survive until tomorrow. A child who hears an adult say Let us look may learn more than optics. He may learn that intelligence can be open, that confusion can be temporary, and that wonder is not a problem to finish but a way of staying awake.",
+        "coaching": {
+          "en": "Read the explanation plainly, then deepen the voice at lending steadiness. Let the final list rise gently and settle on staying awake.",
+          "zh": "解释部分朴素地读，在 lending steadiness 处加深语气。最后的排比轻轻上扬，并在 staying awake 处落稳。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "incidence",
+      "meaning": {
+        "en": "the way light reaches or strikes a surface",
+        "zh": "入射；光线到达或撞击表面的方式"
+      },
+      "use": {
+        "en": "The angle of incidence changed the reflection.",
+        "zh": "入射角改变了反射。"
+      }
+    },
+    {
+      "term": "inconvenient",
+      "meaning": {
+        "en": "causing extra difficulty or effort",
+        "zh": "不方便的；带来额外麻烦的"
+      },
+      "use": {
+        "en": "The question arrived at an inconvenient time.",
+        "zh": "这个问题来得不是时候。"
+      }
+    },
+    {
+      "term": "predict",
+      "meaning": {
+        "en": "to say what you think will happen",
+        "zh": "预测；说出你认为会发生的事"
+      },
+      "use": {
+        "en": "Can you predict which object will float?",
+        "zh": "你能预测哪个物体会浮起来吗？"
+      }
+    },
+    {
+      "term": "uncertainty",
+      "meaning": {
+        "en": "a state of not knowing what is true or next",
+        "zh": "不确定；不知道事实或下一步的状态"
+      },
+      "use": {
+        "en": "We learned to work with uncertainty.",
+        "zh": "我们学会了与不确定共处。"
+      }
+    },
+    {
+      "term": "premature",
+      "meaning": {
+        "en": "happening before the right or useful time",
+        "zh": "过早的；在合适时机之前发生的"
+      },
+      "use": {
+        "en": "A premature conclusion stopped the discussion.",
+        "zh": "过早的结论终止了讨论。"
+      }
+    },
+    {
+      "term": "steadiness",
+      "meaning": {
+        "en": "the quality of being calm, reliable, and stable",
+        "zh": "沉稳；冷静、可靠而稳定的特质"
+      },
+      "use": {
+        "en": "Her steadiness helped the child try again.",
+        "zh": "她的沉稳帮助孩子再次尝试。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use a curious rising tone for Why is the sky in the water?",
+      "zh": "读 Why is the sky in the water? 时使用好奇的升调。"
+    },
+    {
+      "en": "Link words smoothly in angle of incidence, patch of blue, and place where both.",
+      "zh": "在 angle of incidence、patch of blue 与 place where both 中自然连读。"
+    },
+    {
+      "en": "Stress the first syllable in certainty and the second syllable in uncertainty.",
+      "zh": "certainty 重读第一音节，uncertainty 重读第二音节。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a patient parent thinking alongside a child: warm, alert, and comfortable with pauses.",
+      "zh": "跟读时像一位与孩子共同思考的耐心家长：温暖、敏锐，也能自在地停顿。"
+    },
+    "steps": [
+      {
+        "en": "Make the breakfast scene lively without rushing.",
+        "zh": "让早餐场景生动，但不要匆忙。"
+      },
+      {
+        "en": "Use open intonation for genuine questions.",
+        "zh": "真正的问题要使用开放的语调。"
+      },
+      {
+        "en": "Make I am not sure yet sound calm and capable.",
+        "zh": "让 I am not sure yet 听起来平静而有能力。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "When did a question teach you more than a quick answer?",
+      "zh": "什么时候，一个问题比一个快速答案教给你的更多？"
+    },
+    {
+      "en": "How could you make uncertainty feel safer in your next conversation?",
+      "zh": "在下一次谈话中，你怎样让不确定感更安全？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-the-question-on-the-table/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-the-question-on-the-table/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-the-question-on-the-table/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-the-question-on-the-table/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-the-question-on-the-table/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-the-question-on-the-table/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-the-question-on-the-table/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-the-question-on-the-table/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-the-question-on-the-table/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-the-question-on-the-table/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-the-question-on-the-table/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-the-question-on-the-table/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-the-question-on-the-table/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-the-question-on-the-table/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-the-question-on-the-table/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-the-question-on-the-table/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-the-question-on-the-table/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-the-question-on-the-table/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-the-question-on-the-table/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-the-question-on-the-table/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-the-question-on-the-table/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-the-question-on-the-table/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-the-question-on-the-table/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-the-question-on-the-table/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-the-question-on-the-table/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-the-question-on-the-table/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-the-question-on-the-table/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-the-question-on-the-table/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-the-question-on-the-table/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-the-question-on-the-table/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-the-question-on-the-table/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-the-question-on-the-table/clips/sources_0.mp3"
+    }
+  }
+}

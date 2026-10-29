@@ -1,0 +1,244 @@
+{
+  "lessonId": "make-one-honest-thing",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Make One Honest Thing",
+    "zh": "做一件诚实的作品"
+  },
+  "subtitle": {
+    "en": "An original reflection on craft, career, and the quiet standard that survives applause.",
+    "zh": "一篇关于技艺、职业，以及在掌声之后仍然成立之安静标准的原创美文。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Craft",
+    "Career",
+    "Integrity",
+    "Practice",
+    "Creativity"
+  ],
+  "sources": [
+    {
+      "title": "The Stones of Venice, Volume 2",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30755",
+      "note": {
+        "en": "Public-domain inspiration for truthfulness and human presence in craft; the lesson itself is wholly original.",
+        "zh": "灵感来自这部公开领域作品中关于技艺之诚实与人的痕迹的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with the calm concentration of a maker at work. Keep the physical details exact and let conviction grow from the scene.",
+    "zh": "像一位专注工作的手艺人那样沉静朗读。具体细节要准确，让信念从场景中自然生长。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Chair with the Hidden Joint",
+      "zh": "那把藏着接缝的椅子"
+    },
+    "intro": {
+      "en": "This original passage follows a young furniture maker choosing between a flawless photograph and work she can respect up close.",
+      "zh": "这篇原创文章写一位年轻家具匠人如何在完美的照片与经得起近看的作品之间做出选择。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Photograph",
+          "zh": "1. 那张照片"
+        },
+        "text": "Elena's first important commission was a reading chair for a hotel lobby. The designer sent a polished image: pale oak, curved arms, no visible screws, every surface as calm as still water. The deadline was narrow because the hotel wanted photographs before opening day. Elena had built chairs for friends, but never one that would appear in a magazine. She measured twice, cut slowly, and imagined the finished piece under flattering lights. On the fourth day, one rear joint refused to close. A thin dark line remained where two pieces of oak met. It was no wider than a pencil mark. In a photograph, she could hide it with filler. Under the hand, however, the joint would tell the truth.",
+        "coaching": {
+          "en": "Read the commission details with contained excitement. Pause after refused to close, then make the last sentence firm and quiet.",
+          "zh": "委托细节读出克制的兴奋。在 refused to close 后停顿，末句坚定而安静。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Two Kinds of Perfect",
+          "zh": "2. 两种完美"
+        },
+        "text": "Her former teacher, Sal, examined the chair without speaking. He ran a thumb across the line and asked whether the joint was weak. Elena said no; the wood was sound, but the angle was slightly wrong. Then make the angle honest, he replied. They opened the joint, trimmed it, and inserted a narrow strip of walnut where the correction could be seen. The dark accent looked intentional, though it had begun as an error. Sal warned her not to romanticize mistakes. Poor work did not become noble merely because it was visible. The standard was simpler and harder: never ask appearance to carry a promise the structure could not keep.",
+        "coaching": {
+          "en": "Give Sal few words and solid authority. Stress simpler and harder, and land clearly on could not keep.",
+          "zh": "Sal 的话要少而有分量。重读 simpler 与 harder，在 could not keep 处清楚落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Work Behind the Work",
+          "zh": "3. 作品背后的功夫"
+        },
+        "text": "Elena remade the joint and lost half a day. No guest would know. Most would sit briefly, check a phone, and leave. Yet hidden workmanship shapes visible ease. A well-fitted joint does not announce itself; it allows the chair to remain quiet under weight. The same is true in less tangible work. A careful citation, a tested calculation, an honest estimate, a sentence revised until it means exactly what we intend—these choices may disappear inside the result. They are not wasted because they are unseen. They form the private architecture of trust. A career built only for inspection from a distance eventually feels hollow to the person living inside it.",
+        "coaching": {
+          "en": "Keep the chair imagery concrete. Give the list a steady rhythm, then slow down for private architecture of trust.",
+          "zh": "椅子的画面要具体。排比保持稳定节奏，在 private architecture of trust 处放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Close Enough to Touch",
+          "zh": "4. 近到可以触摸"
+        },
+        "text": "The chair reached the lobby one hour before the photographer. Under the high windows, the walnut line warmed in the afternoon light. The designer noticed it, hesitated, and then asked Elena to repeat the detail on a second chair. She was pleased, but the praise was not the deepest reward. Before leaving, she pressed her palm against the repaired joint. It held without protest. There will always be reasons to work for the photograph: deadlines, audiences, promotion, applause. These are real and sometimes necessary. But craft asks for another loyalty—to the thing when no one is framing it, to the sentence when no one is quoting it, to the choice we meet at arm's length. Make one honest thing today. Then stand close enough to learn what honesty requires tomorrow.",
+        "coaching": {
+          "en": "Let the lobby scene glow without sentimentality. Build controlled energy through the final parallels, then end with practical conviction.",
+          "zh": "大厅场景要有光感，但不要煽情。最后的平行句逐渐蓄力，以务实而坚定的语气收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "commission",
+      "meaning": {
+        "en": "a request to create a particular piece of work",
+        "zh": "委托；要求创作特定作品的任务"
+      },
+      "use": {
+        "en": "She accepted a commission for a portrait.",
+        "zh": "她接受了一项肖像画委托。"
+      }
+    },
+    {
+      "term": "flattering",
+      "meaning": {
+        "en": "making someone or something appear especially attractive",
+        "zh": "使人显得更好看的；讨喜的"
+      },
+      "use": {
+        "en": "The room looked larger in flattering light.",
+        "zh": "在讨喜的光线下，房间显得更大。"
+      }
+    },
+    {
+      "term": "filler",
+      "meaning": {
+        "en": "material used to close a gap or hole",
+        "zh": "填料；用来填补缝隙或孔洞的材料"
+      },
+      "use": {
+        "en": "The repair needed less filler than expected.",
+        "zh": "这次修补所需的填料比预想少。"
+      }
+    },
+    {
+      "term": "romanticize",
+      "meaning": {
+        "en": "to describe something as better or nobler than it really is",
+        "zh": "浪漫化；把事物描述得比实际更美好或高尚"
+      },
+      "use": {
+        "en": "Do not romanticize exhaustion.",
+        "zh": "不要把精疲力竭浪漫化。"
+      }
+    },
+    {
+      "term": "tangible",
+      "meaning": {
+        "en": "clear enough to touch, measure, or notice",
+        "zh": "有形的；可触摸、衡量或察觉的"
+      },
+      "use": {
+        "en": "The training produced tangible improvement.",
+        "zh": "训练带来了明显的进步。"
+      }
+    },
+    {
+      "term": "architecture",
+      "meaning": {
+        "en": "the underlying structure of something complex",
+        "zh": "架构；复杂事物的内在结构"
+      },
+      "use": {
+        "en": "Trust is part of the team's architecture.",
+        "zh": "信任是团队架构的一部分。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in polished image, dark accent, and private trust.",
+      "zh": "清楚读出 polished image、dark accent 与 private trust 中的尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress in no guest would know, yet hidden workmanship shapes visible ease.",
+      "zh": "在 no guest would know, yet hidden workmanship shapes visible ease 中使用对比重音。"
+    },
+    {
+      "en": "Stress the first syllable in tangible and the second syllable in commission.",
+      "zh": "tangible 重读第一音节，commission 重读第二音节。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a craftsperson explaining a standard earned through practice: concrete, modest, and assured.",
+      "zh": "跟读时像一位从实践中形成标准的手艺人：具体、谦逊而笃定。"
+    },
+    "steps": [
+      {
+        "en": "Let tools, wood, and touch remain physically vivid.",
+        "zh": "让工具、木材与触感始终具体鲜明。"
+      },
+      {
+        "en": "Use steady rhythm for the list of hidden work.",
+        "zh": "读隐藏功夫的排比时保持稳定节奏。"
+      },
+      {
+        "en": "Finish with conviction, not a motivational shout.",
+        "zh": "结尾要有信念感，但不要读成激励式喊话。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What part of your work must remain honest even when no one sees it?",
+      "zh": "你的工作中，哪一部分即使无人看见也必须保持诚实？"
+    },
+    {
+      "en": "What would improve if you judged it from arm's length instead of from a distance?",
+      "zh": "如果不再远观，而是近距离审视，什么会因此得到改善？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-one-honest-thing/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-one-honest-thing/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-one-honest-thing/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-one-honest-thing/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-one-honest-thing/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/make-one-honest-thing/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/make-one-honest-thing/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-one-honest-thing/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-one-honest-thing/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-one-honest-thing/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-one-honest-thing/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-one-honest-thing/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-one-honest-thing/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-one-honest-thing/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-one-honest-thing/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-one-honest-thing/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-one-honest-thing/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-one-honest-thing/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-one-honest-thing/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-one-honest-thing/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-one-honest-thing/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-one-honest-thing/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-one-honest-thing/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-one-honest-thing/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-one-honest-thing/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-one-honest-thing/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-one-honest-thing/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-one-honest-thing/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-one-honest-thing/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-one-honest-thing/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-one-honest-thing/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-one-honest-thing/clips/sources_0.mp3"
+    }
+  }
+}
