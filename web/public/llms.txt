@@ -96,6 +96,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Keep the Door in the Conversation](https://wordpower-seven.vercel.app/read-aloud/keep-the-door-in-the-conversation): An original reflection on disagreement, dignity, and the language that keeps understanding possible.
 - [Keep the Failed Sketch](https://wordpower-seven.vercel.app/read-aloud/keep-the-failed-sketch): An original reflection on experiments, useful mistakes, and learning to think with your hands.
 - [Lead from the Work](https://wordpower-seven.vercel.app/read-aloud/lead-from-the-work): An original reflection on credibility, shared labor, and leadership close to the ground.
+- [Learn at the Speed of Roots](https://wordpower-seven.vercel.app/read-aloud/learn-at-the-speed-of-roots): An original reflection on patient study, durable skill, and the quiet work beneath visible progress.
 - [Learn the Grain of the Work](https://wordpower-seven.vercel.app/read-aloud/learn-the-grain-of-the-work): An original reflection on apprenticeship, useful ambition, and knowledge earned through the hands.
 - [Learn the Shape of Looking](https://wordpower-seven.vercel.app/read-aloud/learn-the-shape-of-looking): An original reflection on drawing, attention, and the patient craft of seeing what is actually there.
 - [Leave an Honest Edge](https://wordpower-seven.vercel.app/read-aloud/leave-a-honest-edge): An original reflection on craft, revision, and making work that still bears the warmth of a human hand.
@@ -108,12 +109,14 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Leave the Door Unlatched](https://wordpower-seven.vercel.app/read-aloud/leave-the-door-unlatched): An original reflection on guiding children without crowding out their independence.
 - [Leave the Map Unfinished](https://wordpower-seven.vercel.app/read-aloud/leave-the-map-unfinished): An original reflection on intellectual humility, discovery, and the courage to revise what we think we know.
 - [Leave the Question on the Table](https://wordpower-seven.vercel.app/read-aloud/leave-the-question-on-the-table): An original reflection on parenting, learning, and the courage to let curiosity remain unfinished.
+- [Lend the Room Your Calm](https://wordpower-seven.vercel.app/read-aloud/lend-the-room-your-calm): An original reflection on leadership as the art of making clear action possible under pressure.
 - [Lend the Stranger a History](https://wordpower-seven.vercel.app/read-aloud/lend-the-stranger-a-history): An original reflection on moral imagination, fair judgment, and the stories we cannot see.
 - [Let the Child Carry the Basket](https://wordpower-seven.vercel.app/read-aloud/let-the-child-carry-the-basket): An original reflection on useful responsibility, patient guidance, and the dignity of growing capable.
 - [Let the Child Finish the Map](https://wordpower-seven.vercel.app/read-aloud/let-the-child-finish-the-map): An original reflection on guidance, useful mistakes, and the patience to let understanding take shape.
 - [Let the Draft Teach You](https://wordpower-seven.vercel.app/read-aloud/let-the-draft-teach-you): An original reflection on learning by making, useful mistakes, and the intelligence that appears during revision.
 - [Let the Evidence Surprise You](https://wordpower-seven.vercel.app/read-aloud/let-the-evidence-surprise-you): An original reflection on scientific curiosity, careful observation, and the freedom to revise a cherished idea.
 - [Let the Night Resize the Day](https://wordpower-seven.vercel.app/read-aloud/let-the-night-resize-the-day): An original reflection on starlight, proportion, and returning to ordinary problems with a wider mind.
+- [Let the River Set the Pace](https://wordpower-seven.vercel.app/read-aloud/let-the-river-set-the-pace): An original reflection on attention, recovery, and finding a pace that can carry a whole life.
 - [Let the Work Ripen](https://wordpower-seven.vercel.app/read-aloud/let-the-work-ripen): An original reflection on patient craft, revision, and knowing when careful work is ready.
 - [Listen Before You Mend](https://wordpower-seven.vercel.app/read-aloud/listen-before-you-mend): An original reflection on craftsmanship, attentive listening, and repairs that respect a thing's history.
 - [Listen for the Small Weather](https://wordpower-seven.vercel.app/read-aloud/listen-for-the-small-weather): An original reflection on attention, nature, and the quiet intelligence of noticing change.

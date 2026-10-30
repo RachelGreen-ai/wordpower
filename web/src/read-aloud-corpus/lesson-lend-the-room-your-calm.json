@@ -1,0 +1,244 @@
+{
+  "lessonId": "lend-the-room-your-calm",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "title": {
+    "en": "Lend the Room Your Calm",
+    "zh": "把你的沉着借给整个房间"
+  },
+  "subtitle": {
+    "en": "An original reflection on leadership as the art of making clear action possible under pressure.",
+    "zh": "一篇原创美文：领导力，是在压力之下让清晰行动成为可能的艺术。"
+  },
+  "tags": [
+    "Leadership",
+    "Courage",
+    "Calm",
+    "Decision",
+    "Trust"
+  ],
+  "sources": [
+    {
+      "title": "The Life of George Washington",
+      "author": "Josephine Pollard",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/55940",
+      "note": {
+        "en": "Public-domain inspiration for steady leadership under uncertainty; this lesson is entirely original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域传记中关于在不确定局面下稳健领导的描写；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Use a grounded, unhurried voice. Let practical instructions sound clear, and let calm carry more authority than volume.",
+    "zh": "用沉稳、不慌不忙的声音朗读。让实际指令清晰有力，让沉着比音量更具权威。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Temperature We Bring",
+      "zh": "我们带进房间的温度"
+    },
+    "intro": {
+      "en": "This original passage follows a leader through a difficult meeting and asks what courage sounds like before certainty arrives.",
+      "zh": "这篇原创文章跟随一位领导者走进艰难会议，思考在确定性到来之前，勇气应当如何发声。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The News Arrives First",
+          "zh": "1. 消息先一步抵达"
+        },
+        "text": "By nine in the morning, the project had lost its largest client. The facts were incomplete, but fear was already efficient. It moved through the office in lowered voices and unfinished messages. When Mara entered the meeting room, twelve faces searched hers for a forecast she did not possess. She could have borrowed confidence from performance: a bright smile, a quick promise, a speech about winning. Instead, she placed both hands on the table and said, “This is serious. We do not yet know everything. For the next hour, we will separate what is true from what we fear.” The room did not relax, exactly. It became usable.",
+        "coaching": {
+          "en": "Begin with compressed urgency. Give Mara's words a low, even pace, and land firmly on usable.",
+          "zh": "开头读出收紧的紧迫感。玛拉的话要低沉、匀速，坚定落在 usable 上。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make the Problem Smaller",
+          "zh": "2. 把问题缩到可以处理"
+        },
+        "text": "Panic speaks in enormous nouns: disaster, ruin, everything. Leadership returns to verbs. Call the client. Check the contract. Protect Friday's payroll. Tell the team what will be decided today and what must wait. Mara wrote three columns on the board: known, unknown, next. The list did not make the loss less painful; it made thought possible again. People began offering evidence instead of atmosphere. One colleague remembered a clause in the agreement. Another named two customers who might expand. A third admitted that a deadline had been quietly slipping. Calm did not hide the trouble. It gave the trouble edges.",
+        "coaching": {
+          "en": "Make the enormous nouns broad, then sharpen each practical verb. Pause around known, unknown, next.",
+          "zh": "把那些巨大的名词读得宽重，再把每个实际动词读得利落。在 known、unknown、next 之间停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Refuse the Easy Scapegoat",
+          "zh": "3. 拒绝寻找方便的替罪羊"
+        },
+        "text": "Under pressure, blame offers the pleasure of speed. It gives confusion a face and lets everyone else feel briefly innocent. Someone suggested that the sales lead should have seen the loss coming. Mara stopped the sentence before it gathered allies. “We will examine decisions,” she said, “but we will not spend this morning arranging shame.” Accountability would come, with dates, records, and specific choices. Humiliation would not. That distinction protected more than kindness. It protected information. People tell the truth sooner when a room is demanding but not cruel, and early truth is one of the few advantages a team can create during a crisis.",
+        "coaching": {
+          "en": "Keep the temptation of blame audible but restrained. Read the quoted boundary with quiet finality, not anger.",
+          "zh": "让责备的诱惑可被听见，但保持克制。引语中的边界要读得安静而坚决，不带怒气。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Courage Has a Temperature",
+          "zh": "4. 勇气自有温度"
+        },
+        "text": "By evening, the company still had no guarantee. It had a plan for the week, two difficult calls scheduled, and a clearer account of its mistakes. Before leaving, Mara sent a short note: here is what changed; here is what did not; here is when you will hear from me again. Leadership had not turned uncertainty into certainty. It had turned isolation into shared work. This is often what courage does in ordinary rooms. It neither freezes feeling nor sets it on fire. It lends people a steadier temperature until they can recover their own judgment, lift their eyes, and take the next honest step together.",
+        "coaching": {
+          "en": "Let the repeated here is phrases sound dependable. Warm the final image and finish together with inclusive strength.",
+          "zh": "重复的 here is 要读出可靠感。结尾意象逐渐变暖，以包容而有力的语气落在 together。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "forecast",
+      "meaning": {
+        "en": "A statement about what is likely to happen.",
+        "zh": "预测；对可能发生之事的判断。"
+      },
+      "use": {
+        "en": "No one could offer a reliable forecast yet.",
+        "zh": "当时还没有人能给出可靠预测。"
+      }
+    },
+    {
+      "term": "make thought possible",
+      "meaning": {
+        "en": "Create conditions in which people can reason clearly.",
+        "zh": "创造条件，使人能够清晰思考。"
+      },
+      "use": {
+        "en": "A short list made thought possible again.",
+        "zh": "一张简短的清单让清晰思考重新成为可能。"
+      }
+    },
+    {
+      "term": "scapegoat",
+      "meaning": {
+        "en": "A person unfairly blamed for a wider problem.",
+        "zh": "替罪羊；被不公平归咎于整体问题的人。"
+      },
+      "use": {
+        "en": "The team refused to choose a convenient scapegoat.",
+        "zh": "团队拒绝找一个方便的替罪羊。"
+      }
+    },
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "Responsibility for actions and their results.",
+        "zh": "问责；对行动及其结果承担责任。"
+      },
+      "use": {
+        "en": "Accountability requires facts, not humiliation.",
+        "zh": "问责需要事实，而不是羞辱。"
+      }
+    },
+    {
+      "term": "finality",
+      "meaning": {
+        "en": "A quality showing that a decision is settled.",
+        "zh": "决定已定、不再争议的语气或性质。"
+      },
+      "use": {
+        "en": "She stated the boundary with quiet finality.",
+        "zh": "她以安静而坚决的语气说明了边界。"
+      }
+    },
+    {
+      "term": "lend someone your calm",
+      "meaning": {
+        "en": "Help another person become steadier through your own composure.",
+        "zh": "以自己的沉着帮助他人稳定下来。"
+      },
+      "use": {
+        "en": "A good leader can lend the room her calm.",
+        "zh": "优秀的领导者能把自己的沉着借给整个房间。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in lost its largest client.",
+      "zh": "读清 lost its largest client 中的词尾辅音。"
+    },
+    {
+      "en": "Use equal beats for known, unknown, next.",
+      "zh": "用均匀节拍读 known、unknown、next。"
+    },
+    {
+      "en": "Stress decisions and shame to clarify the contrast in examine decisions, not arrange shame.",
+      "zh": "重读 decisions 与 shame，读清 examine decisions 和 arrange shame 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice must help a worried team think clearly without pretending the danger is small.",
+      "zh": "跟读时，想象你的声音要帮助焦虑的团队清晰思考，同时不假装危险很小。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep breath low and the pace deliberate.",
+        "zh": "第一遍：保持低位呼吸，语速从容。"
+      },
+      {
+        "en": "Pass two: make every instruction concrete and easy to follow.",
+        "zh": "第二遍：把每项指令读得具体、易于执行。"
+      },
+      {
+        "en": "Pass three: give the final paragraph warmth without losing authority.",
+        "zh": "第三遍：结尾读出温度，同时不失权威。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What temperature do you bring into a room when others are anxious?",
+      "zh": "当他人焦虑时，你会给房间带来怎样的情绪温度？"
+    },
+    {
+      "en": "What large worry could become more usable if divided into known, unknown, and next?",
+      "zh": "哪个巨大的担忧，可以通过 known、unknown、next 三栏变得更可处理？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/lend-the-room-your-calm/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/lend-the-room-your-calm/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/lend-the-room-your-calm/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/lend-the-room-your-calm/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/lend-the-room-your-calm/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/lend-the-room-your-calm/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/lend-the-room-your-calm/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/lend-the-room-your-calm/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/lend-the-room-your-calm/clips/passage_sections_0.mp3",
+      "passage.sections.1": "audio/read-aloud/lend-the-room-your-calm/clips/passage_sections_1.mp3",
+      "passage.sections.2": "audio/read-aloud/lend-the-room-your-calm/clips/passage_sections_2.mp3",
+      "passage.sections.3": "audio/read-aloud/lend-the-room-your-calm/clips/passage_sections_3.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/lend-the-room-your-calm/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/lend-the-room-your-calm/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/lend-the-room-your-calm/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/lend-the-room-your-calm/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/lend-the-room-your-calm/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/lend-the-room-your-calm/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/lend-the-room-your-calm/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/lend-the-room-your-calm/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/lend-the-room-your-calm/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/lend-the-room-your-calm/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/lend-the-room-your-calm/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/lend-the-room-your-calm/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/lend-the-room-your-calm/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/lend-the-room-your-calm/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/lend-the-room-your-calm/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/lend-the-room-your-calm/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/lend-the-room-your-calm/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/lend-the-room-your-calm/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/lend-the-room-your-calm/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/lend-the-room-your-calm/clips/sources_0.mp3"
+    }
+  }
+}

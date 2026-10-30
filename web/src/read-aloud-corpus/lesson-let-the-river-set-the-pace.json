@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-river-set-the-pace",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "title": {
+    "en": "Let the River Set the Pace",
+    "zh": "让河流决定步调"
+  },
+  "subtitle": {
+    "en": "An original reflection on attention, recovery, and finding a pace that can carry a whole life.",
+    "zh": "一篇原创美文：关于注意力、恢复力，以及寻找一种足以承载完整生活的步调。"
+  },
+  "tags": [
+    "Nature",
+    "Attention",
+    "Calm",
+    "Recovery",
+    "Rhythm"
+  ],
+  "sources": [
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for attentive walking and the restorative study of nature; this lesson is entirely original.",
+        "zh": "灵感来自这部公开领域作品中专注行走与观察自然的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read spaciously, with a walking rhythm. Make the river images visible, and resist hurrying the reflective turns.",
+    "zh": "用开阔、如步行般的节奏朗读。让河流意象清晰可见，不要匆忙带过思考的转折。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Pace That Can Carry You",
+      "zh": "一种能够承载你的步调"
+    },
+    "intro": {
+      "en": "This original passage follows an overworked walker beside a river and listens for a more durable rhythm.",
+      "zh": "这篇原创文章跟随一位疲惫的行者来到河边，倾听一种更可持续的节奏。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Arriving Too Quickly",
+          "zh": "1. 匆忙抵达"
+        },
+        "text": "Elias reached the river as if it were another appointment. He checked the time at the trailhead, calculated the distance, and began walking fast enough to turn the morning into a task. For several minutes, he saw only obstacles: a muddy bend, roots across the path, two hikers moving too slowly ahead. The river traveled beside him without entering his attention. It carried leaves, reflected a torn piece of sky, and folded itself around dark stones. He heard none of it clearly. His body had left the office, but the office had not yet left his body.",
+        "coaching": {
+          "en": "Begin briskly and slightly compressed. Expand the river sentence, then give the last line a thoughtful pause.",
+          "zh": "开头略快、略收紧。描写河流的句子要舒展开，末句前后留出思考停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Fallen Branch",
+          "zh": "2. 倒下的树枝"
+        },
+        "text": "A fallen branch finally stopped him. The path around it was easy, but Elias stood still, annoyed by the interruption. In the pause, another sound became available: water pressing through a narrow channel, not loud, but persistent. He watched the current meet a stone. It did not argue with the stone, nor did it abandon its direction. Part divided to either side; part rose in a clear lip and fell; a small turning pool gathered behind. The river kept its purpose while changing its method. Elias took one slower breath, then another, until the day no longer seemed to be chasing him.",
+        "coaching": {
+          "en": "Let annoyance soften into discovery. Shape the water's different movements distinctly and slow the two breaths.",
+          "zh": "让恼怒逐渐软化为发现。水流的不同动作要读出区别，两次呼吸要明显放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Slow Is Not the Only Lesson",
+          "zh": "3. 慢并非唯一答案"
+        },
+        "text": "Nature is often used as decoration for the advice to slow down, but the river was not always slow. In the narrow place it quickened. Across a wide shelf of stone it became thin and bright. In the deep pool it appeared almost still while carrying a hidden weight downstream. The lesson was not one speed. It was responsiveness. Hurry had made Elias repeat the same pace through every condition: email, lunch, conversation, sleep. A living rhythm was more exact. It could gather force, release it, and recover. It could answer the shape of the day without surrendering the direction of the journey.",
+        "coaching": {
+          "en": "Correct the simple slow-down idea with friendly clarity. Vary tempo across the river conditions and emphasize responsiveness.",
+          "zh": "以友善而清晰的语气修正“只要慢下来”的简单说法。随河况改变语速，并重读 responsiveness。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Bring the River Home",
+          "zh": "4. 把河流带回家"
+        },
+        "text": "On the return walk, Elias did not become a different person. His inbox remained full. The afternoon still required a difficult decision. But he stopped measuring the walk and began inhabiting it. At home, he wrote three words on a card: quicken, widen, rest. He placed it beside his screen. Some work needed a clean burst of speed. Some needed room for uncertainty and another voice. Some needed to be set down before it turned effort into erosion. The river had offered no escape from responsibility. It had offered a rhythm for carrying responsibility without being carried away by it.",
+        "coaching": {
+          "en": "Keep the return practical, not magical. Give quicken, widen, rest equal space, then finish with a calm, resonant contrast.",
+          "zh": "回程要读得实际，不要神奇化。quicken、widen、rest 各留同等空间，最后用沉静、有余韵的对比收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "trailhead",
+      "meaning": {
+        "en": "The place where a walking or hiking trail begins.",
+        "zh": "步道起点。"
+      },
+      "use": {
+        "en": "We met at the trailhead shortly after sunrise.",
+        "zh": "日出后不久，我们在步道起点会合。"
+      }
+    },
+    {
+      "term": "persistent",
+      "meaning": {
+        "en": "Continuing firmly despite difficulty or delay.",
+        "zh": "持续不懈的；尽管困难仍继续的。"
+      },
+      "use": {
+        "en": "A persistent sound rose from the narrow channel.",
+        "zh": "狭窄水道传来持续不断的声音。"
+      }
+    },
+    {
+      "term": "current",
+      "meaning": {
+        "en": "The continuous movement of water in a particular direction.",
+        "zh": "水流；朝特定方向持续运动的水。"
+      },
+      "use": {
+        "en": "The current divided around the stone.",
+        "zh": "水流绕过石头分向两侧。"
+      }
+    },
+    {
+      "term": "responsiveness",
+      "meaning": {
+        "en": "The ability to adjust appropriately to changing conditions.",
+        "zh": "回应力；根据变化的条件作出恰当调整的能力。"
+      },
+      "use": {
+        "en": "Good leadership depends on responsiveness, not one fixed speed.",
+        "zh": "好的领导力依靠回应力，而非固定速度。"
+      }
+    },
+    {
+      "term": "inhabit the moment",
+      "meaning": {
+        "en": "Be fully present in an experience rather than merely passing through it.",
+        "zh": "真正安住于当下，而非只是匆匆经过。"
+      },
+      "use": {
+        "en": "She stopped checking the clock and inhabited the moment.",
+        "zh": "她不再看钟，开始真正安住于当下。"
+      }
+    },
+    {
+      "term": "erosion",
+      "meaning": {
+        "en": "Gradual wearing away, literally or emotionally.",
+        "zh": "侵蚀；物质或精神上的逐渐消耗。"
+      },
+      "use": {
+        "en": "Constant urgency can turn effort into erosion.",
+        "zh": "持续的紧迫感会把努力变成消耗。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the rhythm light in carried leaves, reflected sky, and folded around stones.",
+      "zh": "在 carried leaves、reflected sky、folded around stones 中保持轻盈节奏。"
+    },
+    {
+      "en": "Contrast did not argue and did not abandon with clear stress on argue and abandon.",
+      "zh": "重读 argue 和 abandon，读清 did not argue 与 did not abandon 的对比。"
+    },
+    {
+      "en": "Give quicken, widen, rest three balanced falling tones.",
+      "zh": "quicken、widen、rest 分别使用三个均衡的降调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice is walking beside water: alert, spacious, and able to change pace without losing direction.",
+      "zh": "跟读时，想象你的声音沿水而行：清醒、开阔，能变换速度却不失方向。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: let the opening hurry be audible in your breath.",
+        "zh": "第一遍：让开头的匆忙在呼吸中可被听见。"
+      },
+      {
+        "en": "Pass two: change pace with each movement of the river.",
+        "zh": "第二遍：随着河流的每种动作改变语速。"
+      },
+      {
+        "en": "Pass three: make the final contrast calm enough to remember.",
+        "zh": "第三遍：把最后的对比读得沉静而令人难忘。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where are you using one fixed pace for conditions that require different rhythms?",
+      "zh": "在哪些本需不同节奏的情境里，你却一直使用同一种步调？"
+    },
+    {
+      "en": "Which word do you need today: quicken, widen, or rest?",
+      "zh": "今天你最需要哪个词：quicken、widen，还是 rest？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-river-set-the-pace/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-river-set-the-pace/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-river-set-the-pace/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-river-set-the-pace/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-river-set-the-pace/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-river-set-the-pace/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-river-set-the-pace/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-river-set-the-pace/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-river-set-the-pace/clips/passage_sections_0.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-river-set-the-pace/clips/passage_sections_1.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-river-set-the-pace/clips/passage_sections_2.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-river-set-the-pace/clips/passage_sections_3.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-river-set-the-pace/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-river-set-the-pace/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-river-set-the-pace/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-river-set-the-pace/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-river-set-the-pace/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-river-set-the-pace/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-river-set-the-pace/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-river-set-the-pace/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-river-set-the-pace/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-river-set-the-pace/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-river-set-the-pace/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-river-set-the-pace/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-river-set-the-pace/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-river-set-the-pace/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-river-set-the-pace/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-river-set-the-pace/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-river-set-the-pace/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-river-set-the-pace/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-river-set-the-pace/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-river-set-the-pace/clips/sources_0.mp3"
+    }
+  }
+}
