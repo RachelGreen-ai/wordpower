@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-a-question-on-the-table",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "title": {
+    "en": "Keep a Question on the Table",
+    "zh": "把一个问题留在桌上"
+  },
+  "subtitle": {
+    "en": "An original reflection on scientific curiosity, patient observation, and the courage to revise a cherished idea.",
+    "zh": "一篇原创美文：关于科学好奇心、耐心观察，以及修正珍爱观点的勇气。"
+  },
+  "tags": [
+    "Science",
+    "Curiosity",
+    "Observation",
+    "Learning",
+    "Humility"
+  ],
+  "sources": [
+    {
+      "title": "The Voyage of the Beagle",
+      "author": "Charles Darwin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/944",
+      "note": {
+        "en": "Public-domain inspiration for close observation, field notes, and learning through revised explanations; this lesson is entirely original.",
+        "zh": "灵感来自这部公开领域作品中的细致观察、田野记录与修正解释的学习方式；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read like an attentive investigator: precise in the details, lively in the questions, and unafraid of uncertainty.",
+    "zh": "像一位专注的研究者那样朗读：细节准确，提问鲜活，并且不惧怕不确定。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Useful Life of Not Knowing",
+      "zh": "不知道的用处"
+    },
+    "intro": {
+      "en": "This original passage enters a school laboratory where one inconvenient result becomes the beginning of better thinking.",
+      "zh": "这篇原创文章走进一间学校实验室，看一个不合预期的结果如何成为更好思考的起点。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Stubborn Seedlings",
+          "zh": "1. 固执的幼苗"
+        },
+        "text": "For three weeks, Lina's class grew bean seedlings under different colors of light. Her prediction was neat: the plants beneath blue light would grow tallest. Most of the chart agreed. One tray did not. Its stems remained short, thick, and unexpectedly green. Lina checked the labels and measured again. She wanted to call the tray defective, because a defective tray would leave her idea untouched. Mr. Han placed the odd result in the center of the table. ‘Before we remove it,’ he said, ‘let us ask what it knows that we do not.’",
+        "coaching": {
+          "en": "Make the prediction sound orderly and the odd tray visually distinct. Give the teacher's question curiosity rather than drama.",
+          "zh": "把预测读得井然有序，让异常托盘在画面中鲜明起来。老师的提问要有好奇心，不必戏剧化。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Question with Patience",
+          "zh": "2. 一个有耐心的问题"
+        },
+        "text": "A good question does not always produce an immediate answer. Sometimes its first gift is better attention. The students rotated the tray, inspected the timer, and traced the path of a cold draft from the window. They learned that the lamp above it gave less heat than the others. Now several explanations were possible: perhaps light color mattered less than expected, perhaps temperature mattered more, or perhaps the two conditions worked together. Their clean conclusion became a living problem. The classroom grew quieter, not from disappointment, but from concentration.",
+        "coaching": {
+          "en": "Read the investigation as a sequence of careful movements. Build energy through the three possible explanations, then soften into concentration.",
+          "zh": "把调查过程读成一连串谨慎动作。三个可能解释逐步蓄力，随后在 concentration 处放柔。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Loyalty to the Work",
+          "zh": "3. 忠于求知本身"
+        },
+        "text": "Lina had confused loyalty to her project with loyalty to her prediction. The difference mattered. If her task was to prove herself right, the stubborn seedlings were enemies. If her task was to understand growth, they were unusually generous teachers. Revising an idea can feel like losing ground, especially when we have explained it confidently. In fact, revision is how thought gains traction. It replaces the smooth floor of certainty with a surface the mind can grip. Lina crossed out one sentence in her report and wrote another: ‘Our result suggests a new experiment.’",
+        "coaching": {
+          "en": "Contrast project and prediction clearly. Give enemies and generous teachers opposite color, then read the revised sentence with earned confidence.",
+          "zh": "清楚对比 project 与 prediction。enemies 和 generous teachers 要读出相反色彩，修改后的句子要有经过思考的自信。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave One Place Open",
+          "zh": "4. 留一个位置给未知"
+        },
+        "text": "At the end of the term, the class displayed its work. Each poster carried a small blank card titled ‘What we still wonder.’ Visitors stopped longest at those cards. The unanswered questions did not weaken the projects; they gave the projects a future. Lina understood that knowledge is not a room made smaller by every fact. It is a table that grows as more people arrive, bringing evidence, disagreement, and sharper tools. We need conclusions because they let us act. We also need one open place beside them, where an inconvenient fact may sit down and change the conversation.",
+        "coaching": {
+          "en": "Let the display feel bright and social. Widen the table image, then finish with a welcoming, thoughtful cadence.",
+          "zh": "让展览场景明亮而有交流感。把“桌子”的意象读得开阔，最后以欢迎未知的思考节奏收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "defective",
+      "meaning": {
+        "en": "Not working correctly because of a fault.",
+        "zh": "有缺陷的；因故障而不能正常工作的。"
+      },
+      "use": {
+        "en": "We tested the device before deciding it was defective.",
+        "zh": "我们在判定设备有缺陷前先进行了测试。"
+      }
+    },
+    {
+      "term": "trace",
+      "meaning": {
+        "en": "Follow the path or development of something carefully.",
+        "zh": "追踪；仔细沿着某事物的路径或发展寻找。"
+      },
+      "use": {
+        "en": "The team traced the error back to one early assumption.",
+        "zh": "团队把错误追溯到一个早期假设。"
+      }
+    },
+    {
+      "term": "concentration",
+      "meaning": {
+        "en": "Focused attention on one activity or problem.",
+        "zh": "专注；集中于一项活动或问题的注意力。"
+      },
+      "use": {
+        "en": "The room became quiet with concentration.",
+        "zh": "房间因众人的专注而安静下来。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "Change an idea or piece of work in light of new information.",
+        "zh": "修正；根据新信息改变观点或作品。"
+      },
+      "use": {
+        "en": "Strong thinkers revise their explanations when the evidence changes.",
+        "zh": "当证据改变时，优秀的思考者会修正自己的解释。"
+      }
+    },
+    {
+      "term": "gain traction",
+      "meaning": {
+        "en": "Begin to make effective progress or receive support.",
+        "zh": "取得进展；开始产生实际推动力或获得支持。"
+      },
+      "use": {
+        "en": "The proposal gained traction after the team tested it.",
+        "zh": "团队测试后，这项提议开始获得推动力。"
+      }
+    },
+    {
+      "term": "inconvenient fact",
+      "meaning": {
+        "en": "A true detail that challenges a preferred explanation or plan.",
+        "zh": "不便的事实；对偏好的解释或计划构成挑战的真实细节。"
+      },
+      "use": {
+        "en": "An inconvenient fact can improve a weak argument.",
+        "zh": "一个不便的事实可以改进薄弱的论点。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link grew bean seedlings and blue light would grow without adding extra pauses.",
+      "zh": "朗读 grew bean seedlings 与 blue light would grow 时自然连读，不要额外停顿。"
+    },
+    {
+      "en": "Stress less, more, and together in the three possible explanations.",
+      "zh": "在三个可能解释中重读 less、more 与 together。"
+    },
+    {
+      "en": "Keep the final list evidence, disagreement, and sharper tools measured and distinct.",
+      "zh": "结尾列表 evidence、disagreement、sharper tools 要节奏均衡、彼此清晰。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with precise curiosity: let each detail lead naturally to the next question.",
+      "zh": "以准确的好奇心跟读：让每个细节自然引向下一个问题。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the experimental details easy to picture.",
+        "zh": "第一遍：让实验细节易于想象。"
+      },
+      {
+        "en": "Pass two: lift your tone slightly whenever a new possibility opens.",
+        "zh": "第二遍：每当新可能性出现时，语调微微上扬。"
+      },
+      {
+        "en": "Pass three: give the final open place a calm sense of invitation.",
+        "zh": "第三遍：把结尾的开放位置读出沉静的邀请感。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What inconvenient fact in your work might deserve a place at the center of the table?",
+      "zh": "在你的工作中，哪个“不便的事实”也许值得被放到桌子中央？"
+    },
+    {
+      "en": "When did revising your view lead to a better question?",
+      "zh": "你曾在什么时候因为修正观点，而提出了一个更好的问题？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-question-on-the-table/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-question-on-the-table/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-question-on-the-table/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-question-on-the-table/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-question-on-the-table/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-a-question-on-the-table/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-a-question-on-the-table/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-question-on-the-table/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-question-on-the-table/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-question-on-the-table/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-question-on-the-table/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-question-on-the-table/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-question-on-the-table/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-question-on-the-table/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-question-on-the-table/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-question-on-the-table/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-question-on-the-table/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-question-on-the-table/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-question-on-the-table/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-question-on-the-table/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-question-on-the-table/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-question-on-the-table/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-question-on-the-table/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-question-on-the-table/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-question-on-the-table/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-question-on-the-table/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-question-on-the-table/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-question-on-the-table/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-question-on-the-table/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-question-on-the-table/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-question-on-the-table/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-question-on-the-table/clips/sources_0.mp3"
+    }
+  }
+}

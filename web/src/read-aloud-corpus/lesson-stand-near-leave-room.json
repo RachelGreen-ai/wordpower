@@ -1,0 +1,244 @@
+{
+  "lessonId": "stand-near-leave-room",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "title": {
+    "en": "Stand Near, Leave Room",
+    "zh": "站在近处，留出空间"
+  },
+  "subtitle": {
+    "en": "An original reflection on parenting, independence, and staying available without standing in the way.",
+    "zh": "一篇原创美文：关于养育、独立，以及如何既保持在场，又不挡住孩子的路。"
+  },
+  "tags": [
+    "Parenting",
+    "Trust",
+    "Independence",
+    "Listening",
+    "Family"
+  ],
+  "sources": [
+    {
+      "title": "The Education of the Child",
+      "author": "Ellen Key",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/57283",
+      "note": {
+        "en": "Public-domain inspiration for respecting a child's developing independence; this lesson is entirely original.",
+        "zh": "灵感来自这部公开领域作品中尊重儿童独立成长的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with affectionate restraint. Let care be audible, but do not make every sentence sentimental.",
+    "zh": "用温暖而克制的语气朗读。让关爱可被听见，但不要把每句话都读得煽情。"
+  },
+  "passage": {
+    "title": {
+      "en": "A House with Room to Return",
+      "zh": "一座留有归途的房子"
+    },
+    "intro": {
+      "en": "This original passage follows a parent learning that protection can become more spacious as a child grows.",
+      "zh": "这篇原创文章讲述一位父亲逐渐明白：随着孩子长大，保护也可以变得更有空间。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Bicycle at the Gate",
+          "zh": "1. 门口的自行车"
+        },
+        "text": "When Mara was small, Daniel could solve most dangers with one hand: lift the hot cup, fasten the helmet, close the gate before the dog escaped. Years later, she stood beside a bicycle packed for her first weekend trip without him. Daniel inspected the brakes twice. He tightened a strap that was already tight and began describing the steep turn beyond the station. Mara listened, then said gently, ‘I need you to believe I can notice things too.’ The sentence was not a rejection of his care. It was a request for that care to change shape.",
+        "coaching": {
+          "en": "Keep the practical details light and natural. Pause before Mara's request, then give the final sentence quiet recognition.",
+          "zh": "生活细节要读得轻松自然。女儿开口前稍作停顿，末句读出安静的领悟。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Advice with a Handle",
+          "zh": "2. 带把手的建议"
+        },
+        "text": "Daniel had always thought good parenting meant providing an answer before the question became painful. Yet an answer offered too early can be difficult to hold. It has no handle because it does not belong to the listener's experience. So he tried a smaller sentence: ‘Would you like my thought, or would you like me to listen?’ Mara smiled and chose listening. She explained her route, the friend she would meet, and the worry she had not wanted to admit. By making room instead of filling it, Daniel heard more truth than his instructions would have uncovered.",
+        "coaching": {
+          "en": "Emphasize answer before question and the image of a handle. Make Daniel's choice sound genuinely open, not like a disguised lecture.",
+          "zh": "重读 answer before question，并突出“把手”的意象。父亲的提问要真正开放，不要像换了形式的说教。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Work of Standing Back",
+          "zh": "3. 后退一步的功课"
+        },
+        "text": "Standing back is not the same as withdrawing. It requires a particular kind of attention: close enough to notice a real need, steady enough not to invent one. Daniel watched Mara test the bicycle light and check the weather herself. He felt the old impulse to repeat every warning. Instead, he asked one useful question, helped carry the bicycle down the steps, and stopped there. Restraint felt strangely active. He was not doing nothing; he was making space for competence to appear. Trust, he discovered, is not blindness. It is confidence joined to the willingness to be surprised.",
+        "coaching": {
+          "en": "Use clear contrast in standing back and withdrawing. Slow the sentence about restraint, and land firmly on confidence and surprised.",
+          "zh": "清楚读出 standing back 与 withdrawing 的区别。“克制”那句放慢，结尾稳稳落在 confidence 与 surprised 上。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Unlatched Door",
+          "zh": "4. 没有上闩的门"
+        },
+        "text": "At the gate, Daniel did not offer a final warning. He said, ‘Send a message when you arrive, and call if the plan changes.’ Then he watched Mara ride into the pale morning until the red light beneath her seat became a small moving point. Back inside, he noticed the front door had not caught. Once, he would have pushed it firmly shut. This time he left it unlatched for a while. The gesture held the balance he wanted to learn: a home secure enough to leave, a welcome easy to return to, and love that did not have to block the road in order to remain present.",
+        "coaching": {
+          "en": "Let the departure image widen. Read the three-part closing slowly, with warmth but without possessiveness.",
+          "zh": "让离别的画面逐渐展开。结尾三层结构要放慢，温暖但不占有。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "Calm control that keeps you from doing or saying too much.",
+        "zh": "克制；避免做得或说得过多的冷静自控。"
+      },
+      "use": {
+        "en": "Her restraint gave the younger speaker room to finish.",
+        "zh": "她的克制给了年轻发言者说完的空间。"
+      }
+    },
+    {
+      "term": "stand back",
+      "meaning": {
+        "en": "Allow someone space to act without unnecessary interference.",
+        "zh": "退后一步；给别人自主行动的空间。"
+      },
+      "use": {
+        "en": "Sometimes a mentor must stand back and let skill appear.",
+        "zh": "有时导师必须退后一步，让能力自然显现。"
+      }
+    },
+    {
+      "term": "withdraw",
+      "meaning": {
+        "en": "Move away or stop taking part.",
+        "zh": "退出；不再参与。"
+      },
+      "use": {
+        "en": "Giving space does not mean you have to withdraw.",
+        "zh": "给出空间并不意味着你必须退出。"
+      }
+    },
+    {
+      "term": "competence",
+      "meaning": {
+        "en": "The ability to do something effectively and responsibly.",
+        "zh": "胜任能力；有效而负责地做事的能力。"
+      },
+      "use": {
+        "en": "Real responsibility allows competence to grow.",
+        "zh": "真正的责任会让胜任能力不断成长。"
+      }
+    },
+    {
+      "term": "disguised",
+      "meaning": {
+        "en": "Made to look like something different from what it really is.",
+        "zh": "伪装的；表面呈现为另一种样子的。"
+      },
+      "use": {
+        "en": "The question sounded like a disguised instruction.",
+        "zh": "那个问题听起来像一条伪装的指令。"
+      }
+    },
+    {
+      "term": "remain present",
+      "meaning": {
+        "en": "Continue to be attentive and emotionally available.",
+        "zh": "保持在场；继续给予关注与情感支持。"
+      },
+      "use": {
+        "en": "You can remain present without controlling every choice.",
+        "zh": "你可以保持在场，而不必控制每一个选择。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonants crisp in fasten the helmet and test the bicycle light.",
+      "zh": "在 fasten the helmet 和 test the bicycle light 中把辅音读清楚。"
+    },
+    {
+      "en": "Use a rising, genuinely open tone in Would you like my thought, or would you like me to listen?",
+      "zh": "朗读 Would you like my thought, or would you like me to listen? 时使用真诚开放的升调。"
+    },
+    {
+      "en": "Balance a home secure enough to leave and a welcome easy to return to as two equal phrases.",
+      "zh": "将 a home secure enough to leave 与 a welcome easy to return to 读成两个均衡的意群。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with the voice of a caring adult learning to replace control with trust.",
+      "zh": "跟读时，使用一位关爱的成年人逐渐学会以信任替代控制的声音。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep Daniel's practical actions brisk and visible.",
+        "zh": "第一遍：把 Daniel 的实际动作读得利落、清晰。"
+      },
+      {
+        "en": "Pass two: soften whenever advice becomes listening.",
+        "zh": "第二遍：每当建议转为倾听时，语气随之柔和。"
+      },
+      {
+        "en": "Pass three: let the final image feel open, steady, and complete.",
+        "zh": "第三遍：让结尾画面开阔、稳定而完整。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where might your help become more useful if you offered it later or asked first?",
+      "zh": "在哪件事上，如果你晚一点帮忙，或先问一句，你的帮助反而会更有用？"
+    },
+    {
+      "en": "What does staying available without standing in the way look like in your family?",
+      "zh": "在你的家庭里，既保持在场又不挡路，会是什么样子？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/stand-near-leave-room/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/stand-near-leave-room/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/stand-near-leave-room/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/stand-near-leave-room/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/stand-near-leave-room/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/stand-near-leave-room/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/stand-near-leave-room/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/stand-near-leave-room/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/stand-near-leave-room/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/stand-near-leave-room/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/stand-near-leave-room/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/stand-near-leave-room/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/stand-near-leave-room/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/stand-near-leave-room/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/stand-near-leave-room/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/stand-near-leave-room/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/stand-near-leave-room/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/stand-near-leave-room/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/stand-near-leave-room/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/stand-near-leave-room/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/stand-near-leave-room/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/stand-near-leave-room/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/stand-near-leave-room/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/stand-near-leave-room/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/stand-near-leave-room/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/stand-near-leave-room/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/stand-near-leave-room/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/stand-near-leave-room/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/stand-near-leave-room/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/stand-near-leave-room/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/stand-near-leave-room/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/stand-near-leave-room/clips/sources_0.mp3"
+    }
+  }
+}

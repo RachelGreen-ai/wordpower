@@ -1,0 +1,244 @@
+{
+  "lessonId": "wear-your-own-name-comfortably",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "title": {
+    "en": "Wear Your Own Name Comfortably",
+    "zh": "自在地穿上自己的名字"
+  },
+  "subtitle": {
+    "en": "An original reflection on self-trust, borrowed voices, and becoming recognizable to yourself.",
+    "zh": "一篇原创美文：关于自我信任、借来的声音，以及如何成为自己也认得出的人。"
+  },
+  "tags": [
+    "Self-Trust",
+    "Identity",
+    "Voice",
+    "Courage",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Self-Reliance",
+      "author": "Ralph Waldo Emerson",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/16643",
+      "note": {
+        "en": "Public-domain inspiration for intellectual independence and an authentic voice; this lesson is entirely original and does not reproduce the essay.",
+        "zh": "灵感来自这部公开领域作品中关于思想独立与真实声音的观念；本课全文原创，未复刻原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with increasing ease. Begin slightly formal, then allow the voice to become warmer, simpler, and more distinctly your own.",
+    "zh": "以逐渐放松的方式朗读。开头略显正式，随后让声音变得更温暖、更简洁，也更像你自己。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Voice You Can Live In",
+      "zh": "一种你住得进去的声音"
+    },
+    "intro": {
+      "en": "This original passage follows a young professional who notices how easily admiration can turn into imitation.",
+      "zh": "这篇原创文章讲述一位年轻职场人如何发现：欣赏有时会不知不觉变成模仿。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Borrowed Jacket",
+          "zh": "1. 借来的外套"
+        },
+        "text": "Before important meetings, Noor borrowed phrases from people she admired. She had collected them carefully: a manager's brisk opening, a professor's elegant hesitation, a podcast host's confident ‘Here is what matters.’ The phrases worked. People nodded, and Noor sounded prepared. Yet afterward she felt as if she had spent an hour in someone else's jacket—impressive at first glance, but tight across the shoulders. Her own thoughts had entered the room disguised as better-dressed strangers. Success had not made her false, but it had made the distance from herself difficult to ignore.",
+        "coaching": {
+          "en": "Give each borrowed voice a distinct texture. Let the jacket image bring mild discomfort, not shame.",
+          "zh": "让每种借来的声音都有不同质感。“外套”意象要带出轻微不适，而不是羞耻。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. What Remains after the Applause",
+          "zh": "2. 掌声之后留下什么"
+        },
+        "text": "Imitation is not always a mistake. We learn music by echoing melodies and language by trying on sentences. The trouble begins when practice never becomes choice. Noor opened an old notebook and marked the ideas she still believed when no one was listening. The list was plain: people understand more when examples are concrete; uncertainty should be named early; kindness and precision can share a sentence. None of these beliefs sounded grand. Together, however, they formed a recognizable pattern—the grain of her own mind beneath the polish she had borrowed.",
+        "coaching": {
+          "en": "Correct the view of imitation gently. Read Noor's three beliefs plainly, then warm the phrase the grain of her own mind.",
+          "zh": "温和地修正对“模仿”的看法。Noor 的三条信念要朴素地读出，并在 the grain of her own mind 处加深温度。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Smaller, Truer Sentence",
+          "zh": "3. 更小、更真的句子"
+        },
+        "text": "At the next meeting, Noor felt the polished opening rise to her lips. She let it pass. ‘I see one risk we should discuss,’ she said. The sentence was smaller than the one she had rehearsed, but it fit. When a colleague disagreed, Noor did not reach for borrowed certainty. She answered, ‘I may be missing something. Show me where.’ Her authority did not disappear. It became less theatrical and more useful. A voice becomes trustworthy not because it never trembles, but because its sound and its meaning come from the same place.",
+        "coaching": {
+          "en": "Make the two spoken lines direct and unadorned. Contrast theatrical and useful, then slow the final definition of trustworthiness.",
+          "zh": "两句直接引语要朴实、无修饰。读出 theatrical 与 useful 的对比，并放慢最后对可信声音的定义。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Grow into the Name",
+          "zh": "4. 长成自己的名字"
+        },
+        "text": "Self-trust is sometimes described as a heroic refusal to care what others think. Noor found it quieter than that. She still listened, borrowed useful methods, and changed her mind. But she no longer handed every judgment the keys to her voice. At the bottom of her notebook, she wrote her name and, beneath it, one question: ‘Can I live inside the words I am about to say?’ A true voice is not discovered once and kept unchanged. It is made through many small acts of alignment, until your name no longer feels like a label pinned to you, but something you can wear comfortably into the world.",
+        "coaching": {
+          "en": "Avoid a triumphant tone. Make the notebook question intimate, then let the final image settle with quiet confidence.",
+          "zh": "避免胜利式语气。把笔记本上的问题读得贴近内心，最后的意象以安静的自信落定。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "brisk",
+      "meaning": {
+        "en": "Quick, energetic, and confident in manner.",
+        "zh": "轻快利落的；举止迅速而有活力的。"
+      },
+      "use": {
+        "en": "She gave the team a brisk summary of the decision.",
+        "zh": "她利落地向团队概述了决定。"
+      }
+    },
+    {
+      "term": "imitation",
+      "meaning": {
+        "en": "The act of copying a style, action, or sound.",
+        "zh": "模仿；复制某种风格、动作或声音。"
+      },
+      "use": {
+        "en": "Imitation can be a useful stage of learning.",
+        "zh": "模仿可以是学习中很有用的阶段。"
+      }
+    },
+    {
+      "term": "recognizable",
+      "meaning": {
+        "en": "Easy to identify because it has a clear character or pattern.",
+        "zh": "可辨认的；因具有鲜明特征或模式而容易识别的。"
+      },
+      "use": {
+        "en": "Her essays have a recognizable warmth and precision.",
+        "zh": "她的文章有一种鲜明可辨的温暖与精准。"
+      }
+    },
+    {
+      "term": "unadorned",
+      "meaning": {
+        "en": "Simple and without unnecessary decoration.",
+        "zh": "朴素无饰的；没有多余修饰的。"
+      },
+      "use": {
+        "en": "His unadorned answer made the problem clearer.",
+        "zh": "他朴素直接的回答让问题更清楚了。"
+      }
+    },
+    {
+      "term": "theatrical",
+      "meaning": {
+        "en": "Exaggerated for effect rather than natural or practical.",
+        "zh": "戏剧化的；为了效果而夸张、不够自然实际的。"
+      },
+      "use": {
+        "en": "The apology was sincere rather than theatrical.",
+        "zh": "这份道歉是真诚的，而非戏剧化的。"
+      }
+    },
+    {
+      "term": "alignment",
+      "meaning": {
+        "en": "Agreement between your values, words, and actions.",
+        "zh": "一致；价值观、语言与行动之间的协调。"
+      },
+      "use": {
+        "en": "Confidence grows from alignment between words and actions.",
+        "zh": "自信来自言语与行动的一致。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Give a manager's brisk opening, a professor's elegant hesitation, and a podcast host's confidence three different rhythms.",
+      "zh": "为 a manager's brisk opening、a professor's elegant hesitation 与 a podcast host's confidence 设计三种不同节奏。"
+    },
+    {
+      "en": "Stress still in the ideas she still believed when no one was listening.",
+      "zh": "在 the ideas she still believed when no one was listening 中重读 still。"
+    },
+    {
+      "en": "Keep sound and meaning balanced in its sound and its meaning come from the same place.",
+      "zh": "在 its sound and its meaning come from the same place 中均衡重读 sound 与 meaning。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are moving from a borrowed performance toward a voice that fits your own thought.",
+      "zh": "跟读时，想象自己正从借来的表演，走向一种真正贴合自身思想的声音。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: exaggerate the borrowed voices just enough to hear them.",
+        "zh": "第一遍：把借来的声音略微夸张，直到你能清楚听见差异。"
+      },
+      {
+        "en": "Pass two: make Noor's own sentences simpler and steadier.",
+        "zh": "第二遍：把 Noor 自己的话读得更简洁、更稳定。"
+      },
+      {
+        "en": "Pass three: finish in the tone you would choose for your own honest answer.",
+        "zh": "第三遍：用你会为自己真诚回答所选择的语气收尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which borrowed phrase or professional manner no longer fits you?",
+      "zh": "哪一种借来的表达或职业姿态，已经不再适合你？"
+    },
+    {
+      "en": "What belief remains yours even when no one is listening?",
+      "zh": "即使没有人在听，哪一种信念依然真正属于你？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/wear-your-own-name-comfortably/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/wear-your-own-name-comfortably/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/wear-your-own-name-comfortably/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/wear-your-own-name-comfortably/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/wear-your-own-name-comfortably/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/wear-your-own-name-comfortably/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/wear-your-own-name-comfortably/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/wear-your-own-name-comfortably/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/wear-your-own-name-comfortably/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/wear-your-own-name-comfortably/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/wear-your-own-name-comfortably/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/wear-your-own-name-comfortably/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/wear-your-own-name-comfortably/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/wear-your-own-name-comfortably/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/wear-your-own-name-comfortably/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/wear-your-own-name-comfortably/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/wear-your-own-name-comfortably/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/wear-your-own-name-comfortably/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/wear-your-own-name-comfortably/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/wear-your-own-name-comfortably/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/wear-your-own-name-comfortably/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/wear-your-own-name-comfortably/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/wear-your-own-name-comfortably/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/wear-your-own-name-comfortably/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/wear-your-own-name-comfortably/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/wear-your-own-name-comfortably/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/wear-your-own-name-comfortably/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/wear-your-own-name-comfortably/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/wear-your-own-name-comfortably/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/wear-your-own-name-comfortably/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/wear-your-own-name-comfortably/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/wear-your-own-name-comfortably/clips/sources_0.mp3"
+    }
+  }
+}

@@ -88,6 +88,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Keep a Field Notebook](https://wordpower-seven.vercel.app/read-aloud/keep-a-field-notebook): An original reflection on attention, patient observation, and learning to see before we explain.
 - [Keep a Light in the Window](https://wordpower-seven.vercel.app/read-aloud/keep-a-light-in-the-window): An original reflection on hospitality, belonging, and the quiet courage of making room.
 - [Keep a Private Measure](https://wordpower-seven.vercel.app/read-aloud/keep-a-private-measure): An original reflection on self-trust, borrowed standards, and the quiet discipline of choosing what counts.
+- [Keep a Question on the Table](https://wordpower-seven.vercel.app/read-aloud/keep-a-question-on-the-table): An original reflection on scientific curiosity, patient observation, and the courage to revise a cherished idea.
 - [Keep a Window for the Unknown](https://wordpower-seven.vercel.app/read-aloud/keep-a-window-for-the-unknown): An original reflection on experiment, intellectual humility, and the pleasure of a question that survives its first answer.
 - [Keep a Window for the Wind](https://wordpower-seven.vercel.app/read-aloud/keep-a-window-for-the-wind): An original reflection on attention, uncertainty, and the intelligence of leaving room.
 - [Keep One Chair Empty](https://wordpower-seven.vercel.app/read-aloud/keep-one-chair-empty): An original reflection on composure, disagreement, and leaving room for a better interpretation.
@@ -139,10 +140,12 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Self-Trust Is an Inner Compass.](https://wordpower-seven.vercel.app/read-aloud/self-trust-inner-compass): A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.
 - [Set One More Place](https://wordpower-seven.vercel.app/read-aloud/set-one-more-place): An original reflection on hospitality, belonging, and the small civic art of making room.
 - [Speak at the Temperature of Truth](https://wordpower-seven.vercel.app/read-aloud/speak-at-the-temperature-of-truth): An original reflection on calm communication, honest disagreement, and words that leave dignity intact.
+- [Stand Near, Leave Room](https://wordpower-seven.vercel.app/read-aloud/stand-near-leave-room): An original reflection on parenting, independence, and staying available without standing in the way.
 - [Take the Last Seat](https://wordpower-seven.vercel.app/read-aloud/take-the-last-seat): An original reflection on practical leadership, shared work, and earning the clearest view of a team.
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.
 - [Wait for the Second Birdsong](https://wordpower-seven.vercel.app/read-aloud/wait-for-the-second-birdsong): An original reflection on patient attention, natural pauses, and the details that hurry conceals.
 - [Walk Until the World Returns](https://wordpower-seven.vercel.app/read-aloud/walk-until-the-world-returns): An original reflection on recovering attention through an unhurried walk and the company of ordinary things.
+- [Wear Your Own Name Comfortably](https://wordpower-seven.vercel.app/read-aloud/wear-your-own-name-comfortably): An original reflection on self-trust, borrowed voices, and becoming recognizable to yourself.
 - [Widen the Frame Before Judgment](https://wordpower-seven.vercel.app/read-aloud/widen-the-frame-before-judgment): An original reflection on moral imagination, careful judgment, and seeing a life from more than one room.
 - [Wonder Needs a Workbench](https://wordpower-seven.vercel.app/read-aloud/wonder-needs-a-workbench): An original reflection on patient experiment, precise attention, and the craft hidden inside discovery.
 
