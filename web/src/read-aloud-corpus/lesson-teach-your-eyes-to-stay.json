@@ -1,0 +1,244 @@
+{
+  "lessonId": "teach-your-eyes-to-stay",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "title": {
+    "en": "Teach Your Eyes to Stay",
+    "zh": "教会目光停留"
+  },
+  "subtitle": {
+    "en": "An original reflection on drawing, patient attention, and the difference between naming a thing and seeing it.",
+    "zh": "一篇原创美文：关于绘画、耐心注视，以及“叫出名字”与“真正看见”的区别。"
+  },
+  "tags": [
+    "Art",
+    "Attention",
+    "Observation",
+    "Practice",
+    "Beauty"
+  ],
+  "sources": [
+    {
+      "title": "The Elements of Drawing",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30325",
+      "note": {
+        "en": "Public-domain inspiration for learning to see through patient drawing practice; this lesson is entirely original.",
+        "zh": "灵感来自这部公开领域作品中以耐心绘画练习学习观看的方法；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with unhurried precision. Allow each visual detail enough time to become visible to the listener.",
+    "zh": "用从容而准确的语气朗读。给每个视觉细节足够时间，让听者也能看见。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Leaf You Have Not Seen Yet",
+      "zh": "那片你尚未看见的叶子"
+    },
+    "intro": {
+      "en": "This original passage follows a beginner who discovers that drawing starts long before the pencil moves.",
+      "zh": "这篇原创文章讲述一位初学者发现：绘画早在铅笔移动之前就已经开始。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Symbol of a Leaf",
+          "zh": "1. 叶子的符号"
+        },
+        "text": "On the first morning of her drawing class, Mei placed a sycamore leaf beside her notebook. She drew an oval, added a stem, and filled the center with tidy veins. The result looked unmistakably like a leaf and not at all like the leaf before her. Her teacher, Tomas, did not correct the lines. He asked her to put down the pencil and describe the edge. Mei said it was jagged. ‘Where?’ he asked. She looked again. Some teeth were blunt, one was torn, and the lower curve was nearly smooth. The single word jagged had hidden a landscape.",
+        "coaching": {
+          "en": "Let the neat first drawing feel slightly comic. Slow the discovery of blunt, torn, and smooth.",
+          "zh": "把第一幅整齐的画读出一点轻松的趣味。在 blunt、torn、smooth 的发现处放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Looking Past the Label",
+          "zh": "2. 越过标签去看"
+        },
+        "text": "Names are useful handles, but they can make the mind stop early. Once we call something a leaf, a face, or a familiar street, we are tempted to replace the living object with its label. Drawing resists that shortcut. It asks: Which side catches the window light? Where does the shadow grow cool? Does this line truly curve, or do you merely expect it to? The questions are humble because the page keeps a record of every assumption. A misplaced line is not an insult. It is evidence that the eye left before the looking was finished.",
+        "coaching": {
+          "en": "Give the three visual questions an investigative lift. Land gently but firmly on left and finished.",
+          "zh": "三个视觉问题要读出探究感。最后在 left 与 finished 上轻柔但坚定地收住。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Patience of Revision",
+          "zh": "3. 修改的耐心"
+        },
+        "text": "Mei began again. She measured the width against the length with her pencil. She noticed that the central vein leaned slightly left and that a pale stain spread near the stem like diluted tea. For ten minutes, her drawing seemed to become less beautiful. Erased lines clouded the paper; proportions shifted; the confident symbol disappeared. Then a particular likeness emerged—not perfect, but attentive. The page held the leaf's slight imbalance, its damage, and the afternoon it had survived. Revision had not polished away error. It had brought her claim closer to what was there.",
+        "coaching": {
+          "en": "Read the measurements patiently. Contrast the disappearing symbol with the quieter arrival of likeness.",
+          "zh": "测量过程要读得耐心。对比“符号”的消失与“相似”的安静出现。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A More Generous Gaze",
+          "zh": "4. 更慷慨的目光"
+        },
+        "text": "Weeks later, Mei noticed that drawing had altered the rest of her day. Waiting for a bus, she saw five kinds of gray in the pavement after rain. Speaking with her brother, she noticed the moment his confident expression loosened into worry. Attention had moved beyond the sketchbook. To look carefully is not to stare or possess. It is to grant the world enough time to exceed our first description. Beauty often enters through that delay. So does understanding. The trained eye is not the eye that names everything quickly; it is the eye willing to stay until the easy name becomes a particular truth.",
+        "coaching": {
+          "en": "Open the rainy pavement into color. Make the final sentence spacious, with a warm stress on willing to stay.",
+          "zh": "让雨后路面的灰色层次展开。最后一句读得开阔，温暖重读 willing to stay。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "unmistakably",
+      "meaning": {
+        "en": "In a way that is very clear and cannot be confused.",
+        "zh": "明确无误地；清楚到不会被混淆地。"
+      },
+      "use": {
+        "en": "The melody was unmistakably hers.",
+        "zh": "那段旋律显然出自她。"
+      }
+    },
+    {
+      "term": "jagged",
+      "meaning": {
+        "en": "Having a rough edge with sharp, uneven points.",
+        "zh": "参差不齐的；边缘尖锐而不规则的。"
+      },
+      "use": {
+        "en": "A jagged crack crossed the old tile.",
+        "zh": "一道参差的裂缝穿过旧瓷砖。"
+      }
+    },
+    {
+      "term": "resist a shortcut",
+      "meaning": {
+        "en": "Refuse an easier method that would miss something important.",
+        "zh": "拒绝走捷径；不采用会遗漏重要内容的简便方法。"
+      },
+      "use": {
+        "en": "Good editors resist the shortcut of vague praise.",
+        "zh": "优秀的编辑会拒绝含糊赞美这种捷径。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "The size or amount of one part in relation to another.",
+        "zh": "比例；一个部分相对于另一部分的大小或数量关系。"
+      },
+      "use": {
+        "en": "The window's proportion made the room feel taller.",
+        "zh": "窗户的比例让房间显得更高。"
+      }
+    },
+    {
+      "term": "likeness",
+      "meaning": {
+        "en": "A close visual similarity to a person or thing.",
+        "zh": "相似；与某人或某物在视觉上的近似。"
+      },
+      "use": {
+        "en": "The portrait captured a lively likeness.",
+        "zh": "这幅肖像捕捉到了生动的神似。"
+      }
+    },
+    {
+      "term": "exceed",
+      "meaning": {
+        "en": "Go beyond a limit, expectation, or description.",
+        "zh": "超出；超过限制、预期或描述。"
+      },
+      "use": {
+        "en": "The conversation exceeded our first expectations.",
+        "zh": "这次对话超出了我们最初的预期。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep placed a sycamore leaf beside her notebook flowing as one visual phrase.",
+      "zh": "将 placed a sycamore leaf beside her notebook 连贯地读成一个视觉意群。"
+    },
+    {
+      "en": "Contrast truly curve with merely expect it to through clear sentence stress.",
+      "zh": "通过清晰的句子重音对比 truly curve 与 merely expect it to。"
+    },
+    {
+      "en": "Lengthen slightly through five kinds of gray in the pavement after rain.",
+      "zh": "朗读 five kinds of gray in the pavement after rain 时略微拉长，展开画面。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice were a pencil learning to follow what is present instead of what it expects.",
+      "zh": "跟读时，想象你的声音是一支铅笔，学习追随眼前之物，而不是先入之见。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every edge, stain, and shadow visible.",
+        "zh": "第一遍：让每处边缘、斑痕与阴影都清晰可见。"
+      },
+      {
+        "en": "Pass two: pause briefly whenever an assumption is corrected.",
+        "zh": "第二遍：每当一个假设被修正时，短暂停顿。"
+      },
+      {
+        "en": "Pass three: let the closing idea arrive with patient wonder.",
+        "zh": "第三遍：让结尾的思想带着耐心的惊喜抵达。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar thing might become new if you described it without using its name?",
+      "zh": "如果不使用名称来描述，哪件熟悉的事物也许会重新变得新鲜？"
+    },
+    {
+      "en": "Where in your life does the easy label hide a more particular truth?",
+      "zh": "在你的生活中，哪个简单标签遮住了更具体的真相？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/teach-your-eyes-to-stay/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/teach-your-eyes-to-stay/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/teach-your-eyes-to-stay/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/teach-your-eyes-to-stay/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/teach-your-eyes-to-stay/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/teach-your-eyes-to-stay/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/teach-your-eyes-to-stay/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/teach-your-eyes-to-stay/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/teach-your-eyes-to-stay/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/teach-your-eyes-to-stay/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/teach-your-eyes-to-stay/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/teach-your-eyes-to-stay/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/teach-your-eyes-to-stay/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/teach-your-eyes-to-stay/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/teach-your-eyes-to-stay/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/teach-your-eyes-to-stay/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/teach-your-eyes-to-stay/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/teach-your-eyes-to-stay/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/teach-your-eyes-to-stay/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/teach-your-eyes-to-stay/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/teach-your-eyes-to-stay/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/teach-your-eyes-to-stay/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/teach-your-eyes-to-stay/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/teach-your-eyes-to-stay/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/teach-your-eyes-to-stay/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/teach-your-eyes-to-stay/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/teach-your-eyes-to-stay/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/teach-your-eyes-to-stay/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/teach-your-eyes-to-stay/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/teach-your-eyes-to-stay/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/teach-your-eyes-to-stay/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/teach-your-eyes-to-stay/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "be-the-steadiest-voice",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "title": {
+    "en": "Be the Steadiest Voice",
+    "zh": "成为最沉稳的声音"
+  },
+  "subtitle": {
+    "en": "An original reflection on leadership under pressure, useful courage, and the calm that helps a group think.",
+    "zh": "一篇原创美文：关于压力下的领导力、有用的勇气，以及帮助团队思考的沉稳。"
+  },
+  "tags": [
+    "Leadership",
+    "Courage",
+    "Communication",
+    "Responsibility",
+    "Calm"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration for composure, duty, and attention to what can be done now; this lesson is entirely original.",
+        "zh": "灵感来自这部公开领域作品中关于沉着、责任与专注于当下可行之事的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded authority. Let calm sound active and useful, never sleepy or detached.",
+    "zh": "用扎实而有分量的语气朗读。让沉稳听起来积极、有用，而不是困倦或疏离。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Room Borrowing Its Weather",
+      "zh": "一间借用情绪天气的房间"
+    },
+    "intro": {
+      "en": "This original passage enters a community kitchen during a sudden power failure and watches leadership become audible.",
+      "zh": "这篇原创文章走进一间突然停电的社区厨房，看领导力如何通过声音被人听见。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When the Lights Went Out",
+          "zh": "1. 灯熄灭的时候"
+        },
+        "text": "The community kitchen was preparing two hundred dinners when the lights went out. Mixers stopped, refrigerators fell silent, and someone near the ovens shouted that the whole evening was ruined. Priya, the volunteer coordinator, felt the same flash of alarm. She also knew that a group often borrows its emotional weather from the clearest voice in the room. If she spoke too quickly, fear would spread. If she pretended nothing was wrong, trust would thin. She took one breath and said, ‘We have a serious problem. First, let us make the room safe.’",
+        "coaching": {
+          "en": "Build the mechanical silence sharply. Make Priya's first sentence grave but controlled, with a practical landing on safe.",
+          "zh": "把机器骤停后的安静读得鲜明。Priya 的第一句话要严肃而克制，稳稳落在 safe 上。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Courage Made Specific",
+          "zh": "2. 让勇气变得具体"
+        },
+        "text": "Useful courage is rarely a speech. More often, it is a sequence. Priya asked Mateo to check the gas valves, Lin to count the insulated boxes, and two others to call the utility company and the shelter. She named what they knew, what they did not know, and when they would decide whether to cancel. The volunteers stopped arguing with the entire disaster and began answering smaller questions. Which food was already cooked? How long would it stay hot? Could the cold dishes be finished by hand? Specific work gave their anxiety somewhere to go.",
+        "coaching": {
+          "en": "Give the assignments clean, decisive rhythm. Let the three practical questions gather momentum toward work.",
+          "zh": "任务分配要读得清晰果断。三个实际问题逐步加速，把能量引向行动。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Honest Temperature",
+          "zh": "3. 诚实的温度"
+        },
+        "text": "Calm leadership does not lower the emotional temperature by denying heat. It names the heat accurately. When a volunteer said, ‘You are acting as if this is easy,’ Priya answered, ‘It is not easy. I am worried too. But worry can sit beside the checklist while we work.’ The answer changed the room because it contained neither performance nor panic. Her authority did not come from being untouched by fear. It came from refusing to make everyone else carry her fear for her. Composure was not a mask; it was a form of shared shelter.",
+        "coaching": {
+          "en": "Keep the challenge direct. In Priya's reply, acknowledge worried, then firm the rhythm through checklist and work.",
+          "zh": "质疑要直接。Priya 回答时先承认 worried，再在 checklist 与 work 处稳住节奏。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. What the Room Remembered",
+          "zh": "4. 房间记住了什么"
+        },
+        "text": "Power returned after forty-three minutes. The team finished one hundred eighty-six dinners and replaced the rest with fruit, bread, and a truthful note. It was not the flawless evening they had planned. Yet the shelter received its meal, the kitchen remained safe, and no one had been reduced to a spectator of someone else's heroism. Later, the volunteers did not remember Priya as fearless. They remembered that she kept turning alarm into the next responsible action. A leader cannot promise clear skies. A leader can become the steady voice by which a room learns to read the weather.",
+        "coaching": {
+          "en": "Read the imperfect result with quiet pride. Slow the final two sentences and make weather feel practical, not decorative.",
+          "zh": "用安静的自豪读出并不完美的结果。最后两句放慢，让 weather 的意象务实而不只是修辞。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "composure",
+      "meaning": {
+        "en": "Calm control of your feelings and behavior under pressure.",
+        "zh": "沉着；在压力下对情绪和行为的冷静掌控。"
+      },
+      "use": {
+        "en": "Her composure helped the team assess the damage.",
+        "zh": "她的沉着帮助团队评估损失。"
+      }
+    },
+    {
+      "term": "coordinator",
+      "meaning": {
+        "en": "A person who organizes people and activities to work together.",
+        "zh": "协调人；组织人员与活动协同工作的人。"
+      },
+      "use": {
+        "en": "The coordinator gave each volunteer a clear role.",
+        "zh": "协调人给每位志愿者分配了明确角色。"
+      }
+    },
+    {
+      "term": "insulated",
+      "meaning": {
+        "en": "Protected by material that slows the movement of heat.",
+        "zh": "隔热的；由能减缓热量传递的材料保护的。"
+      },
+      "use": {
+        "en": "We packed the soup in insulated boxes.",
+        "zh": "我们把汤装进了保温箱。"
+      }
+    },
+    {
+      "term": "emotional temperature",
+      "meaning": {
+        "en": "The general level of tension or calm in a group.",
+        "zh": "情绪温度；群体中总体的紧张或平静程度。"
+      },
+      "use": {
+        "en": "One honest sentence lowered the emotional temperature.",
+        "zh": "一句诚实的话降低了现场的情绪温度。"
+      }
+    },
+    {
+      "term": "reduce someone to",
+      "meaning": {
+        "en": "Force someone into a limited or powerless role.",
+        "zh": "使某人沦为；把某人限制在无力的角色中。"
+      },
+      "use": {
+        "en": "Good leadership does not reduce colleagues to spectators.",
+        "zh": "好的领导不会让同事沦为旁观者。"
+      }
+    },
+    {
+      "term": "responsible action",
+      "meaning": {
+        "en": "A practical step that accepts duty and considers consequences.",
+        "zh": "负责任的行动；承担职责并考虑后果的实际步骤。"
+      },
+      "use": {
+        "en": "We turned concern into responsible action.",
+        "zh": "我们把担忧转化成了负责任的行动。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonants distinct in mixers stopped and refrigerators fell silent.",
+      "zh": "在 mixers stopped 与 refrigerators fell silent 中把辅音读清楚。"
+    },
+    {
+      "en": "Use parallel stress in what they knew, what they did not know, and when they would decide.",
+      "zh": "在 what they knew、what they did not know、when they would decide 中使用平行重音。"
+    },
+    {
+      "en": "Contrast cannot promise clear skies with can become the steady voice.",
+      "zh": "对比重读 cannot promise clear skies 与 can become the steady voice。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as a leader whose calm turns uncertainty into shared, responsible movement.",
+      "zh": "跟读时，像一位能把不确定转化为共同负责行动的领导者。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the interruption sudden and physical.",
+        "zh": "第一遍：把突发中断读得突然、具体。"
+      },
+      {
+        "en": "Pass two: give every assignment a clear owner and purpose.",
+        "zh": "第二遍：让每项任务都有清晰的负责人和目的。"
+      },
+      {
+        "en": "Pass three: finish with authority that invites others to act.",
+        "zh": "第三遍：以能邀请他人行动的沉稳力量收尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What emotional weather does your voice create when a plan fails?",
+      "zh": "当计划失败时，你的声音会制造怎样的情绪天气？"
+    },
+    {
+      "en": "Which serious problem could become more manageable if you named the next responsible action?",
+      "zh": "如果你说清下一步负责任的行动，哪个严峻问题会变得更可处理？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/be-the-steadiest-voice/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/be-the-steadiest-voice/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/be-the-steadiest-voice/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/be-the-steadiest-voice/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/be-the-steadiest-voice/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/be-the-steadiest-voice/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/be-the-steadiest-voice/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/be-the-steadiest-voice/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/be-the-steadiest-voice/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/be-the-steadiest-voice/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/be-the-steadiest-voice/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/be-the-steadiest-voice/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/be-the-steadiest-voice/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/be-the-steadiest-voice/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/be-the-steadiest-voice/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/be-the-steadiest-voice/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/be-the-steadiest-voice/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/be-the-steadiest-voice/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/be-the-steadiest-voice/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/be-the-steadiest-voice/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/be-the-steadiest-voice/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/be-the-steadiest-voice/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/be-the-steadiest-voice/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/be-the-steadiest-voice/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/be-the-steadiest-voice/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/be-the-steadiest-voice/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/be-the-steadiest-voice/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/be-the-steadiest-voice/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/be-the-steadiest-voice/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/be-the-steadiest-voice/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/be-the-steadiest-voice/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/be-the-steadiest-voice/clips/sources_0.mp3"
+    }
+  }
+}

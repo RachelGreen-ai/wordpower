@@ -1,0 +1,244 @@
+{
+  "lessonId": "cross-the-bridge-before-you-judge",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "title": {
+    "en": "Cross the Bridge Before You Judge",
+    "zh": "评判之前，先走过那座桥"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, incomplete stories, and the discipline of seeing from another shore.",
+    "zh": "一篇原创美文：关于道德想象力、不完整的故事，以及从彼岸看世界的修养。"
+  },
+  "tags": [
+    "Empathy",
+    "Judgment",
+    "Listening",
+    "Perspective",
+    "Character"
+  ],
+  "sources": [
+    {
+      "title": "The Theory of Moral Sentiments",
+      "author": "Adam Smith",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/67363",
+      "note": {
+        "en": "Public-domain inspiration for imaginative sympathy and the impartial spectator; this lesson is entirely original.",
+        "zh": "灵感来自这部公开领域作品中有关设身处地与公正旁观者的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert compassion. Keep the scenes concrete, and let understanding arrive gradually rather than sentimentally.",
+    "zh": "用清醒的同理心朗读。场景要具体，让理解逐步抵达，而不是流于煽情。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Distance Between Two Shores",
+      "zh": "两岸之间的距离"
+    },
+    "intro": {
+      "en": "This original passage follows a commuter whose quick judgment is interrupted by one small act of attention.",
+      "zh": "这篇原创文章讲述一位通勤者：一次短暂的留心，打断了他仓促的判断。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Delayed Train",
+          "zh": "1. 晚点的列车"
+        },
+        "text": "At six forty, the platform was crowded with people who had already spent their patience elsewhere. A train stood motionless with its doors open. Near the front, a young conductor spoke into her radio, paused, and repeated herself. Her voice sounded uncertain. Julian checked the time and decided, with the speed of an experienced commuter, that she was unprepared. Around him, strangers built the same story from the same scraps: a late train, a hesitant voice, an employee who must not know her work. Their conclusion traveled faster than any fact.",
+        "coaching": {
+          "en": "Keep the opening brisk and compressed. Stress scraps and conclusion to expose how little evidence the crowd possesses.",
+          "zh": "开头读得紧凑利落。重读 scraps 与 conclusion，凸显人群掌握的证据有多么有限。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. One Step onto the Bridge",
+          "zh": "2. 踏上桥的第一步"
+        },
+        "text": "Then Julian noticed the conductor's free hand. She was using it to draw slow circles in the air for an elderly passenger inside the carriage. The man was breathing badly. Between radio messages, she knelt beside him, explained what the paramedics were doing, and asked the waiting crowd to keep the aisle clear. Her hesitation was not incompetence. It was the sound of someone carrying two responsibilities at once: protecting a stranger and communicating with a control room that could not see him. One visible detail had opened a bridge into a larger story.",
+        "coaching": {
+          "en": "Slow down when the hand appears. Give the two responsibilities equal weight, then let larger story land quietly.",
+          "zh": "那只手出现时放慢。两项责任要读得分量相等，最后让 larger story 安静落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Imagination with Guardrails",
+          "zh": "3. 有护栏的想象"
+        },
+        "text": "Moral imagination is not the habit of inventing a flattering excuse for everyone. It is more disciplined than that. It asks us to admit what we cannot yet know, to seek the missing angle, and to picture another person's pressures without pretending to read the person's mind. Such imagination needs guardrails: evidence, honest questions, and a willingness to revise. Without imagination, judgment becomes narrow. Without evidence, sympathy becomes fantasy. Wisdom stands between them, curious enough to cross the bridge and careful enough to notice where it ends.",
+        "coaching": {
+          "en": "Use firm contrast in imagination and excuse, then balance the paired warnings about judgment and sympathy.",
+          "zh": "清楚对比 imagination 与 excuse，再均衡读出关于 judgment 和 sympathy 的两句提醒。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Story We Return",
+          "zh": "4. 我们归还的故事"
+        },
+        "text": "The passenger recovered, the doors closed, and the train left twenty minutes late. Julian found the conductor before he stepped off. He did not offer a dramatic apology. He simply said, ‘Thank you for taking care of him.’ She nodded, tired but relieved. On the walk home, Julian considered how often he had mistaken a fragment for a whole person. We cannot cross every private bridge, nor are we required to approve every choice. But before we hand someone a story about who they are, we can examine the small collection of facts in our palm. We can ask what shore remains unseen.",
+        "coaching": {
+          "en": "Keep the thanks plain and sincere. Widen the final image, ending the last question with humility rather than accusation.",
+          "zh": "感谢要朴素真诚。结尾画面逐渐展开，最后的问题要带着谦逊，而不是责备。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "scrap",
+      "meaning": {
+        "en": "A small, incomplete piece of information.",
+        "zh": "碎片；一小段不完整的信息。"
+      },
+      "use": {
+        "en": "We should not build a verdict from a scrap of conversation.",
+        "zh": "我们不该凭一小段对话就下结论。"
+      }
+    },
+    {
+      "term": "incompetence",
+      "meaning": {
+        "en": "Lack of the skill needed to do something successfully.",
+        "zh": "不胜任；缺乏做好某事所需的能力。"
+      },
+      "use": {
+        "en": "A pause does not always signal incompetence.",
+        "zh": "停顿并不总意味着不胜任。"
+      }
+    },
+    {
+      "term": "moral imagination",
+      "meaning": {
+        "en": "The ability to picture another person's experience when making an ethical judgment.",
+        "zh": "道德想象力；在作道德判断时设想他人处境的能力。"
+      },
+      "use": {
+        "en": "Moral imagination changed the tone of the discussion.",
+        "zh": "道德想象力改变了讨论的语气。"
+      }
+    },
+    {
+      "term": "guardrail",
+      "meaning": {
+        "en": "A limit or safeguard that prevents harmful error.",
+        "zh": "护栏；防止有害错误的限制或保障。"
+      },
+      "use": {
+        "en": "Clear evidence is a guardrail against wishful thinking.",
+        "zh": "清晰的证据是防止一厢情愿的护栏。"
+      }
+    },
+    {
+      "term": "fragment",
+      "meaning": {
+        "en": "A broken or incomplete part of a larger whole.",
+        "zh": "片段；更大整体中残缺的一部分。"
+      },
+      "use": {
+        "en": "The message was only a fragment of the full exchange.",
+        "zh": "这条消息只是完整交流中的一个片段。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "Change an opinion after considering better information.",
+        "zh": "修正；在考虑更充分的信息后改变看法。"
+      },
+      "use": {
+        "en": "She revised her judgment when new facts appeared.",
+        "zh": "新事实出现后，她修正了自己的判断。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link spent their patience elsewhere and stood motionless without swallowing the final consonants.",
+      "zh": "朗读 spent their patience elsewhere 和 stood motionless 时自然连读，同时保留词尾辅音。"
+    },
+    {
+      "en": "Stress cannot in admit what we cannot yet know to make uncertainty deliberate.",
+      "zh": "在 admit what we cannot yet know 中重读 cannot，让不确定听起来是有意识的克制。"
+    },
+    {
+      "en": "Balance curious enough to cross the bridge and careful enough to notice where it ends.",
+      "zh": "均衡读出 curious enough to cross the bridge 与 careful enough to notice where it ends。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as judgment gives way to disciplined curiosity, without losing clarity or moral weight.",
+      "zh": "跟读时，让评判逐渐转为有原则的好奇，同时不失清晰与道德分量。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the impatient platform vivid and fast.",
+        "zh": "第一遍：把焦躁的站台读得鲜明、迅速。"
+      },
+      {
+        "en": "Pass two: slow each moment that adds missing evidence.",
+        "zh": "第二遍：每当缺失的证据出现时，就稍稍放慢。"
+      },
+      {
+        "en": "Pass three: end with a question that includes yourself.",
+        "zh": "第三遍：用一个也包含自我反思的问题收尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "When have you mistaken one visible fragment for a whole person?",
+      "zh": "你曾在什么时候，把一个看得见的片段误当成了一个完整的人？"
+    },
+    {
+      "en": "What evidence helps empathy remain honest rather than imaginary?",
+      "zh": "什么样的证据能让同理心保持诚实，而不沦为想象？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/cross-the-bridge-before-you-judge/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/cross-the-bridge-before-you-judge/clips/sources_0.mp3"
+    }
+  }
+}

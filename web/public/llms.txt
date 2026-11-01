@@ -63,6 +63,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Ask the Experiment](https://wordpower-seven.vercel.app/read-aloud/ask-the-experiment): An original reflection on learning, intellectual humility, and the courage to test a cherished idea.
 - [Ask the Unpolished Question](https://wordpower-seven.vercel.app/read-aloud/ask-the-unpolished-question): An original reflection on learning aloud, useful uncertainty, and the courage to be briefly inexperienced.
 - [A Quiet Morning Teaches Attention.](https://wordpower-seven.vercel.app/read-aloud/attention-quiet-morning): A three-to-five-minute passage for practicing calm observation, nature vocabulary, and gentle oral rhythm.
+- [Be the Steadiest Voice](https://wordpower-seven.vercel.app/read-aloud/be-the-steadiest-voice): An original reflection on leadership under pressure, useful courage, and the calm that helps a group think.
 - [Before You Name the Stranger](https://wordpower-seven.vercel.app/read-aloud/before-you-name-the-stranger): An original reflection on moral imagination, incomplete stories, and the discipline of humane attention.
 - [Begin Before You Feel Ready.](https://wordpower-seven.vercel.app/read-aloud/begin-before-ready): A William James-inspired passage on habit, attention, and the quiet courage of first actions.
 - [Bend Before You Break](https://wordpower-seven.vercel.app/read-aloud/bend-before-you-break): An original reflection on resilient strength, adaptation, and staying rooted while circumstances change.
@@ -76,6 +77,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Choose the Truer Sentence](https://wordpower-seven.vercel.app/read-aloud/choose-the-truer-sentence): An original reflection on calm communication, honest revision, and words that leave room for another person.
 - [Courage Is Built in the Arena.](https://wordpower-seven.vercel.app/read-aloud/courage-in-the-arena): A speech-style read-aloud lesson for practicing conviction, action vocabulary, and a stronger public voice.
 - [The Courage to Revise](https://wordpower-seven.vercel.app/read-aloud/courage-to-revise): An original passage on learning, intellectual humility, and changing your mind without losing yourself.
+- [Cross the Bridge Before You Judge](https://wordpower-seven.vercel.app/read-aloud/cross-the-bridge-before-you-judge): An original reflection on moral imagination, incomplete stories, and the discipline of seeing from another shore.
 - [Cross the Street Before Judging](https://wordpower-seven.vercel.app/read-aloud/cross-the-street-before-judging): An original reflection on moral imagination, neighborhood knowledge, and the discipline of seeing from nearby.
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
 - [Facts Before Blame](https://wordpower-seven.vercel.app/read-aloud/facts-before-blame): An original reflection on calm leadership, accountability, and making a crisis usable.
@@ -142,6 +144,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Speak at the Temperature of Truth](https://wordpower-seven.vercel.app/read-aloud/speak-at-the-temperature-of-truth): An original reflection on calm communication, honest disagreement, and words that leave dignity intact.
 - [Stand Near, Leave Room](https://wordpower-seven.vercel.app/read-aloud/stand-near-leave-room): An original reflection on parenting, independence, and staying available without standing in the way.
 - [Take the Last Seat](https://wordpower-seven.vercel.app/read-aloud/take-the-last-seat): An original reflection on practical leadership, shared work, and earning the clearest view of a team.
+- [Teach Your Eyes to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eyes-to-stay): An original reflection on drawing, patient attention, and the difference between naming a thing and seeing it.
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.
 - [Wait for the Second Birdsong](https://wordpower-seven.vercel.app/read-aloud/wait-for-the-second-birdsong): An original reflection on patient attention, natural pauses, and the details that hurry conceals.
 - [Walk Until the World Returns](https://wordpower-seven.vercel.app/read-aloud/walk-until-the-world-returns): An original reflection on recovering attention through an unhurried walk and the company of ordinary things.
