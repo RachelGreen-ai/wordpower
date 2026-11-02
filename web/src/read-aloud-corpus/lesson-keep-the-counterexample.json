@@ -1,0 +1,232 @@
+{
+  "lessonId": "keep-the-counterexample",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep the Counterexample",
+    "zh": "留下那个反例"
+  },
+  "subtitle": {
+    "en": "An original reflection on intellectual honesty, useful doubt, and the fact that refuses to fit.",
+    "zh": "一篇原创美文：关于求知的诚实、有益的怀疑，以及那个不肯吻合的事实。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Reasoning",
+    "Evidence",
+    "Humility",
+    "Learning"
+  ],
+  "sources": [
+    {
+      "title": "Novum Organum",
+      "author": "Francis Bacon",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/45988",
+      "note": {
+        "en": "Public-domain inspiration for testing favored ideas against contrary instances; this lesson is entirely original.",
+        "zh": "灵感来自这部公开领域作品中以相反实例检验偏爱观点的方法；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read like a careful investigator: curious, exact, and willing to be surprised.",
+    "zh": "像一位谨慎的调查者那样朗读：好奇、准确，并愿意接受意外。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Fact at the Edge of the Page",
+      "zh": "纸页边缘的事实"
+    },
+    "intro": {
+      "en": "This original passage follows one awkward observation and asks what becomes possible when we do not explain it away.",
+      "zh": "这篇原创文章追随一个不合群的观察，并追问：当我们不急着把它解释掉，什么会成为可能。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Seedling That Leaned Away",
+          "zh": "1. 背光倾斜的幼苗"
+        },
+        "text": "On the classroom windowsill, nine bean seedlings bent toward the light. The tenth leaned away. It was tempting to rotate the pot, blame a careless hand, and restore the neatness of the lesson. Instead, the teacher drew a small circle around the tenth result in her notebook. Perhaps the stem had been damaged. Perhaps another source of warmth was hidden nearby. Perhaps the observation would never matter again. Still, the odd seedling deserved a place on the page. A pattern becomes trustworthy not when every inconvenience is erased, but when the exceptions are allowed to speak.",
+        "coaching": {
+          "en": "Give the three perhaps phrases a searching rhythm. Land firmly on allowed to speak.",
+          "zh": "三个 perhaps 要读出探寻的节奏。allowed to speak 要坚定收尾。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Comfort of a Smooth Story",
+          "zh": "2. 顺滑故事的安慰"
+        },
+        "text": "The mind enjoys agreement. Once we have named a pattern, matching facts seem brighter and opposing facts become easy to misplace. We call the successful customer; we forget the quiet complaint. We remember the week our new habit worked; we dismiss the morning it failed. Soon the story feels smooth enough to be true. But confidence can be polished by selection. Intellectual honesty begins with a modest question: what would I notice if my favorite explanation were wrong? The question does not destroy conviction. It gives conviction a window, and fresh air tests the room.",
+        "coaching": {
+          "en": "Keep the examples conversational, then slow down for the central question.",
+          "zh": "例子读得自然口语化；到核心问题时放慢速度。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Make the Exception Useful",
+          "zh": "3. 让例外发挥作用"
+        },
+        "text": "Not every exception overturns an idea. Some reveal a broken instrument, an unusual condition, or a word defined too loosely. Yet each one can improve the next attempt. Ask where it occurred, what changed, and whether it can happen again. Record it before memory rounds off the edges. Invite the colleague who disagrees to describe what you missed. This is not surrender to endless doubt. It is disciplined revision: keeping a claim strong enough to guide action and open enough to meet reality. Good thinking has a spine, but it also has joints.",
+        "coaching": {
+          "en": "Make the practical verbs crisp: ask, record, invite. Warm the final image without overplaying it.",
+          "zh": "把 ask、record、invite 读得清晰有力。最后的比喻要温和，不要夸张。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Door in the Conclusion",
+          "zh": "4. 结论里的一扇门"
+        },
+        "text": "At the end of the month, the tenth seedling produced a clue. A narrow mirror across the room had caught the afternoon sun and sent a pale stripe of light behind the pots. The exception did not defeat the lesson about light; it made the lesson more exact. The teacher added one sentence beneath her first conclusion, then left room below it. That blank space was not a sign of weak knowledge. It was a promise about the kind of knower she intended to be: someone who could reach a conclusion without locking the door behind her.",
+        "coaching": {
+          "en": "Let the discovery brighten the pace, then finish the last sentence slowly and openly.",
+          "zh": "发现线索时让节奏明亮起来；最后一句要缓慢、开放地结束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "counterexample",
+      "meaning": {
+        "en": "An example that shows a general claim may not always be true.",
+        "zh": "表明某个普遍说法并非总是成立的反例。"
+      },
+      "use": {
+        "en": "One clear counterexample forced us to revise the rule.",
+        "zh": "一个明确的反例迫使我们修改规则。"
+      }
+    },
+    {
+      "term": "inconvenience",
+      "meaning": {
+        "en": "A difficulty that interrupts an easy plan or explanation.",
+        "zh": "打断顺利计划或简单解释的麻烦。"
+      },
+      "use": {
+        "en": "Do not hide evidence merely because it is an inconvenience.",
+        "zh": "不要只因证据带来麻烦就把它藏起来。"
+      }
+    },
+    {
+      "term": "dismiss",
+      "meaning": {
+        "en": "To decide too quickly that something is unimportant or untrue.",
+        "zh": "过快地认定某事不重要或不真实。"
+      },
+      "use": {
+        "en": "She did not dismiss the unusual result.",
+        "zh": "她没有轻易否定那个异常结果。"
+      }
+    },
+    {
+      "term": "disciplined revision",
+      "meaning": {
+        "en": "Careful improvement of an idea in response to evidence.",
+        "zh": "根据证据对想法进行审慎修正。"
+      },
+      "use": {
+        "en": "The proposal improved through disciplined revision.",
+        "zh": "这份提案通过严谨修正得到了改善。"
+      }
+    },
+    {
+      "term": "round off the edges",
+      "meaning": {
+        "en": "To make a memory or account neater and less exact than reality.",
+        "zh": "把记忆或叙述磨得比现实更整齐，却不够准确。"
+      },
+      "use": {
+        "en": "Write the details down before memory rounds off the edges.",
+        "zh": "趁记忆尚未磨平细节，先把它们写下来。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Stress tenth in the tenth leaned away to make the contrast audible.",
+      "zh": "在 the tenth leaned away 中重读 tenth，让对比听得见。"
+    },
+    {
+      "en": "Link naturally in what would I notice while keeping would light and quick.",
+      "zh": "在 what would I notice 中自然连读，would 要轻而快。"
+    },
+    {
+      "en": "Use a clear three-beat rhythm for ask, record, invite.",
+      "zh": "ask、record、invite 使用清晰的三拍节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are protecting curiosity from the pressure to sound certain.",
+      "zh": "跟读时，想象你在保护好奇心，不让它屈服于必须显得确定的压力。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the contrast between the neat pattern and the awkward fact.",
+        "zh": "第一遍：模仿整齐规律与别扭事实之间的对比。"
+      },
+      {
+        "en": "Pass two: make the central question sound brave rather than suspicious.",
+        "zh": "第二遍：让核心问题听起来勇敢，而不是多疑。"
+      },
+      {
+        "en": "Pass three: describe one exception you should examine instead of dismiss.",
+        "zh": "第三遍：说出一个你应该检视、而非忽略的例外。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which fact does not fit a story you currently believe?",
+      "zh": "哪个事实不符合你目前相信的某个故事？"
+    },
+    {
+      "en": "How could an exception make your next decision more exact?",
+      "zh": "一个例外怎样能让你的下一次决定更准确？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-the-counterexample/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-the-counterexample/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-the-counterexample/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-the-counterexample/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-the-counterexample/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-the-counterexample/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-the-counterexample/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-the-counterexample/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-the-counterexample/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-the-counterexample/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-the-counterexample/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-the-counterexample/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-the-counterexample/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-the-counterexample/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-the-counterexample/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-the-counterexample/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-the-counterexample/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-the-counterexample/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-the-counterexample/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-the-counterexample/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-the-counterexample/clips/vocabulary_4.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-the-counterexample/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-the-counterexample/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-the-counterexample/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-the-counterexample/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-the-counterexample/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-the-counterexample/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-the-counterexample/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-the-counterexample/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-the-counterexample/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-the-counterexample/clips/sources_0.mp3"
+    }
+  }
+}

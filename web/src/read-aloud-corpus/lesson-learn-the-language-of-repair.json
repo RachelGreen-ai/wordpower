@@ -1,0 +1,232 @@
+{
+  "lessonId": "learn-the-language-of-repair",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Learn the Language of Repair",
+    "zh": "学会修补的语言"
+  },
+  "subtitle": {
+    "en": "An original reflection on mending, stewardship, and the intelligence hidden in worn things.",
+    "zh": "一篇原创美文：关于修补、守护责任，以及旧物中隐藏的智慧。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Craft",
+    "Stewardship",
+    "Repair",
+    "Attention",
+    "Responsibility"
+  ],
+  "sources": [
+    {
+      "title": "Hopes and Fears for Art",
+      "author": "William Morris",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3773",
+      "note": {
+        "en": "Public-domain inspiration for honoring useful work and the human intelligence of craft; this lesson is entirely original.",
+        "zh": "灵感来自这部公开领域作品对有用劳动与手艺中人类智慧的尊重；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with the patient confidence of someone working carefully with both hands.",
+    "zh": "带着双手认真做事时那种耐心而笃定的感觉朗读。"
+  },
+  "passage": {
+    "title": {
+      "en": "What the Worn Handle Knows",
+      "zh": "旧把手知道什么"
+    },
+    "intro": {
+      "en": "This original passage enters a small repair shop, where damage becomes a form of information and care becomes a practical skill.",
+      "zh": "这篇原创文章走进一间小修理铺：在那里，损坏成为一种信息，关心则成为一门实用技艺。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Bring the Chair into the Light",
+          "zh": "1. 把椅子搬到光下"
+        },
+        "text": "The chair arrived with one loose joint and a seat polished by forty years of use. Its owner apologized for bringing something so ordinary. The repairer did not answer at once. She carried it to the window, turned it over, and ran a thumb along the darkened wood. A repair begins before the glue, the clamp, or the new screw. It begins by reading. A pale line can show where two pieces have moved. A softened edge can reveal how a hand has rested. Wear is not merely damage; it is a record of pressure, habit, weather, and time.",
+        "coaching": {
+          "en": "Let the list of tools sound tactile and exact. Slow down for it begins by reading.",
+          "zh": "工具清单要读得有触感、准确。到 it begins by reading 时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Ask What Must Be Preserved",
+          "zh": "2. 先问什么必须保留"
+        },
+        "text": "Replacement offers a clean answer: remove the tired part and install a perfect one. Repair asks a harder question. What strength must return, and what history should remain visible? The repairer could sand away every mark, but then the chair would lose the small hollow made by a familiar palm. She could flood the joint with adhesive, but excess would stain the grain. Good mending is selective. It distinguishes weakness from character. It restores what lets an object serve, while respecting the evidence that it has already belonged to a life.",
+        "coaching": {
+          "en": "Contrast replacement with repair clearly. Give weakness and character equal weight.",
+          "zh": "清楚读出 replacement 与 repair 的对比。weakness 和 character 要同样有分量。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Vocabulary of Care",
+          "zh": "3. 关心的词汇"
+        },
+        "text": "We need this judgment beyond the workshop. A strained team, an old neighborhood, or a tired friendship may also contain both damage and memory. We cannot care for them by treating every scar as a defect, nor by praising history while a structure fails. We must learn verbs more precise than save or discard: reinforce, loosen, clean, realign, rest. Each verb asks us to notice the kind of help required. Care becomes sentimental when it refuses to examine the joint. It becomes destructive when it values newness more than belonging.",
+        "coaching": {
+          "en": "Articulate the five repair verbs distinctly, like tools laid in a row.",
+          "zh": "五个修补动词要逐个清晰读出，像把工具排成一列。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Strong Enough to Continue",
+          "zh": "4. 坚固到足以继续"
+        },
+        "text": "When the owner returned, the chair did not look new. That was the point. The joint held; the old finish still caught the light unevenly; the hollow beneath the arm remained. The repairer explained how to lift it without twisting the frame. Then she handed it back, strong enough to continue its ordinary work. A well-repaired thing carries two kinds of beauty: the beauty of what endured and the beauty of someone deciding it was worth the trouble. Neither beauty shouts. Both become visible when the chair returns to the table and bears weight again.",
+        "coaching": {
+          "en": "Keep the ending quiet and useful. Stress bears weight again with grounded warmth.",
+          "zh": "结尾保持安静、实在。bears weight again 要读出踏实的温度。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "stewardship",
+      "meaning": {
+        "en": "Responsible care for something entrusted to us.",
+        "zh": "对托付给我们的事物进行负责任的照料。"
+      },
+      "use": {
+        "en": "Stewardship means maintaining what others will need after us.",
+        "zh": "守护责任意味着维护后来者仍会需要的事物。"
+      }
+    },
+    {
+      "term": "grain",
+      "meaning": {
+        "en": "The natural lines and texture in wood.",
+        "zh": "木材天然的纹理与质地。"
+      },
+      "use": {
+        "en": "Too much adhesive would stain the grain.",
+        "zh": "过多的黏合剂会弄脏木纹。"
+      }
+    },
+    {
+      "term": "selective",
+      "meaning": {
+        "en": "Careful about choosing what to change and what to leave.",
+        "zh": "谨慎选择改变什么、保留什么。"
+      },
+      "use": {
+        "en": "Good repair is selective rather than total.",
+        "zh": "好的修补是有选择的，而非彻底翻新。"
+      }
+    },
+    {
+      "term": "realign",
+      "meaning": {
+        "en": "To bring parts back into a correct relationship or position.",
+        "zh": "让各部分重新回到正确的关系或位置。"
+      },
+      "use": {
+        "en": "A patient conversation helped the team realign its priorities.",
+        "zh": "一次耐心的谈话帮助团队重新校准了优先事项。"
+      }
+    },
+    {
+      "term": "worth the trouble",
+      "meaning": {
+        "en": "Important enough to justify time and effort.",
+        "zh": "重要到值得投入时间和精力。"
+      },
+      "use": {
+        "en": "The old table was worth the trouble of repairing.",
+        "zh": "这张旧桌子值得费心修好。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonants clean in strength must return without adding an extra vowel.",
+      "zh": "朗读 strength must return 时保持辅音清晰，不要添加额外元音。"
+    },
+    {
+      "en": "Use even stress across reinforce, loosen, clean, realign, rest.",
+      "zh": "reinforce、loosen、clean、realign、rest 要使用均匀重音。"
+    },
+    {
+      "en": "Let worth the trouble fall gently, so it sounds settled rather than dramatic.",
+      "zh": "worth the trouble 轻柔降调，听起来笃定而非戏剧化。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if each sentence is a careful movement in a repair: measured, attentive, and useful.",
+      "zh": "跟读时，把每句话当作修补中的一个谨慎动作：有分寸、专注而实用。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the slow inspection in the opening scene.",
+        "zh": "第一遍：模仿开场检查旧椅时的缓慢节奏。"
+      },
+      {
+        "en": "Pass two: make the contrast between damage and memory clear.",
+        "zh": "第二遍：清晰读出损坏与记忆的对比。"
+      },
+      {
+        "en": "Pass three: name something in your life that needs reinforcing, not replacing.",
+        "zh": "第三遍：说出生活中一件需要加固、而非替换的事物。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What worn object has taught you something about the life around it?",
+      "zh": "哪件旧物曾让你读懂它周围的生活？"
+    },
+    {
+      "en": "Where might careful repair be wiser than a clean replacement?",
+      "zh": "在哪件事上，谨慎修补会比彻底替换更明智？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/learn-the-language-of-repair/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/learn-the-language-of-repair/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/learn-the-language-of-repair/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/learn-the-language-of-repair/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/learn-the-language-of-repair/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/learn-the-language-of-repair/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/learn-the-language-of-repair/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/learn-the-language-of-repair/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/learn-the-language-of-repair/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/learn-the-language-of-repair/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/learn-the-language-of-repair/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/learn-the-language-of-repair/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/learn-the-language-of-repair/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/learn-the-language-of-repair/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/learn-the-language-of-repair/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/learn-the-language-of-repair/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/learn-the-language-of-repair/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/learn-the-language-of-repair/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/learn-the-language-of-repair/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/learn-the-language-of-repair/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/learn-the-language-of-repair/clips/vocabulary_4.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/learn-the-language-of-repair/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/learn-the-language-of-repair/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/learn-the-language-of-repair/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/learn-the-language-of-repair/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/learn-the-language-of-repair/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/learn-the-language-of-repair/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/learn-the-language-of-repair/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/learn-the-language-of-repair/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/learn-the-language-of-repair/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/learn-the-language-of-repair/clips/sources_0.mp3"
+    }
+  }
+}

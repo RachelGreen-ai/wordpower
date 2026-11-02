@@ -1,0 +1,232 @@
+{
+  "lessonId": "do-some-work-no-one-sees",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Do Some Work No One Sees",
+    "zh": "做一些无人看见的功课"
+  },
+  "subtitle": {
+    "en": "An original reflection on private standards, self-trust, and the freedom of practicing beyond applause.",
+    "zh": "一篇原创美文：关于内在标准、自我信任，以及在掌声之外练习的自由。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Self-Trust",
+    "Practice",
+    "Integrity",
+    "Voice",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Essays, First Series: Self-Reliance",
+      "author": "Ralph Waldo Emerson",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2944",
+      "note": {
+        "en": "Public-domain inspiration for trusting inward judgment; this lesson is wholly original and does not reproduce the essay.",
+        "zh": "灵感来自这部公开领域作品中对内在判断的信任；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with quiet ownership. Let confidence come from precision, not volume.",
+    "zh": "带着安静的主人翁感朗读。让自信来自准确，而非音量。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Hour Before the Door Opens",
+      "zh": "开门前的那一小时"
+    },
+    "intro": {
+      "en": "This original passage begins in an empty music room and follows the private labor from which a public voice is built.",
+      "zh": "这篇原创文章从一间空音乐室开始，追随那种构成公共表达的私人劳动。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Before the Audience Arrives",
+          "zh": "1. 在观众到来之前"
+        },
+        "text": "At seven in the morning, the recital room held only a piano, a row of folded chairs, and a young singer repeating four measures. No one applauded when she found the difficult interval. No one noticed when she lost it again. She marked one breath in pencil, stood straighter, and began once more. By evening, listeners would hear a phrase that seemed to rise without effort. They would not hear the quiet hour stored inside it. Much of what we call a natural voice is made in rooms where there is no audience to persuade.",
+        "coaching": {
+          "en": "Keep the opening intimate. Let stored inside it carry gentle emphasis.",
+          "zh": "开场要亲近、克制。stored inside it 要带一点轻柔的强调。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Trouble with Immediate Mirrors",
+          "zh": "2. 即时镜子的麻烦"
+        },
+        "text": "Approval is useful information, but it is a poor compass when consulted every minute. If we show each unfinished thought too soon, we may begin shaping it for the nearest reaction. A promising sentence becomes louder but less true. A difficult skill is abandoned because early progress looks unimpressive. The work has not yet had time to answer us. Private practice creates a delay between effort and display. Inside that delay, taste can sharpen, mistakes can be ordinary, and a person can discover what she actually thinks before learning how others respond.",
+        "coaching": {
+          "en": "Contrast louder with less true. Read the final list with increasing steadiness.",
+          "zh": "读出 louder 与 less true 的对比。结尾清单要越来越沉稳。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Build an Inner Measure",
+          "zh": "3. 建立内在尺度"
+        },
+        "text": "Working unseen does not mean working without standards. It means choosing standards more demanding than attention. Is the argument clear when excitement fades? Does the melody carry its own weight? Did I keep the promise I made before anyone asked? Such questions create an inner measure. It is not infallible, and it still needs teachers, editors, and honest friends. But it lets feedback enter as counsel rather than command. Praise can encourage us without owning us; criticism can instruct us without naming our worth. The center of the work remains available to the worker.",
+        "coaching": {
+          "en": "Give each question genuine space. Keep counsel rather than command clean and balanced.",
+          "zh": "每个问题都留出真正的空间。counsel rather than command 要清晰、平衡。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry the Quiet Room with You",
+          "zh": "4. 把安静的房间带在身上"
+        },
+        "text": "That evening, the singer missed no note, but perfection was not the deepest success. Halfway through the piece, a cough sounded from the back row. For one second, her attention leaned toward the room's judgment. Then she felt the penciled breath, the early light, the four measures repeated without witness. She returned to the music. Private practice had given her more than control; it had given her somewhere to return. We all need such a place inside our work—a quiet room we can carry into noise, where the next honest measure matters more than the latest applause.",
+        "coaching": {
+          "en": "Pause after she returned to the music. Finish warmly, with no triumphant flourish.",
+          "zh": "在 she returned to the music 后停顿。温暖收尾，不要读成胜利宣言。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "interval",
+      "meaning": {
+        "en": "The distance in pitch between two musical notes.",
+        "zh": "两个音符在音高上的距离，即音程。"
+      },
+      "use": {
+        "en": "She practiced the difficult interval slowly.",
+        "zh": "她慢慢练习那个困难的音程。"
+      }
+    },
+    {
+      "term": "immediate",
+      "meaning": {
+        "en": "Happening at once, without delay.",
+        "zh": "立刻发生的；没有延迟的。"
+      },
+      "use": {
+        "en": "Not every effort needs immediate approval.",
+        "zh": "并非每次努力都需要即时认可。"
+      }
+    },
+    {
+      "term": "sharpen",
+      "meaning": {
+        "en": "To make a skill, idea, or sense more precise.",
+        "zh": "让技能、想法或感知变得更敏锐准确。"
+      },
+      "use": {
+        "en": "Private practice can sharpen your judgment.",
+        "zh": "私下练习可以磨炼你的判断力。"
+      }
+    },
+    {
+      "term": "infallible",
+      "meaning": {
+        "en": "Never wrong or mistaken.",
+        "zh": "永远不会出错的。"
+      },
+      "use": {
+        "en": "No inner measure is infallible.",
+        "zh": "任何内在尺度都不可能永远正确。"
+      }
+    },
+    {
+      "term": "carry its own weight",
+      "meaning": {
+        "en": "To have enough quality or strength to stand without extra support.",
+        "zh": "自身具有足够质量或力量，无需额外支撑。"
+      },
+      "use": {
+        "en": "The idea should carry its own weight before we decorate it.",
+        "zh": "这个想法在被修饰之前，应当先站得住脚。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link naturally in an inner measure, keeping the repeated vowel light.",
+      "zh": "在 an inner measure 中自然连读，让重复元音轻巧衔接。"
+    },
+    {
+      "en": "Stress praise, encourage, criticism, and instruct to reveal the parallel structure.",
+      "zh": "重读 praise、encourage、criticism、instruct，读出平行结构。"
+    },
+    {
+      "en": "Use a warm falling tone for she returned to the music.",
+      "zh": "she returned to the music 使用温暖的降调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking from a standard you chose carefully, not seeking permission.",
+      "zh": "跟读时，像是在表达一个你慎重选择的标准，而不是寻求许可。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: copy the quiet persistence of the rehearsal scene.",
+        "zh": "第一遍：模仿排练场景中安静的坚持。"
+      },
+      {
+        "en": "Pass two: keep the paired contrasts balanced and unhurried.",
+        "zh": "第二遍：把成对的对比读得平衡、从容。"
+      },
+      {
+        "en": "Pass three: name one practice you would continue without applause.",
+        "zh": "第三遍：说出一项即使没有掌声你也会继续的练习。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which part of your work needs more time away from immediate reaction?",
+      "zh": "你的哪部分工作需要暂时远离即时反应，多一点独处时间？"
+    },
+    {
+      "en": "What private standard would help you recognize honest progress?",
+      "zh": "什么内在标准能帮助你辨认真实的进步？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/do-some-work-no-one-sees/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/do-some-work-no-one-sees/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/do-some-work-no-one-sees/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/do-some-work-no-one-sees/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/do-some-work-no-one-sees/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/do-some-work-no-one-sees/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/do-some-work-no-one-sees/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/do-some-work-no-one-sees/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/do-some-work-no-one-sees/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/do-some-work-no-one-sees/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/do-some-work-no-one-sees/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/do-some-work-no-one-sees/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/do-some-work-no-one-sees/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/do-some-work-no-one-sees/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/do-some-work-no-one-sees/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/do-some-work-no-one-sees/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/do-some-work-no-one-sees/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/do-some-work-no-one-sees/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/do-some-work-no-one-sees/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/do-some-work-no-one-sees/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/do-some-work-no-one-sees/clips/vocabulary_4.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/do-some-work-no-one-sees/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/do-some-work-no-one-sees/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/do-some-work-no-one-sees/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/do-some-work-no-one-sees/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/do-some-work-no-one-sees/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/do-some-work-no-one-sees/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/do-some-work-no-one-sees/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/do-some-work-no-one-sees/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/do-some-work-no-one-sees/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/do-some-work-no-one-sees/clips/sources_0.mp3"
+    }
+  }
+}

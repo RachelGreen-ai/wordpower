@@ -79,6 +79,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [The Courage to Revise](https://wordpower-seven.vercel.app/read-aloud/courage-to-revise): An original passage on learning, intellectual humility, and changing your mind without losing yourself.
 - [Cross the Bridge Before You Judge](https://wordpower-seven.vercel.app/read-aloud/cross-the-bridge-before-you-judge): An original reflection on moral imagination, incomplete stories, and the discipline of seeing from another shore.
 - [Cross the Street Before Judging](https://wordpower-seven.vercel.app/read-aloud/cross-the-street-before-judging): An original reflection on moral imagination, neighborhood knowledge, and the discipline of seeing from nearby.
+- [Do Some Work No One Sees](https://wordpower-seven.vercel.app/read-aloud/do-some-work-no-one-sees): An original reflection on private standards, self-trust, and the freedom of practicing beyond applause.
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
 - [Facts Before Blame](https://wordpower-seven.vercel.app/read-aloud/facts-before-blame): An original reflection on calm leadership, accountability, and making a crisis usable.
 - [Freedom Needs an Inner Home.](https://wordpower-seven.vercel.app/read-aloud/freedom-needs-inner-home): A Fromm-inspired reflective passage on why freedom can feel frightening unless the self has somewhere to stand.
@@ -96,11 +97,13 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Keep One Chair Empty](https://wordpower-seven.vercel.app/read-aloud/keep-one-chair-empty): An original reflection on composure, disagreement, and leaving room for a better interpretation.
 - [Keep One Promise to Yourself](https://wordpower-seven.vercel.app/read-aloud/keep-one-promise-to-yourself): An original reflection on self-trust, modest habits, and becoming someone whose own word has weight.
 - [Keep One Question in Your Pocket](https://wordpower-seven.vercel.app/read-aloud/keep-one-question-in-your-pocket): An original reflection on useful uncertainty, patient learning, and questions that mature beside our work.
+- [Keep the Counterexample](https://wordpower-seven.vercel.app/read-aloud/keep-the-counterexample): An original reflection on intellectual honesty, useful doubt, and the fact that refuses to fit.
 - [Keep the Door in the Conversation](https://wordpower-seven.vercel.app/read-aloud/keep-the-door-in-the-conversation): An original reflection on disagreement, dignity, and the language that keeps understanding possible.
 - [Keep the Failed Sketch](https://wordpower-seven.vercel.app/read-aloud/keep-the-failed-sketch): An original reflection on experiments, useful mistakes, and learning to think with your hands.
 - [Lead from the Work](https://wordpower-seven.vercel.app/read-aloud/lead-from-the-work): An original reflection on credibility, shared labor, and leadership close to the ground.
 - [Learn at the Speed of Roots](https://wordpower-seven.vercel.app/read-aloud/learn-at-the-speed-of-roots): An original reflection on patient study, durable skill, and the quiet work beneath visible progress.
 - [Learn the Grain of the Work](https://wordpower-seven.vercel.app/read-aloud/learn-the-grain-of-the-work): An original reflection on apprenticeship, useful ambition, and knowledge earned through the hands.
+- [Learn the Language of Repair](https://wordpower-seven.vercel.app/read-aloud/learn-the-language-of-repair): An original reflection on mending, stewardship, and the intelligence hidden in worn things.
 - [Learn the Shape of Looking](https://wordpower-seven.vercel.app/read-aloud/learn-the-shape-of-looking): An original reflection on drawing, attention, and the patient craft of seeing what is actually there.
 - [Leave an Honest Edge](https://wordpower-seven.vercel.app/read-aloud/leave-a-honest-edge): An original reflection on craft, revision, and making work that still bears the warmth of a human hand.
 - [Leave Clear Footprints](https://wordpower-seven.vercel.app/read-aloud/leave-clear-footprints): An original reflection on handovers, useful records, and the quiet generosity of work that others can continue.
