@@ -59,6 +59,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 ## Beautiful English Read-Aloud Lessons
 
 - [Answer with Room](https://wordpower-seven.vercel.app/read-aloud/answer-with-room): An original reflection on keeping dignity and clarity inside a difficult conversation.
+- [Ask the Apprenticeship Question](https://wordpower-seven.vercel.app/read-aloud/ask-the-apprenticeship-question): An original reflection on career learning, useful work, and the courage to begin below mastery.
 - [Ask the Candle Why](https://wordpower-seven.vercel.app/read-aloud/ask-the-candle-why): An original reflection on scientific curiosity, patient questions, and the wonder hidden in ordinary things.
 - [Ask the Experiment](https://wordpower-seven.vercel.app/read-aloud/ask-the-experiment): An original reflection on learning, intellectual humility, and the courage to test a cherished idea.
 - [Ask the Unpolished Question](https://wordpower-seven.vercel.app/read-aloud/ask-the-unpolished-question): An original reflection on learning aloud, useful uncertainty, and the courage to be briefly inexperienced.
@@ -73,6 +74,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Carry a Lantern, Not a Verdict](https://wordpower-seven.vercel.app/read-aloud/carry-a-lantern-not-a-verdict): An original reflection on moral imagination, incomplete stories, and the discipline of seeing people whole.
 - [Carry a Question](https://wordpower-seven.vercel.app/read-aloud/carry-a-question): An original reflection on scientific wonder, patient inquiry, and the value of not knowing yet.
 - [Carry the Lantern into the Fog](https://wordpower-seven.vercel.app/read-aloud/carry-the-lantern-into-the-fog): An original reflection on leadership when the map is incomplete and certainty is unavailable.
+- [Many Hands Make the Map](https://wordpower-seven.vercel.app/read-aloud/carry-the-lantern-together): An original reflection on shared courage, neighborhood knowledge, and leadership that makes room for many hands.
 - [Carry the Smaller Lantern](https://wordpower-seven.vercel.app/read-aloud/carry-the-smaller-lantern): An original reflection on leadership, useful courage, and making uncertainty easier to cross together.
 - [Choose the Truer Sentence](https://wordpower-seven.vercel.app/read-aloud/choose-the-truer-sentence): An original reflection on calm communication, honest revision, and words that leave room for another person.
 - [Courage Is Built in the Arena.](https://wordpower-seven.vercel.app/read-aloud/courage-in-the-arena): A speech-style read-aloud lesson for practicing conviction, action vocabulary, and a stronger public voice.
@@ -106,6 +108,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Learn the Language of Repair](https://wordpower-seven.vercel.app/read-aloud/learn-the-language-of-repair): An original reflection on mending, stewardship, and the intelligence hidden in worn things.
 - [Learn the Shape of Looking](https://wordpower-seven.vercel.app/read-aloud/learn-the-shape-of-looking): An original reflection on drawing, attention, and the patient craft of seeing what is actually there.
 - [Leave an Honest Edge](https://wordpower-seven.vercel.app/read-aloud/leave-a-honest-edge): An original reflection on craft, revision, and making work that still bears the warmth of a human hand.
+- [Leave a Margin in the Day](https://wordpower-seven.vercel.app/read-aloud/leave-a-margin-in-the-day): An original reflection on rest, attention, and the small spaces that return us to ourselves.
 - [Leave Clear Footprints](https://wordpower-seven.vercel.app/read-aloud/leave-clear-footprints): An original reflection on handovers, useful records, and the quiet generosity of work that others can continue.
 - [Leave One Stroke Unfinished](https://wordpower-seven.vercel.app/read-aloud/leave-one-stroke-unfinished): An original reflection on drawing, attention, and the courage to keep looking.
 - [Leave Room for Growing](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-growing): An original reflection on patient guidance, useful boundaries, and the courage to let a child try.

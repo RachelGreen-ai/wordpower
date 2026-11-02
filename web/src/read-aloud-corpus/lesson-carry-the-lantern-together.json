@@ -1,0 +1,244 @@
+{
+  "lessonId": "carry-the-lantern-together",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Many Hands Make the Map",
+    "zh": "众人携手，绘成地图"
+  },
+  "subtitle": {
+    "en": "An original reflection on shared courage, neighborhood knowledge, and leadership that makes room for many hands.",
+    "zh": "一篇原创美文：关于共同的勇气、邻里智慧，以及让众人都能出力的领导力。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Community",
+    "Courage",
+    "Leadership",
+    "Service",
+    "Listening"
+  ],
+  "sources": [
+    {
+      "title": "Twenty Years at Hull-House",
+      "author": "Jane Addams",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1325",
+      "note": {
+        "en": "Public-domain inspiration for civic friendship, practical cooperation, and learning from neighbors; this lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品中对公民友谊、实际合作与向邻里学习的思考；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with communal warmth. Let no single voice sound like the hero of the whole story.",
+    "zh": "带着共同体的温度朗读。不要让任何一个声音听起来像整个故事唯一的英雄。"
+  },
+  "passage": {
+    "title": {
+      "en": "Light That Passes from Hand to Hand",
+      "zh": "从一双手传到另一双手的光"
+    },
+    "intro": {
+      "en": "This original passage begins during a neighborhood blackout and explores the kind of leadership that gathers scattered knowledge.",
+      "zh": "这篇原创文章从一次社区停电开始，探讨一种能够汇集分散智慧的领导方式。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When the Street Went Dark",
+          "zh": "1. 当整条街暗下来"
+        },
+        "text": "The electricity failed just after sunset, while rain pressed silver lines against the apartment windows. In the lobby, twelve phones appeared like small blue moons. People asked whether the lift was empty, whether the pharmacy could keep its medicine cold, and whether anyone had checked on Mr. Alvarez in 6B. Nia, who chaired the residents' committee, felt every face turn toward her. She had a flashlight and no complete plan. For one dangerous second, leadership seemed to mean producing certainty before anyone else could notice the dark.",
+        "coaching": {
+          "en": "Build the questions one by one. Hold a thoughtful pause after no complete plan, then darken the final sentence slightly.",
+          "zh": "问题要一个接一个地展开。在 no complete plan 后作思考式停顿，最后一句的语气稍稍沉下来。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Gather What the Room Knows",
+          "zh": "2. 汇集房间里已有的智慧"
+        },
+        "text": "Instead, Nia said, ‘Tell me what you know, and what you can do.’ The answers changed the shape of the emergency. A nurse on the third floor knew which medicines were most vulnerable. Two teenagers had bicycle lights and strong legs. The restaurant owner had bags of ice. Mrs. Chen knew that Mr. Alvarez wore hearing aids and might not hear a knock. No one possessed the whole solution. Together, they had a map, a supply list, and a way to move. Nia's first useful act was not giving an order. It was making scattered knowledge audible.",
+        "coaching": {
+          "en": "Give each neighbor equal dignity and pace. Stress together, then land clearly on audible.",
+          "zh": "每位邻居都要以同等尊重和节奏来读。重读 together，并在 audible 上清晰落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Courage with Many Pronouns",
+          "zh": "3. 带着许多代词的勇气"
+        },
+        "text": "We often picture courage in the singular: I decided, I stood, I led. Yet many hard moments are carried by a grammar of we. One person names the danger. Another remembers who is missing. Someone brings a key, translates a warning, or stays beside a frightened child. Shared courage does not dilute responsibility. It distributes the work so responsibility can survive fatigue. This kind of leadership is less like holding a torch above a crowd and more like passing lanterns through it—each flame modest, each pair of hands necessary, the path becoming visible in several places at once.",
+        "coaching": {
+          "en": "Mark the contrast between I and we. Let the lantern image widen slowly across the final sentence.",
+          "zh": "读出 I 与 we 的对比。最后一句中的灯笼意象要缓缓铺展开来。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. After the Lights Returned",
+          "zh": "4. 灯亮之后"
+        },
+        "text": "Power returned before midnight. The lift hummed, refrigerators woke, and the lobby emptied. The next week, Nia invited the neighbors back—not to celebrate her management, but to record what they had learned. They made a list of residents who needed assistance, bought battery lamps, and added four names beside every emergency role. The blackout had revealed more than a weakness in the building. It had revealed a network that became trustworthy only when people could see their place inside it. When the next darkness comes, courage need not enter alone. It can arrive already divided into many willing hands.",
+        "coaching": {
+          "en": "Brighten the sounds of returning power. Keep the ending collective, steady, and free of triumph.",
+          "zh": "把恢复供电的声音读亮。结尾要保持集体感、稳定感，不要读成凯旋。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "vulnerable",
+      "meaning": {
+        "en": "Open to harm or damage and needing protection.",
+        "zh": "易受伤害的；需要保护的。"
+      },
+      "use": {
+        "en": "The backup plan protects vulnerable residents.",
+        "zh": "备用方案保护较为脆弱的居民。"
+      }
+    },
+    {
+      "term": "scattered",
+      "meaning": {
+        "en": "Spread across different places instead of gathered together.",
+        "zh": "分散的；散布在不同地方而未汇集。"
+      },
+      "use": {
+        "en": "The meeting gathered scattered pieces of information.",
+        "zh": "会议汇集了分散的信息。"
+      }
+    },
+    {
+      "term": "audible",
+      "meaning": {
+        "en": "Loud or clear enough to be heard.",
+        "zh": "听得见的；声音足够清晰的。"
+      },
+      "use": {
+        "en": "She made the quiet concern audible to the group.",
+        "zh": "她让那份未说出口的担忧被整个小组听见。"
+      }
+    },
+    {
+      "term": "dilute",
+      "meaning": {
+        "en": "To make something weaker or less effective.",
+        "zh": "削弱；使某物变淡或效果降低。"
+      },
+      "use": {
+        "en": "Sharing the task did not dilute her responsibility.",
+        "zh": "分担任务并没有削弱她的责任。"
+      }
+    },
+    {
+      "term": "distribute",
+      "meaning": {
+        "en": "To divide and give something among several people or places.",
+        "zh": "分配；把某物分给多人或多个地方。"
+      },
+      "use": {
+        "en": "We distributed the work across the whole team.",
+        "zh": "我们把工作分配给了整个团队。"
+      }
+    },
+    {
+      "term": "network",
+      "meaning": {
+        "en": "A connected group of people or things that support one another.",
+        "zh": "网络；彼此连接并相互支持的一群人或事物。"
+      },
+      "use": {
+        "en": "A reliable network formed among the neighbors.",
+        "zh": "邻里之间形成了一个可靠的互助网络。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep whether the pharmacy could keep its medicine cold flowing as one urgent question.",
+      "zh": "把 whether the pharmacy could keep its medicine cold 连贯地读成一个紧迫的问题。"
+    },
+    {
+      "en": "Use clear parallel stress for names the danger, remembers who is missing, and brings a key.",
+      "zh": "用清晰的平行重音读出 names the danger、remembers who is missing 与 brings a key。"
+    },
+    {
+      "en": "Contrast one complete plan with scattered knowledge through deliberate stress.",
+      "zh": "通过有意识的重音对比 one complete plan 与 scattered knowledge。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as though your voice is helping a group hear its own courage.",
+      "zh": "跟读时，仿佛你的声音正在帮助一个群体听见自身的勇气。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: build the blackout scene with controlled urgency.",
+        "zh": "第一遍：以克制的紧迫感构建停电场景。"
+      },
+      {
+        "en": "Pass two: make each neighbor's contribution distinct and equally valuable.",
+        "zh": "第二遍：让每位邻居的贡献都鲜明且同等重要。"
+      },
+      {
+        "en": "Pass three: let the pronouns move naturally from I toward we.",
+        "zh": "第三遍：让代词自然地从 I 走向 we。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose practical knowledge is easy to overlook in your community?",
+      "zh": "在你的共同体中，谁的实际智慧容易被忽略？"
+    },
+    {
+      "en": "How could you distribute responsibility without diluting it?",
+      "zh": "你怎样才能分担责任，同时又不削弱责任感？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/carry-the-lantern-together/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/carry-the-lantern-together/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/carry-the-lantern-together/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/carry-the-lantern-together/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/carry-the-lantern-together/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/carry-the-lantern-together/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/carry-the-lantern-together/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/carry-the-lantern-together/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/carry-the-lantern-together/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/carry-the-lantern-together/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/carry-the-lantern-together/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/carry-the-lantern-together/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/carry-the-lantern-together/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/carry-the-lantern-together/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/carry-the-lantern-together/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/carry-the-lantern-together/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/carry-the-lantern-together/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/carry-the-lantern-together/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/carry-the-lantern-together/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/carry-the-lantern-together/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/carry-the-lantern-together/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/carry-the-lantern-together/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/carry-the-lantern-together/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/carry-the-lantern-together/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/carry-the-lantern-together/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/carry-the-lantern-together/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/carry-the-lantern-together/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/carry-the-lantern-together/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/carry-the-lantern-together/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/carry-the-lantern-together/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/carry-the-lantern-together/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/carry-the-lantern-together/clips/sources_0.mp3"
+    }
+  }
+}

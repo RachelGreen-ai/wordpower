@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-a-margin-in-the-day",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave a Margin in the Day",
+    "zh": "给一天留一点余白"
+  },
+  "subtitle": {
+    "en": "An original reflection on rest, attention, and the small spaces that return us to ourselves.",
+    "zh": "一篇原创美文：关于休息、专注，以及那些让我们重新回到自己身边的细小空隙。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Calm",
+    "Attention",
+    "Rest",
+    "Daily Life",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for deliberate living and attentive solitude; this lesson is wholly original and reproduces no passage.",
+        "zh": "灵感来自这部公开领域作品中对自觉生活与专注独处的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as though you have nowhere else to be. Let the pauses feel inhabited, not empty.",
+    "zh": "朗读时，仿佛此刻无需赶往别处。让停顿显得充实，而非空洞。"
+  },
+  "passage": {
+    "title": {
+      "en": "The White Space Around the Hours",
+      "zh": "时间四周的留白"
+    },
+    "intro": {
+      "en": "This original passage follows one crowded day and the quiet intelligence of leaving part of it unclaimed.",
+      "zh": "这篇原创文章讲述忙碌的一天，以及把一小部分时间留空所蕴含的安静智慧。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Day Packed to Its Edges",
+          "zh": "1. 被塞到边缘的一天"
+        },
+        "text": "By eight in the morning, Lena's calendar looked like a wall built from colored bricks. A meeting touched a deadline; the deadline touched a train; even lunch had been reduced to a narrow blue bar. Nothing on the screen appeared unreasonable. Each task had a purpose, and each request had arrived politely. Yet by late afternoon, the smallest delay felt like a personal insult. When the printer paused, she pressed the button twice. When a colleague searched for a word, she finished the sentence for him. The day was full, but her attention had become thin.",
+        "coaching": {
+          "en": "Keep the calendar details brisk. Slow down at the day was full, and let thin land quietly.",
+          "zh": "日历细节读得轻快。在 the day was full 处放慢，让 thin 轻轻落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Bench Between Appointments",
+          "zh": "2. 两个约定之间的长椅"
+        },
+        "text": "The next morning, a cancelled call opened twenty minutes between two appointments. Lena nearly filled it with messages. Instead, she carried her coffee outside and sat on a bench behind the library. At first, the time felt awkward, like a room without furniture. Then ordinary things began to regain their edges: a sparrow kicking dry leaves, steam loosening from the cup, a delivery cyclist laughing into his phone. No revelation arrived. Her life did not change direction. But when she stood, she could hear the difference between what was urgent and what was merely loud.",
+        "coaching": {
+          "en": "Make the first silence slightly awkward, then brighten the three ordinary details. Keep the final contrast clean.",
+          "zh": "最初的安静要略显不自在，随后把三个日常细节读亮。结尾的对比要清晰。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Margin Is Not Waste",
+          "zh": "3. 余白并非浪费"
+        },
+        "text": "We often defend every open minute from emptiness, as if unused time were a leak in the day. But a margin is not the absence of life. It is where one experience can settle before the next begins. Musicians leave rests so a phrase can breathe. Printers surround a paragraph with white space so the eye can enter it. A person also needs room to notice hunger before eating, irritation before speaking, and weariness before promising more. Without that interval, we do not become more devoted. We become easier to hurry and harder to reach.",
+        "coaching": {
+          "en": "Give musicians, printers, and a person equal weight. Read the final pair with sober warmth, not warning.",
+          "zh": "musicians、printers 与 a person 要同等着力。最后一组对比要沉静温暖，不要像警告。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Protect One Unclaimed Corner",
+          "zh": "4. 守住一个无人认领的角落"
+        },
+        "text": "Lena did not abandon her calendar. She began leaving ten minutes after difficult meetings and one evening each week without a plan. Sometimes the margin held a walk; sometimes it held nothing she could report. Slowly, her speech changed. She interrupted less. She could let a question remain unanswered long enough for a better answer to form. This is the modest gift of unclaimed time: it returns depth to the hour beside it. Leave one corner of the day unwritten. You may discover that a life is not only made from what it contains, but also from the space in which its meaning can be heard.",
+        "coaching": {
+          "en": "Read the practical changes plainly. Open the last two sentences into a spacious, reassuring close.",
+          "zh": "具体改变要平实地读。最后两句要舒展开来，以宽慰的语气收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "packed to its edges",
+      "meaning": {
+        "en": "Completely full, with no room left.",
+        "zh": "塞得满满的；没有留下任何空间。"
+      },
+      "use": {
+        "en": "My week was packed to its edges with appointments.",
+        "zh": "我的一周被各种约定排得满满的。"
+      }
+    },
+    {
+      "term": "regain",
+      "meaning": {
+        "en": "To get back something that was lost.",
+        "zh": "重新获得；取回曾经失去的东西。"
+      },
+      "use": {
+        "en": "A quiet walk helped her regain perspective.",
+        "zh": "一次安静的散步帮助她重新找回了视角。"
+      }
+    },
+    {
+      "term": "margin",
+      "meaning": {
+        "en": "Extra space or time left around what is necessary.",
+        "zh": "余地；在必要部分之外留下的额外空间或时间。"
+      },
+      "use": {
+        "en": "Leave a margin between the meeting and the train.",
+        "zh": "在会议和火车之间留一点余量。"
+      }
+    },
+    {
+      "term": "interval",
+      "meaning": {
+        "en": "A period of time between two events.",
+        "zh": "间隔；两件事之间的一段时间。"
+      },
+      "use": {
+        "en": "The short interval gave us time to think.",
+        "zh": "短暂的间隔给了我们思考的时间。"
+      }
+    },
+    {
+      "term": "unclaimed",
+      "meaning": {
+        "en": "Not assigned, requested, or taken by anyone.",
+        "zh": "无人认领的；尚未被安排或占用的。"
+      },
+      "use": {
+        "en": "She kept Sunday morning unclaimed.",
+        "zh": "她让周日上午保持空白，不作安排。"
+      }
+    },
+    {
+      "term": "settle",
+      "meaning": {
+        "en": "To become calm, clear, or firmly placed over time.",
+        "zh": "沉淀；逐渐变得平静、清晰或稳定。"
+      },
+      "use": {
+        "en": "Let the conversation settle before you reply.",
+        "zh": "先让这次谈话沉淀一下，再作回应。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link a wall built from colored bricks smoothly while keeping the final consonants clear.",
+      "zh": "流畅连读 a wall built from colored bricks，同时保留清晰的词尾辅音。"
+    },
+    {
+      "en": "Contrast what was urgent with what was merely loud through sentence stress.",
+      "zh": "通过句子重音对比 what was urgent 与 what was merely loud。"
+    },
+    {
+      "en": "Use a gentle falling tone for leave one corner of the day unwritten.",
+      "zh": "朗读 leave one corner of the day unwritten 时使用轻柔的降调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with enough room between thoughts for each image to settle.",
+      "zh": "跟读时，在意群之间留下足够空间，让每个画面得以沉淀。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the crowded calendar quick and slightly breathless.",
+        "zh": "第一遍：把拥挤的日程读得快速，略带喘不过气的感觉。"
+      },
+      {
+        "en": "Pass two: give the bench scene patient sensory detail.",
+        "zh": "第二遍：耐心读出长椅场景中的感官细节。"
+      },
+      {
+        "en": "Pass three: protect the pauses instead of rushing to fill them.",
+        "zh": "第三遍：守住停顿，不要急着把它们填满。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which part of your day becomes thinner when every minute is assigned?",
+      "zh": "当每一分钟都被安排时，你一天中的哪一部分会变得单薄？"
+    },
+    {
+      "en": "What small margin could make the hour beside it more humane?",
+      "zh": "哪一小段余白，可以让相邻的那一小时更有人情味？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-a-margin-in-the-day/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-a-margin-in-the-day/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-a-margin-in-the-day/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-a-margin-in-the-day/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-a-margin-in-the-day/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-a-margin-in-the-day/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-a-margin-in-the-day/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-a-margin-in-the-day/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-a-margin-in-the-day/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-a-margin-in-the-day/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-a-margin-in-the-day/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-a-margin-in-the-day/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-a-margin-in-the-day/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-a-margin-in-the-day/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-a-margin-in-the-day/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-a-margin-in-the-day/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-a-margin-in-the-day/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-a-margin-in-the-day/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-a-margin-in-the-day/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-a-margin-in-the-day/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-a-margin-in-the-day/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-a-margin-in-the-day/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-a-margin-in-the-day/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-a-margin-in-the-day/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-a-margin-in-the-day/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-a-margin-in-the-day/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-a-margin-in-the-day/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-a-margin-in-the-day/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-a-margin-in-the-day/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-a-margin-in-the-day/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-a-margin-in-the-day/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-a-margin-in-the-day/clips/sources_0.mp3"
+    }
+  }
+}

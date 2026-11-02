@@ -1,0 +1,244 @@
+{
+  "lessonId": "ask-the-apprenticeship-question",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Ask the Apprenticeship Question",
+    "zh": "问问学徒式的问题"
+  },
+  "subtitle": {
+    "en": "An original reflection on career learning, useful work, and the courage to begin below mastery.",
+    "zh": "一篇原创美文：关于职业学习、有用的工作，以及从尚未精通之处开始的勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Career",
+    "Learning",
+    "Craft",
+    "Humility",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Up from Slavery",
+      "author": "Booker T. Washington",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2376",
+      "note": {
+        "en": "Public-domain inspiration for education joined with practical skill and service; this lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品中教育、实用技能与服务相结合的思想；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded curiosity. Let confidence grow from specific verbs and honest questions.",
+    "zh": "带着踏实的好奇心朗读。让自信从具体动词与诚实问题中生长。"
+  },
+  "passage": {
+    "title": {
+      "en": "What Can This Work Teach Me?",
+      "zh": "这份工作能教会我什么？"
+    },
+    "intro": {
+      "en": "This original passage follows a new employee who learns to replace the performance of expertise with the practice of becoming useful.",
+      "zh": "这篇原创文章讲述一位职场新人如何不再表演专业，而是通过练习让自己真正有用。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Pressure to Arrive Finished",
+          "zh": "1. 仿佛必须以成品姿态到场"
+        },
+        "text": "On Amir's first week at the architecture studio, everyone seemed to speak in completed sentences. They knew which questions mattered, where the old drawings were stored, and why one elegant idea would fail in rain. Amir carried a new notebook and an old fear: if he asked too much, someone might discover that hiring him had been a mistake. So he nodded at unfamiliar terms and worked late repairing errors he could have prevented before lunch. He wanted to look capable. The wish was understandable, but it made learning expensive.",
+        "coaching": {
+          "en": "Let the opening admiration feel genuine. Tighten the pace through the hidden errors, then pause after expensive.",
+          "zh": "开头的钦佩要真诚。读到被掩盖的错误时加快节奏，在 expensive 后停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Better Question",
+          "zh": "2. 一个更好的问题"
+        },
+        "text": "One afternoon, a senior designer named Rosa found him redrawing a staircase for the third time. She did not ask why he lacked experience. She asked, ‘What are you trying to learn from this version?’ Amir had no answer. Rosa showed him how to mark the turning point, test the headroom, and trace the route of a person carrying a suitcase. Then she gave the drawing back. The question changed the room. Work was no longer an exam designed to expose him. It was material through which judgment could be trained.",
+        "coaching": {
+          "en": "Voice Rosa without drama or superiority. Give the three practical actions crisp, even stress.",
+          "zh": "Rosa 的声音不要戏剧化，也不要居高临下。三个具体动作要清晰、均匀地重读。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Learn the Grain of the Work",
+          "zh": "3. 学会顺着工作的纹理"
+        },
+        "text": "An apprentice does more than collect instructions. She studies the grain of the work: where pressure reveals weakness, which detail protects the whole, and when speed creates a debt that someone else must pay. This knowledge often hides in ordinary tasks. Labeling files teaches how a team remembers. Answering a customer teaches which promise the product has failed to keep. Cleaning a tool teaches what repeated use wears away. No task is automatically noble, and poor conditions should not be romanticized. Still, useful attention can turn modest work into precise education.",
+        "coaching": {
+          "en": "Stress the grain of the work. Keep the examples practical, and make the caution about poor conditions unmistakable.",
+          "zh": "重读 the grain of the work。例子要实在；关于恶劣条件的提醒必须读得明确。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Become Useful Before Impressive",
+          "zh": "4. 先变得有用，再追求耀眼"
+        },
+        "text": "Amir began carrying three questions into each assignment: What is this for? Where does it usually fail? Who knows more than I do? His notebook filled with answers that were smaller than slogans and more durable. Months later, a new intern arrived and apologized for asking a basic question. Amir recognized the old fear. He pulled up a chair and said, ‘Good. Let us see what the question can teach us.’ A career is not built by pretending the unknown is already behind us. It grows when we meet the next piece of work as both a responsibility and a teacher.",
+        "coaching": {
+          "en": "Give each question a searching lift. Read Amir's invitation warmly, then close with calm conviction.",
+          "zh": "每个问题都要带着探寻的升调。温暖地读出 Amir 的邀请，最后以平静而坚定的语气收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "apprenticeship",
+      "meaning": {
+        "en": "A period of learning a skilled job through guided practice.",
+        "zh": "学徒期；通过有指导的实践学习专业工作的阶段。"
+      },
+      "use": {
+        "en": "She treated the first year as an apprenticeship in judgment.",
+        "zh": "她把第一年看作训练判断力的学徒期。"
+      }
+    },
+    {
+      "term": "headroom",
+      "meaning": {
+        "en": "The space above a person's head, especially in a building or vehicle.",
+        "zh": "净空高度；尤其指建筑或车辆中头顶上方的空间。"
+      },
+      "use": {
+        "en": "The architect checked the headroom above the stairs.",
+        "zh": "建筑师检查了楼梯上方的净空高度。"
+      }
+    },
+    {
+      "term": "the grain of the work",
+      "meaning": {
+        "en": "The natural structure and practical realities of a kind of work.",
+        "zh": "工作的纹理；某类工作内在的结构与现实规律。"
+      },
+      "use": {
+        "en": "Experience taught her to work with the grain of the work.",
+        "zh": "经验教会她顺着工作的内在规律行事。"
+      }
+    },
+    {
+      "term": "romanticize",
+      "meaning": {
+        "en": "To describe something as better or more attractive than it really is.",
+        "zh": "浪漫化；把某事描述得比实际更美好。"
+      },
+      "use": {
+        "en": "We should not romanticize exhaustion.",
+        "zh": "我们不应把疲惫浪漫化。"
+      }
+    },
+    {
+      "term": "durable",
+      "meaning": {
+        "en": "Able to last and remain useful over time.",
+        "zh": "持久的；能够长时间保持有用。"
+      },
+      "use": {
+        "en": "Specific feedback creates durable learning.",
+        "zh": "具体反馈能带来持久的学习。"
+      }
+    },
+    {
+      "term": "assignment",
+      "meaning": {
+        "en": "A piece of work given to someone as part of a job or course.",
+        "zh": "任务；工作或课程中分配给某人的一项工作。"
+      },
+      "use": {
+        "en": "The assignment taught him how the team made decisions.",
+        "zh": "这项任务让他学会了团队如何作决定。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep hiring him had been a mistake connected without losing the final consonants.",
+      "zh": "连贯读出 hiring him had been a mistake，同时不要吞掉词尾辅音。"
+    },
+    {
+      "en": "Use parallel stress for mark the turning point, test the headroom, and trace the route.",
+      "zh": "用平行重音读出 mark the turning point、test the headroom 与 trace the route。"
+    },
+    {
+      "en": "Contrast both a responsibility and a teacher with a balanced, steady rhythm.",
+      "zh": "用平衡而稳定的节奏读出 both a responsibility and a teacher 的并列。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as a capable learner: precise about what you know and unashamed of what you are learning.",
+      "zh": "跟读时，像一位有能力的学习者：准确表达已知，也不羞于承认正在学习。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: let Amir's first-week tension sit beneath the polished office scene.",
+        "zh": "第一遍：让 Amir 第一周的紧张感藏在光鲜的办公室场景之下。"
+      },
+      {
+        "en": "Pass two: make every practical action easy to picture.",
+        "zh": "第二遍：让每个实际动作都清晰可见。"
+      },
+      {
+        "en": "Pass three: ask the three apprenticeship questions in your own natural voice.",
+        "zh": "第三遍：用你自然的声音问出三个学徒式问题。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where are you spending more energy appearing capable than becoming capable?",
+      "zh": "在哪里，你花在显得有能力上的精力，比真正变得有能力还多？"
+    },
+    {
+      "en": "What ordinary task could become an education if you studied its grain?",
+      "zh": "如果认真研究其内在规律，哪项普通任务可以变成一堂课？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/ask-the-apprenticeship-question/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/ask-the-apprenticeship-question/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/ask-the-apprenticeship-question/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/ask-the-apprenticeship-question/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/ask-the-apprenticeship-question/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/ask-the-apprenticeship-question/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/ask-the-apprenticeship-question/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/ask-the-apprenticeship-question/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/ask-the-apprenticeship-question/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/ask-the-apprenticeship-question/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/ask-the-apprenticeship-question/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/ask-the-apprenticeship-question/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/ask-the-apprenticeship-question/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/ask-the-apprenticeship-question/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/ask-the-apprenticeship-question/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/ask-the-apprenticeship-question/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/ask-the-apprenticeship-question/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/ask-the-apprenticeship-question/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/ask-the-apprenticeship-question/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/ask-the-apprenticeship-question/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/ask-the-apprenticeship-question/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/ask-the-apprenticeship-question/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/ask-the-apprenticeship-question/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/ask-the-apprenticeship-question/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/ask-the-apprenticeship-question/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/ask-the-apprenticeship-question/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/ask-the-apprenticeship-question/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/ask-the-apprenticeship-question/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/ask-the-apprenticeship-question/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/ask-the-apprenticeship-question/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/ask-the-apprenticeship-question/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/ask-the-apprenticeship-question/clips/sources_0.mp3"
+    }
+  }
+}
