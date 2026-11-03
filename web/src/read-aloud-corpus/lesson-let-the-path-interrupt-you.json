@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-path-interrupt-you",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Path Interrupt You",
+    "zh": "让小路打断你"
+  },
+  "subtitle": {
+    "en": "An original reflection on walking without conquest, noticing what resists hurry, and returning with a more spacious mind.",
+    "zh": "一篇原创美文：不以征服为目的地行走，留意那些抵抗匆忙的事物，并带着更开阔的心境归来。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Nature",
+    "Attention",
+    "Walking",
+    "Calm",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "Walking",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1022",
+      "note": {
+        "en": "Public-domain inspiration for walking as a practice of freedom and attention; the passage and imagery here are entirely original.",
+        "zh": "灵感来自这部公开领域作品中把行走视为自由与专注练习的思想；本课文字与意象均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as though the landscape is slowly widening around you. Keep the pace unforced and let each concrete image arrive clearly.",
+    "zh": "朗读时，想象周围的风景正慢慢展开。节奏不要用力，让每个具体意象清晰抵达。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Walk That Refuses to Be Efficient",
+      "zh": "一场拒绝高效的散步"
+    },
+    "intro": {
+      "en": "This original passage explores what becomes visible when a walk is allowed to change our plan instead of merely completing it.",
+      "zh": "这篇原创文章探讨：当一场散步可以改变我们的计划，而不只是完成计划时，我们会看见什么。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Leave the Stopwatch Behind",
+          "zh": "1. 把秒表留在身后"
+        },
+        "text": "A useful walk gets you somewhere. A necessary walk brings you back to yourself. The difference is not distance but permission. On a necessary walk, you do not ask the road to justify every minute. You leave before the mind has finished arranging its arguments, and soon the body adopts an older intelligence: heel, sole, toe; breath, branch, sky. The day is no longer a narrow corridor between appointments. It has edges, weather, and depth. Even the thoughts that followed you outside begin to loosen their collars.",
+        "coaching": {
+          "en": "Open with a clean contrast between useful and necessary. Give heel, sole, toe a steady three-beat rhythm.",
+          "zh": "开头把 useful 与 necessary 的对比读清楚。heel, sole, toe 用稳定的三拍节奏。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Accept the Detour",
+          "zh": "2. 接受绕路"
+        },
+        "text": "Then the path interrupts you. Rain has gathered in a hollow, turning the familiar shortcut into a small brown mirror. A fallen limb blocks the gate. Somewhere beyond the hedge, a bird repeats one liquid note until curiosity becomes stronger than schedule. Efficiency calls these obstacles. Attention calls them invitations. You step around the water and notice how the clouds move inside it. You duck beneath the branch and smell the green wound where it broke. The detour takes four extra minutes and gives the afternoon back its texture.",
+        "coaching": {
+          "en": "Brighten the sensory details. Pause before Efficiency calls these obstacles, then make the two labels distinct.",
+          "zh": "感官细节处提亮声音。在 Efficiency calls these obstacles 前停顿，并把两种命名读出区别。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Become Locally Curious",
+          "zh": "3. 对近处保持好奇"
+        },
+        "text": "We often reserve wonder for distant places: a desert under stars, a city of towers, an island with water the color of glass. But the near world is not empty; it is merely familiar. Familiarity can become a curtain. Lift one corner. Which tree keeps its leaves longest? Where does the pavement stay dark after rain? Who placed the blue cup on the low wall, and why has no one moved it? Local curiosity does not require answers. Its first gift is proportion. Your private worry remains real, but it is no longer the only object in the frame.",
+        "coaching": {
+          "en": "Let the three questions sound lightly curious, not theatrical. Land firmly on not the only object in the frame.",
+          "zh": "三个问题要读得轻盈好奇，不要戏剧化。not the only object in the frame 要稳稳落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return Slightly Rearranged",
+          "zh": "4. 带着微小的改变归来"
+        },
+        "text": "When you return, the room has not changed. The unanswered message still waits. The difficult decision has not politely solved itself. Yet you enter as a person slightly rearranged. The mind has more windows. You can hold the problem without pressing your face against it. This is the quiet work of an unhurried path: not escape, but restoration of scale. It reminds you that a life is larger than the sentence currently occupying it. Tomorrow the path will alter again. If you let it interrupt you, perhaps you will, too.",
+        "coaching": {
+          "en": "Keep the return grounded and unsentimental. Slow through restoration of scale and soften the final perhaps.",
+          "zh": "归来部分要踏实、不煽情。读到 restoration of scale 时放慢，结尾的 perhaps 轻柔一些。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "justify",
+      "meaning": {
+        "en": "To show that something is reasonable or worthwhile.",
+        "zh": "证明某事合理或值得。"
+      },
+      "use": {
+        "en": "Rest does not need to justify every minute.",
+        "zh": "休息不需要证明每一分钟都有用。"
+      }
+    },
+    {
+      "term": "detour",
+      "meaning": {
+        "en": "A different, usually longer route around an obstacle.",
+        "zh": "为避开障碍而走的另一条、通常更长的路。"
+      },
+      "use": {
+        "en": "The detour showed us a quieter side of town.",
+        "zh": "这次绕路让我们看见了城市更安静的一面。"
+      }
+    },
+    {
+      "term": "texture",
+      "meaning": {
+        "en": "The distinctive feel or quality of an experience.",
+        "zh": "一种经历独特的质感或层次。"
+      },
+      "use": {
+        "en": "Small rituals give ordinary days texture.",
+        "zh": "小小的仪式让平常的日子更有质感。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "A balanced sense of the relative size or importance of things.",
+        "zh": "对事物相对大小或重要性的均衡判断。"
+      },
+      "use": {
+        "en": "A night of sleep restored my sense of proportion.",
+        "zh": "睡了一晚后，我重新找回了分寸感。"
+      }
+    },
+    {
+      "term": "rearranged",
+      "meaning": {
+        "en": "Changed in order or position.",
+        "zh": "在顺序或位置上被重新调整的。"
+      },
+      "use": {
+        "en": "The conversation left my priorities slightly rearranged.",
+        "zh": "那次谈话让我的优先顺序有了些许改变。"
+      }
+    },
+    {
+      "term": "restoration",
+      "meaning": {
+        "en": "The act of bringing something back to a healthy or complete state.",
+        "zh": "使某物恢复健康或完整状态的过程。"
+      },
+      "use": {
+        "en": "The weekend became a time of restoration.",
+        "zh": "那个周末成了一段恢复元气的时间。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the repeated pattern heel, sole, toe; breath, branch, sky crisp and evenly paced.",
+      "zh": "heel, sole, toe; breath, branch, sky 这一重复结构要清晰、匀速。"
+    },
+    {
+      "en": "Use contrastive stress in Efficiency calls these obstacles. Attention calls them invitations.",
+      "zh": "在 Efficiency calls these obstacles. Attention calls them invitations. 中使用对比重音。"
+    },
+    {
+      "en": "Link consonants and vowels smoothly in slightly rearranged and restoration of scale.",
+      "zh": "slightly rearranged 和 restoration of scale 中的辅音与元音要自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with spaciousness, as if you are noticing the path at the same moment you describe it.",
+      "zh": "跟读时保持开阔感，仿佛你在描述的同时才刚刚发现这条小路。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the walking rhythm steady and conversational.",
+        "zh": "第一遍：保持行走般稳定、自然的节奏。"
+      },
+      {
+        "en": "Pass two: give each sensory image its own clear space.",
+        "zh": "第二遍：给每个感官意象留出清晰空间。"
+      },
+      {
+        "en": "Pass three: carry quiet conviction through the final reflection.",
+        "zh": "第三遍：在结尾思考中保持安静的笃定。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar detail near your home have you stopped seeing?",
+      "zh": "你家附近有什么熟悉的细节，已经被你忽略了？"
+    },
+    {
+      "en": "What problem might look different after an unhurried walk?",
+      "zh": "哪一个问题可能会在一次不匆忙的散步后显得不同？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-path-interrupt-you/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-path-interrupt-you/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-path-interrupt-you/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-path-interrupt-you/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-path-interrupt-you/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-path-interrupt-you/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-path-interrupt-you/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-path-interrupt-you/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-path-interrupt-you/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-path-interrupt-you/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-path-interrupt-you/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-path-interrupt-you/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-path-interrupt-you/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-path-interrupt-you/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-path-interrupt-you/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-path-interrupt-you/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-path-interrupt-you/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-path-interrupt-you/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-path-interrupt-you/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-path-interrupt-you/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-path-interrupt-you/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-path-interrupt-you/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-path-interrupt-you/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-path-interrupt-you/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-path-interrupt-you/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-path-interrupt-you/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-path-interrupt-you/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-path-interrupt-you/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-path-interrupt-you/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-path-interrupt-you/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-path-interrupt-you/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-path-interrupt-you/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-child-finish",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Child Finish",
+    "zh": "让孩子把话说完"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient listening, imperfect stories, and the trust built when adults resist supplying every answer.",
+    "zh": "一篇原创美文：关于耐心倾听、不完美的叙述，以及成年人不急于提供答案时建立的信任。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Listening",
+    "Trust",
+    "Patience",
+    "Communication"
+  ],
+  "sources": [
+    {
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/514",
+      "note": {
+        "en": "Public-domain inspiration from the novel's humane attention to family character and growth; the scene and wording here are entirely original.",
+        "zh": "灵感来自这部公开领域小说对家庭性格与成长的温厚关注；本课场景与文字均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with patient warmth. Allow the pauses to feel attentive rather than empty, and keep the adult voice free of condescension.",
+    "zh": "以耐心的温暖朗读。让停顿显得专注而非空白，成年人的声音不要带居高临下的意味。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Long Way to One Honest Sentence",
+      "zh": "通往一句真话的漫长道路"
+    },
+    "intro": {
+      "en": "This original passage follows a small family conversation in which listening becomes more valuable than quick correction.",
+      "zh": "这篇原创文章描写一场小小的家庭对话：其中，倾听比迅速纠正更有价值。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Story Arrives in Pieces",
+          "zh": "1. 故事零零散散地抵达"
+        },
+        "text": "A child rarely brings the important story in a neat envelope. It comes sideways, while shoes are being untied or carrots pushed around a plate. There was a game. Someone changed the rules. The teacher said something, but not exactly that. Names appear, disappear, and return wearing different roles. An adult listening for efficiency may feel the urge to straighten every line. Who started it? What did you say? Why did you not tell the teacher? The questions are reasonable. Their speed can still close the door.",
+        "coaching": {
+          "en": "Use an affectionate, observant tone. Let the quick adult questions accelerate, then stop cleanly at close the door.",
+          "zh": "用温和、善于观察的语气。成年人的连续提问逐渐加快，到 close the door 时干净停住。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Do Not Seize the Pencil",
+          "zh": "2. 不要抢过那支笔"
+        },
+        "text": "Listening to a child is like watching someone draw a map of a country still being formed. The river may run uphill. The school and the playground may occupy the same corner. If you seize the pencil, the map becomes tidier, but it is no longer theirs. Try saying, Take your time. What happened next? Then wait through the silence in which memory and courage search for each other. A face may change before the words do. Often the pause is not emptiness. It is the workshop where the truer sentence is being made.",
+        "coaching": {
+          "en": "Treat the map image gently. After Then wait, leave a real pause before continuing.",
+          "zh": "温柔地呈现地图意象。读完 Then wait 后真正停顿一下再继续。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Hear the Need Beneath the Report",
+          "zh": "3. 听见叙述之下的需要"
+        },
+        "text": "At last the facts may remain incomplete, but the need becomes clear. I did not know where to stand. I thought nobody would choose me. I laughed because everyone else laughed. This is the sentence beneath the story. It may ask for comfort, rehearsal, protection, or simply a witness. Advice has a place, but it should enter after recognition. You felt left out. That sounds confusing. I am glad you told me. Such replies do not solve the playground. They tell the child that difficult feelings can be carried into language without being dismissed or enlarged into disaster.",
+        "coaching": {
+          "en": "Give the child's three admissions plain honesty. Make the recognizing replies low, steady, and sincere.",
+          "zh": "孩子的三句坦白要读得朴素诚实。表示理解的回应要低沉、稳定、真诚。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return the Story With Trust",
+          "zh": "4. 带着信任把故事还回去"
+        },
+        "text": "Later, you can help separate accident from cruelty, fear from fact, and one bad afternoon from a permanent identity. You can practice a sentence for tomorrow or decide that an adult must step in. But leave some authorship with the child. Ask, What do you think would help? Their answer may be impractical, surprising, or wiser than yours. The goal is not to raise a person who always tells a perfect story. It is to raise one who knows that confusion can be spoken, truth can be revised, and home is a place where a voice is allowed to reach its own ending.",
+        "coaching": {
+          "en": "Build calm confidence through the paired contrasts. Let the final phrase reach its own ending without extra sentiment.",
+          "zh": "通过成对的对比建立平静的信心。最后的 reach its own ending 不要额外煽情，让它自然落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "sideways",
+      "meaning": {
+        "en": "Indirectly rather than in a clear, direct manner.",
+        "zh": "以间接而非明确直接的方式。"
+      },
+      "use": {
+        "en": "The real concern entered the conversation sideways.",
+        "zh": "真正的担忧以一种间接的方式进入了谈话。"
+      }
+    },
+    {
+      "term": "condescension",
+      "meaning": {
+        "en": "A manner that suggests you believe you are superior to someone.",
+        "zh": "表现出自以为高人一等的态度。"
+      },
+      "use": {
+        "en": "She explained the rule without condescension.",
+        "zh": "她解释规则时没有居高临下。"
+      }
+    },
+    {
+      "term": "rehearsal",
+      "meaning": {
+        "en": "Practice before a real performance or conversation.",
+        "zh": "在正式表现或对话前进行的练习。"
+      },
+      "use": {
+        "en": "A short rehearsal made the difficult conversation easier.",
+        "zh": "简短的预演让那场艰难对话容易了一些。"
+      }
+    },
+    {
+      "term": "dismiss",
+      "meaning": {
+        "en": "To treat a feeling or idea as unworthy of attention.",
+        "zh": "把某种感受或想法当作不值得关注。"
+      },
+      "use": {
+        "en": "Do not dismiss a worry before you understand it.",
+        "zh": "在理解担忧之前，不要轻易否定它。"
+      }
+    },
+    {
+      "term": "authorship",
+      "meaning": {
+        "en": "Control or responsibility for shaping a story or decision.",
+        "zh": "塑造故事或决定的主导权与责任。"
+      },
+      "use": {
+        "en": "Give young people some authorship over the solution.",
+        "zh": "让年轻人对解决方案保有一些主导权。"
+      }
+    },
+    {
+      "term": "impractical",
+      "meaning": {
+        "en": "Not sensible or workable in real conditions.",
+        "zh": "在现实条件下不明智或不可行的。"
+      },
+      "use": {
+        "en": "The first idea was imaginative but impractical.",
+        "zh": "第一个想法很有创意，但不切实际。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters clear in facts, straight, asked, and trust.",
+      "zh": "facts、straight、asked 和 trust 中的辅音群要清晰。"
+    },
+    {
+      "en": "Use gentle downward intonation for Take your time and I am glad you told me.",
+      "zh": "Take your time 和 I am glad you told me 使用轻柔的降调。"
+    },
+    {
+      "en": "Stress the changing nouns in accident from cruelty, fear from fact.",
+      "zh": "在 accident from cruelty, fear from fact 中重读变化的名词。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as a calm listener whose attention makes honesty easier.",
+      "zh": "跟读时，做一个平静的倾听者，用专注让诚实更容易发生。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: distinguish the hurried questions from the patient replies.",
+        "zh": "第一遍：区分匆忙的提问与耐心的回应。"
+      },
+      {
+        "en": "Pass two: honor every pause without losing the thread.",
+        "zh": "第二遍：尊重每个停顿，同时不丢失叙述线索。"
+      },
+      {
+        "en": "Pass three: give the ending warmth, clarity, and restraint.",
+        "zh": "第三遍：让结尾兼具温暖、清晰与克制。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "When do you tend to supply an answer before another person has finished?",
+      "zh": "你通常在什么情况下，会在对方说完之前就急着给出答案？"
+    },
+    {
+      "en": "What phrase could help someone feel safe enough to continue?",
+      "zh": "哪一句话可以让一个人感到足够安全，愿意继续说下去？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-child-finish/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-child-finish/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-child-finish/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-child-finish/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-child-finish/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-child-finish/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-child-finish/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-child-finish/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-child-finish/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-child-finish/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-child-finish/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-child-finish/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-child-finish/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-child-finish/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-child-finish/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-child-finish/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-child-finish/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-child-finish/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-child-finish/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-child-finish/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-child-finish/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-child-finish/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-child-finish/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-child-finish/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-child-finish/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-child-finish/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-child-finish/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-child-finish/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-child-finish/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-child-finish/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-child-finish/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-child-finish/clips/sources_0.mp3"
+    }
+  }
+}
