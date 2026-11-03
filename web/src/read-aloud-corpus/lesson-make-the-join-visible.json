@@ -1,0 +1,230 @@
+{
+  "lessonId": "make-the-join-visible",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Make the Join Visible",
+    "zh": "让连接被看见"
+  },
+  "subtitle": {
+    "en": "An original reflection on craftsmanship, honest repair, and the beauty of work that reveals how it was made.",
+    "zh": "一篇原创美文：关于手艺、诚实修补，以及让制作过程显现出来的美。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Craft",
+    "Art",
+    "Patience",
+    "Integrity"
+  ],
+  "sources": [
+    {
+      "title": "The Stones of Venice, Volume II",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30755",
+      "note": {
+        "en": "Public-domain inspiration for the dignity of visible workmanship and human variation; this lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品中对可见手工痕迹与人性差异之尊严的思考；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with the patience of careful hands. Give weight to concrete objects and small acts of repair.",
+    "zh": "带着一双细致双手的耐心朗读。让具体物件与微小修补动作拥有分量。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Table with a Golden Line",
+      "zh": "带着金色细线的桌子"
+    },
+    "intro": {
+      "en": "This original passage follows a woodworker who discovers that a repair can become part of an object's truthful design.",
+      "zh": "这篇原创文章讲述一位木匠如何发现：修补可以成为一件物品诚实设计的一部分。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Crack",
+          "zh": "1. 裂缝"
+        },
+        "text": "The walnut table split three days before it was due to leave the workshop. The crack began near one corner and ran toward the center like a dark river on a map. Tomas stood over it in silence. He had chosen the board, planed it smooth, and fitted every joint by hand. Now the finished surface seemed to accuse him. He could replace the top and hide the lost week inside a hurried explanation. He could also fill the crack with dark resin and hope no one looked closely. Both choices treated the evidence of difficulty as something shameful.",
+        "coaching": {
+          "en": "Let the crack travel slowly through the first image. Read the choices plainly, with no melodrama.",
+          "zh": "让裂缝在第一个意象中缓缓延伸。两个选择要读得平实，不要戏剧化。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Repair That Tells the Truth",
+          "zh": "2. 说真话的修补"
+        },
+        "text": "His teacher, Inez, examined the wood and said, ‘The table does not need to pretend it was never tested.’ They cut three small bow-shaped keys and set them across the crack. Tomas used pale maple, lighter than the walnut, so each repair remained visible. The keys held the board together, but they also changed its character. What had looked like failure became structure: three quiet bridges carrying force from one side to the other. The work was no longer flawless. It was more legible. Anyone could see where the material had resisted and where a pair of hands had answered.",
+        "coaching": {
+          "en": "Warm the teacher's line. Stress visible, structure, and legible as three stages of understanding.",
+          "zh": "把老师的话读得温暖。重读 visible、structure、legible，呈现理解的三个阶段。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Cost of Seamlessness",
+          "zh": "3. 无缝的代价"
+        },
+        "text": "We are often taught to admire the seamless result: the speech without a stumble, the career without a detour, the friendship without a repair. Yet seamlessness can conceal the very knowledge that would help another person continue. A thoughtful speaker may show where a sentence was revised. A good leader may name the mistake that changed a policy. A trusted friend may say, ‘This is where I misunderstood you, and this is what I learned.’ Such joins do not weaken the whole. When made with care, they reveal the forces the whole can bear.",
+        "coaching": {
+          "en": "Keep the three seamless examples light and parallel. Make the quoted repair direct, humble, and strong.",
+          "zh": "三个“无缝”例子要轻盈而平行。引语中的修补要直接、谦逊而有力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Signed by the Making",
+          "zh": "4. 留下制作的署名"
+        },
+        "text": "When the client arrived, Tomas began with the crack. He explained the dry weather, the hidden tension in the board, and the maple keys. The client ran one finger across the pale shapes. ‘Leave them exactly as they are,’ she said. Years later, the table would collect other marks: a ring from a glass, a shallow scratch, the softened edge where a hand often rested. None would erase the discipline of its making. Honest craft does not promise that nothing difficult happened. It gives difficulty a durable form, then lets the object stand—useful, particular, and visibly held together.",
+        "coaching": {
+          "en": "Slow down for the future marks on the table. Land the final three words with tactile steadiness.",
+          "zh": "读到桌子未来留下的痕迹时放慢。最后三个描述词要以有触感的稳定感落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "workmanship",
+      "meaning": {
+        "en": "The skill and quality shown in making something.",
+        "zh": "工艺；制作某物时体现出的技巧与品质。"
+      },
+      "use": {
+        "en": "The visible joint revealed careful workmanship.",
+        "zh": "可见的接缝体现了细致的工艺。"
+      }
+    },
+    {
+      "term": "legible",
+      "meaning": {
+        "en": "Clear enough to be read or understood.",
+        "zh": "清晰可读的；容易理解的。"
+      },
+      "use": {
+        "en": "Her explanation made the process legible.",
+        "zh": "她的解释让这个过程变得清楚易懂。"
+      }
+    },
+    {
+      "term": "seamless",
+      "meaning": {
+        "en": "Smooth and continuous, with no visible joins or interruptions.",
+        "zh": "无缝的；流畅连续而看不出接合或中断的。"
+      },
+      "use": {
+        "en": "The final presentation looked seamless.",
+        "zh": "最终的演示看起来流畅无缝。"
+      }
+    },
+    {
+      "term": "conceal",
+      "meaning": {
+        "en": "To hide something or prevent it from being known.",
+        "zh": "隐藏；使某事不被看见或知道。"
+      },
+      "use": {
+        "en": "A polished result can conceal useful lessons.",
+        "zh": "精致的成果可能掩盖有用的经验。"
+      }
+    },
+    {
+      "term": "durable",
+      "meaning": {
+        "en": "Able to remain strong and useful for a long time.",
+        "zh": "耐久的；能长时间保持坚固与实用的。"
+      },
+      "use": {
+        "en": "They built a durable agreement after the disagreement.",
+        "zh": "分歧之后，他们建立了一项持久的共识。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Give planed it smooth and fitted every joint by hand an even, craftsman's rhythm.",
+      "zh": "把 planed it smooth 与 fitted every joint by hand 读出工匠般均匀的节奏。"
+    },
+    {
+      "en": "Contrast flawless with more legible by slowing slightly before more.",
+      "zh": "在 more 前稍微放慢，对比 flawless 与 more legible。"
+    },
+    {
+      "en": "Shape useful, particular, and visibly held together as a measured three-part landing.",
+      "zh": "把 useful、particular、visibly held together 读成有分寸的三段式收束。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice were joining two pieces carefully: firm pressure, clean edges, no hurry.",
+      "zh": "跟读时，仿佛你的声音正在细心连接两块材料：压力稳，边缘清，不着急。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the workshop objects tangible.",
+        "zh": "第一遍：让工作室里的物件有真实触感。"
+      },
+      {
+        "en": "Pass two: clarify each contrast between hiding and revealing.",
+        "zh": "第二遍：读清隐藏与显现之间的每一组对比。"
+      },
+      {
+        "en": "Pass three: let the ending feel made, tested, and durable.",
+        "zh": "第三遍：让结尾听起来像经过制作、考验，并且耐久。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What repair in your work could become useful knowledge for others?",
+      "zh": "你工作中的哪一次修补，可以成为对他人有用的经验？"
+    },
+    {
+      "en": "Where does perfection hide the true story of how something was made?",
+      "zh": "在哪些地方，完美掩盖了某物如何被制作出来的真实故事？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-the-join-visible/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-the-join-visible/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-the-join-visible/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-the-join-visible/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-the-join-visible/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/make-the-join-visible/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-the-join-visible/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-the-join-visible/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-the-join-visible/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-the-join-visible/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-the-join-visible/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-the-join-visible/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-the-join-visible/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-the-join-visible/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-the-join-visible/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-the-join-visible/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-the-join-visible/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-the-join-visible/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-the-join-visible/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-the-join-visible/clips/vocabulary_4.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-the-join-visible/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-the-join-visible/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-the-join-visible/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-the-join-visible/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-the-join-visible/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-the-join-visible/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-the-join-visible/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-the-join-visible/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-the-join-visible/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-the-join-visible/clips/sources_0.mp3"
+    }
+  }
+}

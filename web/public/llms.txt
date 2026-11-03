@@ -122,6 +122,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Lend the Stranger a History](https://wordpower-seven.vercel.app/read-aloud/lend-the-stranger-a-history): An original reflection on moral imagination, fair judgment, and the stories we cannot see.
 - [Let the Child Carry the Basket](https://wordpower-seven.vercel.app/read-aloud/let-the-child-carry-the-basket): An original reflection on useful responsibility, patient guidance, and the dignity of growing capable.
 - [Let the Child Finish the Map](https://wordpower-seven.vercel.app/read-aloud/let-the-child-finish-the-map): An original reflection on guidance, useful mistakes, and the patience to let understanding take shape.
+- [Let the Detail Change You](https://wordpower-seven.vercel.app/read-aloud/let-the-detail-change-you): An original reflection on patient observation, honest revision, and the courage to notice what does not fit.
 - [Let the Draft Teach You](https://wordpower-seven.vercel.app/read-aloud/let-the-draft-teach-you): An original reflection on learning by making, useful mistakes, and the intelligence that appears during revision.
 - [Let the Evidence Surprise You](https://wordpower-seven.vercel.app/read-aloud/let-the-evidence-surprise-you): An original reflection on scientific curiosity, careful observation, and the freedom to revise a cherished idea.
 - [Let the Night Resize the Day](https://wordpower-seven.vercel.app/read-aloud/let-the-night-resize-the-day): An original reflection on starlight, proportion, and returning to ordinary problems with a wider mind.
@@ -136,6 +137,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Make One Honest Thing](https://wordpower-seven.vercel.app/read-aloud/make-one-honest-thing): An original reflection on craft, career, and the quiet standard that survives applause.
 - [Make Room in the Conversation](https://wordpower-seven.vercel.app/read-aloud/make-room-in-conversation): An original passage on calm speech, useful silence, and disagreement without contempt.
 - [Make the Apology Specific](https://wordpower-seven.vercel.app/read-aloud/make-the-apology-specific): An original reflection on repairing trust with honest detail, proportion, and changed behavior.
+- [Make the Join Visible](https://wordpower-seven.vercel.app/read-aloud/make-the-join-visible): An original reflection on craftsmanship, honest repair, and the beauty of work that reveals how it was made.
 - [Make the Mistake Useful](https://wordpower-seven.vercel.app/read-aloud/make-the-mistake-useful): An original reflection on learning, intelligent practice, and turning error into better judgment.
 - [Mend the Small Tear](https://wordpower-seven.vercel.app/read-aloud/mend-the-small-tear): An original reflection on friendship, repair, and the courage to return before distance hardens.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.

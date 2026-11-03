@@ -1,0 +1,230 @@
+{
+  "lessonId": "let-the-detail-change-you",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Detail Change You",
+    "zh": "让细节改变你"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient observation, honest revision, and the courage to notice what does not fit.",
+    "zh": "一篇原创美文：关于耐心观察、诚实修正，以及看见不合常理之处的勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Attention",
+    "Science",
+    "Nature",
+    "Learning"
+  ],
+  "sources": [
+    {
+      "title": "The Voyage of the Beagle",
+      "author": "Charles Darwin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3704",
+      "note": {
+        "en": "Public-domain inspiration for close observation and revising ideas in the presence of evidence; this lesson is wholly original.",
+        "zh": "灵感来自这部公开领域作品中对细致观察与依据证据修正想法的呈现；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read like a careful observer: unhurried, specific, and willing to be surprised.",
+    "zh": "像一位细心的观察者那样朗读：不慌不忙，具体清晰，并愿意感到惊讶。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Notebook Beside the Path",
+      "zh": "小路旁的笔记本"
+    },
+    "intro": {
+      "en": "This original passage follows a field student who learns that attention is not merely looking harder; it is allowing reality to revise the mind.",
+      "zh": "这篇原创文章讲述一位野外学习者如何明白：专注不只是更用力地看，而是让现实修正自己的头脑。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Answer She Expected",
+          "zh": "1. 她预想的答案"
+        },
+        "text": "Mara arrived at the salt marsh with a clean notebook and a theory she already loved. The small shorebirds, she believed, chose feeding places only by the depth of the water. Her first page was prepared with tidy columns: time, tide, depth, number of birds. For an hour, the marks behaved beautifully. Then one bird stepped away from a shallow pool and crossed a strip of mud to feed beside a clump of grass. Mara nearly ignored it. A single untidy fact can feel less important than a graceful explanation, especially when the explanation belongs to us.",
+        "coaching": {
+          "en": "Keep the opening orderly, then slow down at Then one bird. Let the final phrase carry quiet self-recognition.",
+          "zh": "开头读得有条理；到 Then one bird 时放慢。最后一句要带着安静的自我觉察。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Detail with Weight",
+          "zh": "2. 有分量的细节"
+        },
+        "text": "She drew a small circle around the exception. Soon she noticed another: birds gathered near grass even when equally shallow water lay elsewhere. She knelt, touched the mud, and found it firmer around the roots. Tiny shells were easier to reach there. The detail did not destroy her first idea; depth still mattered. But it gave the idea a companion—ground that could support quick feet and offer hidden food. Good observation is not a heap of facts. It is the patient act of deciding which fact deserves enough weight to alter the sentence in your head.",
+        "coaching": {
+          "en": "Give physical texture to knelt, touched, and firmer. Stress companion and enough weight without sounding dramatic.",
+          "zh": "把 knelt、touched、firmer 读出触感。适度重读 companion 与 enough weight，不要夸张。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. The Courtesy of Revision",
+          "zh": "3. 修正是一种礼貌"
+        },
+        "text": "We sometimes treat revision as a public confession that we were foolish before. It can be something gentler: courtesy toward what is actually there. The attentive gardener changes the watering schedule after touching the soil. The thoughtful manager changes a meeting after hearing the quietest colleague. The learner changes a pronunciation after listening to the shape of a native speaker's breath. In each case, reality offers a correction without insult. Our task is not to defend the first draft of our understanding. It is to remain available for the second, the third, and the truer one.",
+        "coaching": {
+          "en": "Use a warm contrast between foolish and gentler. Let the three examples share a steady parallel rhythm.",
+          "zh": "温和地读出 foolish 与 gentler 的对比。三个例子要保持稳定的平行节奏。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave One Line Open",
+          "zh": "4. 留一行空白"
+        },
+        "text": "Before leaving the marsh, Mara rewrote her conclusion. She did not cross out the morning as wasted. She placed the old sentence above the new one so she could see the distance between them. At the bottom of the page, she left one line open. Tomorrow might bring wind, a different tide, or a bird that preferred another patch of ground. Attention grows when certainty keeps a small door unlocked. The world is generous with detail, but only the unguarded mind can receive it. Notice carefully, revise gracefully, and let the page become more truthful than the person who first opened it.",
+        "coaching": {
+          "en": "Pause after old sentence and new one. Finish with clarity and invitation, not a grand moral.",
+          "zh": "在 old sentence 与 new one 后停顿。结尾要清晰、带邀请感，不要读成宏大说教。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "exception",
+      "meaning": {
+        "en": "A case that does not follow the usual rule or pattern.",
+        "zh": "例外；不符合通常规则或模式的情况。"
+      },
+      "use": {
+        "en": "One exception made us examine the pattern again.",
+        "zh": "一个例外促使我们重新审视这个模式。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To change an idea or piece of work after reconsidering it.",
+        "zh": "修正；重新思考后改变想法或作品。"
+      },
+      "use": {
+        "en": "We revised our plan after hearing the new evidence.",
+        "zh": "听到新证据后，我们修正了计划。"
+      }
+    },
+    {
+      "term": "courtesy",
+      "meaning": {
+        "en": "Respectful and considerate behavior toward someone or something.",
+        "zh": "礼貌；体贴而尊重的态度。"
+      },
+      "use": {
+        "en": "Careful listening is a form of courtesy.",
+        "zh": "认真倾听是一种礼貌。"
+      }
+    },
+    {
+      "term": "available",
+      "meaning": {
+        "en": "Ready and open to receive, consider, or do something.",
+        "zh": "愿意接受的；准备好考虑或行动的。"
+      },
+      "use": {
+        "en": "Stay available for an explanation you did not expect.",
+        "zh": "对意料之外的解释保持开放。"
+      }
+    },
+    {
+      "term": "unguarded",
+      "meaning": {
+        "en": "Open and not protected by excessive caution.",
+        "zh": "不设防的；不过度警惕而开放的。"
+      },
+      "use": {
+        "en": "Her unguarded curiosity led to a better question.",
+        "zh": "她不设防的好奇心带来了一个更好的问题。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link chose feeding places only by the depth of the water smoothly, while keeping depth clear.",
+      "zh": "流畅连读 chose feeding places only by the depth of the water，同时把 depth 读清楚。"
+    },
+    {
+      "en": "Use parallel stress in changes the watering schedule, changes a meeting, and changes a pronunciation.",
+      "zh": "在 changes the watering schedule、changes a meeting、changes a pronunciation 中使用平行重音。"
+    },
+    {
+      "en": "Contrast first draft with second, third, and truer using a gentle rising pattern.",
+      "zh": "用轻柔上扬的节奏对比 first draft 与 second、third、truer。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if each sentence records a discovery rather than announces a verdict.",
+      "zh": "跟读时，把每句话读成一次发现，而不是一项判决。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the marsh scene precise and spacious.",
+        "zh": "第一遍：把盐沼场景读得准确而有空间感。"
+      },
+      {
+        "en": "Pass two: make each turn in Mara's thinking audible.",
+        "zh": "第二遍：让玛拉思路的每次转变都能被听见。"
+      },
+      {
+        "en": "Pass three: soften your certainty without weakening your voice.",
+        "zh": "第三遍：放柔确定感，但不要削弱声音。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What small exception has recently challenged one of your assumptions?",
+      "zh": "最近有什么小小的例外挑战了你的一个假设？"
+    },
+    {
+      "en": "How can you make revision sound confident rather than embarrassed?",
+      "zh": "你怎样能让修正听起来坚定，而不是尴尬？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-detail-change-you/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-detail-change-you/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-detail-change-you/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-detail-change-you/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-detail-change-you/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/let-the-detail-change-you/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-detail-change-you/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-detail-change-you/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-detail-change-you/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-detail-change-you/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-detail-change-you/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-detail-change-you/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-detail-change-you/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-detail-change-you/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-detail-change-you/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-detail-change-you/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-detail-change-you/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-detail-change-you/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-detail-change-you/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-detail-change-you/clips/vocabulary_4.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-detail-change-you/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-detail-change-you/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-detail-change-you/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-detail-change-you/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-detail-change-you/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-detail-change-you/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-detail-change-you/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-detail-change-you/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-detail-change-you/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-detail-change-you/clips/sources_0.mp3"
+    }
+  }
+}
