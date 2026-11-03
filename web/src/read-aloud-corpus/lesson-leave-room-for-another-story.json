@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-room-for-another-story",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave Room for Another Story",
+    "zh": "给另一个故事留出空间"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, careful judgment, and the stories we cannot see.",
+    "zh": "一篇原创美文：关于道德想象、审慎判断，以及那些我们看不见的故事。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Empathy",
+    "Judgment",
+    "Imagination",
+    "Communication",
+    "Humility"
+  ],
+  "sources": [
+    {
+      "title": "The Essays of Elia",
+      "author": "Charles Lamb",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/10343",
+      "note": {
+        "en": "Public-domain inspiration for humane observation and generous attention; this lesson is entirely original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域随笔中充满人情味的观察与宽厚关注；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with humane restraint. Let the concrete scenes carry the meaning, and keep the final invitation warm rather than sentimental.",
+    "zh": "用克制而有人情味的声音朗读。让具体场景承载含义，最后的邀请要温暖而不煽情。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Unseen Half of the Room",
+      "zh": "房间里看不见的另一半"
+    },
+    "intro": {
+      "en": "This original passage explores how a second possible story can make judgment more accurate and conversation more humane.",
+      "zh": "这篇原创文章探讨：为另一种可能的故事留出空间，如何让判断更准确、对话更有人情味。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Quick Verdict",
+          "zh": "1. 仓促的结论"
+        },
+        "text": "A colleague enters late and does not apologize. A neighbor passes without returning your greeting. A friend answers a careful message with three bare words. The mind dislikes an empty space, so it furnishes one immediately: careless, proud, annoyed. A verdict gives uncertainty a shape, and for a moment that shape feels like knowledge. Yet what we know is narrow. We have seen an arrival, a turned face, a short reply. We have not seen the whole morning that carried them to us.",
+        "coaching": {
+          "en": "Keep the opening scenes crisp. Slow at a verdict gives uncertainty a shape, then make the final sentence spacious.",
+          "zh": "开头几个场景要利落。在 a verdict gives uncertainty a shape 处放慢，末句要读出空间感。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Second Possible Story",
+          "zh": "2. 第二种可能的故事"
+        },
+        "text": "Moral imagination begins with a modest sentence: there may be more here. Perhaps the late colleague spent dawn beside a hospital bed. Perhaps the neighbor was rehearsing difficult news. Perhaps the friend wrote while standing on a crowded train, afraid that silence would seem worse. These possibilities may be wrong. Their purpose is not to replace one certainty with a kinder certainty. They interrupt the speed of accusation. They remind us that another life has an interior, crowded with duties, fears, loyalties, and private weather.",
+        "coaching": {
+          "en": "Let each perhaps sound plausible, not theatrical. Stress interrupt the speed of accusation.",
+          "zh": "每个 perhaps 都要读得可信，不要戏剧化。重读 interrupt the speed of accusation。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask Without Cornering",
+          "zh": "3. 问，但不要把人逼到墙角"
+        },
+        "text": "Imagination should lead to better questions, not invented excuses. You can say, “I noticed you went quiet. Is something making this difficult?” The question names what happened without claiming to know why. It leaves a door where blame would build a wall. This does not require us to tolerate cruelty or erase a clear pattern. Boundaries can remain firm while our account of another person remains provisional. In fact, careful language strengthens a boundary: it separates what we observed from what we merely supplied.",
+        "coaching": {
+          "en": "Use a gentle, practical tone for the example question. Give boundaries and provisional clear weight.",
+          "zh": "示例问题要温和而务实。清楚重读 boundaries 和 provisional。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. The Gift of Unfinished Knowledge",
+          "zh": "4. 未完成的认知"
+        },
+        "text": "There is dignity in allowing knowledge to remain unfinished. We can respond to the facts before us and still leave room for correction. Later, the colleague may explain; the neighbor may look up; the friend may tell us what those three words cost. Or no explanation may come. Even then, the pause has protected something valuable in us: the ability to meet a human being without reducing that person to one difficult moment. The room does not become less truthful when we admit an unseen half. It becomes large enough for truth to enter.",
+        "coaching": {
+          "en": "Build gently through the repeated may. Land on the final contrast with quiet conviction.",
+          "zh": "在重复的 may 中温和推进。最后的对比要以安静而坚定的语气落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "furnish",
+      "meaning": {
+        "en": "To fill or provide a space with what it needs.",
+        "zh": "布置、填充一个空间。"
+      },
+      "use": {
+        "en": "The mind can furnish silence with an unfair story.",
+        "zh": "心灵可能会用一个不公平的故事填满沉默。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A firm judgment or decision about someone or something.",
+        "zh": "定论；明确的判断。"
+      },
+      "use": {
+        "en": "Wait for more facts before reaching a verdict.",
+        "zh": "在下结论前再等一些事实。"
+      }
+    },
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "Limited and not claiming too much.",
+        "zh": "适度的；不夸大的。"
+      },
+      "use": {
+        "en": "We began with the modest claim that something had changed.",
+        "zh": "我们先提出了一个不过分的判断：有些事情变了。"
+      }
+    },
+    {
+      "term": "corner",
+      "meaning": {
+        "en": "To put someone in a position that is hard to escape.",
+        "zh": "把某人逼入难以脱身的境地。"
+      },
+      "use": {
+        "en": "Ask directly, but do not corner the other person.",
+        "zh": "可以直接询问，但不要把对方逼入死角。"
+      }
+    },
+    {
+      "term": "provisional",
+      "meaning": {
+        "en": "Accepted for now but open to change.",
+        "zh": "暂时的；可根据新信息修改的。"
+      },
+      "use": {
+        "en": "Our explanation should remain provisional.",
+        "zh": "我们的解释应当暂时保留修改的可能。"
+      }
+    },
+    {
+      "term": "reduce",
+      "meaning": {
+        "en": "To treat something complex as if it were simple.",
+        "zh": "把复杂事物简化为单一层面。"
+      },
+      "use": {
+        "en": "Do not reduce a person to one mistake.",
+        "zh": "不要用一次错误来定义一个人。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use clean contrastive stress in what we observed and what we merely supplied.",
+      "zh": "在 what we observed 和 what we merely supplied 中使用清晰的对比重音。"
+    },
+    {
+      "en": "Keep the final consonants audible in passed, turned, asked, and cost.",
+      "zh": "清楚读出 passed、turned、asked 和 cost 的词尾辅音。"
+    },
+    {
+      "en": "Let there may be more here fall gently, with a small pause before more.",
+      "zh": "读 there may be more here 时语调轻轻下降，并在 more 前稍作停顿。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are calming a tense room without denying what happened.",
+      "zh": "跟读时，想象你在不否认事实的前提下，让一个紧张的房间平静下来。"
+    },
+    "steps": [
+      {
+        "en": "Copy the short pauses after each observed fact.",
+        "zh": "模仿每个已观察事实之后的短暂停顿。"
+      },
+      {
+        "en": "Make fact, possibility, and judgment sound distinct.",
+        "zh": "让事实、可能性与判断听起来层次分明。"
+      },
+      {
+        "en": "Keep the ending generous, grounded, and unsentimental.",
+        "zh": "结尾保持宽厚、踏实，不要煽情。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "When did a second possible story change your response to someone?",
+      "zh": "什么时候，另一种可能的故事改变了你对某人的回应？"
+    },
+    {
+      "en": "How can you name a boundary without pretending to know another person’s motive?",
+      "zh": "你如何在不武断猜测他人动机的情况下，清楚表达界限？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-room-for-another-story/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-room-for-another-story/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-room-for-another-story/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-room-for-another-story/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-room-for-another-story/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-room-for-another-story/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-room-for-another-story/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-room-for-another-story/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-room-for-another-story/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-room-for-another-story/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-room-for-another-story/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-room-for-another-story/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-room-for-another-story/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-room-for-another-story/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-room-for-another-story/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-room-for-another-story/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-room-for-another-story/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-room-for-another-story/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-room-for-another-story/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-room-for-another-story/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-room-for-another-story/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-room-for-another-story/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-room-for-another-story/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-room-for-another-story/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-room-for-another-story/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-room-for-another-story/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-room-for-another-story/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-room-for-another-story/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-room-for-another-story/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-room-for-another-story/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-room-for-another-story/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-room-for-another-story/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "read-the-river-at-walking-speed",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Read the River at Walking Speed",
+    "zh": "用步行的速度读一条河"
+  },
+  "subtitle": {
+    "en": "An original reflection on rivers, patient attention, and learning to notice change without rushing it.",
+    "zh": "一篇原创美文：关于河流、耐心的关注，以及如何不匆忙地察觉变化。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Nature",
+    "Attention",
+    "Walking",
+    "Change",
+    "Calm"
+  ],
+  "sources": [
+    {
+      "title": "Walden; or, Life in the Woods",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for deliberate walking and close observation of seasonal nature; this lesson is entirely original.",
+        "zh": "灵感来自这部公开领域作品中从容行走与细察季节自然的精神；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read at an unhurried walking pace. Give the physical images room, and let the river’s movement shape the rhythm.",
+    "zh": "以从容的步行速度朗读。给具体画面留出空间，让河流的运动塑造句子的节奏。"
+  },
+  "passage": {
+    "title": {
+      "en": "What Moving Water Teaches the Eye",
+      "zh": "流水教会眼睛的事"
+    },
+    "intro": {
+      "en": "This original passage follows a familiar river slowly enough for subtle changes to become visible.",
+      "zh": "这篇原创文章沿着一条熟悉的河缓慢前行，慢到足以看见细微变化。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Too Fast for the Bank",
+          "zh": "1. 快得看不见河岸"
+        },
+        "text": "From a bridge, a river becomes a single silver sentence. From a car, it is a flash between buildings. But walk beside it and the sentence opens. Water gathers behind a root, darkens under willow shade, and wrinkles where a stone troubles the surface. The river has not suddenly become more detailed. We have changed the speed at which we are willing to receive it. Attention is sometimes less like staring and more like matching our pace to the life in front of us.",
+        "coaching": {
+          "en": "Open with smooth forward motion, then slow through the root, shade, and stone.",
+          "zh": "开头保持顺畅向前，读到树根、柳荫和石头时逐渐放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The Same Bend, Not the Same Water",
+          "zh": "2. 同一个弯道，不同的水"
+        },
+        "text": "Return next week and the bend will recognize no photograph. Rain may have lifted a necklace of leaves along the bank. Sun may have exposed pale stones that yesterday worked underwater. A heron may stand where children had shouted. Familiarity does not cancel change; it gives change a background. Because we know the curve of the path, we notice the new branch lodged against the pier. Because we remember the loud current, we hear how quietly the river is traveling today.",
+        "coaching": {
+          "en": "Balance the repeated may phrases. Make familiarity does not cancel change clear and reflective.",
+          "zh": "平衡几个重复的 may。读 familiarity does not cancel change 时要清晰而有思考感。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Learn the Signs, Loosen the Claim",
+          "zh": "3. 读懂迹象，放松断言"
+        },
+        "text": "Careful looking creates knowledge, but the river warns against possession. We learn that foam circles in an eddy and that mud keeps the night’s footprints. Still, one storm rearranges the evidence. The skill is to name what we see without pretending it must remain. The bank is eroding here. The minnows are sheltering there. The water is cloudier after rain. Such sentences are precise and temporary. They hold the world gently: close enough to understand, lightly enough to be corrected.",
+        "coaching": {
+          "en": "Keep the observation sentences clean and exact. Warm the final line without becoming dreamy.",
+          "zh": "几个观察句要读得干净准确。末句稍微温暖，但不要读得梦幻。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry the River Home",
+          "zh": "4. 把河流带回家"
+        },
+        "text": "After an hour, the path turns toward streets and schedules. Yet the river’s lesson can travel. In a meeting, notice the current beneath the loudest voice. In a difficult week, look for the small evidence of a changing season. When someone you love seems familiar, remember that familiar does not mean finished. Walking speed is not always possible, but it remains available as an inner choice: the decision to receive before concluding, to look again before naming the whole. We leave the water, carrying a quieter pair of eyes.",
+        "coaching": {
+          "en": "Broaden the lesson gently. Let the final phrase become softer and more spacious.",
+          "zh": "温和地拓宽主题。最后一句要更轻、更有空间感。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "gather",
+      "meaning": {
+        "en": "To collect or form in one place.",
+        "zh": "聚集；汇到一处。"
+      },
+      "use": {
+        "en": "Rainwater gathered beside the old wall.",
+        "zh": "雨水聚集在旧墙旁。"
+      }
+    },
+    {
+      "term": "wrinkle",
+      "meaning": {
+        "en": "To form small lines or folds on a surface.",
+        "zh": "在表面形成细小的褶皱或波纹。"
+      },
+      "use": {
+        "en": "A breeze wrinkled the surface of the lake.",
+        "zh": "微风吹皱了湖面。"
+      }
+    },
+    {
+      "term": "lodge",
+      "meaning": {
+        "en": "To become stuck or fixed in a place.",
+        "zh": "卡住；嵌在某处。"
+      },
+      "use": {
+        "en": "A branch lodged against the bridge.",
+        "zh": "一根树枝卡在桥边。"
+      }
+    },
+    {
+      "term": "eddy",
+      "meaning": {
+        "en": "A circular movement of water or air.",
+        "zh": "水或空气的回旋；涡流。"
+      },
+      "use": {
+        "en": "Leaves turned slowly in the eddy.",
+        "zh": "叶子在涡流中缓缓旋转。"
+      }
+    },
+    {
+      "term": "erode",
+      "meaning": {
+        "en": "To gradually wear away.",
+        "zh": "逐渐侵蚀、磨损。"
+      },
+      "use": {
+        "en": "Winter storms eroded the soft bank.",
+        "zh": "冬季风暴侵蚀了松软的河岸。"
+      }
+    },
+    {
+      "term": "rearrange",
+      "meaning": {
+        "en": "To change the position or order of things.",
+        "zh": "重新排列；改变布局。"
+      },
+      "use": {
+        "en": "One conversation rearranged my priorities.",
+        "zh": "一次谈话重新调整了我的优先顺序。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link consonants into vowels in walk beside it, gathers behind, and look again.",
+      "zh": "在 walk beside it、gathers behind 和 look again 中自然连读。"
+    },
+    {
+      "en": "Keep the two syllables distinct in river, willow, and quiet.",
+      "zh": "读 river、willow 和 quiet 时清楚区分音节。"
+    },
+    {
+      "en": "Use gentle contrastive stress in the same bend, not the same water.",
+      "zh": "在 the same bend, not the same water 中使用轻柔的对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding one companion along a path you know well.",
+      "zh": "跟读时，想象你正带着一位同伴走在熟悉的小路上。"
+    },
+    "steps": [
+      {
+        "en": "Match your pauses to the concrete river images.",
+        "zh": "让停顿与具体的河流画面相配。"
+      },
+      {
+        "en": "Keep the observation sentences precise and temporary.",
+        "zh": "把观察句读得准确，同时保留暂时性。"
+      },
+      {
+        "en": "Carry the calm rhythm into the final human examples.",
+        "zh": "把平静的节奏延续到最后的人生例子中。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar place changes when you move through it more slowly?",
+      "zh": "哪个熟悉的地方，会在你放慢脚步时显出变化？"
+    },
+    {
+      "en": "Where in your life would a precise but temporary sentence be useful?",
+      "zh": "在生活的哪个方面，一个准确但暂时的判断会更有帮助？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/read-the-river-at-walking-speed/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/read-the-river-at-walking-speed/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/read-the-river-at-walking-speed/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/read-the-river-at-walking-speed/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/read-the-river-at-walking-speed/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/read-the-river-at-walking-speed/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/read-the-river-at-walking-speed/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/read-the-river-at-walking-speed/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/read-the-river-at-walking-speed/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/read-the-river-at-walking-speed/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/read-the-river-at-walking-speed/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/read-the-river-at-walking-speed/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/read-the-river-at-walking-speed/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/read-the-river-at-walking-speed/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/read-the-river-at-walking-speed/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/read-the-river-at-walking-speed/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/read-the-river-at-walking-speed/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/read-the-river-at-walking-speed/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/read-the-river-at-walking-speed/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/read-the-river-at-walking-speed/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/read-the-river-at-walking-speed/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/read-the-river-at-walking-speed/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/read-the-river-at-walking-speed/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/read-the-river-at-walking-speed/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/read-the-river-at-walking-speed/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/read-the-river-at-walking-speed/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/read-the-river-at-walking-speed/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/read-the-river-at-walking-speed/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/read-the-river-at-walking-speed/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/read-the-river-at-walking-speed/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/read-the-river-at-walking-speed/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/read-the-river-at-walking-speed/clips/sources_0.mp3"
+    }
+  }
+}

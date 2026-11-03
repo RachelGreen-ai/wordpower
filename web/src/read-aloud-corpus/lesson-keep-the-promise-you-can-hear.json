@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-the-promise-you-can-hear",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep the Promise You Can Hear",
+    "zh": "守住你听得见的承诺"
+  },
+  "subtitle": {
+    "en": "An original reflection on self-trust, quiet commitments, and becoming credible to yourself.",
+    "zh": "一篇原创美文：关于自我信任、安静的承诺，以及如何让自己相信自己。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Self-trust",
+    "Practice",
+    "Integrity",
+    "Courage",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration for daily integrity and attention to one’s own conduct; this lesson is entirely original.",
+        "zh": "灵感来自这部公开领域作品中对日常操守与自我行为的关注；本课全文原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded confidence. Avoid a heroic tone; this lesson grows through small, credible actions.",
+    "zh": "以踏实的自信朗读。不要用英雄式语调；本课的力量来自微小而可信的行动。"
+  },
+  "passage": {
+    "title": {
+      "en": "Evidence Given to Yourself",
+      "zh": "你交给自己的证据"
+    },
+    "intro": {
+      "en": "This original passage treats self-trust not as a feeling to summon, but as evidence built through ordinary kept promises.",
+      "zh": "这篇原创文章把自我信任视为一种证据：它不是召唤出来的感觉，而是由日常兑现的承诺积累而成。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Private Witness",
+          "zh": "1. 内心的见证者"
+        },
+        "text": "Some promises are announced across a table. Others are made so quietly that only one person hears them. I will begin before I feel ready. I will tell the truth about the delay. I will take a walk before the worry hardens. No applause follows these sentences, and no one may notice if they are abandoned. But a private witness is present. Each time we keep or break a small promise, we teach ourselves whether our own words can be used as a place to stand.",
+        "coaching": {
+          "en": "Give the three promises distinct, natural intentions. Land firmly on a place to stand.",
+          "zh": "三个承诺要读出各自自然的意图。结尾 a place to stand 要坚定落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make It Small Enough to Keep",
+          "zh": "2. 小到足以兑现"
+        },
+        "text": "We often damage trust with grandeur. We promise an entirely new life by Monday, then meet the ordinary resistance of Tuesday. A credible promise is smaller and more exact: ten pages, one honest email, fifteen minutes at the desk. Small does not mean timid. It means the action has edges. You can tell when it has begun and when it is complete. Ambition points toward a mountain; a kept promise places one boot on the path. Both matter, but only one can be done this morning.",
+        "coaching": {
+          "en": "Touch grandeur lightly, then become concrete and energetic through the examples.",
+          "zh": "grandeur 处语气轻一些，随后在具体例子中变得清晰而有活力。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Repair Without Drama",
+          "zh": "3. 不带戏剧感地修复"
+        },
+        "text": "Of course, we will fail ourselves. The alarm will ring; the page will remain blank; fear will borrow our voice. Self-trust does not require a perfect record. It requires an honest repair. Name the break without inventing a character verdict. Change the promise if it was poorly designed. Then return soon, before shame turns one missed action into an identity. “I did not do it” is useful information. “I am incapable” is a locked door disguised as a conclusion.",
+        "coaching": {
+          "en": "Keep the middle compassionate but unsentimental. Sharpen the contrast in the final two sentences.",
+          "zh": "中段要有同理心但不煽情。最后两句的对比要读得鲜明。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. A Voice With Weight",
+          "zh": "4. 有分量的声音"
+        },
+        "text": "Over time, the private witness gathers evidence. You begin the difficult call because you have begun before. You speak clearly because you have survived the sound of your own honesty. Confidence may still tremble; courage often does. Yet your inner voice has acquired weight. It is no longer selling you a bright future. It is recalling a history: the pages opened, the apologies made, the mornings returned to. Self-trust is not the claim that you will never leave the path. It is the knowledge that you know how to come back.",
+        "coaching": {
+          "en": "Build quiet momentum through the remembered actions. Let the last sentence sound earned.",
+          "zh": "通过一连串被记住的行动营造安静的推进感。末句要读出经过实践后才获得的笃定。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "credible",
+      "meaning": {
+        "en": "Able to be believed or trusted.",
+        "zh": "可信的；值得信赖的。"
+      },
+      "use": {
+        "en": "Choose a goal that is demanding but credible.",
+        "zh": "选择一个有挑战但可信的目标。"
+      }
+    },
+    {
+      "term": "grandeur",
+      "meaning": {
+        "en": "An impressive or overly magnificent quality.",
+        "zh": "宏大；过于壮丽的气势。"
+      },
+      "use": {
+        "en": "The plan had grandeur but no clear first step.",
+        "zh": "这个计划气势宏大，却没有清楚的第一步。"
+      }
+    },
+    {
+      "term": "exact",
+      "meaning": {
+        "en": "Clearly defined and accurate.",
+        "zh": "明确而精确的。"
+      },
+      "use": {
+        "en": "Make the next action exact.",
+        "zh": "把下一步行动说得明确具体。"
+      }
+    },
+    {
+      "term": "repair",
+      "meaning": {
+        "en": "An action that restores trust or good condition.",
+        "zh": "修复；恢复信任或良好状态的行动。"
+      },
+      "use": {
+        "en": "A sincere apology can begin a repair.",
+        "zh": "真诚的道歉可以开启修复。"
+      }
+    },
+    {
+      "term": "incapable",
+      "meaning": {
+        "en": "Unable to do something.",
+        "zh": "没有能力做某事的。"
+      },
+      "use": {
+        "en": "One failure does not mean you are incapable.",
+        "zh": "一次失败并不意味着你没有能力。"
+      }
+    },
+    {
+      "term": "acquire",
+      "meaning": {
+        "en": "To gradually gain or obtain something.",
+        "zh": "逐渐获得。"
+      },
+      "use": {
+        "en": "Her calm voice acquired authority through practice.",
+        "zh": "她平静的声音在练习中逐渐获得了力量。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the words naturally in begin before, take a walk, and place to stand.",
+      "zh": "在 begin before、take a walk 和 place to stand 中自然连读。"
+    },
+    {
+      "en": "Use contrastive stress in I did not do it and I am incapable.",
+      "zh": "在 I did not do it 和 I am incapable 中使用对比重音。"
+    },
+    {
+      "en": "Keep the consonant clusters clear in trust, promised, and first step.",
+      "zh": "清楚读出 trust、promised 和 first step 中的辅音组合。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking privately to someone who needs honesty more than hype.",
+      "zh": "跟读时，想象你在私下对一个更需要诚实而非鼓动的人说话。"
+    },
+    "steps": [
+      {
+        "en": "Keep the promises simple and conversational.",
+        "zh": "把几个承诺读得简单、自然。"
+      },
+      {
+        "en": "Give the short repair instructions calm authority.",
+        "zh": "几个修复指令要读出平静的权威感。"
+      },
+      {
+        "en": "Let the final paragraph gain weight without gaining volume.",
+        "zh": "最后一段要增加分量，但不要增加音量。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What small promise would make you more credible to yourself this week?",
+      "zh": "本周哪一个小承诺能让你更加相信自己？"
+    },
+    {
+      "en": "How could you repair one broken promise without turning it into a verdict about yourself?",
+      "zh": "你如何修复一个未兑现的承诺，而不把它变成对自己的定论？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-the-promise-you-can-hear/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-the-promise-you-can-hear/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-the-promise-you-can-hear/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-the-promise-you-can-hear/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-the-promise-you-can-hear/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-the-promise-you-can-hear/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-the-promise-you-can-hear/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-the-promise-you-can-hear/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-the-promise-you-can-hear/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-the-promise-you-can-hear/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-the-promise-you-can-hear/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-the-promise-you-can-hear/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-the-promise-you-can-hear/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-the-promise-you-can-hear/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-the-promise-you-can-hear/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-the-promise-you-can-hear/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-the-promise-you-can-hear/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-the-promise-you-can-hear/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-the-promise-you-can-hear/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-the-promise-you-can-hear/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-the-promise-you-can-hear/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-the-promise-you-can-hear/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-the-promise-you-can-hear/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-the-promise-you-can-hear/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-the-promise-you-can-hear/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-the-promise-you-can-hear/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-the-promise-you-can-hear/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-the-promise-you-can-hear/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-the-promise-you-can-hear/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-the-promise-you-can-hear/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-the-promise-you-can-hear/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-the-promise-you-can-hear/clips/sources_0.mp3"
+    }
+  }
+}
