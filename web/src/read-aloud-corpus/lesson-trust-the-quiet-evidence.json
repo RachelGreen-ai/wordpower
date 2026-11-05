@@ -1,0 +1,244 @@
+{
+  "lessonId": "trust-the-quiet-evidence",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Trust the Quiet Evidence",
+    "zh": "相信安静的证据"
+  },
+  "subtitle": {
+    "en": "An original reflection on self-trust, patient practice, and the evidence hidden in ordinary days.",
+    "zh": "一篇原创美文：关于自我信任、耐心练习，以及藏在平常日子里的证据。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Self-trust",
+    "Practice",
+    "Growth",
+    "Patience",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "Self-Reliance",
+      "author": "Ralph Waldo Emerson",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/16643",
+      "note": {
+        "en": "Public-domain inspiration for independent judgment; this lesson is wholly original and avoids source wording.",
+        "zh": "灵感来自这部公开领域作品对独立判断的思考；本课全文原创，不使用原文措辞。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded confidence. Avoid grand declarations; let conviction grow from concrete details.",
+    "zh": "用脚踏实地的自信朗读。避免宏大宣言，让信念从具体细节中生长。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Record You Forget to Read",
+      "zh": "那份你忘了阅读的记录"
+    },
+    "intro": {
+      "en": "This original passage invites us to build self-trust from repeated action rather than passing mood.",
+      "zh": "这篇原创文章邀请我们从反复的行动，而非一时的情绪中建立自我信任。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Confidence Is a Noisy Witness",
+          "zh": "1. 信心是个喧闹的证人"
+        },
+        "text": "Some mornings, confidence arrives before breakfast. The work seems possible; the voice sounds clear; even uncertainty has an edge of adventure. On other mornings, the same task looks beyond us. Nothing essential has changed, but feeling gives opposite testimony. Confidence is vivid, useful, and unreliable. It tells us how the weather feels inside, not what we are capable of doing. If we ask mood to certify our ability each day, we place our future in the hands of a witness who changes the story before lunch.",
+        "coaching": {
+          "en": "Keep the opening light, then turn thoughtful. Contrast weather feels inside with capable of doing.",
+          "zh": "开头读得轻快，随后转入思考。对比 weather feels inside 与 capable of doing。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Read the Smaller Record",
+          "zh": "2. 阅读那份更小的记录"
+        },
+        "text": "There is another record, quieter and less dramatic. You returned to the page after a poor first draft. You asked for help before the problem became a crisis. You practiced the difficult phrase until your mouth found its shape. None of these moments felt heroic. Together, they are evidence. Self-trust grows when we remember what we have repeatedly done under imperfect conditions. Keep a modest ledger: promises kept, repairs attempted, skills practiced, truths spoken with care. The entries need not impress anyone. They only need to be accurate.",
+        "coaching": {
+          "en": "Give each example its own clean beat. Warm the word evidence and finish with plain certainty.",
+          "zh": "每个例子都要有清晰节拍。读暖 evidence，结尾用朴素的确定感。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Borrow from Your Past Self",
+          "zh": "3. 向过去的自己借一点力量"
+        },
+        "text": "When a new difficulty appears, the mind often says, I have never done this. Usually that is true only in the narrowest sense. Perhaps you have never led this meeting, but you have prepared carefully for another. You have never made this apology, but you have stayed present through discomfort. Experience rarely repeats its costume. Its deeper patterns return: patience, honesty, recovery, the willingness to begin without mastery. Look beneath the unfamiliar surface. Your past self may have left tools there, wrapped in experiences with different names.",
+        "coaching": {
+          "en": "Let the examples reassure without sounding sentimental. Stress deeper patterns and list them evenly.",
+          "zh": "例子要有安慰感，但不要煽情。重读 deeper patterns，并均匀读出后面的列举。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Make Tomorrow One More Entry",
+          "zh": "4. 为明天再添一条记录"
+        },
+        "text": "Self-trust is not a verdict delivered once. It is a relationship renewed through action. Choose a promise small enough to keep on an ordinary day: ten careful minutes, one honest email, one walk without the phone. Then keep it without applause. A single act proves little, but repeated acts teach the nervous system that your intentions have weight. Eventually, when doubt speaks loudly, you do not have to silence it. You can place beside it a body of quiet evidence and say: I may not know the outcome, but I know how I will meet the next step.",
+        "coaching": {
+          "en": "Build gentle momentum through the small promises. End with mature confidence, not triumph.",
+          "zh": "通过几个小承诺建立温和的推进感。结尾要成熟自信，不要像胜利宣言。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "testimony",
+      "meaning": {
+        "en": "A statement offered as evidence of what is true.",
+        "zh": "证词；作为事实证据而给出的陈述。"
+      },
+      "use": {
+        "en": "Her steady work gave stronger testimony than her doubts.",
+        "zh": "她稳定的行动比她的怀疑提供了更有力的证明。"
+      }
+    },
+    {
+      "term": "certify",
+      "meaning": {
+        "en": "To confirm formally that something is true or meets a standard.",
+        "zh": "证明；正式确认某事属实或符合标准。"
+      },
+      "use": {
+        "en": "A bad morning does not certify a bad future.",
+        "zh": "一个糟糕的早晨并不能证明未来也糟糕。"
+      }
+    },
+    {
+      "term": "ledger",
+      "meaning": {
+        "en": "A record in which entries are written and organized.",
+        "zh": "分类记录条目的账本。"
+      },
+      "use": {
+        "en": "She kept a small ledger of promises she had kept.",
+        "zh": "她用一本小账本记录自己兑现的承诺。"
+      }
+    },
+    {
+      "term": "imperfect",
+      "meaning": {
+        "en": "Not complete or without faults, but still valuable or usable.",
+        "zh": "不完美的；虽有缺点但仍有价值或可用。"
+      },
+      "use": {
+        "en": "We learned to act under imperfect conditions.",
+        "zh": "我们学会了在不完美的条件下行动。"
+      }
+    },
+    {
+      "term": "mastery",
+      "meaning": {
+        "en": "A very high level of skill or control.",
+        "zh": "精通；很高水平的技能或掌控力。"
+      },
+      "use": {
+        "en": "Beginning does not require mastery.",
+        "zh": "开始并不要求精通。"
+      }
+    },
+    {
+      "term": "renew",
+      "meaning": {
+        "en": "To make active, strong, or valid again.",
+        "zh": "更新；使某事再次生效或变得有力。"
+      },
+      "use": {
+        "en": "Daily practice renewed her trust in her voice.",
+        "zh": "每日练习重新增强了她对自己声音的信任。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link naturally in what we are capable of doing and under imperfect conditions.",
+      "zh": "在 what we are capable of doing 和 under imperfect conditions 中自然连读。"
+    },
+    {
+      "en": "Keep the vowel contrast clear in quiet and quite.",
+      "zh": "清楚区分 quiet 与 quite 的元音。"
+    },
+    {
+      "en": "Use a steady three-part rhythm in promises kept, repairs attempted, skills practiced.",
+      "zh": "在 promises kept、repairs attempted、skills practiced 中使用稳定的三段节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a trusted friend presenting evidence with warmth and precision.",
+      "zh": "跟读时，像一位值得信赖的朋友，温暖而准确地摆出证据。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the concrete examples crisp and visible.",
+        "zh": "第一遍：让具体例子清晰可见。"
+      },
+      {
+        "en": "Pass two: give the repeated lists a calm, even rhythm.",
+        "zh": "第二遍：让反复出现的列举保持平静均匀的节奏。"
+      },
+      {
+        "en": "Pass three: let conviction grow gradually toward the final line.",
+        "zh": "第三遍：让信念逐步增长，抵达最后一句。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What quiet evidence from the past month deserves to be remembered?",
+      "zh": "过去一个月里，哪些安静的证据值得你记住？"
+    },
+    {
+      "en": "What small promise could become tomorrow's entry?",
+      "zh": "哪一个小承诺可以成为你明天的新记录？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/trust-the-quiet-evidence/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/trust-the-quiet-evidence/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/trust-the-quiet-evidence/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/trust-the-quiet-evidence/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/trust-the-quiet-evidence/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/trust-the-quiet-evidence/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/trust-the-quiet-evidence/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/trust-the-quiet-evidence/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/trust-the-quiet-evidence/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/trust-the-quiet-evidence/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/trust-the-quiet-evidence/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/trust-the-quiet-evidence/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/trust-the-quiet-evidence/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/trust-the-quiet-evidence/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/trust-the-quiet-evidence/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/trust-the-quiet-evidence/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/trust-the-quiet-evidence/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/trust-the-quiet-evidence/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/trust-the-quiet-evidence/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/trust-the-quiet-evidence/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/trust-the-quiet-evidence/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/trust-the-quiet-evidence/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/trust-the-quiet-evidence/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/trust-the-quiet-evidence/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/trust-the-quiet-evidence/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/trust-the-quiet-evidence/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/trust-the-quiet-evidence/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/trust-the-quiet-evidence/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/trust-the-quiet-evidence/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/trust-the-quiet-evidence/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/trust-the-quiet-evidence/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/trust-the-quiet-evidence/clips/sources_0.mp3"
+    }
+  }
+}

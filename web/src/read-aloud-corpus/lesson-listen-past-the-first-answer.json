@@ -1,0 +1,244 @@
+{
+  "lessonId": "listen-past-the-first-answer",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Listen Past the First Answer",
+    "zh": "听到第一个回答之后"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, patient questions, and the stories people reveal slowly.",
+    "zh": "一篇原创美文：关于道德想象力、耐心提问，以及人们慢慢讲出的故事。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Listening",
+    "Empathy",
+    "Conversation",
+    "Moral imagination",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/145",
+      "note": {
+        "en": "Public-domain inspiration for attending to the complexity of other lives; this lesson is wholly original and uses no source wording.",
+        "zh": "灵感来自这部公开领域作品对他人生活复杂性的关注；本课全文原创，不使用原文措辞。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert warmth. Let each question sound like an invitation, not an examination.",
+    "zh": "用敏锐而温暖的声音朗读。让每个问题听起来像邀请，而不是审问。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Story Beneath the Summary",
+      "zh": "概括之下的故事"
+    },
+    "intro": {
+      "en": "This original passage explores how a second, gentler question can restore depth to an ordinary conversation.",
+      "zh": "这篇原创文章探讨第二个、更温和的问题，如何让一次普通对话重新有了深度。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Convenient Version",
+          "zh": "1. 方便的版本"
+        },
+        "text": "At lunch, a colleague says the move went fine. A friend says the interview was strange. Your father says the doctor was not worried. These answers are useful, but they are often only the labels on larger parcels. Fine may contain three sleepless nights and one bright new window. Strange may hide disappointment, relief, or a question about belonging. Not worried may be the phrase someone chose because the fuller truth felt too heavy for a noisy room. Conversation becomes humane when we remember that a summary is not always the whole story. It may simply be the safest first door.",
+        "coaching": {
+          "en": "Keep the opening examples conversational. Give fine, strange, and not worried curious space rather than dramatic weight.",
+          "zh": "开头的例子要像自然交谈。给 fine、strange 和 not worried 留出好奇的空间，不要读得过于戏剧化。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Ask Without Taking",
+          "zh": "2. 提问，但不索取"
+        },
+        "text": "A second question can open that door, but only if it leaves the other person free. What part of the move has surprised you? What made the interview feel strange? Do you want to tell me what the doctor said? Notice the final question: it offers attention without claiming a right to the answer. Curiosity becomes care when it respects a boundary. We do not need to extract a confession or prove that we understand. We need to make a little room in which a more exact sentence could arrive. Sometimes it arrives at once. Sometimes the person changes the subject. Both responses deserve respect.",
+        "coaching": {
+          "en": "Use a gentle rise on the questions. Stress free, boundary, and both responses to make the ethics of listening clear.",
+          "zh": "几个问题使用轻柔的升调。重读 free、boundary 和 both responses，清楚表达倾听的分寸。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Detail Change the Picture",
+          "zh": "3. 让细节改变画面"
+        },
+        "text": "When people continue, the detail that matters is rarely the one we predicted. The difficult move was not the distance but the silence of the first evening. The interview felt strange because kindness appeared where judgment had been expected. The appointment was ordinary, yet it reminded a parent that the body has a future the family cannot manage for him. Such details disturb our tidy explanations. That is their gift. Moral imagination begins when another person's reality is allowed to revise the picture in our head. Listening is not waiting politely for evidence that we were right. It is permitting the scene to become more complicated and more true.",
+        "coaching": {
+          "en": "Let each revealed detail alter the emotional color. Slow down through more complicated and more true.",
+          "zh": "让每个被揭示的细节改变情绪色彩。读到 more complicated and more true 时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry the Answer Carefully",
+          "zh": "4. 小心承接答案"
+        },
+        "text": "The finest response may be smaller than advice. That sounds lonely. I can see why that kindness stayed with you. Thank you for telling me. A careful listener does not rush to improve the story, compare it with another story, or turn it into a lesson. First, we receive what was entrusted to us. Later, a practical question may help: would company, a plan, or simply another cup of tea be useful? The point is not perfect empathy. No voice can fully enter another life. The point is to become less careless with what we cannot know, and more faithful to what someone has chosen to share.",
+        "coaching": {
+          "en": "Keep the sample responses plain and sincere. Finish with humility, placing balanced stress on cannot know and chosen to share.",
+          "zh": "示范回应要朴素真诚。结尾保持谦逊，均衡重读 cannot know 与 chosen to share。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "humane",
+      "meaning": {
+        "en": "Showing compassion and respect for people's dignity.",
+        "zh": "有人情味的；表现出同情并尊重人的尊严。"
+      },
+      "use": {
+        "en": "A humane conversation leaves room for hesitation.",
+        "zh": "有人情味的对话会给犹豫留出空间。"
+      }
+    },
+    {
+      "term": "extract",
+      "meaning": {
+        "en": "To remove or obtain something, sometimes with effort or pressure.",
+        "zh": "提取；有时通过努力或压力获取某物。"
+      },
+      "use": {
+        "en": "Do not try to extract an answer the person is not ready to give.",
+        "zh": "不要试图逼出对方尚未准备好给出的答案。"
+      }
+    },
+    {
+      "term": "entrust",
+      "meaning": {
+        "en": "To give someone responsibility for something valuable or private.",
+        "zh": "托付；把珍贵或私密的事物交由某人负责。"
+      },
+      "use": {
+        "en": "She entrusted him with a difficult memory.",
+        "zh": "她把一段艰难的回忆托付给了他。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To change an idea or plan in light of new information.",
+        "zh": "修正；根据新信息改变想法或计划。"
+      },
+      "use": {
+        "en": "The new detail made me revise my first impression.",
+        "zh": "这个新细节让我修正了第一印象。"
+      }
+    },
+    {
+      "term": "tidy explanation",
+      "meaning": {
+        "en": "An account that is simple and orderly, perhaps too simple for reality.",
+        "zh": "整齐的解释；简单有序，却可能把现实过度简化。"
+      },
+      "use": {
+        "en": "Her experience did not fit my tidy explanation.",
+        "zh": "她的经历并不符合我那套过于整齐的解释。"
+      }
+    },
+    {
+      "term": "faithful",
+      "meaning": {
+        "en": "True, accurate, and dependable in representing or supporting something.",
+        "zh": "忠实的；在表达或支持某事时真实、准确而可靠。"
+      },
+      "use": {
+        "en": "His summary was faithful to what she had actually said.",
+        "zh": "他的概括忠实于她实际说过的话。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters clear in first door, respects a boundary, and chosen to share.",
+      "zh": "清楚读出 first door、respects a boundary 和 chosen to share 中的辅音组合。"
+    },
+    {
+      "en": "Use a light, open rise for Do you want to tell me, so permission remains audible.",
+      "zh": "Do you want to tell me 使用轻柔开放的升调，让许可感清晰可听。"
+    },
+    {
+      "en": "Contrast waiting politely with permitting the scene through stress and pace.",
+      "zh": "通过重音和语速，对比 waiting politely 与 permitting the scene。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a listener whose warmth is matched by respect for another person's freedom.",
+      "zh": "跟读时，像一位既温暖，又尊重他人自由的倾听者。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every question inviting rather than demanding.",
+        "zh": "第一遍：让每个问题都像邀请，而不是要求。"
+      },
+      {
+        "en": "Pass two: allow the revealed details to change your tone.",
+        "zh": "第二遍：让被揭示的细节改变你的语气。"
+      },
+      {
+        "en": "Pass three: finish with restraint, humility, and steady warmth.",
+        "zh": "第三遍：以克制、谦逊和稳定的温度收尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which second question helps a person speak without feeling pressed?",
+      "zh": "哪一种追问能帮助一个人开口，却不让他感到被逼迫？"
+    },
+    {
+      "en": "When did one detail recently revise your picture of someone?",
+      "zh": "最近，哪一个细节修正了你对某个人的看法？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/listen-past-the-first-answer/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/listen-past-the-first-answer/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/listen-past-the-first-answer/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/listen-past-the-first-answer/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/listen-past-the-first-answer/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/listen-past-the-first-answer/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/listen-past-the-first-answer/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/listen-past-the-first-answer/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/listen-past-the-first-answer/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/listen-past-the-first-answer/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/listen-past-the-first-answer/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/listen-past-the-first-answer/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/listen-past-the-first-answer/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/listen-past-the-first-answer/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/listen-past-the-first-answer/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/listen-past-the-first-answer/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/listen-past-the-first-answer/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/listen-past-the-first-answer/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/listen-past-the-first-answer/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/listen-past-the-first-answer/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/listen-past-the-first-answer/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/listen-past-the-first-answer/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/listen-past-the-first-answer/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/listen-past-the-first-answer/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/listen-past-the-first-answer/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/listen-past-the-first-answer/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/listen-past-the-first-answer/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/listen-past-the-first-answer/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/listen-past-the-first-answer/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/listen-past-the-first-answer/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/listen-past-the-first-answer/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/listen-past-the-first-answer/clips/sources_0.mp3"
+    }
+  }
+}

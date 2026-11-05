@@ -1,0 +1,244 @@
+{
+  "lessonId": "follow-the-small-question",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Follow the Small Question",
+    "zh": "跟随那个小问题"
+  },
+  "subtitle": {
+    "en": "An original reflection on scientific wonder, patient observation, and the courage to take ordinary mysteries seriously.",
+    "zh": "一篇原创美文：关于科学惊奇、耐心观察，以及认真对待日常谜题的勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Wonder",
+    "Observation",
+    "Learning",
+    "Courage"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration from Faraday's practice of using an ordinary candle to open large scientific questions; the passage and wording here are entirely original.",
+        "zh": "灵感来自法拉第以一支普通蜡烛开启重大科学问题的公开领域讲座；本课文字均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert curiosity rather than grand excitement. Let each question open naturally, as though the answer is not yet known.",
+    "zh": "以敏锐的好奇而非夸张的兴奋来朗读。让每个问题自然展开，仿佛答案尚未揭晓。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Door Hidden in an Ordinary Thing",
+      "zh": "藏在普通事物里的门"
+    },
+    "intro": {
+      "en": "This original passage celebrates the small, precise question as the beginning of durable learning.",
+      "zh": "这篇原创文章赞美小而准确的问题，因为它是持久学习的起点。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Wonder Does Not Need a Telescope",
+          "zh": "1. 惊奇不一定需要望远镜"
+        },
+        "text": "We are taught to associate discovery with distant stars, deep oceans, and machines that fill a room. Yet a mystery can sit quietly on a kitchen table. Why does steam vanish above a cup? Why does a metal spoon feel colder than a wooden one? Why does a candle flame lean when a window opens? The objects are common; the questions are not small in consequence. Each asks us to pause before the world we think we know and admit that familiarity is not the same as understanding.",
+        "coaching": {
+          "en": "Begin with measured scale, then brighten the three questions. Stress familiarity and understanding in contrast.",
+          "zh": "开头读出有节制的宏大感，三个问题处提亮声音。对比重读 familiarity 与 understanding。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make the Question Sharper",
+          "zh": "2. 把问题磨得更锋利"
+        },
+        "text": "Curiosity becomes useful when it grows precise. Why is the flame moving? is a beginning. Does it bend toward the open window every time? What changes if the candle stands higher, farther away, or behind a book? A sharp question does not make wonder smaller. It gives wonder a handle. Now observation can do more than decorate an opinion. You can change one condition, watch what follows, and record what refuses to fit. The stubborn detail is not an inconvenience. It may be the place where the real lesson begins.",
+        "coaching": {
+          "en": "Let the questions sound investigative and exact. Slow down for change one condition, watch what follows.",
+          "zh": "问题要读得有探究性且准确。读到 change one condition, watch what follows 时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Protect the Awkward Result",
+          "zh": "3. 保护那个不合预期的结果"
+        },
+        "text": "The mind enjoys being right early. We form a theory, then begin quietly recruiting evidence. But honest inquiry gives special care to the result that does not cooperate. Perhaps the flame bends differently than expected. Perhaps the spoon warms faster in one cup than another. Do not hurry to erase the awkward mark in the notebook. Repeat the test. Check the arrangement. Ask what you assumed without noticing. Error can waste time, but it can also reveal the boundary of an idea. A good learner is not embarrassed by revision; revision is how attention becomes trustworthy.",
+        "coaching": {
+          "en": "Give being right early a knowing touch, not sarcasm. Build firm encouragement through the short commands.",
+          "zh": "being right early 要带一点会心感，但不要讽刺。几个短指令要读出坚定的鼓励。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry the Habit Beyond the Table",
+          "zh": "4. 把这个习惯带到桌外"
+        },
+        "text": "This habit belongs outside science as well. A team misses a deadline. A friendship grows quiet. A plan succeeds in one place and fails in another. Before reaching for a grand explanation, follow the small question. What changed? What did we actually observe? Which detail does our favorite story leave out? Precision can be a form of humility: the willingness to meet reality before asking reality to flatter us. The candle on the table will eventually go dark. The trained curiosity remains, ready to find another ordinary door and ask where it leads.",
+        "coaching": {
+          "en": "Widen the relevance without becoming preachy. Give the final image a quiet sense of onward movement.",
+          "zh": "拓宽主题时不要说教。最后的意象要读出安静向前的感觉。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "in consequence",
+      "meaning": {
+        "en": "In effect or importance.",
+        "zh": "在影响或重要性上。"
+      },
+      "use": {
+        "en": "The change looked minor but was large in consequence.",
+        "zh": "这个变化看似微小，影响却很大。"
+      }
+    },
+    {
+      "term": "precise",
+      "meaning": {
+        "en": "Exact, clear, and carefully defined.",
+        "zh": "准确、清晰且界定严谨的。"
+      },
+      "use": {
+        "en": "A precise question saved us hours of confusion.",
+        "zh": "一个准确的问题让我们少走了几个小时的弯路。"
+      }
+    },
+    {
+      "term": "stubborn",
+      "meaning": {
+        "en": "Refusing to change, disappear, or cooperate.",
+        "zh": "顽固地不改变、不消失或不配合的。"
+      },
+      "use": {
+        "en": "One stubborn fact challenged the whole theory.",
+        "zh": "一个顽固的事实挑战了整个理论。"
+      }
+    },
+    {
+      "term": "recruit",
+      "meaning": {
+        "en": "To seek and gather people or things for a purpose.",
+        "zh": "为某个目的寻找并聚集人或事物。"
+      },
+      "use": {
+        "en": "We sometimes recruit facts to defend an early opinion.",
+        "zh": "我们有时会搜罗事实来维护过早形成的观点。"
+      }
+    },
+    {
+      "term": "revision",
+      "meaning": {
+        "en": "A change made to improve or correct an idea or piece of work.",
+        "zh": "为改进或纠正想法、作品而作出的修改。"
+      },
+      "use": {
+        "en": "The plan improved through several rounds of revision.",
+        "zh": "这个计划经过几轮修改后得到了完善。"
+      }
+    },
+    {
+      "term": "humility",
+      "meaning": {
+        "en": "The quality of recognizing the limits of your knowledge or importance.",
+        "zh": "认识到自身知识或重要性有限的品质；谦逊。"
+      },
+      "use": {
+        "en": "Good research requires patience and humility.",
+        "zh": "好的研究需要耐心与谦逊。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use a light rise on each genuine question, then return to a grounded falling tone.",
+      "zh": "每个真正的问题轻微升调，随后回到稳稳的降调。"
+    },
+    {
+      "en": "Keep the endings distinct in asked, changed, missed, and trained.",
+      "zh": "asked、changed、missed 和 trained 的词尾要清晰。"
+    },
+    {
+      "en": "Use contrastive stress in familiarity is not the same as understanding.",
+      "zh": "在 familiarity is not the same as understanding 中使用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a careful explainer who is still genuinely curious about the result.",
+      "zh": "跟读时，像一位严谨的讲解者，同时仍对结果保持真正的好奇。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every question sound open and specific.",
+        "zh": "第一遍：让每个问题听起来既开放又具体。"
+      },
+      {
+        "en": "Pass two: use the short commands to create calm momentum.",
+        "zh": "第二遍：用短指令营造平静的推进感。"
+      },
+      {
+        "en": "Pass three: connect scientific precision with everyday humility.",
+        "zh": "第三遍：把科学的准确与日常的谦逊连接起来。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What ordinary object near you could support three careful questions?",
+      "zh": "你身边哪件普通物品，可以引出三个仔细的问题？"
+    },
+    {
+      "en": "When has an awkward result improved your understanding?",
+      "zh": "什么时候，一个不合预期的结果反而加深了你的理解？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/follow-the-small-question/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/follow-the-small-question/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/follow-the-small-question/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/follow-the-small-question/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/follow-the-small-question/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/follow-the-small-question/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/follow-the-small-question/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/follow-the-small-question/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/follow-the-small-question/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/follow-the-small-question/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/follow-the-small-question/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/follow-the-small-question/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/follow-the-small-question/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/follow-the-small-question/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/follow-the-small-question/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/follow-the-small-question/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/follow-the-small-question/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/follow-the-small-question/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/follow-the-small-question/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/follow-the-small-question/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/follow-the-small-question/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/follow-the-small-question/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/follow-the-small-question/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/follow-the-small-question/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/follow-the-small-question/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/follow-the-small-question/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/follow-the-small-question/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/follow-the-small-question/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/follow-the-small-question/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/follow-the-small-question/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/follow-the-small-question/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/follow-the-small-question/clips/sources_0.mp3"
+    }
+  }
+}
