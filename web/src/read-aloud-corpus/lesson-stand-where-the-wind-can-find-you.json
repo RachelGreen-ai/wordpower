@@ -1,0 +1,244 @@
+{
+  "lessonId": "stand-where-the-wind-can-find-you",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Stand Where the Wind Can Find You",
+    "zh": "站到风能找到你的地方"
+  },
+  "subtitle": {
+    "en": "An original reflection on visible courage, steady leadership, and making uncertainty easier to face together.",
+    "zh": "一篇原创美文：关于看得见的勇气、沉稳的领导力，以及如何共同面对不确定。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Courage",
+    "Leadership",
+    "Trust",
+    "Uncertainty",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "Rules of Civility and Decent Behaviour in Company and Conversation",
+      "author": "George Washington",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/12029",
+      "note": {
+        "en": "Public-domain inspiration for self-command and conduct in company; this lesson is entirely original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中关于自我约束与群体举止的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with calm authority. Keep the storm imagery vivid, but let the practical sentences sound clear, human, and usable.",
+    "zh": "用沉静而有分量的声音朗读。风暴意象要鲜明，实用句子则要清楚、自然、能落地。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Person Beside the Door",
+      "zh": "站在门边的人"
+    },
+    "intro": {
+      "en": "This original passage explores leadership as the courage to become visible, truthful, and useful when a group cannot yet see the whole road.",
+      "zh": "这篇原创文章探讨一种领导力：当众人还看不清整条路时，敢于站出来，诚实而有用。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Weather in the Room",
+          "zh": "1. 房间里的天气"
+        },
+        "text": "Every group develops its own weather. A delayed decision can feel like low cloud. A rumor moves like cold air under a door. People continue answering messages and arranging chairs, yet their attention has shifted toward what no one is naming. In such moments, leadership is often imagined as certainty: one person should know the forecast, command the wind, and point toward blue sky. But borrowed confidence is thin shelter. People hear the strain inside a promise that cannot be kept. What they need first is not a perfect forecast. They need someone willing to stand where the weather is already happening.",
+        "coaching": {
+          "en": "Give the weather images room. Contrast perfect forecast with willing to stand using firm, unhurried stress.",
+          "zh": "给天气意象留出空间。用坚定而从容的重音，对比 perfect forecast 与 willing to stand。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Name the Honest Horizon",
+          "zh": "2. 说清真实的地平线"
+        },
+        "text": "A steady leader might say, “Here is what we know. Here is what remains uncertain. Here is the next decision, and here is when we will revisit it.” These sentences do not perform fearlessness; they create orientation. A sailor cannot remove the fog, but can call out the depth, the direction, and the sound of the nearest bell. Honest limits give the group something solid to work with. They also return dignity to everyone listening, because adults would rather help carry a difficult truth than be managed by a beautiful fiction. Clarity is not the absence of doubt. It is doubt given edges, sequence, and a place on the table.",
+        "coaching": {
+          "en": "Read the quoted sequence with clean pauses. Land on edges, sequence, and a place on the table with measured rhythm.",
+          "zh": "引用句之间要清楚停顿。结尾的 edges、sequence、a place on the table 要有从容的节奏。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Take the Exposed Step",
+          "zh": "3. 迈出暴露在风中的一步"
+        },
+        "text": "Visibility has a cost. The person who speaks first may be corrected. The person who chooses may later discover a better path. The person beside the door feels the draft before anyone farther inside. Courage is not hiding that exposure; it is accepting it without making a spectacle of sacrifice. Say, “I will make the call, and I will explain the reasons.” Say, “If the facts change, I will change course.” Accountability spoken this way is neither hard nor dramatic. It is a handrail. Others can disagree, contribute, and move because they know where responsibility rests. A leader does not absorb every burden, but makes the weight legible.",
+        "coaching": {
+          "en": "Keep the repeated the person who phrases even and grounded. Make the two quoted promises direct, not heroic.",
+          "zh": "重复的 the person who 要读得平稳扎实。两句承诺要直接，不要英雄化。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Build a Place to Stand",
+          "zh": "4. 搭出可以站稳的地方"
+        },
+        "text": "When the wind rises, people remember less of the speech than the structure it gave them. They remember who named the danger without enlarging it, who invited questions without punishing them, and who returned at the promised hour with an update. Such acts build a small platform in unsettled air. From there, a team can think again. This is the quieter ambition of leadership: not to become the tallest figure in the storm, but to make steadiness available to others. Stand where the wind can find you. Then speak truth in portions people can use, keep one promise at a time, and leave enough room for other brave voices to join yours.",
+        "coaching": {
+          "en": "Build through the three who clauses. Let the final three actions sound invitational and quietly resolute.",
+          "zh": "在三个 who 从句中逐步推进。最后三个行动要读得像邀请，也要安静坚定。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "orientation",
+      "meaning": {
+        "en": "A clear sense of position, direction, or situation.",
+        "zh": "对位置、方向或处境的清晰把握。"
+      },
+      "use": {
+        "en": "A brief update gave the team orientation.",
+        "zh": "一则简短更新让团队重新找到了方向。"
+      }
+    },
+    {
+      "term": "self-command",
+      "meaning": {
+        "en": "The ability to govern your own emotions and actions.",
+        "zh": "自我克制；管理自身情绪与行动的能力。"
+      },
+      "use": {
+        "en": "Her self-command steadied the conversation.",
+        "zh": "她的沉着自持让对话稳定下来。"
+      }
+    },
+    {
+      "term": "exposure",
+      "meaning": {
+        "en": "The state of being open to risk, criticism, or difficult conditions.",
+        "zh": "暴露于风险、批评或艰难处境之中。"
+      },
+      "use": {
+        "en": "Leadership brings a degree of exposure.",
+        "zh": "领导角色会带来一定程度的风险暴露。"
+      }
+    },
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "Responsibility for decisions and their results.",
+        "zh": "对决定及其结果承担责任。"
+      },
+      "use": {
+        "en": "Clear accountability helped everyone move.",
+        "zh": "明确的责任归属帮助大家向前推进。"
+      }
+    },
+    {
+      "term": "legible",
+      "meaning": {
+        "en": "Clear enough to be understood or recognized.",
+        "zh": "清楚可理解的；易于辨认的。"
+      },
+      "use": {
+        "en": "Make the reasons for the change legible.",
+        "zh": "把改变的理由讲得清楚易懂。"
+      }
+    },
+    {
+      "term": "resolute",
+      "meaning": {
+        "en": "Purposeful and firmly decided.",
+        "zh": "坚定果断的。"
+      },
+      "use": {
+        "en": "She sounded calm but resolute.",
+        "zh": "她听起来平静却坚定。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use contrastive stress in what we know and what remains uncertain.",
+      "zh": "在 what we know 和 what remains uncertain 中使用对比重音。"
+    },
+    {
+      "en": "Keep the consonant clusters clear in first, facts, rests, and promised.",
+      "zh": "清楚读出 first、facts、rests 和 promised 中的辅音组合。"
+    },
+    {
+      "en": "Let the three final verbs—speak, keep, and leave—carry the sentence rhythm.",
+      "zh": "让结尾三个动词 speak、keep、leave 承担句子的节奏重心。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are giving a team truthful direction during an uncertain morning.",
+      "zh": "跟读时，想象你在一个充满不确定的早晨，为团队提供真实可靠的方向。"
+    },
+    "steps": [
+      {
+        "en": "Pause cleanly between facts, uncertainty, and next action.",
+        "zh": "在事实、不确定性与下一步行动之间清楚停顿。"
+      },
+      {
+        "en": "Keep your pitch steady in the quoted leadership sentences.",
+        "zh": "朗读领导者的引用句时保持音高稳定。"
+      },
+      {
+        "en": "Finish with warmth that invites other voices into the work.",
+        "zh": "以温暖的语气收尾，邀请更多声音参与其中。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What uncertainty in your work could become easier if someone named its honest edges?",
+      "zh": "工作中哪一种不确定，如果有人说清它的真实边界，就会更容易面对？"
+    },
+    {
+      "en": "How can you make responsibility visible without making yourself the center?",
+      "zh": "你如何在不把自己置于中心的情况下，让责任归属清晰可见？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/stand-where-the-wind-can-find-you/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/stand-where-the-wind-can-find-you/clips/sources_0.mp3"
+    }
+  }
+}

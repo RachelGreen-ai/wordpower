@@ -1,0 +1,244 @@
+{
+  "lessonId": "keep-a-ledger-of-surprises",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep a Ledger of Surprises",
+    "zh": "为意外记一本账"
+  },
+  "subtitle": {
+    "en": "An original reflection on intelligent mistakes, honest review, and turning experience into better judgment.",
+    "zh": "一篇原创美文：关于有价值的错误、诚实复盘，以及如何把经历转化为更好的判断。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Learning",
+    "Career",
+    "Judgment",
+    "Mistakes",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "The Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/20203",
+      "note": {
+        "en": "Public-domain inspiration for deliberate self-examination and practical learning; this lesson is entirely original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中有意识的自我检视与务实学习；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with curious precision, never self-punishment. Let the language of records and maps feel practical, then warm the final section with earned confidence.",
+    "zh": "用好奇而精确的语气朗读，不要自我惩罚。记录与地图的语言要务实，结尾则要有经过实践得来的温暖自信。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Useful Record",
+      "zh": "有用的记录"
+    },
+    "intro": {
+      "en": "This original passage offers a humane way to study mistakes: record the surprise, inspect the judgment, and design a wiser next attempt.",
+      "zh": "这篇原创文章提供一种更有人情味的错误复盘法：记录意外，检查判断，设计更明智的下一次尝试。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Beyond the Red Mark",
+          "zh": "1. 红叉之外"
+        },
+        "text": "Most of us learned to see a mistake as a red mark beside an answer. The mark announced distance from correctness, but said little about the road that produced it. Adult work is more complicated. A proposal can fail because the timing was wrong, the evidence was thin, or the question itself was too small. A conversation can go badly even when the intention was generous. If we label every unwelcome result failure, we lose the distinctions that teach us. Shame closes the file too quickly. Curiosity keeps it open long enough to ask: what, exactly, surprised me here?",
+        "coaching": {
+          "en": "Keep the opening reflective and concrete. Give the final question a genuine upward turn of curiosity.",
+          "zh": "开头要具体而有反思感。最后的问题要带着真正好奇的上扬语调。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Enter the Difference",
+          "zh": "2. 记下偏差"
+        },
+        "text": "Imagine a private ledger with three columns. In the first, write what you expected: the meeting would take twenty minutes; the client cared most about price; I could finish while tired. In the second, write what occurred without decoration. In the third, name the difference. Perhaps the meeting expanded because no one had authority to decide. Perhaps the client feared disruption more than expense. Perhaps tiredness did not reduce effort, but narrowed judgment. The ledger is not a courtroom. It does not ask you to prosecute your former self. It asks you to preserve information that embarrassment would otherwise erase.",
+        "coaching": {
+          "en": "Make the three columns easy to hear. Stress not a courtroom, then soften into preserve information.",
+          "zh": "让三栏结构清楚可听。重读 not a courtroom，再柔和地进入 preserve information。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Find the Hidden Rule",
+          "zh": "3. 找到隐藏的规则"
+        },
+        "text": "Behind many repeated mistakes sits an untested rule: speed proves competence; asking for help creates doubt; more detail will persuade everyone. A surprise reveals where such a rule stops matching the world. This is valuable evidence. Replace the hidden rule with a more precise one: speed helps after the decision is clear; early questions prevent expensive confusion; detail persuades only when it answers a real concern. Better judgment grows through these revisions. We do not become wise by collecting flawless performances. We become wiser by noticing where our private map omitted a bridge, exaggerated a hill, or named a path that no longer exists.",
+        "coaching": {
+          "en": "Read each hidden rule plainly, as a familiar belief. Let the map images at the end open into a slower cadence.",
+          "zh": "每条隐藏规则都要读得像熟悉的信念。结尾的地图意象要放慢，读出开阔感。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Design the Next Attempt",
+          "zh": "4. 设计下一次尝试"
+        },
+        "text": "A useful review ends with an experiment, not a verdict. At the next meeting, name the decision owner before discussion begins. Before presenting, ask what change the listener most fears. After two tired hours, postpone the choice that cannot be easily reversed. These are small alterations, but they turn reflection into craft. Over time, the ledger becomes less a catalogue of errors than a record of improved attention. Its pages say: I expected one world, met another, and adjusted. That sentence contains no humiliation. It contains the quiet confidence of a person who can be surprised without becoming lost, and corrected without becoming smaller.",
+        "coaching": {
+          "en": "Keep the experiments brisk and usable. Slow down for I expected one world, met another, and adjusted.",
+          "zh": "几个实验要读得利落实用。在 I expected one world, met another, and adjusted 处放慢。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "ledger",
+      "meaning": {
+        "en": "A book or record used to organize entries and accounts.",
+        "zh": "分类记录事项或账目的簿册。"
+      },
+      "use": {
+        "en": "She keeps a small ledger of unexpected results.",
+        "zh": "她用一本小账簿记录意外结果。"
+      }
+    },
+    {
+      "term": "distinction",
+      "meaning": {
+        "en": "A meaningful difference between similar things.",
+        "zh": "相似事物之间有意义的区别。"
+      },
+      "use": {
+        "en": "That distinction changed how we reviewed the project.",
+        "zh": "这个区别改变了我们复盘项目的方式。"
+      }
+    },
+    {
+      "term": "prosecute",
+      "meaning": {
+        "en": "To bring a case against someone; here, to judge yourself harshly.",
+        "zh": "起诉；此处指严厉地审判自己。"
+      },
+      "use": {
+        "en": "Review the choice, but do not prosecute your former self.",
+        "zh": "复盘那个选择，但不要审判过去的自己。"
+      }
+    },
+    {
+      "term": "untested",
+      "meaning": {
+        "en": "Not yet examined by evidence or experience.",
+        "zh": "尚未经过证据或经验检验的。"
+      },
+      "use": {
+        "en": "The plan rested on an untested assumption.",
+        "zh": "这项计划建立在一个未经检验的假设上。"
+      }
+    },
+    {
+      "term": "revision",
+      "meaning": {
+        "en": "A change that improves an idea, plan, or piece of work.",
+        "zh": "为改进想法、计划或作品而作的修订。"
+      },
+      "use": {
+        "en": "Good judgment depends on revision.",
+        "zh": "良好的判断有赖于修正。"
+      }
+    },
+    {
+      "term": "reversible",
+      "meaning": {
+        "en": "Able to be changed back to an earlier state.",
+        "zh": "可逆的；能够恢复原状的。"
+      },
+      "use": {
+        "en": "Test the idea first when the choice is reversible.",
+        "zh": "如果选择可逆，就先试验这个想法。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final sounds crisp in marked, asked, revised, and lost.",
+      "zh": "清楚读出 marked、asked、revised 和 lost 的词尾。"
+    },
+    {
+      "en": "Use three balanced beats in expected one world, met another, and adjusted.",
+      "zh": "在 expected one world、met another、and adjusted 中读出三个平衡节拍。"
+    },
+    {
+      "en": "Reduce function words naturally in what you expected and what occurred.",
+      "zh": "在 what you expected 和 what occurred 中自然弱读功能词。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a thoughtful colleague leading a review that is honest, exact, and safe enough for learning.",
+      "zh": "跟读时，想象一位善于思考的同事在主持复盘：诚实、精确，也让人能够安心学习。"
+    },
+    "steps": [
+      {
+        "en": "Separate observation from interpretation with a small pause.",
+        "zh": "用短暂停顿区分观察与解释。"
+      },
+      {
+        "en": "Give the revised rules more grounded stress than the hidden rules.",
+        "zh": "修订后的规则要比隐藏规则读得更扎实。"
+      },
+      {
+        "en": "Let the closing contrast sound compassionate, not triumphant.",
+        "zh": "最后的对比要有理解与宽厚，不要读成胜利宣言。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What recent result surprised you, and which hidden rule might it revise?",
+      "zh": "最近哪个结果让你意外？它可能修正了哪条隐藏规则？"
+    },
+    {
+      "en": "What small, reversible experiment could improve your next attempt?",
+      "zh": "哪个小而可逆的实验，能让你的下一次尝试更好？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-ledger-of-surprises/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-ledger-of-surprises/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-ledger-of-surprises/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-ledger-of-surprises/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-ledger-of-surprises/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-a-ledger-of-surprises/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-a-ledger-of-surprises/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-ledger-of-surprises/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-ledger-of-surprises/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-ledger-of-surprises/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-ledger-of-surprises/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-ledger-of-surprises/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-ledger-of-surprises/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-ledger-of-surprises/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-ledger-of-surprises/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-ledger-of-surprises/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-ledger-of-surprises/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-ledger-of-surprises/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-ledger-of-surprises/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-ledger-of-surprises/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-ledger-of-surprises/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-ledger-of-surprises/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-ledger-of-surprises/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-ledger-of-surprises/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-ledger-of-surprises/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-ledger-of-surprises/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-ledger-of-surprises/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-ledger-of-surprises/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-ledger-of-surprises/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-ledger-of-surprises/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-ledger-of-surprises/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-ledger-of-surprises/clips/sources_0.mp3"
+    }
+  }
+}

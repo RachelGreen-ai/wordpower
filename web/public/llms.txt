@@ -91,6 +91,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Hold the Lantern Low](https://wordpower-seven.vercel.app/read-aloud/hold-the-lantern-low): An original reflection on quiet leadership, shared danger, and making the next step visible.
 - [Imagine the Unseen Life](https://wordpower-seven.vercel.app/read-aloud/imagine-the-unseen-life): An original reflection on moral imagination, fair judgment, and the stories hidden behind behavior.
 - [Keep a Field Notebook](https://wordpower-seven.vercel.app/read-aloud/keep-a-field-notebook): An original reflection on attention, patient observation, and learning to see before we explain.
+- [Keep a Ledger of Surprises](https://wordpower-seven.vercel.app/read-aloud/keep-a-ledger-of-surprises): An original reflection on intelligent mistakes, honest review, and turning experience into better judgment.
 - [Keep a Light in the Window](https://wordpower-seven.vercel.app/read-aloud/keep-a-light-in-the-window): An original reflection on hospitality, belonging, and the quiet courage of making room.
 - [Keep a Private Measure](https://wordpower-seven.vercel.app/read-aloud/keep-a-private-measure): An original reflection on self-trust, borrowed standards, and the quiet discipline of choosing what counts.
 - [Keep a Question on the Table](https://wordpower-seven.vercel.app/read-aloud/keep-a-question-on-the-table): An original reflection on scientific curiosity, patient observation, and the courage to revise a cherished idea.
@@ -128,6 +129,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Let the Detail Change You](https://wordpower-seven.vercel.app/read-aloud/let-the-detail-change-you): An original reflection on patient observation, honest revision, and the courage to notice what does not fit.
 - [Let the Draft Teach You](https://wordpower-seven.vercel.app/read-aloud/let-the-draft-teach-you): An original reflection on learning by making, useful mistakes, and the intelligence that appears during revision.
 - [Let the Evidence Surprise You](https://wordpower-seven.vercel.app/read-aloud/let-the-evidence-surprise-you): An original reflection on scientific curiosity, careful observation, and the freedom to revise a cherished idea.
+- [Let the Eye Arrive Late](https://wordpower-seven.vercel.app/read-aloud/let-the-eye-arrive-late): An original reflection on drawing, patient observation, and learning to see beyond the name of a thing.
 - [Let the Night Resize the Day](https://wordpower-seven.vercel.app/read-aloud/let-the-night-resize-the-day): An original reflection on starlight, proportion, and returning to ordinary problems with a wider mind.
 - [Let the Path Interrupt You](https://wordpower-seven.vercel.app/read-aloud/let-the-path-interrupt-you): An original reflection on walking without conquest, noticing what resists hurry, and returning with a more spacious mind.
 - [Let the River Set the Pace](https://wordpower-seven.vercel.app/read-aloud/let-the-river-set-the-pace): An original reflection on attention, recovery, and finding a pace that can carry a whole life.
@@ -157,6 +159,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Set One More Place](https://wordpower-seven.vercel.app/read-aloud/set-one-more-place): An original reflection on hospitality, belonging, and the small civic art of making room.
 - [Speak at the Temperature of Truth](https://wordpower-seven.vercel.app/read-aloud/speak-at-the-temperature-of-truth): An original reflection on calm communication, honest disagreement, and words that leave dignity intact.
 - [Stand Near, Leave Room](https://wordpower-seven.vercel.app/read-aloud/stand-near-leave-room): An original reflection on parenting, independence, and staying available without standing in the way.
+- [Stand Where the Wind Can Find You](https://wordpower-seven.vercel.app/read-aloud/stand-where-the-wind-can-find-you): An original reflection on visible courage, steady leadership, and making uncertainty easier to face together.
 - [Take the Last Seat](https://wordpower-seven.vercel.app/read-aloud/take-the-last-seat): An original reflection on practical leadership, shared work, and earning the clearest view of a team.
 - [Teach Your Eyes to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eyes-to-stay): An original reflection on drawing, patient attention, and the difference between naming a thing and seeing it.
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.

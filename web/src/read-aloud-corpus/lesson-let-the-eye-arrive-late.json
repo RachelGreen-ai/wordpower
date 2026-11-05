@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-eye-arrive-late",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Eye Arrive Late",
+    "zh": "让目光慢一点抵达"
+  },
+  "subtitle": {
+    "en": "An original reflection on drawing, patient observation, and learning to see beyond the name of a thing.",
+    "zh": "一篇原创美文：关于绘画、耐心观察，以及如何越过事物的名称去真正看见。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Art",
+    "Attention",
+    "Observation",
+    "Creativity",
+    "Seeing"
+  ],
+  "sources": [
+    {
+      "title": "The Elements of Drawing",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30325",
+      "note": {
+        "en": "Public-domain inspiration for patient visual study and drawing from observation; this lesson is entirely original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中关于耐心观看与写生训练的思想；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if your gaze is moving across a still life. Use precise consonants for detail, and allow the longer visual sentences to unfold without hurry.",
+    "zh": "像目光掠过一幅静物画那样朗读。描述细节时辅音要准确，较长的视觉句子要从容展开。"
+  },
+  "passage": {
+    "title": {
+      "en": "Before the Object Has a Name",
+      "zh": "在事物被命名之前"
+    },
+    "intro": {
+      "en": "This original passage considers how drawing can retrain attention by delaying recognition and welcoming the evidence of shape, light, and relation.",
+      "zh": "这篇原创文章探讨：绘画如何通过延缓辨认、接纳形状、光线与关系的证据，重新训练我们的注意力。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Speed of Naming",
+          "zh": "1. 命名的速度"
+        },
+        "text": "Place a pear on a table and the mind arrives before the eye. Pear, it says: green, curved, sweet, ordinary. The name is efficient. It allows us to cross a kitchen without studying every object as a new planet. Yet efficiency has a shadow. Once the label is secure, looking begins to feel unnecessary. We see the idea of a pear and overlook this pear: the flattened side where it rested against another fruit, the russet near the stem, the cool crescent of reflected window light. Familiarity has not made the object empty. It has made our attention early.",
+        "coaching": {
+          "en": "Make the first list quick and familiar. Slow noticeably at this pear, then let each detail come into focus.",
+          "zh": "第一组词要快速而熟悉。在 this pear 处明显放慢，让每个细节逐一清晰。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Follow the Edge",
+          "zh": "2. 沿着边缘走"
+        },
+        "text": "Drawing offers a simple correction: let the eye arrive late. Instead of announcing what the object is, follow one edge as if you do not know where it leads. The line swells, hesitates, and turns inward. Its pace changes. Your pencil discovers that contour is not a fence around a solid thing, but a meeting between the thing and the space beside it. Even an awkward sketch can record this meeting honestly. Accuracy begins less in a gifted hand than in a patient refusal to substitute memory for evidence. Look, mark, look again. The page becomes a conversation between expectation and surprise.",
+        "coaching": {
+          "en": "Trace the verbs swells, hesitates, and turns inward with your voice. Keep look, mark, look again crisp and evenly spaced.",
+          "zh": "用声音描出 swells、hesitates、turns inward。look、mark、look again 要清晰、间隔均匀。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Notice What Light Does",
+          "zh": "3. 留意光做了什么"
+        },
+        "text": "Then stop asking what color the pear is and ask what the light is doing. One plane holds a muted yellow; another slips toward olive; beneath the fruit, a shadow gathers a faint violet from the cloth. None of these colors lives alone. Each is altered by its neighbor. To see them, the eye must compare rather than declare. This habit reaches beyond art. In a meeting, a pause changes the meaning of the sentence before it. In a street, one lit window changes the scale of dusk. Attention becomes relational: less a spotlight aimed at separate objects, more an awareness of how one presence revises another.",
+        "coaching": {
+          "en": "Use a painterly, unforced pace through the colors. Stress compare rather than declare as the central contrast.",
+          "zh": "描写色彩时要像作画一样自然从容。把 compare rather than declare 作为核心对比重读。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return to the Ordinary",
+          "zh": "4. 回到寻常之物"
+        },
+        "text": "After twenty minutes, the pear remains a pear. Observation has not turned it into a symbol or demanded that it become profound. Something quieter has happened: the ordinary object has recovered its particular life. You may carry that recovery into the rest of the day. A colleague's face is no longer merely tired; it contains effort, reserve, and perhaps relief. Rain on the pavement is not simply gray; it holds shop signs, brake lights, and a torn piece of sky. Art begins here, but so does courtesy. Both ask us to delay the convenient name and meet what is present. Let the eye arrive late enough for the world to be specific.",
+        "coaching": {
+          "en": "Keep the pear remains a pear plain and grounded. Widen the final sentence, placing gentle emphasis on specific.",
+          "zh": "the pear remains a pear 要朴素扎实。最后一句要读得开阔，轻轻重读 specific。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "russet",
+      "meaning": {
+        "en": "A reddish-brown color, often seen on fruit or leaves.",
+        "zh": "赤褐色，常见于果皮或叶片。"
+      },
+      "use": {
+        "en": "A patch of russet warmed the green skin.",
+        "zh": "一小片赤褐色让绿色果皮显得温暖。"
+      }
+    },
+    {
+      "term": "contour",
+      "meaning": {
+        "en": "The outer line or shape of something.",
+        "zh": "轮廓；物体外缘的线条或形状。"
+      },
+      "use": {
+        "en": "Follow the contour slowly with your eyes.",
+        "zh": "用目光慢慢沿着轮廓移动。"
+      }
+    },
+    {
+      "term": "substitute",
+      "meaning": {
+        "en": "To use one thing in place of another.",
+        "zh": "用一物代替另一物。"
+      },
+      "use": {
+        "en": "Do not substitute memory for fresh observation.",
+        "zh": "不要用记忆代替当下的观察。"
+      }
+    },
+    {
+      "term": "muted",
+      "meaning": {
+        "en": "Softened or made less bright or intense.",
+        "zh": "柔和的；降低了明亮度或强度的。"
+      },
+      "use": {
+        "en": "The room was painted in muted colors.",
+        "zh": "房间采用了柔和的色彩。"
+      }
+    },
+    {
+      "term": "relational",
+      "meaning": {
+        "en": "Understood through connections between people or things.",
+        "zh": "关系性的；通过事物之间的联系来理解的。"
+      },
+      "use": {
+        "en": "Meaning is often relational rather than isolated.",
+        "zh": "意义往往存在于关系中，而不是孤立存在。"
+      }
+    },
+    {
+      "term": "particular",
+      "meaning": {
+        "en": "Distinct and specific, not merely general.",
+        "zh": "独特而具体的，不只是笼统的。"
+      },
+      "use": {
+        "en": "Listen for the particular quality of her voice.",
+        "zh": "留意她声音中独特而具体的质感。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link final consonants into vowels in edge as if and light is doing.",
+      "zh": "在 edge as if 和 light is doing 中把词尾辅音自然连到后面的元音。"
+    },
+    {
+      "en": "Use gentle contrastive stress in this pear, compare rather than declare, and particular life.",
+      "zh": "在 this pear、compare rather than declare 和 particular life 中使用轻柔的对比重音。"
+    },
+    {
+      "en": "Keep the three-part movements smooth in swells, hesitates, and turns inward.",
+      "zh": "读 swells、hesitates、and turns inward 时保持三段动作的流畅感。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding someone to see a familiar object for the first time.",
+      "zh": "跟读时，想象你在引导某人第一次真正看见一个熟悉的物体。"
+    },
+    "steps": [
+      {
+        "en": "Move quickly through labels, then slow down for observed detail.",
+        "zh": "命名时快速带过，进入观察细节后放慢。"
+      },
+      {
+        "en": "Let color words sound distinct without becoming theatrical.",
+        "zh": "让色彩词清楚有别，但不要夸张表演。"
+      },
+      {
+        "en": "Use a spacious final cadence that makes specific feel valuable.",
+        "zh": "结尾节奏要舒展，让 specific 显得珍贵。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar object near you becomes strange when you follow only its edge?",
+      "zh": "你身边哪个熟悉物体，在你只沿着它的边缘观察时，会重新变得陌生？"
+    },
+    {
+      "en": "Where in your life could comparing carefully help you declare less quickly?",
+      "zh": "生活中的哪个场景，能通过更仔细的比较，让你不那么快下结论？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-eye-arrive-late/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-eye-arrive-late/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-eye-arrive-late/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-eye-arrive-late/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-eye-arrive-late/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-eye-arrive-late/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-eye-arrive-late/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-eye-arrive-late/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-eye-arrive-late/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-eye-arrive-late/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-eye-arrive-late/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-eye-arrive-late/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-eye-arrive-late/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-eye-arrive-late/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-eye-arrive-late/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-eye-arrive-late/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-eye-arrive-late/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-eye-arrive-late/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-eye-arrive-late/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-eye-arrive-late/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-eye-arrive-late/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-eye-arrive-late/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-eye-arrive-late/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-eye-arrive-late/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-eye-arrive-late/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-eye-arrive-late/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-eye-arrive-late/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-eye-arrive-late/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-eye-arrive-late/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-eye-arrive-late/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-eye-arrive-late/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-eye-arrive-late/clips/sources_0.mp3"
+    }
+  }
+}
