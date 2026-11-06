@@ -1,0 +1,244 @@
+{
+  "lessonId": "make-room-for-no",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Make Room for No",
+    "zh": "为“不”留出空间"
+  },
+  "subtitle": {
+    "en": "An original reflection on guiding children with boundaries, respect, and room for an honest voice.",
+    "zh": "一篇原创美文：关于以边界与尊重引导孩子，并为真实的声音留出空间。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Respect",
+    "Boundaries",
+    "Communication",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "The Montessori Method",
+      "author": "Maria Montessori",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/39863",
+      "note": {
+        "en": "Public-domain inspiration from Montessori's respect for children's developing independence; the passage and wording here are entirely original.",
+        "zh": "灵感来自蒙台梭利对儿童独立成长的公开领域思考；本课文章与措辞均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with warmth and steadiness. Keep the adult voice calm enough for the child's voice to remain audible.",
+    "zh": "以温暖而稳定的语气朗读。成人的声音要足够平静，让孩子的声音仍能被听见。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Boundary with a Door in It",
+      "zh": "一道带门的边界"
+    },
+    "intro": {
+      "en": "This original passage considers how a child's no can be heard without making every decision negotiable.",
+      "zh": "这篇原创文章思考：如何听见孩子说“不”，同时又不让每个决定都变成讨价还价。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Small Word with a Large Job",
+          "zh": "1. 那个肩负重任的小词"
+        },
+        "text": "A child says no to the blue cup, the winter coat, the goodbye kiss, the plan that was simple one minute ago. To an adult managing time, the word can sound like a stone dropped into the machinery. Yet no is doing several jobs at once. It may mean I am tired, I need warning, this texture hurts, or I want to discover whether my choice matters here. The word is not always wise, and it cannot always decide the outcome. Still, it is information from a person whose inner life is learning to take shape.",
+        "coaching": {
+          "en": "Keep the opening familiar and lightly amused. Give the possible meanings distinct, patient beats.",
+          "zh": "开头读得熟悉并带一点轻松。几个可能的含义要耐心分拍。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Hear the Message, Hold the Boundary",
+          "zh": "2. 听见信息，守住边界"
+        },
+        "text": "Respect does not require the adult to surrender judgment. The coat may still be necessary; the appointment may still begin at nine. But a boundary can be firm without pretending the child's feeling is irrelevant. You do not want this coat. The sleeves feel rough. We still need something warm, so let us choose between these two. Such language separates feeling from decision. The feeling is welcomed. The decision is carried by the person responsible for safety, time, and the needs of the whole family. Calm authority does not erase the protest; it makes the path through it visible.",
+        "coaching": {
+          "en": "Use clear, gentle authority. Pause between the child's feeling and the adult's decision.",
+          "zh": "使用清晰而温和的权威感。在孩子的感受与成人的决定之间停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Do Not Demand a Performance of Affection",
+          "zh": "3. 不要要求表演亲密"
+        },
+        "text": "Some boundaries belong to the child. Affection is one of them. A hug offered freely can build connection; a hug demanded for politeness teaches a different lesson. A child can greet an uncle with words, a wave, or a hand on the heart. Courtesy has many forms. When adults protect this choice in ordinary moments, children practice noticing bodily unease before a dangerous moment arrives. They also learn that another person's no deserves care. Consent does not begin as a solemn lecture. It begins in the small daily proof that kindness and personal space can stand together.",
+        "coaching": {
+          "en": "Read without alarm or accusation. Warm courtesy has many forms and ground the final sentence.",
+          "zh": "不要读出惊慌或指责。读暖 courtesy has many forms，并让最后一句沉稳落地。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Raise a Voice You Hope to Hear Later",
+          "zh": "4. 培养一个你将来愿意听见的声音"
+        },
+        "text": "The goal is not a child who wins every argument, nor one who obeys before thinking. We hope for a young person who can notice discomfort, name a need, accept a reasonable limit, and resist an unreasonable demand. Those abilities are rehearsed at home, often when everyone is late and the blue cup is in the dishwasher. We will not respond perfectly. We can repair: I was rushed. I heard your no as trouble instead of information. Let us try again. In that sentence, authority becomes trustworthy because it is strong enough to listen and secure enough to change.",
+        "coaching": {
+          "en": "Build toward the four abilities, then make the repair sound sincere and usable in real life.",
+          "zh": "逐步强调四种能力；修复关系的话要读得真诚，并能用于真实生活。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "negotiable",
+      "meaning": {
+        "en": "Open to discussion or change.",
+        "zh": "可协商的；可以讨论或改变的。"
+      },
+      "use": {
+        "en": "The destination was fixed, but the departure time was negotiable.",
+        "zh": "目的地已定，但出发时间可以协商。"
+      }
+    },
+    {
+      "term": "irrelevant",
+      "meaning": {
+        "en": "Not connected with or important to the matter.",
+        "zh": "不相关的；对当前事情并不重要的。"
+      },
+      "use": {
+        "en": "Her feelings were difficult, but they were not irrelevant.",
+        "zh": "她的感受很复杂，但并非无关紧要。"
+      }
+    },
+    {
+      "term": "authority",
+      "meaning": {
+        "en": "The accepted power or responsibility to guide and decide.",
+        "zh": "权威；被认可的指导与决策责任。"
+      },
+      "use": {
+        "en": "He used his authority calmly and explained the limit.",
+        "zh": "他平静地行使权威，并解释了边界。"
+      }
+    },
+    {
+      "term": "affection",
+      "meaning": {
+        "en": "Warm feelings of care or liking.",
+        "zh": "喜爱；关怀与亲近的温暖感情。"
+      },
+      "use": {
+        "en": "Affection grows best when it is freely expressed.",
+        "zh": "当亲近可以自由表达时，感情最容易生长。"
+      }
+    },
+    {
+      "term": "consent",
+      "meaning": {
+        "en": "Voluntary agreement or permission.",
+        "zh": "同意；自愿给予的许可。"
+      },
+      "use": {
+        "en": "She asked for consent before sharing the photograph.",
+        "zh": "她在分享照片前征得了同意。"
+      }
+    },
+    {
+      "term": "rehearse",
+      "meaning": {
+        "en": "To practice something before it is needed or performed.",
+        "zh": "排练；在正式使用或表演前练习。"
+      },
+      "use": {
+        "en": "We rehearse calm communication in ordinary moments.",
+        "zh": "我们在平常时刻练习冷静沟通。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the contrast clear between can and cannot when stating boundaries.",
+      "zh": "陈述边界时，清楚区分 can 与 cannot。"
+    },
+    {
+      "en": "Use a calm falling tone for We still need something warm, so the limit sounds secure.",
+      "zh": "We still need something warm 使用平静降调，让边界听起来稳定可靠。"
+    },
+    {
+      "en": "Link smoothly in kindness and personal space can stand together.",
+      "zh": "在 kindness and personal space can stand together 中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a caring adult who can listen without abandoning responsibility.",
+      "zh": "跟读时，像一位愿意倾听、也不放弃责任的关爱型成人。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: distinguish the child's message from the adult's decision.",
+        "zh": "第一遍：区分孩子传递的信息与成人作出的决定。"
+      },
+      {
+        "en": "Pass two: keep boundaries low, calm, and definite.",
+        "zh": "第二遍：边界要低沉、平静、明确。"
+      },
+      {
+        "en": "Pass three: let repair sound honest rather than dramatic.",
+        "zh": "第三遍：让修复听起来真诚，而不是戏剧化。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which family boundary could become clearer without becoming colder?",
+      "zh": "哪一条家庭边界可以更清晰，却不必变得更冰冷？"
+    },
+    {
+      "en": "How can a child decline affection while still greeting someone kindly?",
+      "zh": "孩子可以怎样在礼貌问候他人的同时，拒绝身体上的亲近？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-room-for-no/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-room-for-no/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-room-for-no/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-room-for-no/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-room-for-no/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/make-room-for-no/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/make-room-for-no/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-room-for-no/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-room-for-no/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-room-for-no/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-room-for-no/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-room-for-no/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-room-for-no/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-room-for-no/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-room-for-no/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-room-for-no/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-room-for-no/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-room-for-no/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-room-for-no/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-room-for-no/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-room-for-no/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-room-for-no/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-room-for-no/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-room-for-no/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-room-for-no/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-room-for-no/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-room-for-no/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-room-for-no/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-room-for-no/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-room-for-no/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-room-for-no/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-room-for-no/clips/sources_0.mp3"
+    }
+  }
+}

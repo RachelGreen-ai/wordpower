@@ -1,0 +1,244 @@
+{
+  "lessonId": "carry-the-decision-calmly",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Carry the Decision Calmly",
+    "zh": "平静地承担决定"
+  },
+  "subtitle": {
+    "en": "An original reflection on leadership after the meeting, when a difficult decision must become shared work.",
+    "zh": "一篇原创美文：关于会议结束之后，如何让艰难的决定变成共同的行动。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Leadership",
+    "Decision-making",
+    "Courage",
+    "Communication",
+    "Responsibility"
+  ],
+  "sources": [
+    {
+      "title": "Washington's Farewell Address",
+      "author": "George Washington",
+      "organization": "Avalon Project, Yale Law School",
+      "url": "https://avalon.law.yale.edu/18th_century/washing.asp",
+      "note": {
+        "en": "Public-domain inspiration from Washington's emphasis on duty, restraint, and the long view; the passage and wording here are entirely original.",
+        "zh": "灵感来自华盛顿公开领域文本中对责任、克制与长远眼光的强调；本课文章与措辞均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with quiet authority. Let firmness come from clarity and responsibility, not volume.",
+    "zh": "以安静的权威感朗读。坚定来自清晰与责任，而不是音量。"
+  },
+  "passage": {
+    "title": {
+      "en": "After the Chairs Are Pushed Back",
+      "zh": "当椅子都被推回桌下之后"
+    },
+    "intro": {
+      "en": "This original passage follows leadership beyond debate into explanation, execution, and accountability.",
+      "zh": "这篇原创文章把领导力从讨论延伸到解释、执行与承担责任。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Decision Changes Its Weight",
+          "zh": "1. 决定会改变重量"
+        },
+        "text": "During a meeting, a decision is made of language. People compare risks, defend priorities, draw arrows on a screen, and imagine several futures. Then the chairs are pushed back. The decision leaves the whiteboard and enters calendars, budgets, and other people's Tuesday mornings. It acquires weight. Someone must cancel a plan, learn a new system, or tell a customer that the answer has changed. Leadership begins before the vote, but it becomes visible afterward, when an abstract choice arrives in the lives of those who must carry it.",
+        "coaching": {
+          "en": "Keep the meeting scene brisk, then slow as the decision enters real lives.",
+          "zh": "会议场景读得利落；当决定进入真实生活时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Explain the Trade, Not Only the Destination",
+          "zh": "2. 解释取舍，不只宣布目的地"
+        },
+        "text": "People do not need every private detail, but they deserve more than a polished conclusion. Name what the decision protects and what it costs. We chose reliability over speed. We are serving fewer customers this month so that the service does not fail all of them next month. Acknowledging the cost does not weaken a decision. It shows that the loss was seen rather than dismissed. Clear explanation also gives disagreement an honest object. People can challenge the actual trade instead of inventing motives in the silence.",
+        "coaching": {
+          "en": "Make the examples plain and credible. Stress protects and costs as a balanced pair.",
+          "zh": "例子要朴素可信。把 protects 与 costs 作为平衡的一组重读。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Dissent Improve the Road",
+          "zh": "3. 让异议改善前路"
+        },
+        "text": "Once direction is set, some leaders treat every question as disloyalty. That produces quick agreement and slow disaster. A team can commit to a destination while still reporting a broken bridge. Invite the people closest to the work to name consequences the meeting missed. Which customer will be stranded? Which deadline now conflicts with another? What would make this plan safer to reverse? Listening is not reopening the entire debate each morning. It is allowing reality to refine the route. Steadiness is not stiffness; it is the ability to adjust without forgetting why the journey began.",
+        "coaching": {
+          "en": "Give the questions practical urgency. Contrast steadiness with stiffness clearly.",
+          "zh": "几个问题要读出务实的紧迫感。清楚对比 steadiness 与 stiffness。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Stand Where the Consequences Land",
+          "zh": "4. 站在后果落下的地方"
+        },
+        "text": "When the outcome is good, share the credit widely. When it is poor, resist the search for a convenient messenger to blame. Say what you knew, what you missed, and what will change. Accountability is not theatrical self-punishment; it is the repair of trust through accurate ownership. The calmest leader in a difficult hour is not the one untouched by doubt. It is the one who can hold doubt without passing panic down the line. The decision may have been made in one room, but leadership walks with it, explains it, corrects it, and remains present where its consequences land.",
+        "coaching": {
+          "en": "Use firm restraint, not heroics. Let the final list advance with steady responsibility.",
+          "zh": "使用坚定的克制感，不要英雄化。最后的列举以稳定的责任感向前推进。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "abstract",
+      "meaning": {
+        "en": "Existing mainly as an idea rather than a concrete object or event.",
+        "zh": "抽象的；主要作为观念而非具体事物存在的。"
+      },
+      "use": {
+        "en": "The abstract policy soon affected real schedules.",
+        "zh": "这项抽象政策很快影响了真实的日程。"
+      }
+    },
+    {
+      "term": "trade-off",
+      "meaning": {
+        "en": "A choice that gains one benefit while accepting another cost.",
+        "zh": "取舍；获得一种好处同时接受另一种代价。"
+      },
+      "use": {
+        "en": "Every fast launch involves a trade-off between speed and certainty.",
+        "zh": "每次快速发布都涉及速度与确定性之间的取舍。"
+      }
+    },
+    {
+      "term": "dismiss",
+      "meaning": {
+        "en": "To treat something as unimportant or unworthy of attention.",
+        "zh": "不予理会；认为某事不重要或不值得关注。"
+      },
+      "use": {
+        "en": "Do not dismiss the concern before checking the facts.",
+        "zh": "在核实事实之前，不要轻视这个担忧。"
+      }
+    },
+    {
+      "term": "dissent",
+      "meaning": {
+        "en": "Disagreement with an accepted opinion or decision.",
+        "zh": "异议；对主流意见或决定的不同看法。"
+      },
+      "use": {
+        "en": "Respectful dissent revealed a serious risk.",
+        "zh": "有礼的异议揭示了一个严重风险。"
+      }
+    },
+    {
+      "term": "refine",
+      "meaning": {
+        "en": "To improve something through small, careful changes.",
+        "zh": "完善；通过细致的小改动改进某事。"
+      },
+      "use": {
+        "en": "Feedback helped us refine the route.",
+        "zh": "反馈帮助我们完善了路线。"
+      }
+    },
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "Responsibility for actions, decisions, and their results.",
+        "zh": "问责与担当；对行动、决定及其结果负责。"
+      },
+      "use": {
+        "en": "Public accountability strengthened the team's trust.",
+        "zh": "公开承担责任增强了团队的信任。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use clear stress in reliability over speed and fewer customers this month.",
+      "zh": "在 reliability over speed 和 fewer customers this month 中清楚标出重音。"
+    },
+    {
+      "en": "Keep the consonant endings distinct in costs, missed, asked, and trust.",
+      "zh": "清楚读出 costs、missed、asked 和 trust 的词尾辅音。"
+    },
+    {
+      "en": "Contrast steadiness is not stiffness with deliberate pacing.",
+      "zh": "用从容的节奏对比 steadiness is not stiffness。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a leader reporting a difficult choice with candor and composure.",
+      "zh": "跟读时，像一位以坦诚和沉着说明艰难决定的领导者。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the practical consequences concrete.",
+        "zh": "第一遍：让现实后果保持具体。"
+      },
+      {
+        "en": "Pass two: balance firmness with openness to correction.",
+        "zh": "第二遍：在坚定与接受修正之间保持平衡。"
+      },
+      {
+        "en": "Pass three: end with calm ownership rather than triumph.",
+        "zh": "第三遍：以平静的担当收尾，而非胜利感。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What cost of a recent decision deserves a clearer acknowledgment?",
+      "zh": "最近一项决定的哪一种代价，值得被更清楚地承认？"
+    },
+    {
+      "en": "How can dissent improve execution without reopening every decision?",
+      "zh": "异议怎样在不推翻每项决定的前提下改善执行？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/carry-the-decision-calmly/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/carry-the-decision-calmly/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/carry-the-decision-calmly/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/carry-the-decision-calmly/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/carry-the-decision-calmly/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/carry-the-decision-calmly/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/carry-the-decision-calmly/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/carry-the-decision-calmly/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/carry-the-decision-calmly/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/carry-the-decision-calmly/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/carry-the-decision-calmly/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/carry-the-decision-calmly/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/carry-the-decision-calmly/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/carry-the-decision-calmly/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/carry-the-decision-calmly/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/carry-the-decision-calmly/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/carry-the-decision-calmly/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/carry-the-decision-calmly/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/carry-the-decision-calmly/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/carry-the-decision-calmly/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/carry-the-decision-calmly/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/carry-the-decision-calmly/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/carry-the-decision-calmly/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/carry-the-decision-calmly/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/carry-the-decision-calmly/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/carry-the-decision-calmly/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/carry-the-decision-calmly/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/carry-the-decision-calmly/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/carry-the-decision-calmly/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/carry-the-decision-calmly/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/carry-the-decision-calmly/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/carry-the-decision-calmly/clips/sources_0.mp3"
+    }
+  }
+}

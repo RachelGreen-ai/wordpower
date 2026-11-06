@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-work-teach-you",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Work Teach You",
+    "zh": "让作品教会你"
+  },
+  "subtitle": {
+    "en": "An original reflection on artistic practice, revision, and learning to see what the work actually needs.",
+    "zh": "一篇原创美文：关于艺术实践、反复修改，以及学会看见作品真正需要什么。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Art",
+    "Practice",
+    "Revision",
+    "Attention",
+    "Learning"
+  ],
+  "sources": [
+    {
+      "title": "The Practice and Science of Drawing",
+      "author": "Harold Speed",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14264",
+      "note": {
+        "en": "Public-domain inspiration from Speed's practical attention to seeing and disciplined craft; the passage and wording here are entirely original.",
+        "zh": "灵感来自斯皮德对观察与严谨技艺的公开领域论述；本课文章与措辞均为原创。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with the calm alertness of a maker at a worktable. Let the concrete images carry the ideas.",
+    "zh": "带着创作者在工作台前那种平静而敏锐的状态朗读。让具体意象承载思想。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Conversation on the Worktable",
+      "zh": "工作台上的对话"
+    },
+    "intro": {
+      "en": "This original passage explores how a piece of work can become a demanding and generous teacher.",
+      "zh": "这篇原创文章探讨一件作品如何成为一位要求严格而又慷慨的老师。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The First Idea Arrives Wearing a Crown",
+          "zh": "1. 最初的想法戴着王冠到来"
+        },
+        "text": "A new idea often enters the room as if it already knows the way. The melody feels complete before it has been played. The essay appears graceful before a sentence exists. In imagination, the chair is balanced, the garden is luminous, and the speech moves every listener. This early certainty is useful: it gets our hands moving. But the moment the idea meets wood, paint, soil, breath, or language, it loses its crown. The material answers back. A line grows heavy. A joint refuses to hold. A paragraph explains what the image had already made clear.",
+        "coaching": {
+          "en": "Give the opening a touch of amused grandeur, then become practical as the materials answer back.",
+          "zh": "开头带一点会心的宏大感；当材料开始回应时，语气转为务实。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Notice What Resists",
+          "zh": "2. 留意那些阻力"
+        },
+        "text": "Resistance is easy to mistake for failure. We push harder, repeat the first plan, and blame our hands for disobedience. Yet the stubborn place may contain information. Perhaps the melody needs silence, not another note. Perhaps the chair asks for a lighter back. Perhaps the essay has discovered a question more honest than the one in the outline. Craft begins when we stop treating the work as a servant of the original idea. We look again. We test a smaller change. We listen for the difference between difficulty that requires patience and difficulty that asks for a new direction.",
+        "coaching": {
+          "en": "Stress the contrast between silence and another note. Slow slightly through the final distinction.",
+          "zh": "对比重读 silence 与 another note。最后的区分处稍微放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Revision Is a Form of Respect",
+          "zh": "3. 修改是一种尊重"
+        },
+        "text": "To revise is not to confess that the first attempt was worthless. It is to take the attempt seriously enough to continue the conversation. Remove the clever phrase that interrupts the rhythm. Sand the edge the hand keeps finding. Move the plant that survives but never flourishes. Each change says: I am willing to see what is here, not merely defend what I meant to make. This is demanding humility, because intention is invisible while effect stands in the room. The audience receives the effect. The maker's task is to close the distance with patience, precision, and care.",
+        "coaching": {
+          "en": "Keep the short commands tactile and clear. Give the final three nouns an even, deliberate rhythm.",
+          "zh": "几个短指令要读得有触感且清晰。结尾三个名词用均匀、从容的节奏。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Finish Without Closing the Door",
+          "zh": "4. 完成，但别把门关死"
+        },
+        "text": "No work can remain open forever. At some point the paint must dry, the email must be sent, the curtain must rise. Finishing is its own discipline: choosing the best form available now and releasing it from endless improvement. Still, a finished work can leave the maker more awake. You carry forward a sharper eye, a steadier hand, and one question you did not know how to ask before. The object on the table is complete enough to leave you. Its lesson is not. It follows you quietly toward the next beginning.",
+        "coaching": {
+          "en": "Build gentle finality, then leave a little openness in the last two sentences.",
+          "zh": "先营造温和的完成感，最后两句仍保留一点开放。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "luminous",
+      "meaning": {
+        "en": "Full of light or clarity.",
+        "zh": "明亮的；清澈而富有光彩的。"
+      },
+      "use": {
+        "en": "Her luminous description made the small room vivid.",
+        "zh": "她明亮的描写让小房间变得鲜活。"
+      }
+    },
+    {
+      "term": "resistance",
+      "meaning": {
+        "en": "A force or difficulty that opposes movement or change.",
+        "zh": "阻力；阻碍行动或变化的力量或困难。"
+      },
+      "use": {
+        "en": "The resistance showed us where the design was weak.",
+        "zh": "这股阻力让我们看见设计的薄弱之处。"
+      }
+    },
+    {
+      "term": "stubborn",
+      "meaning": {
+        "en": "Refusing to change or cooperate.",
+        "zh": "顽固的；不肯改变或配合的。"
+      },
+      "use": {
+        "en": "One stubborn sentence slowed the whole paragraph.",
+        "zh": "一个顽固的句子拖慢了整段文字。"
+      }
+    },
+    {
+      "term": "flourish",
+      "meaning": {
+        "en": "To grow or develop strongly and healthily.",
+        "zh": "茁壮成长；蓬勃发展。"
+      },
+      "use": {
+        "en": "The idea flourished after we simplified the plan.",
+        "zh": "计划简化后，这个想法蓬勃发展起来。"
+      }
+    },
+    {
+      "term": "intention",
+      "meaning": {
+        "en": "What someone means or plans to do.",
+        "zh": "意图；某人打算或计划做的事。"
+      },
+      "use": {
+        "en": "Good intention does not always create a clear effect.",
+        "zh": "良好的意图不一定总能产生清晰的效果。"
+      }
+    },
+    {
+      "term": "release",
+      "meaning": {
+        "en": "To let something go or make it available to others.",
+        "zh": "放手；发布；让某物离开自己或供他人使用。"
+      },
+      "use": {
+        "en": "She revised the song once more and released it.",
+        "zh": "她又修改了一遍歌曲，然后将它发布。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in work, craft, effect, and task.",
+      "zh": "清楚读出 work、craft、effect 和 task 的词尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress in what is here, not merely what I meant to make.",
+      "zh": "在 what is here, not merely what I meant to make 中使用对比重音。"
+    },
+    {
+      "en": "Let the three-part phrase patience, precision, and care move in an even rhythm.",
+      "zh": "让 patience, precision, and care 这个三段短语保持均匀节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a thoughtful craftsperson explaining what the hands have learned.",
+      "zh": "跟读时，像一位善于思考的手艺人，讲述双手学会了什么。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every physical image crisp and visible.",
+        "zh": "第一遍：让每个具体意象都清晰可见。"
+      },
+      {
+        "en": "Pass two: mark the turns from confidence to observation.",
+        "zh": "第二遍：标出从自信转向观察的语气变化。"
+      },
+      {
+        "en": "Pass three: end with completion, gratitude, and openness.",
+        "zh": "第三遍：以完成感、感激和开放收尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What is one piece of resistance in your work that may contain useful information?",
+      "zh": "你的工作中，哪一处阻力可能包含有用的信息？"
+    },
+    {
+      "en": "How do you know when revision should end and release should begin?",
+      "zh": "你如何判断修改该结束、发布该开始？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-work-teach-you/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-work-teach-you/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-work-teach-you/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-work-teach-you/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-work-teach-you/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-work-teach-you/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-work-teach-you/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-work-teach-you/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-work-teach-you/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-work-teach-you/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-work-teach-you/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-work-teach-you/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-work-teach-you/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-work-teach-you/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-work-teach-you/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-work-teach-you/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-work-teach-you/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-work-teach-you/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-work-teach-you/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-work-teach-you/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-work-teach-you/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-work-teach-you/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-work-teach-you/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-work-teach-you/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-work-teach-you/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-work-teach-you/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-work-teach-you/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-work-teach-you/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-work-teach-you/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-work-teach-you/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-work-teach-you/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-work-teach-you/clips/sources_0.mp3"
+    }
+  }
+}
