@@ -1,0 +1,219 @@
+{
+  "lessonId": "listen-until-the-room-has-depth",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Listen Until the Room Has Depth",
+    "zh": "倾听，直到房间有了纵深"
+  },
+  "subtitle": {
+    "en": "An original reflection on attention, silence, and recovering the layered world around us.",
+    "zh": "一篇原创美文：关于注意力、寂静，以及重新找回身边世界的层次。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Attention",
+    "Listening",
+    "Silence",
+    "Nature",
+    "Presence"
+  ],
+  "sources": [
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration for attentive listening to ordinary surroundings; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对日常环境的专注聆听；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with spacious attention. Let pauses reveal the room rather than interrupt the meaning.",
+    "zh": "用宽阔的注意力朗读。让停顿显出房间的存在，而不是打断意思。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Nearness We Stop Hearing",
+      "zh": "我们不再听见的近处"
+    },
+    "intro": {
+      "en": "This original passage invites the listener to recover depth by noticing the sounds that hurry usually flattens.",
+      "zh": "这篇原创文章邀请听者留意那些常被匆忙压平的声音，从而找回世界的纵深。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Remove One Layer of Noise",
+          "zh": "1. 拿掉一层噪声"
+        },
+        "text": "Begin without demanding silence. Turn off one device. Close no more doors than necessary. Sit where life is already happening and wait for the loudest sound to lose its authority. Perhaps it is traffic, a refrigerator, rain worrying the gutter. Soon the ear adjusts, and the room acquires distance. A pipe ticks inside the wall. Fabric moves when you breathe. Somewhere outside, a bird repeats a phrase with tiny variations. None of this is dramatic, which is precisely why it has been available all along. Attention does not invent richness. It removes the hurry that concealed it.",
+        "coaching": {
+          "en": "Start simply and resist a dreamy tone. Let the small sounds emerge one by one, then give the final distinction quiet clarity.",
+          "zh": "开头要朴素，避免梦幻腔。让细小声音逐一浮现，最后的区别要安静而清楚。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Hear the Edges",
+          "zh": "2. 听见边缘"
+        },
+        "text": "Every sound has an edge: the moment it arrives, the shape it holds, the way it releases the air. Listen past the label. A kettle is not merely a kettle; it begins as a low pressure, gathers a bright thread, then settles after the switch clicks. A familiar voice also contains more than words. Pace can reveal caution. A breath before an answer may hold restraint, fatigue, or care. We misunderstand people when we hear only the nouns and verbs. Tone, interval, and silence carry the weather around the sentence.",
+        "coaching": {
+          "en": "Trace the kettle's change with a gradual rise and release. In the final lines, make tone, interval, and silence distinct.",
+          "zh": "用逐渐上升再释放的声音描出水壶变化。结尾把 tone、interval 和 silence 清楚区分。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Answer from a Deeper Room",
+          "zh": "3. 从更深的房间回应"
+        },
+        "text": "After several minutes, listening alters the listener. The impulse to fill every gap begins to soften. You may discover that silence is not empty time but shared space where a truer response can form. This matters in conversation. When someone finishes speaking, leave one unclaimed second before you answer. Let their sentence reach the far wall and return. That second is not hesitation; it is hospitality for meaning. Often a detail you nearly missed will change your reply. You will ask instead of assume, or offer company instead of advice. The room has not grown larger, yet it has depth now. So do you. Carry that depth into the next voice you meet.",
+        "coaching": {
+          "en": "Allow a real pause after unclaimed second. Keep the ending intimate and direct, with warmth on the next voice you meet.",
+          "zh": "在 unclaimed second 后留出真实停顿。结尾要亲近而直接，在 the next voice you meet 上读出温度。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "spacious",
+      "meaning": {
+        "en": "Having a sense of openness, room, or unhurried ease.",
+        "zh": "宽阔从容的；具有开放空间或不匆忙的感觉。"
+      },
+      "use": {
+        "en": "Her spacious reply gave everyone time to think.",
+        "zh": "她从容的回答给了每个人思考的时间。"
+      }
+    },
+    {
+      "term": "conceal",
+      "meaning": {
+        "en": "To hide or prevent something from being noticed.",
+        "zh": "遮蔽；隐藏或使某事不易被察觉。"
+      },
+      "use": {
+        "en": "A quick smile concealed his uncertainty.",
+        "zh": "一个短促的微笑掩饰了他的犹豫。"
+      }
+    },
+    {
+      "term": "interval",
+      "meaning": {
+        "en": "A space or period between two events or sounds.",
+        "zh": "间隔；两个事件或声音之间的空间或时间。"
+      },
+      "use": {
+        "en": "A brief interval changed the rhythm of the exchange.",
+        "zh": "短暂的间隔改变了对话的节奏。"
+      }
+    },
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "Calm control over one's words, feelings, or actions.",
+        "zh": "克制；对言语、情绪或行动的冷静控制。"
+      },
+      "use": {
+        "en": "She responded with kindness and restraint.",
+        "zh": "她以善意和克制作出回应。"
+      }
+    },
+    {
+      "term": "unclaimed",
+      "meaning": {
+        "en": "Not taken, occupied, or demanded by anyone.",
+        "zh": "未被占用的；没有被任何人拿走或要求的。"
+      },
+      "use": {
+        "en": "Leave one unclaimed minute between meetings.",
+        "zh": "在会议之间留出一分钟空白。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants audible in depth, restraint, and missed.",
+      "zh": "清楚读出 depth、restraint 和 missed 的词尾辅音。"
+    },
+    {
+      "en": "Use gentle lengthening in low pressure, bright thread, then settles.",
+      "zh": "在 low pressure、bright thread、then settles 中适度延长元音。"
+    },
+    {
+      "en": "Link naturally in available all along and instead of advice.",
+      "zh": "在 available all along 和 instead of advice 中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice is helping someone notice a room they thought they already knew.",
+      "zh": "跟读时，想象你的声音正帮助某人重新发现一个自以为熟悉的房间。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: place each sound clearly in near or far space.",
+        "zh": "第一遍：把每个声音清楚放在近处或远处。"
+      },
+      {
+        "en": "Pass two: shape the pauses without losing the sentence's thread.",
+        "zh": "第二遍：塑造停顿，同时不丢失句子的线索。"
+      },
+      {
+        "en": "Pass three: make the final invitation warm, specific, and unhurried.",
+        "zh": "第三遍：把最后的邀请读得温暖、具体而从容。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What sound in your daily environment have you stopped noticing?",
+      "zh": "日常环境中，有什么声音已经被你忽略？"
+    },
+    {
+      "en": "Who might benefit from one unclaimed second before your reply?",
+      "zh": "在你回答前留出一秒空白，可能会帮助到谁？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/listen-until-the-room-has-depth/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/listen-until-the-room-has-depth/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/listen-until-the-room-has-depth/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/listen-until-the-room-has-depth/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/listen-until-the-room-has-depth/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/listen-until-the-room-has-depth/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/listen-until-the-room-has-depth/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/listen-until-the-room-has-depth/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/listen-until-the-room-has-depth/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/listen-until-the-room-has-depth/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/listen-until-the-room-has-depth/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/listen-until-the-room-has-depth/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/listen-until-the-room-has-depth/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/listen-until-the-room-has-depth/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/listen-until-the-room-has-depth/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/listen-until-the-room-has-depth/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/listen-until-the-room-has-depth/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/listen-until-the-room-has-depth/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/listen-until-the-room-has-depth/clips/vocabulary_4.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/listen-until-the-room-has-depth/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/listen-until-the-room-has-depth/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/listen-until-the-room-has-depth/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/listen-until-the-room-has-depth/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/listen-until-the-room-has-depth/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/listen-until-the-room-has-depth/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/listen-until-the-room-has-depth/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/listen-until-the-room-has-depth/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/listen-until-the-room-has-depth/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/listen-until-the-room-has-depth/clips/sources_0.mp3"
+    }
+  }
+}

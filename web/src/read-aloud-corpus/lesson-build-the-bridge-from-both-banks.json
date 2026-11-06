@@ -1,0 +1,219 @@
+{
+  "lessonId": "build-the-bridge-from-both-banks",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Build the Bridge from Both Banks",
+    "zh": "从两岸一起架桥"
+  },
+  "subtitle": {
+    "en": "An original reflection on disagreement, dignity, and the patient craft of mutual understanding.",
+    "zh": "一篇原创美文：关于分歧、尊严，以及共同理解这门耐心的手艺。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Disagreement",
+    "Dignity",
+    "Listening",
+    "Leadership"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration for disciplined judgment and shared human responsibility; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对克制判断与共同责任的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with composure and generous firmness. Let each sentence sound like an invitation to think together.",
+    "zh": "用沉着而宽厚的坚定感朗读。让每句话都像是在邀请对方共同思考。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Engineering of Agreement",
+      "zh": "共识的工程学"
+    },
+    "intro": {
+      "en": "This original passage treats understanding not as surrender, but as something two people patiently construct.",
+      "zh": "这篇原创文章把理解视为两个人耐心建造的成果，而不是一方的投降。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Survey Your Own Bank",
+          "zh": "1. 先勘察自己这一岸"
+        },
+        "text": "Before crossing a disagreement, notice where you are standing. What do you know firsthand? What have you merely repeated? Which fear is sharpening your voice? We often arrive with a verdict disguised as a question, then feel surprised when the other person builds a wall. A calmer beginning is more exact. State the fact you observed, the meaning you gave it, and the need beneath your reaction. These are not the same thing. Separating them does not weaken your position. It replaces a cloud of accusation with ground that can actually bear weight.",
+        "coaching": {
+          "en": "Let the opening questions breathe. Clarify fact, meaning, and need as three distinct supports.",
+          "zh": "让开头的问题留有呼吸。把 fact、meaning 和 need 读成三个清楚分开的支点。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Send a Line Across",
+          "zh": "2. 把第一根线送到对岸"
+        },
+        "text": "A bridge begins with something slender enough to cross the gap: a rope, a cable, a sentence without barbs. Try, Tell me what I am missing. Then listen for the structure of the answer, not only the phrase that irritates you. Beneath a clumsy argument there may be loyalty, exhaustion, or a wish to be treated as competent. Naming that concern does not mean accepting every conclusion. It means proving that contact is possible. Once a person feels accurately heard, the conversation no longer has to spend all its energy demanding recognition.",
+        "coaching": {
+          "en": "Soften the invitation, then read the hidden concerns with humane curiosity. Keep the distinction between hearing and agreeing crisp.",
+          "zh": "邀请句要柔和，隐藏的关切要带着人性的好奇来读。清楚区分听见与同意。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Test the Middle",
+          "zh": "3. 检验桥的中央"
+        },
+        "text": "Now build toward a sentence both sides can stand on. It may be modest: We want the deadline to be real, and we do not want the work to be careless. Shared ground is rarely the whole destination, but it gives the next step somewhere to begin. Make a small proposal. Ask what would make it safer or fairer. Revise without theatrics. Test the agreement under ordinary working conditions, with tomorrow's pressure, not only today's relief. A durable agreement is not a monument to one person's eloquence; it is a structure that carries weight after both people have gone home. The finest conversations leave no victor on the riverbank. They leave two travelers able to cross.",
+        "coaching": {
+          "en": "Give the shared sentence practical confidence. Build steadily toward two travelers able to cross, without triumph.",
+          "zh": "共同句要读出实际的信心。稳步推进到 two travelers able to cross，不要读出胜利者姿态。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "composure",
+      "meaning": {
+        "en": "A calm and controlled state, especially under pressure.",
+        "zh": "沉着；尤其在压力下保持平静与自制。"
+      },
+      "use": {
+        "en": "She answered the criticism with composure.",
+        "zh": "她沉着地回应了批评。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A firm judgment or decision.",
+        "zh": "定论；明确的判断或决定。"
+      },
+      "use": {
+        "en": "His question sounded more like a verdict.",
+        "zh": "他的问题听起来更像一个定论。"
+      }
+    },
+    {
+      "term": "barb",
+      "meaning": {
+        "en": "A deliberately hurtful point in a remark.",
+        "zh": "话中带刺；言语里故意伤人的部分。"
+      },
+      "use": {
+        "en": "Remove the barb before you send the message.",
+        "zh": "发消息前，先去掉话里的刺。"
+      }
+    },
+    {
+      "term": "durable",
+      "meaning": {
+        "en": "Able to remain strong and useful over time.",
+        "zh": "持久的；能长期保持坚固与有效。"
+      },
+      "use": {
+        "en": "Trust makes an agreement more durable.",
+        "zh": "信任让协议更持久。"
+      }
+    },
+    {
+      "term": "eloquence",
+      "meaning": {
+        "en": "Fluent, persuasive, and graceful expression.",
+        "zh": "雄辩；流畅、有说服力且优美的表达。"
+      },
+      "use": {
+        "en": "Clarity mattered more than eloquence.",
+        "zh": "清晰比雄辩更重要。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in fact, weight, and contact.",
+      "zh": "清楚读出 fact、weight 和 contact 的词尾辅音。"
+    },
+    {
+      "en": "Use a falling tone for firm statements and a genuine rising invitation in Tell me what I am missing.",
+      "zh": "坚定陈述用降调；Tell me what I am missing 要用真诚邀请的升调。"
+    },
+    {
+      "en": "Link smoothly in structure of the answer and somewhere to begin.",
+      "zh": "在 structure of the answer 和 somewhere to begin 中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if the relationship matters as much as the decision.",
+      "zh": "跟读时，想象这段关系与最终决定同样重要。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: separate observation, interpretation, and need.",
+        "zh": "第一遍：分清观察、解释与需要。"
+      },
+      {
+        "en": "Pass two: make the listening questions sound genuinely open.",
+        "zh": "第二遍：让倾听的问题真正保持开放。"
+      },
+      {
+        "en": "Pass three: carry the final proposal with calm, shared resolve.",
+        "zh": "第三遍：用平静而共同的决心推进最后的提议。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which recent disagreement would benefit from a sentence without barbs?",
+      "zh": "最近哪一次分歧，会因一句不带刺的话而改善？"
+    },
+    {
+      "en": "What is one modest piece of shared ground you can name?",
+      "zh": "你能说出哪一小块真实的共同立场？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/build-the-bridge-from-both-banks/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/build-the-bridge-from-both-banks/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/build-the-bridge-from-both-banks/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/build-the-bridge-from-both-banks/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/build-the-bridge-from-both-banks/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/build-the-bridge-from-both-banks/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/build-the-bridge-from-both-banks/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/build-the-bridge-from-both-banks/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/build-the-bridge-from-both-banks/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/build-the-bridge-from-both-banks/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/build-the-bridge-from-both-banks/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/build-the-bridge-from-both-banks/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/build-the-bridge-from-both-banks/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/build-the-bridge-from-both-banks/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/build-the-bridge-from-both-banks/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/build-the-bridge-from-both-banks/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/build-the-bridge-from-both-banks/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/build-the-bridge-from-both-banks/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/build-the-bridge-from-both-banks/clips/vocabulary_4.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/build-the-bridge-from-both-banks/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/build-the-bridge-from-both-banks/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/build-the-bridge-from-both-banks/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/build-the-bridge-from-both-banks/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/build-the-bridge-from-both-banks/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/build-the-bridge-from-both-banks/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/build-the-bridge-from-both-banks/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/build-the-bridge-from-both-banks/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/build-the-bridge-from-both-banks/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/build-the-bridge-from-both-banks/clips/sources_0.mp3"
+    }
+  }
+}
