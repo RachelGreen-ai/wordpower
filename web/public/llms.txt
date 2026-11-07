@@ -94,6 +94,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Give the Work Its Season](https://wordpower-seven.vercel.app/read-aloud/give-the-work-its-season): An original reflection on humane ambition, patient craft, and building a life at a sustainable pace.
 - [Hold the Lantern Low](https://wordpower-seven.vercel.app/read-aloud/hold-the-lantern-low): An original reflection on quiet leadership, shared danger, and making the next step visible.
 - [Imagine the Unseen Life](https://wordpower-seven.vercel.app/read-aloud/imagine-the-unseen-life): An original reflection on moral imagination, fair judgment, and the stories hidden behind behavior.
+- [Keep a Chair for the Stranger](https://wordpower-seven.vercel.app/read-aloud/keep-a-chair-for-the-stranger): An original reflection on neighborliness, moral imagination, and the quiet architecture of belonging.
 - [Keep a Field Notebook](https://wordpower-seven.vercel.app/read-aloud/keep-a-field-notebook): An original reflection on attention, patient observation, and learning to see before we explain.
 - [Keep a Ledger of Surprises](https://wordpower-seven.vercel.app/read-aloud/keep-a-ledger-of-surprises): An original reflection on intelligent mistakes, honest review, and turning experience into better judgment.
 - [Keep a Light in the Window](https://wordpower-seven.vercel.app/read-aloud/keep-a-light-in-the-window): An original reflection on hospitality, belonging, and the quiet courage of making room.
@@ -136,6 +137,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Let the Eye Arrive Late](https://wordpower-seven.vercel.app/read-aloud/let-the-eye-arrive-late): An original reflection on drawing, patient observation, and learning to see beyond the name of a thing.
 - [Let the Night Resize the Day](https://wordpower-seven.vercel.app/read-aloud/let-the-night-resize-the-day): An original reflection on starlight, proportion, and returning to ordinary problems with a wider mind.
 - [Let the Path Interrupt You](https://wordpower-seven.vercel.app/read-aloud/let-the-path-interrupt-you): An original reflection on walking without conquest, noticing what resists hurry, and returning with a more spacious mind.
+- [Let the Question Ripen](https://wordpower-seven.vercel.app/read-aloud/let-the-question-ripen): An original reflection on inquiry, patient learning, and the courage to remain unfinished.
 - [Let the River Set the Pace](https://wordpower-seven.vercel.app/read-aloud/let-the-river-set-the-pace): An original reflection on attention, recovery, and finding a pace that can carry a whole life.
 - [Let the Stars Correct Your Scale](https://wordpower-seven.vercel.app/read-aloud/let-the-stars-correct-your-scale): An original reflection on scientific wonder, proportion, and the freedom of a larger view.
 - [Let the Work Ripen](https://wordpower-seven.vercel.app/read-aloud/let-the-work-ripen): An original reflection on patient craft, revision, and knowing when careful work is ready.
@@ -163,6 +165,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [The Patient Eye Sees More](https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more): An original reflection on observation, curiosity, and the discipline of seeing before naming.
 - [Practice the Art of Enough](https://wordpower-seven.vercel.app/read-aloud/practice-the-art-of-enough): An original reflection on gratitude, proportion, and the quiet wealth of an ordinary day.
 - [Read the River at Walking Speed](https://wordpower-seven.vercel.app/read-aloud/read-the-river-at-walking-speed): An original reflection on rivers, patient attention, and learning to notice change without rushing it.
+- [Read the Weather at Ground Level](https://wordpower-seven.vercel.app/read-aloud/read-the-weather-at-ground-level): An original reflection on close observation, seasonal intelligence, and returning to the living world.
 - [Read the Weather in the Trees](https://wordpower-seven.vercel.app/read-aloud/read-the-weather-in-the-trees): An original reflection on patient observation, local knowledge, and the intelligence of paying attention.
 - [Say the Name Again](https://wordpower-seven.vercel.app/read-aloud/say-the-name-again): An original reflection on names, attentive pronunciation, and the everyday dignity of trying again.
 - [Self-Trust Is an Inner Compass.](https://wordpower-seven.vercel.app/read-aloud/self-trust-inner-compass): A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.

@@ -1,0 +1,244 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "read-the-weather-at-ground-level",
+  "title": {
+    "en": "Read the Weather at Ground Level",
+    "zh": "在地面读懂天气"
+  },
+  "subtitle": {
+    "en": "An original reflection on close observation, seasonal intelligence, and returning to the living world.",
+    "zh": "一篇原创美文：关于细致观察、季节智慧，以及重返鲜活世界。"
+  },
+  "tags": [
+    "Nature",
+    "Attention",
+    "Observation",
+    "Calm",
+    "Wonder"
+  ],
+  "sources": [
+    {
+      "title": "Journals of Dorothy Wordsworth, Vol. 1",
+      "author": "Dorothy Wordsworth",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/42856",
+      "note": {
+        "en": "Public-domain inspiration from a tradition of close daily observation; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域日记中细察日常自然的传统；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with sensory precision and an unhurried pace. Let small changes in light, leaf, and air do the emotional work.",
+    "zh": "用感官的精确与从容节奏朗读。让光、叶片与空气的细微变化自然承载情绪。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Forecast the Body Can Understand",
+      "zh": "身体能够理解的预报"
+    },
+    "intro": {
+      "en": "This original passage invites us to notice weather not as background, but as a daily exchange with place.",
+      "zh": "这篇原创文章邀请我们把天气看作与地方每日发生的交流，而不只是背景。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin Below the Sky",
+          "zh": "1. 从天空之下开始"
+        },
+        "text": "The forecast says rain, but the ground tells a longer story. Dust has gathered in the seams of the path. Clover leaves show their pale undersides. Ants carry white grains toward higher cracks in the wall. The air near the pavement smells faintly of stone before a single drop falls. To notice weather at ground level is to recover a language the body partly remembers. We do not need to predict the storm. We only need to become available to the small announcements already being made.",
+        "coaching": {
+          "en": "Read the details slowly enough to see them. Let the final two sentences widen from observation into meaning.",
+          "zh": "细节要读得足够慢，让听者看见画面。最后两句从观察自然拓宽到意义。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Refuse the Generic Day",
+          "zh": "2. 拒绝千篇一律的一天"
+        },
+        "text": "Screens encourage us to call the day sunny, cloudy, cold, and move on. Outside, no day is so generic. Morning light may lie silver on one wall and amber on another. Wind may hurry above the roofs while a courtyard holds its warmth. After rain, the same street returns with darker bark, louder tires, and windows briefly doubled in puddles. Precise attention does not require poetic talent. It requires comparison: What is different from yesterday? What appeared only after I stopped naming the scene too soon?",
+        "coaching": {
+          "en": "Make silver and amber distinct. Give the two closing questions generous space.",
+          "zh": "把 silver 与 amber 的色彩差异读出来。结尾两个问题要留出充足空间。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let the Season Correct Your Pace",
+          "zh": "3. 让季节校正你的步伐"
+        },
+        "text": "A tree does not perform the same work in every month. There is a time for extension, a time for fruit, a time for drawing inward, and a time when bare structure is enough. Human schedules rarely honor such variation. We ask for permanent brightness, steady output, identical mornings. Then we treat fatigue as a private failure instead of information. The season does not excuse us from necessary work, but it can correct our scale. On a short winter day, completion may mean protecting one clear hour. In summer, it may mean leaving room for the long evening to surprise us.",
+        "coaching": {
+          "en": "Use a measured four-part rhythm for the tree’s seasons. Keep the practical examples tender and unsentimental.",
+          "zh": "树木四季的变化要用稳健的四拍节奏。实际例子读得温柔但不煽情。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Bring Back One True Detail",
+          "zh": "4. 带回一个真实细节"
+        },
+        "text": "When you return indoors, bring back one true detail. Not a photograph for display, necessarily, but a sentence the day could have given only to someone present: the first cool edge in the evening air; a sparrow bathing in a gutter; fog loosening its hold on the hill. Such details steady the voice because they replace borrowed generalities with contact. They remind us that life is not happening elsewhere, in a more dramatic climate or a more beautiful hour. It is arriving through this weather, on this street, against this skin. Look closely enough to receive it. Then speak from where you have actually stood.",
+        "coaching": {
+          "en": "Treat the three details as small discoveries. Finish intimately, with emphasis on this and actually stood.",
+          "zh": "把三个细节读成小小的发现。结尾要亲近，重读 this 和 actually stood。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "seam",
+      "meaning": {
+        "en": "A narrow line where two surfaces or pieces meet.",
+        "zh": "接缝；两个表面或部分相接的窄线。"
+      },
+      "use": {
+        "en": "Rainwater gathered in the seams of the pavement.",
+        "zh": "雨水积在路面的接缝里。"
+      }
+    },
+    {
+      "term": "faintly",
+      "meaning": {
+        "en": "Slightly or not strongly.",
+        "zh": "隐约地；轻微地。"
+      },
+      "use": {
+        "en": "The room smelled faintly of cedar.",
+        "zh": "房间里隐约有雪松的气味。"
+      }
+    },
+    {
+      "term": "generic",
+      "meaning": {
+        "en": "Lacking specific character or distinctive detail.",
+        "zh": "泛泛的；缺少具体特点或独特细节的。"
+      },
+      "use": {
+        "en": "Replace the generic description with one observed detail.",
+        "zh": "用一个观察到的细节替代泛泛的描述。"
+      }
+    },
+    {
+      "term": "draw inward",
+      "meaning": {
+        "en": "To reduce outward activity and gather energy or attention within.",
+        "zh": "向内收拢；减少外部活动，把能量或注意力收回来。"
+      },
+      "use": {
+        "en": "In winter, the garden seems to draw inward.",
+        "zh": "冬天，花园仿佛向内收拢。"
+      }
+    },
+    {
+      "term": "correct our scale",
+      "meaning": {
+        "en": "To restore a more realistic sense of size, pace, or importance.",
+        "zh": "校正尺度；恢复对大小、节奏或重要性的现实判断。"
+      },
+      "use": {
+        "en": "A walk outdoors can correct our scale after a tense meeting.",
+        "zh": "紧张会议后，到户外走走能帮助我们校正尺度。"
+      }
+    },
+    {
+      "term": "generality",
+      "meaning": {
+        "en": "A broad statement that lacks particular detail.",
+        "zh": "泛论；缺少具体细节的宽泛说法。"
+      },
+      "use": {
+        "en": "Her story became vivid when she replaced generalities with facts.",
+        "zh": "当她用事实替代泛泛之谈时，故事变得鲜活起来。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonants light but clear in small announcements already being made.",
+      "zh": "在 small announcements already being made 中辅音要轻而清晰。"
+    },
+    {
+      "en": "Use contrastive stress for silver on one wall and amber on another.",
+      "zh": "在 silver on one wall 与 amber on another 中使用对比重音。"
+    },
+    {
+      "en": "Build a grounded rhythm through this weather, on this street, against this skin.",
+      "zh": "在 this weather、on this street、against this skin 中建立踏实的递进节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are reporting small discoveries to someone walking beside you.",
+      "zh": "跟读时，想象你正向身边同行的人讲述一路上的细小发现。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make each sensory detail concrete and visible.",
+        "zh": "第一遍：把每个感官细节读得具体可见。"
+      },
+      {
+        "en": "Pass two: allow short pauses after changes in light, air, and season.",
+        "zh": "第二遍：光线、空气与季节发生变化后稍作停顿。"
+      },
+      {
+        "en": "Pass three: let the final lines sound present, local, and true.",
+        "zh": "第三遍：让结尾听起来身在此刻、扎根此地、真实可信。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What detail made today different from the day before?",
+      "zh": "哪一个细节让今天不同于昨天？"
+    },
+    {
+      "en": "How might the current season correct the pace you are demanding of yourself?",
+      "zh": "眼下的季节，可能如何校正你对自己提出的节奏要求？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/read-the-weather-at-ground-level/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/read-the-weather-at-ground-level/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/read-the-weather-at-ground-level/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/read-the-weather-at-ground-level/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/read-the-weather-at-ground-level/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/read-the-weather-at-ground-level/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/read-the-weather-at-ground-level/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/read-the-weather-at-ground-level/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/read-the-weather-at-ground-level/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/read-the-weather-at-ground-level/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/read-the-weather-at-ground-level/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/read-the-weather-at-ground-level/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/read-the-weather-at-ground-level/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/read-the-weather-at-ground-level/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/read-the-weather-at-ground-level/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/read-the-weather-at-ground-level/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/read-the-weather-at-ground-level/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/read-the-weather-at-ground-level/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/read-the-weather-at-ground-level/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/read-the-weather-at-ground-level/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/read-the-weather-at-ground-level/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/read-the-weather-at-ground-level/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/read-the-weather-at-ground-level/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/read-the-weather-at-ground-level/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/read-the-weather-at-ground-level/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/read-the-weather-at-ground-level/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/read-the-weather-at-ground-level/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/read-the-weather-at-ground-level/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/read-the-weather-at-ground-level/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/read-the-weather-at-ground-level/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/read-the-weather-at-ground-level/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/read-the-weather-at-ground-level/clips/sources_0.mp3"
+    }
+  }
+}

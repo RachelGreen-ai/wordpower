@@ -1,0 +1,244 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "let-the-question-ripen",
+  "title": {
+    "en": "Let the Question Ripen",
+    "zh": "让问题慢慢成熟"
+  },
+  "subtitle": {
+    "en": "An original reflection on inquiry, patient learning, and the courage to remain unfinished.",
+    "zh": "一篇原创美文：关于探究、耐心学习，以及允许自己尚未完成的勇气。"
+  },
+  "tags": [
+    "Learning",
+    "Inquiry",
+    "Patience",
+    "Career",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "How We Think",
+      "author": "John Dewey",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/37423",
+      "note": {
+        "en": "Public-domain inspiration on reflective inquiry; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对反思性探究的讨论；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert patience. Let the questions open space rather than demand an immediate answer.",
+    "zh": "用清醒而耐心的语气朗读。让问题打开空间，而不是逼迫答案立刻出现。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Intelligence of Not Yet",
+      "zh": "“尚未知道”的智慧"
+    },
+    "intro": {
+      "en": "This original passage considers how a good question changes while we observe, test, and listen.",
+      "zh": "这篇原创文章思考：当我们观察、尝试与倾听时，一个好问题会如何变化。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The First Answer Is Often a Doorway",
+          "zh": "1. 第一个答案往往只是一扇门"
+        },
+        "text": "A quick answer can be useful. It can also be a way of ending a conversation before the conversation has become interesting. We name the problem—lack of confidence, poor timing, the wrong job—and feel the relief of a label. Yet a label is not always an explanation. What happens if we stay one minute longer? Perhaps confidence disappears only in certain rooms. Perhaps the timing is wrong because the task has no clear edge. Perhaps the job is not wrong, but one part of it has gone silent. A patient question does not make us indecisive. It separates what merely sounds complete from what is actually true.",
+        "coaching": {
+          "en": "Keep the opening conversational. Give each perhaps a slightly different color, then land firmly on actually true.",
+          "zh": "开头保持自然对话感。三个 perhaps 各有一点不同语色，最后稳稳落在 actually true。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Carry It into the Day",
+          "zh": "2. 把问题带进日常"
+        },
+        "text": "Some questions cannot be solved at a desk because the evidence lives elsewhere. Carry the question into a meeting and notice when your attention brightens. Take it on a walk and listen for the sentence you keep rehearsing. Try the smaller version of the project. Ask a colleague what they see you doing well when you have stopped performing. Inquiry becomes richer when the world is allowed to answer back. The point is not to collect signs that flatter your preferred conclusion. It is to let contact with reality make the question more precise.",
+        "coaching": {
+          "en": "Use forward motion through the four actions. Slow down for the contrast between flattery and precision.",
+          "zh": "四个行动要读出推进感。读到取悦自己的证据与精确问题之间的对比时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Notice What the Question Costs",
+          "zh": "3. 看见问题的代价"
+        },
+        "text": "A question may sound noble while quietly protecting us from action. Should I discover my true calling? can postpone the less glamorous question: Whom can I help this week, with the skill I already have? At other times, action itself becomes an escape. We fill every hour so that we never ask whether the work still deserves our life. Good inquiry has a cost. It may cost the comfort of a grand story, the speed of a familiar routine, or the approval attached to an old identity. That cost is not proof that the question is right. It is simply part of the evidence.",
+        "coaching": {
+          "en": "Differentiate the two quoted questions: make the first expansive, the second practical. Keep the ending sober.",
+          "zh": "区分两个引述问题：第一个宽泛，第二个务实。结尾保持克制。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Choose a Working Answer",
+          "zh": "4. 选择一个暂行答案"
+        },
+        "text": "Eventually, a question must touch the ground. Choose a working answer—not a verdict carved in stone, but a direction sturdy enough for the next experiment. For one month, protect the morning hour. For three conversations, speak before your idea is polished. For one project, measure usefulness instead of applause. Then return with better evidence. A mature question does not vanish when we act; it travels with us, becoming less dramatic and more exact. We do not need to know the whole road in order to walk intelligently. We need a direction, a way to notice, and the humility to revise.",
+        "coaching": {
+          "en": "Make the three experiments concrete and rhythmic. Finish with calm authority on direction, notice, and revise.",
+          "zh": "三个尝试要读得具体、有节奏。结尾在 direction、notice 和 revise 上读出平静的笃定。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "inquiry",
+      "meaning": {
+        "en": "The careful act of asking questions and seeking understanding.",
+        "zh": "探究；通过认真提问来寻求理解。"
+      },
+      "use": {
+        "en": "Inquiry begins when we resist the convenient answer.",
+        "zh": "当我们不满足于方便的答案时，探究就开始了。"
+      }
+    },
+    {
+      "term": "rehearse",
+      "meaning": {
+        "en": "To practice or repeat words in preparation.",
+        "zh": "排练；预先反复练习要说的话。"
+      },
+      "use": {
+        "en": "I rehearsed the request before the meeting.",
+        "zh": "开会前，我预先练习了如何提出请求。"
+      }
+    },
+    {
+      "term": "precise",
+      "meaning": {
+        "en": "Exact, clear, and carefully defined.",
+        "zh": "精确的；清楚而界定明确的。"
+      },
+      "use": {
+        "en": "A precise question often produces a useful answer.",
+        "zh": "精确的问题往往能带来有用的答案。"
+      }
+    },
+    {
+      "term": "glamorous",
+      "meaning": {
+        "en": "Attractive because it seems exciting or impressive.",
+        "zh": "光鲜诱人的；因看似精彩或体面而吸引人。"
+      },
+      "use": {
+        "en": "The glamorous plan was less useful than the modest one.",
+        "zh": "那个光鲜的计划不如朴素的方案实用。"
+      }
+    },
+    {
+      "term": "working answer",
+      "meaning": {
+        "en": "A provisional answer used for action and further testing.",
+        "zh": "暂行答案；用于行动并继续检验的临时结论。"
+      },
+      "use": {
+        "en": "Treat the plan as a working answer, not a permanent identity.",
+        "zh": "把这个计划当作暂行答案，而不是永久身份。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To reconsider and improve something in light of new information.",
+        "zh": "修订；根据新信息重新思考并改进。"
+      },
+      "use": {
+        "en": "Strong thinkers revise without feeling defeated.",
+        "zh": "思考能力强的人会修正观点，而不把它视为失败。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the contrast clear in a label is not always an explanation.",
+      "zh": "清晰读出 a label 与 an explanation 的对比。"
+    },
+    {
+      "en": "Link smoothly through let contact with reality make the question more precise.",
+      "zh": "在 let contact with reality make the question more precise 中自然连读。"
+    },
+    {
+      "en": "Use balanced stress for a direction, a way to notice, and the humility to revise.",
+      "zh": "在 a direction、a way to notice 和 the humility to revise 中保持均衡重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a capable friend think without rushing.",
+      "zh": "跟读时，想象你正帮助一位能干的朋友从容思考，不急于下结论。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every question sound genuinely curious.",
+        "zh": "第一遍：让每个问题都带着真诚的好奇。"
+      },
+      {
+        "en": "Pass two: stress the concrete verbs—carry, notice, try, ask, and revise.",
+        "zh": "第二遍：重读 carry、notice、try、ask 和 revise 等具体动词。"
+      },
+      {
+        "en": "Pass three: keep the final paragraph grounded and decisive.",
+        "zh": "第三遍：最后一段要读得踏实而果断。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which question in your work needs better evidence rather than a faster answer?",
+      "zh": "你工作中的哪个问题，需要的是更好的证据，而不是更快的答案？"
+    },
+    {
+      "en": "What small experiment could give you a useful working answer?",
+      "zh": "哪一个小尝试，可以为你带来一个有用的暂行答案？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-question-ripen/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-question-ripen/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-question-ripen/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-question-ripen/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-question-ripen/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-question-ripen/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-question-ripen/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-question-ripen/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-question-ripen/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-question-ripen/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-question-ripen/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-question-ripen/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-question-ripen/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-question-ripen/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-question-ripen/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-question-ripen/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-question-ripen/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-question-ripen/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-question-ripen/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-question-ripen/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-question-ripen/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-question-ripen/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-question-ripen/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-question-ripen/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-question-ripen/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-question-ripen/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-question-ripen/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-question-ripen/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-question-ripen/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-question-ripen/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-question-ripen/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-question-ripen/clips/sources_0.mp3"
+    }
+  }
+}

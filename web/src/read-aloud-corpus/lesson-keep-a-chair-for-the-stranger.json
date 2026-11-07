@@ -1,0 +1,244 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "keep-a-chair-for-the-stranger",
+  "title": {
+    "en": "Keep a Chair for the Stranger",
+    "zh": "为陌生人留一把椅子"
+  },
+  "subtitle": {
+    "en": "An original reflection on neighborliness, moral imagination, and the quiet architecture of belonging.",
+    "zh": "一篇原创美文：关于邻里善意、道德想象，以及归属感的静默结构。"
+  },
+  "tags": [
+    "Moral imagination",
+    "Community",
+    "Empathy",
+    "Belonging",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "Twenty Years at Hull-House",
+      "author": "Jane Addams",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1325",
+      "note": {
+        "en": "Public-domain inspiration on democratic neighborliness; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对民主邻里关系的思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read warmly but without sentimentality. Let the ordinary objects—chair, cup, doorway—carry the meaning.",
+    "zh": "温暖朗读，但不要煽情。让椅子、杯子、门口这些普通物件承载意义。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Room We Make Between Us",
+      "zh": "我们彼此之间腾出的空间"
+    },
+    "intro": {
+      "en": "This original passage explores belonging as a series of practical choices rather than a private feeling.",
+      "zh": "这篇原创文章把归属感视为一连串实际选择，而不只是一种私人感受。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Belonging Has Furniture",
+          "zh": "1. 归属感也有家具"
+        },
+        "text": "We speak of belonging as though it lived entirely inside the heart. Yet belonging has furniture. It is the chair pulled away from a closed circle, the spare cup placed near the kettle, the name pronounced carefully on the second attempt. A room can announce, before anyone speaks, who is expected and who must ask permission to exist there. The same is true of a conversation, a classroom, a team. Welcome is not only an emotion we feel toward another person. It is a pattern of small decisions that makes participation possible.",
+        "coaching": {
+          "en": "Let the three objects appear clearly. Give extra weight to expected, permission, and participation.",
+          "zh": "把三个物件读得清晰可见。重读 expected、permission 和 participation。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Curiosity Without Inspection",
+          "zh": "2. 好奇，但不审问"
+        },
+        "text": "When someone seems unfamiliar, curiosity can become generous or greedy. Generous curiosity offers a door: What would you like us to understand? Greedy curiosity demands a performance: Explain why you are different. The distinction is felt in the body before it is explained in words. One question leaves room to decline; the other turns a person into material for the group. Moral imagination begins here, in remembering that another life is deep even when it is not available for our examination. We can be interested without being entitled.",
+        "coaching": {
+          "en": "Contrast the two questions distinctly. Slow down on deep and not available for our examination.",
+          "zh": "鲜明区分两个问题。读到 deep 和 not available for our examination 时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Help Travel Both Ways",
+          "zh": "3. 让帮助双向流动"
+        },
+        "text": "A community weakens when the same people are always helpers and the same people are always helped. The arrangement may look kind, but it quietly fixes everyone in place. Ask for advice from the person you usually instruct. Receive the dish whose name you cannot pronounce. Let the newcomer explain the shortcut, repair the hinge, choose the music, or disagree with the plan. Mutuality does not pretend that power is equal. It creates occasions in which dignity can move in more than one direction.",
+        "coaching": {
+          "en": "Build energy through the practical examples. Make mutuality clear and speakable, not academic.",
+          "zh": "通过一连串实际例子增强语势。把 mutuality 读得清楚自然，不要学术腔。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave the Place More Enterable",
+          "zh": "4. 让这个地方更容易进入"
+        },
+        "text": "We will not remove every barrier in one evening. We may say the wrong thing, overlook a custom, or discover that our welcome was designed for people much like ourselves. The useful response is not ceremonial shame. It is repair. Move the meeting time. Explain the unwritten rule. Add the missing name to the invitation. Apologize without asking to be comforted. Then look again at the room. A just community is never finished; it is repeatedly made more enterable. Keep one chair free—not as a symbol of your goodness, but as a practical promise that the circle can still change shape.",
+        "coaching": {
+          "en": "Keep the repair list brisk and concrete. End quietly, emphasizing practical promise and change shape.",
+          "zh": "修补清单要读得利落具体。结尾放轻，重读 practical promise 和 change shape。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "sentimentality",
+      "meaning": {
+        "en": "Excessive emotion that simplifies a complex reality.",
+        "zh": "滥情；用过度情绪把复杂现实简单化。"
+      },
+      "use": {
+        "en": "The story offers warmth without sentimentality.",
+        "zh": "这个故事温暖，却不滥情。"
+      }
+    },
+    {
+      "term": "participation",
+      "meaning": {
+        "en": "The act of taking part in an activity or decision.",
+        "zh": "参与；加入一项活动或决定。"
+      },
+      "use": {
+        "en": "Clear instructions make participation easier.",
+        "zh": "清晰的说明让参与变得更容易。"
+      }
+    },
+    {
+      "term": "entitled",
+      "meaning": {
+        "en": "Believing one has an automatic right to something.",
+        "zh": "自认为有权的；觉得自己理所当然可以得到某物。"
+      },
+      "use": {
+        "en": "Interest does not make us entitled to a private story.",
+        "zh": "感兴趣并不意味着我们有权听取别人的私人故事。"
+      }
+    },
+    {
+      "term": "mutuality",
+      "meaning": {
+        "en": "A relationship in which giving and receiving move both ways.",
+        "zh": "互惠；给予与接受能够双向流动的关系。"
+      },
+      "use": {
+        "en": "Real partnership depends on mutuality.",
+        "zh": "真正的伙伴关系依赖互惠。"
+      }
+    },
+    {
+      "term": "unwritten rule",
+      "meaning": {
+        "en": "An expectation understood by insiders but not formally stated.",
+        "zh": "不成文规则；圈内人理解却未被明确说明的要求。"
+      },
+      "use": {
+        "en": "New colleagues may not know the unwritten rule.",
+        "zh": "新同事可能不了解那条不成文规则。"
+      }
+    },
+    {
+      "term": "enterable",
+      "meaning": {
+        "en": "Able to be entered or joined with dignity and reasonable ease.",
+        "zh": "可进入的；能够有尊严且较容易地加入。"
+      },
+      "use": {
+        "en": "Good design makes a public space more enterable.",
+        "zh": "好的设计让公共空间更容易进入。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use gentle parallel rhythm for the chair, the cup, and the carefully pronounced name.",
+      "zh": "在 chair、cup 与 carefully pronounced name 的排比中使用轻柔节奏。"
+    },
+    {
+      "en": "Make the contrast audible in interested without being entitled.",
+      "zh": "清楚读出 interested 与 entitled 之间的对比。"
+    },
+    {
+      "en": "Keep the consonants crisp in practical promise that the circle can still change shape.",
+      "zh": "在 practical promise that the circle can still change shape 中保持辅音清晰。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are inviting people into a real room where dignity matters.",
+      "zh": "跟读时，想象你正邀请人们进入一个真正重视尊严的房间。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make each ordinary object visible through your voice.",
+        "zh": "第一遍：用声音让每个日常物件变得可见。"
+      },
+      {
+        "en": "Pass two: sharpen the contrasts between welcome and inspection, help and mutuality.",
+        "zh": "第二遍：读清欢迎与审问、帮助与互惠之间的对比。"
+      },
+      {
+        "en": "Pass three: let the final promise sound practical, not heroic.",
+        "zh": "第三遍：让最后的承诺显得务实，而非英雄式。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What unwritten rule could you explain to make one group more enterable?",
+      "zh": "你可以说明哪一条不成文规则，让一个群体更容易加入？"
+    },
+    {
+      "en": "Where could you let help or expertise travel in the other direction?",
+      "zh": "你可以在哪里让帮助或专长向另一个方向流动？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-chair-for-the-stranger/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-chair-for-the-stranger/clips/sources_0.mp3"
+    }
+  }
+}
