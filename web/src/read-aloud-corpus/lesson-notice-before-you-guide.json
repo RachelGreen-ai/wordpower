@@ -1,0 +1,244 @@
+{
+  "lessonId": "notice-before-you-guide",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Notice Before You Guide",
+    "zh": "引导之前，先去看见"
+  },
+  "subtitle": {
+    "en": "An original reflection on parenting, patient observation, and the wisdom of making room.",
+    "zh": "一篇原创美文：关于养育、耐心观察，以及为成长留出空间的智慧。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Attention",
+    "Growth",
+    "Patience",
+    "Trust"
+  ],
+  "sources": [
+    {
+      "title": "The Montessori Method",
+      "author": "Maria Montessori",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/39863",
+      "note": {
+        "en": "Public-domain inspiration for observing children with respect; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中尊重地观察儿童的理念；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with patience rather than sentimentality. Let the small household details feel exact, and give the practical sentences a warm, steady pace.",
+    "zh": "朗读时要耐心，但不要过度煽情。把家庭细节读得准确，实用句保持温暖、稳定的节奏。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Useful Half-Step Back",
+      "zh": "有用的半步后退"
+    },
+    "intro": {
+      "en": "This original passage considers how adults can offer children guidance without crowding out discovery.",
+      "zh": "这篇原创文章思考成年人如何给予孩子引导，同时不挤掉他们自行发现的空间。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Hand That Arrives Too Soon",
+          "zh": "1. 过早伸出的手"
+        },
+        "text": "A child is fastening a coat. The second button enters the wrong hole, the fabric twists, and an adult hand moves forward almost by reflex. We know how to solve this small disorder. We are late for the bus. Help seems identical to love. Yet the child is not only closing a coat. She is studying pressure, sequence, frustration, and the surprising obedience of her own fingers. If we finish every difficult motion, we remove the error but also the evidence: I tried, I adjusted, I can. Sometimes care is a hand offered quickly. Sometimes it is a hand kept nearby, open and still.",
+        "coaching": {
+          "en": "Make the scene visible and unhurried. Give the three short claims— I tried, I adjusted, I can—clear, growing confidence.",
+          "zh": "把场景读得清晰而从容。I tried、I adjusted、I can 三个短句要层层增强信心。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Observation Is Active",
+          "zh": "2. 观察是一种主动行为"
+        },
+        "text": "Standing back does not mean becoming absent. Good observation is busy with questions. Is the task merely slow, or truly unsafe? Is the child asking for rescue, company, or one useful clue? What changes after the third attempt? An attentive adult notices the clenched jaw before the tears, the repeated strategy that no longer works, the moment pride turns into panic. Then guidance can be precise. Try holding the cloth lower. Would you like me to begin, or would you like another minute? Such language preserves agency. It says: the problem is real, your effort is visible, and help does not have to take the work away from you.",
+        "coaching": {
+          "en": "Let the questions sound genuinely curious. Read the two sample prompts slowly enough that a listener could borrow them today.",
+          "zh": "把问题读出真正的好奇。两个示范句放慢，让听者今天就能借来使用。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Prepare the Room, Not the Performance",
+          "zh": "3. 准备环境，而非表演"
+        },
+        "text": "Many struggles become gentler when the environment changes. A low hook can do more than five reminders. A small jug invites participation better than a heavy one guarded by adults. Time placed around a task is also part of the room. When every morning is arranged at the edge of lateness, independence becomes a luxury no one can afford. We need not redesign childhood into a perfect workshop. We can simply notice where our arrangements contradict our hopes. If we want children to contribute, can they reach what they need? If we want honesty, can a mistake be admitted without humiliation? The room teaches before the lecture begins.",
+        "coaching": {
+          "en": "Keep the examples concrete. Stress environment changes, reach, and without humiliation; finish the final sentence with quiet authority.",
+          "zh": "例子要读得具体。重读 environment changes、reach 和 without humiliation；最后一句安静而有分量。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Love the Person Who Is Becoming",
+          "zh": "4. 去爱那个正在成为的人"
+        },
+        "text": "A child cannot be reduced to today's behavior. The one who spills the water may be learning to serve a table. The one who argues may be testing the shape of fairness. The one who retreats may be gathering language for tomorrow. This does not make every action acceptable; boundaries still matter. But correction changes when curiosity stands beside it. Instead of asking only, How do I stop this? we may ask, What capacity is trying, clumsily, to emerge? Parenting then becomes less like sculpting a fixed figure and more like tending conditions for a living one. We guide, we protect, we repair. And often, before doing any of these well, we take one useful half-step back and notice who is there.",
+        "coaching": {
+          "en": "Hold both tenderness and boundaries. Widen the tone on the central question, then close with a gentle, deliberate half-step back.",
+          "zh": "同时保留温柔与边界。核心问题处打开语气，结尾的 half-step back 要轻柔而坚定。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "by reflex",
+      "meaning": {
+        "en": "Automatically, before conscious thought.",
+        "zh": "下意识地；尚未有意识思考便作出反应。"
+      },
+      "use": {
+        "en": "I reached for my phone by reflex.",
+        "zh": "我下意识地伸手去拿手机。"
+      }
+    },
+    {
+      "term": "preserve agency",
+      "meaning": {
+        "en": "Protect someone's ability to choose and act for themselves.",
+        "zh": "保留一个人自主选择和行动的能力。"
+      },
+      "use": {
+        "en": "A useful hint can preserve the learner's agency.",
+        "zh": "有用的提示可以保留学习者的自主性。"
+      }
+    },
+    {
+      "term": "clue",
+      "meaning": {
+        "en": "A piece of information that helps solve a problem.",
+        "zh": "有助于解决问题的线索。"
+      },
+      "use": {
+        "en": "Give me one clue, but not the whole answer.",
+        "zh": "给我一个线索，但不要把完整答案告诉我。"
+      }
+    },
+    {
+      "term": "contradict",
+      "meaning": {
+        "en": "To conflict with or work against something.",
+        "zh": "与某事矛盾；和某个目标相抵触。"
+      },
+      "use": {
+        "en": "Our schedule contradicts our wish for calm mornings.",
+        "zh": "我们的日程安排与从容早晨的愿望相矛盾。"
+      }
+    },
+    {
+      "term": "humiliation",
+      "meaning": {
+        "en": "A painful loss of dignity or self-respect.",
+        "zh": "羞辱；尊严或自尊受到伤害。"
+      },
+      "use": {
+        "en": "Correction works better without humiliation.",
+        "zh": "不带羞辱的纠正效果更好。"
+      }
+    },
+    {
+      "term": "emerge",
+      "meaning": {
+        "en": "To become visible, known, or developed.",
+        "zh": "显现；逐渐形成或发展出来。"
+      },
+      "use": {
+        "en": "Her confidence emerged through repeated practice.",
+        "zh": "她的信心在反复练习中逐渐显现。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in kept nearby, open and still.",
+      "zh": "清楚读出 kept nearby, open and still 中的词尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress in merely slow or truly unsafe.",
+      "zh": "在 merely slow or truly unsafe 中使用对比重音。"
+    },
+    {
+      "en": "Link smoothly through what capacity is trying to emerge.",
+      "zh": "在 what capacity is trying to emerge 中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a caring adult replace urgency with precise attention.",
+      "zh": "跟读时，想象你正帮助一位充满关爱的成年人，用准确的关注替代急切。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make each household image clear and physical.",
+        "zh": "第一遍：把每个家庭场景读得清晰、具体。"
+      },
+      {
+        "en": "Pass two: leave a full beat after each reflective question.",
+        "zh": "第二遍：每个反思问题之后留出完整一拍。"
+      },
+      {
+        "en": "Pass three: keep the ending warm, practical, and free of blame.",
+        "zh": "第三遍：结尾保持温暖、实际，不带责备。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where might one useful half-step back create more learning?",
+      "zh": "在哪个场景中，后退有用的半步能带来更多学习？"
+    },
+    {
+      "en": "What small change could make your environment support the behavior you hope for?",
+      "zh": "你可以做出什么小改变，让环境支持你所期待的行为？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/notice-before-you-guide/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/notice-before-you-guide/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/notice-before-you-guide/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/notice-before-you-guide/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/notice-before-you-guide/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/notice-before-you-guide/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/notice-before-you-guide/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/notice-before-you-guide/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/notice-before-you-guide/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/notice-before-you-guide/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/notice-before-you-guide/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/notice-before-you-guide/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/notice-before-you-guide/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/notice-before-you-guide/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/notice-before-you-guide/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/notice-before-you-guide/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/notice-before-you-guide/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/notice-before-you-guide/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/notice-before-you-guide/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/notice-before-you-guide/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/notice-before-you-guide/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/notice-before-you-guide/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/notice-before-you-guide/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/notice-before-you-guide/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/notice-before-you-guide/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/notice-before-you-guide/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/notice-before-you-guide/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/notice-before-you-guide/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/notice-before-you-guide/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/notice-before-you-guide/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/notice-before-you-guide/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/notice-before-you-guide/clips/sources_0.mp3"
+    }
+  }
+}

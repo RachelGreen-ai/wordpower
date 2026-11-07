@@ -1,0 +1,244 @@
+{
+  "lessonId": "borrow-courage-from-evidence",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Borrow Courage from Evidence",
+    "zh": "向证据借一点勇气"
+  },
+  "subtitle": {
+    "en": "An original reflection on self-trust, tested judgment, and acting before certainty arrives.",
+    "zh": "一篇原创美文：关于自我信任、经检验的判断，以及在确定到来之前采取行动。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Self-trust",
+    "Courage",
+    "Decisions",
+    "Learning",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Essays, First Series",
+      "author": "Ralph Waldo Emerson",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/16643",
+      "note": {
+        "en": "Public-domain inspiration for self-reliance; this lesson offers an original, evidence-based interpretation and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对自立的思考；本课以证据为基础作原创阐释，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded courage, not bravado. Keep the examples conversational and let each practical question create forward motion.",
+    "zh": "朗读时要有踏实的勇气，不要逞强。例子保持口语感，让每个实用问题推动语势向前。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Case You Can Make to Yourself",
+      "zh": "一份能向自己说明的理由"
+    },
+    "intro": {
+      "en": "This original passage explores a form of self-trust built from memory, experiment, and honest limits.",
+      "zh": "这篇原创文章探索一种由记忆、尝试与诚实边界建立起来的自我信任。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Confidence Is Not a Weather Report",
+          "zh": "1. 信心不是天气预报"
+        },
+        "text": "We often wait for confidence as if it were weather: a clear front moving toward us, certain to arrive if we postpone the journey long enough. Meanwhile, the application remains unsent, the difficult call unmade, the new skill safely admired from a distance. But confidence rarely visits an action it has never met. More often it appears afterward, carrying evidence. You spoke and survived the trembling. You asked and received an answer. You tried, adjusted, and found that embarrassment had an edge you could cross. Courage need not begin as a feeling. It can begin as a small agreement with reality: I do not feel ready, and I can still take the next bounded step.",
+        "coaching": {
+          "en": "Keep the weather image light. Build conviction through the three short examples, then land firmly on bounded step.",
+          "zh": "天气意象读得轻巧。三个短例逐渐增强笃定，最后稳稳落在 bounded step。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Open the Record",
+          "zh": "2. 翻开记录"
+        },
+        "text": "When doubt becomes loud, memory becomes strangely selective. It displays the missed train and hides the journey you planned well; it enlarges one awkward meeting and misfiles the months of dependable work. So open the record deliberately. Name three occasions when you learned under pressure. Write down a promise you kept when no one was checking. Recall a mistake you repaired instead of defending. This is not flattering yourself. It is correcting incomplete data. Self-trust grows less from declaring that you are exceptional than from noticing that you have been responsive: able to listen, revise, seek help, and continue.",
+        "coaching": {
+          "en": "Read the examples as evidence being placed on a table. Contrast exceptional with responsive clearly.",
+          "zh": "把例子读成一项项摆上桌面的证据。清楚对比 exceptional 与 responsive。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Test the Decision at Human Scale",
+          "zh": "3. 用人的尺度检验决定"
+        },
+        "text": "A large decision can become theatrical inside the mind. Every choice seems permanent; every risk appears to contain an entire future. Bring it back to human scale. What is reversible? What can be tested for two weeks? Which conversation would replace imagination with information? A trial project may teach more than another month of private debate. One honest question may reveal whether the opportunity is real or merely attractive from a distance. Good judgment does not eliminate uncertainty. It reduces avoidable mystery and reserves courage for what cannot be known in advance.",
+        "coaching": {
+          "en": "Give each question room to work. Stress reversible, information, and cannot be known in advance.",
+          "zh": "每个问题都要留出思考空间。重读 reversible、information 和 cannot be known in advance。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Trust Yourself to Respond",
+          "zh": "4. 相信自己能够回应"
+        },
+        "text": "The deepest promise is not that your choice will be flawless. No evidence can guarantee that. The stronger promise is that you will remain available to what happens next. If new facts arrive, you will look. If harm appears, you will repair what you can. If the path closes, you will grieve, learn, and choose again. This kind of trust is flexible without being weak. It does not demand control over the future; it asks for participation in it. Before the next brave step, gather the evidence you honestly possess. Then borrow from it—not certainty, not applause, but enough courage to enter the unfinished day and meet your own response there.",
+        "coaching": {
+          "en": "Let the repeated if clauses sound steady and capable. Finish without grandeur, emphasizing enough courage and unfinished day.",
+          "zh": "重复的 if 从句要读得稳定、有担当。结尾不要宏大，重读 enough courage 和 unfinished day。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "postpone",
+      "meaning": {
+        "en": "To delay an action until a later time.",
+        "zh": "推迟；把行动延后到另一个时间。"
+      },
+      "use": {
+        "en": "Do not postpone the conversation while waiting to feel fearless.",
+        "zh": "不要因为等待自己不再害怕，就一再推迟那场谈话。"
+      }
+    },
+    {
+      "term": "bounded step",
+      "meaning": {
+        "en": "A limited, manageable action with a clear scope.",
+        "zh": "边界清楚、规模可控的一步行动。"
+      },
+      "use": {
+        "en": "A bounded step can turn anxiety into useful information.",
+        "zh": "有边界的一小步，可以把焦虑转化为有用的信息。"
+      }
+    },
+    {
+      "term": "selective",
+      "meaning": {
+        "en": "Choosing or noticing some things while excluding others.",
+        "zh": "有选择性的；只注意或选择一部分而忽略其他部分。"
+      },
+      "use": {
+        "en": "Under stress, memory can become selective.",
+        "zh": "在压力之下，记忆可能变得很有选择性。"
+      }
+    },
+    {
+      "term": "responsive",
+      "meaning": {
+        "en": "Ready and able to notice, adapt, and respond well.",
+        "zh": "善于回应的；能够察觉情况、作出调整并妥善回应。"
+      },
+      "use": {
+        "en": "A responsive leader listens before changing course.",
+        "zh": "善于回应的领导者会先倾听，再调整方向。"
+      }
+    },
+    {
+      "term": "reversible",
+      "meaning": {
+        "en": "Able to be changed back or undone.",
+        "zh": "可逆的；可以改回原状或撤销的。"
+      },
+      "use": {
+        "en": "Because the trial was reversible, we could learn without betting everything.",
+        "zh": "因为这次尝试是可逆的，我们不必孤注一掷也能从中学习。"
+      }
+    },
+    {
+      "term": "avoidable mystery",
+      "meaning": {
+        "en": "Uncertainty that can be reduced by asking, testing, or gathering facts.",
+        "zh": "可以通过提问、尝试或收集事实来减少的不确定性。"
+      },
+      "use": {
+        "en": "One honest question removed the avoidable mystery.",
+        "zh": "一个诚实的问题消除了那份本可避免的不确定。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the contrast crisp in I do not feel ready, and I can still take the next bounded step.",
+      "zh": "清晰读出 I do not feel ready 与 I can still take the next bounded step 之间的转折。"
+    },
+    {
+      "en": "Link naturally through able to listen, revise, seek help, and continue.",
+      "zh": "在 able to listen, revise, seek help, and continue 中自然连读。"
+    },
+    {
+      "en": "Use steady parallel rhythm for you will look, you will repair, and you will choose again.",
+      "zh": "在 you will look、you will repair 和 you will choose again 中保持稳定的排比节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a thoughtful friend act without pretending to feel certain.",
+      "zh": "跟读时，想象你正帮助一位善于思考的朋友采取行动，同时不假装自己已经确定。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the practical examples sound conversational and specific.",
+        "zh": "第一遍：把每个实际例子读得自然、具体。"
+      },
+      {
+        "en": "Pass two: stress each contrast between certainty and responsive action.",
+        "zh": "第二遍：重读确定无疑与灵活行动之间的每处对比。"
+      },
+      {
+        "en": "Pass three: let the final sentence carry calm, evidence-based courage.",
+        "zh": "第三遍：让最后一句带着平静、以证据为基础的勇气。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What past action gives you honest evidence that you can handle the next step?",
+      "zh": "过去的哪次行动，为你能够应对下一步提供了诚实的证据？"
+    },
+    {
+      "en": "Which uncertainty could you reduce with one reversible experiment or honest question?",
+      "zh": "哪一份不确定，可以通过一次可逆的尝试或一个诚实的问题来减少？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/borrow-courage-from-evidence/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/borrow-courage-from-evidence/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/borrow-courage-from-evidence/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/borrow-courage-from-evidence/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/borrow-courage-from-evidence/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/borrow-courage-from-evidence/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/borrow-courage-from-evidence/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/borrow-courage-from-evidence/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/borrow-courage-from-evidence/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/borrow-courage-from-evidence/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/borrow-courage-from-evidence/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/borrow-courage-from-evidence/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/borrow-courage-from-evidence/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/borrow-courage-from-evidence/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/borrow-courage-from-evidence/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/borrow-courage-from-evidence/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/borrow-courage-from-evidence/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/borrow-courage-from-evidence/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/borrow-courage-from-evidence/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/borrow-courage-from-evidence/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/borrow-courage-from-evidence/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/borrow-courage-from-evidence/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/borrow-courage-from-evidence/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/borrow-courage-from-evidence/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/borrow-courage-from-evidence/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/borrow-courage-from-evidence/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/borrow-courage-from-evidence/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/borrow-courage-from-evidence/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/borrow-courage-from-evidence/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/borrow-courage-from-evidence/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/borrow-courage-from-evidence/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/borrow-courage-from-evidence/clips/sources_0.mp3"
+    }
+  }
+}

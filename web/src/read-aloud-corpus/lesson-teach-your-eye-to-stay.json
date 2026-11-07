@@ -1,0 +1,244 @@
+{
+  "lessonId": "teach-your-eye-to-stay",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Teach Your Eye to Stay",
+    "zh": "教你的目光停留"
+  },
+  "subtitle": {
+    "en": "An original reflection on drawing, patient attention, and learning to see beyond the label.",
+    "zh": "一篇原创美文：关于绘画、耐心关注，以及越过标签去真正看见。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Art",
+    "Attention",
+    "Learning",
+    "Craft",
+    "Perception"
+  ],
+  "sources": [
+    {
+      "title": "The Elements of Drawing",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30325",
+      "note": {
+        "en": "Public-domain inspiration for disciplined visual attention; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对视觉专注的训练；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if guiding someone through a quiet studio. Keep the visual details exact, and let observation feel energetic rather than sleepy.",
+    "zh": "像在安静的画室里引导他人一样朗读。视觉细节要准确，让观察显得有活力，而非困倦。"
+  },
+  "passage": {
+    "title": {
+      "en": "Before the Object Becomes a Name",
+      "zh": "在事物变成名称之前"
+    },
+    "intro": {
+      "en": "This original passage explores how drawing can retrain attention, even when no finished picture is required.",
+      "zh": "这篇原创文章探索绘画如何重新训练注意力，即使我们并不需要完成一幅作品。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Cup You Think You Know",
+          "zh": "1. 你以为熟悉的杯子"
+        },
+        "text": "Place an ordinary cup near a window and try to draw it. At once, the mind offers a shortcut: cup, handle, oval, done. The hand follows the label and produces a symbol that could belong to any kitchen. But the object in front of you is less obedient. Its rim is not one line but two. The handle disappears behind the body, then returns with a different curve. A pale reflection interrupts the glaze. The table rises toward the back because vision has its own geometry. Drawing begins when certainty becomes specific embarrassment: you know what a cup is, yet you have not fully seen this cup.",
+        "coaching": {
+          "en": "Begin lightly, then sharpen the details one by one. Pause before this cup and give it real emphasis.",
+          "zh": "开头轻松，随后逐一读清细节。在 this cup 前停顿，并真正重读。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Stay Past the First Answer",
+          "zh": "2. 越过第一个答案继续停留"
+        },
+        "text": "The useful skill is not a talented hand. It is an eye willing to remain after the first answer arrives. Look again at the space inside the handle. Is it round, narrow, tilted? Compare its width with the cup's body. Notice where the darkest dark actually sits. Each comparison replaces assumption with relation. This habit travels well beyond the studio. In a meeting, it asks what was said rather than what we expected to hear. In a landscape, it discovers that distant trees are not simply green. In a friendship, it notices the pause beneath a cheerful reply. Attention becomes generous when it allows reality to be more detailed than our categories.",
+        "coaching": {
+          "en": "Make the three questions exploratory. Build a steady rhythm through the meeting, landscape, and friendship examples.",
+          "zh": "三个问题要读出探索感。会议、风景、友谊三个例子保持稳定递进的节奏。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Error Become Information",
+          "zh": "3. 让错误成为信息"
+        },
+        "text": "A drawing gives mistakes somewhere visible to live. The line leans too far; the shadow is too heavy; the two sides refuse to meet. We may reach for an eraser as if removing evidence from a trial. Yet a wrong line can be a measuring instrument. It shows the difference between what we assumed and what the eye is beginning to understand. Correct beside it. Compare again. The page then records not failure but revision—the mind learning in public. This is why patient craft can strengthen courage. It makes correction ordinary. It teaches us to say, without collapse or disguise, I placed that badly. Now I can see more.",
+        "coaching": {
+          "en": "Keep the errors factual, not dramatic. Give the final two sentences a clear, grounded confidence.",
+          "zh": "错误要读得客观，不必戏剧化。最后两句读出清楚、踏实的信心。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry the Studio Outside",
+          "zh": "4. 把画室带到外面"
+        },
+        "text": "You do not need to become an artist to practice this way of seeing. Spend five minutes with a leaf, a shoe, the corner of a building, or a face you love. Ask where the edge truly turns. Find one color hiding inside another. Notice the shape made by empty space. The result may be awkward, and that is no loss. The deeper work is happening before the pencil moves: attention is becoming less hurried and less certain of its shortcuts. Later, the street may look newly built. Familiar people may recover their mystery. The world has not added detail for your benefit. You have simply taught your eye to stay long enough to receive it.",
+        "coaching": {
+          "en": "Invite rather than command. Let the list feel playful, then slow the final sentence so receive it lands softly.",
+          "zh": "语气要像邀请，而非命令。列举读得轻快，最后一句放慢，让 receive it 轻轻落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "shortcut",
+      "meaning": {
+        "en": "A quicker method that may skip important detail.",
+        "zh": "捷径；可能省略重要细节的快速方法。"
+      },
+      "use": {
+        "en": "The label became a mental shortcut.",
+        "zh": "这个标签成了一条思维捷径。"
+      }
+    },
+    {
+      "term": "glaze",
+      "meaning": {
+        "en": "A smooth, often shiny coating on pottery.",
+        "zh": "陶器表面的光滑釉层。"
+      },
+      "use": {
+        "en": "Window light moved across the blue glaze.",
+        "zh": "窗光掠过蓝色釉面。"
+      }
+    },
+    {
+      "term": "assumption",
+      "meaning": {
+        "en": "Something accepted as true without enough evidence.",
+        "zh": "未经充分证据便认定为真的假设。"
+      },
+      "use": {
+        "en": "Comparison replaced my first assumption.",
+        "zh": "比较推翻了我最初的假设。"
+      }
+    },
+    {
+      "term": "measuring instrument",
+      "meaning": {
+        "en": "A tool used to reveal size, amount, or difference.",
+        "zh": "用来显示大小、数量或差异的测量工具。"
+      },
+      "use": {
+        "en": "The rough sketch became a measuring instrument.",
+        "zh": "这幅草图成了一个测量工具。"
+      }
+    },
+    {
+      "term": "revision",
+      "meaning": {
+        "en": "The act of improving something by reconsidering and changing it.",
+        "zh": "修订；重新考虑并修改以完善事物。"
+      },
+      "use": {
+        "en": "Good writing depends on honest revision.",
+        "zh": "好文章离不开诚实的修订。"
+      }
+    },
+    {
+      "term": "recover their mystery",
+      "meaning": {
+        "en": "Become interesting and not fully knowable again.",
+        "zh": "重新显出其神秘与不可穷尽之处。"
+      },
+      "use": {
+        "en": "Slow attention helped familiar streets recover their mystery.",
+        "zh": "缓慢的关注让熟悉的街道重获神秘感。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the contrast crisp in not one line but two.",
+      "zh": "清晰读出 not one line but two 中的对比。"
+    },
+    {
+      "en": "Link naturally in what the eye is beginning to understand.",
+      "zh": "在 what the eye is beginning to understand 中自然连读。"
+    },
+    {
+      "en": "Use a gentle falling tone for Now I can see more.",
+      "zh": "Now I can see more 使用轻柔的降调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a hurried learner discover that looking is an active craft.",
+      "zh": "跟读时，想象你正帮助一位匆忙的学习者发现：观看是一门主动的技艺。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every line, curve, shadow, and color visible.",
+        "zh": "第一遍：让每条线、曲线、阴影和颜色都清晰可见。"
+      },
+      {
+        "en": "Pass two: stress each contrast between labels and direct seeing.",
+        "zh": "第二遍：重读标签与直接观看之间的每处对比。"
+      },
+      {
+        "en": "Pass three: let the ending open into quiet wonder.",
+        "zh": "第三遍：让结尾自然打开，进入安静的惊奇。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar object have you mostly been seeing as a label?",
+      "zh": "哪个熟悉的物品，你大多只是把它当成一个名称来看？"
+    },
+    {
+      "en": "Where could a visible mistake become useful information?",
+      "zh": "在哪件事上，一个看得见的错误可以变成有用的信息？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/teach-your-eye-to-stay/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/teach-your-eye-to-stay/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/teach-your-eye-to-stay/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/teach-your-eye-to-stay/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/teach-your-eye-to-stay/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/teach-your-eye-to-stay/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/teach-your-eye-to-stay/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/teach-your-eye-to-stay/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/teach-your-eye-to-stay/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/teach-your-eye-to-stay/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/teach-your-eye-to-stay/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/teach-your-eye-to-stay/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/teach-your-eye-to-stay/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/teach-your-eye-to-stay/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/teach-your-eye-to-stay/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/teach-your-eye-to-stay/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/teach-your-eye-to-stay/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/teach-your-eye-to-stay/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/teach-your-eye-to-stay/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/teach-your-eye-to-stay/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/teach-your-eye-to-stay/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/teach-your-eye-to-stay/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/teach-your-eye-to-stay/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/teach-your-eye-to-stay/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/teach-your-eye-to-stay/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/teach-your-eye-to-stay/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/teach-your-eye-to-stay/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/teach-your-eye-to-stay/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/teach-your-eye-to-stay/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/teach-your-eye-to-stay/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/teach-your-eye-to-stay/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/teach-your-eye-to-stay/clips/sources_0.mp3"
+    }
+  }
+}

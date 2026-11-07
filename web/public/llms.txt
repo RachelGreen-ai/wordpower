@@ -69,6 +69,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Begin Before You Feel Ready.](https://wordpower-seven.vercel.app/read-aloud/begin-before-ready): A William James-inspired passage on habit, attention, and the quiet courage of first actions.
 - [Bend Before You Break](https://wordpower-seven.vercel.app/read-aloud/bend-before-you-break): An original reflection on resilient strength, adaptation, and staying rooted while circumstances change.
 - [Borrow Another Window](https://wordpower-seven.vercel.app/read-aloud/borrow-another-window): An original reflection on moral imagination, incomplete stories, and the effort required to judge fairly.
+- [Borrow Courage from Evidence](https://wordpower-seven.vercel.app/read-aloud/borrow-courage-from-evidence): An original reflection on self-trust, tested judgment, and acting before certainty arrives.
 - [Borrow No One Else’s Voice](https://wordpower-seven.vercel.app/read-aloud/borrow-no-one-elses-voice): An original reflection on self-trust, honest speech, and the slow making of a voice that is truly yours.
 - [Build the Bridge from Both Banks](https://wordpower-seven.vercel.app/read-aloud/build-the-bridge-from-both-banks): An original reflection on disagreement, dignity, and the patient craft of mutual understanding.
 - [A Career Is Built in Drafts](https://wordpower-seven.vercel.app/read-aloud/career-built-in-drafts): An original reflection on useful work, transferable skills, and learning without a perfect map.
@@ -157,6 +158,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Mend the Small Tear](https://wordpower-seven.vercel.app/read-aloud/mend-the-small-tear): An original reflection on friendship, repair, and the courage to return before distance hardens.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.
 - [Name the Next True Thing](https://wordpower-seven.vercel.app/read-aloud/name-the-next-true-thing): An original reflection on calm communication, uncertainty, and the discipline of speaking clearly under pressure.
+- [Notice Before You Guide](https://wordpower-seven.vercel.app/read-aloud/notice-before-you-guide): An original reflection on parenting, patient observation, and the wisdom of making room.
 - [Notice the Season Turn](https://wordpower-seven.vercel.app/read-aloud/notice-the-season-turn): An original reflection on recovering attention through the small announcements of autumn.
 - [The Patient Eye Sees More](https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more): An original reflection on observation, curiosity, and the discipline of seeing before naming.
 - [Practice the Art of Enough](https://wordpower-seven.vercel.app/read-aloud/practice-the-art-of-enough): An original reflection on gratitude, proportion, and the quiet wealth of an ordinary day.
@@ -169,6 +171,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Stand Near, Leave Room](https://wordpower-seven.vercel.app/read-aloud/stand-near-leave-room): An original reflection on parenting, independence, and staying available without standing in the way.
 - [Stand Where the Wind Can Find You](https://wordpower-seven.vercel.app/read-aloud/stand-where-the-wind-can-find-you): An original reflection on visible courage, steady leadership, and making uncertainty easier to face together.
 - [Take the Last Seat](https://wordpower-seven.vercel.app/read-aloud/take-the-last-seat): An original reflection on practical leadership, shared work, and earning the clearest view of a team.
+- [Teach Your Eye to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eye-to-stay): An original reflection on drawing, patient attention, and learning to see beyond the label.
 - [Teach Your Eyes to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eyes-to-stay): An original reflection on drawing, patient attention, and the difference between naming a thing and seeing it.
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.
 - [Trust the Quiet Evidence](https://wordpower-seven.vercel.app/read-aloud/trust-the-quiet-evidence): An original reflection on self-trust, patient practice, and the evidence hidden in ordinary days.
