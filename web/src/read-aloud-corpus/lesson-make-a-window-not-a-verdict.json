@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "make-a-window-not-a-verdict",
+  "title": {
+    "en": "Make a Window, Not a Verdict",
+    "zh": "打开一扇窗，而不是下定论"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, first impressions, and the discipline of seeing a whole person.",
+    "zh": "一篇原创美文：关于道德想象、第一印象，以及看见一个完整之人的修养。"
+  },
+  "tags": [
+    "Empathy",
+    "Moral imagination",
+    "Listening",
+    "Character"
+  ],
+  "sources": [
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/145",
+      "note": {
+        "en": "Public-domain inspiration from Eliot’s moral attention to lives beyond our own; the lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自乔治·艾略特对他人生命的道德关照；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with humane curiosity. Keep the judgments crisp, then soften and widen the voice whenever another life comes into view.",
+    "zh": "带着温厚的好奇心朗读。提到判断时要清晰利落；当他人的生命进入视野时，让声音变得柔和而开阔。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Room Beyond the Label",
+      "zh": "标签背后的房间"
+    },
+    "intro": {
+      "en": "This original passage asks what becomes possible when a first impression is treated as a doorway rather than a final sentence.",
+      "zh": "这篇原创文章追问：当我们把第一印象视为入口，而非终审判词，会出现什么可能。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Quick Name",
+          "zh": "1. 那个迅速的称呼"
+        },
+        "text": "The mind is quick to name what it meets. A colleague is difficult. A neighbor is careless. A stranger on the train is rude. The label arrives with the neat click of a lock, and for a moment the world feels easier to manage. Yet a label is useful only when we remember how little it contains. It records the angle from which we happened to see a person, often on a day when neither of us was at our best. To mistake that angle for the whole human being is not clarity. It is a failure of proportion.",
+        "coaching": {
+          "en": "Keep the opening labels brisk. Slow down at “how little it contains” and give the final contrast quiet authority.",
+          "zh": "开头几个标签读得简洁。到 how little it contains 时放慢，最后的对比要平静而有分量。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Add One Unseen Room",
+          "zh": "2. 添上一间看不见的房间"
+        },
+        "text": "Moral imagination begins with a modest sentence: There may be a room here I have not entered. Perhaps the impatient clerk has spent the night beside a hospital bed. Perhaps the confident speaker rehearsed every line to keep fear from showing. Perhaps the silent child is not empty of thought but crowded with it. These possibilities do not excuse harm, and they do not require us to invent flattering stories. They simply prevent certainty from hardening too soon. A window is not an alibi. It is an opening through which more accurate light can enter.",
+        "coaching": {
+          "en": "Let each “perhaps” sound possible, not sentimental. Stress the distinction between understanding and excusing.",
+          "zh": "每个 perhaps 都要读得真实可信，而非煽情。强调“理解”与“开脱”之间的区别。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask for the Missing Verb",
+          "zh": "3. 追问缺失的动词"
+        },
+        "text": "When a story about someone becomes fixed, ask what verb is missing. What are they carrying, protecting, learning, resisting, or trying to repair? Nouns freeze people into types; verbs return them to time. The manager who seems controlling may be learning to delegate. The friend who disappointed us may be protecting a truth they cannot yet say well. We can still name the effect of their choices. We can still set a boundary. But our language changes from “This is what you are” to “This is what happened, and this is what I need.” That change leaves dignity in the room.",
+        "coaching": {
+          "en": "Give the sequence of verbs a searching rhythm. Make the boundary language direct, calm, and usable in real conversation.",
+          "zh": "那串动词要读出探索感。涉及边界的表达要直接、平静，并能用于真实对话。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave the Window Open",
+          "zh": "4. 让窗继续开着"
+        },
+        "text": "Some judgments are necessary. Trust must sometimes be withdrawn; distance can be wise. Even then, we need not reduce a person to the worst evidence we possess. We can protect ourselves without making contempt our shelter. The deeper practice is to hold two truths at once: this action matters, and this life exceeds my account of it. Such restraint is not weakness. It is the strength to keep reality larger than resentment. Make your decisions carefully. Speak the truth plainly. Then leave one window open—not always for return, but for the possibility that no human being is finished at the edge of your understanding.",
+        "coaching": {
+          "en": "Hold the two truths in balance. End slowly, with warmth but no promise of reconciliation.",
+          "zh": "把两个真相读得平衡。结尾放慢，保持温度，但不要暗示一定会和解。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "failure of proportion",
+      "meaning": {
+        "en": "A judgment that gives one fact more weight than it deserves.",
+        "zh": "比例失衡；让一个事实承载了超出其应有的判断。"
+      },
+      "use": {
+        "en": "Calling one mistake a whole character is a failure of proportion.",
+        "zh": "用一次错误概括整个人，是一种比例失衡。"
+      }
+    },
+    {
+      "term": "harden",
+      "meaning": {
+        "en": "To become fixed, severe, or less open to change.",
+        "zh": "变得僵硬或固化；不再愿意改变。"
+      },
+      "use": {
+        "en": "Suspicion can harden when nobody asks a second question.",
+        "zh": "当没人继续追问时，怀疑会逐渐固化。"
+      }
+    },
+    {
+      "term": "alibi",
+      "meaning": {
+        "en": "An excuse or proof used to avoid blame.",
+        "zh": "托词；用来逃避责任的理由或证明。"
+      },
+      "use": {
+        "en": "Understanding pressure is not an alibi for cruel behavior.",
+        "zh": "理解压力并不等于为残酷行为开脱。"
+      }
+    },
+    {
+      "term": "delegate",
+      "meaning": {
+        "en": "To give responsibility or authority to another person.",
+        "zh": "授权；把责任或权力交给他人。"
+      },
+      "use": {
+        "en": "A strong leader learns when to delegate.",
+        "zh": "优秀的领导者懂得何时授权。"
+      }
+    },
+    {
+      "term": "contempt",
+      "meaning": {
+        "en": "The feeling that someone is beneath respect.",
+        "zh": "轻蔑；认为某人不值得尊重的情绪。"
+      },
+      "use": {
+        "en": "Disagreement does not require contempt.",
+        "zh": "分歧并不需要以轻蔑相伴。"
+      }
+    },
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "Calm control over one’s words or actions.",
+        "zh": "克制；对言语或行动的平静控制。"
+      },
+      "use": {
+        "en": "Her restraint kept the disagreement from becoming an attack.",
+        "zh": "她的克制让分歧没有演变为攻击。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the consonants lightly in “the angle from which we happened to see a person.”",
+      "zh": "在 the angle from which we happened to see a person 中轻柔连读。"
+    },
+    {
+      "en": "Use contrastive stress in “A window is not an alibi. It is an opening.”",
+      "zh": "在 A window is not an alibi. It is an opening 中使用对比重音。"
+    },
+    {
+      "en": "Balance both halves of “this action matters, and this life exceeds my account of it.”",
+      "zh": "把 this action matters 与 this life exceeds my account of it 两部分读得平衡。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are replacing a quick judgment with a more accurate, humane account.",
+      "zh": "跟读时，想象你正用更准确、更有人情味的理解替代仓促判断。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the labels short and the questions spacious.",
+        "zh": "第一遍：标签读得短促，问题读得开阔。"
+      },
+      {
+        "en": "Pass two: make every contrast between judgment and curiosity audible.",
+        "zh": "第二遍：清晰读出“判断”与“好奇”之间的对比。"
+      },
+      {
+        "en": "Pass three: deliver the boundary sentences with calm self-respect.",
+        "zh": "第三遍：用平静的自我尊重读出边界句。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which label have you allowed to become larger than the person?",
+      "zh": "你让哪个标签变得比一个完整的人还大？"
+    },
+    {
+      "en": "What missing verb might make one difficult relationship more accurate?",
+      "zh": "哪个缺失的动词，能让你更准确地理解一段困难关系？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-a-window-not-a-verdict/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-a-window-not-a-verdict/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-a-window-not-a-verdict/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-a-window-not-a-verdict/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-a-window-not-a-verdict/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/make-a-window-not-a-verdict/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-a-window-not-a-verdict/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-a-window-not-a-verdict/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-a-window-not-a-verdict/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-a-window-not-a-verdict/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-a-window-not-a-verdict/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-a-window-not-a-verdict/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-a-window-not-a-verdict/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-a-window-not-a-verdict/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-a-window-not-a-verdict/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-a-window-not-a-verdict/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-a-window-not-a-verdict/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-a-window-not-a-verdict/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-a-window-not-a-verdict/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-a-window-not-a-verdict/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-a-window-not-a-verdict/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-a-window-not-a-verdict/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-a-window-not-a-verdict/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-a-window-not-a-verdict/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-a-window-not-a-verdict/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-a-window-not-a-verdict/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-a-window-not-a-verdict/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-a-window-not-a-verdict/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-a-window-not-a-verdict/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-a-window-not-a-verdict/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-a-window-not-a-verdict/clips/sources_0.mp3"
+    }
+  }
+}

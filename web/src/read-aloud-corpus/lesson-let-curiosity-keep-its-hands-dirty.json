@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "let-curiosity-keep-its-hands-dirty",
+  "title": {
+    "en": "Let Curiosity Keep Its Hands Dirty",
+    "zh": "让好奇心沾上泥土"
+  },
+  "subtitle": {
+    "en": "An original reflection on experiment, practical learning, and the intelligence of making contact with the world.",
+    "zh": "一篇原创美文：关于实验、实践学习，以及与世界真正接触的智慧。"
+  },
+  "tags": [
+    "Science",
+    "Curiosity",
+    "Learning",
+    "Craft"
+  ],
+  "sources": [
+    {
+      "title": "The Voyage of the Beagle",
+      "author": "Charles Darwin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/944",
+      "note": {
+        "en": "Public-domain inspiration from a tradition of field observation and patient inquiry; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自实地观察与耐心探究的公开领域传统；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical wonder. Give tools, textures, mistakes, and discoveries a lively physical presence.",
+    "zh": "带着实践中的惊奇朗读。让工具、质感、错误与发现都具有鲜活的身体感。"
+  },
+  "passage": {
+    "title": {
+      "en": "Knowledge with Soil Under Its Nails",
+      "zh": "指甲缝里带着泥土的知识"
+    },
+    "intro": {
+      "en": "This original passage celebrates the kind of learning that tests an idea against resistant, surprising reality.",
+      "zh": "这篇原创文章赞美一种学习：把想法放到顽固而充满意外的现实中检验。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Leave the Clean Desk",
+          "zh": "1. 离开整洁的书桌"
+        },
+        "text": "Some questions behave perfectly on paper. The bridge is level, the seed receives equal light, the conversation follows the plan. Then the material world enters. Wood bends. Soil drains unevenly. A person answers with a story we did not expect. This is not the failure of knowledge; it is where knowledge becomes accountable. The clean desk gives us a model, but contact gives the model weight. To learn deeply, we must sometimes leave the page, roll up a sleeve, and discover what refuses to cooperate.",
+        "coaching": {
+          "en": "Keep the first examples neat, then let reality interrupt. Stress “accountable” and “contact.”",
+          "zh": "开头的例子读得整齐，再让现实突然介入。重读 accountable 与 contact。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Ask the Material Back",
+          "zh": "2. 反过来询问材料"
+        },
+        "text": "A craftsperson does not merely impose an idea on wood, clay, code, or cloth. The material answers. A grain splits near the edge. A glaze changes color in the kiln. A program slows under real traffic. Skilled hands learn to ask, What are you telling me? The question is neither mystical nor passive. It is a form of disciplined attention. Instead of forcing every result to resemble the plan, we allow resistance to reveal a property we failed to notice. The obstacle becomes data, and data becomes a better next move.",
+        "coaching": {
+          "en": "Make the materials distinct and tactile. Read the central question with genuine attention.",
+          "zh": "把不同材料读出各自的触感。核心问题要带着真正的专注。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Keep a Respectful Record",
+          "zh": "3. 认真记录，尊重事实"
+        },
+        "text": "Curiosity grows stronger when memory stops pretending to be exact. Write down what you tried, what changed, and what surprised you. Record the awkward measurement and the failed attempt, not only the elegant result. A respectful notebook does not flatter its owner. It preserves the inconvenient detail that may later explain everything. This habit also changes the personality of the learner. We become less eager to appear naturally gifted and more willing to be corrected by evidence. The page is no longer a stage on which we perform intelligence. It becomes a workbench where intelligence is built.",
+        "coaching": {
+          "en": "Use a practical checklist rhythm, then warm the voice on the change in the learner.",
+          "zh": "清单部分读出实用节奏；说到学习者的转变时，让声音温暖起来。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return with a Better Question",
+          "zh": "4. 带着更好的问题回来"
+        },
+        "text": "An experiment rarely ends by handing us certainty. More often, it improves the question. Why did one corner dry first? Which assumption made the design fragile? What did the quiet participant understand before the rest of us? Better questions are not signs that the work failed. They are evidence that reality has entered the conversation. So let curiosity keep its hands dirty. Let it carry a scratched ruler, a stained notebook, a draft with arrows in the margin. Thought does not become less beautiful when it meets the world. It becomes useful, answerable, and alive.",
+        "coaching": {
+          "en": "Let the questions rise naturally. Finish with a three-part cadence that sounds earned, not grand.",
+          "zh": "让几个问题自然上扬。结尾三拍要读得踏实，不要夸张。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "accountable",
+      "meaning": {
+        "en": "Required to answer to facts, results, or responsibilities.",
+        "zh": "负有责任的；必须对事实、结果或职责作出回应。"
+      },
+      "use": {
+        "en": "A field test makes the design accountable to real conditions.",
+        "zh": "实地测试让设计必须对真实条件负责。"
+      }
+    },
+    {
+      "term": "impose",
+      "meaning": {
+        "en": "To force an idea, rule, or condition onto something.",
+        "zh": "强加；把想法、规则或条件强行加在某物上。"
+      },
+      "use": {
+        "en": "Do not impose the first solution before studying the problem.",
+        "zh": "研究问题之前，不要强加第一个解决方案。"
+      }
+    },
+    {
+      "term": "grain",
+      "meaning": {
+        "en": "The natural lines or texture in wood or another material.",
+        "zh": "纹理；木材或其他材料中的天然线条与质感。"
+      },
+      "use": {
+        "en": "Cutting across the grain changed the strength of the board.",
+        "zh": "逆着纹理切割改变了木板的强度。"
+      }
+    },
+    {
+      "term": "kiln",
+      "meaning": {
+        "en": "A very hot oven used for hardening clay or other materials.",
+        "zh": "窑；用于烧制陶土等材料的高温炉。"
+      },
+      "use": {
+        "en": "The glaze became deep blue inside the kiln.",
+        "zh": "釉料在窑中变成了深蓝色。"
+      }
+    },
+    {
+      "term": "inconvenient detail",
+      "meaning": {
+        "en": "A fact that complicates a preferred explanation.",
+        "zh": "不便忽略的细节；让原有解释变复杂的事实。"
+      },
+      "use": {
+        "en": "The inconvenient detail led the team to the real cause.",
+        "zh": "那个不便忽略的细节把团队引向真正原因。"
+      }
+    },
+    {
+      "term": "workbench",
+      "meaning": {
+        "en": "A sturdy table used for practical work or making things.",
+        "zh": "工作台；用于实践或制作的结实桌面。"
+      },
+      "use": {
+        "en": "The prototype returned to the workbench after the first test.",
+        "zh": "第一次测试后，原型回到了工作台。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the list concrete in “Wood bends. Soil drains unevenly.”",
+      "zh": "在 Wood bends. Soil drains unevenly 中把画面读得具体。"
+    },
+    {
+      "en": "Use curious rising intonation for “What are you telling me?”",
+      "zh": "What are you telling me? 要使用带好奇心的升调。"
+    },
+    {
+      "en": "Land each adjective in “useful, answerable, and alive.”",
+      "zh": "在 useful, answerable, and alive 中让每个形容词清晰落地。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are thinking beside a workbench, alert to what the materials are teaching you.",
+      "zh": "跟读时，想象你正在工作台旁思考，随时留意材料教给你的东西。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every physical object visible in the voice.",
+        "zh": "第一遍：用声音让每个具体物件都清晰可见。"
+      },
+      {
+        "en": "Pass two: let each failure sound informative rather than embarrassing.",
+        "zh": "第二遍：让每次失败听起来都提供了信息，而非令人难堪。"
+      },
+      {
+        "en": "Pass three: build toward the final sense of useful, living thought.",
+        "zh": "第三遍：逐步推进到结尾那种“思想变得有用而鲜活”的感觉。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What idea in your life needs contact with real conditions?",
+      "zh": "你生活中的哪个想法，需要接受真实条件的检验？"
+    },
+    {
+      "en": "What inconvenient detail might improve your next question?",
+      "zh": "哪个不便忽略的细节，可能让你的下一个问题变得更好？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-curiosity-keep-its-hands-dirty/clips/sources_0.mp3"
+    }
+  }
+}

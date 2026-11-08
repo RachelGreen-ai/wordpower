@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "speak-at-the-speed-of-trust",
+  "title": {
+    "en": "Speak at the Speed of Trust",
+    "zh": "以信任的速度说话"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm communication, useful pauses, and words that can be safely received.",
+    "zh": "一篇原创美文：关于平静沟通、有用的停顿，以及能够被安心接住的话语。"
+  },
+  "tags": [
+    "Communication",
+    "Trust",
+    "Calm",
+    "Leadership"
+  ],
+  "sources": [
+    {
+      "title": "On the Duty of Civil Disobedience",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/71",
+      "note": {
+        "en": "Public-domain inspiration from the tradition of speaking from conscience; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自依良知发声的公开领域传统；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if the listener matters more than winning the moment. Use pauses to create safety, not drama.",
+    "zh": "朗读时，把听者看得比赢得当下更重要。用停顿创造安全感，而不是制造戏剧效果。"
+  },
+  "passage": {
+    "title": {
+      "en": "Words the Room Can Hold",
+      "zh": "房间能够承接的话"
+    },
+    "intro": {
+      "en": "This original passage explores why clear speech often becomes stronger when it slows enough for trust to keep pace.",
+      "zh": "这篇原创文章探讨：清晰表达为何常在放慢之后更有力量，因为信任终于能够跟上。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Notice the Faster Voice",
+          "zh": "1. 留意变快的声音"
+        },
+        "text": "In a tense conversation, speed can feel like strength. We rush to complete the argument before it is interrupted. We stack facts, sharpen examples, and answer objections that have not yet been spoken. The voice climbs; the listener’s face closes. Soon we are no longer exchanging meaning. We are trying to outrun the risk of being misunderstood. But a hurried truth can arrive like a threat. If we want our words to be received, we must speak slowly enough to notice whether the other person is still with us.",
+        "coaching": {
+          "en": "Begin with mounting speed, then create a clear pause before “But a hurried truth.” Let the final sentence settle.",
+          "zh": "开头逐渐加速；在 But a hurried truth 前明显停顿。让最后一句稳稳落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Give the Sentence a Landing Place",
+          "zh": "2. 给句子一个落脚处"
+        },
+        "text": "A useful pause is not empty. It gives a sentence somewhere to land. After saying, “I was hurt by what happened,” stop. Do not bury the honest line beneath five explanations. Let the listener feel its shape and decide how to respond. Silence also gives you information: a breath, a softened posture, a question forming. Communication is not a parcel delivered at the door. It is a bridge tested one careful step at a time. If the bridge shakes, standing still for a moment may be wiser than charging ahead.",
+        "coaching": {
+          "en": "Read the quoted sentence simply. Make the bridge image physical and steady.",
+          "zh": "引语要读得朴素直接。桥的意象要读出身体感与稳定感。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Lower the Temperature, Keep the Truth",
+          "zh": "3. 降低温度，保留真相"
+        },
+        "text": "Calm speech is sometimes mistaken for timid speech. Yet calm does not mean vague. It can say: “I cannot agree to that.” “Please let me finish.” “I want to solve this, but I will not continue while we are insulting each other.” These sentences carry a boundary without carrying a weapon. Their power comes from alignment: the words, tone, and intention point in the same direction. Anger may still be present, but it is given a job—to protect what matters—rather than permission to burn the whole conversation down.",
+        "coaching": {
+          "en": "Give each example its own grounded cadence. Stress that calm and firmness can occupy the same voice.",
+          "zh": "每个例句都要有稳健节奏。强调平静与坚定可以同时存在于一种声音里。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. End with a Door, Not a Trap",
+          "zh": "4. 以门收尾，而不是陷阱"
+        },
+        "text": "Before you finish, ask what kind of ending your words create. A trap demands surrender: admit I am right, prove you care, promise this will never happen again. A door invites the next honest movement: tell me what I am missing; let us return to this tomorrow; what would repair look like to you? Not every door will be used. Some conversations end without agreement. Still, we can leave without poisoning the threshold. Speak the clearest truth the room can hold. Then make enough quiet for another voice, or for tomorrow, to answer.",
+        "coaching": {
+          "en": "Contrast the trap phrases with the open questions. Finish with a slower, lower invitation.",
+          "zh": "把“陷阱式”表达与开放问题读出对比。结尾用更慢、更低的声音发出邀请。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "outrun",
+      "meaning": {
+        "en": "To move faster than something, or try to escape it by speed.",
+        "zh": "跑得比……快；试图以速度逃开某事。"
+      },
+      "use": {
+        "en": "We cannot outrun every misunderstanding with more words.",
+        "zh": "我们无法靠说更多话来逃过每一次误解。"
+      }
+    },
+    {
+      "term": "landing place",
+      "meaning": {
+        "en": "A safe point where an idea can arrive and be considered.",
+        "zh": "落脚处；让一个想法安全抵达并被思考的空间。"
+      },
+      "use": {
+        "en": "A pause gives difficult news a landing place.",
+        "zh": "停顿给艰难的消息一个落脚处。"
+      }
+    },
+    {
+      "term": "posture",
+      "meaning": {
+        "en": "The way someone holds their body.",
+        "zh": "姿态；一个人身体的保持方式。"
+      },
+      "use": {
+        "en": "His posture softened when she lowered her voice.",
+        "zh": "当她放低声音时，他的姿态放松了。"
+      }
+    },
+    {
+      "term": "timid",
+      "meaning": {
+        "en": "Showing a lack of courage or confidence.",
+        "zh": "胆怯的；缺乏勇气或信心的。"
+      },
+      "use": {
+        "en": "Her answer was gentle but not timid.",
+        "zh": "她的回答温和，却并不胆怯。"
+      }
+    },
+    {
+      "term": "alignment",
+      "meaning": {
+        "en": "A state in which different parts agree and work together.",
+        "zh": "一致；不同部分方向相同并协同运作的状态。"
+      },
+      "use": {
+        "en": "Trust grows when tone and intention are in alignment.",
+        "zh": "当语气与意图一致时，信任就会增长。"
+      }
+    },
+    {
+      "term": "threshold",
+      "meaning": {
+        "en": "The entrance to a place or the point where something begins.",
+        "zh": "门槛；入口，或某件事即将开始的节点。"
+      },
+      "use": {
+        "en": "They paused at the threshold of a harder conversation.",
+        "zh": "他们停在一场更艰难对话的门槛上。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Build controlled momentum through “stack facts, sharpen examples, and answer objections.”",
+      "zh": "在 stack facts, sharpen examples, and answer objections 中建立受控的推进感。"
+    },
+    {
+      "en": "Use a firm falling tone for “I cannot agree to that.”",
+      "zh": "I cannot agree to that 要用坚定的降调。"
+    },
+    {
+      "en": "Keep “Speak the clearest truth the room can hold” warm, not commanding.",
+      "zh": "Speak the clearest truth the room can hold 要温暖，不要像命令。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are keeping both honesty and connection alive in a difficult room.",
+      "zh": "跟读时，想象你正在艰难的场合里同时守住诚实与连接。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: notice every place where speed would weaken the message.",
+        "zh": "第一遍：留意每个“速度会削弱信息”的位置。"
+      },
+      {
+        "en": "Pass two: make the boundary examples calm and unmistakable.",
+        "zh": "第二遍：把边界例句读得平静而明确。"
+      },
+      {
+        "en": "Pass three: let each pause invite thought rather than surrender.",
+        "zh": "第三遍：让每次停顿邀请思考，而不是逼人投降。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which sentence in a current conversation needs a better landing place?",
+      "zh": "你最近哪场对话中的哪句话，需要一个更好的落脚处？"
+    },
+    {
+      "en": "How can you lower the temperature without weakening the truth?",
+      "zh": "你怎样在不削弱真相的前提下降低温度？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/speak-at-the-speed-of-trust/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/speak-at-the-speed-of-trust/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/speak-at-the-speed-of-trust/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/speak-at-the-speed-of-trust/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/speak-at-the-speed-of-trust/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/speak-at-the-speed-of-trust/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/speak-at-the-speed-of-trust/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/speak-at-the-speed-of-trust/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/speak-at-the-speed-of-trust/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/speak-at-the-speed-of-trust/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/speak-at-the-speed-of-trust/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/speak-at-the-speed-of-trust/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/speak-at-the-speed-of-trust/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/speak-at-the-speed-of-trust/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/speak-at-the-speed-of-trust/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/speak-at-the-speed-of-trust/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/speak-at-the-speed-of-trust/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/speak-at-the-speed-of-trust/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/speak-at-the-speed-of-trust/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/speak-at-the-speed-of-trust/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/speak-at-the-speed-of-trust/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/speak-at-the-speed-of-trust/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/speak-at-the-speed-of-trust/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/speak-at-the-speed-of-trust/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/speak-at-the-speed-of-trust/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/speak-at-the-speed-of-trust/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/speak-at-the-speed-of-trust/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/speak-at-the-speed-of-trust/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/speak-at-the-speed-of-trust/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/speak-at-the-speed-of-trust/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/speak-at-the-speed-of-trust/clips/sources_0.mp3"
+    }
+  }
+}

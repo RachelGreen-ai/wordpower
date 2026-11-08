@@ -128,6 +128,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Leave the Question on the Table](https://wordpower-seven.vercel.app/read-aloud/leave-the-question-on-the-table): An original reflection on parenting, learning, and the courage to let curiosity remain unfinished.
 - [Lend the Room Your Calm](https://wordpower-seven.vercel.app/read-aloud/lend-the-room-your-calm): An original reflection on leadership as the art of making clear action possible under pressure.
 - [Lend the Stranger a History](https://wordpower-seven.vercel.app/read-aloud/lend-the-stranger-a-history): An original reflection on moral imagination, fair judgment, and the stories we cannot see.
+- [Let Curiosity Keep Its Hands Dirty](https://wordpower-seven.vercel.app/read-aloud/let-curiosity-keep-its-hands-dirty): An original reflection on experiment, practical learning, and the intelligence of making contact with the world.
 - [Let the Child Carry the Basket](https://wordpower-seven.vercel.app/read-aloud/let-the-child-carry-the-basket): An original reflection on useful responsibility, patient guidance, and the dignity of growing capable.
 - [Let the Child Finish the Map](https://wordpower-seven.vercel.app/read-aloud/let-the-child-finish-the-map): An original reflection on guidance, useful mistakes, and the patience to let understanding take shape.
 - [Let the Child Finish](https://wordpower-seven.vercel.app/read-aloud/let-the-child-finish): An original reflection on patient listening, imperfect stories, and the trust built when adults resist supplying every answer.
@@ -151,6 +152,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Lower the Temperature](https://wordpower-seven.vercel.app/read-aloud/lower-the-temperature): An original reflection on calm communication, accurate disagreement, and the strength of an unhurried reply.
 - [Lower Your Voice, Keep Your Ground](https://wordpower-seven.vercel.app/read-aloud/lower-your-voice-keep-your-ground): An original reflection on calm disagreement, precise language, and strength that does not need to shout.
 - [Make a Window for Wonder](https://wordpower-seven.vercel.app/read-aloud/make-a-window-for-wonder): An original reflection on experiments, useful questions, and the patient craft of discovery.
+- [Make a Window, Not a Verdict](https://wordpower-seven.vercel.app/read-aloud/make-a-window-not-a-verdict): An original reflection on moral imagination, first impressions, and the discipline of seeing a whole person.
 - [Make One Honest Thing](https://wordpower-seven.vercel.app/read-aloud/make-one-honest-thing): An original reflection on craft, career, and the quiet standard that survives applause.
 - [Make Room for No](https://wordpower-seven.vercel.app/read-aloud/make-room-for-no): An original reflection on guiding children with boundaries, respect, and room for an honest voice.
 - [Make Room in the Conversation](https://wordpower-seven.vercel.app/read-aloud/make-room-in-conversation): An original passage on calm speech, useful silence, and disagreement without contempt.
@@ -170,6 +172,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Say the Name Again](https://wordpower-seven.vercel.app/read-aloud/say-the-name-again): An original reflection on names, attentive pronunciation, and the everyday dignity of trying again.
 - [Self-Trust Is an Inner Compass.](https://wordpower-seven.vercel.app/read-aloud/self-trust-inner-compass): A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.
 - [Set One More Place](https://wordpower-seven.vercel.app/read-aloud/set-one-more-place): An original reflection on hospitality, belonging, and the small civic art of making room.
+- [Speak at the Speed of Trust](https://wordpower-seven.vercel.app/read-aloud/speak-at-the-speed-of-trust): An original reflection on calm communication, useful pauses, and words that can be safely received.
 - [Speak at the Temperature of Truth](https://wordpower-seven.vercel.app/read-aloud/speak-at-the-temperature-of-truth): An original reflection on calm communication, honest disagreement, and words that leave dignity intact.
 - [Stand Near, Leave Room](https://wordpower-seven.vercel.app/read-aloud/stand-near-leave-room): An original reflection on parenting, independence, and staying available without standing in the way.
 - [Stand Where the Wind Can Find You](https://wordpower-seven.vercel.app/read-aloud/stand-where-the-wind-can-find-you): An original reflection on visible courage, steady leadership, and making uncertainty easier to face together.
