@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "build-a-career-with-open-doors",
+  "title": {
+    "en": "Build a Career with Open Doors",
+    "zh": "为职业生涯留几扇开着的门"
+  },
+  "subtitle": {
+    "en": "An original reflection on useful work, changing direction, and becoming through practice.",
+    "zh": "一篇原创美文：关于有用的工作、调整方向，以及在实践中成为自己。"
+  },
+  "tags": [
+    "Career",
+    "Learning",
+    "Craft",
+    "Adaptability"
+  ],
+  "sources": [
+    {
+      "title": "Up From Slavery",
+      "author": "Booker T. Washington",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2376",
+      "note": {
+        "en": "Public-domain inspiration for learning through useful work and sustained practice; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中通过有用劳动与持续实践来学习的思想；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded confidence. Let the verbs of making and learning carry more weight than the language of status.",
+    "zh": "用踏实的自信朗读。让制作与学习的动词，比地位相关的词更有分量。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Path That Can Still Breathe",
+      "zh": "一条仍能呼吸的路"
+    },
+    "intro": {
+      "en": "This original passage proposes a career sturdy enough to guide us and flexible enough to keep teaching us.",
+      "zh": "这篇原创文章描绘一种职业道路：足以给人方向，也足够灵活，能继续教人成长。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Choose a Direction, Not a Cage",
+          "zh": "1. 选择方向，而不是牢笼"
+        },
+        "text": "A young career often begins with a demand for certainty: name the role, choose the ladder, predict where you will stand in ten years. Direction is useful. It helps us say no, gather skills, and endure the slow middle of an apprenticeship. Yet a direction should behave like a compass, not a cage. It should orient the next honest step without pretending to map every country we may cross. The person who knows exactly what must never change may be less prepared than the person who knows what kind of problems they want to help solve.",
+        "coaching": {
+          "en": "Make the opening pressure brisk. Contrast compass and cage, then slow down through the final idea.",
+          "zh": "开头的压力读得紧凑。对比 compass 与 cage，最后的观点逐渐放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Collect Transferable Strength",
+          "zh": "2. 积累可以迁移的能力"
+        },
+        "text": "Jobs have titles, but work is made of verbs: explain, repair, organize, negotiate, design, notice. Titles may disappear while these abilities travel. A teacher learns to read a room. A shop manager learns to make calm decisions with incomplete information. A programmer learns to divide a stubborn problem into smaller ones. When circumstances change, the title may feel stranded, but the verbs can cross the water. Ask not only, What position do I hold? Ask, What can people reliably trust me to do?",
+        "coaching": {
+          "en": "Give the verbs a clear, energetic rhythm. Let the two closing questions sound practical rather than anxious.",
+          "zh": "动词列表要清晰有力。结尾两个问题要实用，不要读出焦虑。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Leave a Door for Surprise",
+          "zh": "3. 给意外留一扇门"
+        },
+        "text": "Some of the best work arrives sideways. A temporary assignment reveals an appetite for research. Helping a colleague exposes a gift for teaching. A difficult customer teaches the language of mediation. These discoveries rarely look important on the day they occur. They begin as small increases in attention: time passes quickly here; I care about getting this right; people ask for my help with this. Keep a record of such clues. A career is partly chosen, but it is also observed.",
+        "coaching": {
+          "en": "Keep the examples conversational. Add gentle emphasis to each clue, and make the last sentence spacious.",
+          "zh": "例子要像自然交谈。每条线索稍加重音，最后一句读得开阔。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Make the Next Move Useful",
+          "zh": "4. 让下一步有用"
+        },
+        "text": "You do not need a perfect five-year plan before making a worthy next move. Choose work that increases one real skill, serves someone beyond your own résumé, and places you near people whose standards enlarge yours. Then pay attention. If the path narrows into habit, open another door. If a new responsibility asks more of your character, stay long enough to answer. A good career is not a monument completed from a blueprint. It is a well-kept house: built over time, repaired with humility, and generous enough to contain the person you are still becoming.",
+        "coaching": {
+          "en": "Build momentum through the three criteria. Finish the house image warmly, with weight on still becoming.",
+          "zh": "三个标准要逐步推进。结尾的房屋意象读得温暖，在 still becoming 上落重音。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "apprenticeship",
+      "meaning": {
+        "en": "A period of learning a skill through guided practical work.",
+        "zh": "学徒期；在指导下通过实践学习技能的阶段。"
+      },
+      "use": {
+        "en": "The first year felt like an apprenticeship in careful listening.",
+        "zh": "第一年像是一段学习认真倾听的学徒期。"
+      }
+    },
+    {
+      "term": "orient",
+      "meaning": {
+        "en": "To help someone find a direction or position.",
+        "zh": "确定方向；帮助某人找到方位或方向。"
+      },
+      "use": {
+        "en": "A clear purpose can orient a difficult decision.",
+        "zh": "清晰的目标能为艰难决定指明方向。"
+      }
+    },
+    {
+      "term": "transferable",
+      "meaning": {
+        "en": "Able to be used in another role, place, or situation.",
+        "zh": "可迁移的；能用于其他岗位、地点或情境的。"
+      },
+      "use": {
+        "en": "Clear writing is a transferable skill.",
+        "zh": "清晰写作是一项可迁移的能力。"
+      }
+    },
+    {
+      "term": "stranded",
+      "meaning": {
+        "en": "Left without a useful way forward or means of moving.",
+        "zh": "搁浅的；失去有效出路或前进方式的。"
+      },
+      "use": {
+        "en": "The new system left an old process stranded.",
+        "zh": "新系统让旧流程无处可用。"
+      }
+    },
+    {
+      "term": "mediation",
+      "meaning": {
+        "en": "Helping people in conflict reach understanding or agreement.",
+        "zh": "调解；帮助冲突双方达成理解或协议。"
+      },
+      "use": {
+        "en": "Her patience made her effective at mediation.",
+        "zh": "她的耐心使她擅长调解。"
+      }
+    },
+    {
+      "term": "blueprint",
+      "meaning": {
+        "en": "A detailed plan for how something should be built or achieved.",
+        "zh": "蓝图；关于如何建造或实现某事的详细计划。"
+      },
+      "use": {
+        "en": "The proposal offered a blueprint, not a guarantee.",
+        "zh": "这份提案给出了一幅蓝图，而非保证。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in next honest step and skills travel.",
+      "zh": "清楚读出 next honest step 和 skills travel 中的词尾辅音。"
+    },
+    {
+      "en": "Use balanced stress in explain, repair, organize, negotiate, design, notice.",
+      "zh": "在 explain、repair、organize、negotiate、design、notice 中保持均衡重音。"
+    },
+    {
+      "en": "Link smoothly in the person you are still becoming.",
+      "zh": "在 the person you are still becoming 中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are advising a capable friend at a genuine turning point.",
+      "zh": "跟读时，想象你正在为一位站在真实转折点上的能干朋友提供建议。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the practical verbs crisp and useful.",
+        "zh": "第一遍：把实用动词读得清楚有力。"
+      },
+      {
+        "en": "Pass two: keep uncertainty open without making it sound frightening.",
+        "zh": "第二遍：让不确定性保持开放，而不显得可怕。"
+      },
+      {
+        "en": "Pass three: give the final house image steadiness and hope.",
+        "zh": "第三遍：让结尾的房屋意象带着安定与希望。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which transferable verb best describes what people trust you to do?",
+      "zh": "哪个可迁移的动词，最能描述别人信任你去做的事？"
+    },
+    {
+      "en": "What small career clue deserves more of your attention?",
+      "zh": "哪条微小的职业线索，值得你投入更多注意力？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/build-a-career-with-open-doors/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/build-a-career-with-open-doors/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/build-a-career-with-open-doors/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/build-a-career-with-open-doors/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/build-a-career-with-open-doors/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/build-a-career-with-open-doors/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/build-a-career-with-open-doors/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/build-a-career-with-open-doors/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/build-a-career-with-open-doors/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/build-a-career-with-open-doors/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/build-a-career-with-open-doors/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/build-a-career-with-open-doors/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/build-a-career-with-open-doors/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/build-a-career-with-open-doors/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/build-a-career-with-open-doors/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/build-a-career-with-open-doors/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/build-a-career-with-open-doors/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/build-a-career-with-open-doors/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/build-a-career-with-open-doors/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/build-a-career-with-open-doors/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/build-a-career-with-open-doors/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/build-a-career-with-open-doors/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/build-a-career-with-open-doors/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/build-a-career-with-open-doors/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/build-a-career-with-open-doors/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/build-a-career-with-open-doors/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/build-a-career-with-open-doors/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/build-a-career-with-open-doors/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/build-a-career-with-open-doors/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/build-a-career-with-open-doors/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/build-a-career-with-open-doors/clips/sources_0.mp3"
+    }
+  }
+}

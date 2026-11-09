@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "borrow-the-strangers-morning",
+  "title": {
+    "en": "Borrow the Stranger's Morning",
+    "zh": "借来陌生人的一个清晨"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination and the hidden weight carried by ordinary lives.",
+    "zh": "一篇原创美文：关于道德想象，以及普通人生中不为人知的重量。"
+  },
+  "tags": [
+    "Empathy",
+    "Imagination",
+    "Community",
+    "Kindness"
+  ],
+  "sources": [
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/145",
+      "note": {
+        "en": "Public-domain inspiration for attending to the inward lives of ordinary people; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域小说对普通人内心生活的体察；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with humane curiosity. Keep the concrete details light, and let understanding deepen without becoming sentimental.",
+    "zh": "带着温厚的好奇心朗读。具体细节读得轻巧，让理解逐渐加深，但不要煽情。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Life Beyond the Glance",
+      "zh": "一瞥之外的人生"
+    },
+    "intro": {
+      "en": "This original passage practices imagining another person's day without pretending to know their whole story.",
+      "zh": "这篇原创文章练习想象他人的一天，同时不自以为了解其完整故事。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin at the Bus Stop",
+          "zh": "1. 从公交站开始"
+        },
+        "text": "At eight in the morning, a woman at the bus stop checks her phone three times in one minute. From across the pavement, impatience is easy to invent: she is distracted, she is rude, she should have left earlier. But borrow her morning for a moment. Perhaps the message she is waiting for comes from a hospital. Perhaps she has already packed two lunches, found a missing shoe, and spoken calmly through an argument she could not afford to finish. We do not know. That sentence matters. Imagination is not permission to replace one quick verdict with a prettier fiction. It is the discipline of leaving room around what we see.",
+        "coaching": {
+          "en": "Let the first judgments sound quick and narrow. Slow down on “We do not know,” then make the final distinction precise.",
+          "zh": "开头的判断要短促而狭窄。在 We do not know 处放慢，最后的区别要读得准确。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Notice the Invisible Labor",
+          "zh": "2. 看见无形的付出"
+        },
+        "text": "Much of a life happens before it becomes visible. The polished presentation may stand on a night of revisions. The cheerful greeting at the counter may follow a difficult call made in the stockroom. A child arriving late may have spent ten careful minutes helping a younger brother fasten his coat. Invisible labor does not announce itself, yet it shapes the people who enter our meetings, classrooms, and kitchens. When we remember this, courtesy stops being a decorative virtue. It becomes a practical response to the limits of our knowledge.",
+        "coaching": {
+          "en": "Give each hidden scene a distinct image. Land “practical response” firmly, without preaching.",
+          "zh": "让每个隐藏场景都有清晰画面。practical response 要读得坚定，但不要说教。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask One Honest Question",
+          "zh": "3. 问一个真诚的问题"
+        },
+        "text": "Moral imagination becomes useful when it changes our behavior. It may soften the email we were about to send. It may turn “Why are you like this?” into “What has made today difficult?” The second question is not weakness, and it does not erase responsibility. It simply opens a door wide enough for facts to enter. Sometimes the answer will confirm that a boundary is needed. Sometimes it will reveal an obstacle we can remove in five minutes. Either way, curiosity gives justice better information.",
+        "coaching": {
+          "en": "Contrast the two questions clearly. Keep the boundary sentence calm and the final line quietly confident.",
+          "zh": "清楚对比两个问题。谈到边界时保持冷静，最后一句要有安静的信心。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return the Morning Gently",
+          "zh": "4. 轻轻归还这个清晨"
+        },
+        "text": "We cannot live inside every stranger's story, nor should we claim to. The aim is smaller and more demanding: to interrupt certainty before it hardens into contempt. At the bus stop, the woman looks up. Her bus is coming. You may never learn what the phone contained, but you can move aside, meet her eyes, and leave space for her to board. A whole moral life can begin in that modest motion—the recognition that another person is not scenery in our day, but the center of a day we cannot see.",
+        "coaching": {
+          "en": "Keep the ending physical and restrained. Warm the phrase “the center of a day,” then finish softly.",
+          "zh": "结尾保持具体而克制。在 the center of a day 上读出温度，再轻轻收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A firm judgment or decision about someone or something.",
+        "zh": "定论；对某人或某事作出的明确判断。"
+      },
+      "use": {
+        "en": "One delayed reply is not enough for a verdict.",
+        "zh": "一次迟来的回复不足以成为定论。"
+      }
+    },
+    {
+      "term": "sentimental",
+      "meaning": {
+        "en": "Showing emotion in an excessive or simplified way.",
+        "zh": "感伤的；以过度或简化的方式表达情感。"
+      },
+      "use": {
+        "en": "The story was tender without becoming sentimental.",
+        "zh": "这个故事温柔，却不流于煽情。"
+      }
+    },
+    {
+      "term": "invisible labor",
+      "meaning": {
+        "en": "Necessary work that is often unnoticed or unrecognized.",
+        "zh": "无形劳动；常被忽视或未获认可的必要付出。"
+      },
+      "use": {
+        "en": "Good teamwork depends on recognizing invisible labor.",
+        "zh": "良好的团队合作有赖于看见无形劳动。"
+      }
+    },
+    {
+      "term": "courtesy",
+      "meaning": {
+        "en": "Polite behavior that shows respect for others.",
+        "zh": "礼貌；体现对他人尊重的行为。"
+      },
+      "use": {
+        "en": "She treated courtesy as a form of attention.",
+        "zh": "她把礼貌视为一种关注。"
+      }
+    },
+    {
+      "term": "contempt",
+      "meaning": {
+        "en": "The feeling that someone is beneath respect.",
+        "zh": "轻蔑；认为某人不值得尊重的感觉。"
+      },
+      "use": {
+        "en": "Curiosity kept disagreement from turning into contempt.",
+        "zh": "好奇心避免了分歧变成轻蔑。"
+      }
+    },
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "Small, limited, or not intended to attract attention.",
+        "zh": "朴素的；幅度不大且不刻意引人注目的。"
+      },
+      "use": {
+        "en": "A modest gesture changed the tone of the room.",
+        "zh": "一个朴素的举动改变了房间里的气氛。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the repeated consonants crisp in “packed two lunches” and “missing shoe.”",
+      "zh": "在 packed two lunches 和 missing shoe 中清楚读出连续辅音。"
+    },
+    {
+      "en": "Use contrastive stress in “not scenery in our day, but the center of a day.”",
+      "zh": "在 not scenery in our day, but the center of a day 中使用对比重音。"
+    },
+    {
+      "en": "Let the question “What has made today difficult?” rise with genuine openness.",
+      "zh": "What has made today difficult? 要用真正开放的语气自然上扬。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are replacing a quick judgment with careful human attention.",
+      "zh": "跟读时，想象你正用细致的人性关怀取代仓促判断。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep every street and workplace detail concrete.",
+        "zh": "第一遍：把街头与工作场景的每个细节读具体。"
+      },
+      {
+        "en": "Pass two: make the movement from certainty to curiosity audible.",
+        "zh": "第二遍：让声音呈现从确定到好奇的转变。"
+      },
+      {
+        "en": "Pass three: finish with restraint, dignity, and warmth.",
+        "zh": "第三遍：以克制、尊严与温度收束。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose invisible labor have you recently overlooked?",
+      "zh": "最近，你忽略了谁的无形付出？"
+    },
+    {
+      "en": "What quick verdict could you replace with one honest question?",
+      "zh": "你可以用一个真诚的问题，取代哪个仓促的判断？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/borrow-the-strangers-morning/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/borrow-the-strangers-morning/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/borrow-the-strangers-morning/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/borrow-the-strangers-morning/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/borrow-the-strangers-morning/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/borrow-the-strangers-morning/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/borrow-the-strangers-morning/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/borrow-the-strangers-morning/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/borrow-the-strangers-morning/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/borrow-the-strangers-morning/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/borrow-the-strangers-morning/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/borrow-the-strangers-morning/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/borrow-the-strangers-morning/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/borrow-the-strangers-morning/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/borrow-the-strangers-morning/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/borrow-the-strangers-morning/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/borrow-the-strangers-morning/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/borrow-the-strangers-morning/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/borrow-the-strangers-morning/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/borrow-the-strangers-morning/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/borrow-the-strangers-morning/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/borrow-the-strangers-morning/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/borrow-the-strangers-morning/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/borrow-the-strangers-morning/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/borrow-the-strangers-morning/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/borrow-the-strangers-morning/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/borrow-the-strangers-morning/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/borrow-the-strangers-morning/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/borrow-the-strangers-morning/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/borrow-the-strangers-morning/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/borrow-the-strangers-morning/clips/sources_0.mp3"
+    }
+  }
+}

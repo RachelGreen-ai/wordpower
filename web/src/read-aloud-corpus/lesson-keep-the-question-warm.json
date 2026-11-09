@@ -1,0 +1,229 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "keep-the-question-warm",
+  "title": {
+    "en": "Keep the Question Warm",
+    "zh": "让问题保持温度"
+  },
+  "subtitle": {
+    "en": "An original reflection on parenting, patient attention, and a child's living curiosity.",
+    "zh": "一篇原创美文：关于养育、耐心关注，以及孩子鲜活的好奇心。"
+  },
+  "tags": [
+    "Parenting",
+    "Curiosity",
+    "Listening",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Maria Montessori: A Biography",
+      "author": "Association Montessori Internationale",
+      "organization": "Association Montessori Internationale",
+      "url": "https://montessori-ami.org/resource-library/facts/biography-maria-montessori",
+      "note": {
+        "en": "General inspiration from Montessori's educational legacy; this lesson is wholly original and quotes no source wording.",
+        "zh": "一般性灵感来自蒙台梭利的教育思想传统；本课全文原创，不引用来源原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with affectionate patience. Let the child's questions feel vivid, and keep the adult voice curious rather than instructive.",
+    "zh": "带着亲切的耐心朗读。让孩子的问题鲜活可见，成人的声音要好奇，不要居高临下。"
+  },
+  "passage": {
+    "title": {
+      "en": "Before the Answer Closes the Door",
+      "zh": "在答案关上门之前"
+    },
+    "intro": {
+      "en": "This original passage explores how adults can answer children without ending the adventure of asking.",
+      "zh": "这篇原创文章探讨成人如何回应孩子，同时不终止提问的冒险。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Receive the Small Why",
+          "zh": "1. 接住那个小小的“为什么”"
+        },
+        "text": "A child asks why the moon follows the car. The adult knows several answers and is tired enough to offer none. Yet the question is more than a request for astronomy. It is evidence that the world has just become strange and beautiful again. Before explaining distance and perspective, receive the wonder. Look through the window. Say, It does seem to follow us. That brief companionship tells the child that noticing is welcome here. Knowledge will come, but first the question needs somewhere warm to land. When attention receives it without hurry, the child learns that curiosity is not an interruption. It is a way of meeting the world.",
+        "coaching": {
+          "en": "Make the opening question bright. Pause before the explanation, and warm the final phrase.",
+          "zh": "开头的问题要明亮。解释前停顿，在最后一个短语上读出温度。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Offer a Handle, Not a Wall",
+          "zh": "2. 递出把手，而不是筑起高墙"
+        },
+        "text": "An answer can be accurate and still be too large to enter. Long explanations sometimes display the adult's knowledge while leaving the child outside it. Offer one handle instead: the moon is very far away, so our movement changes the view less than we expect. Then ask, What happens when we pass that tree? A handle gives the mind something to hold. A wall of facts may be impressive, but it can stop the journey before curiosity has taken its second step. A useful answer makes the next question possible. It leaves a little air around the facts, so observation can continue and understanding can become the child's own discovery.",
+        "coaching": {
+          "en": "Keep the science clear and unhurried. Contrast handle and wall with playful precision.",
+          "zh": "科学解释要清楚从容。用轻巧而准确的语气对比 handle 与 wall。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Share the Unfinished Question",
+          "zh": "3. 一起面对未完成的问题"
+        },
+        "text": "Children eventually ask what adults cannot answer: where a lost animal went, why a friend became unkind, whether a frightening thing will happen again. False certainty may calm the room for a minute, but it weakens trust. We can say, I don't know yet. We can add, Let's find out what we can. Shared uncertainty is not abandonment. It teaches that courage can sit beside an unfinished question, gathering evidence, naming feelings, and waiting without looking away. Adults practice becoming, too. We loosen our authority without losing our care. The moon slips behind a building, and the child turns to another thought. The question is not gone. It has become part of a voice that may keep asking honestly for a lifetime.",
+        "coaching": {
+          "en": "Let I don't know yet sound steady, never helpless. Finish with durable, quiet hope.",
+          "zh": "I don't know yet 要坚定，不能显得无助。结尾要带着持久而安静的希望。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "perspective",
+      "meaning": {
+        "en": "A way of seeing something, or its apparent position from a viewpoint.",
+        "zh": "视角；看待事物的方式，或从某一位置看到的相对形态。"
+      },
+      "use": {
+        "en": "Moving across the room changed our perspective.",
+        "zh": "走到房间另一边改变了我们的视角。"
+      }
+    },
+    {
+      "term": "companionship",
+      "meaning": {
+        "en": "The comfort of being with someone in a shared experience.",
+        "zh": "陪伴；与某人共同经历时带来的慰藉。"
+      },
+      "use": {
+        "en": "Quiet companionship helped more than quick advice.",
+        "zh": "安静的陪伴比仓促的建议更有帮助。"
+      }
+    },
+    {
+      "term": "accurate",
+      "meaning": {
+        "en": "Correct and free from error.",
+        "zh": "准确的；正确且没有错误的。"
+      },
+      "use": {
+        "en": "Her explanation was brief but accurate.",
+        "zh": "她的解释简短却准确。"
+      }
+    },
+    {
+      "term": "false certainty",
+      "meaning": {
+        "en": "Confidence stronger than the available evidence supports.",
+        "zh": "虚假的确定性；超出已有证据所能支持的信心。"
+      },
+      "use": {
+        "en": "False certainty can damage trust.",
+        "zh": "虚假的确定性会损害信任。"
+      }
+    },
+    {
+      "term": "abandonment",
+      "meaning": {
+        "en": "The act or feeling of being left without care or support.",
+        "zh": "抛弃；被留下而失去照料或支持的行为或感受。"
+      },
+      "use": {
+        "en": "Admitting uncertainty is not abandonment.",
+        "zh": "承认不确定并不等于抛弃。"
+      }
+    },
+    {
+      "term": "loosen",
+      "meaning": {
+        "en": "To make something less tight, rigid, or firmly controlled.",
+        "zh": "放松；使某物不再紧绷、僵硬或受严格控制。"
+      },
+      "use": {
+        "en": "A good question can loosen an old assumption.",
+        "zh": "一个好问题能松动旧有假设。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly in why the moon follows the car.",
+      "zh": "在 why the moon follows the car 中自然连读。"
+    },
+    {
+      "en": "Use warm contrast in a handle, not a wall.",
+      "zh": "在 a handle, not a wall 中读出温暖的对比。"
+    },
+    {
+      "en": "Keep the final consonants clear in asks, changes, and trusts.",
+      "zh": "清楚读出 asks、changes 和 trusts 的词尾辅音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice is making a safe place for curiosity to continue.",
+      "zh": "跟读时，想象你的声音正在为好奇心的延续创造安全空间。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the child's wonder immediate and bright.",
+        "zh": "第一遍：让孩子的惊奇直接而明亮。"
+      },
+      {
+        "en": "Pass two: keep every explanation simple without sounding childish.",
+        "zh": "第二遍：让解释保持简单，但不幼稚。"
+      },
+      {
+        "en": "Pass three: make uncertainty sound companionable and brave.",
+        "zh": "第三遍：让不确定性听起来有陪伴，也有勇气。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "When did you last answer a question before fully receiving it?",
+      "zh": "你上一次还没真正接住问题，就急着回答，是什么时候？"
+    },
+    {
+      "en": "What honest uncertainty could you explore alongside a child?",
+      "zh": "你可以和孩子一起探索哪一种真实的不确定？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-the-question-warm/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-the-question-warm/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-the-question-warm/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-the-question-warm/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-the-question-warm/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/keep-the-question-warm/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-the-question-warm/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-the-question-warm/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-the-question-warm/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-the-question-warm/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-the-question-warm/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-the-question-warm/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-the-question-warm/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-the-question-warm/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-the-question-warm/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-the-question-warm/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-the-question-warm/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-the-question-warm/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-the-question-warm/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-the-question-warm/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-the-question-warm/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-the-question-warm/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-the-question-warm/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-the-question-warm/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-the-question-warm/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-the-question-warm/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-the-question-warm/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-the-question-warm/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-the-question-warm/clips/sources_0.mp3"
+    }
+  }
+}
