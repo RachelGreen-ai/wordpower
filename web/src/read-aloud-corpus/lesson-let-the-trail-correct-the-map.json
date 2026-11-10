@@ -1,0 +1,242 @@
+{
+  "lessonId": "let-the-trail-correct-the-map",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Trail Correct the Map",
+    "zh": "让山路修正地图"
+  },
+  "subtitle": {
+    "en": "An original reflection on observation, changing plans, and the confidence to be corrected by reality.",
+    "zh": "一篇原创美文：关于观察、调整计划，以及让现实修正自己的信心。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Nature",
+    "Learning",
+    "Adaptability",
+    "Self-trust"
+  ],
+  "sources": [
+    {
+      "title": "The Mountains of California",
+      "author": "John Muir",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/326",
+      "note": {
+        "en": "Public-domain inspiration for attentive travel through mountain landscapes; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中对山地景观的细致行旅；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read at a steady hiking pace. Keep the terrain vivid, and let each revision sound capable rather than embarrassed.",
+    "zh": "用稳定的徒步节奏朗读。地形要鲜明，每次修正都要显得从容能干，而非尴尬。"
+  },
+  "passage": {
+    "title": {
+      "en": "Confidence with Mud on Its Boots",
+      "zh": "靴子上沾着泥的自信"
+    },
+    "intro": {
+      "en": "This original passage follows a mountain path where good judgment grows by meeting what the map could not show.",
+      "zh": "这篇原创文章沿一条山路前行，在地图无法显示之处，看见良好判断如何成长。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Fold the Map, Then Look Up",
+          "zh": "1. 折好地图，然后抬头"
+        },
+        "text": "A map on the kitchen table is clean. Its blue line crosses the creek once, climbs through open forest, and reaches the lake before noon. On the trail, last winter has added a fallen cedar. Snowmelt has widened the crossing, and the open forest is crowded with young firs. The map was not foolish; it was a useful promise made from older evidence. Trouble begins only when we ask the promise to overrule the ground. Fold the paper for a moment. Look at the slope, the water, the clouds gathering above the ridge. Planning brought you here. Attention must decide what here requires.",
+        "coaching": {
+          "en": "Make the kitchen map clean and easy. Add texture on the trail, then give the final sentence quiet authority.",
+          "zh": "厨房里的地图要干净轻松。走上山路后增加质感，最后一句读出安静的力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Read the Small Corrections",
+          "zh": "2. 读懂细小的修正信号"
+        },
+        "text": "Reality rarely begins by shouting. It offers small corrections: the soil grows softer, birds stop calling, a familiar marker appears on the wrong side of the path. Pride prefers dramatic evidence because subtle evidence can still be ignored. A practiced traveler responds earlier. She shortens her stride on loose stone. He checks the compass before uncertainty becomes panic. They compare what they expected with what they can now see. This habit belongs in ordinary decisions. A project needs another week. A child has outgrown an old routine. Your own concentration is sharp at a different hour than it was last year. Small corrections are not insults to the plan. They are how the world helps us make a better one.",
+        "coaching": {
+          "en": "Keep the warning signs light but distinct. Warm the everyday examples, and make the final line generous.",
+          "zh": "警示信号要轻却分明。生活例子要温暖，最后一句要宽厚。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Turn Around Without Calling It Failure",
+          "zh": "3. 转身，不必称之为失败"
+        },
+        "text": "Near the ridge, rain darkens the granite. The lake is less than a mile away, close enough for desire to become an argument. We have come this far. We promised we would finish. Yet distance already traveled is not evidence that the next step is wise. Turning around can be an act of accurate courage: the willingness to disappoint an earlier version of yourself in order to protect the life still moving forward. You may return another day with drier weather, stronger legs, or a different route. Even when you do not return, the walk has not vanished. You learned where the stream spreads, how quickly the wind changes, and which voice inside you can tell longing from judgment.",
+        "coaching": {
+          "en": "Let desire press forward, then slow decisively at turning around. Keep the ending reflective, not consoling.",
+          "zh": "让渴望推动语气向前，在 turning around 处果断放慢。结尾要反思，不要像安慰。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Bring Home a Living Map",
+          "zh": "4. 带回一张活的地图"
+        },
+        "text": "Back at the table, draw the fallen tree in the margin. Note the difficult crossing and the hour when clouds covered the ridge. The map becomes less elegant and more trustworthy. So does a life. We begin with clean lines—career, family, health, home—and then experience writes in the margins. Some marks record obstacles; others reveal springs, shelters, and views no plan predicted. Self-trust does not mean obeying the first route we chose. It means believing we can meet new ground without losing our direction entirely. The next morning, mud has dried along the boots by the door. It is evidence of contact: a reminder that confidence becomes useful when it is willing to leave the table, enter the weather, and come home corrected.",
+        "coaching": {
+          "en": "Make the map annotations practical. Broaden gently into life, and finish on corrected with grounded confidence.",
+          "zh": "地图批注要读得实用。温和地拓展到人生，最后在 corrected 上稳稳收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "terrain",
+      "meaning": {
+        "en": "The physical features and conditions of an area of land.",
+        "zh": "地形；一片土地的自然特征与状况。"
+      },
+      "use": {
+        "en": "The terrain became steeper after the bridge.",
+        "zh": "过桥后，地形变得更陡。"
+      }
+    },
+    {
+      "term": "overrule",
+      "meaning": {
+        "en": "To reject or replace a decision or judgment with another.",
+        "zh": "推翻；用另一个决定或判断取代原有决定。"
+      },
+      "use": {
+        "en": "New evidence overruled our first assumption.",
+        "zh": "新证据推翻了我们最初的假设。"
+      }
+    },
+    {
+      "term": "subtle",
+      "meaning": {
+        "en": "Not obvious; delicate and requiring careful attention.",
+        "zh": "细微的；不明显、需要仔细留意的。"
+      },
+      "use": {
+        "en": "There was a subtle change in her tone.",
+        "zh": "她的语气发生了细微变化。"
+      }
+    },
+    {
+      "term": "stride",
+      "meaning": {
+        "en": "A long step, or a person's manner of walking.",
+        "zh": "步幅；长步，或一个人的走路方式。"
+      },
+      "use": {
+        "en": "He shortened his stride on the wet path.",
+        "zh": "在湿滑的小路上，他缩短了步幅。"
+      }
+    },
+    {
+      "term": "margin",
+      "meaning": {
+        "en": "The blank edge of a page, or extra room around a limit.",
+        "zh": "页边空白；也指界限之外的余地。"
+      },
+      "use": {
+        "en": "Leave a margin for delays in the schedule.",
+        "zh": "在日程中为延误留出余地。"
+      }
+    },
+    {
+      "term": "grounded",
+      "meaning": {
+        "en": "Sensible, realistic, and emotionally steady.",
+        "zh": "踏实的；现实、稳健且情绪稳定的。"
+      },
+      "use": {
+        "en": "Her confidence felt grounded in experience.",
+        "zh": "她的自信建立在经验之上，十分踏实。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in crossed, widened, and changed.",
+      "zh": "清楚读出 crossed、widened 和 changed 的词尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress in planning brought you here; attention must decide.",
+      "zh": "在 planning brought you here; attention must decide 中使用对比重音。"
+    },
+    {
+      "en": "Link smoothly in an earlier version of yourself.",
+      "zh": "在 an earlier version of yourself 中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a friend through uncertain ground with practical calm.",
+      "zh": "跟读时，想象你正用务实的冷静带朋友走过不确定的地形。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every change in the trail visible.",
+        "zh": "第一遍：让山路上的每个变化都清晰可见。"
+      },
+      {
+        "en": "Pass two: let revision sound skilled, never ashamed.",
+        "zh": "第二遍：让修正听起来熟练，绝不羞愧。"
+      },
+      {
+        "en": "Pass three: carry the mountain steadiness into the final life lesson.",
+        "zh": "第三遍：把山中的稳定带入最后的人生领悟。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What small correction is reality offering you now?",
+      "zh": "现实此刻正在给你什么细小的修正信号？"
+    },
+    {
+      "en": "Which old plan would become more trustworthy with notes in its margin?",
+      "zh": "哪一个旧计划，在页边添上批注后会变得更可靠？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-trail-correct-the-map/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-trail-correct-the-map/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-trail-correct-the-map/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-trail-correct-the-map/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-trail-correct-the-map/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/let-the-trail-correct-the-map/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-trail-correct-the-map/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-trail-correct-the-map/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-trail-correct-the-map/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-trail-correct-the-map/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-trail-correct-the-map/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-trail-correct-the-map/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-trail-correct-the-map/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-trail-correct-the-map/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-trail-correct-the-map/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-trail-correct-the-map/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-trail-correct-the-map/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-trail-correct-the-map/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-trail-correct-the-map/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-trail-correct-the-map/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-trail-correct-the-map/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-trail-correct-the-map/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-trail-correct-the-map/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-trail-correct-the-map/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-trail-correct-the-map/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-trail-correct-the-map/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-trail-correct-the-map/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-trail-correct-the-map/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-trail-correct-the-map/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-trail-correct-the-map/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-trail-correct-the-map/clips/sources_0.mp3"
+    }
+  }
+}

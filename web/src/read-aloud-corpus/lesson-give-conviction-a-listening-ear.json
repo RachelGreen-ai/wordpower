@@ -1,0 +1,242 @@
+{
+  "lessonId": "give-conviction-a-listening-ear",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Give Conviction a Listening Ear",
+    "zh": "让坚定也长出倾听的耳朵"
+  },
+  "subtitle": {
+    "en": "An original reflection on principled speech, intellectual courage, and disagreement without domination.",
+    "zh": "一篇原创美文：关于有原则的表达、思想勇气，以及不以压倒对方为目的的分歧。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Courage",
+    "Communication",
+    "Reason",
+    "Respect"
+  ],
+  "sources": [
+    {
+      "title": "A Vindication of the Rights of Woman",
+      "author": "Mary Wollstonecraft",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3420",
+      "note": {
+        "en": "Public-domain inspiration for reasoned conviction and equal intellectual dignity; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对理性信念与平等思想尊严的倡导；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with composed conviction. Keep the contrasts exact, and let firmness sound spacious rather than loud.",
+    "zh": "用沉着的坚定朗读。对比要准确，让坚定听起来有空间，而不是只有音量。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Strong Voice with Windows",
+      "zh": "一间有窗的坚定之声"
+    },
+    "intro": {
+      "en": "This original passage asks how we can defend what matters while remaining able to learn.",
+      "zh": "这篇原创文章追问：我们如何捍卫重要之事，同时仍保有学习的能力。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Know What You Are Protecting",
+          "zh": "1. 知道自己在守护什么"
+        },
+        "text": "Before a difficult conversation, anger often arrives carrying a suitcase packed by several days. One careless remark stands beside an old exclusion, a missed promise, and the fear that silence will be mistaken for consent. If we speak from the whole suitcase at once, the listener may hear force but miss the principle. Pause long enough to name what you are protecting. Is it fairness in how work is assigned? Accuracy in how a person is described? The right to finish a sentence without being mocked? A precise value gives courage a direction. It turns a cloud of heat into a statement another person can answer: This matters because it affects who is allowed to participate.",
+        "coaching": {
+          "en": "Let the suitcase image carry weight without drama. Make the three questions distinct, then state the principle cleanly.",
+          "zh": "行李箱意象要有分量但不过度戏剧化。三个问题要分明，最后把原则说得干净。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Replace Volume with Structure",
+          "zh": "2. 用结构代替音量"
+        },
+        "text": "A firm voice does not need to fill every corner of the room. It needs structure. Begin with the observable event, not a verdict about character. Describe the consequence without enlarging it. Then make a request that has a shape: a changed deadline, a corrected record, a turn to speak. Structure steadies the speaker because it reduces the temptation to win by accumulation. We do not need twelve examples when two are clear. We do not need to call someone careless when we can show where care was missing. Specific language is not timid. It is difficult to dismiss because it keeps returning the conversation to what can be examined and changed.",
+        "coaching": {
+          "en": "Use a measured, three-step rhythm. Stress observable, consequence, and request without sounding mechanical.",
+          "zh": "用有节制的三步节奏。强调 observable、consequence 和 request，但不要机械。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Listen for Information, Not Permission",
+          "zh": "3. 倾听信息，而不是等待批准"
+        },
+        "text": "Listening after we speak can feel dangerous. We fear that openness will weaken the boundary we have finally drawn. But listening is not the same as surrender. It is a way of testing whether our account is complete. The other person may offer context, reveal a different impact, or simply avoid responsibility. Each response is information. We can revise a detail without abandoning the principle. We can acknowledge intent while still naming consequence. We can also discover that no shared understanding is available today. Courage does not guarantee agreement. It allows us to remain present long enough to distinguish misunderstanding from refusal, and then choose the next step with clearer eyes.",
+        "coaching": {
+          "en": "Keep the opening vulnerable but steady. Give the repeated we can phrases calm confidence.",
+          "zh": "开头要显出脆弱却保持稳定。重复的 we can 要读出平静的自信。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave a Window in the Wall",
+          "zh": "4. 在墙上留一扇窗"
+        },
+        "text": "Some convictions become walls: they protect us, but they also prevent new light from entering. A mature conviction needs a window. Through it we can ask, What evidence would change my mind? Which experience have I not understood? Where has my own behavior contradicted the value I defend? These questions do not make the wall collapse. They keep integrity from becoming pride in disguise. After the conversation, write down what remains true and what became more complicated. Both belong to honest thought. The strongest voice is not the one that never alters. It is the one that can change a sentence without selling its conscience, and can hold its ground without pretending the ground is the whole world.",
+        "coaching": {
+          "en": "Open the window image gradually. Let the final contrast sound thoughtful, grounded, and free of triumph.",
+          "zh": "逐渐展开窗户意象。最后的对比要深思、踏实，不要有胜利者口吻。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "conviction",
+      "meaning": {
+        "en": "A firmly held belief or principle.",
+        "zh": "坚定信念；牢固持有的观点或原则。"
+      },
+      "use": {
+        "en": "She spoke with conviction but welcomed questions.",
+        "zh": "她表达坚定，也欢迎提问。"
+      }
+    },
+    {
+      "term": "consent",
+      "meaning": {
+        "en": "Agreement or permission given freely.",
+        "zh": "同意；自由作出的认可或许可。"
+      },
+      "use": {
+        "en": "Silence should not automatically be treated as consent.",
+        "zh": "沉默不应自动被视为同意。"
+      }
+    },
+    {
+      "term": "observable",
+      "meaning": {
+        "en": "Able to be seen, noticed, or measured directly.",
+        "zh": "可观察的；能够直接看见、察觉或衡量的。"
+      },
+      "use": {
+        "en": "Begin with an observable fact.",
+        "zh": "从一个可观察的事实开始。"
+      }
+    },
+    {
+      "term": "dismiss",
+      "meaning": {
+        "en": "To reject an idea as unimportant or unworthy of attention.",
+        "zh": "不予理会；把某个观点视为不重要而拒绝。"
+      },
+      "use": {
+        "en": "The evidence was too specific to dismiss.",
+        "zh": "证据太具体，无法轻易忽略。"
+      }
+    },
+    {
+      "term": "surrender",
+      "meaning": {
+        "en": "To give up control, resistance, or a position.",
+        "zh": "放弃；交出控制、抵抗或立场。"
+      },
+      "use": {
+        "en": "Listening is not a form of surrender.",
+        "zh": "倾听并不是投降。"
+      }
+    },
+    {
+      "term": "integrity",
+      "meaning": {
+        "en": "The quality of acting consistently with honest principles.",
+        "zh": "正直；按照诚实原则一致行动的品质。"
+      },
+      "use": {
+        "en": "She corrected herself without losing integrity.",
+        "zh": "她纠正了自己，同时没有失去正直。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use contrastive stress in information, not permission.",
+      "zh": "在 information, not permission 中使用对比重音。"
+    },
+    {
+      "en": "Keep the consonant clusters clear in strongest voice and changed deadline.",
+      "zh": "清楚读出 strongest voice 和 changed deadline 中的辅音组合。"
+    },
+    {
+      "en": "Let the three window questions rise with real curiosity.",
+      "zh": "三个关于窗户的问题要带着真正的好奇自然上扬。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are entering a difficult conversation with both courage and room to learn.",
+      "zh": "跟读时，想象你正带着勇气，也带着学习的空间，进入一场艰难对话。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the protected value precise.",
+        "zh": "第一遍：把所守护的价值读得准确。"
+      },
+      {
+        "en": "Pass two: keep firmness structured rather than loud.",
+        "zh": "第二遍：让坚定来自结构，而不是音量。"
+      },
+      {
+        "en": "Pass three: let openness strengthen the ending.",
+        "zh": "第三遍：让开放使结尾更有力量。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which value lies beneath a conversation you have been avoiding?",
+      "zh": "在你一直回避的一场对话之下，藏着哪项价值？"
+    },
+    {
+      "en": "What evidence could honestly change part of your view?",
+      "zh": "什么证据能够诚实地改变你观点的一部分？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/give-conviction-a-listening-ear/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/give-conviction-a-listening-ear/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/give-conviction-a-listening-ear/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/give-conviction-a-listening-ear/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/give-conviction-a-listening-ear/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/give-conviction-a-listening-ear/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/give-conviction-a-listening-ear/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/give-conviction-a-listening-ear/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/give-conviction-a-listening-ear/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/give-conviction-a-listening-ear/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/give-conviction-a-listening-ear/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/give-conviction-a-listening-ear/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/give-conviction-a-listening-ear/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/give-conviction-a-listening-ear/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/give-conviction-a-listening-ear/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/give-conviction-a-listening-ear/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/give-conviction-a-listening-ear/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/give-conviction-a-listening-ear/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/give-conviction-a-listening-ear/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/give-conviction-a-listening-ear/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/give-conviction-a-listening-ear/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/give-conviction-a-listening-ear/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/give-conviction-a-listening-ear/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/give-conviction-a-listening-ear/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/give-conviction-a-listening-ear/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/give-conviction-a-listening-ear/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/give-conviction-a-listening-ear/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/give-conviction-a-listening-ear/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/give-conviction-a-listening-ear/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/give-conviction-a-listening-ear/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/give-conviction-a-listening-ear/clips/sources_0.mp3"
+    }
+  }
+}

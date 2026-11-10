@@ -1,0 +1,242 @@
+{
+  "lessonId": "hear-the-work-beneath-the-buzz",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Hear the Work Beneath the Buzz",
+    "zh": "听见嗡鸣之下的劳作"
+  },
+  "subtitle": {
+    "en": "An original reflection on cooperation, visible credit, and the quiet intelligence of a working group.",
+    "zh": "一篇原创美文：关于协作、看得见的功劳，以及工作群体中安静的智慧。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Teamwork",
+    "Attention",
+    "Leadership",
+    "Nature"
+  ],
+  "sources": [
+    {
+      "title": "The Life of the Bee",
+      "author": "Maurice Maeterlinck",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/4511",
+      "note": {
+        "en": "Public-domain inspiration for observing coordinated work in a hive; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对蜂巢协作的观察；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert warmth. Let the bee images stay concrete, and give the workplace sentences a calm, practical rhythm.",
+    "zh": "带着敏锐而温暖的语气朗读。蜜蜂的画面要具体，职场句子要平静而务实。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Hive Is More Than Its Hum",
+      "zh": "蜂巢不只有嗡鸣"
+    },
+    "intro": {
+      "en": "This original passage looks past the noise of a group to notice how useful work is actually carried.",
+      "zh": "这篇原创文章越过群体的喧闹，观察真正有用的工作如何被完成。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Stay Long Enough to See",
+          "zh": "1. 多停留一会儿，才看得见"
+        },
+        "text": "Stand near a flowering hedge at noon and the first impression is confusion. Wings cross, bodies vanish into green shade, and the air seems crowded with accident. Stay for ten minutes. A pattern begins to separate itself from the noise. One bee works the lavender, another tests the unopened buds, and each leaves without ceremony. The garden has not become simpler. Your attention has become patient enough to notice order without demanding a conductor. Many teams are misread in the same way. From the doorway, we hear discussion and see motion. Only by staying do we learn who remembers the details, who carries news between rooms, and who quietly repairs the work before anyone notices it was broken.",
+        "coaching": {
+          "en": "Begin with quick, crossing motion. Slow down when the pattern appears, and make the final list appreciative but unsentimental.",
+          "zh": "开头读出交错的快速运动。规律出现时放慢，最后的列举要有欣赏，但不煽情。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Name the Invisible Handovers",
+          "zh": "2. 说出那些无形的交接"
+        },
+        "text": "Cooperation lives in handovers. A question is passed to the person with the clearest evidence. A rough draft reaches someone who can hear where the argument loses breath. A colleague notices that a new employee has fallen silent and makes room for one more voice. None of these acts may appear in the final presentation, yet the presentation depends on them. Good leadership makes such exchanges visible without turning every kindness into a performance. It asks, Who prepared the ground? Who translated between specialties? Who saw the risk early? Credit becomes more accurate when it follows the path of the work instead of stopping at the person nearest the microphone.",
+        "coaching": {
+          "en": "Give each handover its own clean image. Let the three questions rise with genuine inquiry, then land the last sentence firmly.",
+          "zh": "让每次交接都有清晰画面。三个问题要带着真诚探询，最后一句坚定落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Protect Difference from Friction",
+          "zh": "3. 让差异不被摩擦耗尽"
+        },
+        "text": "A useful group is not a row of identical minds. One person moves quickly and discovers openings. Another moves slowly and finds the loose step. One speaks in possibilities; another asks what the calendar can bear. Difference creates friction, but friction is information before it becomes injury. The task is not to erase temperament. It is to build a language in which speed can consult care, imagination can meet constraint, and caution can answer without becoming contempt. When disagreement turns personal, return to the shared object on the table. What are we trying to make safer, clearer, or more alive? A common purpose cannot solve every conflict, but it can keep contrast from hardening into rivalry.",
+        "coaching": {
+          "en": "Balance the contrasting personalities. Keep the central question open and collaborative, never accusatory.",
+          "zh": "平衡地读出不同性格。核心问题要开放、合作，绝不能带指责。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave Some Honey for the Makers",
+          "zh": "4. 给劳作者留下一点蜂蜜"
+        },
+        "text": "Groups fail when every useful thing is taken out and nothing sustaining is returned. A deadline is met, then another arrives. The dependable person receives more dependence. Praise is offered in public while exhaustion is managed in private. A durable team leaves some honey for its makers: time to recover, knowledge that is shared rather than hoarded, and the dignity of seeing one's contribution named accurately. This is not softness added after serious work. It is part of the structure that allows serious work to continue. At dusk, the hedge grows quiet. The day's labor is no longer visible, but its result remains in fruit, seed, and a pattern of mutual dependence. The wisest leader learns to notice both the harvest and the lives that made it possible.",
+        "coaching": {
+          "en": "Let the repeated work sentences gather weight. Soften at dusk, then finish with spacious authority.",
+          "zh": "让重复出现的工作句逐渐加重。黄昏处放柔，结尾从容而有力量。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "ceremony",
+      "meaning": {
+        "en": "Formal display or special attention surrounding an action.",
+        "zh": "仪式；围绕某个行动的正式展示或特别关注。"
+      },
+      "use": {
+        "en": "She solved the problem without ceremony.",
+        "zh": "她不声张地解决了问题。"
+      }
+    },
+    {
+      "term": "handover",
+      "meaning": {
+        "en": "The act of passing responsibility or information to another person.",
+        "zh": "交接；把责任或信息转交给他人的过程。"
+      },
+      "use": {
+        "en": "A clear handover prevented two days of confusion.",
+        "zh": "一次清晰的交接避免了两天的混乱。"
+      }
+    },
+    {
+      "term": "constraint",
+      "meaning": {
+        "en": "A limit that shapes what can be done.",
+        "zh": "限制条件；影响可行范围的约束。"
+      },
+      "use": {
+        "en": "The budget was a real constraint, not an excuse.",
+        "zh": "预算是真实的限制条件，而不是借口。"
+      }
+    },
+    {
+      "term": "friction",
+      "meaning": {
+        "en": "Tension or difficulty between people, ideas, or processes.",
+        "zh": "摩擦；人与人、观点或流程之间的紧张与阻力。"
+      },
+      "use": {
+        "en": "The new schedule created friction between the teams.",
+        "zh": "新日程在团队之间造成了摩擦。"
+      }
+    },
+    {
+      "term": "hoard",
+      "meaning": {
+        "en": "To keep something valuable for oneself instead of sharing it.",
+        "zh": "囤积；把有价值的东西留给自己而不分享。"
+      },
+      "use": {
+        "en": "Strong teams do not hoard useful knowledge.",
+        "zh": "强大的团队不会囤积有用的知识。"
+      }
+    },
+    {
+      "term": "durable",
+      "meaning": {
+        "en": "Able to remain useful or strong over a long time.",
+        "zh": "持久的；能长期保持有用或坚固。"
+      },
+      "use": {
+        "en": "Trust is slower but more durable than excitement.",
+        "zh": "信任形成得更慢，却比兴奋更持久。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in crossed, worked, and shared.",
+      "zh": "清楚读出 crossed、worked 和 shared 的词尾辅音。"
+    },
+    {
+      "en": "Use balanced stress in safer, clearer, or more alive.",
+      "zh": "在 safer、clearer、or more alive 中使用均衡重音。"
+    },
+    {
+      "en": "Link smoothly in the lives that made it possible.",
+      "zh": "在 the lives that made it possible 中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a capable team notice the work it usually overlooks.",
+      "zh": "跟读时，想象你正帮助一个能干的团队看见平时忽略的劳动。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the garden movement quick and visible.",
+        "zh": "第一遍：让花园里的运动快速而清晰。"
+      },
+      {
+        "en": "Pass two: make each workplace handover precise.",
+        "zh": "第二遍：把每一次职场交接读得准确。"
+      },
+      {
+        "en": "Pass three: give the ending gratitude without sentimentality.",
+        "zh": "第三遍：让结尾有感激，但不煽情。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose quiet handover makes your work possible?",
+      "zh": "谁的安静交接，让你的工作得以完成？"
+    },
+    {
+      "en": "What could your group return to the people it depends on?",
+      "zh": "你的群体可以为它所依赖的人回馈什么？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/hear-the-work-beneath-the-buzz/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/hear-the-work-beneath-the-buzz/clips/sources_0.mp3"
+    }
+  }
+}
