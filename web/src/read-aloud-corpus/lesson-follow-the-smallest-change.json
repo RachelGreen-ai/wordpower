@@ -1,0 +1,229 @@
+{
+  "lessonId": "follow-the-smallest-change",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Follow the Smallest Change",
+    "zh": "追随最细微的变化"
+  },
+  "subtitle": {
+    "en": "An original reflection on scientific attention, patient wonder, and the art of asking the next exact question.",
+    "zh": "一篇原创美文：关于科学观察、耐心的惊奇，以及提出下一个准确问题的艺术。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Attention",
+    "Curiosity",
+    "Learning"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration for learning from ordinary phenomena through careful experiment; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品以细致实验研究日常现象的精神；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with lucid curiosity. Let each question open naturally, and give concrete nouns clean edges.",
+    "zh": "带着清澈的好奇朗读。让每个问题自然展开，把具体名词读得清楚有形。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Patient Eye",
+      "zh": "耐心的眼睛"
+    },
+    "intro": {
+      "en": "This original passage follows a small observation from surprise to experiment and back to wonder.",
+      "zh": "这篇原创文章追随一个细小观察，从惊讶走向实验，再回到惊奇。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Mark on the Glass",
+          "zh": "1. 玻璃上的痕迹"
+        },
+        "text": "A student places a cold glass above a candle and notices a faint cloud forming underneath. It would be easy to wipe the glass and continue. Instead, she waits. The cloud gathers into tiny beads, and one bead travels down the side. What changed? The room is the same. The glass looks the same. Only its temperature is different. Attention often begins with a discrepancy so small that pride would overlook it. The patient observer does not demand a grand discovery. She gives the smallest change enough time to become a question.",
+        "coaching": {
+          "en": "Make the experiment easy to picture. Slow through the sequence from cloud to bead to question.",
+          "zh": "把实验读得容易想象。从雾气到水珠再到问题的过程要放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Let the Question Narrow",
+          "zh": "2. 让问题逐渐收窄"
+        },
+        "text": "Curiosity becomes useful when it accepts limits. Is the moisture coming from the wax, the flame, or the surrounding air? Change one condition. Use a warmer glass. Move it farther away. Repeat the observation after the candle is gone. Each trial removes one confusion while creating another. This is not failure; it is the ordinary architecture of knowledge. A precise question does not shrink wonder. It gives wonder a handle. We can carry it to the table, compare it with yesterday's result, and invite another person to test what we think we saw.",
+        "coaching": {
+          "en": "Give the three possible causes distinct stress. Keep the trial sentences crisp, then warm the phrase wonder a handle.",
+          "zh": "三种可能原因要分别重读。实验句要利落，再把 wonder a handle 读得温暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Return to the Ordinary World",
+          "zh": "3. 回到日常世界"
+        },
+        "text": "After measurement, the candle is no longer merely decorative. It has become a meeting place for fuel, heat, air, water, and light. Explanation has not emptied the object of beauty; it has given beauty more rooms. The same habit can travel beyond the laboratory. Notice which word changes a tense meeting. Notice when a seedling turns toward the window. Notice the moment your own concentration begins to fray. Do not rush to name a law. Record the change, adjust one condition, and look again. Patient attention lets ordinary things disclose relationships that hurried certainty would miss. A life of inquiry is built from such returns: the world, the question, the test, and then the world seen more clearly.",
+        "coaching": {
+          "en": "Let the list of elements feel spacious. Build gentle momentum through the repeated notice phrases and resolve the final sequence clearly.",
+          "zh": "元素的列举要有空间。三个 notice 逐渐推进，最后的序列要清楚收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "lucid",
+      "meaning": {
+        "en": "Clear, easy to understand, or bright in thought.",
+        "zh": "清晰的；易懂或思路明澈的。"
+      },
+      "use": {
+        "en": "She gave a lucid explanation of the result.",
+        "zh": "她对结果作出了清晰的解释。"
+      }
+    },
+    {
+      "term": "discrepancy",
+      "meaning": {
+        "en": "A difference between things expected to agree.",
+        "zh": "差异；本应一致的事物之间的不同。"
+      },
+      "use": {
+        "en": "A small discrepancy led to a better question.",
+        "zh": "一个小差异引出了更好的问题。"
+      }
+    },
+    {
+      "term": "phenomenon",
+      "meaning": {
+        "en": "An event or fact that can be observed and studied.",
+        "zh": "现象；可以观察和研究的事件或事实。"
+      },
+      "use": {
+        "en": "Condensation is an everyday phenomenon.",
+        "zh": "凝结是一种日常现象。"
+      }
+    },
+    {
+      "term": "condition",
+      "meaning": {
+        "en": "A circumstance that affects how something happens.",
+        "zh": "条件；影响事情如何发生的环境因素。"
+      },
+      "use": {
+        "en": "Change one condition at a time.",
+        "zh": "每次只改变一个条件。"
+      }
+    },
+    {
+      "term": "trial",
+      "meaning": {
+        "en": "A test performed to learn whether something works or is true.",
+        "zh": "试验；为了解某事是否有效或真实而进行的测试。"
+      },
+      "use": {
+        "en": "The second trial produced a clearer result.",
+        "zh": "第二次试验得出了更清晰的结果。"
+      }
+    },
+    {
+      "term": "inquiry",
+      "meaning": {
+        "en": "The process of asking questions and investigating.",
+        "zh": "探究；提出问题并进行调查的过程。"
+      },
+      "use": {
+        "en": "Inquiry begins with careful attention.",
+        "zh": "探究始于细致的观察。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters clear in smallest change and cold glass.",
+      "zh": "清楚读出 smallest change 和 cold glass 中的辅音组合。"
+    },
+    {
+      "en": "Use a light rising tone for the three possible sources of moisture.",
+      "zh": "列举水汽的三种可能来源时使用轻微上扬语调。"
+    },
+    {
+      "en": "Build rhythm through the final sequence: the world, the question, the test.",
+      "zh": "在结尾 the world, the question, the test 的序列中建立节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if each sentence is one careful step in an experiment.",
+      "zh": "跟读时，把每个句子都当作实验中谨慎的一步。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every physical detail visible.",
+        "zh": "第一遍：让每个物理细节都可见。"
+      },
+      {
+        "en": "Pass two: let the questions sound genuinely curious.",
+        "zh": "第二遍：让问题听起来真正好奇。"
+      },
+      {
+        "en": "Pass three: connect explanation with wonder.",
+        "zh": "第三遍：把解释与惊奇连接起来。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What small discrepancy have you recently ignored?",
+      "zh": "你最近忽略了哪个细微差异？"
+    },
+    {
+      "en": "Which single condition could you change to test your next question?",
+      "zh": "你可以改变哪一个条件，来检验下一个问题？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/follow-the-smallest-change/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/follow-the-smallest-change/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/follow-the-smallest-change/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/follow-the-smallest-change/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/follow-the-smallest-change/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/follow-the-smallest-change/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/follow-the-smallest-change/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/follow-the-smallest-change/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/follow-the-smallest-change/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/follow-the-smallest-change/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/follow-the-smallest-change/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/follow-the-smallest-change/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/follow-the-smallest-change/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/follow-the-smallest-change/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/follow-the-smallest-change/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/follow-the-smallest-change/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/follow-the-smallest-change/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/follow-the-smallest-change/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/follow-the-smallest-change/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/follow-the-smallest-change/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/follow-the-smallest-change/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/follow-the-smallest-change/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/follow-the-smallest-change/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/follow-the-smallest-change/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/follow-the-smallest-change/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/follow-the-smallest-change/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/follow-the-smallest-change/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/follow-the-smallest-change/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/follow-the-smallest-change/clips/sources_0.mp3"
+    }
+  }
+}

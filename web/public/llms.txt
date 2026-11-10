@@ -90,6 +90,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
 - [Facts Before Blame](https://wordpower-seven.vercel.app/read-aloud/facts-before-blame): An original reflection on calm leadership, accountability, and making a crisis usable.
 - [Follow the Small Question](https://wordpower-seven.vercel.app/read-aloud/follow-the-small-question): An original reflection on scientific wonder, patient observation, and the courage to take ordinary mysteries seriously.
+- [Follow the Smallest Change](https://wordpower-seven.vercel.app/read-aloud/follow-the-smallest-change): An original reflection on scientific attention, patient wonder, and the art of asking the next exact question.
 - [Freedom Needs an Inner Home.](https://wordpower-seven.vercel.app/read-aloud/freedom-needs-inner-home): A Fromm-inspired reflective passage on why freedom can feel frightening unless the self has somewhere to stand.
 - [Give Conviction a Listening Ear](https://wordpower-seven.vercel.app/read-aloud/give-conviction-a-listening-ear): An original reflection on principled speech, intellectual courage, and disagreement without domination.
 - [Give the Child a Real Task](https://wordpower-seven.vercel.app/read-aloud/give-the-child-a-real-task): An original reflection on trust, capable hands, and the dignity of contributing to family life.
@@ -121,6 +122,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Learn the Shape of Looking](https://wordpower-seven.vercel.app/read-aloud/learn-the-shape-of-looking): An original reflection on drawing, attention, and the patient craft of seeing what is actually there.
 - [Leave an Honest Edge](https://wordpower-seven.vercel.app/read-aloud/leave-a-honest-edge): An original reflection on craft, revision, and making work that still bears the warmth of a human hand.
 - [Leave a Margin in the Day](https://wordpower-seven.vercel.app/read-aloud/leave-a-margin-in-the-day): An original reflection on rest, attention, and the small spaces that return us to ourselves.
+- [Leave a Place for the Unseen](https://wordpower-seven.vercel.app/read-aloud/leave-a-place-for-the-unseen): An original reflection on moral imagination, incomplete stories, and the discipline of generous judgment.
 - [Leave Clear Footprints](https://wordpower-seven.vercel.app/read-aloud/leave-clear-footprints): An original reflection on handovers, useful records, and the quiet generosity of work that others can continue.
 - [Leave One Stroke Unfinished](https://wordpower-seven.vercel.app/read-aloud/leave-one-stroke-unfinished): An original reflection on drawing, attention, and the courage to keep looking.
 - [Leave Room for Another Story](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-another-story): An original reflection on moral imagination, careful judgment, and the stories we cannot see.
@@ -154,6 +156,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Listen for the Unfinished Sentence](https://wordpower-seven.vercel.app/read-aloud/listen-for-the-unfinished-sentence): An original reflection on civic listening, hidden experience, and the patience required to understand across difference.
 - [Listen Past the First Answer](https://wordpower-seven.vercel.app/read-aloud/listen-past-the-first-answer): An original reflection on moral imagination, patient questions, and the stories people reveal slowly.
 - [Listen Until the Room Has Depth](https://wordpower-seven.vercel.app/read-aloud/listen-until-the-room-has-depth): An original reflection on attention, silence, and recovering the layered world around us.
+- [Lower the Lamp, Not the Truth](https://wordpower-seven.vercel.app/read-aloud/lower-the-lamp-not-the-truth): An original reflection on calm communication, honest boundaries, and language that leaves dignity intact.
 - [Lower the Temperature of the Room](https://wordpower-seven.vercel.app/read-aloud/lower-the-temperature-of-the-room): An original reflection on calm communication, leadership, and the strength of a well-timed pause.
 - [Lower the Temperature](https://wordpower-seven.vercel.app/read-aloud/lower-the-temperature): An original reflection on calm communication, accurate disagreement, and the strength of an unhurried reply.
 - [Lower Your Voice, Keep Your Ground](https://wordpower-seven.vercel.app/read-aloud/lower-your-voice-keep-your-ground): An original reflection on calm disagreement, precise language, and strength that does not need to shout.

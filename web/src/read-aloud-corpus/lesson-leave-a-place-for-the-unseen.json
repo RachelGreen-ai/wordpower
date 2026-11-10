@@ -1,0 +1,229 @@
+{
+  "lessonId": "leave-a-place-for-the-unseen",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave a Place for the Unseen",
+    "zh": "为未见之事留一个位置"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, incomplete stories, and the discipline of generous judgment.",
+    "zh": "一篇原创美文：关于道德想象、不完整的故事，以及宽厚判断的修养。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Imagination",
+    "Empathy",
+    "Judgment",
+    "Humanity"
+  ],
+  "sources": [
+    {
+      "title": "Silas Marner",
+      "author": "George Eliot",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/550",
+      "note": {
+        "en": "Public-domain inspiration for the hidden histories within ordinary lives; this lesson is entirely original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对平凡生命中隐秘经历的关注；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with observant warmth. Keep the images vivid and allow uncertainty to sound intelligent, not weak.",
+    "zh": "带着善意的观察力朗读。让画面鲜明，也让不确定听起来是智慧，而非软弱。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Empty Margin",
+      "zh": "留白的页边"
+    },
+    "intro": {
+      "en": "This original passage asks what changes when we admit that every visible life has an invisible margin.",
+      "zh": "这篇原创文章追问：当我们承认每个可见的人生都有不可见的留白，判断会如何改变。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Story at the Bus Stop",
+          "zh": "1. 公交站的故事"
+        },
+        "text": "At a bus stop in the rain, a man pushes ahead of an older woman and takes the only dry seat. The scene seems complete. We assign the roles quickly: selfish man, patient woman, careless city. Then his phone rings. He says, I am coming back to the hospital now, and covers his face with both hands. The action does not become courteous, and the woman is still left standing. Yet the frame widens. Moral imagination begins in this difficult middle place, where we neither excuse what happened nor pretend we know the whole person from one visible minute.",
+        "coaching": {
+          "en": "Tell the opening scene simply. Pause after the phone call, then make the final distinction calm and exact.",
+          "zh": "开场画面要朴素叙述。电话响后停顿，再把结尾的区分读得平静而准确。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Refuse the Finished Portrait",
+          "zh": "2. 拒绝过早完成的肖像"
+        },
+        "text": "The mind loves a finished portrait because unfinished people require patience. A colleague misses a deadline, and we paint laziness into every corner. A child answers sharply, and we call the whole character disrespectful. But behavior is evidence, not a complete biography. We can address the missed work, set a consequence, and still leave the portrait unfinished. This is not sentimental blindness. It is accuracy with humility. Ask what else might belong in the frame: grief, confusion, an instruction never understood, a burden carefully hidden. We may receive no new explanation. The question still protects us from turning limited knowledge into unlimited judgment.",
+        "coaching": {
+          "en": "Stress evidence, not a complete biography. Let the list of hidden possibilities remain restrained rather than dramatic.",
+          "zh": "重读 evidence, not a complete biography。隐藏可能性的列举要克制，不要戏剧化。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Offer Room Without Intrusion",
+          "zh": "3. 留空间，但不闯入"
+        },
+        "text": "Imagination can also become intrusive. Another person does not owe us a confession merely because we have become curious. A generous question opens a door without pulling anyone through it: You seem under pressure; is there something practical I should know, or some help that would be useful? The answer may be no. Respect that boundary. We can be humane without demanding the private cause of every public mistake. Leave a place for the unseen, then act on what is known. Correct the error. Protect the person who was harmed. Keep one margin blank. In that small white space, justice becomes less eager to humiliate, and compassion learns to live beside clear standards.",
+        "coaching": {
+          "en": "Give the sample question genuine openness. Keep the short action sentences firm, then soften slightly into the final image.",
+          "zh": "示例问题要读出真正的开放。几个简短行动句要坚定，最后进入留白意象时稍微放柔。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "courteous",
+      "meaning": {
+        "en": "Polite and considerate toward others.",
+        "zh": "有礼貌的；体谅他人的。"
+      },
+      "use": {
+        "en": "Her reply was brief but courteous.",
+        "zh": "她的回答简短却有礼。"
+      }
+    },
+    {
+      "term": "moral imagination",
+      "meaning": {
+        "en": "The ability to imagine another person's experience when making an ethical judgment.",
+        "zh": "道德想象；在伦理判断中设想他人经历的能力。"
+      },
+      "use": {
+        "en": "Moral imagination widened his first impression.",
+        "zh": "道德想象拓宽了他的第一印象。"
+      }
+    },
+    {
+      "term": "biography",
+      "meaning": {
+        "en": "The story or account of a person's life.",
+        "zh": "传记；一个人的生命故事或记录。"
+      },
+      "use": {
+        "en": "One mistake is not a complete biography.",
+        "zh": "一次错误并不是完整的人生传记。"
+      }
+    },
+    {
+      "term": "humility",
+      "meaning": {
+        "en": "A modest awareness of the limits of one's knowledge or importance.",
+        "zh": "谦逊；意识到自身知识或重要性有限。"
+      },
+      "use": {
+        "en": "Good judgment requires humility.",
+        "zh": "良好的判断需要谦逊。"
+      }
+    },
+    {
+      "term": "intrusive",
+      "meaning": {
+        "en": "Entering another person's space or privacy without welcome.",
+        "zh": "冒犯隐私的；不受欢迎地进入他人空间的。"
+      },
+      "use": {
+        "en": "Her questions felt caring, not intrusive.",
+        "zh": "她的问题让人感到关心，而非侵犯。"
+      }
+    },
+    {
+      "term": "confession",
+      "meaning": {
+        "en": "A private admission of truth, fault, or feeling.",
+        "zh": "坦白；对真相、过错或感受的私下承认。"
+      },
+      "use": {
+        "en": "Kindness does not entitle us to a confession.",
+        "zh": "善意并不赋予我们索取坦白的权利。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the consonants smoothly in one visible minute and finished portrait.",
+      "zh": "顺畅连读 one visible minute 和 finished portrait 中的辅音。"
+    },
+    {
+      "en": "Use contrastive stress in behavior is evidence, not a complete biography.",
+      "zh": "在 behavior is evidence, not a complete biography 中使用对比重音。"
+    },
+    {
+      "en": "Keep the short commands near the end separate, grounded, and clear.",
+      "zh": "结尾附近的短祈使句要彼此分开，沉稳而清晰。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are widening a frame while keeping your standards clear.",
+      "zh": "跟读时，想象你正在拓宽画面，同时保持标准清晰。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make each scene visible.",
+        "zh": "第一遍：让每个场景都可见。"
+      },
+      {
+        "en": "Pass two: balance accountability with humility.",
+        "zh": "第二遍：平衡责任与谦逊。"
+      },
+      {
+        "en": "Pass three: let the blank margin create quiet space.",
+        "zh": "第三遍：让留白创造安静的空间。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose unfinished portrait have you completed too quickly?",
+      "zh": "你曾过早画完了谁的未完成肖像？"
+    },
+    {
+      "en": "How can you address a behavior without claiming to know the whole person?",
+      "zh": "你如何处理一种行为，同时不声称自己了解完整的那个人？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-a-place-for-the-unseen/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-a-place-for-the-unseen/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-a-place-for-the-unseen/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-a-place-for-the-unseen/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-a-place-for-the-unseen/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/leave-a-place-for-the-unseen/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-a-place-for-the-unseen/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-a-place-for-the-unseen/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-a-place-for-the-unseen/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-a-place-for-the-unseen/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-a-place-for-the-unseen/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-a-place-for-the-unseen/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-a-place-for-the-unseen/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-a-place-for-the-unseen/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-a-place-for-the-unseen/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-a-place-for-the-unseen/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-a-place-for-the-unseen/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-a-place-for-the-unseen/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-a-place-for-the-unseen/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-a-place-for-the-unseen/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-a-place-for-the-unseen/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-a-place-for-the-unseen/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-a-place-for-the-unseen/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-a-place-for-the-unseen/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-a-place-for-the-unseen/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-a-place-for-the-unseen/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-a-place-for-the-unseen/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-a-place-for-the-unseen/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-a-place-for-the-unseen/clips/sources_0.mp3"
+    }
+  }
+}

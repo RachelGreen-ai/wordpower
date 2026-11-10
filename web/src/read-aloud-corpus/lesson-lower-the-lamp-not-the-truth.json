@@ -1,0 +1,229 @@
+{
+  "lessonId": "lower-the-lamp-not-the-truth",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Lower the Lamp, Not the Truth",
+    "zh": "调低灯光，不减真话"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm communication, honest boundaries, and language that leaves dignity intact.",
+    "zh": "一篇原创美文：关于平静沟通、诚实边界，以及为彼此保留尊严的语言。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Calm",
+    "Boundaries",
+    "Respect"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration for self-command and humane conduct; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对自持与仁厚行为的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with quiet authority. Let pauses cool the room while key words remain precise.",
+    "zh": "用安静的力量朗读。让停顿为房间降温，同时把关键词说得准确。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Cooler Light",
+      "zh": "一束更清凉的光"
+    },
+    "intro": {
+      "en": "This original passage explores how a softer delivery can carry an undiminished truth.",
+      "zh": "这篇原创文章探讨：更温和的表达，如何承载丝毫不减的真相。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Notice the Heat",
+          "zh": "1. 先觉察温度"
+        },
+        "text": "A hard conversation often announces itself in the body before it reaches the mouth. The jaw tightens. The breath climbs. Every sentence begins to sound like a door being shut. At such a moment, waiting is not cowardice; it is preparation. Put both feet on the floor and ask what must still be true when the heat has passed. Perhaps a promise was broken. Perhaps a joke crossed a boundary. Name the fact in one plain sentence. A steady voice does not erase the injury. It removes the smoke around it, so both people can see where the fire actually began.",
+        "coaching": {
+          "en": "Keep the bodily details concrete. Slow down at waiting is not cowardice, then land the final fire image gently.",
+          "zh": "身体细节要读得具体。在 waiting is not cowardice 处放慢，最后的火焰意象要轻稳落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Speak Without a Weapon",
+          "zh": "2. 不把语言变成武器"
+        },
+        "text": "When we feel dismissed, language offers quick weapons: always, never, everyone knows. They promise protection but usually invite a counterattack. Trade them for coordinates. Say when the event occurred, what you heard, and what consequence followed. Instead of You never listen, try, When I was interrupted twice in the meeting, I stopped explaining the risk. This is not a weaker sentence. It is more accountable because it can be examined. It also gives the listener a path back into the conversation. Precision is a form of mercy: it limits the charge to what happened and refuses to turn one failure into a permanent identity.",
+        "coaching": {
+          "en": "Contrast the weapon words with the precise example. Give precision is a form of mercy warm, deliberate emphasis.",
+          "zh": "把武器般的词与具体例句读出对比。温暖而郑重地强调 precision is a form of mercy。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Make a Doorway",
+          "zh": "3. 留出一扇门"
+        },
+        "text": "Truth needs somewhere to go after it is spoken. A complaint without a request can circle the room like a trapped bird. Ask for a repair that is visible: a correction sent to the team, ten uninterrupted minutes tomorrow, a decision written down before Friday. Then leave enough silence for an answer. The other person may apologize, explain, bargain, or refuse. You do not control that part. You control whether your words build a doorway or another wall. Calm communication is not the art of making every meeting pleasant. It is the practice of lowering the lamp so no one is blinded, while keeping enough light to find the next honest step.",
+        "coaching": {
+          "en": "Let the trapped-bird sentence move, then pause through the list of possible answers. Finish with calm clarity, not sentimentality.",
+          "zh": "困鸟的句子要有流动感；列举可能回应时适当停顿。结尾要清醒平静，不要煽情。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "undiminished",
+      "meaning": {
+        "en": "Not reduced in strength or importance.",
+        "zh": "未减弱的；力量或重要性没有降低的。"
+      },
+      "use": {
+        "en": "Her concern remained undiminished, though her voice was calm.",
+        "zh": "尽管声音平静，她的关切丝毫未减。"
+      }
+    },
+    {
+      "term": "cowardice",
+      "meaning": {
+        "en": "A lack of courage in facing difficulty.",
+        "zh": "怯懦；面对困难时缺乏勇气。"
+      },
+      "use": {
+        "en": "A thoughtful pause is not cowardice.",
+        "zh": "深思后的停顿并不是怯懦。"
+      }
+    },
+    {
+      "term": "counterattack",
+      "meaning": {
+        "en": "An attack made in response to another attack.",
+        "zh": "反击；针对攻击作出的回击。"
+      },
+      "use": {
+        "en": "Accusations often invite a counterattack.",
+        "zh": "指责往往会招来反击。"
+      }
+    },
+    {
+      "term": "accountable",
+      "meaning": {
+        "en": "Open to explanation, examination, and responsibility.",
+        "zh": "可问责的；愿意接受解释、检验并承担责任的。"
+      },
+      "use": {
+        "en": "Specific language keeps us accountable.",
+        "zh": "具体的语言让我们对自己负责。"
+      }
+    },
+    {
+      "term": "precision",
+      "meaning": {
+        "en": "The quality of being exact and clear.",
+        "zh": "精确；准确而清晰的品质。"
+      },
+      "use": {
+        "en": "Precision can make difficult feedback kinder.",
+        "zh": "准确能让艰难的反馈更友善。"
+      }
+    },
+    {
+      "term": "bargain",
+      "meaning": {
+        "en": "To negotiate the terms of an agreement.",
+        "zh": "协商；商议协议的条件。"
+      },
+      "use": {
+        "en": "They bargained over the new deadline.",
+        "zh": "他们就新的截止日期进行了协商。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use contrastive stress in lower the lamp, not the truth.",
+      "zh": "在 lower the lamp, not the truth 中使用对比重音。"
+    },
+    {
+      "en": "Keep the final consonants clear in crossed a boundary and next honest step.",
+      "zh": "清楚读出 crossed a boundary 和 next honest step 的词尾辅音。"
+    },
+    {
+      "en": "Let the four possible answers fall in an even, unhurried rhythm.",
+      "zh": "四种可能的回应要用均匀、不急促的节奏读出。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you must protect both a boundary and the possibility of repair.",
+      "zh": "跟读时，想象你既要守住边界，也要守住修复的可能。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: cool the pace without losing firmness.",
+        "zh": "第一遍：放缓节奏，但不失坚定。"
+      },
+      {
+        "en": "Pass two: make every fact and request specific.",
+        "zh": "第二遍：把每个事实和请求都读得具体。"
+      },
+      {
+        "en": "Pass three: leave audible space for the other person.",
+        "zh": "第三遍：在声音里为对方留出空间。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which weapon word could you replace with a precise observation?",
+      "zh": "你可以把哪个武器般的词，换成一个准确的观察？"
+    },
+    {
+      "en": "What visible repair would move one difficult conversation forward?",
+      "zh": "哪一种看得见的修复，能让一场艰难对话向前一步？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/lower-the-lamp-not-the-truth/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/lower-the-lamp-not-the-truth/clips/sources_0.mp3"
+    }
+  }
+}
