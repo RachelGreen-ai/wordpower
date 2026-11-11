@@ -1,0 +1,229 @@
+{
+  "lessonId": "keep-a-window-for-weather",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Keep a Window for Weather",
+    "zh": "为天气留一扇窗"
+  },
+  "subtitle": {
+    "en": "An original reflection on reading the living world before reducing it to a forecast.",
+    "zh": "一篇原创美文：在把世界简化为天气预报之前，先学会读懂它鲜活的变化。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Nature",
+    "Attention",
+    "Observation",
+    "Wonder"
+  ],
+  "sources": [
+    {
+      "title": "The Natural History of Selborne",
+      "author": "Gilbert White",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/20933",
+      "note": {
+        "en": "Public-domain inspiration for patient local observation; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域著作中对一方水土的耐心观察；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read like an observer at an open window. Make each image precise, and let the changes in weather gently alter your pace.",
+    "zh": "像站在敞开的窗前观察一样朗读。每个画面都要清晰，并让天气的变化轻轻改变你的语速。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Sky Is More Than a Number",
+      "zh": "天空不只是一个数字"
+    },
+    "intro": {
+      "en": "This original passage invites us to recover the small, practical pleasure of noticing weather as it arrives.",
+      "zh": "这篇原创文章邀请我们重新体会一种细小而实际的乐趣：观察天气如何到来。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Before the Forecast",
+          "zh": "1. 在天气预报之前"
+        },
+        "text": "Before reaching for the forecast, open a window. The air may already know what the screen is about to tell you. It carries the cool mineral smell that rises before rain, or the dry brightness of a morning that will hold its heat. Along the roofline, swallows cut lower paths through the sky. Leaves turn their pale undersides outward. None of these signs is a command, and none is perfectly reliable. They are invitations to look. Weather is not merely a number delivered from elsewhere. It is a conversation already taking place against your skin.",
+        "coaching": {
+          "en": "Begin with a clear invitation. Linger over the sensory details, then give the final sentence a warm, widening tone.",
+          "zh": "开头要像发出清晰的邀请。在感官细节处稍作停留，末句用温暖而开阔的语气收束。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Local Education",
+          "zh": "2. 一场在地的教育"
+        },
+        "text": "To notice weather well is to become a student of one place. You learn where puddles gather first and which wall keeps the afternoon sun. You recognize the sudden silence that comes before a hard shower. Over time, the ordinary becomes articulate. The garden does not speak in sentences, yet it offers evidence: soil darkening, stems bending, insects sheltering under leaves. This knowledge cannot replace a satellite, nor should it try. Its value is different. It gives scale and intimacy to information. The forecast says rain is likely; the doorstep shows you how rain enters your particular life.",
+        "coaching": {
+          "en": "Keep the list observant rather than dramatic. Stress scale and intimacy, then make the final contrast feel personal.",
+          "zh": "列举时保持观察感，不要过度渲染。重读 scale and intimacy，最后的对比要读出个人体验。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Leave Something Unmeasured",
+          "zh": "3. 留一点不去测量"
+        },
+        "text": "Accuracy is useful, but attention offers another gift. It lets us meet a day before deciding whether it is good or bad. A gray morning may reveal ten shades of silver. A strong wind may inconvenience the cyclist and delight the child holding a ribbon. Even a familiar season arrives by a slightly different door each year. When we notice this, we stop asking the world to repeat itself for our comfort. We become more responsive, less sealed inside expectation. So keep the forecast, by all means. But keep a window too—a place where knowledge can be corrected by contact, and where the day can still surprise you.",
+        "coaching": {
+          "en": "Use gentle contrast through the gray morning and strong wind. Pause before But keep a window too, and finish with quiet delight.",
+          "zh": "在灰色清晨与强风的例子中读出柔和对比。在 But keep a window too 前停顿，结尾带着安静的欣喜。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "roofline",
+      "meaning": {
+        "en": "The outline or edge formed by the roofs of buildings.",
+        "zh": "屋顶轮廓线；建筑屋顶形成的边缘或线条。"
+      },
+      "use": {
+        "en": "Dark clouds gathered above the roofline.",
+        "zh": "乌云在屋顶轮廓线上方聚集。"
+      }
+    },
+    {
+      "term": "reliable",
+      "meaning": {
+        "en": "Consistently accurate or able to be trusted.",
+        "zh": "可靠的；持续准确、值得信赖的。"
+      },
+      "use": {
+        "en": "The old sign is useful, though not always reliable.",
+        "zh": "这个老办法很有用，但并非总是可靠。"
+      }
+    },
+    {
+      "term": "articulate",
+      "meaning": {
+        "en": "Able to express meaning clearly, here without literal speech.",
+        "zh": "善于表达的；此处指无需言语也能清楚传达信息。"
+      },
+      "use": {
+        "en": "Her careful photographs made the landscape articulate.",
+        "zh": "她细致的照片让风景仿佛会说话。"
+      }
+    },
+    {
+      "term": "intimacy",
+      "meaning": {
+        "en": "Close familiarity with a person, place, or subject.",
+        "zh": "亲近感；对人、地方或事物的深入熟悉。"
+      },
+      "use": {
+        "en": "Daily walks gave him an intimacy with the neighborhood.",
+        "zh": "每天散步让他对这个街区有了亲切而深入的了解。"
+      }
+    },
+    {
+      "term": "responsive",
+      "meaning": {
+        "en": "Ready to notice and react thoughtfully to change.",
+        "zh": "善于回应的；能觉察变化并作出恰当反应的。"
+      },
+      "use": {
+        "en": "A responsive leader adjusts when new evidence appears.",
+        "zh": "善于回应的领导者会在新证据出现时及时调整。"
+      }
+    },
+    {
+      "term": "by all means",
+      "meaning": {
+        "en": "Certainly; used to warmly allow or encourage something.",
+        "zh": "当然可以；用于欣然允许或鼓励某事。"
+      },
+      "use": {
+        "en": "Use the map, by all means, but look up as you walk.",
+        "zh": "当然可以用地图，但走路时也要抬头看看。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly in open a window and already know.",
+      "zh": "在 open a window 和 already know 中自然连读。"
+    },
+    {
+      "en": "Use contrastive stress in not merely a number, but a conversation.",
+      "zh": "在 not merely a number, but a conversation 中使用对比重音。"
+    },
+    {
+      "en": "Keep the consonant clusters clear in forecast, doorstep, and responsive.",
+      "zh": "清楚读出 forecast、doorstep 和 responsive 中的辅音组合。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if describing the view to someone who cannot see it yet.",
+      "zh": "跟读时，想象你正在为一个尚未看到景象的人描绘窗外。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every physical detail visible.",
+        "zh": "第一遍：让每个具体细节都变得可见。"
+      },
+      {
+        "en": "Pass two: keep the lists light and rhythmical.",
+        "zh": "第二遍：让列举保持轻盈而有节奏。"
+      },
+      {
+        "en": "Pass three: let the final invitation sound generous, not instructive.",
+        "zh": "第三遍：让最后的邀请听起来宽厚，而不是在说教。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What does the weather reveal first in the place where you live?",
+      "zh": "在你居住的地方，天气最先通过什么显露变化？"
+    },
+    {
+      "en": "What useful information becomes richer when you add direct observation?",
+      "zh": "哪些实用信息在加入亲身观察后，会变得更加丰富？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-window-for-weather/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-window-for-weather/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-window-for-weather/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-window-for-weather/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-window-for-weather/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/keep-a-window-for-weather/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-window-for-weather/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-window-for-weather/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-window-for-weather/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-window-for-weather/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-window-for-weather/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-window-for-weather/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-window-for-weather/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-window-for-weather/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-window-for-weather/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-window-for-weather/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-window-for-weather/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-window-for-weather/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-window-for-weather/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-window-for-weather/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-window-for-weather/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-window-for-weather/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-window-for-weather/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-window-for-weather/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-window-for-weather/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-window-for-weather/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-window-for-weather/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-window-for-weather/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-window-for-weather/clips/sources_0.mp3"
+    }
+  }
+}

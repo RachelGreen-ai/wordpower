@@ -1,0 +1,229 @@
+{
+  "lessonId": "leave-time-for-the-longer-answer",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave Time for the Longer Answer",
+    "zh": "给更长的回答留出时间"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient questions, family stories, and the dignity of an unhurried reply.",
+    "zh": "一篇原创美文：关于耐心提问、家庭故事，以及从容回答所拥有的尊严。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Patience",
+    "Conversation",
+    "Respect"
+  ],
+  "sources": [
+    {
+      "title": "Twenty Years at Hull-House",
+      "author": "Jane Addams",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1325",
+      "note": {
+        "en": "Public-domain inspiration for dignified listening across generations and social experience; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域著作中跨越世代与生活经验、尊重他人地倾听；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with the patience of a good host. Let questions remain open, and give the remembered objects a warm, unhurried presence.",
+    "zh": "像一位耐心的主人那样朗读。让问题保持敞开，也让记忆中的物件带着温度、从容出现。"
+  },
+  "passage": {
+    "title": {
+      "en": "What the Short Question Cannot Hold",
+      "zh": "短问题装不下的东西"
+    },
+    "intro": {
+      "en": "This original passage explores how a patient conversation can return depth to stories that hurry has flattened.",
+      "zh": "这篇原创文章探索：一场耐心的交谈，如何把被匆忙压扁的故事重新还原出深度。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Efficient Question",
+          "zh": "1. 高效的问题"
+        },
+        "text": "At the dinner table, a child asks her grandfather, Did you like school? The question seems simple enough for yes or no. He begins with neither. He remembers a blue gate, a classroom that smelled of chalk in winter, and the walk home beside a canal. The child shifts in her chair. An adult may be tempted to rescue the conversation: Grandpa, she only asked whether you liked it. But perhaps the longer answer is not a failure to understand. Perhaps it is the shape memory takes when it is allowed to arrive whole.",
+        "coaching": {
+          "en": "Keep the scene intimate and natural. Let the remembered details slow the pace, then give the final perhaps genuine openness.",
+          "zh": "场景要亲切自然。回忆细节处放慢语速，最后的 perhaps 要读出真正的开放感。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Facts Have Neighbors",
+          "zh": "2. 事实也有邻居"
+        },
+        "text": "A fact rarely lives alone. It has neighbors: the room where it happened, the rule nobody explained, the person who made it bearable. When we hurry someone toward the point, we may collect the fact and lose its meaning. This happens with children too. Why are you upset? we ask, while already preparing a solution. Their answer may wander through a missing pencil, a laugh in the hallway, and a game whose rules changed without warning. To an efficient ear, these details are clutter. To a patient ear, they are a map. The speaker is showing us where the feeling learned its name.",
+        "coaching": {
+          "en": "Give Facts have neighbors gentle emphasis. Keep the child's list connected, and land on learned its name with tenderness.",
+          "zh": "轻轻强调 Facts have neighbors。孩子的细节要连贯自然，在 learned its name 上温柔收束。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Hospitality in Time",
+          "zh": "3. 时间里的款待"
+        },
+        "text": "Listening is sometimes described as giving space. It also means giving time: not endless time, but enough for a thought to find its own doorway. We can help by asking one more question and not answering it ourselves. What happened next? What do you remember most clearly? We can tolerate a detour without treating it as waste. Such patience does more than gather information. It tells the speaker, Your experience does not have to become smaller to be welcome here. The child learns that her inner life can be spoken. The elder learns that his memories still have a listener. And the family discovers that understanding is not always efficient, but it can be deeply exact.",
+        "coaching": {
+          "en": "Pause after each sample question. Read the welcome sentence with simple sincerity, then let the final contrast settle slowly.",
+          "zh": "每个示例问题之后都停顿。欢迎对方的那句话要真诚朴素，最后的对比缓缓落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "unhurried",
+      "meaning": {
+        "en": "Calm and not forced to move or speak quickly.",
+        "zh": "从容的；不被迫快速行动或说话的。"
+      },
+      "use": {
+        "en": "Her unhurried reply changed the mood of the room.",
+        "zh": "她从容的回答改变了房间里的气氛。"
+      }
+    },
+    {
+      "term": "rescue",
+      "meaning": {
+        "en": "To save someone from difficulty; here, sometimes unnecessarily.",
+        "zh": "解救；此处指有时并无必要地替别人摆脱困难。"
+      },
+      "use": {
+        "en": "Give him a moment before you rescue him from the silence.",
+        "zh": "先给他一点时间，不要立刻替他打破沉默。"
+      }
+    },
+    {
+      "term": "bearable",
+      "meaning": {
+        "en": "Difficult or unpleasant, but possible to endure.",
+        "zh": "可以忍受的；虽困难或不愉快但尚能承受的。"
+      },
+      "use": {
+        "en": "A kind colleague made the long shift bearable.",
+        "zh": "一位友善的同事让漫长的轮班变得可以承受。"
+      }
+    },
+    {
+      "term": "clutter",
+      "meaning": {
+        "en": "A collection of unnecessary things that makes something hard to understand or use.",
+        "zh": "杂乱之物；让事物难以理解或使用的多余内容。"
+      },
+      "use": {
+        "en": "Remove verbal clutter, but keep the details that carry meaning.",
+        "zh": "删去语言上的赘余，但保留承载意义的细节。"
+      }
+    },
+    {
+      "term": "detour",
+      "meaning": {
+        "en": "A route or part of a conversation that moves away from the direct path.",
+        "zh": "绕行；偏离直接路线或谈话主线的一段。"
+      },
+      "use": {
+        "en": "The conversational detour revealed what mattered most.",
+        "zh": "谈话中的绕行反而揭示了最重要的事。"
+      }
+    },
+    {
+      "term": "hospitality",
+      "meaning": {
+        "en": "The generous act of making another person feel received and welcome.",
+        "zh": "款待；让他人感到被接纳和欢迎的慷慨行为。"
+      },
+      "use": {
+        "en": "Good listening is a form of hospitality.",
+        "zh": "好的倾听是一种款待。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Let the question rise naturally in Did you like school? without making it sharp.",
+      "zh": "读 Did you like school? 时让语调自然上扬，但不要显得尖锐。"
+    },
+    {
+      "en": "Link smoothly in allowed to arrive and not always efficient.",
+      "zh": "在 allowed to arrive 和 not always efficient 中自然连读。"
+    },
+    {
+      "en": "Use gentle contrastive stress in collect the fact and lose its meaning.",
+      "zh": "在 collect the fact and lose its meaning 中使用柔和的对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your pacing itself were making room for another person's story.",
+      "zh": "跟读时，让你的语速本身就在为另一个人的故事腾出空间。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the dinner-table dialogue natural.",
+        "zh": "第一遍：让餐桌上的对话自然真实。"
+      },
+      {
+        "en": "Pass two: preserve the pauses around every question.",
+        "zh": "第二遍：保留每个问题前后的停顿。"
+      },
+      {
+        "en": "Pass three: speak the welcome sentence directly and without sentimentality.",
+        "zh": "第三遍：直接、克制地说出那句表达欢迎的话。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose longer answer have you recently hurried?",
+      "zh": "最近，你曾催促谁把一个本来更长的回答赶快说完？"
+    },
+    {
+      "en": "What question could help a family story arrive more fully?",
+      "zh": "哪个问题可以帮助一段家庭故事更完整地到来？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-time-for-the-longer-answer/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-time-for-the-longer-answer/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-time-for-the-longer-answer/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-time-for-the-longer-answer/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-time-for-the-longer-answer/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/leave-time-for-the-longer-answer/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-time-for-the-longer-answer/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-time-for-the-longer-answer/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-time-for-the-longer-answer/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-time-for-the-longer-answer/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-time-for-the-longer-answer/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-time-for-the-longer-answer/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-time-for-the-longer-answer/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-time-for-the-longer-answer/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-time-for-the-longer-answer/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-time-for-the-longer-answer/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-time-for-the-longer-answer/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-time-for-the-longer-answer/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-time-for-the-longer-answer/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-time-for-the-longer-answer/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-time-for-the-longer-answer/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-time-for-the-longer-answer/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-time-for-the-longer-answer/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-time-for-the-longer-answer/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-time-for-the-longer-answer/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-time-for-the-longer-answer/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-time-for-the-longer-answer/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-time-for-the-longer-answer/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-time-for-the-longer-answer/clips/sources_0.mp3"
+    }
+  }
+}

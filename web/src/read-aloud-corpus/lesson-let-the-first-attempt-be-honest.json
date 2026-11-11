@@ -1,0 +1,229 @@
+{
+  "lessonId": "let-the-first-attempt-be-honest",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the First Attempt Be Honest",
+    "zh": "让第一次尝试保持诚实"
+  },
+  "subtitle": {
+    "en": "An original reflection on beginning before confidence arrives and letting useful mistakes speak.",
+    "zh": "一篇原创美文：在自信到来之前先开始，并让有价值的错误开口说话。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Learning",
+    "Self-trust",
+    "Practice",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "How We Think",
+      "author": "John Dewey",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/37423",
+      "note": {
+        "en": "Public-domain inspiration for reflective learning and testing ideas through experience; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域著作中通过经验反思与检验想法的学习观；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded encouragement. Keep the concrete workshop images crisp, and avoid turning the reflective lines into slogans.",
+    "zh": "用踏实而鼓励人的语气朗读。工作台上的具体画面要清楚，反思性的句子不要读成口号。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Evidence of a Beginning",
+      "zh": "开始所留下的证据"
+    },
+    "intro": {
+      "en": "This original passage considers why an imperfect first attempt can teach more than a perfectly delayed plan.",
+      "zh": "这篇原创文章思考：为什么一个不完美的首次尝试，往往比一份迟迟不动手的完美计划教会我们更多。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Clean Page Protects You",
+          "zh": "1. 空白页会保护你"
+        },
+        "text": "A clean page has one great advantage: it cannot disappoint you. The sentence in your head remains elegant because it has never met grammar, breath, or another person's attention. The imagined presentation never runs short of time. The unbuilt chair never wobbles. Planning can be wise, but it can also become a room where ability hides from evidence. At some point, the hand must move. The first attempt does not need to prove that you are talented. It needs to reveal what the work requires.",
+        "coaching": {
+          "en": "Keep the opening lightly amused. Build firmness through At some point, the hand must move, then land cleanly on requires.",
+          "zh": "开头带一点轻松的自嘲。在 At some point, the hand must move 处逐渐坚定，最后清楚落在 requires 上。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make a Mistake You Can Use",
+          "zh": "2. 犯一个用得上的错误"
+        },
+        "text": "An honest attempt is not careless. It is specific enough to be corrected. You choose a length of wood, shape an argument, speak the unfamiliar phrase aloud. Then reality answers. The joint is loose. The example confuses your listener. Your tongue catches on a cluster of sounds you had silently assumed was easy. This is not a verdict on your capacity. It is information with edges. A vague fear says, I may be bad at this. A useful mistake says, Slow down here; support this claim; practice these three sounds. One closes the future. The other gives tomorrow an assignment.",
+        "coaching": {
+          "en": "Make the examples brisk and physical. Contrast the vague fear with the useful mistake, giving each instruction practical energy.",
+          "zh": "例子要读得利落而具体。读出模糊恐惧与有用错误的对比，让每条指示都带着可执行的力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Confidence Follows Contact",
+          "zh": "3. 自信来自真实接触"
+        },
+        "text": "We often wait for confidence as if it were a permit issued before departure. More often, it is a record of return: I tried, adjusted, and came back. This kind of confidence is quieter than certainty. It does not promise that the next attempt will succeed. It promises that you can remain present when the work becomes awkward. You discover that embarrassment passes, that confusion can be named, and that a difficult hour is still only an hour. Over time, effort leaves traces you can trust—a steadier hand, a clearer question, a quicker recovery after confusion. So begin without performing belief in yourself. Begin with attention. Let the attempt be small enough to finish and honest enough to teach you. Self-trust can grow from that evidence.",
+        "coaching": {
+          "en": "Slow down for the definition of confidence. Give the three traces equal rhythm, and finish with calm conviction rather than triumph.",
+          "zh": "解释自信时放慢语速。三个成长痕迹保持均衡节奏，结尾用平静的笃定，而不是胜利式的高昂。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "wobble",
+      "meaning": {
+        "en": "To move unsteadily from side to side.",
+        "zh": "摇晃；不稳定地左右摆动。"
+      },
+      "use": {
+        "en": "The table still wobbles on the uneven floor.",
+        "zh": "桌子在不平的地面上仍然摇晃。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment or decision about something.",
+        "zh": "定论；对某事作出的最终判断。"
+      },
+      "use": {
+        "en": "One poor result is not a verdict on your ability.",
+        "zh": "一次不理想的结果并不是对你能力的定论。"
+      }
+    },
+    {
+      "term": "capacity",
+      "meaning": {
+        "en": "The ability or potential to do or learn something.",
+        "zh": "能力；做某事或学习某事的潜力。"
+      },
+      "use": {
+        "en": "Practice expands our capacity for difficult work.",
+        "zh": "练习会拓展我们处理困难工作的能力。"
+      }
+    },
+    {
+      "term": "with edges",
+      "meaning": {
+        "en": "Clear and specific enough to be acted upon.",
+        "zh": "轮廓清晰的；具体到足以采取行动。"
+      },
+      "use": {
+        "en": "Good feedback has edges: it tells you what to change.",
+        "zh": "好的反馈轮廓清晰：它会告诉你该改什么。"
+      }
+    },
+    {
+      "term": "recovery",
+      "meaning": {
+        "en": "The act of returning to a steady or effective state.",
+        "zh": "恢复；重新回到稳定或有效状态。"
+      },
+      "use": {
+        "en": "Her recovery after the mistake was quick and graceful.",
+        "zh": "出错后，她迅速而从容地恢复了状态。"
+      }
+    },
+    {
+      "term": "conviction",
+      "meaning": {
+        "en": "A strong, settled belief shown in how someone speaks or acts.",
+        "zh": "笃信；通过言行表现出来的坚定信念。"
+      },
+      "use": {
+        "en": "He spoke with quiet conviction rather than force.",
+        "zh": "他说话时有安静的笃定，而不是咄咄逼人。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link consonants into vowels in first attempt and work requires.",
+      "zh": "在 first attempt 和 work requires 中把辅音自然连到后面的元音。"
+    },
+    {
+      "en": "Use contrastive stress in not careless; specific enough to be corrected.",
+      "zh": "在 not careless; specific enough to be corrected 中使用对比重音。"
+    },
+    {
+      "en": "Keep the final consonants audible in tried, adjusted, and came back.",
+      "zh": "清楚读出 tried、adjusted 和 came back 的词尾辅音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if encouraging a capable friend who has been waiting too long to begin.",
+      "zh": "跟读时，想象你在鼓励一位很有能力、却迟迟不敢开始的朋友。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the workshop images concrete.",
+        "zh": "第一遍：让工作台上的画面保持具体。"
+      },
+      {
+        "en": "Pass two: sharpen every contrast between fear and evidence.",
+        "zh": "第二遍：清楚读出恐惧与证据之间的每一处对比。"
+      },
+      {
+        "en": "Pass three: make the ending sound trustworthy, not grand.",
+        "zh": "第三遍：让结尾听起来可信，而不是宏大。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What first attempt have you been protecting from evidence?",
+      "zh": "你一直在保护哪个“第一次尝试”，不让它接受现实检验？"
+    },
+    {
+      "en": "What small, finishable version could give tomorrow a useful assignment?",
+      "zh": "你可以完成一个怎样的小版本，为明天留下明确而有用的任务？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-first-attempt-be-honest/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-first-attempt-be-honest/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-first-attempt-be-honest/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-first-attempt-be-honest/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-first-attempt-be-honest/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/let-the-first-attempt-be-honest/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-first-attempt-be-honest/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-first-attempt-be-honest/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-first-attempt-be-honest/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-first-attempt-be-honest/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-first-attempt-be-honest/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-first-attempt-be-honest/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-first-attempt-be-honest/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-first-attempt-be-honest/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-first-attempt-be-honest/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-first-attempt-be-honest/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-first-attempt-be-honest/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-first-attempt-be-honest/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-first-attempt-be-honest/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-first-attempt-be-honest/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-first-attempt-be-honest/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-first-attempt-be-honest/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-first-attempt-be-honest/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-first-attempt-be-honest/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-first-attempt-be-honest/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-first-attempt-be-honest/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-first-attempt-be-honest/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-first-attempt-be-honest/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-first-attempt-be-honest/clips/sources_0.mp3"
+    }
+  }
+}

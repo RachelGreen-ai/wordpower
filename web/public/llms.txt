@@ -109,6 +109,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Keep a Question on the Table](https://wordpower-seven.vercel.app/read-aloud/keep-a-question-on-the-table): An original reflection on scientific curiosity, patient observation, and the courage to revise a cherished idea.
 - [Keep a Window for the Unknown](https://wordpower-seven.vercel.app/read-aloud/keep-a-window-for-the-unknown): An original reflection on experiment, intellectual humility, and the pleasure of a question that survives its first answer.
 - [Keep a Window for the Wind](https://wordpower-seven.vercel.app/read-aloud/keep-a-window-for-the-wind): An original reflection on attention, uncertainty, and the intelligence of leaving room.
+- [Keep a Window for Weather](https://wordpower-seven.vercel.app/read-aloud/keep-a-window-for-weather): An original reflection on reading the living world before reducing it to a forecast.
 - [Keep One Chair Empty](https://wordpower-seven.vercel.app/read-aloud/keep-one-chair-empty): An original reflection on composure, disagreement, and leaving room for a better interpretation.
 - [Keep One Promise to Yourself](https://wordpower-seven.vercel.app/read-aloud/keep-one-promise-to-yourself): An original reflection on self-trust, modest habits, and becoming someone whose own word has weight.
 - [Keep One Question in Your Pocket](https://wordpower-seven.vercel.app/read-aloud/keep-one-question-in-your-pocket): An original reflection on useful uncertainty, patient learning, and questions that mature beside our work.
@@ -135,6 +136,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Leave the Door Unlatched](https://wordpower-seven.vercel.app/read-aloud/leave-the-door-unlatched): An original reflection on guiding children without crowding out their independence.
 - [Leave the Map Unfinished](https://wordpower-seven.vercel.app/read-aloud/leave-the-map-unfinished): An original reflection on intellectual humility, discovery, and the courage to revise what we think we know.
 - [Leave the Question on the Table](https://wordpower-seven.vercel.app/read-aloud/leave-the-question-on-the-table): An original reflection on parenting, learning, and the courage to let curiosity remain unfinished.
+- [Leave Time for the Longer Answer](https://wordpower-seven.vercel.app/read-aloud/leave-time-for-the-longer-answer): An original reflection on patient questions, family stories, and the dignity of an unhurried reply.
 - [Lend the Room Your Calm](https://wordpower-seven.vercel.app/read-aloud/lend-the-room-your-calm): An original reflection on leadership as the art of making clear action possible under pressure.
 - [Lend the Stranger a History](https://wordpower-seven.vercel.app/read-aloud/lend-the-stranger-a-history): An original reflection on moral imagination, fair judgment, and the stories we cannot see.
 - [Let Curiosity Keep Its Hands Dirty](https://wordpower-seven.vercel.app/read-aloud/let-curiosity-keep-its-hands-dirty): An original reflection on experiment, practical learning, and the intelligence of making contact with the world.
@@ -145,6 +147,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Let the Draft Teach You](https://wordpower-seven.vercel.app/read-aloud/let-the-draft-teach-you): An original reflection on learning by making, useful mistakes, and the intelligence that appears during revision.
 - [Let the Evidence Surprise You](https://wordpower-seven.vercel.app/read-aloud/let-the-evidence-surprise-you): An original reflection on scientific curiosity, careful observation, and the freedom to revise a cherished idea.
 - [Let the Eye Arrive Late](https://wordpower-seven.vercel.app/read-aloud/let-the-eye-arrive-late): An original reflection on drawing, patient observation, and learning to see beyond the name of a thing.
+- [Let the First Attempt Be Honest](https://wordpower-seven.vercel.app/read-aloud/let-the-first-attempt-be-honest): An original reflection on beginning before confidence arrives and letting useful mistakes speak.
 - [Let the Night Resize the Day](https://wordpower-seven.vercel.app/read-aloud/let-the-night-resize-the-day): An original reflection on starlight, proportion, and returning to ordinary problems with a wider mind.
 - [Let the Path Interrupt You](https://wordpower-seven.vercel.app/read-aloud/let-the-path-interrupt-you): An original reflection on walking without conquest, noticing what resists hurry, and returning with a more spacious mind.
 - [Let the Question Ripen](https://wordpower-seven.vercel.app/read-aloud/let-the-question-ripen): An original reflection on inquiry, patient learning, and the courage to remain unfinished.
