@@ -1,0 +1,229 @@
+{
+  "lessonId": "make-the-work-worthy-of-hands",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Make the Work Worthy of Hands",
+    "zh": "让工作配得上双手"
+  },
+  "subtitle": {
+    "en": "An original reflection on craft, useful beauty, and the dignity hidden in careful work.",
+    "zh": "一篇原创美文：关于手艺、实用之美，以及认真工作中蕴藏的尊严。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Craft",
+    "Work",
+    "Learning",
+    "Dignity"
+  ],
+  "sources": [
+    {
+      "title": "Useful Work versus Useless Toil",
+      "author": "William Morris",
+      "organization": "Wikisource",
+      "url": "https://en.wikisource.org/wiki/Useful_Work_versus_Useless_Toil",
+      "note": {
+        "en": "Public-domain inspiration for the dignity, usefulness, and pleasure of good work; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这篇公开领域文章对劳动尊严、实用价值与工作乐趣的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded confidence. Give the concrete verbs weight and keep the reflective sentences warm rather than grand.",
+    "zh": "带着踏实的自信朗读。具体动词要有分量，思考性的句子要温暖而不夸张。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Honest Edge",
+      "zh": "诚实的边缘"
+    },
+    "intro": {
+      "en": "This original passage follows an apprentice learning that good work serves both the object and the person who will use it.",
+      "zh": "这篇原创文章讲述一位学徒逐渐明白：好工作既服务于物件，也服务于将使用它的人。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Turn the Cup Over",
+          "zh": "1. 把杯子翻过来"
+        },
+        "text": "On her first week in the pottery studio, an apprentice spends an afternoon shaping a simple cup. The curve is even, the handle comfortable, the blue glaze as deep as evening. She places it proudly on the shelf. Her teacher picks it up, admires the color, and turns it over. Underneath, a rough edge catches his thumb. No one will see it, she says. Someone will wash it, he replies. With one small gesture, the lesson changes. Craft is not the art of making an object look finished. It is the practice of caring for every meeting between the object and a human hand.",
+        "coaching": {
+          "en": "Make the studio scene tangible. Give the two short lines of dialogue different voices, then slow down for the definition of craft.",
+          "zh": "把陶艺工作室读得可触可感。两句简短对话要有不同声音，再放慢读出对手艺的定义。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. The User Is Present",
+          "zh": "2. 使用者就在场"
+        },
+        "text": "The finest workers keep an absent person in the room. A programmer imagines the tired nurse using a screen at three in the morning. A carpenter remembers that a child may run a palm along the table's edge. An editor hears the reader stumble over a sentence that is clever but unclear. This imagination is practical, not sentimental. It changes measurements, removes friction, and reveals which flourish serves only the maker's pride. Quality often lives in details that attract no praise: a label that can be understood, a hinge that closes softly, a promise written without a trap.",
+        "coaching": {
+          "en": "Keep the three professions distinct and vivid. Build firm rhythm in changes measurements, removes friction, and reveals.",
+          "zh": "三个职业要读得鲜明有别。在 changes measurements、removes friction、and reveals 中建立坚定节奏。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Leave a Trace of Care",
+          "zh": "3. 留下一点用心的痕迹"
+        },
+        "text": "Careful work does not require perfection. The cup may carry a faint thumbprint; the table may show the grain turning unexpectedly. Such marks can remind us that skill is not a machine's refusal to vary. It is a person's ability to respond—to the clay that is wetter today, to the board that bends, to the sentence that will not yet tell the truth. Work becomes dignified when attention can move in both directions: toward the material and toward the life that will meet it. Before calling something done, turn it over. Touch the hidden edge. Imagine the stranger's hand. Then make one quiet improvement for which nobody may thank you. That unseen kindness is not extra. It is the work.",
+        "coaching": {
+          "en": "Treat imperfections with affection, not apology. Make the final four imperatives clear and let the last sentence stand alone.",
+          "zh": "带着喜爱而非歉意读出不完美。最后四个祈使句要清楚，让末句独立落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "apprentice",
+      "meaning": {
+        "en": "A person learning a skilled trade from an experienced worker.",
+        "zh": "学徒；向有经验的工匠学习技能的人。"
+      },
+      "use": {
+        "en": "The apprentice learned to judge the clay by touch.",
+        "zh": "学徒学会了通过触摸判断黏土。"
+      }
+    },
+    {
+      "term": "glaze",
+      "meaning": {
+        "en": "A glasslike coating placed on pottery.",
+        "zh": "釉；覆盖在陶器表面的玻璃质涂层。"
+      },
+      "use": {
+        "en": "The glaze turned blue in the kiln.",
+        "zh": "釉料在窑里变成了蓝色。"
+      }
+    },
+    {
+      "term": "friction",
+      "meaning": {
+        "en": "Difficulty or resistance that makes an action less smooth.",
+        "zh": "阻力；使行动不顺畅的困难或障碍。"
+      },
+      "use": {
+        "en": "A clear menu removes friction for new users.",
+        "zh": "清晰的菜单能减少新用户的操作阻力。"
+      }
+    },
+    {
+      "term": "flourish",
+      "meaning": {
+        "en": "An elaborate detail added for effect.",
+        "zh": "华饰；为增强效果而添加的精巧细节。"
+      },
+      "use": {
+        "en": "The design needs function, not another flourish.",
+        "zh": "这个设计需要的是功能，不是又一处华饰。"
+      }
+    },
+    {
+      "term": "grain",
+      "meaning": {
+        "en": "The natural lines visible in wood.",
+        "zh": "木纹；木材表面可见的天然纹理。"
+      },
+      "use": {
+        "en": "The craftsperson followed the grain of the wood.",
+        "zh": "工匠顺着木材的纹理加工。"
+      }
+    },
+    {
+      "term": "dignified",
+      "meaning": {
+        "en": "Worthy of respect and seriousness.",
+        "zh": "有尊严的；值得尊重且庄重的。"
+      },
+      "use": {
+        "en": "Useful work can make an ordinary day feel dignified.",
+        "zh": "有用的工作能让平凡的一天充满尊严。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in rough edge, human hand, and hidden kindness.",
+      "zh": "清楚读出 rough edge、human hand 和 hidden kindness 的词尾辅音。"
+    },
+    {
+      "en": "Use firm contrast in not sentimental and not extra.",
+      "zh": "在 not sentimental 和 not extra 中使用坚定的对比重音。"
+    },
+    {
+      "en": "Stress the action verbs: turn, touch, imagine, make.",
+      "zh": "重读动作动词 turn、touch、imagine、make。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow like a craftsperson: precise in detail, steady in rhythm, and aware of the listener.",
+      "zh": "像工匠一样跟读：细节准确、节奏稳定，并始终顾及听者。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: picture every material and tool.",
+        "zh": "第一遍：想象每一种材料和工具。"
+      },
+      {
+        "en": "Pass two: give the professional examples clean rhythm.",
+        "zh": "第二遍：把职业例子读出清晰节奏。"
+      },
+      {
+        "en": "Pass three: make the closing advice sound useful and sincere.",
+        "zh": "第三遍：让结尾的建议听起来实用而真诚。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What hidden edge in your work deserves one more minute of care?",
+      "zh": "你的工作中，哪个不显眼的边缘值得再多花一分钟？"
+    },
+    {
+      "en": "Who is the absent person you should keep in the room?",
+      "zh": "你应该把哪位不在场的人放在心里？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-the-work-worthy-of-hands/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-the-work-worthy-of-hands/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-the-work-worthy-of-hands/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-the-work-worthy-of-hands/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-the-work-worthy-of-hands/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/make-the-work-worthy-of-hands/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-the-work-worthy-of-hands/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-the-work-worthy-of-hands/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-the-work-worthy-of-hands/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-the-work-worthy-of-hands/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-the-work-worthy-of-hands/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-the-work-worthy-of-hands/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-the-work-worthy-of-hands/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-the-work-worthy-of-hands/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-the-work-worthy-of-hands/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-the-work-worthy-of-hands/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-the-work-worthy-of-hands/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-the-work-worthy-of-hands/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-the-work-worthy-of-hands/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-the-work-worthy-of-hands/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-the-work-worthy-of-hands/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-the-work-worthy-of-hands/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-the-work-worthy-of-hands/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-the-work-worthy-of-hands/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-the-work-worthy-of-hands/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-the-work-worthy-of-hands/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-the-work-worthy-of-hands/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-the-work-worthy-of-hands/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-the-work-worthy-of-hands/clips/sources_0.mp3"
+    }
+  }
+}

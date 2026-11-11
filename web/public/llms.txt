@@ -72,6 +72,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Borrow Courage from Evidence](https://wordpower-seven.vercel.app/read-aloud/borrow-courage-from-evidence): An original reflection on self-trust, tested judgment, and acting before certainty arrives.
 - [Borrow No One Else’s Voice](https://wordpower-seven.vercel.app/read-aloud/borrow-no-one-elses-voice): An original reflection on self-trust, honest speech, and the slow making of a voice that is truly yours.
 - [Borrow the Stranger's Morning](https://wordpower-seven.vercel.app/read-aloud/borrow-the-strangers-morning): An original reflection on moral imagination and the hidden weight carried by ordinary lives.
+- [Build a Bridge for the No](https://wordpower-seven.vercel.app/read-aloud/build-a-bridge-for-the-no): An original reflection on principled disagreement, calm language, and keeping human dignity inside a firm refusal.
 - [Build a Career with Open Doors](https://wordpower-seven.vercel.app/read-aloud/build-a-career-with-open-doors): An original reflection on useful work, changing direction, and becoming through practice.
 - [Build the Bridge from Both Banks](https://wordpower-seven.vercel.app/read-aloud/build-the-bridge-from-both-banks): An original reflection on disagreement, dignity, and the patient craft of mutual understanding.
 - [A Career Is Built in Drafts](https://wordpower-seven.vercel.app/read-aloud/career-built-in-drafts): An original reflection on useful work, transferable skills, and learning without a perfect map.
@@ -96,6 +97,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Give the Child a Real Task](https://wordpower-seven.vercel.app/read-aloud/give-the-child-a-real-task): An original reflection on trust, capable hands, and the dignity of contributing to family life.
 - [Give the Idea a Smaller Room](https://wordpower-seven.vercel.app/read-aloud/give-the-idea-a-smaller-room): An original reflection on how creative limits can turn hesitation into invention.
 - [Give the Work Its Season](https://wordpower-seven.vercel.app/read-aloud/give-the-work-its-season): An original reflection on humane ambition, patient craft, and building a life at a sustainable pace.
+- [Hear the Space Between Notes](https://wordpower-seven.vercel.app/read-aloud/hear-the-space-between-notes): An original reflection on musical attention, silence, and the courage to listen without hurrying.
 - [Hear the Work Beneath the Buzz](https://wordpower-seven.vercel.app/read-aloud/hear-the-work-beneath-the-buzz): An original reflection on cooperation, visible credit, and the quiet intelligence of a working group.
 - [Hold the Lantern Low](https://wordpower-seven.vercel.app/read-aloud/hold-the-lantern-low): An original reflection on quiet leadership, shared danger, and making the next step visible.
 - [Imagine the Unseen Life](https://wordpower-seven.vercel.app/read-aloud/imagine-the-unseen-life): An original reflection on moral imagination, fair judgment, and the stories hidden behind behavior.
@@ -168,6 +170,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Make the Apology Specific](https://wordpower-seven.vercel.app/read-aloud/make-the-apology-specific): An original reflection on repairing trust with honest detail, proportion, and changed behavior.
 - [Make the Join Visible](https://wordpower-seven.vercel.app/read-aloud/make-the-join-visible): An original reflection on craftsmanship, honest repair, and the beauty of work that reveals how it was made.
 - [Make the Mistake Useful](https://wordpower-seven.vercel.app/read-aloud/make-the-mistake-useful): An original reflection on learning, intelligent practice, and turning error into better judgment.
+- [Make the Work Worthy of Hands](https://wordpower-seven.vercel.app/read-aloud/make-the-work-worthy-of-hands): An original reflection on craft, useful beauty, and the dignity hidden in careful work.
 - [Mend the Small Tear](https://wordpower-seven.vercel.app/read-aloud/mend-the-small-tear): An original reflection on friendship, repair, and the courage to return before distance hardens.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.
 - [Name the Next True Thing](https://wordpower-seven.vercel.app/read-aloud/name-the-next-true-thing): An original reflection on calm communication, uncertainty, and the discipline of speaking clearly under pressure.

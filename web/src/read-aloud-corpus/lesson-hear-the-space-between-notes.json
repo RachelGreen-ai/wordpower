@@ -1,0 +1,229 @@
+{
+  "lessonId": "hear-the-space-between-notes",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Hear the Space Between Notes",
+    "zh": "听见音符之间的空间"
+  },
+  "subtitle": {
+    "en": "An original reflection on musical attention, silence, and the courage to listen without hurrying.",
+    "zh": "一篇原创美文：关于音乐般的专注、沉默，以及不慌不忙倾听的勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Art",
+    "Listening",
+    "Attention",
+    "Presence"
+  ],
+  "sources": [
+    {
+      "title": "On the Sensations of Tone",
+      "author": "Hermann von Helmholtz",
+      "organization": "Internet Archive",
+      "url": "https://archive.org/details/onsensationsofto00helmrich",
+      "note": {
+        "en": "Public-domain inspiration for attentive listening and the physical life of sound; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域著作对声音及细致聆听的探索；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if tuning an instrument. Keep the consonants precise, but leave a little air after each important image.",
+    "zh": "像给乐器调音一样朗读。辅音要准确，每个重要意象之后留一点呼吸。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Room Inside the Music",
+      "zh": "音乐里的房间"
+    },
+    "intro": {
+      "en": "This original passage explores how silence gives sound its shape and teaches us a more generous kind of attention.",
+      "zh": "这篇原创文章探索沉默如何赋予声音形状，并教会我们一种更宽厚的专注。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Before the First Note",
+          "zh": "1. 第一个音符之前"
+        },
+        "text": "A pianist sits down, lifts both hands, and does nothing. For one second, perhaps two, the hall changes. A sleeve stops rustling. Someone holds a cough. The ordinary noise of many separate lives gathers into attention. Then the first note arrives—not as an interruption, but as an answer to the silence that prepared it. We often imagine that music consists only of sounds. Yet every phrase also depends on an opening, a distance, a place where one tone can fade before another begins. Without that room, even beauty becomes crowded. Listening starts before anything is played.",
+        "coaching": {
+          "en": "Let the opening actions unfold slowly. Pause after does nothing, then give the first note a quiet sense of arrival.",
+          "zh": "开头的动作要缓缓展开。在 does nothing 后停顿，再让第一个音符安静地抵达。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Do Not Fill Every Measure",
+          "zh": "2. 不要填满每一小节"
+        },
+        "text": "The temptation to fill space is not limited to music. In conversation, we prepare our reply while the other person is still speaking. On a walk, we cover birdsong with a podcast. At work, we treat every pause as evidence that nobody has an idea. But a pause is not always an absence. Sometimes it is where meaning settles. A thoughtful musician does not abandon the rest between two phrases; she plays it. She keeps time without making noise. We can learn the same discipline: wait through the unfinished sentence, let a difficult question remain open, and resist decorating every quiet moment with our own voice.",
+        "coaching": {
+          "en": "Keep the everyday examples conversational. Stress plays it, then slow down through the three final invitations.",
+          "zh": "日常例子要读得自然。重读 plays it，最后三个邀请逐渐放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Listen for What Remains",
+          "zh": "3. 聆听留下来的东西"
+        },
+        "text": "When the final chord sounds, it does not vanish at once. It thins into the ceiling, into wood and cloth, into the attentive bodies in the room. If applause comes too quickly, something delicate is lost: the chance to notice what the music has altered in us. Good listening leaves a small interval for that discovery. It asks not only, What did I hear? but also, What can I hear now that I could not hear before? Perhaps the answer is a hidden harmony. Perhaps it is another person's hesitation. Perhaps it is the tiredness beneath your own certainty. Silence does not solve these things. It makes them audible. And in a noisy age, the ability to hear what is almost gone may be one of the deepest forms of care.",
+        "coaching": {
+          "en": "Let the chord fade in your pacing. Give the two questions genuine wonder, and land the final sentence with calm warmth.",
+          "zh": "用语速表现和弦渐渐消散。两个问题要有真正的惊奇，最后一句温暖而平静地落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "rustle",
+      "meaning": {
+        "en": "To make a soft, light sound as materials move together.",
+        "zh": "沙沙作响；材料相互摩擦时发出轻柔的声音。"
+      },
+      "use": {
+        "en": "The programs rustled before the concert began.",
+        "zh": "音乐会开始前，节目单沙沙作响。"
+      }
+    },
+    {
+      "term": "interval",
+      "meaning": {
+        "en": "A space or period between two things.",
+        "zh": "间隔；两件事物之间的空间或时间。"
+      },
+      "use": {
+        "en": "Leave a brief interval before you answer.",
+        "zh": "回答之前留一个短暂的间隔。"
+      }
+    },
+    {
+      "term": "temptation",
+      "meaning": {
+        "en": "A strong desire to do something that may not be wise.",
+        "zh": "诱惑；想做某件未必明智之事的强烈冲动。"
+      },
+      "use": {
+        "en": "She resisted the temptation to interrupt.",
+        "zh": "她忍住了打断对方的冲动。"
+      }
+    },
+    {
+      "term": "settle",
+      "meaning": {
+        "en": "To become calm, clear, or firmly placed.",
+        "zh": "沉淀；变得平静、清晰或安定。"
+      },
+      "use": {
+        "en": "Give the idea time to settle.",
+        "zh": "给这个想法一点时间沉淀。"
+      }
+    },
+    {
+      "term": "discipline",
+      "meaning": {
+        "en": "The trained ability to act with care and control.",
+        "zh": "自律；经过训练而谨慎克制地行动的能力。"
+      },
+      "use": {
+        "en": "Listening well requires discipline.",
+        "zh": "好好倾听需要自律。"
+      }
+    },
+    {
+      "term": "audible",
+      "meaning": {
+        "en": "Loud or clear enough to be heard.",
+        "zh": "听得见的；声音足够清楚。"
+      },
+      "use": {
+        "en": "Her relief was audible in her voice.",
+        "zh": "从她的声音里能听出如释重负。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly in space between notes and before anything is played.",
+      "zh": "流畅连读 space between notes 和 before anything is played。"
+    },
+    {
+      "en": "Use contrastive stress in not an interruption, but an answer.",
+      "zh": "在 not an interruption, but an answer 中用对比重音。"
+    },
+    {
+      "en": "Let your pitch fall gently on silence, interval, and care.",
+      "zh": "在 silence、interval 和 care 上让音调轻柔下降。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with measured pauses; let silence become part of your delivery.",
+      "zh": "带着有分寸的停顿跟读，让沉默成为表达的一部分。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the concert hall visible.",
+        "zh": "第一遍：让音乐厅的画面可见。"
+      },
+      {
+        "en": "Pass two: preserve every intentional pause.",
+        "zh": "第二遍：保留每一个有意的停顿。"
+      },
+      {
+        "en": "Pass three: speak the final questions with quiet curiosity.",
+        "zh": "第三遍：带着安静的好奇说出最后的问题。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where do you most often rush to fill silence?",
+      "zh": "你最常在哪种情境中急着填满沉默？"
+    },
+    {
+      "en": "What might become audible if you waited two seconds longer?",
+      "zh": "如果多等两秒，你也许会听见什么？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/hear-the-space-between-notes/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/hear-the-space-between-notes/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/hear-the-space-between-notes/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/hear-the-space-between-notes/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/hear-the-space-between-notes/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/hear-the-space-between-notes/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/hear-the-space-between-notes/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/hear-the-space-between-notes/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/hear-the-space-between-notes/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/hear-the-space-between-notes/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/hear-the-space-between-notes/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/hear-the-space-between-notes/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/hear-the-space-between-notes/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/hear-the-space-between-notes/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/hear-the-space-between-notes/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/hear-the-space-between-notes/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/hear-the-space-between-notes/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/hear-the-space-between-notes/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/hear-the-space-between-notes/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/hear-the-space-between-notes/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/hear-the-space-between-notes/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/hear-the-space-between-notes/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/hear-the-space-between-notes/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/hear-the-space-between-notes/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/hear-the-space-between-notes/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/hear-the-space-between-notes/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/hear-the-space-between-notes/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/hear-the-space-between-notes/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/hear-the-space-between-notes/clips/sources_0.mp3"
+    }
+  }
+}

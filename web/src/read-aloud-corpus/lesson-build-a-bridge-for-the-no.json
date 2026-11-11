@@ -1,0 +1,229 @@
+{
+  "lessonId": "build-a-bridge-for-the-no",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Build a Bridge for the No",
+    "zh": "为“不”搭一座桥"
+  },
+  "subtitle": {
+    "en": "An original reflection on principled disagreement, calm language, and keeping human dignity inside a firm refusal.",
+    "zh": "一篇原创美文：关于有原则的分歧、冷静的语言，以及在坚定拒绝中保留人的尊严。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Courage",
+    "Leadership",
+    "Respect"
+  ],
+  "sources": [
+    {
+      "title": "Second Inaugural Address",
+      "author": "Abraham Lincoln",
+      "organization": "U.S. National Archives",
+      "url": "https://www.archives.gov/milestone-documents/lincolns-second-inaugural-address",
+      "note": {
+        "en": "Public-domain inspiration for combining moral firmness with humility and generosity toward opponents; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这篇公开领域演说中道德坚定与谦逊、宽厚并存的精神；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with composed firmness. Keep your tone low and clear; strength here comes from control, not volume.",
+    "zh": "用沉着而坚定的方式朗读。音调保持低而清晰；这里的力量来自克制，而非音量。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Door That Stays Open",
+      "zh": "一扇仍然敞开的门"
+    },
+    "intro": {
+      "en": "This original passage shows how a clear refusal can protect a principle without turning another person into an enemy.",
+      "zh": "这篇原创文章展示：清晰的拒绝如何既守住原则，又不把对方变成敌人。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Meeting Tilts",
+          "zh": "1. 会议开始倾斜"
+        },
+        "text": "The proposal sounds efficient: announce the decision now and ask the affected team later. Around the table, heads begin to nod. One person feels the meeting tilt toward an answer she cannot support. Her first impulse is to sharpen her voice. A sharper voice might prove that she cares. It might also give everyone an excuse to discuss her tone instead of the decision. So she places both feet on the floor and says, I understand the pressure to move quickly. I cannot support announcing this before the people who must carry it have been heard. The sentence contains a no, but it also contains a bridge.",
+        "coaching": {
+          "en": "Build slight tension as the heads nod. Deliver the refusal slowly, with steady breath and no accusation.",
+          "zh": "随着众人点头逐渐制造一点紧张。拒绝要缓慢说出，呼吸稳定，不带指责。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Separate Person from Position",
+          "zh": "2. 把人和立场分开"
+        },
+        "text": "A useful disagreement names the point of conflict without enlarging it. It does not say, You never listen. It says, We have not yet heard from the night shift. It does not guess at hidden motives. It describes the missing fact, the likely consequence, and the value at stake. This precision is generous because it gives the other person somewhere to move. They may revise a timeline without surrendering their character. They may offer new evidence without admitting defeat. When we attack identity, retreat becomes humiliating. When we question a position, change can remain honorable.",
+        "coaching": {
+          "en": "Make both contrasts unmistakable. Keep the middle list measured, then warm the words honorable change.",
+          "zh": "两组对比要非常清楚。中间的列举要有分寸，再把 honorable change 读得温暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Offer the Next Honest Step",
+          "zh": "3. 提出下一个诚实的步骤"
+        },
+        "text": "Calm language is not a decoration placed over fear. It is a method for keeping courage useful. After the refusal, offer a next step that does not betray the principle: invite two representatives, delay the message by one day, test the claim against a real case. A bridge is not agreement. It is a structure strong enough for people to cross while they are still different. Sometimes the answer will remain no. Even then, we can leave the door open to better evidence, future repair, and the possibility that we ourselves have missed something. Firmness without contempt protects more than a relationship. It protects our judgment from the intoxicating pleasure of feeling unquestionably right.",
+        "coaching": {
+          "en": "Keep the practical options crisp. Stress a bridge is not agreement, and finish with sober self-awareness rather than triumph.",
+          "zh": "几个实际选项要读得利落。重读 a bridge is not agreement，结尾要清醒自省，而非洋洋得意。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "principled",
+      "meaning": {
+        "en": "Guided by clear moral rules or values.",
+        "zh": "有原则的；由明确道德准则或价值观引导的。"
+      },
+      "use": {
+        "en": "Her objection was calm and principled.",
+        "zh": "她的反对冷静而有原则。"
+      }
+    },
+    {
+      "term": "impulse",
+      "meaning": {
+        "en": "A sudden strong desire to act.",
+        "zh": "冲动；突然产生的强烈行动欲望。"
+      },
+      "use": {
+        "en": "He resisted the impulse to reply immediately.",
+        "zh": "他忍住了立刻回应的冲动。"
+      }
+    },
+    {
+      "term": "at stake",
+      "meaning": {
+        "en": "At risk or important in a particular situation.",
+        "zh": "利害攸关；在特定情境中面临风险或十分重要。"
+      },
+      "use": {
+        "en": "Trust is at stake in this decision.",
+        "zh": "这个决定关系到信任。"
+      }
+    },
+    {
+      "term": "surrender",
+      "meaning": {
+        "en": "To give up control, resistance, or a position.",
+        "zh": "放弃；交出控制、停止抵抗或让出立场。"
+      },
+      "use": {
+        "en": "Changing the schedule does not mean surrendering the goal.",
+        "zh": "调整时间表并不意味着放弃目标。"
+      }
+    },
+    {
+      "term": "contempt",
+      "meaning": {
+        "en": "The feeling that someone is beneath respect.",
+        "zh": "轻蔑；认为某人不值得尊重的感受。"
+      },
+      "use": {
+        "en": "Firm disagreement does not require contempt.",
+        "zh": "坚定的分歧不需要轻蔑。"
+      }
+    },
+    {
+      "term": "intoxicating",
+      "meaning": {
+        "en": "So exciting or powerful that clear judgment becomes difficult.",
+        "zh": "令人陶醉的；强烈到可能妨碍清醒判断的。"
+      },
+      "use": {
+        "en": "Certainty can be intoxicating.",
+        "zh": "确定感可能令人陶醉。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use clear contrastive stress in person and position, identity and point.",
+      "zh": "在 person 与 position、identity 与 point 之间使用清晰的对比重音。"
+    },
+    {
+      "en": "Keep the ending consonants firm in next step, missed something, and contempt.",
+      "zh": "清楚读出 next step、missed something 和 contempt 的词尾辅音。"
+    },
+    {
+      "en": "Lower your pitch on I cannot support to sound calm and final.",
+      "zh": "在 I cannot support 上降低音调，读出冷静而明确的态度。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if speaking in a real meeting where both the principle and the relationship matter.",
+      "zh": "把它当作真实会议来跟读：原则和关系都很重要。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep your breath steady through the refusal.",
+        "zh": "第一遍：说出拒绝时保持呼吸稳定。"
+      },
+      {
+        "en": "Pass two: sharpen the contrasts without sharpening your tone.",
+        "zh": "第二遍：强化对比，但不要让语气变尖锐。"
+      },
+      {
+        "en": "Pass three: make each next step sound genuinely possible.",
+        "zh": "第三遍：让每个下一步都听起来真正可行。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which disagreement in your life needs a more precise sentence?",
+      "zh": "你生活中的哪场分歧需要一句更准确的话？"
+    },
+    {
+      "en": "What next honest step could you offer without betraying your principle?",
+      "zh": "在不背离原则的前提下，你能提出哪个诚实的下一步？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/build-a-bridge-for-the-no/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/build-a-bridge-for-the-no/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/build-a-bridge-for-the-no/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/build-a-bridge-for-the-no/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/build-a-bridge-for-the-no/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/build-a-bridge-for-the-no/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/build-a-bridge-for-the-no/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/build-a-bridge-for-the-no/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/build-a-bridge-for-the-no/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/build-a-bridge-for-the-no/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/build-a-bridge-for-the-no/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/build-a-bridge-for-the-no/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/build-a-bridge-for-the-no/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/build-a-bridge-for-the-no/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/build-a-bridge-for-the-no/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/build-a-bridge-for-the-no/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/build-a-bridge-for-the-no/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/build-a-bridge-for-the-no/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/build-a-bridge-for-the-no/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/build-a-bridge-for-the-no/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/build-a-bridge-for-the-no/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/build-a-bridge-for-the-no/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/build-a-bridge-for-the-no/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/build-a-bridge-for-the-no/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/build-a-bridge-for-the-no/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/build-a-bridge-for-the-no/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/build-a-bridge-for-the-no/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/build-a-bridge-for-the-no/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/build-a-bridge-for-the-no/clips/sources_0.mp3"
+    }
+  }
+}
