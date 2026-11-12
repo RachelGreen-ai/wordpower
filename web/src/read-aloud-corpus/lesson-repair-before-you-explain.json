@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "repair-before-you-explain",
+  "title": {
+    "en": "Repair Before You Explain",
+    "zh": "先修复，再解释"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm accountability, apology, and restoring trust after harm.",
+    "zh": "一篇原创美文：关于平静担责、道歉，以及在伤害后重建信任。"
+  },
+  "tags": [
+    "Communication",
+    "Trust",
+    "Self-awareness",
+    "Relationships"
+  ],
+  "sources": [
+    {
+      "title": "The Analects of Confucius",
+      "author": "Confucius; translated by James Legge",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3330",
+      "note": {
+        "en": "Public-domain inspiration for self-examination and the correction of conduct; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中自省与改正行为的思想；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded humility. Keep apologies direct and explanations lighter than the harm they follow.",
+    "zh": "用踏实而谦逊的语气朗读。道歉要直接，解释的分量要轻于它所回应的伤害。"
+  },
+  "passage": {
+    "title": {
+      "en": "The First Work After the Break",
+      "zh": "关系破裂后的第一项工作"
+    },
+    "intro": {
+      "en": "This original passage explores why trust begins to return when we attend to impact before defending intention.",
+      "zh": "这篇原创文章探讨：当我们先关注影响，而不是急着为动机辩护时，信任为何会开始回归。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Hear the Break",
+          "zh": "1. 听见裂痕"
+        },
+        "text": "When someone tells us we caused harm, the mind often races toward explanation. We were tired. We meant something else. We had information they did not possess. These facts may matter later, but they are rarely the first medicine. The first work is to hear where trust broke. Perhaps a promise was missed without warning. Perhaps a joke made one person carry the room’s laughter alone. Perhaps a decision arrived after every meaningful choice had already been made. Listen for the specific loss beneath the anger: safety, dignity, time, belonging, or confidence in your word.",
+        "coaching": {
+          "en": "Keep the excuses recognizable but brief. Slow down through the final list of what may have been lost.",
+          "zh": "借口要读得熟悉但简短。结尾列举可能失去的东西时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Put Impact Before Intention",
+          "zh": "2. 把影响放在动机之前"
+        },
+        "text": "Intention describes the action from inside us; impact describes where it landed. Mature repair can hold both without confusing their order. Begin with what the other person experienced: I interrupted you three times, and it made your contribution harder to hear. I changed the deadline without asking, and you had to absorb the cost. This language may feel exposed because it removes the cushion of good motives. Yet a clear account is steadier than a dramatic confession. It tells the injured person that reality will not need to argue for a place in the conversation.",
+        "coaching": {
+          "en": "Make the two sample acknowledgments plain and sincere. Emphasize clear account rather than dramatic confession.",
+          "zh": "两句示范性承认要朴素、真诚。重读 clear account，与 dramatic confession 形成对比。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Offer a Repair with Weight",
+          "zh": "3. 提出有分量的修复"
+        },
+        "text": "An apology becomes credible when it changes the future. Ask what can be restored now. Return the time you took. Correct the record in the same public place where you distorted it. Reopen the decision if your haste excluded a necessary voice. Then name the practice that will prevent repetition: a written check, an earlier question, a pause before humor, a calendar promise with room around it. Do not make the hurt person design your entire education. Bring an honest proposal, remain open to correction, and accept that trust may return more slowly than comfort.",
+        "coaching": {
+          "en": "Read the repairs as concrete actions, not slogans. Give the final clause patience and emotional room.",
+          "zh": "把修复措施读成具体行动，而不是口号。最后一句要耐心，并留出情感空间。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Let Consistency Finish the Sentence",
+          "zh": "4. 让一贯行动说完这句话"
+        },
+        "text": "No perfect paragraph can complete a repair in one evening. Trust studies patterns. It notices whether the next interruption is caught, whether the next deadline is discussed, whether the next mistake is named before discovery forces it into view. This can feel unspectacular, and that is partly the point. Repair is less like unveiling a monument than tending a path after rain: lifting fallen branches, filling the dangerous hollow, returning again after the next storm. An apology opens the gate. Only repeated care makes the way dependable.",
+        "coaching": {
+          "en": "Use a steady rhythm for the repeated whether clauses. Let the path-after-rain image become quiet and tangible.",
+          "zh": "重复的 whether 从句要保持稳定节奏。雨后小路的意象要安静、可触。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "possess",
+      "meaning": {
+        "en": "To have or own something, including information or a quality.",
+        "zh": "拥有；持有某物，也可指信息或品质。"
+      },
+      "use": {
+        "en": "She possessed information the rest of us lacked.",
+        "zh": "她掌握着我们其他人没有的信息。"
+      }
+    },
+    {
+      "term": "dignity",
+      "meaning": {
+        "en": "The quality of being worthy of respect.",
+        "zh": "尊严；值得尊重的品质。"
+      },
+      "use": {
+        "en": "The correction protected his dignity.",
+        "zh": "这次纠正维护了他的尊严。"
+      }
+    },
+    {
+      "term": "cushion",
+      "meaning": {
+        "en": "Something that reduces the force or discomfort of an impact.",
+        "zh": "缓冲；减轻冲击或不适的事物。"
+      },
+      "use": {
+        "en": "Good intentions are not always a cushion against harm.",
+        "zh": "良好动机并不总能缓冲伤害。"
+      }
+    },
+    {
+      "term": "credible",
+      "meaning": {
+        "en": "Able to be believed or trusted.",
+        "zh": "可信的；能够被相信或信任的。"
+      },
+      "use": {
+        "en": "The promise became credible through action.",
+        "zh": "这项承诺通过行动变得可信。"
+      }
+    },
+    {
+      "term": "exclude",
+      "meaning": {
+        "en": "To prevent someone from taking part or being included.",
+        "zh": "排除；阻止某人参与或被纳入。"
+      },
+      "use": {
+        "en": "The rushed process excluded an important voice.",
+        "zh": "仓促的流程排除了一个重要声音。"
+      }
+    },
+    {
+      "term": "unspectacular",
+      "meaning": {
+        "en": "Not dramatic or impressive in an obvious way.",
+        "zh": "不显眼的；并不以明显方式引人注目的。"
+      },
+      "use": {
+        "en": "Trust often grows through unspectacular acts of care.",
+        "zh": "信任常常通过不起眼的关怀行动增长。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use gentle contrast in these facts may matter later, but they are rarely the first medicine.",
+      "zh": "在 these facts may matter later, but they are rarely the first medicine 中使用柔和对比。"
+    },
+    {
+      "en": "Keep the sentence grounded through intention describes and impact describes.",
+      "zh": "在 intention describes 与 impact describes 中保持沉稳节奏。"
+    },
+    {
+      "en": "Link the repeated actions in lifting fallen branches, filling the dangerous hollow, returning again.",
+      "zh": "在 lifting fallen branches、filling the dangerous hollow、returning again 中连贯衔接。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are taking responsibility without collapsing into shame or defense.",
+      "zh": "跟读时，想象你正在承担责任，既不陷入羞耻，也不转向防御。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the voice low and emotionally steady.",
+        "zh": "第一遍：保持低沉、情绪稳定的声音。"
+      },
+      {
+        "en": "Pass two: make every acknowledgment concrete and direct.",
+        "zh": "第二遍：让每一次承认都具体而直接。"
+      },
+      {
+        "en": "Pass three: let the closing promise rest on consistent action.",
+        "zh": "第三遍：让结尾的承诺落在持续行动上。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where have you explained your intention before acknowledging impact?",
+      "zh": "在哪件事上，你曾在承认影响之前先解释自己的动机？"
+    },
+    {
+      "en": "What concrete action would give your next apology more weight?",
+      "zh": "什么具体行动能让你的下一次道歉更有分量？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/repair-before-you-explain/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/repair-before-you-explain/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/repair-before-you-explain/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/repair-before-you-explain/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/repair-before-you-explain/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/repair-before-you-explain/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/repair-before-you-explain/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/repair-before-you-explain/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/repair-before-you-explain/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/repair-before-you-explain/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/repair-before-you-explain/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/repair-before-you-explain/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/repair-before-you-explain/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/repair-before-you-explain/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/repair-before-you-explain/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/repair-before-you-explain/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/repair-before-you-explain/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/repair-before-you-explain/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/repair-before-you-explain/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/repair-before-you-explain/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/repair-before-you-explain/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/repair-before-you-explain/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/repair-before-you-explain/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/repair-before-you-explain/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/repair-before-you-explain/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/repair-before-you-explain/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/repair-before-you-explain/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/repair-before-you-explain/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/repair-before-you-explain/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/repair-before-you-explain/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/repair-before-you-explain/clips/sources_0.mp3"
+    }
+  }
+}

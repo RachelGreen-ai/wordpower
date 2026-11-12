@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "keep-a-chair-for-dissent",
+  "title": {
+    "en": "Keep a Chair for Dissent",
+    "zh": "为异议留一把椅子"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral courage, loyal disagreement, and making better decisions together.",
+    "zh": "一篇原创美文：关于道德勇气、忠诚的分歧，以及如何共同作出更好的决定。"
+  },
+  "tags": [
+    "Courage",
+    "Leadership",
+    "Communication",
+    "Integrity"
+  ],
+  "sources": [
+    {
+      "title": "On Liberty",
+      "author": "John Stuart Mill",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/34901",
+      "note": {
+        "en": "Public-domain inspiration for the value of testing convictions through open disagreement; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中以开放分歧检验信念的思想；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with quiet conviction, not aggression. Let the contrast between comfort and courage remain clear.",
+    "zh": "用安静而坚定的语气朗读，不要咄咄逼人。清楚呈现舒适与勇气之间的对比。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Voice That Improves the Room",
+      "zh": "让房间变得更好的声音"
+    },
+    "intro": {
+      "en": "This original passage considers disagreement as a form of care when it is honest, specific, and offered in service of the work.",
+      "zh": "这篇原创文章探讨：当分歧诚实、具体，并服务于共同目标时，它也可以是一种关怀。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Notice the Empty Agreement",
+          "zh": "1. 留意空洞的一致"
+        },
+        "text": "A meeting can become agreeable long before it becomes wise. Heads nod. Pens close. The proposal moves forward because nobody wishes to cool the bright mood in the room. Yet agreement has different sources. Sometimes it grows from shared understanding; sometimes from fatigue, rank, or the private calculation that silence will be cheaper. A thoughtful leader learns to hear the difference. The smoothest conversation may conceal the roughest consequence. Before calling the matter settled, look around the table and ask which honest sentence has not yet found a safe entrance.",
+        "coaching": {
+          "en": "Keep the opening measured. Stress different sources and let the final question sound genuinely inviting.",
+          "zh": "开头保持克制。重读 different sources，最后的问题要真诚地发出邀请。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Separate Dissent from Disloyalty",
+          "zh": "2. 区分异议与不忠"
+        },
+        "text": "We often mistake disagreement for a withdrawal of support. In healthy work, the opposite can be true. The colleague who names a weak assumption may be protecting the team from a costly mistake. The friend who refuses an easy excuse may be honoring the person you are still becoming. Loyal dissent does not attack character or scatter suspicion. It brings a clear concern, the evidence beneath it, and a willingness to help with what comes next. Its purpose is not to win the room. Its purpose is to keep the room connected to reality.",
+        "coaching": {
+          "en": "Use warm emphasis on protecting and honoring. Make the final two sentences firm, clean, and unhurried.",
+          "zh": "温暖地重读 protecting 和 honoring。最后两句要坚定、干净、从容。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Lower the Price of Speaking",
+          "zh": "3. 降低开口的代价"
+        },
+        "text": "Inviting honesty once is not enough. People study what happens after someone speaks. Does the chair become impatient? Does the group make a joke? Does the difficult messenger disappear from the next conversation? Culture is built from these small verdicts. To lower the price of speaking, thank the person before judging the idea. Restate the concern fairly. Ask for the strongest evidence. If the decision remains unchanged, explain why. Respect does not require agreement, but it does require visible attention. A voice becomes courageous more easily when it does not have to become heroic merely to be heard.",
+        "coaching": {
+          "en": "Give the practical sequence a steady rhythm. Soften the last line without weakening its truth.",
+          "zh": "把实际步骤读出稳定节奏。最后一句放柔，但不要削弱其中的力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave One Chair Open",
+          "zh": "4. 永远留一把空椅子"
+        },
+        "text": "Every important decision should keep one chair open for the absent objection. Imagine the customer who cannot afford the change, the junior colleague who sees the hidden labor, the future self who must live with today’s shortcut. This is not an invitation to endless delay. It is a discipline of moral imagination: before power closes the door, let consequence enter the room. Then decide with greater clarity. Courage is not only the voice that objects. It is also the authority that makes objection useful, receives it without theater, and becomes more trustworthy because the truth was allowed to complicate the plan.",
+        "coaching": {
+          "en": "Let the three imagined people feel present. Build calmly toward the final definition of courage.",
+          "zh": "让三个想象中的人物仿佛在场。平静地推进到结尾对勇气的定义。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "conceal",
+      "meaning": {
+        "en": "To keep something from being seen or known.",
+        "zh": "隐藏；使某事不被看见或知晓。"
+      },
+      "use": {
+        "en": "A cheerful report may conceal a serious risk.",
+        "zh": "一份乐观的报告可能掩盖严重风险。"
+      }
+    },
+    {
+      "term": "dissent",
+      "meaning": {
+        "en": "The expression of a different opinion, especially from a common view.",
+        "zh": "异议；对共同观点表达不同意见。"
+      },
+      "use": {
+        "en": "Her dissent helped the board examine its assumptions.",
+        "zh": "她的异议帮助董事会审视自己的假设。"
+      }
+    },
+    {
+      "term": "assumption",
+      "meaning": {
+        "en": "An idea accepted as true without complete proof.",
+        "zh": "假设；尚未得到充分证明便被视为真的想法。"
+      },
+      "use": {
+        "en": "We tested the assumption before changing the policy.",
+        "zh": "我们在改变政策前检验了这个假设。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A judgment or decision about a situation.",
+        "zh": "判断；对某种情况作出的结论。"
+      },
+      "use": {
+        "en": "Small reactions become social verdicts about who may speak.",
+        "zh": "细微反应会成为关于谁可以发言的社会判断。"
+      }
+    },
+    {
+      "term": "restatement",
+      "meaning": {
+        "en": "A clear expression of the same idea in different words.",
+        "zh": "重述；用不同语言清楚表达同一想法。"
+      },
+      "use": {
+        "en": "A fair restatement showed that he had listened.",
+        "zh": "公正的重述表明他认真倾听了。"
+      }
+    },
+    {
+      "term": "moral imagination",
+      "meaning": {
+        "en": "The ability to picture how choices affect other people.",
+        "zh": "道德想象力；设想选择如何影响他人的能力。"
+      },
+      "use": {
+        "en": "Good design requires moral imagination as well as skill.",
+        "zh": "好的设计既需要技能，也需要道德想象力。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use contrastive stress in agreeable long before it becomes wise.",
+      "zh": "在 agreeable long before it becomes wise 中使用对比重音。"
+    },
+    {
+      "en": "Link smoothly through the evidence beneath it and a willingness to help.",
+      "zh": "在 the evidence beneath it and a willingness to help 中流畅连读。"
+    },
+    {
+      "en": "Build a three-part cadence through receives it, uses it, and becomes more trustworthy.",
+      "zh": "在 receives it、uses it、becomes more trustworthy 中形成三段递进节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are making candor safer in a serious meeting.",
+      "zh": "跟读时，想象你正在一次严肃会议中让坦诚表达变得更安全。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep conviction low, steady, and respectful.",
+        "zh": "第一遍：让坚定感保持低沉、稳定、尊重。"
+      },
+      {
+        "en": "Pass two: sharpen the contrasts between silence and speech.",
+        "zh": "第二遍：突出沉默与发言之间的对比。"
+      },
+      {
+        "en": "Pass three: make each practical instruction sound usable today.",
+        "zh": "第三遍：让每条实际建议听起来今天就能使用。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where would one honest objection improve a decision you are making?",
+      "zh": "在哪个决定中，一句诚实的异议会带来改善？"
+    },
+    {
+      "en": "How can you lower the price of speaking for someone with less authority?",
+      "zh": "你可以如何为权力较小的人降低开口表达的代价？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-chair-for-dissent/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-chair-for-dissent/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-chair-for-dissent/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-chair-for-dissent/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-chair-for-dissent/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/keep-a-chair-for-dissent/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-chair-for-dissent/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-chair-for-dissent/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-chair-for-dissent/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-chair-for-dissent/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-chair-for-dissent/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-chair-for-dissent/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-chair-for-dissent/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-chair-for-dissent/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-chair-for-dissent/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-chair-for-dissent/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-chair-for-dissent/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-chair-for-dissent/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-chair-for-dissent/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-chair-for-dissent/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-chair-for-dissent/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-chair-for-dissent/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-chair-for-dissent/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-chair-for-dissent/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-chair-for-dissent/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-chair-for-dissent/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-chair-for-dissent/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-chair-for-dissent/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-chair-for-dissent/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-chair-for-dissent/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-chair-for-dissent/clips/sources_0.mp3"
+    }
+  }
+}

@@ -101,6 +101,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Hear the Work Beneath the Buzz](https://wordpower-seven.vercel.app/read-aloud/hear-the-work-beneath-the-buzz): An original reflection on cooperation, visible credit, and the quiet intelligence of a working group.
 - [Hold the Lantern Low](https://wordpower-seven.vercel.app/read-aloud/hold-the-lantern-low): An original reflection on quiet leadership, shared danger, and making the next step visible.
 - [Imagine the Unseen Life](https://wordpower-seven.vercel.app/read-aloud/imagine-the-unseen-life): An original reflection on moral imagination, fair judgment, and the stories hidden behind behavior.
+- [Keep a Chair for Dissent](https://wordpower-seven.vercel.app/read-aloud/keep-a-chair-for-dissent): An original reflection on moral courage, loyal disagreement, and making better decisions together.
 - [Keep a Chair for the Stranger](https://wordpower-seven.vercel.app/read-aloud/keep-a-chair-for-the-stranger): An original reflection on neighborliness, moral imagination, and the quiet architecture of belonging.
 - [Keep a Field Notebook](https://wordpower-seven.vercel.app/read-aloud/keep-a-field-notebook): An original reflection on attention, patient observation, and learning to see before we explain.
 - [Keep a Ledger of Surprises](https://wordpower-seven.vercel.app/read-aloud/keep-a-ledger-of-surprises): An original reflection on intelligent mistakes, honest review, and turning experience into better judgment.
@@ -184,6 +185,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Read the River at Walking Speed](https://wordpower-seven.vercel.app/read-aloud/read-the-river-at-walking-speed): An original reflection on rivers, patient attention, and learning to notice change without rushing it.
 - [Read the Weather at Ground Level](https://wordpower-seven.vercel.app/read-aloud/read-the-weather-at-ground-level): An original reflection on close observation, seasonal intelligence, and returning to the living world.
 - [Read the Weather in the Trees](https://wordpower-seven.vercel.app/read-aloud/read-the-weather-in-the-trees): An original reflection on patient observation, local knowledge, and the intelligence of paying attention.
+- [Repair Before You Explain](https://wordpower-seven.vercel.app/read-aloud/repair-before-you-explain): An original reflection on calm accountability, apology, and restoring trust after harm.
 - [Say the Name Again](https://wordpower-seven.vercel.app/read-aloud/say-the-name-again): An original reflection on names, attentive pronunciation, and the everyday dignity of trying again.
 - [Self-Trust Is an Inner Compass.](https://wordpower-seven.vercel.app/read-aloud/self-trust-inner-compass): A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.
 - [Set One More Place](https://wordpower-seven.vercel.app/read-aloud/set-one-more-place): An original reflection on hospitality, belonging, and the small civic art of making room.
@@ -201,6 +203,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Wear Your Own Name Comfortably](https://wordpower-seven.vercel.app/read-aloud/wear-your-own-name-comfortably): An original reflection on self-trust, borrowed voices, and becoming recognizable to yourself.
 - [Widen the Frame Before Judgment](https://wordpower-seven.vercel.app/read-aloud/widen-the-frame-before-judgment): An original reflection on moral imagination, careful judgment, and seeing a life from more than one room.
 - [Wonder Needs a Workbench](https://wordpower-seven.vercel.app/read-aloud/wonder-needs-a-workbench): An original reflection on patient experiment, precise attention, and the craft hidden inside discovery.
+- [Write Down What Corrected You](https://wordpower-seven.vercel.app/read-aloud/write-down-what-corrected-you): An original reflection on learning through observation, useful questions, and evidence gathered by hand.
 
 ## Best Answer Context
 
