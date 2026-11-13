@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "trust-the-voice-that-does-not-hurry",
+  "title": {
+    "en": "Trust the Voice That Does Not Hurry",
+    "zh": "相信那不慌不忙的声音"
+  },
+  "subtitle": {
+    "en": "An original reflection on quiet self-trust, second chances, and decisions that can withstand time.",
+    "zh": "一篇原创美文：关于安静的自我信任、第二次机会，以及经得起时间的决定。"
+  },
+  "tags": [
+    "Self-trust",
+    "Choice",
+    "Patience",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Persuasion",
+      "author": "Jane Austen",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/105",
+      "note": {
+        "en": "Public-domain inspiration from themes of mature judgment, constancy, and a life reconsidered; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中成熟判断、坚定与重新审视人生的主题；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with composed confidence. Let patience sound active, not passive, and give the decisive lines room to settle.",
+    "zh": "用沉着的自信朗读。让耐心听起来积极而非被动，并给决定性的句子留出沉淀空间。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Decision After the Noise",
+      "zh": "喧闹过后的决定"
+    },
+    "intro": {
+      "en": "This original passage considers the kind of self-trust that listens carefully without surrendering its own judgment.",
+      "zh": "这篇原创文章探讨一种自我信任：它认真倾听，却不交出自己的判断。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Notice the Borrowed Urgency",
+          "zh": "1. 察觉借来的紧迫感"
+        },
+        "text": "Some decisions arrive carrying other people's clocks. A colleague needs your answer before lunch. A relative warns that sensible people do not wait. A bright opportunity announces that hesitation will close the door forever. Urgency can be real, but it can also be borrowed—the pressure of another person's appetite, fear, or timetable placed inside your chest. Before you call that pressure intuition, ask a simpler question: if nobody were watching, would this choice still need to be made at this speed? The answer may restore an hour, a night, or the clear breath in which judgment returns.",
+        "coaching": {
+          "en": "Keep the opening alert but controlled. Slow down around borrowed and placed inside your chest.",
+          "zh": "开头保持警觉而克制。在 borrowed 和 placed inside your chest 附近放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Listen Without Handing Over the Wheel",
+          "zh": "2. 倾听，但不要交出方向盘"
+        },
+        "text": "Self-trust is not the refusal of advice. It is the ability to hear advice without disappearing inside it. Invite the strongest objection. Ask what an experienced person sees that you may have missed. Then separate information from instruction. This fact matters; that fear belongs to someone else. This warning deserves a test; that rule was written for a different life. Wise counsel adds windows to the room. It should not quietly remove the door. You remain responsible for the choice, which means you must be present when the choice is made.",
+        "coaching": {
+          "en": "Use clean contrast in information from instruction. Make the window-and-door image vivid but not theatrical.",
+          "zh": "清楚呈现 information 与 instruction 的对比。把窗与门的意象读得鲜明，但不要戏剧化。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Revision Be a Strength",
+          "zh": "3. 把修正视为力量"
+        },
+        "text": "Perhaps you once chose badly. Perhaps you chose well for the person you were, and the decision no longer fits the person you have become. Self-trust does not require loyalty to every former version of yourself. It requires honesty about what you know now. Revision is not proof that your judgment is broken. A sailor adjusts the sail because the wind is real, not because the destination is false. You may apologize, change direction, or reopen a question without turning your whole past into an accusation.",
+        "coaching": {
+          "en": "Bring warmth to the two Perhaps openings. Let the sailing image carry reassurance and motion.",
+          "zh": "温暖地读两个 Perhaps 开头。让航行的画面带出安慰与前行感。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Choose in a Voice You Can Recognize",
+          "zh": "4. 用你认得出的声音作选择"
+        },
+        "text": "When the noise has been useful, thank it. When it has become merely loud, let it pass. Write down what the choice protects, what it costs, and what evidence could change your mind. Then speak the decision in plain language. A true decision often sounds quieter than performance: I have considered the risk. I am willing to begin. Or: this is not right for me now. The sentence need not impress the room. It needs to remain recognizable when you meet it tomorrow. Trust grows when your voice can listen, revise, and still return as your own.",
+        "coaching": {
+          "en": "Give the two sample decisions calm finality. Finish with steadiness rather than triumph.",
+          "zh": "把两个示范决定读出平静的确定感。结尾要稳，不要得意扬扬。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "urgency",
+      "meaning": {
+        "en": "The need or pressure to act quickly.",
+        "zh": "紧迫性；需要迅速行动的压力。"
+      },
+      "use": {
+        "en": "Do not confuse urgency with importance.",
+        "zh": "不要把紧迫性与重要性混为一谈。"
+      }
+    },
+    {
+      "term": "intuition",
+      "meaning": {
+        "en": "Understanding or feeling something without conscious reasoning.",
+        "zh": "直觉；未经有意识推理而产生的理解或感受。"
+      },
+      "use": {
+        "en": "Her intuition told her to ask one more question.",
+        "zh": "她的直觉告诉她再问一个问题。"
+      }
+    },
+    {
+      "term": "counsel",
+      "meaning": {
+        "en": "Thoughtful advice, especially about an important choice.",
+        "zh": "忠告；尤指关于重要选择的深思熟虑的建议。"
+      },
+      "use": {
+        "en": "He sought counsel before accepting the role.",
+        "zh": "他在接受这个职位前征求了意见。"
+      }
+    },
+    {
+      "term": "revision",
+      "meaning": {
+        "en": "A change made after reconsidering something.",
+        "zh": "修正；重新考虑后作出的改变。"
+      },
+      "use": {
+        "en": "The revision made the plan more realistic.",
+        "zh": "这次修正让计划更加现实。"
+      }
+    },
+    {
+      "term": "reopen",
+      "meaning": {
+        "en": "To consider or discuss something again.",
+        "zh": "重新开启；再次考虑或讨论。"
+      },
+      "use": {
+        "en": "New evidence gave us reason to reopen the question.",
+        "zh": "新证据让我们有理由重新考虑这个问题。"
+      }
+    },
+    {
+      "term": "recognizable",
+      "meaning": {
+        "en": "Easy to know or identify as familiar.",
+        "zh": "可辨认的；容易认出是熟悉的。"
+      },
+      "use": {
+        "en": "Her voice remained recognizable under pressure.",
+        "zh": "即使在压力下，她的声音依然让人认得出来。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Stress the contrast in information from instruction.",
+      "zh": "在 information from instruction 中突出对比重音。"
+    },
+    {
+      "en": "Link smoothly through the person you have become.",
+      "zh": "在 the person you have become 中自然连读。"
+    },
+    {
+      "en": "Use falling intonation for I have considered the risk and I am willing to begin.",
+      "zh": "在 I have considered the risk 和 I am willing to begin 中使用降调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are making a careful decision aloud without asking permission to exist.",
+      "zh": "跟读时，想象你正在把一个深思熟虑的决定说出来，而无需为自己的存在请求许可。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the pace measured and release tension in the jaw.",
+        "zh": "第一遍：保持均衡语速，放松下颌。"
+      },
+      {
+        "en": "Pass two: make each contrast precise without sounding defensive.",
+        "zh": "第二遍：把每组对比读得精准，但不要显得防御。"
+      },
+      {
+        "en": "Pass three: let the sample decisions sound settled and humane.",
+        "zh": "第三遍：让示范决定听起来笃定而有人情味。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which decision in your life is carrying someone else's clock?",
+      "zh": "你生活中的哪个决定，正在背负别人的时钟？"
+    },
+    {
+      "en": "What new fact would honestly cause you to revise your present choice?",
+      "zh": "什么新事实会真正促使你修正当前的选择？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/trust-the-voice-that-does-not-hurry/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/trust-the-voice-that-does-not-hurry/clips/sources_0.mp3"
+    }
+  }
+}

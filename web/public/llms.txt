@@ -103,6 +103,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Imagine the Unseen Life](https://wordpower-seven.vercel.app/read-aloud/imagine-the-unseen-life): An original reflection on moral imagination, fair judgment, and the stories hidden behind behavior.
 - [Keep a Chair for Dissent](https://wordpower-seven.vercel.app/read-aloud/keep-a-chair-for-dissent): An original reflection on moral courage, loyal disagreement, and making better decisions together.
 - [Keep a Chair for the Stranger](https://wordpower-seven.vercel.app/read-aloud/keep-a-chair-for-the-stranger): An original reflection on neighborliness, moral imagination, and the quiet architecture of belonging.
+- [Keep a Field Note of Wonder](https://wordpower-seven.vercel.app/read-aloud/keep-a-field-note-of-wonder): An original reflection on exact attention, ordinary nature, and the language that grows from noticing.
 - [Keep a Field Notebook](https://wordpower-seven.vercel.app/read-aloud/keep-a-field-notebook): An original reflection on attention, patient observation, and learning to see before we explain.
 - [Keep a Ledger of Surprises](https://wordpower-seven.vercel.app/read-aloud/keep-a-ledger-of-surprises): An original reflection on intelligent mistakes, honest review, and turning experience into better judgment.
 - [Keep a Light in the Window](https://wordpower-seven.vercel.app/read-aloud/keep-a-light-in-the-window): An original reflection on hospitality, belonging, and the quiet courage of making room.
@@ -168,6 +169,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Lower Your Voice, Keep Your Ground](https://wordpower-seven.vercel.app/read-aloud/lower-your-voice-keep-your-ground): An original reflection on calm disagreement, precise language, and strength that does not need to shout.
 - [Make a Window for Wonder](https://wordpower-seven.vercel.app/read-aloud/make-a-window-for-wonder): An original reflection on experiments, useful questions, and the patient craft of discovery.
 - [Make a Window, Not a Verdict](https://wordpower-seven.vercel.app/read-aloud/make-a-window-not-a-verdict): An original reflection on moral imagination, first impressions, and the discipline of seeing a whole person.
+- [Make Care Visible](https://wordpower-seven.vercel.app/read-aloud/make-care-visible): An original reflection on practical kindness, quiet competence, and changing the conditions around a person.
 - [Make One Honest Thing](https://wordpower-seven.vercel.app/read-aloud/make-one-honest-thing): An original reflection on craft, career, and the quiet standard that survives applause.
 - [Make Room for No](https://wordpower-seven.vercel.app/read-aloud/make-room-for-no): An original reflection on guiding children with boundaries, respect, and room for an honest voice.
 - [Make Room in the Conversation](https://wordpower-seven.vercel.app/read-aloud/make-room-in-conversation): An original passage on calm speech, useful silence, and disagreement without contempt.
@@ -198,6 +200,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Teach Your Eyes to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eyes-to-stay): An original reflection on drawing, patient attention, and the difference between naming a thing and seeing it.
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.
 - [Trust the Quiet Evidence](https://wordpower-seven.vercel.app/read-aloud/trust-the-quiet-evidence): An original reflection on self-trust, patient practice, and the evidence hidden in ordinary days.
+- [Trust the Voice That Does Not Hurry](https://wordpower-seven.vercel.app/read-aloud/trust-the-voice-that-does-not-hurry): An original reflection on quiet self-trust, second chances, and decisions that can withstand time.
 - [Wait for the Second Birdsong](https://wordpower-seven.vercel.app/read-aloud/wait-for-the-second-birdsong): An original reflection on patient attention, natural pauses, and the details that hurry conceals.
 - [Walk Until the World Returns](https://wordpower-seven.vercel.app/read-aloud/walk-until-the-world-returns): An original reflection on recovering attention through an unhurried walk and the company of ordinary things.
 - [Wear Your Own Name Comfortably](https://wordpower-seven.vercel.app/read-aloud/wear-your-own-name-comfortably): An original reflection on self-trust, borrowed voices, and becoming recognizable to yourself.

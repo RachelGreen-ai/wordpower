@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "make-care-visible",
+  "title": {
+    "en": "Make Care Visible",
+    "zh": "让关怀变得可见"
+  },
+  "subtitle": {
+    "en": "An original reflection on practical kindness, quiet competence, and changing the conditions around a person.",
+    "zh": "一篇原创美文：关于实际的善意、安静的能力，以及改变一个人周围的条件。"
+  },
+  "tags": [
+    "Care",
+    "Service",
+    "Attention",
+    "Dignity"
+  ],
+  "sources": [
+    {
+      "title": "Notes on Nursing: What It Is, and What It Is Not",
+      "author": "Florence Nightingale",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/17366",
+      "note": {
+        "en": "Public-domain inspiration from the principle that care includes attentive management of ordinary conditions; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中的观念：关怀也包括对日常条件的细致照料；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical warmth. Keep the voice grounded, and let small actions carry emotional weight.",
+    "zh": "用务实的温暖朗读。声音要沉稳，让细小行动承载情感分量。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Kindness of Better Conditions",
+      "zh": "改善条件的善意"
+    },
+    "intro": {
+      "en": "This original passage asks how care becomes trustworthy when it pays attention to what a person must actually live through.",
+      "zh": "这篇原创文章追问：当关怀真正留意一个人必须经历的现实，它如何变得值得信任。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Look Beyond the Helpful Sentence",
+          "zh": "1. 看见安慰话之外的现实"
+        },
+        "text": "We often express care in sentences: let me know if you need anything; I hope tomorrow is easier; take good care of yourself. The words may be sincere, yet the tired person must still decide what to request, whom to trouble, and how much need is socially acceptable. Practical kindness looks beyond the sentence to the conditions surrounding it. Is there food that can be warmed without effort? Is the room too bright for sleep? Has the same question already been answered three times today? Care becomes visible when it removes one unnecessary demand from a person already carrying too many.",
+        "coaching": {
+          "en": "Read the familiar offers kindly, not sarcastically. Add weight to removes one unnecessary demand.",
+          "zh": "善意地读那些熟悉的安慰话，不要讽刺。重读 removes one unnecessary demand。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Observe Before You Improve",
+          "zh": "2. 改善之前，先观察"
+        },
+        "text": "Good intentions can become noisy. We enter with solutions, rearrange the chair, open the window, offer three plans, and ask whether the person feels better yet. Observation is quieter. It notices that the water glass is beyond reach, that conversation becomes tiring after ten minutes, that privacy matters as much as company. Before changing the scene, ask what is already working and what is costing effort. A useful helper does not need to be the most noticeable person in the room. The work, not the helper, should become easier to see.",
+        "coaching": {
+          "en": "Let the list of busy solutions move quickly, then slow into Observation is quieter.",
+          "zh": "前面一连串忙碌的解决办法读快些，到 Observation is quieter 时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Offer a Shape, Not a Burden",
+          "zh": "3. 给帮助一个形状，而不是一份负担"
+        },
+        "text": "An open offer can feel generous, but a shaped offer is easier to receive. Instead of asking, What can I do? try: I can bring dinner on Tuesday or make the phone call this afternoon; which would help more? Choice remains, but the work of invention has been reduced. The same principle belongs in teams and families. Replace vague support with a clear next action, a time, and a limit you can honestly keep. Reliability is a form of tenderness. It allows another person to lean without first testing whether the ground will disappear.",
+        "coaching": {
+          "en": "Make the shaped offer sound natural and easy to accept. Give Reliability is a form of tenderness a calm pause.",
+          "zh": "把具体提议读得自然、容易接受。在 Reliability is a form of tenderness 后平静停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Protect Dignity While You Help",
+          "zh": "4. 帮助时，也保护尊严"
+        },
+        "text": "Care is not control wearing a gentle expression. A person may refuse the meal, close the door, choose the slower method, or keep a difficulty private. Help should increase someone's room to act, not make gratitude the price of assistance. Ask permission. Explain what you are doing. Leave choices where choices can remain. Then complete the small task without turning it into a story about your goodness. Much of the world's necessary care is quiet: a clean cup, a kept promise, a light lowered at the right hour. Its beauty lies in making life more possible for someone else.",
+        "coaching": {
+          "en": "Keep the boundary sentence firm. End with warmth and a sense of spaciousness.",
+          "zh": "边界那一句要坚定。结尾带着温暖与空间感。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "surrounding",
+      "meaning": {
+        "en": "Existing or happening around someone or something.",
+        "zh": "周围的；存在或发生在某人某物四周的。"
+      },
+      "use": {
+        "en": "The surrounding conditions made concentration difficult.",
+        "zh": "周围条件让专注变得困难。"
+      }
+    },
+    {
+      "term": "unnecessary",
+      "meaning": {
+        "en": "Not needed or avoidable.",
+        "zh": "不必要的；可以避免的。"
+      },
+      "use": {
+        "en": "The new form removed unnecessary steps.",
+        "zh": "新表格去掉了不必要的步骤。"
+      }
+    },
+    {
+      "term": "privacy",
+      "meaning": {
+        "en": "Freedom from unwanted attention or observation.",
+        "zh": "隐私；不受不必要关注或观察的状态。"
+      },
+      "use": {
+        "en": "She asked for privacy while making the decision.",
+        "zh": "她在作决定时希望拥有隐私空间。"
+      }
+    },
+    {
+      "term": "vague",
+      "meaning": {
+        "en": "Not clear or specific enough.",
+        "zh": "含糊的；不够清楚或具体的。"
+      },
+      "use": {
+        "en": "A vague promise is difficult to rely on.",
+        "zh": "含糊的承诺很难让人依靠。"
+      }
+    },
+    {
+      "term": "reliability",
+      "meaning": {
+        "en": "The quality of being dependable and consistent.",
+        "zh": "可靠性；值得依赖且始终如一的品质。"
+      },
+      "use": {
+        "en": "Her reliability made the whole team calmer.",
+        "zh": "她的可靠让整个团队更加安心。"
+      }
+    },
+    {
+      "term": "dignity",
+      "meaning": {
+        "en": "The worth and respect that belong to every person.",
+        "zh": "尊严；每个人应有的价值与尊重。"
+      },
+      "use": {
+        "en": "The policy protects choice and dignity.",
+        "zh": "这项政策保护选择权与尊严。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the repeated questions light and connected in whom to trouble and how much need.",
+      "zh": "在 whom to trouble and how much need 中把连续问题读得轻巧连贯。"
+    },
+    {
+      "en": "Stress the contrast in the work, not the helper.",
+      "zh": "在 the work, not the helper 中突出对比重音。"
+    },
+    {
+      "en": "Use a steady three-part rhythm for ask permission, explain, and leave choices.",
+      "zh": "在 ask permission、explain、leave choices 中读出稳定的三段节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are offering help that is warm, specific, and respectful of choice.",
+      "zh": "跟读时，想象你正在提供一种温暖、具体且尊重选择的帮助。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the voice low and practical.",
+        "zh": "第一遍：声音保持低沉、务实。"
+      },
+      {
+        "en": "Pass two: make every concrete action easy to hear.",
+        "zh": "第二遍：让每个具体行动都清晰可辨。"
+      },
+      {
+        "en": "Pass three: let the boundaries sound as caring as the offers.",
+        "zh": "第三遍：让边界听起来与帮助本身一样充满关怀。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What unnecessary demand could you remove for someone this week?",
+      "zh": "这周你可以为某个人减去哪一项不必要的负担？"
+    },
+    {
+      "en": "How could you turn one vague offer of help into a reliable, shaped offer?",
+      "zh": "你如何把一个含糊的帮助承诺变成具体、可靠的提议？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-care-visible/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-care-visible/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-care-visible/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-care-visible/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-care-visible/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/make-care-visible/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-care-visible/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-care-visible/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-care-visible/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-care-visible/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-care-visible/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-care-visible/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-care-visible/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-care-visible/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-care-visible/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-care-visible/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-care-visible/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-care-visible/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-care-visible/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-care-visible/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-care-visible/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-care-visible/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-care-visible/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-care-visible/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-care-visible/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-care-visible/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-care-visible/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-care-visible/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-care-visible/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-care-visible/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-care-visible/clips/sources_0.mp3"
+    }
+  }
+}

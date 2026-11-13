@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "keep-a-field-note-of-wonder",
+  "title": {
+    "en": "Keep a Field Note of Wonder",
+    "zh": "为惊奇写一页观察笔记"
+  },
+  "subtitle": {
+    "en": "An original reflection on exact attention, ordinary nature, and the language that grows from noticing.",
+    "zh": "一篇原创美文：关于精准的注意、日常自然，以及从观察中生长出来的语言。"
+  },
+  "tags": [
+    "Nature",
+    "Attention",
+    "Language",
+    "Wonder"
+  ],
+  "sources": [
+    {
+      "title": "Journals of Dorothy Wordsworth, Vol. 1",
+      "author": "Dorothy Wordsworth",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/42856",
+      "note": {
+        "en": "Public-domain inspiration from the practice of recording close observations of weather, plants, and daily walks; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中对天气、植物与日常步行的细致记录；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if you are pointing out small discoveries to a friend. Keep the details bright and the conclusions light.",
+    "zh": "想象你正把细小发现指给朋友看。让细节鲜明，让结论轻盈。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Page Beside the Path",
+      "zh": "小路旁的那一页"
+    },
+    "intro": {
+      "en": "This original passage explores how precise observation can refresh both our attention and our speaking voice.",
+      "zh": "这篇原创文章探讨：精准观察如何同时更新我们的注意力与表达声音。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin with What Happened",
+          "zh": "1. 从真实发生的事写起"
+        },
+        "text": "At the edge of the morning, the garden appears to offer nothing new. The same wall holds the same ivy. A sparrow occupies the same uncertain branch. Then you stay for one minute longer. Rainwater travels along a bent leaf, gathers at its tip, and drops into the dark soil without ceremony. The sparrow turns its head toward a sound you cannot hear. A thread of cloud loosens above the roofs. Wonder does not always arrive as astonishment. Often it begins when the familiar world becomes specific again.",
+        "coaching": {
+          "en": "Use an unhurried pace. Give each observed detail its own small pool of silence.",
+          "zh": "语速从容。每个观察到的细节之后，都留一小片安静。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Trade Labels for Verbs",
+          "zh": "2. 用动词替代标签"
+        },
+        "text": "A field note improves when labels begin to move. Do not write only tree, wind, bird. Ask what each one is doing. The branches sift the pale light. Wind presses one side of the hedge and releases it. A blackbird tests the lawn with three quick steps, pauses, then listens beneath the grass. Verbs return life to language because they require attention to change. They also strengthen speech. When you can name an action precisely, your sentence no longer leans on vague praise. Beautiful becomes silver light trembling on a gate.",
+        "coaching": {
+          "en": "Make the verbs crisp: sift, presses, releases, tests, pauses. Let the final image soften.",
+          "zh": "把动词读得清晰：sift、presses、releases、tests、pauses。最后的画面读得柔和些。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Admit What You Do Not Know",
+          "zh": "3. 承认你还不知道"
+        },
+        "text": "Good observation includes uncertainty. Perhaps the bird is listening for rain, or worms, or another bird beyond the fence. You do not need to invent certainty to make the moment meaningful. Write: it tilted its head as if the earth had spoken. The phrase keeps the mystery without pretending to solve it. This habit matters beyond nature. In conversation, accurate uncertainty sounds like I noticed, I wondered, I may be mistaken. Such language is not weak. It leaves the door open for reality to correct us without humiliating us.",
+        "coaching": {
+          "en": "Warm the phrase I may be mistaken. It should sound open and observant, not apologetic.",
+          "zh": "温和地读 I may be mistaken。它应当显得开放而敏锐，而不是过度歉疚。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry One Detail Home",
+          "zh": "4. 带一个细节回家"
+        },
+        "text": "You do not need to capture the whole morning. Choose one detail that changed while you watched: the drop that grew heavy, the shadow that crossed a brick, the sudden green revealed when wind turned a leaf. Carry it home in a sentence. Tomorrow, notice again. Over time, these modest records become more than a diary of weather. They teach the eye to remain, the mind to distinguish, and the voice to speak from contact rather than habit. A person who notices carefully does not merely possess more words. The words possess more of the world.",
+        "coaching": {
+          "en": "Build gently through the three-part phrase: the eye, the mind, and the voice. Land the final sentence with quiet delight.",
+          "zh": "在 the eye、the mind、the voice 的三段结构中轻柔递进。结尾带着安静的欣喜落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "specific",
+      "meaning": {
+        "en": "Exact and clearly identified rather than general.",
+        "zh": "具体的；明确而非笼统的。"
+      },
+      "use": {
+        "en": "A specific detail made the story believable.",
+        "zh": "一个具体细节让故事变得可信。"
+      }
+    },
+    {
+      "term": "sift",
+      "meaning": {
+        "en": "To pass through or separate gently, as light through leaves.",
+        "zh": "筛过；像光穿过叶片那样轻柔透过。"
+      },
+      "use": {
+        "en": "Morning light sifted through the curtains.",
+        "zh": "晨光透过窗帘筛落进来。"
+      }
+    },
+    {
+      "term": "vague",
+      "meaning": {
+        "en": "Not clearly expressed or described.",
+        "zh": "含糊的；表达或描述不清楚的。"
+      },
+      "use": {
+        "en": "Replace the vague claim with one clear example.",
+        "zh": "用一个清楚的例子替代含糊的说法。"
+      }
+    },
+    {
+      "term": "tilt",
+      "meaning": {
+        "en": "To move into a sloping position.",
+        "zh": "倾斜；使偏向一侧。"
+      },
+      "use": {
+        "en": "She tilted her head to catch the quiet sound.",
+        "zh": "她歪了歪头，想听清那细微的声音。"
+      }
+    },
+    {
+      "term": "uncertainty",
+      "meaning": {
+        "en": "The state of not knowing something completely.",
+        "zh": "不确定；尚未完全知道的状态。"
+      },
+      "use": {
+        "en": "He described the uncertainty without hiding it.",
+        "zh": "他没有掩饰，而是如实描述了不确定性。"
+      }
+    },
+    {
+      "term": "distinguish",
+      "meaning": {
+        "en": "To recognize the difference between things.",
+        "zh": "区分；辨认事物之间的差别。"
+      },
+      "use": {
+        "en": "Practice helps the ear distinguish similar sounds.",
+        "zh": "练习能帮助耳朵区分相似的声音。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly through rainwater travels along a bent leaf.",
+      "zh": "在 rainwater travels along a bent leaf 中自然连读。"
+    },
+    {
+      "en": "Give the action verbs clean final consonants without making them heavy.",
+      "zh": "清晰读出动作动词的尾辅音，但不要读得沉重。"
+    },
+    {
+      "en": "Use a rising, open tone for I noticed, I wondered, I may be mistaken.",
+      "zh": "在 I noticed、I wondered、I may be mistaken 中使用开放的上扬语调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if each sentence helps a listener see one ordinary thing afresh.",
+      "zh": "跟读时，想象每句话都在帮助听者重新看见一件日常事物。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: pause after each image and picture it clearly.",
+        "zh": "第一遍：每个画面后停顿，并在心中清楚成像。"
+      },
+      {
+        "en": "Pass two: sharpen the verbs while keeping the voice gentle.",
+        "zh": "第二遍：突出动词，同时保持声音温和。"
+      },
+      {
+        "en": "Pass three: let uncertainty sound curious rather than hesitant.",
+        "zh": "第三遍：让不确定听起来充满好奇，而非犹豫。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What ordinary detail became specific when you watched it for one minute?",
+      "zh": "当你观察一分钟后，哪个日常细节变得具体起来？"
+    },
+    {
+      "en": "Which vague word in your speaking could become a precise image or action?",
+      "zh": "你的表达中，哪个含糊词可以变成精准的画面或动作？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-field-note-of-wonder/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-field-note-of-wonder/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-field-note-of-wonder/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-field-note-of-wonder/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-field-note-of-wonder/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/keep-a-field-note-of-wonder/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-field-note-of-wonder/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-field-note-of-wonder/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-field-note-of-wonder/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-field-note-of-wonder/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-field-note-of-wonder/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-field-note-of-wonder/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-field-note-of-wonder/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-field-note-of-wonder/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-field-note-of-wonder/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-field-note-of-wonder/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-field-note-of-wonder/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-field-note-of-wonder/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-field-note-of-wonder/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-field-note-of-wonder/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-field-note-of-wonder/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-field-note-of-wonder/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-field-note-of-wonder/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-field-note-of-wonder/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-field-note-of-wonder/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-field-note-of-wonder/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-field-note-of-wonder/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-field-note-of-wonder/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-field-note-of-wonder/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-field-note-of-wonder/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-field-note-of-wonder/clips/sources_0.mp3"
+    }
+  }
+}
