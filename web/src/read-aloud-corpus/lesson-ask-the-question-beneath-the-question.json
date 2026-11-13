@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "ask-the-question-beneath-the-question",
+  "title": {
+    "en": "Ask the Question Beneath the Question",
+    "zh": "追问问题之下的问题"
+  },
+  "subtitle": {
+    "en": "An original reflection on curiosity, diagnosis, and learning before rushing toward an answer.",
+    "zh": "一篇原创美文：关于好奇、诊断，以及在急着回答之前先学会理解。"
+  },
+  "tags": [
+    "Learning",
+    "Career",
+    "Curiosity",
+    "Communication"
+  ],
+  "sources": [
+    {
+      "title": "The Essays of Francis Bacon",
+      "author": "Francis Bacon",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/575",
+      "note": {
+        "en": "Public-domain inspiration for disciplined inquiry and the uses of study; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中对求知方法与学习用途的思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert curiosity. Let each question open space instead of sounding like an interrogation.",
+    "zh": "用清醒的好奇心朗读。让每个问题打开空间，而不是听起来像审问。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Door Behind the First Answer",
+      "zh": "第一个答案背后的门"
+    },
+    "intro": {
+      "en": "This original passage explores how a deeper question can turn confusion into useful attention.",
+      "zh": "这篇原创文章探讨：更深一层的问题，如何把困惑转化为有用的注意力。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Notice the Ready Answer",
+          "zh": "1. 留意那个脱口而出的答案"
+        },
+        "text": "A meeting goes quiet, a project slips, or a student says, “I do not understand.” Almost at once, the mind produces a tidy explanation. They were careless. The plan was unrealistic. The subject is too difficult. A ready answer is comforting because it closes the door. Yet the first explanation is often only the label on the door, not the room behind it. Curiosity begins when we notice our relief and decline to mistake it for knowledge. We can say, gently and without performance: What exactly happened here? What am I assuming? What would I need to see before I changed my mind?",
+        "coaching": {
+          "en": "Keep the opening scenes brisk, then slow down for the three genuine questions.",
+          "zh": "开头的场景读得轻快，到了三个真诚的问题时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Move from Blame to Shape",
+          "zh": "2. 从责怪转向看清结构"
+        },
+        "text": "Weak questions hunt for a culprit. Strong questions reveal the shape of a difficulty. Instead of asking who failed, ask where information arrived too late. Instead of asking why someone lacks confidence, ask which part of the task still feels invisible. The change is small in grammar and large in consequence. Blame narrows the field to a person; diagnosis widens it to timing, tools, incentives, habits, and fear. This does not erase responsibility. It makes responsibility precise enough to use. A problem with edges can be held, examined, and improved.",
+        "coaching": {
+          "en": "Contrast weak and strong questions clearly. Give the final three verbs a measured, practical rhythm.",
+          "zh": "清楚对比软弱问题与有力问题。结尾三个动词要读得稳健、务实。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask for the Missing Detail",
+          "zh": "3. 追问缺失的细节"
+        },
+        "text": "Good inquiry often sounds ordinary. When did the confusion begin? Which example made sense? What did you expect to happen next? These questions invite evidence that grand theories overlook. In a conversation, the missing detail may be a hesitation before yes. In a career decision, it may be the kind of work that leaves energy rather than merely consuming it. In learning, it may be one misunderstood word supporting an entire tower of uncertainty. Patient questions do not make us slow. They keep us from becoming efficiently wrong.",
+        "coaching": {
+          "en": "Let the examples feel observed rather than announced. Land firmly on efficiently wrong.",
+          "zh": "例子要读得像观察所得，而不是宣告。efficiently wrong 要有力收住。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave with a Better Question",
+          "zh": "4. 带着更好的问题离开"
+        },
+        "text": "Not every conversation must end in a solution. Sometimes progress is a better question carried into tomorrow. It may guide the next experiment, the next honest exchange, or the next hour of practice. A useful question has a quiet afterlife: it continues working while we walk, cook, read, and sleep. It loosens certainty without dissolving courage. The aim is not endless doubt. It is to become the kind of person whose intelligence remains hospitable—able to welcome an inconvenient fact, a quieter voice, or a door that the first answer tried to close.",
+        "coaching": {
+          "en": "Read the quiet afterlife image warmly. Let the final list sound spacious and welcoming.",
+          "zh": "温暖地读出“问题安静的余生”这一意象。最后的列举要宽阔、有欢迎感。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "tidy",
+      "meaning": {
+        "en": "Simple and orderly, sometimes by ignoring complexity.",
+        "zh": "整齐简明的；有时也指因忽略复杂性而显得简单。"
+      },
+      "use": {
+        "en": "The tidy explanation left out several facts.",
+        "zh": "那个看似简明的解释漏掉了几个事实。"
+      }
+    },
+    {
+      "term": "decline",
+      "meaning": {
+        "en": "To politely choose not to do or accept something.",
+        "zh": "婉拒；选择不做或不接受某事。"
+      },
+      "use": {
+        "en": "She declined to confuse speed with progress.",
+        "zh": "她拒绝把速度等同于进步。"
+      }
+    },
+    {
+      "term": "culprit",
+      "meaning": {
+        "en": "The person or thing responsible for a problem.",
+        "zh": "肇事者；造成问题的人或事物。"
+      },
+      "use": {
+        "en": "We looked for the cause, not a convenient culprit.",
+        "zh": "我们寻找原因，而不是方便归罪的对象。"
+      }
+    },
+    {
+      "term": "diagnosis",
+      "meaning": {
+        "en": "A careful identification of the nature of a problem.",
+        "zh": "诊断；对问题本质的仔细判断。"
+      },
+      "use": {
+        "en": "A clear diagnosis made the next step obvious.",
+        "zh": "清晰的诊断让下一步变得明确。"
+      }
+    },
+    {
+      "term": "overlook",
+      "meaning": {
+        "en": "To fail to notice or consider something.",
+        "zh": "忽略；未注意或未考虑某事。"
+      },
+      "use": {
+        "en": "The broad theory overlooked one crucial detail.",
+        "zh": "那个宏大理论忽略了一个关键细节。"
+      }
+    },
+    {
+      "term": "hospitable",
+      "meaning": {
+        "en": "Open and welcoming to people or ideas.",
+        "zh": "好客的；对人或观点开放欢迎的。"
+      },
+      "use": {
+        "en": "A hospitable mind can receive correction.",
+        "zh": "开放的头脑能够接受纠正。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use rising, open intonation for What exactly happened here?",
+      "zh": "What exactly happened here? 要用上扬、开放的语调。"
+    },
+    {
+      "en": "Stress shape and precise in reveal the shape and makes responsibility precise.",
+      "zh": "在 reveal the shape 与 makes responsibility precise 中重读 shape 和 precise。"
+    },
+    {
+      "en": "Link the sequence in while we walk, cook, read, and sleep.",
+      "zh": "连贯衔接 while we walk, cook, read, and sleep。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a thoughtful colleague see a problem more clearly.",
+      "zh": "跟读时，想象你正在帮助一位善于思考的同事把问题看得更清楚。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep every question curious rather than sharp.",
+        "zh": "第一遍：让每个问题都保持好奇，而不是尖锐。"
+      },
+      {
+        "en": "Pass two: make the contrasts clean and conversational.",
+        "zh": "第二遍：把对比读得清楚、自然。"
+      },
+      {
+        "en": "Pass three: carry calm confidence into the closing invitation.",
+        "zh": "第三遍：把平静的信心带入结尾的邀请。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which ready answer have you accepted too quickly this week?",
+      "zh": "这周你过早接受了哪个脱口而出的答案？"
+    },
+    {
+      "en": "What question would make one current problem more precise?",
+      "zh": "什么问题能让你眼前的一个难题变得更精确？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/ask-the-question-beneath-the-question/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/ask-the-question-beneath-the-question/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/ask-the-question-beneath-the-question/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/ask-the-question-beneath-the-question/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/ask-the-question-beneath-the-question/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/ask-the-question-beneath-the-question/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/ask-the-question-beneath-the-question/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/ask-the-question-beneath-the-question/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/ask-the-question-beneath-the-question/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/ask-the-question-beneath-the-question/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/ask-the-question-beneath-the-question/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/ask-the-question-beneath-the-question/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/ask-the-question-beneath-the-question/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/ask-the-question-beneath-the-question/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/ask-the-question-beneath-the-question/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/ask-the-question-beneath-the-question/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/ask-the-question-beneath-the-question/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/ask-the-question-beneath-the-question/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/ask-the-question-beneath-the-question/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/ask-the-question-beneath-the-question/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/ask-the-question-beneath-the-question/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/ask-the-question-beneath-the-question/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/ask-the-question-beneath-the-question/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/ask-the-question-beneath-the-question/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/ask-the-question-beneath-the-question/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/ask-the-question-beneath-the-question/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/ask-the-question-beneath-the-question/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/ask-the-question-beneath-the-question/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/ask-the-question-beneath-the-question/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/ask-the-question-beneath-the-question/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/ask-the-question-beneath-the-question/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "lend-courage-a-calm-voice",
+  "title": {
+    "en": "Lend Courage a Calm Voice",
+    "zh": "给勇气一副平静的声音"
+  },
+  "subtitle": {
+    "en": "An original reflection on leadership that steadies a room before asking others to move.",
+    "zh": "一篇原创美文：关于先稳住人心、再带领大家行动的领导力。"
+  },
+  "tags": [
+    "Leadership",
+    "Courage",
+    "Calm",
+    "Responsibility"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius; translated by George Long",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration for composure, duty, and action within one’s control; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中关于沉着、责任与可控行动的思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with contained strength. Let calm sound active, never sleepy or detached.",
+    "zh": "用含蓄有力的声音朗读。平静要有行动感，不能显得困倦或疏离。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Voice People Can Borrow",
+      "zh": "人们可以借用的声音"
+    },
+    "intro": {
+      "en": "This original passage explores how a leader’s composure can make courage available to other people.",
+      "zh": "这篇原创文章探讨：领导者的沉着如何让他人也能获得勇气。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Lower the Noise, Not the Stakes",
+          "zh": "1. 降低噪音，不降低事情的重要性"
+        },
+        "text": "When trouble enters a room, it often brings its own weather. Messages multiply. Small uncertainties become loud predictions. People begin speaking faster than they can listen. A leader’s first task is not to pretend the storm is mild. It is to lower the noise so that the real stakes can be seen. Name what has happened in plain language. Separate what is known from what is feared. Give the next decision a visible horizon. Calm is not the absence of urgency; it is urgency with enough discipline to remain useful.",
+        "coaching": {
+          "en": "Build the noisy opening, then settle into plain language. Emphasize urgency with enough discipline.",
+          "zh": "开头逐步营造嘈杂感，随后落回朴素语言。重读 urgency with enough discipline。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make the Next Step Human-Sized",
+          "zh": "2. 让下一步保持人的尺度"
+        },
+        "text": "Fear likes the whole mountain at once. Courage usually needs one foothold. In a difficult hour, a capable leader makes the next step human-sized: call these three people, check this figure, move everyone away from that door, return at four with what we know. Specific language returns weight to the body. Hands can do something. Eyes can find a point of focus. Time becomes a sequence rather than a wall. The plan may still be incomplete, but motion no longer depends on feeling fearless.",
+        "coaching": {
+          "en": "Read the instructions distinctly, as usable actions. Let the body images feel grounded.",
+          "zh": "把几条指令读得清楚，像真正可执行的行动。身体意象要有落地感。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Tell the Truth Without Spreading Panic",
+          "zh": "3. 说真话，但不传播恐慌"
+        },
+        "text": "Reassurance becomes fragile when it asks people to ignore what they can see. Better leadership respects their perception. Say, “This is serious, and here is what we are doing.” Admit the missing information. Mark the time of the next update, even if the update may simply be that the answer has not arrived. Trust grows when words keep appointments. A calm voice does not decorate uncertainty. It gives uncertainty a boundary, a process, and a place to be spoken aloud.",
+        "coaching": {
+          "en": "Make the sample sentence steady and credible. Give trust grows when words keep appointments a clean landing.",
+          "zh": "示范句要沉稳可信。Trust grows when words keep appointments 要清楚落地。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return Courage to the Room",
+          "zh": "4. 把勇气还给整个房间"
+        },
+        "text": "The finest steadiness does not make one person the hero of every scene. It travels. Someone repeats the clear instruction. Someone else notices the overlooked neighbor. A third person asks the useful question that panic had buried. Soon courage is no longer a performance at the front of the room; it has become a shared tone. Leadership succeeds when people recover their own judgment, their own breath, and their capacity to help. Lend courage your calm voice, then listen as the room finds its own.",
+        "coaching": {
+          "en": "Let the repeated someone clauses gather energy. Soften the final sentence into an act of trust.",
+          "zh": "重复的 someone 从句要逐渐积蓄力量。最后一句放柔，读成一种信任。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "contained",
+      "meaning": {
+        "en": "Controlled and held within clear limits.",
+        "zh": "克制的；被控制在清晰范围内的。"
+      },
+      "use": {
+        "en": "Her contained strength steadied the group.",
+        "zh": "她克制而有力的状态稳住了团队。"
+      }
+    },
+    {
+      "term": "stakes",
+      "meaning": {
+        "en": "The important things that may be gained or lost in a situation.",
+        "zh": "利害关系；某种情境中可能得到或失去的重要事物。"
+      },
+      "use": {
+        "en": "We clarified the stakes before deciding.",
+        "zh": "我们在决定前明确了利害关系。"
+      }
+    },
+    {
+      "term": "horizon",
+      "meaning": {
+        "en": "A limit or distant point that gives direction or perspective.",
+        "zh": "地平线；提供方向或视角的远处界限。"
+      },
+      "use": {
+        "en": "The deadline gave the decision a horizon.",
+        "zh": "截止时间为这个决定划出了清晰边界。"
+      }
+    },
+    {
+      "term": "foothold",
+      "meaning": {
+        "en": "A secure place to put a foot or begin making progress.",
+        "zh": "立足点；开始取得进展的可靠起点。"
+      },
+      "use": {
+        "en": "One reliable fact gave us a foothold.",
+        "zh": "一个可靠事实给了我们立足点。"
+      }
+    },
+    {
+      "term": "reassurance",
+      "meaning": {
+        "en": "Words or actions that reduce fear or doubt.",
+        "zh": "安慰；减轻恐惧或疑虑的话语或行动。"
+      },
+      "use": {
+        "en": "Empty reassurance would have weakened trust.",
+        "zh": "空洞的安慰会削弱信任。"
+      }
+    },
+    {
+      "term": "perception",
+      "meaning": {
+        "en": "The way something is noticed, understood, or interpreted.",
+        "zh": "感知；注意、理解或解释事物的方式。"
+      },
+      "use": {
+        "en": "Good leaders respect people’s perception.",
+        "zh": "优秀的领导者尊重人们的感知。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Contrast lower the noise with not the stakes.",
+      "zh": "对比 lower the noise 与 not the stakes。"
+    },
+    {
+      "en": "Keep the four instructions crisp: call, check, move, return.",
+      "zh": "call、check、move、return 四个指令要读得干脆。"
+    },
+    {
+      "en": "Build energy across their own judgment, their own breath, and their capacity to help.",
+      "zh": "在 their own judgment、their own breath、their capacity to help 中逐步增强语势。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice must help a team think clearly during a difficult hour.",
+      "zh": "跟读时，想象你的声音要帮助团队在艰难时刻清晰思考。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the pace measured even when the stakes rise.",
+        "zh": "第一遍：即使事情更紧迫，语速也要有分寸。"
+      },
+      {
+        "en": "Pass two: make every instruction concrete and credible.",
+        "zh": "第二遍：让每条指令都具体可信。"
+      },
+      {
+        "en": "Pass three: let calm spread outward through the closing paragraph.",
+        "zh": "第三遍：让平静在结尾段落中向外扩散。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What kind of noise do you add when a situation becomes urgent?",
+      "zh": "当事情变得紧急时，你会增添哪一种噪音？"
+    },
+    {
+      "en": "How could you make one difficult next step more human-sized?",
+      "zh": "你可以怎样让某个艰难的下一步更符合人的尺度？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/lend-courage-a-calm-voice/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/lend-courage-a-calm-voice/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/lend-courage-a-calm-voice/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/lend-courage-a-calm-voice/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/lend-courage-a-calm-voice/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/lend-courage-a-calm-voice/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/lend-courage-a-calm-voice/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/lend-courage-a-calm-voice/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/lend-courage-a-calm-voice/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/lend-courage-a-calm-voice/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/lend-courage-a-calm-voice/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/lend-courage-a-calm-voice/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/lend-courage-a-calm-voice/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/lend-courage-a-calm-voice/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/lend-courage-a-calm-voice/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/lend-courage-a-calm-voice/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/lend-courage-a-calm-voice/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/lend-courage-a-calm-voice/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/lend-courage-a-calm-voice/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/lend-courage-a-calm-voice/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/lend-courage-a-calm-voice/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/lend-courage-a-calm-voice/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/lend-courage-a-calm-voice/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/lend-courage-a-calm-voice/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/lend-courage-a-calm-voice/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/lend-courage-a-calm-voice/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/lend-courage-a-calm-voice/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/lend-courage-a-calm-voice/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/lend-courage-a-calm-voice/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/lend-courage-a-calm-voice/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/lend-courage-a-calm-voice/clips/sources_0.mp3"
+    }
+  }
+}

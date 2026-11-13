@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "leave-room-for-the-unfinished-map",
+  "title": {
+    "en": "Leave Room for the Unfinished Map",
+    "zh": "为未完成的地图留白"
+  },
+  "subtitle": {
+    "en": "An original reflection on evidence, imagination, and the dignity of revising what we think we know.",
+    "zh": "一篇原创美文：关于证据、想象，以及修正既有认知的尊严。"
+  },
+  "tags": [
+    "Science",
+    "Art",
+    "Imagination",
+    "Humility"
+  ],
+  "sources": [
+    {
+      "title": "The Notebooks of Leonardo da Vinci",
+      "author": "Leonardo da Vinci; edited by Jean Paul Richter",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/5000",
+      "note": {
+        "en": "Public-domain inspiration for close observation across art and science; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中贯通艺术与科学的细致观察；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with patient wonder. Keep the scientific language clear and the images light in the hand.",
+    "zh": "用耐心的惊奇感朗读。科学语言要清楚，意象要轻盈。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Pencil Mark at the Edge of Knowledge",
+      "zh": "知识边缘的一道铅笔线"
+    },
+    "intro": {
+      "en": "This original passage explores why a changing map is evidence of attention, not failure.",
+      "zh": "这篇原创文章探讨：一张不断修改的地图，为何证明了专注，而不是失败。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin with a Blank Margin",
+          "zh": "1. 从空白边缘开始"
+        },
+        "text": "Every serious map contains an admission: beyond this line, our knowledge thins. The admission may be printed as an empty coast, drawn as a dotted boundary, or hidden inside a confident color. In work and life, we often dislike such margins. We fill them with guesses, then forget which parts we invented. An artist and a scientist practice a different courage. They look long enough to separate what is present from what is merely expected. The blank is not an embarrassment. It is a clean place where attention can begin.",
+        "coaching": {
+          "en": "Give the first sentence quiet authority. Contrast present with expected without exaggeration.",
+          "zh": "第一句要有安静的权威感。present 与 expected 的对比不要夸张。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Draw What the Light Corrects",
+          "zh": "2. 画下光线所纠正的东西"
+        },
+        "text": "Imagine sketching a cup beside a window. At first, you draw the cup you remember: a neat oval, two straight sides, a familiar handle. Then the light objects. One edge disappears into brightness. The handle turns at an angle memory did not predict. A faint reflection bends across the table. Observation is not passive. It argues with the convenient picture in the mind. Science gives this argument measurements; art gives it pressure, tone, proportion, and space. Both ask the hand to become answerable to what the eye can actually find.",
+        "coaching": {
+          "en": "Make then the light objects playful but precise. Slow through pressure, tone, proportion, and space.",
+          "zh": "then the light objects 要读得轻巧而准确。pressure、tone、proportion、space 的列举要放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Revise Without Humiliation",
+          "zh": "3. 修正时不必自我羞辱"
+        },
+        "text": "A revised line is sometimes treated as proof that the first line was foolish. But revision is the visible form of learning. The astronomer updates a model when a movement refuses to fit. The designer reshapes a chair when the body reports discomfort. The listener changes an opinion when another person supplies the missing history. None of this requires a ceremony of shame. We can be grateful that reality is generous enough to resist us. An unfinished map stays alive because correction still has somewhere to land.",
+        "coaching": {
+          "en": "Keep the examples parallel and unhurried. Warm the voice on reality is generous enough to resist us.",
+          "zh": "几个例子要平行、从容。读到 reality is generous enough to resist us 时声音要温暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry a Pencil, Not a Chisel",
+          "zh": "4. 带铅笔，而不是凿子"
+        },
+        "text": "Some convictions deserve ink: cruelty is not made kind by fashion, and another person’s dignity is not a temporary hypothesis. But many daily judgments should remain in pencil. The colleague who seemed distant may have been protecting bad news. The method that worked last year may now conceal a weakness. The talent we dismissed may be waiting for a different room. A pencil is not a symbol of indecision. It is a promise to keep looking. Leave a margin. Date the revision. Let the map become more faithful than your pride.",
+        "coaching": {
+          "en": "Make the moral boundary firm, then soften into the daily examples. End with three deliberate imperatives.",
+          "zh": "道德边界要读得坚定，日常例子则柔和下来。结尾三个祈使句要从容明确。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "admission",
+      "meaning": {
+        "en": "An acknowledgment that something is true.",
+        "zh": "承认；认可某事为真。"
+      },
+      "use": {
+        "en": "The blank space was an admission of uncertainty.",
+        "zh": "空白处承认了不确定性。"
+      }
+    },
+    {
+      "term": "margin",
+      "meaning": {
+        "en": "The empty border around a page or the edge of an area.",
+        "zh": "页边空白；某个区域的边缘。"
+      },
+      "use": {
+        "en": "She left a margin for later notes.",
+        "zh": "她留出页边空白，方便以后做笔记。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "The size or amount of one thing compared with another.",
+        "zh": "比例；一物与另一物在大小或数量上的关系。"
+      },
+      "use": {
+        "en": "The sketch captured the building’s proportion.",
+        "zh": "这幅素描抓住了建筑的比例。"
+      }
+    },
+    {
+      "term": "answerable",
+      "meaning": {
+        "en": "Responsible and required to explain or respond.",
+        "zh": "须负责的；应作出解释或回应的。"
+      },
+      "use": {
+        "en": "Good judgment is answerable to evidence.",
+        "zh": "良好的判断应对证据负责。"
+      }
+    },
+    {
+      "term": "humiliation",
+      "meaning": {
+        "en": "A painful loss of pride or dignity.",
+        "zh": "羞辱；尊严或自尊受到伤害的感受。"
+      },
+      "use": {
+        "en": "Correction does not have to bring humiliation.",
+        "zh": "被纠正不必带来羞辱。"
+      }
+    },
+    {
+      "term": "hypothesis",
+      "meaning": {
+        "en": "An idea proposed as a possible explanation to be tested.",
+        "zh": "假设；有待检验的可能解释。"
+      },
+      "use": {
+        "en": "The team tested its hypothesis against new data.",
+        "zh": "团队用新数据检验了假设。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Hold a gentle pause after beyond this line.",
+      "zh": "在 beyond this line 之后轻轻停顿。"
+    },
+    {
+      "en": "Shape the consonant clusters clearly in measurements, pressure, and proportion.",
+      "zh": "清楚处理 measurements、pressure、proportion 中的辅音组合。"
+    },
+    {
+      "en": "Use firm falling intonation for Leave a margin. Date the revision.",
+      "zh": "Leave a margin. Date the revision. 使用坚定的降调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are inviting a creative team to welcome evidence without losing imagination.",
+      "zh": "跟读时，想象你在邀请一个创意团队：既欢迎证据，也不失去想象力。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make each image visible and unforced.",
+        "zh": "第一遍：让每个意象清晰可见，又不刻意。"
+      },
+      {
+        "en": "Pass two: keep the art-and-science contrasts balanced.",
+        "zh": "第二遍：保持艺术与科学之间的对比平衡。"
+      },
+      {
+        "en": "Pass three: finish with moral clarity and intellectual humility.",
+        "zh": "第三遍：以道德上的清晰与认知上的谦逊收尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where are you filling a blank margin with an untested guess?",
+      "zh": "你正在哪个空白处填入未经检验的猜测？"
+    },
+    {
+      "en": "Which judgment in your life would be wiser in pencil?",
+      "zh": "生活中的哪个判断，用铅笔写会更明智？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-room-for-the-unfinished-map/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-room-for-the-unfinished-map/clips/sources_0.mp3"
+    }
+  }
+}

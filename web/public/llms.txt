@@ -62,6 +62,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Ask the Apprenticeship Question](https://wordpower-seven.vercel.app/read-aloud/ask-the-apprenticeship-question): An original reflection on career learning, useful work, and the courage to begin below mastery.
 - [Ask the Candle Why](https://wordpower-seven.vercel.app/read-aloud/ask-the-candle-why): An original reflection on scientific curiosity, patient questions, and the wonder hidden in ordinary things.
 - [Ask the Experiment](https://wordpower-seven.vercel.app/read-aloud/ask-the-experiment): An original reflection on learning, intellectual humility, and the courage to test a cherished idea.
+- [Ask the Question Beneath the Question](https://wordpower-seven.vercel.app/read-aloud/ask-the-question-beneath-the-question): An original reflection on curiosity, diagnosis, and learning before rushing toward an answer.
 - [Ask the Unpolished Question](https://wordpower-seven.vercel.app/read-aloud/ask-the-unpolished-question): An original reflection on learning aloud, useful uncertainty, and the courage to be briefly inexperienced.
 - [A Quiet Morning Teaches Attention.](https://wordpower-seven.vercel.app/read-aloud/attention-quiet-morning): A three-to-five-minute passage for practicing calm observation, nature vocabulary, and gentle oral rhythm.
 - [Be the Steadiest Voice](https://wordpower-seven.vercel.app/read-aloud/be-the-steadiest-voice): An original reflection on leadership under pressure, useful courage, and the calm that helps a group think.
@@ -134,11 +135,13 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Leave Room for Growing](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-growing): An original reflection on patient guidance, useful boundaries, and the courage to let a child try.
 - [Leave Room for the Answer](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-answer): An original reflection on parenting, patient questions, and the courage to let a child grow beyond our script.
 - [Leave Room for the Result](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-result): An original reflection on experiment, uncertainty, and the discipline of seeing what is actually there.
+- [Leave Room for the Unfinished Map](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-unfinished-map): An original reflection on evidence, imagination, and the dignity of revising what we think we know.
 - [Leave Room for the Weather](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-weather): An original reflection on resilient plans, useful margins, and the freedom to adapt without surrendering direction.
 - [Leave the Door Unlatched](https://wordpower-seven.vercel.app/read-aloud/leave-the-door-unlatched): An original reflection on guiding children without crowding out their independence.
 - [Leave the Map Unfinished](https://wordpower-seven.vercel.app/read-aloud/leave-the-map-unfinished): An original reflection on intellectual humility, discovery, and the courage to revise what we think we know.
 - [Leave the Question on the Table](https://wordpower-seven.vercel.app/read-aloud/leave-the-question-on-the-table): An original reflection on parenting, learning, and the courage to let curiosity remain unfinished.
 - [Leave Time for the Longer Answer](https://wordpower-seven.vercel.app/read-aloud/leave-time-for-the-longer-answer): An original reflection on patient questions, family stories, and the dignity of an unhurried reply.
+- [Lend Courage a Calm Voice](https://wordpower-seven.vercel.app/read-aloud/lend-courage-a-calm-voice): An original reflection on leadership that steadies a room before asking others to move.
 - [Lend the Room Your Calm](https://wordpower-seven.vercel.app/read-aloud/lend-the-room-your-calm): An original reflection on leadership as the art of making clear action possible under pressure.
 - [Lend the Stranger a History](https://wordpower-seven.vercel.app/read-aloud/lend-the-stranger-a-history): An original reflection on moral imagination, fair judgment, and the stories we cannot see.
 - [Let Curiosity Keep Its Hands Dirty](https://wordpower-seven.vercel.app/read-aloud/let-curiosity-keep-its-hands-dirty): An original reflection on experiment, practical learning, and the intelligence of making contact with the world.
