@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "teach-a-child-to-notice-not-perform",
+  "title": {
+    "en": "Teach a Child to Notice, Not Perform",
+    "zh": "教孩子观察，而不是表演"
+  },
+  "subtitle": {
+    "en": "An original reflection on attention, praise, and the quiet growth of an inner life.",
+    "zh": "一篇原创美文：关于注意力、赞美，以及内在生命的安静成长。"
+  },
+  "tags": [
+    "Parenting",
+    "Attention",
+    "Learning",
+    "Self-trust"
+  ],
+  "sources": [
+    {
+      "title": "A Vindication of the Rights of Woman",
+      "author": "Mary Wollstonecraft",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3420",
+      "note": {
+        "en": "Public-domain inspiration for treating children as developing minds rather than ornaments; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中把孩子视为成长中的心智、而非装饰品的思想；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with affection but without a sugary tone. Let the concrete details carry the tenderness.",
+    "zh": "带着关爱朗读，但不要甜腻。让具体细节本身承载温柔。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Window That Opens Inward",
+      "zh": "一扇向内打开的窗"
+    },
+    "intro": {
+      "en": "This original passage asks what children learn when adults reward display more quickly than discovery.",
+      "zh": "这篇原创文章追问：当大人奖励表现快于奖励发现时，孩子会学到什么？"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Before the Applause",
+          "zh": "1. 在掌声之前"
+        },
+        "text": "A child crouches beside a pavement after rain. In a shallow pool, the sky has fallen between two stones. A leaf turns slowly on the surface, and a line of ants detours around the water. For several seconds, the child belongs completely to what is there. Then an adult lifts a phone and says, Show me your discovering face. The spell changes. Attention, which had been traveling outward, turns toward the imagined audience. The child is no longer meeting the world; the child is learning how discovery is supposed to look.",
+        "coaching": {
+          "en": "Keep the opening visual and unhurried. Make the turn at Then an adult lifts a phone clear but not accusing.",
+          "zh": "开头要有画面感、从容。读到 Then an adult lifts a phone 时转折要清楚，但不要带指责。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Praise the Relationship",
+          "zh": "2. 赞美孩子与事物的关系"
+        },
+        "text": "Praise is not the enemy. A warm word can steady effort and make courage repeatable. But praise becomes thin when it attaches only to the performer: You are brilliant. You are adorable. You are the best. Try praising the relationship instead. You stayed with that puzzle after the easy answer failed. You heard the quieter bird behind the traffic. You made room for your friend to finish. Such sentences point beyond the mirror. They tell a child that attention has direction, patience has texture, and kindness is something the body can practice.",
+        "coaching": {
+          "en": "Give the praise examples distinct rhythms. Land gently on something the body can practice.",
+          "zh": "几句赞美示例要读出不同节奏。结尾 something the body can practice 要轻柔落地。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Protect the Unreported Hour",
+          "zh": "3. 守护无需汇报的一小时"
+        },
+        "text": "Not every drawing needs a caption. Not every question needs to become evidence of progress. Children need stretches of time that are not harvested for a report, a post, or an improving lesson. In an unreported hour, a cardboard box may become a ferry, then a hospital, then nothing more than a good place to sit. The freedom to abandon one meaning and invent another is not wasted time. It is rehearsal for an inner life: the private workshop where preferences form, boredom opens a hidden door, and a person begins to recognize a voice that is truly their own.",
+        "coaching": {
+          "en": "Use a playful lift through ferry and hospital, then slow down for the private workshop of the inner life.",
+          "zh": "读到 ferry 和 hospital 时轻快上扬；说到内在生命的 private workshop 时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Ask What Became Visible",
+          "zh": "4. 问问什么变得可见"
+        },
+        "text": "At the end of a day, we often ask children what they achieved. Ask sometimes what became visible. What did you notice after everyone else had walked past? What changed when you tried again more slowly? Which moment would you keep even if nobody clapped? These questions do not withdraw love; they release love from spectacle. They help a child build a home inside experience, furnished with memory, judgment, and wonder. One day, the adult will not be nearby to applaud or advise. The durable gift is not a hunger for approval, but a window that still opens—quietly, confidently—toward the world and inward toward the self.",
+        "coaching": {
+          "en": "Let each question invite a real answer. Finish quietly, giving equal weight to world and self.",
+          "zh": "每个问题都要像真正在等待回答。结尾要安静，让 world 与 self 获得同等分量。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "crouch",
+      "meaning": {
+        "en": "To lower the body close to the ground by bending the knees.",
+        "zh": "蹲下；屈膝使身体接近地面。"
+      },
+      "use": {
+        "en": "She crouched beside the puddle to study its reflection.",
+        "zh": "她蹲在水洼旁观察倒影。"
+      }
+    },
+    {
+      "term": "detour",
+      "meaning": {
+        "en": "To take a longer route in order to avoid something.",
+        "zh": "绕行；为避开某物而走较远的路。"
+      },
+      "use": {
+        "en": "The ants detoured around the water.",
+        "zh": "蚂蚁绕过了积水。"
+      }
+    },
+    {
+      "term": "repeatable",
+      "meaning": {
+        "en": "Able to be done again with a similar result.",
+        "zh": "可重复的；能以相似结果再次完成的。"
+      },
+      "use": {
+        "en": "A simple routine made the brave act repeatable.",
+        "zh": "简单的惯例让勇敢的行动可以重复。"
+      }
+    },
+    {
+      "term": "harvest",
+      "meaning": {
+        "en": "To collect something for use, here as if every experience must produce a result.",
+        "zh": "收获；此处指仿佛每段经历都必须产出成果。"
+      },
+      "use": {
+        "en": "We do not need to harvest every quiet hour for content.",
+        "zh": "我们不必把每个安静时刻都收割成内容。"
+      }
+    },
+    {
+      "term": "spectacle",
+      "meaning": {
+        "en": "A public display designed to attract attention.",
+        "zh": "景象；为吸引注意而设置的公开展示。"
+      },
+      "use": {
+        "en": "Care loses intimacy when it becomes a spectacle.",
+        "zh": "关爱一旦变成表演，就会失去亲密感。"
+      }
+    },
+    {
+      "term": "durable",
+      "meaning": {
+        "en": "Able to remain strong and useful over time.",
+        "zh": "持久的；能长期保持坚实与有用。"
+      },
+      "use": {
+        "en": "Curiosity is a durable gift.",
+        "zh": "好奇心是一份持久的礼物。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link stayed with that puzzle smoothly, without swallowing the final consonants.",
+      "zh": "流畅连读 stayed with that puzzle，同时不要吞掉词尾辅音。"
+    },
+    {
+      "en": "Contrast the repeated Not every phrases with a firm beginning and a softer ending.",
+      "zh": "重复的 Not every 短语开头坚定、结尾柔和，形成对比。"
+    },
+    {
+      "en": "Pause around quietly, confidently so the adverbs feel chosen rather than decorative.",
+      "zh": "在 quietly, confidently 前后稍停，让副词显得经过选择，而非装饰。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if speaking to a thoughtful parent who wants to protect both confidence and privacy.",
+      "zh": "跟读时，想象你在对一位希望同时保护孩子自信与隐私的家长说话。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the puddle, ants, box, and window easy to see.",
+        "zh": "第一遍：让水洼、蚂蚁、纸箱和窗户清晰可见。"
+      },
+      {
+        "en": "Pass two: distinguish praise that reflects a child from praise that points toward the world.",
+        "zh": "第二遍：区分映照孩子的赞美与指向世界的赞美。"
+      },
+      {
+        "en": "Pass three: ask the final questions with space, trust, and no demand for a quick reply.",
+        "zh": "第三遍：带着空间与信任提出结尾问题，不催促回答。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which recent moment of attention could you have protected from becoming a performance?",
+      "zh": "最近哪个专注的时刻，本可以不被变成表演？"
+    },
+    {
+      "en": "What could you praise today that points beyond talent and toward relationship?",
+      "zh": "今天你可以赞美什么，让它越过天赋，指向人与事物的关系？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/teach-a-child-to-notice-not-perform/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/teach-a-child-to-notice-not-perform/clips/sources_0.mp3"
+    }
+  }
+}

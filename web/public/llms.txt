@@ -144,6 +144,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Lend Courage a Calm Voice](https://wordpower-seven.vercel.app/read-aloud/lend-courage-a-calm-voice): An original reflection on leadership that steadies a room before asking others to move.
 - [Lend the Room Your Calm](https://wordpower-seven.vercel.app/read-aloud/lend-the-room-your-calm): An original reflection on leadership as the art of making clear action possible under pressure.
 - [Lend the Stranger a History](https://wordpower-seven.vercel.app/read-aloud/lend-the-stranger-a-history): An original reflection on moral imagination, fair judgment, and the stories we cannot see.
+- [Let Curiosity Carry a Lantern](https://wordpower-seven.vercel.app/read-aloud/let-curiosity-carry-a-lantern): An original reflection on patient experiments, useful questions, and wonder with its sleeves rolled up.
 - [Let Curiosity Keep Its Hands Dirty](https://wordpower-seven.vercel.app/read-aloud/let-curiosity-keep-its-hands-dirty): An original reflection on experiment, practical learning, and the intelligence of making contact with the world.
 - [Let the Child Carry the Basket](https://wordpower-seven.vercel.app/read-aloud/let-the-child-carry-the-basket): An original reflection on useful responsibility, patient guidance, and the dignity of growing capable.
 - [Let the Child Finish the Map](https://wordpower-seven.vercel.app/read-aloud/let-the-child-finish-the-map): An original reflection on guidance, useful mistakes, and the patience to let understanding take shape.
@@ -179,6 +180,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Make the Apology Specific](https://wordpower-seven.vercel.app/read-aloud/make-the-apology-specific): An original reflection on repairing trust with honest detail, proportion, and changed behavior.
 - [Make the Join Visible](https://wordpower-seven.vercel.app/read-aloud/make-the-join-visible): An original reflection on craftsmanship, honest repair, and the beauty of work that reveals how it was made.
 - [Make the Mistake Useful](https://wordpower-seven.vercel.app/read-aloud/make-the-mistake-useful): An original reflection on learning, intelligent practice, and turning error into better judgment.
+- [Make the Pause Part of the Answer](https://wordpower-seven.vercel.app/read-aloud/make-the-pause-part-of-the-answer): An original reflection on calm communication, honest timing, and replies that do not abandon the truth.
 - [Make the Work Worthy of Hands](https://wordpower-seven.vercel.app/read-aloud/make-the-work-worthy-of-hands): An original reflection on craft, useful beauty, and the dignity hidden in careful work.
 - [Mend the Small Tear](https://wordpower-seven.vercel.app/read-aloud/mend-the-small-tear): An original reflection on friendship, repair, and the courage to return before distance hardens.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.
@@ -199,6 +201,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Stand Near, Leave Room](https://wordpower-seven.vercel.app/read-aloud/stand-near-leave-room): An original reflection on parenting, independence, and staying available without standing in the way.
 - [Stand Where the Wind Can Find You](https://wordpower-seven.vercel.app/read-aloud/stand-where-the-wind-can-find-you): An original reflection on visible courage, steady leadership, and making uncertainty easier to face together.
 - [Take the Last Seat](https://wordpower-seven.vercel.app/read-aloud/take-the-last-seat): An original reflection on practical leadership, shared work, and earning the clearest view of a team.
+- [Teach a Child to Notice, Not Perform](https://wordpower-seven.vercel.app/read-aloud/teach-a-child-to-notice-not-perform): An original reflection on attention, praise, and the quiet growth of an inner life.
 - [Teach Your Eye to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eye-to-stay): An original reflection on drawing, patient attention, and learning to see beyond the label.
 - [Teach Your Eyes to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eyes-to-stay): An original reflection on drawing, patient attention, and the difference between naming a thing and seeing it.
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.

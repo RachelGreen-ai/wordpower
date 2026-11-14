@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "make-the-pause-part-of-the-answer",
+  "title": {
+    "en": "Make the Pause Part of the Answer",
+    "zh": "让停顿成为回答的一部分"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm communication, honest timing, and replies that do not abandon the truth.",
+    "zh": "一篇原创美文：关于平静沟通、诚实的时机，以及不抛弃真相的回应。"
+  },
+  "tags": [
+    "Communication",
+    "Calm",
+    "Courage",
+    "Leadership"
+  ],
+  "sources": [
+    {
+      "title": "The Analects of Confucius",
+      "author": "Confucius; translated by James Legge",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3330",
+      "note": {
+        "en": "Public-domain inspiration for measured speech, reflection, and conduct; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中关于审慎言语、反思与行动的思想；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with spacious confidence. Let silence support the meaning instead of filling every gap with urgency.",
+    "zh": "以从容自信的语气朗读。让沉默支撑意义，不要用急迫填满每处空隙。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Room Between Question and Reply",
+      "zh": "问题与回答之间的房间"
+    },
+    "intro": {
+      "en": "This original passage considers how a deliberate pause can protect accuracy, dignity, and connection.",
+      "zh": "这篇原创文章思考：有意识的停顿，如何保护准确、尊严与联结。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Refuse the Borrowed Speed",
+          "zh": "1. 拒绝被借来的速度"
+        },
+        "text": "A difficult question enters a meeting, and the room suddenly acquires a clock. Faces turn. Someone taps a pen. The silence begins to feel like an accusation, so the speaker reaches for the first complete sentence available. It may sound decisive, yet it often belongs more to pressure than to judgment. Urgency can be real, but it can also be borrowed from other people’s discomfort. Before answering, ask whose speed you are obeying. A breath is sometimes enough to return the mind to its rightful pace.",
+        "coaching": {
+          "en": "Let the first three images tighten the room. Release the pressure slightly at Before answering.",
+          "zh": "开头三个意象要让房间逐渐收紧。读到 Before answering 时稍微释放压力。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Name the Work of the Pause",
+          "zh": "2. 说清停顿正在做什么"
+        },
+        "text": "Silence becomes unsettling when nobody knows whether it means thought, refusal, or retreat. You can give the pause a name. I want to answer that accurately. Let me separate what I know from what I am assuming. I need a moment before I respond fairly. These are not evasions. They are small pieces of verbal architecture, holding the conversation open while better judgment catches up. A named pause reassures the listener: I have not left the room; I am trying not to bring a careless answer back into it.",
+        "coaching": {
+          "en": "Speak the three model sentences as usable language, not lofty advice. Emphasize I have not left the room.",
+          "zh": "三个示范句要像可直接使用的语言，而不是高高在上的建议。强调 I have not left the room。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Do Not Polish Away the Truth",
+          "zh": "3. 不要把真相打磨掉"
+        },
+        "text": "Calm speech is not speech emptied of consequence. A gentle tone can still carry a boundary, an unwelcome fact, or a clear no. The purpose of pausing is not to manufacture a pleasant disguise. It is to remove the heat that distorts the message while keeping the message intact. Say, I cannot promise Friday, rather than wrapping the limit in a fog of hopeful phrases. Say, That remark diminished her contribution, rather than describing harm as an unfortunate atmosphere. Courtesy should make truth receivable, not invisible.",
+        "coaching": {
+          "en": "Keep the boundary examples plain and firm. Slow down for receivable, not invisible.",
+          "zh": "边界示例要朴素而坚定。读到 receivable, not invisible 时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return with Something Better",
+          "zh": "4. 带着更好的回答回来"
+        },
+        "text": "A pause earns trust only when it leads somewhere. If you ask for an hour, return in an hour—or send word before the hour is gone. Bring the missing figure, the corrected claim, the sentence that can now be said without punishment hidden inside it. This follow-through turns hesitation into reliability. Over time, people learn that your quiet is not vacancy. It is a workshop with a door: you enter to sort evidence from impulse, then come back carrying what the conversation can use. Make the pause part of the answer, and make the return part of your character.",
+        "coaching": {
+          "en": "Build steadily through the three things brought back. End with warmth, weight, and a clean falling tone.",
+          "zh": "列举带回的三样东西时稳步增强。结尾要温暖、有分量，并用清晰降调收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "decisive",
+      "meaning": {
+        "en": "Showing the ability to make a clear choice quickly and confidently.",
+        "zh": "果断的；能迅速而自信地做出明确选择的。"
+      },
+      "use": {
+        "en": "The reply sounded decisive but lacked evidence.",
+        "zh": "回答听起来果断，却缺少证据。"
+      }
+    },
+    {
+      "term": "rightful",
+      "meaning": {
+        "en": "Properly belonging to someone or appropriate in the circumstances.",
+        "zh": "应有的；正当属于某人或适合当下情境的。"
+      },
+      "use": {
+        "en": "One breath returned her mind to its rightful pace.",
+        "zh": "一次呼吸让她的思绪回到应有的节奏。"
+      }
+    },
+    {
+      "term": "evasion",
+      "meaning": {
+        "en": "An indirect action or answer used to avoid something difficult.",
+        "zh": "回避；为躲开难题而采取的间接行动或回答。"
+      },
+      "use": {
+        "en": "Asking for time was honest, not an evasion.",
+        "zh": "请求时间是诚实，而不是回避。"
+      }
+    },
+    {
+      "term": "diminish",
+      "meaning": {
+        "en": "To make something seem smaller, less important, or less valuable.",
+        "zh": "贬低；使某事显得更小、更不重要或价值更低。"
+      },
+      "use": {
+        "en": "The interruption diminished her contribution.",
+        "zh": "那次打断贬低了她的贡献。"
+      }
+    },
+    {
+      "term": "receivable",
+      "meaning": {
+        "en": "Able to be accepted, heard, or understood.",
+        "zh": "可接受的；能够被接纳、听见或理解的。"
+      },
+      "use": {
+        "en": "Courtesy made the difficult truth more receivable.",
+        "zh": "礼貌让艰难的真相更容易被接受。"
+      }
+    },
+    {
+      "term": "vacancy",
+      "meaning": {
+        "en": "An empty space or the state of containing nothing.",
+        "zh": "空缺；空无一物的状态。"
+      },
+      "use": {
+        "en": "Her silence was careful work, not vacancy.",
+        "zh": "她的沉默是审慎的工作，而不是空白。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use a slight pause after Before answering so the question that follows feels deliberate.",
+      "zh": "在 Before answering 后稍作停顿，让后面的问题显得经过思考。"
+    },
+    {
+      "en": "Keep the contrast clear in thought, refusal, or retreat with equal stress on all three nouns.",
+      "zh": "thought, refusal, or retreat 三个名词使用均衡重音，使对比清晰。"
+    },
+    {
+      "en": "Give the final pair part of the answer and part of your character matching rhythm and falling intonation.",
+      "zh": "结尾 part of the answer 与 part of your character 使用相称节奏与降调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if answering a high-stakes question while protecting both truth and the other person’s dignity.",
+      "zh": "跟读时，想象你在回答一个高风险问题，同时保护真相与对方的尊严。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: allow real silence after each difficult question or model sentence.",
+        "zh": "第一遍：每个难题或示范句后都留出真正的沉默。"
+      },
+      {
+        "en": "Pass two: keep the boundaries firm without adding anger to the voice.",
+        "zh": "第二遍：边界要坚定，但声音中不要添加怒气。"
+      },
+      {
+        "en": "Pass three: make the final return sound dependable, practical, and human.",
+        "zh": "第三遍：让最后的回归听起来可靠、实际、有人情味。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose speed do you tend to obey when a difficult question arrives?",
+      "zh": "当难题出现时，你往往在服从谁的速度？"
+    },
+    {
+      "en": "Which sentence could help you name a thoughtful pause without leaving the conversation?",
+      "zh": "哪句话能帮你说明自己在认真停顿，同时不离开对话？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-the-pause-part-of-the-answer/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-the-pause-part-of-the-answer/clips/sources_0.mp3"
+    }
+  }
+}

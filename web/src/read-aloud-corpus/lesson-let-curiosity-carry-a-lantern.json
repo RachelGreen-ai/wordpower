@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "let-curiosity-carry-a-lantern",
+  "title": {
+    "en": "Let Curiosity Carry a Lantern",
+    "zh": "让好奇心提一盏灯"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient experiments, useful questions, and wonder with its sleeves rolled up.",
+    "zh": "一篇原创美文：关于耐心实验、有用的问题，以及挽起袖子的惊奇。"
+  },
+  "tags": [
+    "Science",
+    "Curiosity",
+    "Learning",
+    "Craft"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration for finding large questions inside ordinary things; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中从日常事物里发现宏大问题的方法；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with bright precision. Sound delighted by each question, but grounded by the work of testing it.",
+    "zh": "以明亮而准确的语气朗读。对每个问题保持欣喜，同时让检验的过程带来踏实感。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Workshop of Wonder",
+      "zh": "惊奇的工坊"
+    },
+    "intro": {
+      "en": "This original passage explores how curiosity matures when amazement learns to keep records.",
+      "zh": "这篇原创文章探讨：当惊奇学会记录，好奇心如何变得成熟。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin with the Ordinary",
+          "zh": "1. 从寻常之物开始"
+        },
+        "text": "A flame is so familiar that the eye may stop before the seeing begins. Yet hold a spoon above a candle and a dark trace appears. Bring the flame near a cool glass and a faint mist gathers. Watch the wick after the light is blown out, and a pale thread rises through the air. The ordinary object has not become strange; our attention has become more exact. Curiosity often begins this way—not with a distant mystery, but with a household thing refusing to be as simple as its name.",
+        "coaching": {
+          "en": "Keep the sequence of spoon, glass, and wick crisp. Warm the voice on attention has become more exact.",
+          "zh": "spoon、glass、wick 的顺序要清晰利落。读到 attention has become more exact 时声音要温暖。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Give Wonder a Notebook",
+          "zh": "2. 给惊奇一本笔记本"
+        },
+        "text": "Wonder can arrive as a flash, but understanding usually walks. It labels the jar. It notes the hour. It repeats the trial after the room has cooled. A notebook is not a cage for imagination; it is a place where imagination can meet itself tomorrow and discover whether the story still holds. Write what happened, not what you hoped would happen. Record the awkward result. Circle the number that does not fit. A clean page may flatter the researcher, but a marked page can teach the world something new.",
+        "coaching": {
+          "en": "Use short, practical beats for the laboratory actions. Give marked page and something new quiet emphasis.",
+          "zh": "实验动作要用短促、实在的节拍。轻轻强调 marked page 和 something new。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask a Question with Handles",
+          "zh": "3. 提一个有把手的问题"
+        },
+        "text": "Some questions are beautiful clouds: Why is nature elegant? Why does anything exist? They widen the mind, but the hands cannot always begin with them. A working question needs handles. What changes if the water is warmer? Which surface holds the drop longest? Does the pattern return when the trial is reversed? Such questions invite action without shrinking wonder. They create a bridge between astonishment and evidence. On that bridge, even failure becomes specific, and what is specific can be examined, shared, challenged, and improved.",
+        "coaching": {
+          "en": "Float the large questions, then make the working questions more concrete. Build momentum through the final four verbs.",
+          "zh": "宏大问题要读得轻盈，操作性问题则更具体。结尾四个动词逐步积累力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave the Lantern Lit",
+          "zh": "4. 让灯继续亮着"
+        },
+        "text": "Expertise is sometimes mistaken for the end of surprise. In fact, the practiced mind often sees more reasons to pause. It knows where a measurement may deceive, where a model is useful but incomplete, and where an old answer has become a habit wearing a white coat. The aim is not to remain ignorant. It is to let knowledge increase the resolution of wonder. Carry a lantern, not a spotlight: illuminate the next honest step without pretending to erase the night. Curiosity grows trustworthy when it can say both, Here is what I found, and, Here is what I still need to learn.",
+        "coaching": {
+          "en": "Read the white-coat image with restrained wit. Make the final two statements balanced, candid, and calm.",
+          "zh": "white coat 的意象要带克制的幽默。结尾两句要平衡、坦率、平静。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "trace",
+      "meaning": {
+        "en": "A small sign that something has been present.",
+        "zh": "痕迹；某物曾存在的细微迹象。"
+      },
+      "use": {
+        "en": "The experiment left a dark trace on the spoon.",
+        "zh": "实验在勺子上留下了黑色痕迹。"
+      }
+    },
+    {
+      "term": "wick",
+      "meaning": {
+        "en": "The cord in a candle that draws up wax and burns.",
+        "zh": "烛芯；吸取蜡并燃烧的线绳。"
+      },
+      "use": {
+        "en": "A thread of smoke rose from the wick.",
+        "zh": "一缕烟从烛芯升起。"
+      }
+    },
+    {
+      "term": "trial",
+      "meaning": {
+        "en": "A test carried out to learn whether an idea works.",
+        "zh": "试验；为了解一个想法是否成立而进行的测试。"
+      },
+      "use": {
+        "en": "They repeated the trial at a lower temperature.",
+        "zh": "他们在更低温度下重复了试验。"
+      }
+    },
+    {
+      "term": "flatter",
+      "meaning": {
+        "en": "To make someone or something appear more favorable than the truth.",
+        "zh": "奉承；使人或事物显得比实际更好。"
+      },
+      "use": {
+        "en": "Selective data may flatter a weak theory.",
+        "zh": "选择性数据可能会美化一个薄弱的理论。"
+      }
+    },
+    {
+      "term": "astonishment",
+      "meaning": {
+        "en": "A feeling of great surprise and wonder.",
+        "zh": "惊讶；强烈的惊奇感。"
+      },
+      "use": {
+        "en": "A useful question turned astonishment into investigation.",
+        "zh": "一个有用的问题把惊奇变成了探究。"
+      }
+    },
+    {
+      "term": "resolution",
+      "meaning": {
+        "en": "The degree of detail with which something can be seen or understood.",
+        "zh": "分辨率；看见或理解细节的程度。"
+      },
+      "use": {
+        "en": "Practice increased the resolution of her attention.",
+        "zh": "练习提高了她注意力的分辨率。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in dark trace, faint mist, and pale thread.",
+      "zh": "清楚读出 dark trace、faint mist、pale thread 的词尾辅音。"
+    },
+    {
+      "en": "Use falling intonation for each practical instruction: Label the jar. Note the hour. Repeat the trial.",
+      "zh": "每条实际指令都使用降调：Label the jar. Note the hour. Repeat the trial."
+    },
+    {
+      "en": "Balance Here is what I found with Here is what I still need to learn using matching stress.",
+      "zh": "用相称的重音平衡 Here is what I found 与 Here is what I still need to learn。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if guiding a young researcher from first surprise to a careful next experiment.",
+      "zh": "跟读时，想象你正引导一位年轻研究者，从最初的惊奇走向严谨的下一次实验。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every physical observation exact and visible.",
+        "zh": "第一遍：让每个物理观察都准确、可见。"
+      },
+      {
+        "en": "Pass two: give the short instructions energy without sounding severe.",
+        "zh": "第二遍：短指令要有力量，但不要严厉。"
+      },
+      {
+        "en": "Pass three: hold knowledge and uncertainty in the same confident voice.",
+        "zh": "第三遍：用同一种自信的声音同时容纳知识与不确定。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which ordinary object near you contains a question you have stopped seeing?",
+      "zh": "你身边哪件寻常物品，藏着一个你已不再看见的问题？"
+    },
+    {
+      "en": "How could you give one large question a practical handle today?",
+      "zh": "今天你可以怎样给一个宏大问题装上实际的把手？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-curiosity-carry-a-lantern/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-curiosity-carry-a-lantern/clips/sources_0.mp3"
+    }
+  }
+}
