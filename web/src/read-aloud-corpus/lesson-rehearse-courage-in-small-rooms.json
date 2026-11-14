@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "rehearse-courage-in-small-rooms",
+  "title": {
+    "en": "Rehearse Courage in Small Rooms",
+    "zh": "在小房间里排练勇气"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral courage as a practice built before the decisive moment arrives.",
+    "zh": "一篇原创美文：把道德勇气视为在关键时刻到来之前养成的练习。"
+  },
+  "tags": [
+    "Courage",
+    "Leadership",
+    "Integrity",
+    "Communication"
+  ],
+  "sources": [
+    {
+      "title": "Narrative of the Life of Frederick Douglass",
+      "author": "Frederick Douglass",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/23",
+      "note": {
+        "en": "Public-domain inspiration from a life of moral courage and self-education; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中关于道德勇气与自我教育的一生；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded strength. Keep the voice steady; courage here is practiced, not performed.",
+    "zh": "用沉稳的力量朗读。声音要稳定；这里的勇气来自练习，而不是表演。"
+  },
+  "passage": {
+    "title": {
+      "en": "Before the Door Opens",
+      "zh": "在门打开之前"
+    },
+    "intro": {
+      "en": "This original passage asks how ordinary choices prepare a person to speak when silence becomes costly.",
+      "zh": "这篇原创文章追问：当沉默开始代价高昂时，日常选择如何让人准备好开口。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. We Imagine the Grand Moment",
+          "zh": "1. 我们总想象宏大的时刻"
+        },
+        "text": "We like to picture courage under bright lights: one person rising, one sentence cutting through fear, one clear decision that changes the course of events. Yet the grand moment is usually a poor place to begin training. Under pressure, we reach for habits already formed. If we have spent years laughing along, hiding uncertainty, or letting stronger voices define the truth, a sudden demand for bravery may find us without language. Character does not appear from nowhere when the door opens. It enters wearing the clothes of yesterday’s choices.",
+        "coaching": {
+          "en": "Begin with cinematic energy, then make the turn toward habit firm and sober.",
+          "zh": "开头要有电影般的张力，转向习惯时则要坚定、沉着。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Practice Where the Stakes Are Small",
+          "zh": "2. 在代价较小时练习"
+        },
+        "text": "Preparation can begin in an ordinary room. Admit that you do not understand the plan. Return credit to the colleague whose idea was overlooked. Say, without drama, that a joke has crossed a line. Ask the quiet question everyone has learned to step around. None of these acts will enter a history book. They do something more immediate: they teach the body that honesty can survive the sound of its own voice. Each small act widens the path between conviction and speech.",
+        "coaching": {
+          "en": "Keep the four actions plain and practical. Let the final sentence gather momentum.",
+          "zh": "四个行动要读得朴素、实际。最后一句逐渐积蓄力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Courage Needs Preparation, Not Certainty",
+          "zh": "3. 勇气需要准备，而非确定"
+        },
+        "text": "Speaking well does not require perfect confidence. It requires enough preparation to remain useful while your pulse is loud. Know the fact you can support. Name the value at risk. Choose one sentence that opens conversation rather than merely displaying anger. Decide whom you will call afterward if the room turns cold. Such preparation is not cowardice disguised as planning. It is respect for the people, including yourself, who must live with what comes next.",
+        "coaching": {
+          "en": "Give each preparation step a calm beat. Emphasize useful more than confident.",
+          "zh": "每个准备步骤都要有平静节拍。比起 confident，更要强调 useful。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave a Chair for Another Voice",
+          "zh": "4. 为另一种声音留一把椅子"
+        },
+        "text": "The strongest courage does not always occupy the center. Sometimes it asks a question and makes room for someone closer to the harm. Sometimes it protects a dissenter from standing alone. Sometimes it changes its own position when new evidence arrives. Bravery without humility can become another way of controlling the room. So rehearse a courage that is sturdy enough to speak and spacious enough to listen. Then, when the consequential door finally opens, you may not feel fearless. You may simply recognize the next honest step—and take it.",
+        "coaching": {
+          "en": "Balance strength with generosity. Pause before and take it, then finish without flourish.",
+          "zh": "力量与宽厚要保持平衡。在 and take it 前停顿，结尾不要炫技。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "decisive",
+      "meaning": {
+        "en": "Having an important effect on the final result.",
+        "zh": "决定性的；对最终结果有重要影响的。"
+      },
+      "use": {
+        "en": "Her decisive question changed the meeting.",
+        "zh": "她那个关键问题改变了会议。"
+      }
+    },
+    {
+      "term": "stakes",
+      "meaning": {
+        "en": "The risks or possible consequences in a situation.",
+        "zh": "风险；某种情境中可能产生的后果。"
+      },
+      "use": {
+        "en": "Practice the conversation before the stakes rise.",
+        "zh": "在风险升高前练习这场对话。"
+      }
+    },
+    {
+      "term": "conviction",
+      "meaning": {
+        "en": "A firmly held belief or principle.",
+        "zh": "坚定信念；牢固持有的原则。"
+      },
+      "use": {
+        "en": "She spoke with conviction but remained kind.",
+        "zh": "她说得坚定，同时保持善意。"
+      }
+    },
+    {
+      "term": "disguised",
+      "meaning": {
+        "en": "Made to look like something else.",
+        "zh": "伪装成；使看起来像别的事物。"
+      },
+      "use": {
+        "en": "Control can be disguised as helpful advice.",
+        "zh": "控制可能伪装成有用的建议。"
+      }
+    },
+    {
+      "term": "dissenter",
+      "meaning": {
+        "en": "A person who publicly disagrees with a prevailing view.",
+        "zh": "持异议者；公开不同意主流观点的人。"
+      },
+      "use": {
+        "en": "The chair invited the dissenter to explain her concern.",
+        "zh": "主持人邀请持异议者说明她的担忧。"
+      }
+    },
+    {
+      "term": "consequential",
+      "meaning": {
+        "en": "Important because of its likely effects.",
+        "zh": "后果重大的；因可能产生的影响而重要。"
+      },
+      "use": {
+        "en": "It was a quiet but consequential choice.",
+        "zh": "那是一个安静却后果重大的选择。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link stronger voices define the truth without swallowing the final consonants.",
+      "zh": "流畅连接 stronger voices define the truth，同时保留词尾辅音。"
+    },
+    {
+      "en": "Build a steady four-beat rhythm through the list of small courageous acts.",
+      "zh": "列举四个微小勇敢行动时，建立稳定的四拍节奏。"
+    },
+    {
+      "en": "Contrast sturdy enough to speak with spacious enough to listen.",
+      "zh": "读出 sturdy enough to speak 与 spacious enough to listen 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are preparing one honest sentence for a difficult meeting.",
+      "zh": "跟读时，想象你正为一场艰难会议准备一句诚实的话。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep your pace measured even when the ideas intensify.",
+        "zh": "第一遍：即使思想张力增强，也保持从容语速。"
+      },
+      {
+        "en": "Pass two: make every action verb direct and clean.",
+        "zh": "第二遍：把每个行动动词读得直接、清楚。"
+      },
+      {
+        "en": "Pass three: let humility strengthen, rather than soften, the ending.",
+        "zh": "第三遍：让谦逊增强结尾的力量，而不是削弱它。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which small honest act could prepare you for a harder conversation?",
+      "zh": "哪一个微小而诚实的行动，能让你为更艰难的对话做好准备？"
+    },
+    {
+      "en": "How can you make room for another person’s courage?",
+      "zh": "你可以怎样为另一个人的勇气留出空间？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/rehearse-courage-in-small-rooms/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/rehearse-courage-in-small-rooms/clips/sources_0.mp3"
+    }
+  }
+}

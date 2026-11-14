@@ -154,6 +154,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Let the Evidence Surprise You](https://wordpower-seven.vercel.app/read-aloud/let-the-evidence-surprise-you): An original reflection on scientific curiosity, careful observation, and the freedom to revise a cherished idea.
 - [Let the Eye Arrive Late](https://wordpower-seven.vercel.app/read-aloud/let-the-eye-arrive-late): An original reflection on drawing, patient observation, and learning to see beyond the name of a thing.
 - [Let the First Attempt Be Honest](https://wordpower-seven.vercel.app/read-aloud/let-the-first-attempt-be-honest): An original reflection on beginning before confidence arrives and letting useful mistakes speak.
+- [Let the Hand Teach the Eye](https://wordpower-seven.vercel.app/read-aloud/let-the-hand-teach-the-eye): An original reflection on drawing, patient attention, and learning to see beyond the name of a thing.
 - [Let the Night Resize the Day](https://wordpower-seven.vercel.app/read-aloud/let-the-night-resize-the-day): An original reflection on starlight, proportion, and returning to ordinary problems with a wider mind.
 - [Let the Path Interrupt You](https://wordpower-seven.vercel.app/read-aloud/let-the-path-interrupt-you): An original reflection on walking without conquest, noticing what resists hurry, and returning with a more spacious mind.
 - [Let the Question Ripen](https://wordpower-seven.vercel.app/read-aloud/let-the-question-ripen): An original reflection on inquiry, patient learning, and the courage to remain unfinished.
@@ -192,6 +193,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Read the River at Walking Speed](https://wordpower-seven.vercel.app/read-aloud/read-the-river-at-walking-speed): An original reflection on rivers, patient attention, and learning to notice change without rushing it.
 - [Read the Weather at Ground Level](https://wordpower-seven.vercel.app/read-aloud/read-the-weather-at-ground-level): An original reflection on close observation, seasonal intelligence, and returning to the living world.
 - [Read the Weather in the Trees](https://wordpower-seven.vercel.app/read-aloud/read-the-weather-in-the-trees): An original reflection on patient observation, local knowledge, and the intelligence of paying attention.
+- [Rehearse Courage in Small Rooms](https://wordpower-seven.vercel.app/read-aloud/rehearse-courage-in-small-rooms): An original reflection on moral courage as a practice built before the decisive moment arrives.
 - [Repair Before You Explain](https://wordpower-seven.vercel.app/read-aloud/repair-before-you-explain): An original reflection on calm accountability, apology, and restoring trust after harm.
 - [Say the Name Again](https://wordpower-seven.vercel.app/read-aloud/say-the-name-again): An original reflection on names, attentive pronunciation, and the everyday dignity of trying again.
 - [Self-Trust Is an Inner Compass.](https://wordpower-seven.vercel.app/read-aloud/self-trust-inner-compass): A reflective passage for practicing thoughtful pacing, self-reliance vocabulary, and a more mature speaking presence.
@@ -207,6 +209,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.
 - [Trust the Quiet Evidence](https://wordpower-seven.vercel.app/read-aloud/trust-the-quiet-evidence): An original reflection on self-trust, patient practice, and the evidence hidden in ordinary days.
 - [Trust the Voice That Does Not Hurry](https://wordpower-seven.vercel.app/read-aloud/trust-the-voice-that-does-not-hurry): An original reflection on quiet self-trust, second chances, and decisions that can withstand time.
+- [Trust Yourself—and Check the Map](https://wordpower-seven.vercel.app/read-aloud/trust-yourself-and-check-the-map): An original reflection on self-trust that welcomes evidence, correction, and a changing mind.
 - [Wait for the Second Birdsong](https://wordpower-seven.vercel.app/read-aloud/wait-for-the-second-birdsong): An original reflection on patient attention, natural pauses, and the details that hurry conceals.
 - [Walk Until the World Returns](https://wordpower-seven.vercel.app/read-aloud/walk-until-the-world-returns): An original reflection on recovering attention through an unhurried walk and the company of ordinary things.
 - [Wear Your Own Name Comfortably](https://wordpower-seven.vercel.app/read-aloud/wear-your-own-name-comfortably): An original reflection on self-trust, borrowed voices, and becoming recognizable to yourself.

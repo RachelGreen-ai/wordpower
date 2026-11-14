@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "let-the-hand-teach-the-eye",
+  "title": {
+    "en": "Let the Hand Teach the Eye",
+    "zh": "让双手教会眼睛"
+  },
+  "subtitle": {
+    "en": "An original reflection on drawing, patient attention, and learning to see beyond the name of a thing.",
+    "zh": "一篇原创美文：关于绘画、耐心凝视，以及越过事物名称去真正看见。"
+  },
+  "tags": [
+    "Art",
+    "Attention",
+    "Learning",
+    "Observation"
+  ],
+  "sources": [
+    {
+      "title": "The Elements of Drawing",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30325",
+      "note": {
+        "en": "Public-domain inspiration from the practice of learning to see through drawing; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中借绘画学习观察的实践；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if your gaze is slowing down. Give each concrete shape a little air around it.",
+    "zh": "朗读时，想象目光正在放慢。让每个具体形状周围都留有一点空间。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Education of a Line",
+      "zh": "一条线的教育"
+    },
+    "intro": {
+      "en": "This original passage explores how the modest act of drawing can repair hurried attention.",
+      "zh": "这篇原创文章探讨：朴素的绘画如何修复匆忙的注意力。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Name Arrives Too Soon",
+          "zh": "1. 名称来得太早"
+        },
+        "text": "Place a pear on the table and the mind announces pear before the eyes have properly begun. The name is useful, but it can close the door. It makes us feel that recognition is the same as seeing. Take up a pencil, however, and certainty becomes less comfortable. The fruit leans slightly left. Its widest curve sits lower than expected. One side catches the window; the other dissolves into a green-gray shadow. The hand hesitates because the eye has finally met a particular pear, not the convenient symbol stored in memory.",
+        "coaching": {
+          "en": "Let the opening word pear sound quick and automatic. Slow down as the real fruit becomes particular.",
+          "zh": "开头的 pear 要读得迅速而自动。随着真实的梨显出独特细节，逐渐放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Line Is a Question",
+          "zh": "2. 一条线就是一个问题"
+        },
+        "text": "A beginner often draws what an object ought to look like. A patient observer asks what this edge is doing now. Does it rise, flatten, turn, or disappear? The pencil becomes a moving question. Its small corrections are not failures; they are evidence that attention is awake. Even an awkward sketch can contain an honest discovery: the unexpected angle of a wrist, the narrow darkness beneath a cup, the distance between two branches that seemed to touch. Accuracy grows from these modest acts of revision.",
+        "coaching": {
+          "en": "Shape the four verbs distinctly. Read the list of discoveries with quiet pleasure, not judgment.",
+          "zh": "把四个动词读得轮廓分明。列举新发现时要带着安静的喜悦，而不是评判。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Attention Becomes Affection",
+          "zh": "3. 注意变成珍爱"
+        },
+        "text": "Stay with one ordinary subject for twenty minutes and it begins to resist being ordinary. The chipped mug holds a history of breakfasts. A weed pushes five precise leaves through a crack. An older face carries tiny changes of weather around the eyes. Close attention does not decorate the world; it allows the world to disclose its own complexity. That disclosure can soften us. It is harder to dismiss what we have studied without hurry. Regard, in both senses of the word, becomes a form of care.",
+        "coaching": {
+          "en": "Warm the three images gradually. Pause before the final sentence so both meanings of regard can land.",
+          "zh": "让三个意象逐渐升温。最后一句前稍作停顿，让 regard 的双重含义落稳。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry the Practice Outside",
+          "zh": "4. 把练习带到画纸之外"
+        },
+        "text": "You need not become an artist to borrow the artist’s discipline. In a meeting, notice the sentence that changes the room. On a walk, watch how evening light separates one roof from another. In conversation, listen for the pause beneath a confident answer. The lesson of drawing is not that everything must be captured. It is that first impressions deserve a second look. Let the hand teach the eye for a while, then let the educated eye return to the world—less certain, more exact, and more available to wonder.",
+        "coaching": {
+          "en": "Give the three settings an easy forward rhythm. Finish with openness and a gentle sense of wonder.",
+          "zh": "三个场景要读出轻松向前的节奏。结尾要敞开，并带着温柔的惊奇。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "particular",
+      "meaning": {
+        "en": "Specific and distinct rather than general.",
+        "zh": "具体而独特的，而非笼统的。"
+      },
+      "use": {
+        "en": "She remembered the particular blue of the morning sky.",
+        "zh": "她记得那天晨空独特的蓝色。"
+      }
+    },
+    {
+      "term": "hesitate",
+      "meaning": {
+        "en": "To pause briefly because you are uncertain.",
+        "zh": "犹豫；因不确定而短暂停顿。"
+      },
+      "use": {
+        "en": "I hesitated before drawing the unfamiliar curve.",
+        "zh": "画那条陌生曲线前，我犹豫了一下。"
+      }
+    },
+    {
+      "term": "revision",
+      "meaning": {
+        "en": "A change made after looking or thinking again.",
+        "zh": "修正；重新观察或思考后作出的改变。"
+      },
+      "use": {
+        "en": "The second draft benefited from careful revision.",
+        "zh": "第二稿得益于仔细的修正。"
+      }
+    },
+    {
+      "term": "disclose",
+      "meaning": {
+        "en": "To make something previously hidden known or visible.",
+        "zh": "揭示；使原本隐藏的事物显现。"
+      },
+      "use": {
+        "en": "Patient listening disclosed the real concern.",
+        "zh": "耐心倾听揭示了真正的担忧。"
+      }
+    },
+    {
+      "term": "dismiss",
+      "meaning": {
+        "en": "To decide too quickly that something is unimportant.",
+        "zh": "轻视；过快认定某事不重要。"
+      },
+      "use": {
+        "en": "Do not dismiss the detail that does not fit your theory.",
+        "zh": "不要轻视那个不符合你理论的细节。"
+      }
+    },
+    {
+      "term": "regard",
+      "meaning": {
+        "en": "Careful attention, or respect and affection for someone or something.",
+        "zh": "关注；也指对人或事物的尊重与珍爱。"
+      },
+      "use": {
+        "en": "She regarded the old tree with affection.",
+        "zh": "她怀着珍爱凝望那棵老树。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant links clear in widest curve sits lower than expected.",
+      "zh": "在 widest curve sits lower than expected 中清晰连接辅音。"
+    },
+    {
+      "en": "Give rise, flatten, turn, and disappear equal rhythmic weight.",
+      "zh": "让 rise、flatten、turn、disappear 拥有均匀节拍。"
+    },
+    {
+      "en": "Contrast less certain, more exact without making either phrase harsh.",
+      "zh": "读出 less certain 与 more exact 的对比，但不要生硬。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a friend’s eyes across a quiet still life.",
+      "zh": "跟读时，想象你正引导朋友的目光掠过一幅安静的静物画。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every shape and direction visible in your voice.",
+        "zh": "第一遍：用声音让每个形状与方向都变得可见。"
+      },
+      {
+        "en": "Pass two: allow brief pauses wherever the pencil hesitates.",
+        "zh": "第二遍：在铅笔犹豫之处留出短暂停顿。"
+      },
+      {
+        "en": "Pass three: let the final sentence sound curious rather than conclusive.",
+        "zh": "第三遍：让最后一句听起来充满好奇，而不是下定论。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar object would become strange if you drew it for twenty minutes?",
+      "zh": "哪个熟悉物件，会在你画它二十分钟后变得陌生？"
+    },
+    {
+      "en": "Where in your life does a first impression deserve a second look?",
+      "zh": "生活中，哪一个第一印象值得你再看一眼？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-hand-teach-the-eye/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-hand-teach-the-eye/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-hand-teach-the-eye/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-hand-teach-the-eye/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-hand-teach-the-eye/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/let-the-hand-teach-the-eye/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-hand-teach-the-eye/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-hand-teach-the-eye/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-hand-teach-the-eye/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-hand-teach-the-eye/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-hand-teach-the-eye/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-hand-teach-the-eye/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-hand-teach-the-eye/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-hand-teach-the-eye/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-hand-teach-the-eye/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-hand-teach-the-eye/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-hand-teach-the-eye/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-hand-teach-the-eye/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-hand-teach-the-eye/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-hand-teach-the-eye/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-hand-teach-the-eye/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-hand-teach-the-eye/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-hand-teach-the-eye/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-hand-teach-the-eye/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-hand-teach-the-eye/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-hand-teach-the-eye/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-hand-teach-the-eye/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-hand-teach-the-eye/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-hand-teach-the-eye/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-hand-teach-the-eye/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-hand-teach-the-eye/clips/sources_0.mp3"
+    }
+  }
+}

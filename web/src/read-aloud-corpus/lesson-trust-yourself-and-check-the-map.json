@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "trust-yourself-and-check-the-map",
+  "title": {
+    "en": "Trust Yourself—and Check the Map",
+    "zh": "相信自己，也要核对地图"
+  },
+  "subtitle": {
+    "en": "An original reflection on self-trust that welcomes evidence, correction, and a changing mind.",
+    "zh": "一篇原创美文：真正的自信如何欢迎证据、修正与思想的改变。"
+  },
+  "tags": [
+    "Self-trust",
+    "Judgment",
+    "Learning",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Essays, First Series",
+      "author": "Ralph Waldo Emerson",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2944",
+      "note": {
+        "en": "Public-domain inspiration from the theme of self-reliance; this lesson is wholly original, adds an emphasis on evidence and revision, and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中的自立主题；本课为全新原创，特别强调证据与修正，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with a thoughtful, companionable voice. Let confidence and curiosity share the same breath.",
+    "zh": "用深思而亲切的声音朗读。让自信与好奇共处于同一口气息中。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Compass That Can Learn",
+      "zh": "一枚会学习的指南针"
+    },
+    "intro": {
+      "en": "This original passage separates self-trust from the brittle need to be right.",
+      "zh": "这篇原创文章把自我信任与脆弱的“必须正确”区分开来。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The First Voice Worth Hearing",
+          "zh": "1. 第一个值得倾听的声音"
+        },
+        "text": "There are moments when advice becomes so abundant that your own perception grows faint. One person values safety, another speed, another prestige. Their counsel may be generous, yet none of them inhabits the exact weather of your life. Self-trust begins by turning down the noise long enough to hear what you actually notice: the work that makes you more awake, the promise that feels dishonest, the fatigue you have renamed ambition. This inner report is not a command. It is the first witness who deserves to be heard.",
+        "coaching": {
+          "en": "Let the three outside values feel crowded. Make the inner observations quieter but more precise.",
+          "zh": "三种外部价值要读出拥挤感。内在观察则更安静，却更精确。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Compass Is Not the Country",
+          "zh": "2. 指南针并不是国土"
+        },
+        "text": "Inner conviction can point a direction, but it cannot describe every road. The traveler still checks the map, reads the weather, and asks someone who has crossed the river before. In the same way, a strong decision can remain curious. What evidence would change my mind? What cost am I asking others to carry? Which fact have I avoided because it interrupts the story I prefer? Questions like these do not betray self-trust. They prevent confidence from hardening into a private mythology.",
+        "coaching": {
+          "en": "Read the travel images with ease, then give each question honest space. Land firmly on mythology.",
+          "zh": "旅行意象要读得从容，再为每个问题留出诚实空间。mythology 要坚定落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Revision Is Not Surrender",
+          "zh": "3. 修正并非投降"
+        },
+        "text": "Some people defend yesterday’s opinion because changing it feels like losing authority. But a mind that can learn is not a weather vane spinning at every breeze. It has a center and responsive edges. It can say: I chose with the knowledge I had; now I know more. That sentence protects dignity without protecting error. The oak survives not by refusing the wind, but by combining rootedness with movement. Mature self-trust includes the freedom to become more accurate than your former self.",
+        "coaching": {
+          "en": "Give the quoted sentence calm dignity. Make rootedness and movement feel complementary, not opposed.",
+          "zh": "引语要读出平静的尊严。让 rootedness 与 movement 彼此补充，而非彼此对立。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Walk, Then Look Again",
+          "zh": "4. 先走，再重新看"
+        },
+        "text": "No map removes the need to take a step. After reflection, choose a direction and let reality answer. Notice what expands your capacity and what steadily diminishes it. Keep company with people who can question you without trying to own your choices. When you are wrong, correct the course without turning the correction into a trial of your worth. You are not building a monument to one flawless decision. You are building a relationship with your own judgment—a relationship sturdy enough for action, honest enough for revision, and alive enough to keep learning.",
+        "coaching": {
+          "en": "Move forward through the practical advice. Slow the final three-part phrase and finish warmly.",
+          "zh": "实用建议部分要向前推进。结尾三段式短语要放慢，并温暖收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "abundant",
+      "meaning": {
+        "en": "Existing in large quantities; plentiful.",
+        "zh": "丰富的；大量存在的。"
+      },
+      "use": {
+        "en": "Advice was abundant, but clarity was scarce.",
+        "zh": "建议很多，清晰却很少。"
+      }
+    },
+    {
+      "term": "inhabit",
+      "meaning": {
+        "en": "To live in or fully occupy a place or condition.",
+        "zh": "居住于；完全处在某种地方或状态中。"
+      },
+      "use": {
+        "en": "No one else inhabits your exact circumstances.",
+        "zh": "没有别人完全处在与你相同的境况中。"
+      }
+    },
+    {
+      "term": "conviction",
+      "meaning": {
+        "en": "A strong belief held with confidence.",
+        "zh": "确信；坚定持有的信念。"
+      },
+      "use": {
+        "en": "She held the conviction lightly enough to keep listening.",
+        "zh": "她坚定持有信念，也留有继续倾听的余地。"
+      }
+    },
+    {
+      "term": "harden into",
+      "meaning": {
+        "en": "To gradually become fixed in an unhelpful form.",
+        "zh": "逐渐僵化为某种无益的形态。"
+      },
+      "use": {
+        "en": "A useful rule can harden into a rigid habit.",
+        "zh": "一条有用的规则可能僵化成刻板习惯。"
+      }
+    },
+    {
+      "term": "responsive",
+      "meaning": {
+        "en": "Able and willing to react thoughtfully to change.",
+        "zh": "反应灵敏的；愿意对变化作出审慎回应的。"
+      },
+      "use": {
+        "en": "Good leadership is steady and responsive.",
+        "zh": "好的领导力既稳定，又能灵敏回应。"
+      }
+    },
+    {
+      "term": "diminish",
+      "meaning": {
+        "en": "To make or become smaller, weaker, or less important.",
+        "zh": "削弱；使变小、变弱或变得不重要。"
+      },
+      "use": {
+        "en": "Constant doubt diminished his willingness to speak.",
+        "zh": "持续的怀疑削弱了他开口的意愿。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the rhythm balanced in another speed, another prestige.",
+      "zh": "在 another speed, another prestige 中保持均衡节奏。"
+    },
+    {
+      "en": "Use a clear, open question tone for What evidence would change my mind?",
+      "zh": "朗读 What evidence would change my mind? 时使用清晰、开放的疑问语调。"
+    },
+    {
+      "en": "Give sturdy enough, honest enough, and alive enough equal weight.",
+      "zh": "让 sturdy enough、honest enough、alive enough 拥有同等分量。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are thinking aloud with a trusted friend, neither defensive nor vague.",
+      "zh": "跟读时，想象你正与可信赖的朋友一起思考：既不防御，也不含糊。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: distinguish outside advice from the quieter inner report.",
+        "zh": "第一遍：区分外部建议与更安静的内在报告。"
+      },
+      {
+        "en": "Pass two: let every genuine question remain open at the end.",
+        "zh": "第二遍：让每个真诚问题在结尾保持开放。"
+      },
+      {
+        "en": "Pass three: make revision sound strong, adult, and free.",
+        "zh": "第三遍：把修正读成一种强大、成熟而自由的能力。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which inner observation have you been drowning in other people’s advice?",
+      "zh": "哪一个内在观察，正被他人的建议淹没？"
+    },
+    {
+      "en": "What evidence would help you trust—or revise—your current direction?",
+      "zh": "什么证据能帮助你相信，或修正，当前的方向？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/trust-yourself-and-check-the-map/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/trust-yourself-and-check-the-map/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/trust-yourself-and-check-the-map/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/trust-yourself-and-check-the-map/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/trust-yourself-and-check-the-map/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/trust-yourself-and-check-the-map/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/trust-yourself-and-check-the-map/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/trust-yourself-and-check-the-map/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/trust-yourself-and-check-the-map/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/trust-yourself-and-check-the-map/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/trust-yourself-and-check-the-map/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/trust-yourself-and-check-the-map/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/trust-yourself-and-check-the-map/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/trust-yourself-and-check-the-map/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/trust-yourself-and-check-the-map/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/trust-yourself-and-check-the-map/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/trust-yourself-and-check-the-map/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/trust-yourself-and-check-the-map/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/trust-yourself-and-check-the-map/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/trust-yourself-and-check-the-map/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/trust-yourself-and-check-the-map/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/trust-yourself-and-check-the-map/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/trust-yourself-and-check-the-map/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/trust-yourself-and-check-the-map/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/trust-yourself-and-check-the-map/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/trust-yourself-and-check-the-map/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/trust-yourself-and-check-the-map/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/trust-yourself-and-check-the-map/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/trust-yourself-and-check-the-map/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/trust-yourself-and-check-the-map/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/trust-yourself-and-check-the-map/clips/sources_0.mp3"
+    }
+  }
+}
