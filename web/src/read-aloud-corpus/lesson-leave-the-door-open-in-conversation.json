@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "leave-the-door-open-in-conversation",
+  "title": {
+    "en": "Leave the Door Open in Conversation",
+    "zh": "在对话中留一扇门"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm disagreement, careful language, and making truth easier to hear.",
+    "zh": "一篇原创美文：关于平静分歧、审慎表达，以及如何让真话更容易被听见。"
+  },
+  "tags": [
+    "Communication",
+    "Listening",
+    "Disagreement",
+    "Respect"
+  ],
+  "sources": [
+    {
+      "title": "The Enchiridion",
+      "author": "Epictetus",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/45109",
+      "note": {
+        "en": "Public-domain inspiration from Stoic attention to judgment and response; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域的斯多葛思想，尤其是对判断与回应的关注；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with steadiness rather than softness. Let each pause show that listening is active work.",
+    "zh": "用稳定而非软弱的声音朗读。让每一次停顿都显示：倾听是一种主动的努力。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Room Where Meaning Can Enter",
+      "zh": "让意义进入房间"
+    },
+    "intro": {
+      "en": "This original passage explores how precise, spacious speech can keep disagreement from becoming a locked room.",
+      "zh": "这篇原创文章探讨：精准而有余地的表达，如何避免分歧变成一间上锁的屋子。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Sentence Behind the Sentence",
+          "zh": "1. 句子背后的句子"
+        },
+        "text": "A difficult conversation rarely begins at its true beginning. Someone complains about a late reply, but beneath the complaint may be a fear of being unimportant. Someone attacks a plan, while privately worrying that change will expose a weakness. If we answer only the sharp surface, the exchange becomes a contest of armor. Calm communication starts with a quieter question: what is this sentence trying to protect? The question does not excuse cruelty or erase facts. It simply asks us to hear meaning before preparing our defense.",
+        "coaching": {
+          "en": "Give the surface complaints a clipped rhythm. Slow down at the quieter question and let protect carry warmth.",
+          "zh": "表层抱怨要读得短促。到了那个更安静的问题时放慢，让 protect 带出温度。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Replace the Verdict with a Report",
+          "zh": "2. 用陈述替代判决"
+        },
+        "text": "A verdict closes the door: You are careless. You never listen. A report leaves room for an answer: The deadline passed without an update, and I did not know what to expect. The second form may sound less dramatic, yet it is often more courageous. It names what happened, explains the effect, and resists pretending that we can read another mind. Precision is not coldness. It is hospitality for reality. When language separates observation from accusation, both people can stand beside the problem instead of facing each other as the problem.",
+        "coaching": {
+          "en": "Make the verdicts hard and final, then open the rhythm of the report. Stress beside the problem.",
+          "zh": "把判决式话语读得坚硬而终结，再把陈述的节奏打开。重读 beside the problem。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Keep One Window Unlatched",
+          "zh": "3. 留一扇窗不落锁"
+        },
+        "text": "Certainty has a useful place, especially when a boundary must be clear. But even a firm boundary can include one unlatched window: This is how I understand it; tell me what I am missing. Such a sentence does not surrender judgment. It admits that every view has an edge. The other person may offer no wisdom at all, yet your openness still protects you from becoming smaller than your position. A conversation breathes when at least one speaker can be definite about values and curious about perspective at the same time.",
+        "coaching": {
+          "en": "Read the boundary sentence with quiet authority. Let the invitation after the semicolon sound genuinely open.",
+          "zh": "边界句要读出安静的权威。分号后的邀请要真正敞开，而不是客套。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. End with a Usable Next Step",
+          "zh": "4. 以可执行的下一步收尾"
+        },
+        "text": "Not every disagreement ends in harmony. Sometimes the honest result is a narrower agreement, a delayed decision, or a respectful no. What matters is that the ending can be used. Who will do what, by when? What remains unresolved? When will you speak again? These questions return the conversation from character to conduct. They also prevent false warmth from hiding real confusion. Leave with fewer grand conclusions and one clear next step. The door need not be wide open. It is enough that neither person has nailed it shut.",
+        "coaching": {
+          "en": "Give the practical questions clean downward energy. Finish the final image firmly, without bitterness.",
+          "zh": "几个实际问题要读出清晰向下的力量。最后的意象要坚定收束，但不要苦涩。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "beneath",
+      "meaning": {
+        "en": "Under the surface of something, literally or emotionally.",
+        "zh": "在……之下；也指隐藏在表面情绪之下。"
+      },
+      "use": {
+        "en": "Beneath her impatience was genuine concern.",
+        "zh": "她的不耐烦之下，是发自内心的担忧。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment or decision.",
+        "zh": "裁决；最终的判断或决定。"
+      },
+      "use": {
+        "en": "Describe the event before delivering a verdict.",
+        "zh": "先描述事件，再作判断。"
+      }
+    },
+    {
+      "term": "hospitality",
+      "meaning": {
+        "en": "A welcoming openness toward a person, idea, or reality.",
+        "zh": "好客；也指对人、观点或现实保持欢迎与开放。"
+      },
+      "use": {
+        "en": "Good questions show hospitality to unfamiliar ideas.",
+        "zh": "好的问题对陌生观点展现出开放。"
+      }
+    },
+    {
+      "term": "accusation",
+      "meaning": {
+        "en": "A claim that someone has done something wrong.",
+        "zh": "指控；声称某人做错了事。"
+      },
+      "use": {
+        "en": "Her observation was specific and free of accusation.",
+        "zh": "她的观察具体，也没有指责意味。"
+      }
+    },
+    {
+      "term": "unlatched",
+      "meaning": {
+        "en": "Not fastened or locked, and therefore able to open.",
+        "zh": "未闩上的；没有锁住、可以打开的。"
+      },
+      "use": {
+        "en": "He kept the door unlatched for the late guest.",
+        "zh": "他为迟到的客人留着门，没有上闩。"
+      }
+    },
+    {
+      "term": "unresolved",
+      "meaning": {
+        "en": "Not yet settled, answered, or decided.",
+        "zh": "尚未解决或决定的。"
+      },
+      "use": {
+        "en": "We listed the unresolved questions before leaving.",
+        "zh": "离开前，我们列出了尚未解决的问题。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Contrast the clipped verdict You never listen with the more spacious factual report.",
+      "zh": "对比短促的判决句 You never listen 与更舒展的事实陈述。"
+    },
+    {
+      "en": "Link definite about values and curious about perspective in one steady breath.",
+      "zh": "用一口稳定气息连接 definite about values and curious about perspective。"
+    },
+    {
+      "en": "Give Who will do what, by when three clear beats without sounding impatient.",
+      "zh": "把 Who will do what, by when 读成清晰三拍，但不要显得不耐烦。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are lowering the temperature of a real disagreement without avoiding the truth.",
+      "zh": "跟读时，想象你在不回避真相的前提下，为一场真实分歧降温。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: distinguish sharp surface language from the need underneath it.",
+        "zh": "第一遍：区分尖锐的表层话语与其下隐藏的需要。"
+      },
+      {
+        "en": "Pass two: make factual reports precise, calm, and easy to answer.",
+        "zh": "第二遍：把事实陈述读得精准、平静，也便于回应。"
+      },
+      {
+        "en": "Pass three: finish each practical question with useful forward motion.",
+        "zh": "第三遍：让每个实际问题都带着可用的向前动力收尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which verdict in your speech could become a more accurate report?",
+      "zh": "你语言中的哪一句判决，可以改成更准确的陈述？"
+    },
+    {
+      "en": "What honest next step could keep one difficult conversation open?",
+      "zh": "哪一个诚实的下一步，能让一场艰难对话继续保持开放？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-the-door-open-in-conversation/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-the-door-open-in-conversation/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-the-door-open-in-conversation/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-the-door-open-in-conversation/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-the-door-open-in-conversation/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/leave-the-door-open-in-conversation/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-the-door-open-in-conversation/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-the-door-open-in-conversation/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-the-door-open-in-conversation/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-the-door-open-in-conversation/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-the-door-open-in-conversation/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-the-door-open-in-conversation/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-the-door-open-in-conversation/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-the-door-open-in-conversation/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-the-door-open-in-conversation/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-the-door-open-in-conversation/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-the-door-open-in-conversation/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-the-door-open-in-conversation/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-the-door-open-in-conversation/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-the-door-open-in-conversation/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-the-door-open-in-conversation/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-the-door-open-in-conversation/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-the-door-open-in-conversation/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-the-door-open-in-conversation/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-the-door-open-in-conversation/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-the-door-open-in-conversation/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-the-door-open-in-conversation/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-the-door-open-in-conversation/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-the-door-open-in-conversation/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-the-door-open-in-conversation/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-the-door-open-in-conversation/clips/sources_0.mp3"
+    }
+  }
+}

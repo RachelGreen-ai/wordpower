@@ -108,6 +108,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Keep a Field Notebook](https://wordpower-seven.vercel.app/read-aloud/keep-a-field-notebook): An original reflection on attention, patient observation, and learning to see before we explain.
 - [Keep a Ledger of Surprises](https://wordpower-seven.vercel.app/read-aloud/keep-a-ledger-of-surprises): An original reflection on intelligent mistakes, honest review, and turning experience into better judgment.
 - [Keep a Light in the Window](https://wordpower-seven.vercel.app/read-aloud/keep-a-light-in-the-window): An original reflection on hospitality, belonging, and the quiet courage of making room.
+- [Keep a Notebook for Wonder](https://wordpower-seven.vercel.app/read-aloud/keep-a-notebook-for-wonder): An original reflection on scientific curiosity, exact observation, and the discipline of staying surprised.
 - [Keep a Private Measure](https://wordpower-seven.vercel.app/read-aloud/keep-a-private-measure): An original reflection on self-trust, borrowed standards, and the quiet discipline of choosing what counts.
 - [Keep a Question on the Table](https://wordpower-seven.vercel.app/read-aloud/keep-a-question-on-the-table): An original reflection on scientific curiosity, patient observation, and the courage to revise a cherished idea.
 - [Keep a Window for the Unknown](https://wordpower-seven.vercel.app/read-aloud/keep-a-window-for-the-unknown): An original reflection on experiment, intellectual humility, and the pleasure of a question that survives its first answer.
@@ -137,6 +138,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Leave Room for the Result](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-result): An original reflection on experiment, uncertainty, and the discipline of seeing what is actually there.
 - [Leave Room for the Unfinished Map](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-unfinished-map): An original reflection on evidence, imagination, and the dignity of revising what we think we know.
 - [Leave Room for the Weather](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-weather): An original reflection on resilient plans, useful margins, and the freedom to adapt without surrendering direction.
+- [Leave the Door Open in Conversation](https://wordpower-seven.vercel.app/read-aloud/leave-the-door-open-in-conversation): An original reflection on calm disagreement, careful language, and making truth easier to hear.
 - [Leave the Door Unlatched](https://wordpower-seven.vercel.app/read-aloud/leave-the-door-unlatched): An original reflection on guiding children without crowding out their independence.
 - [Leave the Map Unfinished](https://wordpower-seven.vercel.app/read-aloud/leave-the-map-unfinished): An original reflection on intellectual humility, discovery, and the courage to revise what we think we know.
 - [Leave the Question on the Table](https://wordpower-seven.vercel.app/read-aloud/leave-the-question-on-the-table): An original reflection on parenting, learning, and the courage to let curiosity remain unfinished.
@@ -204,6 +206,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Stand Where the Wind Can Find You](https://wordpower-seven.vercel.app/read-aloud/stand-where-the-wind-can-find-you): An original reflection on visible courage, steady leadership, and making uncertainty easier to face together.
 - [Take the Last Seat](https://wordpower-seven.vercel.app/read-aloud/take-the-last-seat): An original reflection on practical leadership, shared work, and earning the clearest view of a team.
 - [Teach a Child to Notice, Not Perform](https://wordpower-seven.vercel.app/read-aloud/teach-a-child-to-notice-not-perform): An original reflection on attention, praise, and the quiet growth of an inner life.
+- [Teach the Question, Not the Answer](https://wordpower-seven.vercel.app/read-aloud/teach-the-question-not-the-answer): An original reflection on learning, patient guidance, and helping a young mind become its own companion.
 - [Teach Your Eye to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eye-to-stay): An original reflection on drawing, patient attention, and learning to see beyond the label.
 - [Teach Your Eyes to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eyes-to-stay): An original reflection on drawing, patient attention, and the difference between naming a thing and seeing it.
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.

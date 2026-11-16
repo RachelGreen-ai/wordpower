@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "teach-the-question-not-the-answer",
+  "title": {
+    "en": "Teach the Question, Not the Answer",
+    "zh": "教会提问，而不只给出答案"
+  },
+  "subtitle": {
+    "en": "An original reflection on learning, patient guidance, and helping a young mind become its own companion.",
+    "zh": "一篇原创美文：关于学习、耐心引导，以及如何帮助年轻的心智成为自己的伙伴。"
+  },
+  "tags": [
+    "Learning",
+    "Parenting",
+    "Curiosity",
+    "Guidance"
+  ],
+  "sources": [
+    {
+      "title": "Talks to Teachers on Psychology; and to Students on Some of Life's Ideals",
+      "author": "William James",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/16287",
+      "note": {
+        "en": "Public-domain inspiration from reflections on attention, habit, and education; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中对注意力、习惯与教育的思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with the patience of a trusted guide. Let curiosity sound stronger than the wish to impress.",
+    "zh": "带着可信引导者的耐心朗读。让好奇心比炫耀知识的欲望更有力量。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Gift That Keeps Asking",
+      "zh": "一份不断发问的礼物"
+    },
+    "intro": {
+      "en": "This original passage considers how adults can protect curiosity while still offering structure and knowledge.",
+      "zh": "这篇原创文章思考：成年人如何在提供结构与知识的同时，保护孩子的好奇心。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Fast Rescue",
+          "zh": "1. 过快的解救"
+        },
+        "text": "A child pauses over a problem, and the adult feels the itch to rescue. We know the next step; why let frustration gather? So we point, correct, and explain. The page is completed, but something less visible may have been interrupted: the learner’s chance to remain present inside uncertainty. Help is valuable, yet help given too quickly can steal the small discovery that makes knowledge feel owned. Before supplying the answer, we might wait one breath longer and ask, What have you noticed so far?",
+        "coaching": {
+          "en": "Let the opening move quickly, like an adult rushing in. Slow down for the child’s unfinished discovery.",
+          "zh": "开头要读得快，像成年人急着介入。到了孩子尚未完成的发现时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Build a Railing, Not a Cage",
+          "zh": "2. 搭扶手，而不是造笼子"
+        },
+        "text": "Good guidance gives shape without removing movement. A railing says: here is a safe edge; you may still choose your pace. A cage says: follow my sequence, use my words, arrive where I already stand. The difference often appears in the size of our questions. Which part makes sense? Where did the pattern change? What could you try if this attempt fails? Such questions narrow the field just enough for courage to return. They do not abandon the learner to confusion, and they do not replace the learner’s mind with our own.",
+        "coaching": {
+          "en": "Contrast railing and cage clearly. Give each guiding question a generous, rising invitation.",
+          "zh": "清晰对比 railing 与 cage。每个引导问题都要读出宽厚、上扬的邀请感。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Error Become Evidence",
+          "zh": "3. 让错误成为证据"
+        },
+        "text": "When every mistake receives a sigh, error becomes a threat to belonging. The learner begins to protect an image of competence instead of building competence itself. A wiser response treats the wrong answer as evidence. Show me how you got there. Which assumption did we make? What does this result teach us about the problem? The tone matters as much as the words. Genuine interest tells a young person that thinking is not a performance arranged for adult approval. It is an investigation, and surprising results are often where the investigation becomes alive.",
+        "coaching": {
+          "en": "Keep the word sigh light but audible. Warm the evidence questions with real investigative interest.",
+          "zh": "sigh 要轻，却要听得见。几个证据问题要带着真正的探究兴趣逐渐升温。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Prepare the Inner Teacher",
+          "zh": "4. 培养内在的老师"
+        },
+        "text": "One day the adult will not be beside the desk. The student will meet a dense paragraph, a broken machine, a difficult choice, or a silence after failure. In that moment, education becomes a voice carried within. Does it scold, panic, and reach for someone else’s certainty? Or does it say: pause; name what you know; find the edge of the question; try one honest experiment. The finest guidance is gradually portable. It helps a person become neither dependent nor alone, but accompanied by habits of attention that can travel anywhere.",
+        "coaching": {
+          "en": "Make the four future challenges concrete. Read the inner instructions slowly, as tools being placed in a hand.",
+          "zh": "把四种未来挑战读得具体。内在指令要放慢，像把工具一件件放进手中。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "frustration",
+      "meaning": {
+        "en": "The feeling of being upset because progress is blocked.",
+        "zh": "挫败感；因进展受阻而产生的不快。"
+      },
+      "use": {
+        "en": "A short pause helped her work through the frustration.",
+        "zh": "短暂停顿帮助她走过挫败感。"
+      }
+    },
+    {
+      "term": "interrupt",
+      "meaning": {
+        "en": "To stop something temporarily before it is complete.",
+        "zh": "打断；在完成之前暂时使某事停止。"
+      },
+      "use": {
+        "en": "Do not interrupt the learner’s train of thought.",
+        "zh": "不要打断学习者的思路。"
+      }
+    },
+    {
+      "term": "railing",
+      "meaning": {
+        "en": "A protective barrier that supports or marks an edge.",
+        "zh": "栏杆；起支撑或标示边界作用的防护物。"
+      },
+      "use": {
+        "en": "The questions acted as a railing on unfamiliar ground.",
+        "zh": "这些问题像陌生地带上的扶手。"
+      }
+    },
+    {
+      "term": "assumption",
+      "meaning": {
+        "en": "Something accepted as true without complete proof.",
+        "zh": "假设；尚未充分证明就被当作真实的事。"
+      },
+      "use": {
+        "en": "We tested the assumption against new evidence.",
+        "zh": "我们用新证据检验了这个假设。"
+      }
+    },
+    {
+      "term": "competence",
+      "meaning": {
+        "en": "The ability to do something effectively and well.",
+        "zh": "能力；有效、良好完成某事的本领。"
+      },
+      "use": {
+        "en": "Practice builds competence more reliably than praise alone.",
+        "zh": "比起单纯赞美，练习更可靠地建立能力。"
+      }
+    },
+    {
+      "term": "portable",
+      "meaning": {
+        "en": "Able to be carried or applied in different places and situations.",
+        "zh": "便携的；也指可带到不同情境中应用的。"
+      },
+      "use": {
+        "en": "A good thinking habit is portable across subjects.",
+        "zh": "良好的思考习惯可以迁移到不同学科。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep point, correct, and explain brisk and evenly stressed.",
+      "zh": "把 point、correct、explain 读得轻快，并保持均匀重音。"
+    },
+    {
+      "en": "Use a genuine rising tone for What have you noticed so far?",
+      "zh": "朗读 What have you noticed so far? 时使用真诚的上扬语调。"
+    },
+    {
+      "en": "Give pause, name, find, and try four calm, distinct beats.",
+      "zh": "让 pause、name、find、try 形成四个平静而清楚的节拍。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a learner recover curiosity after a mistake.",
+      "zh": "跟读时，想象你正在帮助一位学习者在犯错后重新找回好奇心。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: let every question sound like room to think, not a hidden test.",
+        "zh": "第一遍：让每个问题都像思考空间，而不是隐形考试。"
+      },
+      {
+        "en": "Pass two: contrast control with guidance through pace and emphasis.",
+        "zh": "第二遍：通过语速与重音，对比控制与引导。"
+      },
+      {
+        "en": "Pass three: make the inner teacher sound calm, capable, and kind.",
+        "zh": "第三遍：让内在老师的声音平静、有能力，也有善意。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where might one extra breath protect a learner’s discovery?",
+      "zh": "在哪个时刻，多等一口气可以保护学习者自己的发现？"
+    },
+    {
+      "en": "Which question could replace an answer you often give too quickly?",
+      "zh": "哪个问题，可以替代你经常过快给出的答案？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/teach-the-question-not-the-answer/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/teach-the-question-not-the-answer/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/teach-the-question-not-the-answer/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/teach-the-question-not-the-answer/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/teach-the-question-not-the-answer/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/teach-the-question-not-the-answer/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/teach-the-question-not-the-answer/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/teach-the-question-not-the-answer/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/teach-the-question-not-the-answer/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/teach-the-question-not-the-answer/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/teach-the-question-not-the-answer/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/teach-the-question-not-the-answer/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/teach-the-question-not-the-answer/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/teach-the-question-not-the-answer/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/teach-the-question-not-the-answer/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/teach-the-question-not-the-answer/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/teach-the-question-not-the-answer/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/teach-the-question-not-the-answer/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/teach-the-question-not-the-answer/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/teach-the-question-not-the-answer/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/teach-the-question-not-the-answer/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/teach-the-question-not-the-answer/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/teach-the-question-not-the-answer/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/teach-the-question-not-the-answer/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/teach-the-question-not-the-answer/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/teach-the-question-not-the-answer/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/teach-the-question-not-the-answer/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/teach-the-question-not-the-answer/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/teach-the-question-not-the-answer/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/teach-the-question-not-the-answer/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/teach-the-question-not-the-answer/clips/sources_0.mp3"
+    }
+  }
+}

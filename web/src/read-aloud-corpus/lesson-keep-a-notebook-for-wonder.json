@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "keep-a-notebook-for-wonder",
+  "title": {
+    "en": "Keep a Notebook for Wonder",
+    "zh": "为惊奇准备一本笔记本"
+  },
+  "subtitle": {
+    "en": "An original reflection on scientific curiosity, exact observation, and the discipline of staying surprised.",
+    "zh": "一篇原创美文：关于科学好奇心、精确观察，以及保持惊奇的训练。"
+  },
+  "tags": [
+    "Science",
+    "Wonder",
+    "Observation",
+    "Nature"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration from Faraday's practice of making ordinary phenomena vivid through inquiry; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自法拉第以探究让日常现象变得鲜活的实践；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if each ordinary object contains a small surprise. Keep the voice precise, bright, and unhurried.",
+    "zh": "朗读时，想象每件日常物品都藏着一个小小惊喜。声音要精准、明亮而不急促。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Practice of Being Astonished",
+      "zh": "练习惊奇"
+    },
+    "intro": {
+      "en": "This original passage invites scientific attention into daily life through questions, records, and patient experiments.",
+      "zh": "这篇原创文章邀请科学式注意进入日常生活：通过问题、记录与耐心实验。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Familiar Is Not Finished",
+          "zh": "1. 熟悉不等于已经了解"
+        },
+        "text": "A kettle begins to murmur, a shadow lengthens across the floor, a sliced apple slowly darkens. Familiarity tells us that nothing important is happening. We have seen it before. Yet science often begins by refusing that sleepy conclusion. What exactly changes first? Does the sound rise steadily or in steps? Why is the shadow’s edge sharp near the cup and softer farther away? The ordinary world is not short of mysteries; it is crowded with events we have stopped describing. Wonder returns when description becomes exact.",
+        "coaching": {
+          "en": "Let the three opening images appear one by one. Make each scientific question alert but unforced.",
+          "zh": "让开头三个意象逐一出现。每个科学问题都要读得敏锐，但不刻意用力。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Write Before You Explain",
+          "zh": "2. 先记录，再解释"
+        },
+        "text": "The notebook protects observation from the charm of a quick theory. Record the time, color, direction, temperature, interval, and change. Draw the shape badly if drawing is the fastest way to remember it. Write I do not know when that is the truest sentence available. Explanation will come, but it should arrive after the evidence has had room to be itself. A page of careful notes can reveal that memory smoothed away the exception, exaggerated the pattern, or quietly replaced what happened with what ought to have happened.",
+        "coaching": {
+          "en": "Give the list of measurements an orderly rhythm. Say I do not know with confidence, not apology.",
+          "zh": "测量项目的列举要有秩序感。I do not know 要读得自信，而不是道歉。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Make the Smallest Honest Test",
+          "zh": "3. 做最小而诚实的测试"
+        },
+        "text": "Curiosity becomes knowledge through comparison. Move one plant toward the window and leave another where it was. Cover half a page from the sun. Change one ingredient while keeping the rest steady. A useful experiment is not a performance of cleverness; it is a clear question asked with materials. The result may be untidy. Perhaps several causes moved together, or the measurement was crude. That is not the end of inquiry. It is a more intelligent beginning, because the next question now has an address.",
+        "coaching": {
+          "en": "Read the three experiments with practical energy. Slow down and land warmly on has an address.",
+          "zh": "三个实验要读出实践的活力。结尾放慢，让 has an address 温暖落地。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Let Knowledge Deepen the Mystery",
+          "zh": "4. 让知识加深神秘"
+        },
+        "text": "An explanation does not have to make the world smaller. Learning why the sky changes color can sharpen the next sunset. Understanding how a seed responds to light can make a windowsill more dramatic. The fact and the feeling need not compete. Knowledge gives wonder structure; wonder keeps knowledge from becoming merely stored information. Carry a notebook, then, not to trap the world in conclusions, but to practice meeting it awake. The finest pages will contain both kinds of sentence: Here is what I found. Here is what I still cannot stop asking.",
+        "coaching": {
+          "en": "Let the examples brighten gradually. Balance the final two sentences with equal respect for finding and asking.",
+          "zh": "让几个例子逐渐明亮。最后两句要平衡，给予发现与追问同等尊重。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "phenomenon",
+      "meaning": {
+        "en": "An event or fact that can be observed and studied.",
+        "zh": "现象；可以被观察和研究的事件或事实。"
+      },
+      "use": {
+        "en": "Condensation is an everyday phenomenon worth noticing.",
+        "zh": "凝结是一种值得留意的日常现象。"
+      }
+    },
+    {
+      "term": "interval",
+      "meaning": {
+        "en": "A period of time between two events or measurements.",
+        "zh": "间隔；两次事件或测量之间的一段时间。"
+      },
+      "use": {
+        "en": "We checked the temperature at ten-minute intervals.",
+        "zh": "我们每隔十分钟测一次温度。"
+      }
+    },
+    {
+      "term": "exception",
+      "meaning": {
+        "en": "A case that does not follow a general rule or pattern.",
+        "zh": "例外；不符合一般规则或模式的情况。"
+      },
+      "use": {
+        "en": "One exception forced us to revise the pattern.",
+        "zh": "一个例外迫使我们修正原有模式。"
+      }
+    },
+    {
+      "term": "exaggerate",
+      "meaning": {
+        "en": "To make something seem larger or more important than it is.",
+        "zh": "夸大；使某事显得比实际更大或更重要。"
+      },
+      "use": {
+        "en": "Memory can exaggerate a dramatic result.",
+        "zh": "记忆可能夸大一个戏剧性的结果。"
+      }
+    },
+    {
+      "term": "crude",
+      "meaning": {
+        "en": "Simple and not yet precise or highly developed.",
+        "zh": "粗略的；简单且尚不精确或完善的。"
+      },
+      "use": {
+        "en": "Our first measurement was crude but useful.",
+        "zh": "我们的第一次测量很粗略，但有用。"
+      }
+    },
+    {
+      "term": "inquiry",
+      "meaning": {
+        "en": "The process of asking questions and investigating.",
+        "zh": "探究；提出问题并进行调查的过程。"
+      },
+      "use": {
+        "en": "The unexpected result opened a new line of inquiry.",
+        "zh": "意外结果开启了一条新的探究路径。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep kettle begins to murmur light and connected, without losing the final consonants.",
+      "zh": "轻快连接 kettle begins to murmur，同时不要吞掉词尾辅音。"
+    },
+    {
+      "en": "Give time, color, direction, temperature, interval, and change an even measuring rhythm.",
+      "zh": "让 time、color、direction、temperature、interval、change 形成均匀的测量节奏。"
+    },
+    {
+      "en": "Contrast Here is what I found with Here is what I still cannot stop asking.",
+      "zh": "读出 Here is what I found 与 Here is what I still cannot stop asking 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are inviting a friend to look twice at an ordinary event.",
+      "zh": "跟读时，想象你正邀请朋友再看一眼一个寻常现象。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every object, color, and movement visible in the voice.",
+        "zh": "第一遍：用声音让每件物品、每种颜色与每个动作都清晰可见。"
+      },
+      {
+        "en": "Pass two: let questions rise with curiosity rather than disbelief.",
+        "zh": "第二遍：让问题因好奇而上扬，而不是因为不信任。"
+      },
+      {
+        "en": "Pass three: make evidence and wonder sound like partners.",
+        "zh": "第三遍：让证据与惊奇听起来像一对伙伴。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which familiar event could you describe more exactly today?",
+      "zh": "今天，哪一个熟悉现象值得你更精确地描述？"
+    },
+    {
+      "en": "What is the smallest honest test you could make with objects already near you?",
+      "zh": "用身边已有的物品，你能做哪个最小而诚实的测试？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-notebook-for-wonder/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-notebook-for-wonder/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-notebook-for-wonder/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-notebook-for-wonder/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-notebook-for-wonder/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/keep-a-notebook-for-wonder/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-notebook-for-wonder/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-notebook-for-wonder/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-notebook-for-wonder/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-notebook-for-wonder/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-notebook-for-wonder/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-notebook-for-wonder/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-notebook-for-wonder/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-notebook-for-wonder/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-notebook-for-wonder/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-notebook-for-wonder/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-notebook-for-wonder/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-notebook-for-wonder/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-notebook-for-wonder/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-notebook-for-wonder/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-notebook-for-wonder/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-notebook-for-wonder/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-notebook-for-wonder/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-notebook-for-wonder/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-notebook-for-wonder/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-notebook-for-wonder/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-notebook-for-wonder/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-notebook-for-wonder/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-notebook-for-wonder/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-notebook-for-wonder/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-notebook-for-wonder/clips/sources_0.mp3"
+    }
+  }
+}
