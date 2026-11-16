@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "learn-the-shape-of-useful-work",
+  "title": {
+    "en": "Learn the Shape of Useful Work",
+    "zh": "认识有用之功的形状"
+  },
+  "subtitle": {
+    "en": "An original reflection on apprenticeship, invisible standards, and becoming trustworthy through practice.",
+    "zh": "一篇原创美文：关于学徒精神、看不见的标准，以及如何在实践中成为值得信赖的人。"
+  },
+  "tags": [
+    "Learning",
+    "Craft",
+    "Career",
+    "Practice"
+  ],
+  "sources": [
+    {
+      "title": "The Stones of Venice",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30754",
+      "note": {
+        "en": "Public-domain inspiration from Ruskin's writing on craft, labor, and attention; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自拉斯金关于技艺、劳动与专注的公开领域作品；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical warmth. Let the concrete workbench images carry the argument, and avoid a grand or heroic tone.",
+    "zh": "用务实而温暖的语气朗读。让工作台上的具体画面承载观点，避免宏大或英雄式语调。"
+  },
+  "passage": {
+    "title": {
+      "en": "What the Workbench Knows",
+      "zh": "工作台所知道的事"
+    },
+    "intro": {
+      "en": "This passage considers how real competence grows through correction, service, and standards that survive applause.",
+      "zh": "这篇文章思考：真正的能力如何在修正、服务和不依赖掌声的标准中生长。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin Beside the Work",
+          "zh": "1. 从工作旁边开始"
+        },
+        "text": "A beginner often wants the important task, the visible result, the sentence that earns approval. A good apprenticeship begins elsewhere. Sweep the shavings. Label the files. Watch how an experienced hand tests a joint before trusting it. These duties can look peripheral, yet they reveal the shape of the whole practice. You learn what must remain clean, what can be repaired, what should never be hurried, and whom the work is meant to serve. Responsibility enters through the side door, carrying ordinary tools.",
+        "coaching": {
+          "en": "Make the beginner's wishes quick and recognizable. Give the practical instructions a steady, capable rhythm.",
+          "zh": "把初学者的愿望读得快速而熟悉。几个实际指令要读出稳健、能干的节奏。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Correction Is Information",
+          "zh": "2. 修正就是信息"
+        },
+        "text": "At first, correction can feel like a verdict on character. The line is uneven, the calculation careless, the email unclear; therefore, we fear, I am not made for this. But useful correction points to the work, not to the worth of the worker. It says: here is where pressure changed; here is the assumption you failed to test. The mature learner protects neither every draft nor every habit. They protect the capacity to return, examine, and improve. Pride becomes less fragile when it has a task to do.",
+        "coaching": {
+          "en": "Separate the three faults cleanly. Soften I am not made for this, then make the corrective phrases specific and constructive.",
+          "zh": "三个问题要清楚分开。I am not made for this 要读得轻一些，随后把修正建议读得具体、有建设性。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Standards No One Sees",
+          "zh": "3. 无人看见的标准"
+        },
+        "text": "Some of the best work disappears into reliability. The door closes without scraping. The report answers the question before decoration begins. The meeting ends with each person knowing what happens next. Users may never praise the hidden hinge, the checked figure, or the carefully chosen verb. That is not evidence that care was wasted. A craft becomes trustworthy when its maker can feel the difference between finished and merely abandoned. The private standard is not perfection; it is respect made repeatable.",
+        "coaching": {
+          "en": "Read the examples with quiet satisfaction. Stress finished and merely abandoned, keeping perfection deliberately restrained.",
+          "zh": "几个例子要读出安静的满足感。重读 finished 和 merely abandoned，读到 perfection 时刻意克制。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Become Easy to Trust",
+          "zh": "4. 成为容易被信赖的人"
+        },
+        "text": "A career is built from more than impressive moments. It is built when people learn that your yes has weight, your questions arrive before avoidable mistakes, and your unfinished work is named honestly. This kind of trust cannot be performed once. It accumulates through small deliveries, clear warnings, and repairs made without drama. Over time, competence changes the voice. You need less display because the work can bear examination. You can say I do not know yet without collapsing, then add: here is how I will find out.",
+        "coaching": {
+          "en": "Give your yes has weight a grounded emphasis. Pause after I do not know yet, then let the final clause move forward with purpose.",
+          "zh": "your yes has weight 要读得沉稳。I do not know yet 后停顿，再让最后一句带着目标向前。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "apprenticeship",
+      "meaning": {
+        "en": "A period of learning a skill through guided practical work.",
+        "zh": "学徒期；在指导下通过实际工作学习技能的时期。"
+      },
+      "use": {
+        "en": "Her apprenticeship taught her how to notice small defects.",
+        "zh": "学徒经历教会她发现细小缺陷。"
+      }
+    },
+    {
+      "term": "peripheral",
+      "meaning": {
+        "en": "Not central or most important at first sight.",
+        "zh": "外围的；乍看并非核心的。"
+      },
+      "use": {
+        "en": "The task seemed peripheral but revealed the whole process.",
+        "zh": "这项任务看似次要，却展现了整个流程。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment or decision.",
+        "zh": "裁决；最终的判断或决定。"
+      },
+      "use": {
+        "en": "One weak draft is not a verdict on your ability.",
+        "zh": "一份薄弱的初稿并不是对你能力的最终判决。"
+      }
+    },
+    {
+      "term": "reliability",
+      "meaning": {
+        "en": "The quality of working consistently and dependably.",
+        "zh": "可靠性；表现稳定、值得依赖的品质。"
+      },
+      "use": {
+        "en": "Reliability matters more than occasional brilliance.",
+        "zh": "可靠性比偶尔的惊艳更重要。"
+      }
+    },
+    {
+      "term": "bear examination",
+      "meaning": {
+        "en": "To remain sound when inspected carefully.",
+        "zh": "经得起检验；在仔细审查下仍然可靠。"
+      },
+      "use": {
+        "en": "A strong proposal should bear examination.",
+        "zh": "一份扎实的方案应当经得起检验。"
+      }
+    },
+    {
+      "term": "accumulate",
+      "meaning": {
+        "en": "To build gradually through repeated additions.",
+        "zh": "逐步积累；通过反复增加而形成。"
+      },
+      "use": {
+        "en": "Trust accumulates through promises kept.",
+        "zh": "信任在一次次兑现承诺中积累。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link sweep the shavings, label the files, and test a joint into three brisk instructions.",
+      "zh": "把 sweep the shavings、label the files、test a joint 连成三个利落的指令。"
+    },
+    {
+      "en": "Keep work and worth distinct in points to the work, not to the worth of the worker.",
+      "zh": "在 points to the work, not to the worth of the worker 中清楚区分 work 与 worth。"
+    },
+    {
+      "en": "Use a calm fall on I do not know yet, showing honesty rather than defeat.",
+      "zh": "I do not know yet 使用平静的降调，表达诚实而非挫败。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as a capable learner: open to correction, attentive to detail, and unafraid of plain language.",
+      "zh": "跟读时像一位能干的学习者：乐于修正、留意细节，也不惧怕朴素表达。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep every practical example crisp and concrete.",
+        "zh": "第一遍：把每个实际例子读得利落、具体。"
+      },
+      {
+        "en": "Pass two: distinguish criticism of a task from judgment of a person.",
+        "zh": "第二遍：区分对任务的批评与对人的评判。"
+      },
+      {
+        "en": "Pass three: let the final paragraph sound trustworthy, not self-promotional.",
+        "zh": "第三遍：让最后一段听起来值得信赖，而不是自我推销。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What apparently peripheral task could teach you more about your craft?",
+      "zh": "哪一项看似外围的任务，可能让你更懂自己的专业？"
+    },
+    {
+      "en": "What private standard makes your work easier for others to trust?",
+      "zh": "哪一条不为人知的标准，让你的工作更值得他人信赖？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/learn-the-shape-of-useful-work/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/learn-the-shape-of-useful-work/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/learn-the-shape-of-useful-work/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/learn-the-shape-of-useful-work/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/learn-the-shape-of-useful-work/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/learn-the-shape-of-useful-work/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/learn-the-shape-of-useful-work/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/learn-the-shape-of-useful-work/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/learn-the-shape-of-useful-work/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/learn-the-shape-of-useful-work/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/learn-the-shape-of-useful-work/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/learn-the-shape-of-useful-work/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/learn-the-shape-of-useful-work/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/learn-the-shape-of-useful-work/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/learn-the-shape-of-useful-work/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/learn-the-shape-of-useful-work/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/learn-the-shape-of-useful-work/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/learn-the-shape-of-useful-work/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/learn-the-shape-of-useful-work/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/learn-the-shape-of-useful-work/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/learn-the-shape-of-useful-work/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/learn-the-shape-of-useful-work/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/learn-the-shape-of-useful-work/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/learn-the-shape-of-useful-work/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/learn-the-shape-of-useful-work/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/learn-the-shape-of-useful-work/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/learn-the-shape-of-useful-work/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/learn-the-shape-of-useful-work/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/learn-the-shape-of-useful-work/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/learn-the-shape-of-useful-work/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/learn-the-shape-of-useful-work/clips/sources_0.mp3"
+    }
+  }
+}

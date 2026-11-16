@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "read-the-weather-in-a-leaf",
+  "title": {
+    "en": "Read the Weather in a Leaf",
+    "zh": "从一片叶子里读天气"
+  },
+  "subtitle": {
+    "en": "An original reflection on close attention, seasonal change, and the intelligence of ordinary things.",
+    "zh": "一篇原创美文：关于细致观察、季节变化，以及寻常事物中的智慧。"
+  },
+  "tags": [
+    "Nature",
+    "Attention",
+    "Seasons",
+    "Observation"
+  ],
+  "sources": [
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/205",
+      "note": {
+        "en": "Public-domain inspiration from Thoreau's practice of attentive observation; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自梭罗细致观察自然的公开领域作品；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if your voice were adjusting its focus: begin with small exact details, then allow the wider meaning to emerge.",
+    "zh": "朗读时，想象你的声音正在调焦：先读准细小而确切的细节，再让更宽广的意义慢慢浮现。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Smallest Weather Station",
+      "zh": "最小的气象站"
+    },
+    "intro": {
+      "en": "This passage explores how patient observation can restore texture to days that hurry has made flat.",
+      "zh": "这篇文章探讨：耐心观察如何让被匆忙压平的日子重新拥有纹理。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Leaf Is Not Green",
+          "zh": "1. 叶子并不只是绿色"
+        },
+        "text": "From a window, the tree appears simply green. Walk closer and the single color breaks open. New leaves hold a yellow brightness near their veins. Older ones carry dust, insect trails, and a dark gloss where rain has dried. One leaf has curled its edge around a bead of water. Another has been stitched with a silver thread by a spider too small to see. Attention does not invent wonder; it removes the distance that made wonder invisible. The world becomes more precise before it becomes beautiful.",
+        "coaching": {
+          "en": "Keep the first sentence plain. Slow through the list of details, giving each image its own clear space.",
+          "zh": "第一句读得朴素。列举细节时放慢速度，让每幅画面都有清晰的空间。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. A Record Without Numbers",
+          "zh": "2. 没有数字的记录"
+        },
+        "text": "A leaf keeps a quiet record of conditions. A torn edge remembers wind. A pale surface suggests shade or thirst. The angle of a stem tells how steadily the tree has turned toward light. None of this makes the leaf a message written for us. It has its own work: gathering sunlight, exchanging air, feeding a body larger than itself. Yet by learning to notice that work, we become less careless readers of the living world. Evidence can be modest and still deserve respect.",
+        "coaching": {
+          "en": "Let each short sentence sound like a careful finding. Emphasize its own work without making the tone possessive.",
+          "zh": "让每个短句都像一项审慎的发现。重读 its own work，但不要读出占有意味。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Change Has Many Speeds",
+          "zh": "3. 变化有许多速度"
+        },
+        "text": "Seasonal change is rarely a curtain falling all at once. It arrives by degrees: one cooler stairwell, one earlier shadow, one maple branch turning before the rest. When we say autumn came overnight, we usually mean that we noticed late. The same is true of many changes in ourselves. Confidence gathers through repeated attempts. Fatigue accumulates in postponed rest. Affection deepens through small acts that leave no dramatic photograph. A practiced eye recognizes the gradual before it becomes the obvious.",
+        "coaching": {
+          "en": "Use a measured rhythm for the sequence of signs. Warm the voice on confidence and affection, then land firmly on obvious.",
+          "zh": "一连串迹象要读出从容节奏。读到 confidence 和 affection 时加温，最后坚定落在 obvious。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Bring One Detail Home",
+          "zh": "4. 带一个细节回家"
+        },
+        "text": "You do not need a forest or an empty afternoon to practice attention. Choose one ordinary witness: the plant beside the sink, the strip of sky above a station, the tree passed on the way to work. Notice one change and name it accurately. Not lovely, but amber at the edge. Not bad weather, but rain moving sideways under the streetlamp. Exact language is a form of gratitude because it refuses to replace the particular with a blur. Bring one true detail home, and the day will no longer feel interchangeable.",
+        "coaching": {
+          "en": "Contrast the vague labels with the exact images. Finish the last sentence quietly, as an invitation rather than a slogan.",
+          "zh": "把模糊标签与准确画面对照出来。最后一句要安静收束，像邀请，而不是口号。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "gloss",
+      "meaning": {
+        "en": "A smooth, bright surface or shine.",
+        "zh": "光泽；光滑明亮的表面。"
+      },
+      "use": {
+        "en": "Rain left a dark gloss on the leaves.",
+        "zh": "雨水在叶面留下深色的光泽。"
+      }
+    },
+    {
+      "term": "precise",
+      "meaning": {
+        "en": "Exact, accurate, and carefully expressed.",
+        "zh": "精确的；准确且表达细致的。"
+      },
+      "use": {
+        "en": "Her description was brief but precise.",
+        "zh": "她的描述简短却精确。"
+      }
+    },
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "Limited in size or importance, without being insignificant.",
+        "zh": "不大的；有限却并非无关紧要的。"
+      },
+      "use": {
+        "en": "We began with a modest piece of evidence.",
+        "zh": "我们从一条不显眼的证据开始。"
+      }
+    },
+    {
+      "term": "by degrees",
+      "meaning": {
+        "en": "Gradually, in small stages.",
+        "zh": "逐渐地；分阶段地。"
+      },
+      "use": {
+        "en": "The room grew quiet by degrees.",
+        "zh": "房间渐渐安静下来。"
+      }
+    },
+    {
+      "term": "accumulate",
+      "meaning": {
+        "en": "To gather or increase over time.",
+        "zh": "积累；随着时间聚集或增加。"
+      },
+      "use": {
+        "en": "Skill accumulates through regular practice.",
+        "zh": "技能通过规律练习逐渐积累。"
+      }
+    },
+    {
+      "term": "interchangeable",
+      "meaning": {
+        "en": "So similar that one can replace another.",
+        "zh": "可互换的；相似到可以彼此替代的。"
+      },
+      "use": {
+        "en": "Close attention keeps our days from feeling interchangeable.",
+        "zh": "细致观察让我们的每一天不再千篇一律。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonants clear in dark gloss, dried rain, and stitched with a silver thread.",
+      "zh": "清楚读出 dark gloss、dried rain 和 stitched with a silver thread 中的辅音。"
+    },
+    {
+      "en": "Use gentle contrast in Not lovely, but amber at the edge.",
+      "zh": "朗读 Not lovely, but amber at the edge 时读出柔和的对比。"
+    },
+    {
+      "en": "Let one cooler stairwell, one earlier shadow, one maple branch build in three balanced beats.",
+      "zh": "让 one cooler stairwell、one earlier shadow、one maple branch 形成三个均衡节拍。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with the alert calm of someone noticing what was present all along.",
+      "zh": "跟读时保持敏锐而平静，仿佛正在看见一直存在却未被留意的事物。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: articulate every concrete noun without rushing the images.",
+        "zh": "第一遍：清楚读出每个具体名词，不要匆忙掠过画面。"
+      },
+      {
+        "en": "Pass two: make the movement from nature to human experience sound natural and unforced.",
+        "zh": "第二遍：让从自然到人生经验的过渡自然、不生硬。"
+      },
+      {
+        "en": "Pass three: replace vague emphasis with exact, quiet conviction.",
+        "zh": "第三遍：用准确而安静的笃定，取代模糊的强调。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What gradual change have you noticed only after it became obvious?",
+      "zh": "哪一种渐进的变化，直到明显时你才注意到？"
+    },
+    {
+      "en": "What ordinary witness could you observe for one week?",
+      "zh": "未来一周，你可以持续观察哪一个寻常事物？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/read-the-weather-in-a-leaf/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/read-the-weather-in-a-leaf/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/read-the-weather-in-a-leaf/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/read-the-weather-in-a-leaf/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/read-the-weather-in-a-leaf/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/read-the-weather-in-a-leaf/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/read-the-weather-in-a-leaf/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/read-the-weather-in-a-leaf/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/read-the-weather-in-a-leaf/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/read-the-weather-in-a-leaf/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/read-the-weather-in-a-leaf/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/read-the-weather-in-a-leaf/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/read-the-weather-in-a-leaf/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/read-the-weather-in-a-leaf/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/read-the-weather-in-a-leaf/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/read-the-weather-in-a-leaf/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/read-the-weather-in-a-leaf/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/read-the-weather-in-a-leaf/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/read-the-weather-in-a-leaf/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/read-the-weather-in-a-leaf/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/read-the-weather-in-a-leaf/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/read-the-weather-in-a-leaf/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/read-the-weather-in-a-leaf/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/read-the-weather-in-a-leaf/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/read-the-weather-in-a-leaf/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/read-the-weather-in-a-leaf/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/read-the-weather-in-a-leaf/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/read-the-weather-in-a-leaf/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/read-the-weather-in-a-leaf/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/read-the-weather-in-a-leaf/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/read-the-weather-in-a-leaf/clips/sources_0.mp3"
+    }
+  }
+}

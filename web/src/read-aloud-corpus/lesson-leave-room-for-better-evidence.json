@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "leave-room-for-better-evidence",
+  "title": {
+    "en": "Leave Room for Better Evidence",
+    "zh": "为更好的证据留出空间"
+  },
+  "subtitle": {
+    "en": "An original reflection on intellectual humility, revision, and speaking clearly under uncertainty.",
+    "zh": "一篇原创美文：关于求知的谦逊、修正，以及如何在不确定中清晰表达。"
+  },
+  "tags": [
+    "Science",
+    "Evidence",
+    "Humility",
+    "Communication"
+  ],
+  "sources": [
+    {
+      "title": "The Advancement of Learning",
+      "author": "Francis Bacon",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/5500",
+      "note": {
+        "en": "Public-domain inspiration from Bacon's inquiry into knowledge and error; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自培根关于知识与谬误的公开领域探讨；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with lucid restraint. Sound confident about the evidence while keeping conclusions open to honest revision.",
+    "zh": "用清晰而克制的语气朗读。对证据保持信心，同时让结论随时可以接受诚实修正。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Door Left Unlocked",
+      "zh": "一扇没有上锁的门"
+    },
+    "intro": {
+      "en": "This passage asks how a thoughtful voice can be both decisive enough to help and flexible enough to learn.",
+      "zh": "这篇文章追问：一种审慎的声音，如何既果断到足以提供帮助，又灵活到仍能继续学习。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Certainty Has a Sound",
+          "zh": "1. 确定有它的声音"
+        },
+        "text": "Certainty often enters a room before evidence does. It speaks quickly, removes qualifications, and makes a clean story from untidy facts. This can feel reassuring, especially when people are tired or afraid. Yet the smoothest explanation is not always the strongest one. A careful thinker learns to hear the difference between clarity and overconfidence. Clarity names what is known. Overconfidence hides the edges of knowledge, then hopes no one will ask what lies beyond them.",
+        "coaching": {
+          "en": "Let the opening sound attractively decisive, then introduce a thoughtful caution. Contrast clarity and overconfidence precisely.",
+          "zh": "开头要读出一种颇具吸引力的果断，随后转入审慎提醒。准确对比 clarity 与 overconfidence。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Give Uncertainty a Shape",
+          "zh": "2. 给不确定性一个形状"
+        },
+        "text": "To say we are uncertain does not mean we know nothing. We may know that one explanation fits most observations, that a measurement has a limited range, or that an answer depends on conditions still changing. Good language gives uncertainty a shape. The evidence suggests is different from the evidence proves. I am confident is different from I am certain. These distinctions are not timid decorations. They tell another person how much weight a conclusion can safely carry.",
+        "coaching": {
+          "en": "Keep the paired phrases sharply distinct. Read the last sentence with practical authority, not apology.",
+          "zh": "几组对照表达要清楚区分。最后一句要读出务实的权威感，而不是歉意。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Revision Is Not Retreat",
+          "zh": "3. 修正不是退却"
+        },
+        "text": "When new evidence changes a conclusion, observers sometimes call the change weakness. But a mind that never revises is not necessarily strong; it may simply be sealed. Revision is the visible motion of learning. It requires us to remember what we believed, identify what altered the balance, and explain why a different answer now deserves support. This is harder than quietly replacing yesterday's claim. Honest revision leaves a trail that others can inspect, question, and use.",
+        "coaching": {
+          "en": "Stress visible motion of learning. Give the three actions a deliberate sequence, building toward inspect, question, and use.",
+          "zh": "重读 visible motion of learning。三个行动要有清晰递进，最终落到 inspect、question、use。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Speak for the Next Decision",
+          "zh": "4. 为下一个决定而表达"
+        },
+        "text": "We rarely have the luxury of waiting for perfect knowledge. A doctor, engineer, parent, or team leader must often act while some facts remain incomplete. The responsible voice does not pretend the gaps are gone. It says what appears most likely, what risk matters most, what would change the recommendation, and when the decision should be reviewed. Such speech is neither evasive nor absolute. It is sturdy enough for the next step and spacious enough for better evidence to enter.",
+        "coaching": {
+          "en": "Give the four practical questions equal weight. Let sturdy and spacious balance each other in the final sentence.",
+          "zh": "四个实际问题要分配同等分量。最后一句让 sturdy 与 spacious 彼此平衡。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "qualification",
+      "meaning": {
+        "en": "A limit or condition added to a statement.",
+        "zh": "限定条件；对陈述范围所作的限制或补充。"
+      },
+      "use": {
+        "en": "The conclusion needs one important qualification.",
+        "zh": "这个结论需要补充一个重要的限定条件。"
+      }
+    },
+    {
+      "term": "untidy",
+      "meaning": {
+        "en": "Not neatly organized; complicated or irregular.",
+        "zh": "杂乱的；复杂或不规则的。"
+      },
+      "use": {
+        "en": "Real evidence is often untidy.",
+        "zh": "真实证据往往并不整齐。"
+      }
+    },
+    {
+      "term": "distinction",
+      "meaning": {
+        "en": "A clear difference between similar things.",
+        "zh": "区别；相似事物之间的清晰差异。"
+      },
+      "use": {
+        "en": "That distinction changes how we should act.",
+        "zh": "这一区别改变了我们的行动方式。"
+      }
+    },
+    {
+      "term": "timid",
+      "meaning": {
+        "en": "Lacking confidence or courage.",
+        "zh": "胆怯的；缺乏信心或勇气的。"
+      },
+      "use": {
+        "en": "Careful wording does not have to sound timid.",
+        "zh": "审慎的措辞不必听起来胆怯。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To change an idea after reconsidering it.",
+        "zh": "修正；重新思考后改变观点。"
+      },
+      "use": {
+        "en": "We revised our estimate when new data arrived.",
+        "zh": "新数据出现后，我们修正了估计。"
+      }
+    },
+    {
+      "term": "evasive",
+      "meaning": {
+        "en": "Avoiding a clear and direct answer.",
+        "zh": "闪烁其词的；回避清楚直接回答的。"
+      },
+      "use": {
+        "en": "His answer was cautious but not evasive.",
+        "zh": "他的回答很谨慎，却并不闪烁其词。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Contrast The evidence suggests with The evidence proves, keeping the final consonants crisp.",
+      "zh": "对比 The evidence suggests 与 The evidence proves，并清楚读出词尾辅音。"
+    },
+    {
+      "en": "Use a firm fall for what is known and a slight opening for what remains uncertain.",
+      "zh": "what is known 使用坚定降调，what remains uncertain 则稍微打开语调。"
+    },
+    {
+      "en": "Balance sturdy enough for the next step and spacious enough for better evidence in two even phrases.",
+      "zh": "把 sturdy enough for the next step 与 spacious enough for better evidence 读成两个均衡短语。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as someone explaining a difficult decision with honesty, calm, and useful precision.",
+      "zh": "跟读时，想象你正在以诚实、冷静且实用准确的方式解释一个艰难决定。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every contrast audible without exaggerating it.",
+        "zh": "第一遍：让每组对比都听得出来，但不要夸张。"
+      },
+      {
+        "en": "Pass two: let qualifications sound informative rather than hesitant.",
+        "zh": "第二遍：让限定表达听起来提供了信息，而不是犹豫不决。"
+      },
+      {
+        "en": "Pass three: deliver the final section as guidance a team could act on.",
+        "zh": "第三遍：把最后一节读成团队可以据此行动的指导。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where would a more precise statement of uncertainty improve one current decision?",
+      "zh": "在哪个当前决定中，更准确地说明不确定性会有所帮助？"
+    },
+    {
+      "en": "What evidence would genuinely cause you to revise a strongly held view?",
+      "zh": "什么样的证据会真正促使你修正一个坚定持有的观点？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-room-for-better-evidence/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-room-for-better-evidence/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-room-for-better-evidence/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-room-for-better-evidence/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-room-for-better-evidence/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/leave-room-for-better-evidence/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-room-for-better-evidence/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-room-for-better-evidence/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-room-for-better-evidence/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-room-for-better-evidence/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-room-for-better-evidence/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-room-for-better-evidence/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-room-for-better-evidence/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-room-for-better-evidence/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-room-for-better-evidence/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-room-for-better-evidence/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-room-for-better-evidence/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-room-for-better-evidence/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-room-for-better-evidence/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-room-for-better-evidence/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-room-for-better-evidence/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-room-for-better-evidence/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-room-for-better-evidence/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-room-for-better-evidence/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-room-for-better-evidence/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-room-for-better-evidence/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-room-for-better-evidence/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-room-for-better-evidence/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-room-for-better-evidence/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-room-for-better-evidence/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-room-for-better-evidence/clips/sources_0.mp3"
+    }
+  }
+}
