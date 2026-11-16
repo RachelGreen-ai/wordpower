@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "imagine-the-life-across-the-table",
+  "title": {
+    "en": "Imagine the Life Across the Table",
+    "zh": "想象桌子对面的生活"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, incomplete stories, and the discipline of seeing another person whole.",
+    "zh": "一篇原创美文：关于道德想象、不完整的故事，以及把他人视为完整之人的训练。"
+  },
+  "tags": [
+    "Empathy",
+    "Imagination",
+    "Kindness",
+    "Perspective"
+  ],
+  "sources": [
+    {
+      "title": "The Essays of Adam Smith",
+      "author": "Adam Smith",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/58559",
+      "note": {
+        "en": "Public-domain inspiration from Smith's reflections on sympathy and the impartial spectator; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自亚当·斯密关于同感与公正旁观者的公开领域思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert tenderness, never sentimentality. Let concrete details open the voice before each wider reflection.",
+    "zh": "带着敏锐的温柔朗读，但不要煽情。每次进入更宽广的思考前，先让具体细节打开声音。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Missing Rooms in Every Story",
+      "zh": "每个故事中缺失的房间"
+    },
+    "intro": {
+      "en": "This original passage asks what changes when imagination becomes a moral practice rather than a private escape.",
+      "zh": "这篇原创文章追问：当想象不再只是私人的逃离，而成为一种道德实践，会发生什么变化。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Person Arrives as a Moment",
+          "zh": "1. 一个人以某个瞬间出现"
+        },
+        "text": "The cashier is slow. The colleague is abrupt. A stranger occupies the doorway while reading a message. We meet each person inside one narrow frame, then mistake the frame for a portrait. Yet no one begins at the instant they inconvenience us. The cashier may have learned a new system that morning. The colleague may be carrying news that has made ordinary speech difficult. Imagination cannot tell us which hidden story is true. Its first moral work is humbler: to remind us that a hidden story exists.",
+        "coaching": {
+          "en": "Keep the opening judgments quick and familiar. Widen the pace at no one begins and soften hidden story without becoming vague.",
+          "zh": "开头几个判断要读得快速而熟悉。到了 no one begins 时拉开节奏，hidden story 要柔和但不含糊。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Curiosity Without Invention",
+          "zh": "2. 好奇，但不擅自编造"
+        },
+        "text": "There is a danger in imagining too confidently. We can replace one crude judgment with an elegant fiction and still fail to see the person before us. Moral imagination is not mind-reading. It holds several possibilities lightly, then makes room for a question. Is this a difficult time? What would help? Have I understood you correctly? Curiosity respects the border between another life and our guesses about it. It does not demand a confession. It simply refuses to make a final verdict from partial evidence.",
+        "coaching": {
+          "en": "Stress lightly and question. Give the three questions warmth while preserving respectful distance.",
+          "zh": "重读 lightly 与 question。三个问题要有温度，同时保留尊重的距离。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Add the Missing Circumstances",
+          "zh": "3. 补上缺失的处境"
+        },
+        "text": "Before condemning a choice, try changing the circumstances around it. Remove the savings account. Add a sick parent, an unreliable bus, or a language still being learned. Now ask what courage, patience, or freedom would look like inside those limits. This exercise does not declare every action wise or harmless. Accountability still matters. But judgment becomes more accurate when it measures the weight a person was actually lifting, not the weight we imagine from the comfort of our own hands.",
+        "coaching": {
+          "en": "Make each added circumstance concrete. Hold accountability firmly, then bring warmth to actually lifting.",
+          "zh": "把每个新增处境读得具体。Accountability 要坚定，actually lifting 则要带出温度。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return to the Shared Table",
+          "zh": "4. 回到共同的桌边"
+        },
+        "text": "The purpose of empathy is not to feel endlessly on someone else's behalf. It is to return to the shared world with better conduct. Perhaps we wait ten seconds without sighing. Perhaps we ask before advising, pronounce a name carefully, or design a rule that does not punish people for lacking our advantages. Moral imagination becomes real when it changes the shape of a room, a sentence, a policy, or a pause. Across the table is not a category or a lesson. There is another center of experience, looking back.",
+        "coaching": {
+          "en": "Give the practical actions a gentle forward rhythm. Let another center of experience land with quiet dignity.",
+          "zh": "几个实际行动要有温和向前的节奏。another center of experience 要带着安静的尊严落地。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "abrupt",
+      "meaning": {
+        "en": "Sudden or unexpectedly brief in manner or speech.",
+        "zh": "唐突的；言行突然、简短得出人意料。"
+      },
+      "use": {
+        "en": "His reply sounded abrupt, but it was not intended as an insult.",
+        "zh": "他的回答听起来很唐突，但并非有意冒犯。"
+      }
+    },
+    {
+      "term": "inconvenience",
+      "meaning": {
+        "en": "To cause trouble, delay, or difficulty for someone.",
+        "zh": "给……带来不便、耽搁或困难。"
+      },
+      "use": {
+        "en": "A small delay can inconvenience an entire team.",
+        "zh": "一个小小的延误可能给整个团队带来不便。"
+      }
+    },
+    {
+      "term": "crude",
+      "meaning": {
+        "en": "Simple, rough, or lacking careful judgment.",
+        "zh": "粗糙的；简单、粗略或缺乏审慎判断的。"
+      },
+      "use": {
+        "en": "The label was a crude summary of a complicated person.",
+        "zh": "这个标签是对一个复杂之人的粗糙概括。"
+      }
+    },
+    {
+      "term": "partial",
+      "meaning": {
+        "en": "Incomplete or containing only part of the whole.",
+        "zh": "不完整的；只包含整体的一部分。"
+      },
+      "use": {
+        "en": "We should not reach a final conclusion from partial evidence.",
+        "zh": "我们不应根据不完整的证据得出最终结论。"
+      }
+    },
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "Responsibility for actions and their consequences.",
+        "zh": "问责；为行动及其后果承担责任。"
+      },
+      "use": {
+        "en": "Empathy and accountability can exist together.",
+        "zh": "同理心与问责可以同时存在。"
+      }
+    },
+    {
+      "term": "dignity",
+      "meaning": {
+        "en": "The quality of being worthy of respect.",
+        "zh": "尊严；值得尊重的品质或状态。"
+      },
+      "use": {
+        "en": "The nurse treated every patient with dignity.",
+        "zh": "护士以尊严对待每一位病人。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Give The cashier is slow, The colleague is abrupt, and A stranger occupies the doorway three crisp openings.",
+      "zh": "把 The cashier is slow、The colleague is abrupt、A stranger occupies the doorway 读成三个清晰开场。"
+    },
+    {
+      "en": "Use a genuinely open rise for Have I understood you correctly?",
+      "zh": "朗读 Have I understood you correctly? 时使用真正开放的上扬语调。"
+    },
+    {
+      "en": "Keep a room, a sentence, a policy, or a pause evenly paced and clearly articulated.",
+      "zh": "让 a room、a sentence、a policy、a pause 节奏均匀、发音清楚。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are replacing a quick judgment with a more accurate human picture.",
+      "zh": "跟读时，想象你正在用更准确的人性图景取代匆忙判断。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the narrow first impressions sound quick but recognizable.",
+        "zh": "第一遍：让狭窄的第一印象听起来快速，却让人熟悉。"
+      },
+      {
+        "en": "Pass two: keep imagined possibilities light and provisional.",
+        "zh": "第二遍：让想象中的可能性保持轻盈与暂定。"
+      },
+      {
+        "en": "Pass three: turn empathy into practical movement through the final examples.",
+        "zh": "第三遍：通过最后的例子，把同理心转化为实际行动。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose whole story have you reduced to one inconvenient moment?",
+      "zh": "你曾把谁的完整故事缩减成一个令你不便的瞬间？"
+    },
+    {
+      "en": "What question could replace one confident guess about another person?",
+      "zh": "哪一个问题，可以替代你对他人的一次自信猜测？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/imagine-the-life-across-the-table/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/imagine-the-life-across-the-table/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/imagine-the-life-across-the-table/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/imagine-the-life-across-the-table/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/imagine-the-life-across-the-table/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/imagine-the-life-across-the-table/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/imagine-the-life-across-the-table/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/imagine-the-life-across-the-table/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/imagine-the-life-across-the-table/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/imagine-the-life-across-the-table/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/imagine-the-life-across-the-table/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/imagine-the-life-across-the-table/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/imagine-the-life-across-the-table/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/imagine-the-life-across-the-table/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/imagine-the-life-across-the-table/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/imagine-the-life-across-the-table/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/imagine-the-life-across-the-table/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/imagine-the-life-across-the-table/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/imagine-the-life-across-the-table/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/imagine-the-life-across-the-table/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/imagine-the-life-across-the-table/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/imagine-the-life-across-the-table/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/imagine-the-life-across-the-table/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/imagine-the-life-across-the-table/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/imagine-the-life-across-the-table/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/imagine-the-life-across-the-table/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/imagine-the-life-across-the-table/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/imagine-the-life-across-the-table/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/imagine-the-life-across-the-table/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/imagine-the-life-across-the-table/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/imagine-the-life-across-the-table/clips/sources_0.mp3"
+    }
+  }
+}

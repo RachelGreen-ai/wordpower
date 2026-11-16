@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "trust-the-next-honest-step",
+  "title": {
+    "en": "Trust the Next Honest Step",
+    "zh": "相信下一个诚实的脚步"
+  },
+  "subtitle": {
+    "en": "An original reflection on self-trust, uncertainty, and choosing motion without pretending to know the whole road.",
+    "zh": "一篇原创美文：关于自我信任、不确定性，以及在看不清全程时依然选择前行。"
+  },
+  "tags": [
+    "Self-trust",
+    "Courage",
+    "Decision",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Essays — First Series",
+      "author": "Ralph Waldo Emerson",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2944",
+      "note": {
+        "en": "Public-domain inspiration from Emerson's reflections on self-reliance; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自爱默生关于自立的公开领域思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded confidence. Let uncertainty sound spacious, not frightening, and give each practical verb a clear landing.",
+    "zh": "用踏实的自信朗读。让不确定性听起来有空间而非可怕，并让每个行动动词清楚落地。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Road Revealed by Walking",
+      "zh": "在行走中显现的路"
+    },
+    "intro": {
+      "en": "This original passage explores a quieter form of confidence: trusting yourself enough to take one truthful step before certainty arrives.",
+      "zh": "这篇原创文章探索一种更安静的自信：在确定感到来之前，先相信自己，迈出真实的一步。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Map We Keep Waiting For",
+          "zh": "1. 我们一直等待的地图"
+        },
+        "text": "We often postpone a choice until the whole road becomes visible. We want proof that the work will matter, the move will succeed, or the new voice will be welcomed. But important decisions rarely arrive with such generous lighting. More often, we stand at the edge of what we know with one reliable fact, two reasonable guesses, and a weather system of feeling. Self-trust does not erase this weather. It says: I can listen carefully, choose honestly, and learn from the ground that meets my foot.",
+        "coaching": {
+          "en": "Let the list of desired proofs gather momentum. Slow down for the final three verbs: listen, choose, and learn.",
+          "zh": "让对证明的列举逐渐积蓄力量。最后三个动词 listen、choose、learn 要放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Separate the Signal from the Noise",
+          "zh": "2. 把信号与噪声分开"
+        },
+        "text": "Not every inner voice deserves authority. Fear can imitate wisdom; impatience can dress itself as courage. Before acting, make the room quieter. Name the pressure that belongs to other people. Notice the story invented by embarrassment. Then ask a smaller question: what do I know when I am not performing for an audience? The answer may be modest. I need more information. I have outgrown this promise. I want to try. A modest truth is more useful than a magnificent pose, because it can bear the weight of a real decision.",
+        "coaching": {
+          "en": "Give fear and impatience distinct colors. Read the three modest truths simply, without apology or drama.",
+          "zh": "为 fear 与 impatience 读出不同色彩。三个朴素真相要读得直接，不道歉，也不夸张。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Choose a Reversible Door",
+          "zh": "3. 先选择一扇可以回头的门"
+        },
+        "text": "When certainty is unavailable, design a step that teaches you something. Volunteer for one project before changing careers. Share the draft with three thoughtful readers before abandoning the book. Spend an afternoon in the neighborhood before signing a lease. These are not timid half-decisions. They are intelligent experiments that turn imagination into evidence. Some doors lock behind us, but many do not. Wisdom includes noticing the difference and using reversible choices to approach the irreversible ones with clearer eyes.",
+        "coaching": {
+          "en": "Keep the examples practical and brisk. Stress teaches you something and clearer eyes.",
+          "zh": "几个例子要读得实用而轻快。重读 teaches you something 与 clearer eyes。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Confidence Comes Back Carrying Evidence",
+          "zh": "4. 自信会带着证据回来"
+        },
+        "text": "We imagine confidence as a feeling that must visit before action. Often it arrives afterward, carrying evidence: you made the call; you survived the awkward beginning; you corrected course without collapsing. The next honest step may not reveal your destiny. It may only reveal the next step after that. This is enough. A life is not built by seeing every mile in advance, but by becoming someone who can meet the next mile awake. Trust is less a prediction about the road than a promise about how you will travel.",
+        "coaching": {
+          "en": "Let the evidence after the colon feel earned. Finish the contrast between road and travel with calm conviction.",
+          "zh": "冒号后的证据要读出得来不易的感觉。最后 road 与 travel 的对比要平静而坚定。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "postpone",
+      "meaning": {
+        "en": "To delay an action or event until a later time.",
+        "zh": "推迟；把行动或事件延后。"
+      },
+      "use": {
+        "en": "Do not postpone the conversation while waiting for perfect words.",
+        "zh": "不要为了等待完美措辞而推迟这场谈话。"
+      }
+    },
+    {
+      "term": "reliable",
+      "meaning": {
+        "en": "Able to be trusted or depended on.",
+        "zh": "可靠的；值得信赖或依靠的。"
+      },
+      "use": {
+        "en": "We made the choice using the most reliable evidence available.",
+        "zh": "我们依据现有最可靠的证据作出了选择。"
+      }
+    },
+    {
+      "term": "authority",
+      "meaning": {
+        "en": "The power or right to influence a decision.",
+        "zh": "权威；影响决定的力量或资格。"
+      },
+      "use": {
+        "en": "Fear should not have final authority over your plans.",
+        "zh": "恐惧不该对你的计划拥有最终决定权。"
+      }
+    },
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "Limited in size or ambition, without being unimportant.",
+        "zh": "适度的；规模或目标有限，但并非不重要。"
+      },
+      "use": {
+        "en": "A modest experiment gave us a useful answer.",
+        "zh": "一个适度的小实验给了我们有用的答案。"
+      }
+    },
+    {
+      "term": "reversible",
+      "meaning": {
+        "en": "Able to be changed back to an earlier state.",
+        "zh": "可逆的；可以恢复到先前状态的。"
+      },
+      "use": {
+        "en": "We began with a reversible decision and reviewed it after a month.",
+        "zh": "我们先做了一个可逆的决定，并在一个月后复盘。"
+      }
+    },
+    {
+      "term": "conviction",
+      "meaning": {
+        "en": "A firmly held belief or a strong sense of certainty.",
+        "zh": "坚定信念；强烈而稳固的确信。"
+      },
+      "use": {
+        "en": "She spoke with quiet conviction rather than force.",
+        "zh": "她说话时有安静的坚定，而不是强硬。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Give one reliable fact, two reasonable guesses, and a weather system of feeling three expanding beats.",
+      "zh": "让 one reliable fact、two reasonable guesses、a weather system of feeling 形成逐渐展开的三拍。"
+    },
+    {
+      "en": "Contrast I need more information, I have outgrown this promise, and I want to try without rushing.",
+      "zh": "不急促地读出 I need more information、I have outgrown this promise、I want to try 的对比。"
+    },
+    {
+      "en": "Link meet the next mile awake smoothly while keeping the final consonants clear.",
+      "zh": "流畅连接 meet the next mile awake，同时保持词尾辅音清晰。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a thoughtful friend move without false certainty.",
+      "zh": "跟读时，想象你在帮助一位深思熟虑的朋友，不靠虚假确定感也能前行。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: let uncertainty remain present without allowing it to dominate the voice.",
+        "zh": "第一遍：让不确定性存在，但不要让它主宰声音。"
+      },
+      {
+        "en": "Pass two: make every practical example sound possible and immediate.",
+        "zh": "第二遍：让每个实际例子都听起来可行而切近。"
+      },
+      {
+        "en": "Pass three: build confidence from evidence, not volume.",
+        "zh": "第三遍：用证据而非音量建立自信。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which decision are you postponing because you cannot see the whole road?",
+      "zh": "你正在推迟哪个决定，只因为还看不清整条路？"
+    },
+    {
+      "en": "What reversible step could give you better evidence this week?",
+      "zh": "本周，哪一个可逆的步骤能为你带来更好的证据？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/trust-the-next-honest-step/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/trust-the-next-honest-step/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/trust-the-next-honest-step/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/trust-the-next-honest-step/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/trust-the-next-honest-step/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/trust-the-next-honest-step/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/trust-the-next-honest-step/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/trust-the-next-honest-step/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/trust-the-next-honest-step/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/trust-the-next-honest-step/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/trust-the-next-honest-step/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/trust-the-next-honest-step/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/trust-the-next-honest-step/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/trust-the-next-honest-step/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/trust-the-next-honest-step/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/trust-the-next-honest-step/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/trust-the-next-honest-step/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/trust-the-next-honest-step/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/trust-the-next-honest-step/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/trust-the-next-honest-step/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/trust-the-next-honest-step/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/trust-the-next-honest-step/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/trust-the-next-honest-step/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/trust-the-next-honest-step/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/trust-the-next-honest-step/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/trust-the-next-honest-step/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/trust-the-next-honest-step/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/trust-the-next-honest-step/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/trust-the-next-honest-step/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/trust-the-next-honest-step/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/trust-the-next-honest-step/clips/sources_0.mp3"
+    }
+  }
+}

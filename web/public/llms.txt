@@ -100,7 +100,9 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Give the Work Its Season](https://wordpower-seven.vercel.app/read-aloud/give-the-work-its-season): An original reflection on humane ambition, patient craft, and building a life at a sustainable pace.
 - [Hear the Space Between Notes](https://wordpower-seven.vercel.app/read-aloud/hear-the-space-between-notes): An original reflection on musical attention, silence, and the courage to listen without hurrying.
 - [Hear the Work Beneath the Buzz](https://wordpower-seven.vercel.app/read-aloud/hear-the-work-beneath-the-buzz): An original reflection on cooperation, visible credit, and the quiet intelligence of a working group.
+- [Hold Steady When the Room Shifts](https://wordpower-seven.vercel.app/read-aloud/hold-steady-when-the-room-shifts): An original reflection on leadership, composure, and creating usable calm when plans begin to fail.
 - [Hold the Lantern Low](https://wordpower-seven.vercel.app/read-aloud/hold-the-lantern-low): An original reflection on quiet leadership, shared danger, and making the next step visible.
+- [Imagine the Life Across the Table](https://wordpower-seven.vercel.app/read-aloud/imagine-the-life-across-the-table): An original reflection on moral imagination, incomplete stories, and the discipline of seeing another person whole.
 - [Imagine the Unseen Life](https://wordpower-seven.vercel.app/read-aloud/imagine-the-unseen-life): An original reflection on moral imagination, fair judgment, and the stories hidden behind behavior.
 - [Keep a Chair for Dissent](https://wordpower-seven.vercel.app/read-aloud/keep-a-chair-for-dissent): An original reflection on moral courage, loyal disagreement, and making better decisions together.
 - [Keep a Chair for the Stranger](https://wordpower-seven.vercel.app/read-aloud/keep-a-chair-for-the-stranger): An original reflection on neighborliness, moral imagination, and the quiet architecture of belonging.
@@ -210,6 +212,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Teach Your Eye to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eye-to-stay): An original reflection on drawing, patient attention, and learning to see beyond the label.
 - [Teach Your Eyes to Stay](https://wordpower-seven.vercel.app/read-aloud/teach-your-eyes-to-stay): An original reflection on drawing, patient attention, and the difference between naming a thing and seeing it.
 - [Tell the Friend the Truth](https://wordpower-seven.vercel.app/read-aloud/tell-the-friend-the-truth): An original reflection on loyal friendship, honest counsel, and the courage to remain beside someone.
+- [Trust the Next Honest Step](https://wordpower-seven.vercel.app/read-aloud/trust-the-next-honest-step): An original reflection on self-trust, uncertainty, and choosing motion without pretending to know the whole road.
 - [Trust the Quiet Evidence](https://wordpower-seven.vercel.app/read-aloud/trust-the-quiet-evidence): An original reflection on self-trust, patient practice, and the evidence hidden in ordinary days.
 - [Trust the Voice That Does Not Hurry](https://wordpower-seven.vercel.app/read-aloud/trust-the-voice-that-does-not-hurry): An original reflection on quiet self-trust, second chances, and decisions that can withstand time.
 - [Trust Yourself—and Check the Map](https://wordpower-seven.vercel.app/read-aloud/trust-yourself-and-check-the-map): An original reflection on self-trust that welcomes evidence, correction, and a changing mind.

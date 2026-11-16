@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "hold-steady-when-the-room-shifts",
+  "title": {
+    "en": "Hold Steady When the Room Shifts",
+    "zh": "当局势变化时，稳住自己"
+  },
+  "subtitle": {
+    "en": "An original reflection on leadership, composure, and creating usable calm when plans begin to fail.",
+    "zh": "一篇原创美文：关于领导力、沉着，以及在计划失灵时创造可用的平静。"
+  },
+  "tags": [
+    "Leadership",
+    "Composure",
+    "Courage",
+    "Responsibility"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration from Stoic reflections on judgment, duty, and response; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自斯多葛主义关于判断、责任与回应的公开领域思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with calm authority. Keep the crisis images vivid, but let the voice become clearer rather than louder under pressure.",
+    "zh": "用平静的权威感朗读。危机画面要鲜明，但压力越大，声音应越清晰，而不是越响。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Temperature You Bring",
+      "zh": "你带进房间的温度"
+    },
+    "intro": {
+      "en": "This original passage considers leadership as the ability to make reality more workable when uncertainty enters the room.",
+      "zh": "这篇原创文章把领导力看作一种能力：当不确定性进入房间时，让现实变得更可处理。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Everyone Reads the Leader's Weather",
+          "zh": "1. 每个人都在观察领导者的天气"
+        },
+        "text": "The screen goes dark before the presentation. A supplier misses the deadline. A trusted plan produces the wrong result. In the first seconds, people look toward whoever carries responsibility, not because that person must know everything, but because emotion is contagious. A flinch can become panic; a theatrical confidence can become distrust. Useful leadership begins by making an honest face at reality. This has changed. Here is what we know. Here is what we do not know yet. Calm is not the absence of alarm. It is alarm given a task.",
+        "coaching": {
+          "en": "Make the three failures increasingly tense. Deliver the three honest sentences with clean, level authority.",
+          "zh": "让三个失灵场景的紧张感逐步上升。三句诚实陈述要以清晰、平稳的权威感读出。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Shorten the Horizon",
+          "zh": "2. 缩短时间视野"
+        },
+        "text": "Under pressure, the mind races toward the worst ending and tries to solve the entire future at once. A steady leader shortens the horizon. What must be safe in the next ten minutes? Which decision cannot wait? Who needs accurate information now? The smaller horizon does not deny the larger danger. It gives attention a place to stand. Once the immediate ground is secure, the horizon can widen again: this afternoon, this week, the next quarter. Order returns through sequence, not through pretending that complexity has disappeared.",
+        "coaching": {
+          "en": "Give the urgent questions distinct downward beats. Expand the later time horizons gradually and evenly.",
+          "zh": "几个紧急问题要有清晰向下的节拍。后面的时间范围要逐步、均匀地展开。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Give People a Handle",
+          "zh": "3. 给每个人一个可抓住的把手"
+        },
+        "text": "Vague encouragement is thin shelter. Do not merely say, We will manage. Give each person a handle on the problem. Maya, confirm the backup room. Luis, call the three customers affected. I will decide by noon whether we delay. Specific responsibility converts nervous energy into motion. It also reveals where the plan is weak: a task without an owner, a deadline without evidence, a decision everyone assumes someone else will make. Clarity is a form of care because it frees people from guessing what courage should look like.",
+        "coaching": {
+          "en": "Read the assignments as concise, respectful instructions. Stress converts nervous energy into motion.",
+          "zh": "把任务分配读得简洁而尊重。重读 converts nervous energy into motion。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Make the Debrief Safe Enough for Truth",
+          "zh": "4. 让复盘安全到足以容纳真话"
+        },
+        "text": "After the room settles, another test begins. Weak leadership searches for a culprit or a flattering version of events. Strong leadership asks what the system made likely. Which warning arrived but was ignored? Where did luck protect us? What should become easier next time? Responsibility is not diluted by these questions; it becomes precise. People speak honestly when truth will be used for repair rather than theater. The leader's final duty is not to appear untouched by the storm. It is to leave the vessel more seaworthy before the next one.",
+        "coaching": {
+          "en": "Keep the debrief questions curious and exact. Finish vessel and seaworthy with a low, durable tone.",
+          "zh": "复盘问题要读得好奇而精准。结尾 vessel 与 seaworthy 要用低沉、坚实的语气收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "contagious",
+      "meaning": {
+        "en": "Able to spread quickly from one person to another.",
+        "zh": "有传染性的；能迅速从一个人传播给另一个人。"
+      },
+      "use": {
+        "en": "Her calm focus was contagious during the emergency.",
+        "zh": "紧急情况下，她平静的专注感染了大家。"
+      }
+    },
+    {
+      "term": "theatrical",
+      "meaning": {
+        "en": "Exaggerated or performed for dramatic effect.",
+        "zh": "戏剧化的；为了戏剧效果而夸张表演的。"
+      },
+      "use": {
+        "en": "The team needed honesty, not theatrical confidence.",
+        "zh": "团队需要诚实，而不是戏剧化的自信。"
+      }
+    },
+    {
+      "term": "horizon",
+      "meaning": {
+        "en": "The limit of what can be seen or considered at one time.",
+        "zh": "地平线；也指某一时刻能看见或考虑到的范围。"
+      },
+      "use": {
+        "en": "We shortened the planning horizon to the next twenty-four hours.",
+        "zh": "我们把规划范围缩短到了接下来的二十四小时。"
+      }
+    },
+    {
+      "term": "sequence",
+      "meaning": {
+        "en": "A particular order in which actions or events occur.",
+        "zh": "顺序；行动或事件发生的特定次序。"
+      },
+      "use": {
+        "en": "A clear sequence made the complex repair manageable.",
+        "zh": "清晰的步骤顺序让复杂维修变得可处理。"
+      }
+    },
+    {
+      "term": "culprit",
+      "meaning": {
+        "en": "A person or thing responsible for a problem.",
+        "zh": "责任者；造成问题的人或事物。"
+      },
+      "use": {
+        "en": "The review searched for causes instead of a convenient culprit.",
+        "zh": "复盘寻找的是原因，而不是一个方便归罪的对象。"
+      }
+    },
+    {
+      "term": "seaworthy",
+      "meaning": {
+        "en": "Strong and well prepared enough to travel safely at sea.",
+        "zh": "适航的；足够坚固、准备充分，可以安全航行的。"
+      },
+      "use": {
+        "en": "The repairs made the vessel seaworthy again.",
+        "zh": "这些维修让船只重新具备了适航能力。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Contrast This has changed, Here is what we know, and Here is what we do not know yet with level stress.",
+      "zh": "用平稳重音对比 This has changed、Here is what we know、Here is what we do not know yet。"
+    },
+    {
+      "en": "Give next ten minutes, this afternoon, this week, and the next quarter a steadily widening rhythm.",
+      "zh": "让 next ten minutes、this afternoon、this week、the next quarter 形成逐渐扩展的节奏。"
+    },
+    {
+      "en": "Keep responsibility converts nervous energy into motion connected and firm.",
+      "zh": "把 responsibility converts nervous energy into motion 读得连贯而坚定。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if a team is borrowing steadiness from your voice during a real disruption.",
+      "zh": "跟读时，想象一支团队正在真实的突发状况中，从你的声音里借来稳定。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: let urgency sharpen the diction without accelerating the pace.",
+        "zh": "第一遍：让紧迫感使咬字更清晰，但不要加快语速。"
+      },
+      {
+        "en": "Pass two: make every question organize attention toward action.",
+        "zh": "第二遍：让每个问题都把注意力组织到行动上。"
+      },
+      {
+        "en": "Pass three: end with responsibility that sounds durable rather than heroic.",
+        "zh": "第三遍：以坚实而非英雄化的责任感收尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What emotional weather do you bring when a shared plan fails?",
+      "zh": "当共同计划失败时，你会带来怎样的情绪天气？"
+    },
+    {
+      "en": "Which current problem needs a shorter horizon and a clearer owner?",
+      "zh": "你当前的哪个问题，需要更短的时间视野和更明确的负责人？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/hold-steady-when-the-room-shifts/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/hold-steady-when-the-room-shifts/clips/sources_0.mp3"
+    }
+  }
+}
