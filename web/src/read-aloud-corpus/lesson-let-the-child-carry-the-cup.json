@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "let-the-child-carry-the-cup",
+  "title": {
+    "en": "Let the Child Carry the Cup",
+    "zh": "让孩子自己端那只杯子"
+  },
+  "subtitle": {
+    "en": "An original reflection on patience, useful risk, and the dignity of learning by doing.",
+    "zh": "一篇原创美文：关于耐心、有益的风险，以及在亲手实践中学习的尊严。"
+  },
+  "tags": [
+    "Parenting",
+    "Patience",
+    "Independence",
+    "Learning"
+  ],
+  "sources": [
+    {
+      "title": "The Montessori Method",
+      "author": "Maria Montessori",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/39863",
+      "note": {
+        "en": "Public-domain inspiration from Montessori's attention to purposeful independence; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自蒙台梭利对有目的的独立练习的公开领域论述；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with affectionate patience. Let concern be audible, but allow trust to become the stronger note.",
+    "zh": "用温柔而耐心的语气朗读。让关切可以被听见，但最终让信任成为更强的主调。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Small Journey Across the Kitchen",
+      "zh": "穿过厨房的一小段旅程"
+    },
+    "intro": {
+      "en": "This passage explores the quiet discipline of helping a child without taking every difficult thing away.",
+      "zh": "这篇文章探讨一种安静的分寸：帮助孩子，却不替他们拿走每一件困难的事。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Hand That Reaches First",
+          "zh": "1. 最先伸出的那只手"
+        },
+        "text": "A child lifts a cup with both hands and begins the long journey from the counter to the table. An adult sees the tilted rim, the uncertain steps, the pale line of water trembling near the edge. The quickest kindness seems obvious: take the cup, prevent the spill, keep the morning moving. Yet speed can disguise another message. It can say, without a word, that difficulty belongs to the capable and that the child is still only a spectator.",
+        "coaching": {
+          "en": "Make the kitchen scene vivid and unhurried. Let the final sentence land gently, without accusation.",
+          "zh": "把厨房里的画面读得清晰而从容。最后一句要轻轻落下，不要带责备。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Choose a Useful Risk",
+          "zh": "2. 选择有益的风险"
+        },
+        "text": "Trust does not mean ignoring danger. We move the boiling pan, wipe the slippery floor, and choose a cup that small fingers can hold. Then we step back by half a pace. A useful risk is not a careless one; it is a challenge shaped to fit the learner. The possible loss is a little water and a little time. The possible gain is coordination, judgment, and the private discovery: my hands can learn what they do not yet know.",
+        "coaching": {
+          "en": "Give the safety actions a practical rhythm. Warm the voice on my hands can learn, as if the discovery is happening now.",
+          "zh": "几个安全动作要读出务实的节奏。读到 my hands can learn 时让声音变暖，像发现正在此刻发生。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Do Not Hurry the Repair",
+          "zh": "3. 别急着替他收拾"
+        },
+        "text": "Sometimes the water spills. The child freezes and looks toward the adult, searching the face for a verdict. That moment teaches more than the accident. A sharp sigh can turn a small mistake into shame; a calm cloth can turn it into sequence. First set down the cup. Then fetch the towel. Press, wipe, rinse, and try again. Repair is not the opposite of success. It is one of the ordinary forms that competence takes while it is growing.",
+        "coaching": {
+          "en": "Pause after searching the face for a verdict. Read the repair sequence with calm, reassuring precision.",
+          "zh": "在 searching the face for a verdict 后停顿。清晰、安稳地读出收拾的步骤。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Measure What Cannot Be Seen",
+          "zh": "4. 衡量那些看不见的成长"
+        },
+        "text": "By evening, no one may remember whether the table stayed dry. But the child may remember being trusted with something real. Independence rarely arrives as a speech or a sudden transformation. It gathers through small responsibilities that are neither staged nor praised too loudly: buttoning a coat, carrying a message, pouring water for another person. The adult's work is subtle. We make the task possible, remain near enough to help, and resist the urge to become the hero of someone else's learning.",
+        "coaching": {
+          "en": "Let the examples feel modest and real. Give the final clause quiet conviction, emphasizing someone else's learning.",
+          "zh": "让几个例子显得朴素真实。最后一句用安静而坚定的语气，重读 someone else's learning。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "tilted",
+      "meaning": {
+        "en": "Leaning to one side rather than level.",
+        "zh": "倾斜的；没有保持水平的。"
+      },
+      "use": {
+        "en": "She steadied the tilted tray.",
+        "zh": "她扶稳了倾斜的托盘。"
+      }
+    },
+    {
+      "term": "spectator",
+      "meaning": {
+        "en": "Someone who watches instead of taking part.",
+        "zh": "旁观者；观看而不参与的人。"
+      },
+      "use": {
+        "en": "Let the learner participate, not remain a spectator.",
+        "zh": "让学习者参与，而不是一直做旁观者。"
+      }
+    },
+    {
+      "term": "careless",
+      "meaning": {
+        "en": "Not giving enough attention to safety or detail.",
+        "zh": "粗心的；没有充分留意安全或细节的。"
+      },
+      "use": {
+        "en": "Freedom is different from careless permission.",
+        "zh": "自由不同于粗心的放任。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A firm judgment about what has happened.",
+        "zh": "判断；对已经发生之事作出的明确结论。"
+      },
+      "use": {
+        "en": "His expression seemed to ask for a verdict.",
+        "zh": "他的表情似乎在等待一个判断。"
+      }
+    },
+    {
+      "term": "competence",
+      "meaning": {
+        "en": "The ability to do something effectively.",
+        "zh": "胜任能力；有效完成某事的能力。"
+      },
+      "use": {
+        "en": "Competence grows through repeated practice.",
+        "zh": "胜任能力在反复练习中成长。"
+      }
+    },
+    {
+      "term": "resist the urge",
+      "meaning": {
+        "en": "Choose not to act on a strong immediate impulse.",
+        "zh": "克制冲动；选择不立即按强烈冲动行事。"
+      },
+      "use": {
+        "en": "I resisted the urge to finish the task for her.",
+        "zh": "我克制住了替她完成任务的冲动。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link small journey across the kitchen smoothly, keeping the stressed words clear.",
+      "zh": "流畅连读 small journey across the kitchen，同时保持重读词清晰。"
+    },
+    {
+      "en": "Contrast take the cup with step back by half a pace using a firmer stress on the key verbs.",
+      "zh": "对比 take the cup 与 step back by half a pace，并重读关键动词。"
+    },
+    {
+      "en": "Build a steady four-beat rhythm through Press, wipe, rinse, and try again.",
+      "zh": "把 Press, wipe, rinse, and try again 读成稳定的四拍节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as a thoughtful parent explaining why patience is an active form of care.",
+      "zh": "跟读时，想象一位审慎的家长正在解释：耐心是一种主动的关爱。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: slow down for every physical detail in the kitchen scene.",
+        "zh": "第一遍：遇到厨房里的每个动作细节都放慢一点。"
+      },
+      {
+        "en": "Pass two: make the contrast between protection and trust clear but tender.",
+        "zh": "第二遍：清楚而温柔地读出保护与信任的对比。"
+      },
+      {
+        "en": "Pass three: deliver the final paragraph as a promise to remain present without taking over.",
+        "zh": "第三遍：把最后一段读成一种承诺——在场陪伴，却不包办。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where could you replace immediate rescue with a safer, well-shaped challenge?",
+      "zh": "在哪件事上，你可以不立刻代劳，而是提供一个更安全、设计得当的挑战？"
+    },
+    {
+      "en": "What kind of response helps a mistake become a repair rather than a shame?",
+      "zh": "怎样的回应能让一次错误变成修复的机会，而不是羞耻？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-child-carry-the-cup/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-the-child-carry-the-cup/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-child-carry-the-cup/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-the-child-carry-the-cup/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-child-carry-the-cup/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/let-the-child-carry-the-cup/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-child-carry-the-cup/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-child-carry-the-cup/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-child-carry-the-cup/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-child-carry-the-cup/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-child-carry-the-cup/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-child-carry-the-cup/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-child-carry-the-cup/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-child-carry-the-cup/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-child-carry-the-cup/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-child-carry-the-cup/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-child-carry-the-cup/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-child-carry-the-cup/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-child-carry-the-cup/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-child-carry-the-cup/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-child-carry-the-cup/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-child-carry-the-cup/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-child-carry-the-cup/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-child-carry-the-cup/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-child-carry-the-cup/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-child-carry-the-cup/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-child-carry-the-cup/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-child-carry-the-cup/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-child-carry-the-cup/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-child-carry-the-cup/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-child-carry-the-cup/clips/sources_0.mp3"
+    }
+  }
+}

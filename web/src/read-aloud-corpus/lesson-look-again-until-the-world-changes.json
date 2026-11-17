@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "look-again-until-the-world-changes",
+  "title": {
+    "en": "Look Again Until the World Changes",
+    "zh": "再看一眼，直到世界显出变化"
+  },
+  "subtitle": {
+    "en": "An original reflection on drawing, attention, and learning to see beyond familiar names.",
+    "zh": "一篇原创美文：关于绘画、专注，以及如何越过熟悉的名称重新看见。"
+  },
+  "tags": [
+    "Art",
+    "Observation",
+    "Attention",
+    "Practice"
+  ],
+  "sources": [
+    {
+      "title": "The Elements of Drawing",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30325",
+      "note": {
+        "en": "Public-domain inspiration from Ruskin's practice of disciplined looking; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自罗斯金关于训练观察力的公开领域著作；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with bright curiosity. Allow each concrete image to sharpen, as though your eyes are adjusting to new light.",
+    "zh": "用明亮的好奇心朗读。让每个具体画面逐渐清晰，仿佛双眼正在适应新的光线。"
+  },
+  "passage": {
+    "title": {
+      "en": "Before the Pencil Moves",
+      "zh": "铅笔落下之前"
+    },
+    "intro": {
+      "en": "This passage considers why the deepest part of drawing may happen before any mark appears on the page.",
+      "zh": "这篇文章思考：绘画最深的功课，为何可能发生在纸上出现任何线条之前。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Leaf Is Not the Word Leaf",
+          "zh": "1. 叶子不是“叶子”这个词"
+        },
+        "text": "Place a leaf on the table and the mind names it at once. Leaf: green, pointed, ordinary. The word is useful, but it closes the case too quickly. Look again. One half catches the window and turns almost silver. The other holds a green so deep it approaches blue. A vein divides, narrows, disappears, then returns as a faint ridge. The edge is not a smooth border but a series of tiny decisions. The object has not changed. Attention has made it larger.",
+        "coaching": {
+          "en": "Begin briskly with the quick labels, then slow down as the leaf becomes particular. Give the last sentence spacious wonder.",
+          "zh": "开头几个快速标签要读得利落，随后在叶子显出细节时放慢。最后一句要读出开阔的惊奇。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Draw the Relationship",
+          "zh": "2. 画出关系"
+        },
+        "text": "A beginner often asks how to draw an eye, a hand, or a tree. The more useful question is where this line travels in relation to that one. Is the shadow wider than the light beside it? Does the branch rise at the same angle as the roof, or only seem to? Drawing replaces symbols with relationships: length against width, curve against tension, darkness against the paper left untouched. Accuracy grows not from naming each part, but from comparing one visible fact with another.",
+        "coaching": {
+          "en": "Shape the questions with genuine inquiry. Keep the paired relationships balanced and precise.",
+          "zh": "几句提问要读出真正的探究感。成对的关系要读得均衡而准确。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let the Error Instruct You",
+          "zh": "3. 让错误来教你"
+        },
+        "text": "The first line will often be wrong. It may be too certain, too dark, too eager to describe what the mind expected. Do not punish it, and do not protect it. Place a lighter line beside it and test the distance again. The page becomes a record of correction, not a performance of certainty. In time, the hand grows more obedient to the eye. Even then, the artist keeps revising, because seeing is not a command delivered once. It is a conversation renewed by every mark.",
+        "coaching": {
+          "en": "Use a forgiving tone on do not punish it. Let record of correction sound stronger than performance of certainty.",
+          "zh": "读 do not punish it 时语气要宽容。让 record of correction 比 performance of certainty 更有力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return to the Ordinary World",
+          "zh": "4. 回到日常世界"
+        },
+        "text": "When the session ends, the skill does not remain in the sketchbook. The street offers new proportions. A tired face reveals the effort behind its composure. Steam above a bowl twists through several kinds of white. To draw is to practice receiving more than the usual summary. We may never become accomplished artists, yet we can become less hurried witnesses. The reward is not merely a better picture. It is a world released, detail by detail, from the prison of what we thought we had already seen.",
+        "coaching": {
+          "en": "Let the street, face, and steam appear one by one. Finish with a measured release, not a dramatic flourish.",
+          "zh": "让街道、面孔和蒸汽依次出现。结尾要有从容的释放感，不要过度戏剧化。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "ridge",
+      "meaning": {
+        "en": "A long, narrow raised line on a surface.",
+        "zh": "脊；表面上细长凸起的线。"
+      },
+      "use": {
+        "en": "A faint ridge runs through the leaf.",
+        "zh": "一道浅浅的脊线穿过叶片。"
+      }
+    },
+    {
+      "term": "particular",
+      "meaning": {
+        "en": "Distinct and specific rather than general.",
+        "zh": "具体而独特的；并非笼统的。"
+      },
+      "use": {
+        "en": "Careful attention makes the scene particular.",
+        "zh": "细致的观察让场景变得具体独特。"
+      }
+    },
+    {
+      "term": "in relation to",
+      "meaning": {
+        "en": "Compared or connected with something else.",
+        "zh": "相对于；与另一事物比较或联系起来。"
+      },
+      "use": {
+        "en": "Notice the door's height in relation to the window.",
+        "zh": "留意门相对于窗户的高度。"
+      }
+    },
+    {
+      "term": "untouched",
+      "meaning": {
+        "en": "Left without being changed or marked.",
+        "zh": "未触碰的；没有被改变或留下痕迹的。"
+      },
+      "use": {
+        "en": "She left part of the paper untouched.",
+        "zh": "她让一部分纸面保持空白。"
+      }
+    },
+    {
+      "term": "composure",
+      "meaning": {
+        "en": "A calm and controlled appearance.",
+        "zh": "沉着；平静而自持的状态。"
+      },
+      "use": {
+        "en": "He recovered his composure before speaking.",
+        "zh": "他恢复镇定后才开口。"
+      }
+    },
+    {
+      "term": "accomplished",
+      "meaning": {
+        "en": "Highly skilled through training and practice.",
+        "zh": "技艺娴熟的；通过训练与实践达到高水平的。"
+      },
+      "use": {
+        "en": "She is an accomplished illustrator.",
+        "zh": "她是一位技艺娴熟的插画家。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the repeated l sounds light and clear in A leaf is not the word leaf.",
+      "zh": "在 A leaf is not the word leaf 中轻快清晰地读出重复的 l 音。"
+    },
+    {
+      "en": "Give equal weight to length against width, curve against tension, darkness against the paper left untouched.",
+      "zh": "均衡处理 length against width、curve against tension、darkness against the paper left untouched。"
+    },
+    {
+      "en": "Let less hurried witnesses flow as one thought, with the main stress on witnesses.",
+      "zh": "把 less hurried witnesses 连成一个意群，主要重音落在 witnesses。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as an artist inviting a friend to notice more, never showing off and never rushing the image.",
+      "zh": "跟读时，想象一位艺术家邀请朋友看得更多：不炫耀，也不催促画面。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: pause briefly after each visual discovery.",
+        "zh": "第一遍：每出现一个视觉发现后，稍作停顿。"
+      },
+      {
+        "en": "Pass two: make every comparison audible through balanced stress.",
+        "zh": "第二遍：用均衡重音让每一组比较都清楚可辨。"
+      },
+      {
+        "en": "Pass three: carry the wonder of the leaf into the final view of the street.",
+        "zh": "第三遍：把观察叶片时的惊奇一直带到结尾的街景。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar object becomes surprising when you describe five exact details?",
+      "zh": "哪件熟悉的物品，在你准确描述五个细节后会变得令人惊奇？"
+    },
+    {
+      "en": "Where could comparison help you see more clearly than a quick label?",
+      "zh": "在哪种情境里，比较会比快速贴标签更能帮你看清？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/look-again-until-the-world-changes/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/look-again-until-the-world-changes/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/look-again-until-the-world-changes/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/look-again-until-the-world-changes/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/look-again-until-the-world-changes/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/look-again-until-the-world-changes/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/look-again-until-the-world-changes/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/look-again-until-the-world-changes/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/look-again-until-the-world-changes/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/look-again-until-the-world-changes/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/look-again-until-the-world-changes/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/look-again-until-the-world-changes/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/look-again-until-the-world-changes/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/look-again-until-the-world-changes/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/look-again-until-the-world-changes/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/look-again-until-the-world-changes/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/look-again-until-the-world-changes/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/look-again-until-the-world-changes/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/look-again-until-the-world-changes/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/look-again-until-the-world-changes/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/look-again-until-the-world-changes/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/look-again-until-the-world-changes/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/look-again-until-the-world-changes/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/look-again-until-the-world-changes/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/look-again-until-the-world-changes/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/look-again-until-the-world-changes/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/look-again-until-the-world-changes/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/look-again-until-the-world-changes/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/look-again-until-the-world-changes/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/look-again-until-the-world-changes/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/look-again-until-the-world-changes/clips/sources_0.mp3"
+    }
+  }
+}

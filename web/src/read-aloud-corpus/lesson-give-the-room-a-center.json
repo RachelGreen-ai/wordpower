@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "give-the-room-a-center",
+  "title": {
+    "en": "Give the Room a Center",
+    "zh": "给房间一个中心"
+  },
+  "subtitle": {
+    "en": "An original reflection on leadership, steady speech, and restoring purpose when a group loses its way.",
+    "zh": "一篇原创美文：关于领导力、沉稳表达，以及在团队迷失时重新找回共同目的。"
+  },
+  "tags": [
+    "Leadership",
+    "Clarity",
+    "Teamwork",
+    "Calm"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Public-domain inspiration from Stoic attention to conduct, duty, and what lies within our control; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自斯多葛哲学关于行为、责任与可控之事的公开领域思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded authority. Keep the voice low enough to invite attention and clear enough to organize it.",
+    "zh": "用沉稳而有分量的语气朗读。声音不必高，却要足以吸引注意；表达要清楚，能够整理注意。"
+  },
+  "passage": {
+    "title": {
+      "en": "When Everyone Is Speaking at Once",
+      "zh": "当所有人同时说话"
+    },
+    "intro": {
+      "en": "This passage asks what a leader can offer when urgency has filled a room but direction has disappeared.",
+      "zh": "这篇文章追问：当房间里充满紧迫感，却失去方向时，领导者能带来什么。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Noise Has Its Own Gravity",
+          "zh": "1. 噪声有自己的引力"
+        },
+        "text": "A difficult meeting can lose its shape in minutes. One person defends the past, another predicts disaster, and a third answers a question no one has finished asking. Each voice may contain something useful, yet urgency pulls the discussion outward. Soon the room is orbiting ten problems at once. A leader may be tempted to speak louder than the confusion. Volume, however, gives noise another competitor. What the room needs first is not a stronger voice, but a center.",
+        "coaching": {
+          "en": "Let the opening accelerate as the meeting scatters. Slow down and lower your pitch on what the room needs first.",
+          "zh": "随着会议变得散乱，开头逐渐加快。读到 what the room needs first 时放慢并降低音高。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Name the Work in One Sentence",
+          "zh": "2. 用一句话说清要做的事"
+        },
+        "text": "The center is often a sentence simple enough to survive pressure: We need to decide which promise we can still keep by Friday. Such a sentence does not solve the problem. It gives every contribution a place to stand. Relevant facts move closer. Old grievances can be acknowledged and parked. Attractive side questions wait their turn. The sentence is not a slogan; it is a working boundary. By naming the decision, the leader returns choice to a group that had begun to feel trapped by motion.",
+        "coaching": {
+          "en": "Deliver the sample sentence slowly and concretely. Stress working boundary and returns choice without sounding grand.",
+          "zh": "示例句要读得缓慢而具体。重读 working boundary 与 returns choice，但不要显得夸张。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Lower the Temperature, Keep the Truth",
+          "zh": "3. 降低温度，保留真相"
+        },
+        "text": "Calm leadership is sometimes mistaken for making everything pleasant. It is not. The budget may be short, the deadline unreasonable, or trust genuinely damaged. A steady voice does not perfume these facts. It separates heat from information. Instead of You never listen, it asks, Which concern has not yet been answered? Instead of This plan is impossible, it asks, Which condition would fail first? Precision gives strong feeling a useful task. People do not have to become emotionless; they need language sturdy enough to carry emotion without spilling it across the room.",
+        "coaching": {
+          "en": "Keep the hard facts direct. Make each revised question sound curious, capable, and immediately useful.",
+          "zh": "几项严峻事实要读得直接。每个重新表述的问题都要显得好奇、有能力，而且立刻可用。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. End with an Honest Next Step",
+          "zh": "4. 以诚实的下一步收尾"
+        },
+        "text": "A meeting does not need to end with perfect agreement. It needs an honest account of what now happens: who will act, what remains uncertain, and when the group will look again. This closing is modest, but it restores the link between speech and consequence. Leadership is not the art of appearing untouched by disorder. It is the practice of lending order without pretending to own every answer. Give the room a center, invite the truth toward it, and leave each person knowing where the next responsible step begins.",
+        "coaching": {
+          "en": "Give who, what, and when equal weight. Let the final sentence sound like an invitation that also carries responsibility.",
+          "zh": "让 who、what、when 获得同等分量。最后一句既要像邀请，也要带着责任感。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "orbit",
+      "meaning": {
+        "en": "To move repeatedly around a central point or subject.",
+        "zh": "环绕；反复围绕某个中心或话题运转。"
+      },
+      "use": {
+        "en": "The conversation kept orbiting the same complaint.",
+        "zh": "谈话一直围绕同一个抱怨打转。"
+      }
+    },
+    {
+      "term": "grievance",
+      "meaning": {
+        "en": "A complaint about something believed to be unfair.",
+        "zh": "不满；对不公平之事的抱怨。"
+      },
+      "use": {
+        "en": "We acknowledged the grievance before returning to the decision.",
+        "zh": "我们先承认了这份不满，再回到要做的决定。"
+      }
+    },
+    {
+      "term": "working boundary",
+      "meaning": {
+        "en": "A practical limit that keeps a task focused.",
+        "zh": "工作边界；让任务保持聚焦的实际范围。"
+      },
+      "use": {
+        "en": "The deadline gave us a useful working boundary.",
+        "zh": "截止日期给了我们一个有用的工作边界。"
+      }
+    },
+    {
+      "term": "acknowledge",
+      "meaning": {
+        "en": "To recognize that something is true or important.",
+        "zh": "承认；确认某事真实或重要。"
+      },
+      "use": {
+        "en": "She acknowledged the risk without exaggerating it.",
+        "zh": "她承认了风险，却没有夸大。"
+      }
+    },
+    {
+      "term": "sturdy",
+      "meaning": {
+        "en": "Strong and dependable enough for pressure.",
+        "zh": "坚实可靠的；足以承受压力的。"
+      },
+      "use": {
+        "en": "We need a sturdy plan for a difficult week.",
+        "zh": "面对艰难的一周，我们需要一个可靠的计划。"
+      }
+    },
+    {
+      "term": "consequence",
+      "meaning": {
+        "en": "A result that follows from an action or decision.",
+        "zh": "后果；行动或决定带来的结果。"
+      },
+      "use": {
+        "en": "Clear ownership connects the decision to its consequence.",
+        "zh": "清晰的责任归属把决定与后果连接起来。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Build momentum through one person, another, and a third, then pause before the conclusion.",
+      "zh": "读 one person、another、a third 时逐步推进，然后在结论前停顿。"
+    },
+    {
+      "en": "Use a clear falling tone for We need to decide which promise we can still keep by Friday.",
+      "zh": "We need to decide which promise we can still keep by Friday 使用清晰的降调。"
+    },
+    {
+      "en": "Keep who will act, what remains uncertain, and when the group will look again in three balanced units.",
+      "zh": "把 who will act、what remains uncertain、when the group will look again 读成三个均衡意群。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as a leader who can acknowledge pressure without borrowing its panic.",
+      "zh": "跟读时，想象一位领导者：承认压力，却不被恐慌带走。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: let the scattered meeting accelerate, then create an audible center with silence.",
+        "zh": "第一遍：让散乱的会议逐渐加速，再用停顿制造一个听得见的中心。"
+      },
+      {
+        "en": "Pass two: ask the revised questions with sincere curiosity rather than hidden criticism.",
+        "zh": "第二遍：真诚好奇地提出改写后的问题，不要夹带批评。"
+      },
+      {
+        "en": "Pass three: finish with calm authority and a precise sense of the next step.",
+        "zh": "第三遍：以沉稳的权威感收尾，并清楚指向下一步。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What one sentence could give your next difficult conversation a center?",
+      "zh": "哪一句话能为你下一次困难对话提供一个中心？"
+    },
+    {
+      "en": "How could you translate one heated statement into a question that reveals useful information?",
+      "zh": "你可以怎样把一句情绪激烈的话，转化成一个能带来有效信息的问题？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/give-the-room-a-center/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/give-the-room-a-center/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/give-the-room-a-center/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/give-the-room-a-center/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/give-the-room-a-center/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/give-the-room-a-center/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/give-the-room-a-center/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/give-the-room-a-center/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/give-the-room-a-center/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/give-the-room-a-center/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/give-the-room-a-center/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/give-the-room-a-center/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/give-the-room-a-center/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/give-the-room-a-center/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/give-the-room-a-center/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/give-the-room-a-center/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/give-the-room-a-center/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/give-the-room-a-center/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/give-the-room-a-center/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/give-the-room-a-center/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/give-the-room-a-center/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/give-the-room-a-center/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/give-the-room-a-center/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/give-the-room-a-center/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/give-the-room-a-center/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/give-the-room-a-center/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/give-the-room-a-center/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/give-the-room-a-center/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/give-the-room-a-center/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/give-the-room-a-center/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/give-the-room-a-center/clips/sources_0.mp3"
+    }
+  }
+}
