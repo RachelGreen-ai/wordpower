@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "leave-a-chair-for-another-story",
+  "title": {
+    "en": "Leave a Chair for Another Story",
+    "zh": "为另一种故事留一把椅子"
+  },
+  "subtitle": {
+    "en": "An original reflection on judgment, moral imagination, and the stories we do not yet know.",
+    "zh": "一篇原创美文：关于判断、道德想象，以及我们尚未知晓的故事。"
+  },
+  "tags": [
+    "Moral imagination",
+    "Communication",
+    "Empathy",
+    "Judgment"
+  ],
+  "sources": [
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/145",
+      "note": {
+        "en": "Public-domain inspiration for attending to the hidden complexity of ordinary lives; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中对普通人隐秘复杂性的关注；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with humane curiosity. Avoid a moralizing tone; let each scene revise the first impression naturally.",
+    "zh": "带着有人情味的好奇心朗读。避免说教，让每个场景自然修正第一印象。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Empty Chair",
+      "zh": "那把空椅子"
+    },
+    "intro": {
+      "en": "This passage explores a simple conversational habit: making room for an account that has not yet entered the room.",
+      "zh": "这篇文章探讨一个简单的谈话习惯：为尚未进入房间的叙述留出位置。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Story Arrives First",
+          "zh": "1. 故事总是先到"
+        },
+        "text": "A colleague misses a morning meeting, and a story reaches the room before she does. She is careless. She does not respect our time. The story is efficient: it gathers annoyance, explains the empty chair, and asks for no further evidence. By noon, the colleague arrives with rain on her coat and an apology already prepared. Perhaps the train stopped. Perhaps a child was ill. Perhaps she simply made a poor choice. The point is not that every absence hides a noble reason. The point is that our first account often promotes itself from possibility to fact without permission.",
+        "coaching": {
+          "en": "Let the early judgments sound quick and plausible. Slow down at The point is not to make the distinction fair.",
+          "zh": "开头的判断要读得迅速且似乎合理。读到 The point is not 时放慢，公平地讲清区别。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Set One Chair Aside",
+          "zh": "2. 留出一把椅子"
+        },
+        "text": "Imagine placing one empty chair beside every confident explanation. It belongs to another story: not necessarily a kinder story, but a fuller one. The chair prevents certainty from filling all the available space. It lets us say, This delay caused real trouble, and I do not yet know what caused the delay. Both statements can stand together. Moral imagination is not the refusal to judge. It is the refusal to disguise a partial view as a complete one. We can name the consequence while keeping curiosity alive.",
+        "coaching": {
+          "en": "Give another story gentle emphasis. Balance the two statements so neither cancels the other.",
+          "zh": "轻轻强调 another story。两个陈述要保持平衡，不让任何一个抵消另一个。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask Without Invading",
+          "zh": "3. 询问，但不侵入"
+        },
+        "text": "Curiosity needs manners. No one owes us the private history behind every difficult day. Instead of demanding an explanation, offer a doorway: The delay affected the handoff. Is there context I should understand, or a practical change we can make? The other person may enter the conversation or keep part of the story closed. Respect survives either answer. This language is useful because it protects two truths at once: actions have effects, and people are larger than the effects we can see. Accountability becomes clearer when it is not mixed with invented character.",
+        "coaching": {
+          "en": "Read the sample question with directness and room for refusal. Stress two truths at once.",
+          "zh": "示例问题要直接，同时给对方拒绝的空间。重读 two truths at once。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Let Complexity Improve the Next Act",
+          "zh": "4. 让复杂性改善下一步"
+        },
+        "text": "A fuller story should not leave us floating in endless understanding. It should improve the next act. Perhaps the meeting time changes. Perhaps a boundary becomes firmer. Perhaps an apology is accepted and trust is rebuilt slowly. The empty chair is not where decisions go to disappear. It is where decisions become proportionate to reality. Before you finish the sentence that begins, She is the kind of person who, look at the chair. Leave enough room for evidence, consequence, mercy, and choice. Then speak—not with less courage, but with fewer inventions.",
+        "coaching": {
+          "en": "Build momentum through the practical options. Pause after look at the chair, then finish with quiet courage.",
+          "zh": "几个实际选择要逐步推进。look at the chair 之后停顿，再以安静的勇气收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "plausible",
+      "meaning": {
+        "en": "Seeming reasonable or likely to be true.",
+        "zh": "看似合理或可能真实的。"
+      },
+      "use": {
+        "en": "His first explanation sounded plausible.",
+        "zh": "他的第一个解释听起来似乎合理。"
+      }
+    },
+    {
+      "term": "promote",
+      "meaning": {
+        "en": "To raise something to a higher status or level.",
+        "zh": "提升；把某事物提高到更高地位。"
+      },
+      "use": {
+        "en": "Do not promote a guess into a fact.",
+        "zh": "不要把猜测提升为事实。"
+      }
+    },
+    {
+      "term": "partial",
+      "meaning": {
+        "en": "Incomplete because only part is known or shown.",
+        "zh": "局部的；因只知晓或展示一部分而不完整。"
+      },
+      "use": {
+        "en": "We were working from a partial view.",
+        "zh": "我们依据的是局部视角。"
+      }
+    },
+    {
+      "term": "invade",
+      "meaning": {
+        "en": "To enter another person's space or privacy without permission.",
+        "zh": "侵入；未经允许进入他人的空间或隐私。"
+      },
+      "use": {
+        "en": "A useful question need not invade her privacy.",
+        "zh": "有用的问题不必侵犯她的隐私。"
+      }
+    },
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "Responsibility for actions and their effects.",
+        "zh": "责任担当；对行动及其影响负责。"
+      },
+      "use": {
+        "en": "Clear expectations support accountability.",
+        "zh": "清晰的期待有助于建立责任担当。"
+      }
+    },
+    {
+      "term": "proportionate",
+      "meaning": {
+        "en": "Fairly matched in size or degree to the situation.",
+        "zh": "相称的；在程度上与情境公平匹配。"
+      },
+      "use": {
+        "en": "The response should be proportionate to the harm.",
+        "zh": "回应应当与伤害程度相称。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use clipped, decisive rhythm for She is careless and She does not respect our time.",
+      "zh": "She is careless 与 She does not respect our time 要用短促果断的节奏。"
+    },
+    {
+      "en": "Balance actions have effects with people are larger than the effects we can see.",
+      "zh": "平衡读出 actions have effects 与 people are larger than the effects we can see。"
+    },
+    {
+      "en": "Pause before not with less courage, but with fewer inventions to make the contrast land.",
+      "zh": "在 not with less courage, but with fewer inventions 前停顿，让对比落地。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as someone capable of naming harm without pretending to know an entire person.",
+      "zh": "跟读时，想象自己既能指出伤害，又不假装了解一个人的全部。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the meeting room, wet coat, doorway, and empty chair visible.",
+        "zh": "第一遍：让会议室、湿外套、门口和空椅子清晰可见。"
+      },
+      {
+        "en": "Pass two: keep consequence firm while giving uncertainty enough space.",
+        "zh": "第二遍：让后果保持清晰，同时给不确定性足够空间。"
+      },
+      {
+        "en": "Pass three: let the final line sound courageous, exact, and free of accusation.",
+        "zh": "第三遍：最后一句要勇敢、准确，不带指控。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which recent judgment have you quietly promoted from possibility to fact?",
+      "zh": "最近哪个判断，被你悄悄从可能性提升成了事实？"
+    },
+    {
+      "en": "What question could name a real consequence while leaving room for another story?",
+      "zh": "哪个问题既能指出真实后果，又能为另一种故事留出空间？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-a-chair-for-another-story/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-a-chair-for-another-story/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-a-chair-for-another-story/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-a-chair-for-another-story/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-a-chair-for-another-story/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/leave-a-chair-for-another-story/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-a-chair-for-another-story/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-a-chair-for-another-story/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-a-chair-for-another-story/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-a-chair-for-another-story/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-a-chair-for-another-story/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-a-chair-for-another-story/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-a-chair-for-another-story/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-a-chair-for-another-story/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-a-chair-for-another-story/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-a-chair-for-another-story/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-a-chair-for-another-story/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-a-chair-for-another-story/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-a-chair-for-another-story/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-a-chair-for-another-story/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-a-chair-for-another-story/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-a-chair-for-another-story/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-a-chair-for-another-story/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-a-chair-for-another-story/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-a-chair-for-another-story/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-a-chair-for-another-story/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-a-chair-for-another-story/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-a-chair-for-another-story/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-a-chair-for-another-story/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-a-chair-for-another-story/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-a-chair-for-another-story/clips/sources_0.mp3"
+    }
+  }
+}

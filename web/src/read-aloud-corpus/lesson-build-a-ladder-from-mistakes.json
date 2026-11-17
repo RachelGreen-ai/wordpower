@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "build-a-ladder-from-mistakes",
+  "title": {
+    "en": "Build a Ladder from Mistakes",
+    "zh": "用错误搭一架梯子"
+  },
+  "subtitle": {
+    "en": "An original reflection on learning, useful records, and the dignity of revision.",
+    "zh": "一篇原创美文：关于学习、有用的记录，以及修正的尊严。"
+  },
+  "tags": [
+    "Learning",
+    "Career",
+    "Craft",
+    "Resilience"
+  ],
+  "sources": [
+    {
+      "title": "The Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/20203",
+      "note": {
+        "en": "Public-domain inspiration for deliberate practice and honest self-recording; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中刻意练习与诚实自我记录的思想；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical optimism. Let the concrete workshop language keep the lesson grounded.",
+    "zh": "用务实的乐观语气朗读。让具体的工坊语言使文章保持落地。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Notebook Beside the Work",
+      "zh": "工作旁边的笔记本"
+    },
+    "intro": {
+      "en": "This passage treats mistakes not as trophies or shame, but as material that can be shaped into better practice.",
+      "zh": "这篇文章不把错误视为勋章或羞耻，而把它当作可以塑造成更好练习的材料。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Keep the Crooked Piece",
+          "zh": "1. 留下那块歪掉的作品"
+        },
+        "text": "On a carpenter's bench lies a small wooden joint that does not fit. One side is cut too deep; the other has been polished before the angle was tested. It would be easy to sweep the piece into a bin and begin again. A wiser apprentice writes the date on it and keeps it nearby. The failed joint is not displayed as proof of courage. It is kept because the hands can compare it with the next attempt. Memory says, I was careless. Evidence says exactly where the cut wandered.",
+        "coaching": {
+          "en": "Keep the workshop scene tactile. Distinguish the vague voice of memory from the precision of evidence.",
+          "zh": "工坊场景要有触感。区分记忆的含糊声音与证据的准确声音。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make the Record Small",
+          "zh": "2. 把记录做小"
+        },
+        "text": "Grand resolutions are often too heavy to carry into Tuesday afternoon. A useful record is smaller: what I tried, what happened, what I will change once. The last word matters. Change one variable, and the next result can teach you something. Change the tool, the timing, the material, and the method together, and success becomes as mysterious as failure. In speaking practice, record one minute, listen for one habit, and repeat one sentence. Improvement prefers a clean experiment to a dramatic promise.",
+        "coaching": {
+          "en": "Give the three record questions an even beat. Stress one each time it returns.",
+          "zh": "三个记录问题要节奏均匀。每次出现 one 都要重读。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Revision Is Part of the Voice",
+          "zh": "3. 修正本就是声音的一部分"
+        },
+        "text": "Many learners fear that correction will expose them as unfinished. Yet every practiced voice is built through revision: a clearer verb replacing a cloudy phrase, a pause moved closer to the thought it serves, an apology made without a defensive explanation. Revision does not erase personality. It removes the habits that prevent personality from arriving intact. The aim is not flawless performance. It is a growing agreement between intention and effect—between what you meant to offer and what another person could actually receive.",
+        "coaching": {
+          "en": "Let the examples feel increasingly human. Pause around intention and effect to clarify the relationship.",
+          "zh": "几个例子要逐渐更有人情味。在 intention 与 effect 前后停顿，讲清两者关系。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Place the Next Rung",
+          "zh": "4. 放好下一根梯级"
+        },
+        "text": "A mistake becomes useful only when it changes the next attempt. Name it without insult. Measure it without obsession. Then place one reachable rung above it. Today, pronounce the ending. Tomorrow, ask the shorter question. On Friday, send the draft before polishing its courage away. A ladder is not ashamed of the ground; it depends on the ground. Learning also begins where we are, under the weight of an honest foot. Keep the record, make the adjustment, and climb by steps sturdy enough to stand on.",
+        "coaching": {
+          "en": "Use crisp energy for the three practical examples. Finish with steadiness, not triumph.",
+          "zh": "三个实际例子要读得利落有力。结尾要稳，不要凯旋式高昂。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "apprentice",
+      "meaning": {
+        "en": "A person learning a skilled trade from experience and guidance.",
+        "zh": "学徒；通过实践和指导学习技能的人。"
+      },
+      "use": {
+        "en": "The apprentice kept notes beside the tools.",
+        "zh": "学徒把笔记放在工具旁。"
+      }
+    },
+    {
+      "term": "wander",
+      "meaning": {
+        "en": "To move away gradually from the intended line or direction.",
+        "zh": "偏离；逐渐离开预定路线或方向。"
+      },
+      "use": {
+        "en": "The blade wandered from the pencil line.",
+        "zh": "刀刃偏离了铅笔线。"
+      }
+    },
+    {
+      "term": "variable",
+      "meaning": {
+        "en": "One factor that can be changed in an experiment or process.",
+        "zh": "变量；实验或过程中可以改变的一个因素。"
+      },
+      "use": {
+        "en": "We changed one variable and tested again.",
+        "zh": "我们改变了一个变量，再次测试。"
+      }
+    },
+    {
+      "term": "revision",
+      "meaning": {
+        "en": "The act of reviewing and improving something.",
+        "zh": "修订；重新审视并改进某物。"
+      },
+      "use": {
+        "en": "The second draft improved through careful revision.",
+        "zh": "第二稿经过认真修订而改善。"
+      }
+    },
+    {
+      "term": "intact",
+      "meaning": {
+        "en": "Whole and not damaged or diminished.",
+        "zh": "完整无损的；没有受损或削弱。"
+      },
+      "use": {
+        "en": "Her warmth remained intact after the edit.",
+        "zh": "修改后，她的温度仍然完整。"
+      }
+    },
+    {
+      "term": "reachable",
+      "meaning": {
+        "en": "Close enough or realistic enough to be achieved.",
+        "zh": "够得着的；现实可实现的。"
+      },
+      "use": {
+        "en": "Choose a reachable goal for this week.",
+        "zh": "为这周选择一个可实现的目标。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Balance what I tried, what happened, and what I will change once as three clear units.",
+      "zh": "把 what I tried、what happened、what I will change once 读成三个清晰均衡的意群。"
+    },
+    {
+      "en": "Keep the consonant clusters clear in practiced voice and next attempt.",
+      "zh": "清晰读出 practiced voice 与 next attempt 中的辅音群。"
+    },
+    {
+      "en": "Use firm parallel rhythm for Name it, Measure it, Then place one reachable rung.",
+      "zh": "Name it、Measure it、Then place one reachable rung 使用坚定的平行节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as a patient craftsperson who respects evidence more than embarrassment.",
+      "zh": "跟读时，想象一位耐心的手艺人：尊重证据，胜过在意尴尬。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the bench, crooked joint, notebook, and ladder physically present.",
+        "zh": "第一遍：让工作台、歪接头、笔记本和梯子具有实感。"
+      },
+      {
+        "en": "Pass two: sharpen every contrast between vague judgment and useful evidence.",
+        "zh": "第二遍：突出模糊判断与有用证据之间的每处对比。"
+      },
+      {
+        "en": "Pass three: deliver the final actions as calm instructions you would trust yourself to follow.",
+        "zh": "第三遍：把最后的行动读成你自己也愿意遵循的平静指引。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What recent mistake could become useful if you recorded exactly where it wandered?",
+      "zh": "最近哪个错误，如果准确记录它偏离之处，就能变得有用？"
+    },
+    {
+      "en": "What is one reachable change you can test in your next attempt?",
+      "zh": "下一次尝试中，你可以测试哪个够得着的改变？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/build-a-ladder-from-mistakes/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/build-a-ladder-from-mistakes/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/build-a-ladder-from-mistakes/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/build-a-ladder-from-mistakes/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/build-a-ladder-from-mistakes/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/build-a-ladder-from-mistakes/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/build-a-ladder-from-mistakes/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/build-a-ladder-from-mistakes/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/build-a-ladder-from-mistakes/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/build-a-ladder-from-mistakes/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/build-a-ladder-from-mistakes/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/build-a-ladder-from-mistakes/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/build-a-ladder-from-mistakes/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/build-a-ladder-from-mistakes/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/build-a-ladder-from-mistakes/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/build-a-ladder-from-mistakes/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/build-a-ladder-from-mistakes/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/build-a-ladder-from-mistakes/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/build-a-ladder-from-mistakes/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/build-a-ladder-from-mistakes/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/build-a-ladder-from-mistakes/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/build-a-ladder-from-mistakes/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/build-a-ladder-from-mistakes/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/build-a-ladder-from-mistakes/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/build-a-ladder-from-mistakes/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/build-a-ladder-from-mistakes/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/build-a-ladder-from-mistakes/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/build-a-ladder-from-mistakes/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/build-a-ladder-from-mistakes/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/build-a-ladder-from-mistakes/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/build-a-ladder-from-mistakes/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "draw-the-light-not-the-object",
+  "title": {
+    "en": "Draw the Light, Not the Object",
+    "zh": "画下光，而不只是物体"
+  },
+  "subtitle": {
+    "en": "An original reflection on art, attention, and learning to see before we name.",
+    "zh": "一篇原创美文：关于艺术、注意力，以及在命名之前学会观看。"
+  },
+  "tags": [
+    "Art",
+    "Attention",
+    "Observation",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "The Elements of Drawing",
+      "author": "John Ruskin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/30325",
+      "note": {
+        "en": "Public-domain inspiration for patient visual observation; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中耐心观看的思想；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if guiding a friend through a quiet studio. Keep the images precise and the judgments light.",
+    "zh": "像带朋友走进安静的画室那样朗读。画面要准确，判断要轻。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Education of the Eye",
+      "zh": "眼睛的教育"
+    },
+    "intro": {
+      "en": "This passage begins with a simple drawing exercise and follows it into a wider practice of attention.",
+      "zh": "这篇文章从一个简单的素描练习出发，走向更广阔的注意力练习。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Cup Is Not a Symbol",
+          "zh": "1. 杯子不是一个符号"
+        },
+        "text": "Set a white cup beside a window and ask a beginner to draw it. The hand often produces a familiar symbol: an oval, two straight sides, a curved handle. The result says cup, but it has barely looked at this cup. Morning light has erased one edge and sharpened another. The handle holds a small field of shadow. A pale reflection from the table climbs the lower curve. To see these facts, the artist must loosen the convenient name. For a few minutes, cup is not an answer. It is a question made of light.",
+        "coaching": {
+          "en": "Make the list of familiar shapes brisk, then slow down as the actual light becomes visible.",
+          "zh": "熟悉形状的列举读得轻快；当真实的光逐渐显现时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Let the Edge Disappear",
+          "zh": "2. 让边缘消失"
+        },
+        "text": "We like firm outlines because they promise certainty. Yet the world does not always separate itself so politely. A grey sleeve may dissolve into a grey wall. A distant hill may be less a boundary than a change in blue. Good drawing asks us not to repair every uncertainty. Sometimes accuracy means leaving an edge unfinished because the eye cannot honestly find it. This restraint is not carelessness. It is fidelity: the courage to record what appears, including what remains unclear. The page becomes more believable when the artist stops forcing everything to announce itself.",
+        "coaching": {
+          "en": "Soften your voice through the dissolving sleeve and distant hill. Give fidelity a clean, confident stress.",
+          "zh": "读到消失的袖子和远山时放柔声音。fidelity 要清晰、自信地重读。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Attention Changes the Observer",
+          "zh": "3. 注意力也改变观看者"
+        },
+        "text": "After twenty minutes, the cup has not changed, but the observer has. What looked plain now contains temperature, weight, reflected color, and a rim thinner than expected. This is one quiet purpose of art: not to decorate experience, but to make experience harder to dismiss. The trained eye carries its habit beyond the studio. It notices hesitation before a colleague agrees, fatigue beneath a parent's cheerful answer, and the exact green that arrives before rain. Attention becomes a form of respect because it allows reality to be more particular than our first description.",
+        "coaching": {
+          "en": "Use warm surprise in the newly discovered details. Do not sentimentalize the human examples.",
+          "zh": "新发现的细节要带着温暖的惊喜；人物例子不要读得煽情。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Look Once More",
+          "zh": "4. 再看一次"
+        },
+        "text": "The useful question is not, Can I draw beautifully? It is, Can I remain long enough for my first idea to become insufficient? Place the cup back by the window tomorrow. The weather will alter it. Your mood will alter you. Begin again without treating yesterday's page as a verdict. A mature voice, like a mature line, grows from repeated contact with what is real. Before naming, praising, correcting, or explaining, look once more. The world is rarely hiding. More often, it is waiting for our quick certainty to grow quiet.",
+        "coaching": {
+          "en": "Give the central question spacious phrasing. End quietly, with certainty settling rather than collapsing.",
+          "zh": "核心问题要读得有空间。结尾安静落下，让 certainty 沉静，而不是崩塌。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "sharpen",
+      "meaning": {
+        "en": "To make an edge, image, or idea clearer.",
+        "zh": "使边缘、图像或想法更清晰。"
+      },
+      "use": {
+        "en": "Side light sharpened the outline of the chair.",
+        "zh": "侧光让椅子的轮廓更清晰。"
+      }
+    },
+    {
+      "term": "dissolve",
+      "meaning": {
+        "en": "To fade gradually into the surroundings.",
+        "zh": "逐渐消散并融入周围。"
+      },
+      "use": {
+        "en": "The distant buildings dissolved into mist.",
+        "zh": "远处的建筑融入雾中。"
+      }
+    },
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "The ability to avoid adding or doing too much.",
+        "zh": "克制；避免添加或行动过度的能力。"
+      },
+      "use": {
+        "en": "Her restraint made the final sentence stronger.",
+        "zh": "她的克制让最后一句更有力量。"
+      }
+    },
+    {
+      "term": "fidelity",
+      "meaning": {
+        "en": "Faithful accuracy toward the original or the truth.",
+        "zh": "忠实；对原物或事实的准确呈现。"
+      },
+      "use": {
+        "en": "The portrait values fidelity over flattery.",
+        "zh": "这幅肖像重视忠实，而非讨好。"
+      }
+    },
+    {
+      "term": "particular",
+      "meaning": {
+        "en": "Specific and distinct rather than general.",
+        "zh": "具体而独特的，而非笼统的。"
+      },
+      "use": {
+        "en": "She remembered the particular blue of the evening.",
+        "zh": "她记得那个傍晚独特的蓝色。"
+      }
+    },
+    {
+      "term": "insufficient",
+      "meaning": {
+        "en": "Not enough for the purpose or situation.",
+        "zh": "不足以应对某个目的或情境。"
+      },
+      "use": {
+        "en": "Our first explanation proved insufficient.",
+        "zh": "我们的第一个解释被证明并不充分。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Contrast the short labels oval, sides, handle with the longer descriptions of light and shadow.",
+      "zh": "让简短标签 oval、sides、handle 与较长的光影描写形成节奏对比。"
+    },
+    {
+      "en": "Link what appears and what remains unclear without losing the final consonants.",
+      "zh": "流畅连读 what appears 与 what remains unclear，同时保留词尾辅音。"
+    },
+    {
+      "en": "Use a gentle falling tone on look once more so it sounds like an invitation, not a command.",
+      "zh": "look once more 使用轻柔降调，让它像邀请而非命令。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as an artist teaching careful sight rather than artistic performance.",
+      "zh": "跟读时，想象一位艺术家在教人认真观看，而不是表演艺术能力。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the cup, window, sleeve, hill, and rain-green visible.",
+        "zh": "第一遍：让杯子、窗户、袖子、远山和雨前的绿色清晰可见。"
+      },
+      {
+        "en": "Pass two: let certainty sound firm at first and more spacious by the end.",
+        "zh": "第二遍：开头的 certainty 要坚定，结尾则更开阔。"
+      },
+      {
+        "en": "Pass three: speak the final invitation with patience and genuine curiosity.",
+        "zh": "第三遍：耐心而真诚好奇地说出最后的邀请。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What ordinary object would become more interesting if you observed it for ten quiet minutes?",
+      "zh": "哪个普通物件，若安静观察十分钟，会变得更有趣？"
+    },
+    {
+      "en": "Where might you be forcing a firm outline onto a situation that is still unclear?",
+      "zh": "你是否正把清晰轮廓强加给一个仍不明朗的情境？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/draw-the-light-not-the-object/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/draw-the-light-not-the-object/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/draw-the-light-not-the-object/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/draw-the-light-not-the-object/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/draw-the-light-not-the-object/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/draw-the-light-not-the-object/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/draw-the-light-not-the-object/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/draw-the-light-not-the-object/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/draw-the-light-not-the-object/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/draw-the-light-not-the-object/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/draw-the-light-not-the-object/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/draw-the-light-not-the-object/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/draw-the-light-not-the-object/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/draw-the-light-not-the-object/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/draw-the-light-not-the-object/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/draw-the-light-not-the-object/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/draw-the-light-not-the-object/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/draw-the-light-not-the-object/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/draw-the-light-not-the-object/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/draw-the-light-not-the-object/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/draw-the-light-not-the-object/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/draw-the-light-not-the-object/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/draw-the-light-not-the-object/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/draw-the-light-not-the-object/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/draw-the-light-not-the-object/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/draw-the-light-not-the-object/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/draw-the-light-not-the-object/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/draw-the-light-not-the-object/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/draw-the-light-not-the-object/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/draw-the-light-not-the-object/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/draw-the-light-not-the-object/clips/sources_0.mp3"
+    }
+  }
+}

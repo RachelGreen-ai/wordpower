@@ -75,6 +75,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Borrow the Stranger's Morning](https://wordpower-seven.vercel.app/read-aloud/borrow-the-strangers-morning): An original reflection on moral imagination and the hidden weight carried by ordinary lives.
 - [Build a Bridge for the No](https://wordpower-seven.vercel.app/read-aloud/build-a-bridge-for-the-no): An original reflection on principled disagreement, calm language, and keeping human dignity inside a firm refusal.
 - [Build a Career with Open Doors](https://wordpower-seven.vercel.app/read-aloud/build-a-career-with-open-doors): An original reflection on useful work, changing direction, and becoming through practice.
+- [Build a Ladder from Mistakes](https://wordpower-seven.vercel.app/read-aloud/build-a-ladder-from-mistakes): An original reflection on learning, useful records, and the dignity of revision.
 - [Build the Bridge from Both Banks](https://wordpower-seven.vercel.app/read-aloud/build-the-bridge-from-both-banks): An original reflection on disagreement, dignity, and the patient craft of mutual understanding.
 - [A Career Is Built in Drafts](https://wordpower-seven.vercel.app/read-aloud/career-built-in-drafts): An original reflection on useful work, transferable skills, and learning without a perfect map.
 - [Carry a Lantern, Not a Verdict](https://wordpower-seven.vercel.app/read-aloud/carry-a-lantern-not-a-verdict): An original reflection on moral imagination, incomplete stories, and the discipline of seeing people whole.
@@ -89,6 +90,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Cross the Bridge Before You Judge](https://wordpower-seven.vercel.app/read-aloud/cross-the-bridge-before-you-judge): An original reflection on moral imagination, incomplete stories, and the discipline of seeing from another shore.
 - [Cross the Street Before Judging](https://wordpower-seven.vercel.app/read-aloud/cross-the-street-before-judging): An original reflection on moral imagination, neighborhood knowledge, and the discipline of seeing from nearby.
 - [Do Some Work No One Sees](https://wordpower-seven.vercel.app/read-aloud/do-some-work-no-one-sees): An original reflection on private standards, self-trust, and the freedom of practicing beyond applause.
+- [Draw the Light, Not the Object](https://wordpower-seven.vercel.app/read-aloud/draw-the-light-not-the-object): An original reflection on art, attention, and learning to see before we name.
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
 - [Facts Before Blame](https://wordpower-seven.vercel.app/read-aloud/facts-before-blame): An original reflection on calm leadership, accountability, and making a crisis usable.
 - [Follow the Small Question](https://wordpower-seven.vercel.app/read-aloud/follow-the-small-question): An original reflection on scientific wonder, patient observation, and the courage to take ordinary mysteries seriously.
@@ -131,6 +133,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Learn the Language of Repair](https://wordpower-seven.vercel.app/read-aloud/learn-the-language-of-repair): An original reflection on mending, stewardship, and the intelligence hidden in worn things.
 - [Learn the Shape of Looking](https://wordpower-seven.vercel.app/read-aloud/learn-the-shape-of-looking): An original reflection on drawing, attention, and the patient craft of seeing what is actually there.
 - [Learn the Shape of Useful Work](https://wordpower-seven.vercel.app/read-aloud/learn-the-shape-of-useful-work): An original reflection on apprenticeship, invisible standards, and becoming trustworthy through practice.
+- [Leave a Chair for Another Story](https://wordpower-seven.vercel.app/read-aloud/leave-a-chair-for-another-story): An original reflection on judgment, moral imagination, and the stories we do not yet know.
 - [Leave an Honest Edge](https://wordpower-seven.vercel.app/read-aloud/leave-a-honest-edge): An original reflection on craft, revision, and making work that still bears the warmth of a human hand.
 - [Leave a Margin in the Day](https://wordpower-seven.vercel.app/read-aloud/leave-a-margin-in-the-day): An original reflection on rest, attention, and the small spaces that return us to ourselves.
 - [Leave a Place for the Unseen](https://wordpower-seven.vercel.app/read-aloud/leave-a-place-for-the-unseen): An original reflection on moral imagination, incomplete stories, and the discipline of generous judgment.
