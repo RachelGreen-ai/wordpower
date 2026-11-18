@@ -1,0 +1,242 @@
+{
+  "lessonId": "notice-before-you-correct",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Notice Before You Correct",
+    "zh": "纠正之前，先看见"
+  },
+  "subtitle": {
+    "en": "An original reflection on parenting, observation, and the patience that helps a child grow.",
+    "zh": "一篇原创美文：关于养育、观察，以及帮助孩子成长的耐心。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Attention",
+    "Learning",
+    "Patience"
+  ],
+  "sources": [
+    {
+      "title": "The Montessori Method",
+      "author": "Maria Montessori",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/39863",
+      "note": {
+        "en": "Public-domain inspiration for patient observation and child development; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中对耐心观察与儿童发展的重视；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with warmth and alertness. Let the household details feel lived-in, and avoid turning the guidance into a lecture.",
+    "zh": "以温暖而敏锐的语气朗读。让家庭细节真实可感，避免把建议读成说教。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Pause That Sees a Child",
+      "zh": "真正看见孩子的停顿"
+    },
+    "intro": {
+      "en": "This original passage considers how a brief pause before correction can reveal effort, need, and the next useful kind of help.",
+      "zh": "这篇原创文章思考：纠正前短暂停顿，如何让我们看见努力、需要，以及下一种真正有用的帮助。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Crooked Button",
+          "zh": "1. 扣歪的纽扣"
+        },
+        "text": "A child is fastening a coat. The first button goes into the second hole, and soon the whole coat leans sideways. An adult hand moves forward almost by instinct. It would take two seconds to fix. But wait. Look at the child’s face: the narrowed eyes, the tongue resting at one corner of the mouth, the fingers attempting a difficult partnership. The task is larger than the coat. Coordination, sequence, and confidence are being assembled at once. If we correct too quickly, the button becomes neat while the learning disappears. Observation gives us a better question than How do I fix this? It asks, What is the child trying to master?",
+        "coaching": {
+          "en": "Make the domestic scene tender and precise. Pause after But wait, then open the final question with respect.",
+          "zh": "家庭场景要温柔而准确。But wait 之后停顿，最后的问题要带着尊重展开。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Separate Danger from Discomfort",
+          "zh": "2. 区分危险与不适"
+        },
+        "text": "Not every struggle should continue. A hand near a hot pan needs immediate action. Cruel words need a boundary. But many moments that alarm adults are not dangerous; they are merely slow, messy, or socially awkward. A cup trembles on its way to the table. A story takes forever to reach its point. Two children negotiate a game with the clumsy diplomacy of beginners. Our discomfort can dress itself as urgency. Before stepping in, ask: Is anyone unsafe? Is harm increasing? Or am I impatient with the pace of learning? This small sorting protects children without stealing every difficulty from them.",
+        "coaching": {
+          "en": "Give the safety examples firm weight. Soften into the slower scenes, and make the three questions honest rather than accusing.",
+          "zh": "安全相关的例子要有坚定分量。进入较慢的场景时放柔，三个问题要诚实而非指责。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Offer the Smallest Useful Help",
+          "zh": "3. 提供最小而有用的帮助"
+        },
+        "text": "When help is needed, begin small. Move the bowl closer instead of taking the spoon. Point to the first line instead of reading the paragraph. Say, “Try telling her what you wanted,” instead of delivering the child’s apology. The smallest useful help preserves ownership. It says: I see the hard part, and I still believe some of this belongs to you. Of course, children sometimes need full support—a tired body, a new skill, or a frightening moment can overwhelm their available strength. Responsive care is not a test of toughness. The art is to lend enough ability for the child to continue, without replacing the child in the story.",
+        "coaching": {
+          "en": "Keep the examples light and concrete. Give preserves ownership emphasis, then make the final distinction compassionate.",
+          "zh": "例子要轻快具体。强调 preserves ownership，最后的区分要富有同理心。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Correct the Relationship Too",
+          "zh": "4. 也修复关系"
+        },
+        "text": "Adults will misjudge the moment. We will rush, speak sharply, or turn a small spill into a speech about responsibility. Repair matters more than pretending perfect patience. We can say, “I moved too fast. You were still working it out.” Such a sentence does not surrender authority. It models accurate responsibility. The child learns that strength can include revision and that love does not require either person to be flawless. Next time the crooked button appears, perhaps we will notice the effort before the error. Perhaps we will hold the coat steady and leave the button to those determined fingers. In that pause, the child is not ignored. The child is seen.",
+        "coaching": {
+          "en": "Read the admission plainly, without self-punishment. Slow the button image, and leave the final words simple and warm.",
+          "zh": "承认错误时要坦然，不自责。扣纽扣的画面放慢，最后几个词要简单而温暖。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "coordination",
+      "meaning": {
+        "en": "The ability to make different parts work together smoothly.",
+        "zh": "让不同部分顺畅配合的能力。"
+      },
+      "use": {
+        "en": "The activity develops hand-eye coordination.",
+        "zh": "这项活动能培养手眼协调。"
+      }
+    },
+    {
+      "term": "assemble",
+      "meaning": {
+        "en": "To bring parts together into a whole.",
+        "zh": "把各部分组合成整体。"
+      },
+      "use": {
+        "en": "Confidence is assembled through practice.",
+        "zh": "信心是在练习中逐步建立的。"
+      }
+    },
+    {
+      "term": "awkward",
+      "meaning": {
+        "en": "Uncomfortable, difficult, or lacking smoothness.",
+        "zh": "尴尬的；不熟练的；不顺畅的。"
+      },
+      "use": {
+        "en": "Beginners often need an awkward first attempt.",
+        "zh": "初学者往往需要经历笨拙的第一次尝试。"
+      }
+    },
+    {
+      "term": "overwhelm",
+      "meaning": {
+        "en": "To give someone more than they can manage.",
+        "zh": "使某人承受超过其能力范围的事。"
+      },
+      "use": {
+        "en": "Too many instructions can overwhelm a tired child.",
+        "zh": "太多指令会让疲惫的孩子不堪重负。"
+      }
+    },
+    {
+      "term": "responsive",
+      "meaning": {
+        "en": "Reacting with care to actual needs or conditions.",
+        "zh": "能体察并回应真实需要的。"
+      },
+      "use": {
+        "en": "Responsive care changes with the situation.",
+        "zh": "体察式照顾会随情境而变化。"
+      }
+    },
+    {
+      "term": "revision",
+      "meaning": {
+        "en": "A change made to improve or correct something.",
+        "zh": "为改进或纠正而作出的修改。"
+      },
+      "use": {
+        "en": "A sincere apology is a revision in action.",
+        "zh": "真诚道歉是一种付诸行动的修正。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the consonant and vowel in moves forward and needs immediate action.",
+      "zh": "在 moves forward 与 needs immediate action 中练习辅音和元音的连读。"
+    },
+    {
+      "en": "Stress the middle syllable in coordination and the second syllable in responsive.",
+      "zh": "准确读出 coordination 与 responsive 的重音。"
+    },
+    {
+      "en": "Use gentle contrast in the button becomes neat while the learning disappears.",
+      "zh": "在 the button becomes neat while the learning disappears 中读出柔和的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are reminding a loving parent to see the learning hidden inside a messy moment.",
+      "zh": "跟读时，想象你在提醒一位深爱孩子的父母，看见混乱时刻中隐藏的学习。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the household images clear and unforced.",
+        "zh": "第一遍：家庭画面要清楚自然。"
+      },
+      {
+        "en": "Pass two: distinguish safety boundaries from ordinary discomfort.",
+        "zh": "第二遍：区分安全边界与日常不适。"
+      },
+      {
+        "en": "Pass three: let the ending carry patience, humility, and trust.",
+        "zh": "第三遍：结尾要带着耐心、谦逊与信任。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "When do you tend to confuse a child’s slow learning with an emergency?",
+      "zh": "你在什么时候容易把孩子缓慢的学习误认为紧急情况？"
+    },
+    {
+      "en": "What is the smallest useful help you could offer next time?",
+      "zh": "下一次，你可以提供的最小而有用的帮助是什么？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/notice-before-you-correct/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/notice-before-you-correct/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/notice-before-you-correct/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/notice-before-you-correct/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/notice-before-you-correct/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/notice-before-you-correct/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/notice-before-you-correct/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/notice-before-you-correct/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/notice-before-you-correct/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/notice-before-you-correct/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/notice-before-you-correct/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/notice-before-you-correct/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/notice-before-you-correct/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/notice-before-you-correct/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/notice-before-you-correct/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/notice-before-you-correct/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/notice-before-you-correct/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/notice-before-you-correct/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/notice-before-you-correct/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/notice-before-you-correct/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/notice-before-you-correct/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/notice-before-you-correct/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/notice-before-you-correct/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/notice-before-you-correct/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/notice-before-you-correct/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/notice-before-you-correct/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/notice-before-you-correct/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/notice-before-you-correct/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/notice-before-you-correct/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/notice-before-you-correct/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/notice-before-you-correct/clips/sources_0.mp3"
+    }
+  }
+}

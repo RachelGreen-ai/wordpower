@@ -1,0 +1,242 @@
+{
+  "lessonId": "lower-your-voice-raise-the-standard",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Lower Your Voice, Raise the Standard",
+    "zh": "放低音量，提高标准"
+  },
+  "subtitle": {
+    "en": "An original reflection on quiet leadership, steadiness, and authority without display.",
+    "zh": "一篇原创美文：关于安静的领导力、沉着，以及不靠张扬的权威。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Leadership",
+    "Courage",
+    "Communication",
+    "Character"
+  ],
+  "sources": [
+    {
+      "title": "Plutarch’s Lives, Volume I",
+      "author": "Plutarch",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14033",
+      "note": {
+        "en": "Public-domain inspiration for the relationship between character and leadership; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对品格与领导力关系的探讨；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with composed authority. Keep the practical scenes clear, and let conviction come from restraint rather than volume.",
+    "zh": "以沉着而有权威感的语气朗读。实际场景要清楚，让信念来自克制，而不是音量。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Authority of a Steady Voice",
+      "zh": "沉稳声音的权威"
+    },
+    "intro": {
+      "en": "This original passage explores how a leader can reduce fear, name standards clearly, and make courage easier for others.",
+      "zh": "这篇原创文章探讨：领导者如何减少恐惧、清楚说明标准，并让他人更容易鼓起勇气。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When the Room Tightens",
+          "zh": "1. 当房间紧绷起来"
+        },
+        "text": "A difficult meeting has its own weather. Shoulders rise. Sentences become shorter. Someone repeats the same point with greater force, as if volume could turn uncertainty into fact. At that moment, a leader is tempted to compete with the noise. Yet the room rarely needs another raised voice. It needs a person whose nervous system is not for sale. A steady leader slows one breath, names the actual decision, and separates urgency from panic. The change may be almost invisible, but people feel it. They stop defending their position long enough to examine the problem. Calm, used honestly, is not softness. It is a structure in which useful courage can return.",
+        "coaching": {
+          "en": "Give the opening scene a tight rhythm. Slow down at not for sale, then make the final distinction firm and reassuring.",
+          "zh": "开场场景节奏要紧。读到 not for sale 时放慢，最后的区分要坚定而令人安心。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Standards Without Theater",
+          "zh": "2. 不靠表演的标准"
+        },
+        "text": "Quiet leadership does not mean avoiding a hard sentence. It means removing the theater around it. The deadline was missed. The customer was not treated with care. The work is not ready. These truths can be spoken without humiliation. State what happened, explain why it matters, and define what repair requires. Anger often adds smoke but little light. Precision, by contrast, gives people somewhere to stand. They may dislike the standard, but they can see it. They can ask questions, take responsibility, and begin again. A leader who does not need to perform disappointment leaves more energy for improvement. The standard rises because attention is no longer trapped in the leader’s mood.",
+        "coaching": {
+          "en": "Deliver the three short judgments cleanly, without cruelty. Contrast smoke with light, and keep the ending practical.",
+          "zh": "三个简短判断要干净、不带残酷。突出 smoke 与 light 的对比，结尾保持务实。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Lend the Room Your Pace",
+          "zh": "3. 把你的节奏借给房间"
+        },
+        "text": "People borrow pace from one another. A rushed reply invites another rushed reply. A considered question creates a small clearing. This is especially important when someone brings bad news. If the messenger expects blame, facts arrive late and polished. If the first response is curious—What do we know? What remains uncertain? What must happen next?—the truth can enter without disguise. Curiosity is not permission to neglect consequences. It is the method by which consequences become intelligent. The leader’s pace tells the room whether reality is welcome. When reality is welcome, problems become visible while they are still small enough to solve.",
+        "coaching": {
+          "en": "Let the first two sentences mirror each other. Make the three questions spacious, direct, and genuinely curious.",
+          "zh": "前两句读出镜像感。三个问题要留出空间，直接而真正好奇。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave People Taller",
+          "zh": "4. 让人离开时更加挺拔"
+        },
+        "text": "The deepest test of authority is what remains after the leader leaves. Are people merely relieved, or are they clearer? Do they wait for another command, or can they carry the standard themselves? Quiet leadership aims to leave people taller: not flattered, not frightened, but more capable of honest action. This requires restraint, because solving every problem can become another form of display. Ask the question that reveals the next step. Give ownership to the person closest to the work. Then stay available without standing in the doorway. A raised standard does not need a raised voice. It needs language that is exact, behavior that is consistent, and courage that does not demand an audience.",
+        "coaching": {
+          "en": "Build the questions with patient weight. Let leave people taller sound generous, then land the last sentence with quiet certainty.",
+          "zh": "用耐心和分量推进问题。leave people taller 要读得宽厚，最后一句以安静的确定感落下。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "Calm control of emotion or behavior.",
+        "zh": "克制；对情绪或行为的平静控制。"
+      },
+      "use": {
+        "en": "Her restraint kept the disagreement useful.",
+        "zh": "她的克制让分歧保持了建设性。"
+      }
+    },
+    {
+      "term": "humiliation",
+      "meaning": {
+        "en": "The painful feeling of being made to seem foolish or small.",
+        "zh": "被贬低或显得渺小时产生的羞辱感。"
+      },
+      "use": {
+        "en": "Correction does not require humiliation.",
+        "zh": "纠正错误并不需要羞辱。"
+      }
+    },
+    {
+      "term": "precision",
+      "meaning": {
+        "en": "The quality of being exact and clear.",
+        "zh": "准确而清晰的品质。"
+      },
+      "use": {
+        "en": "Precision made the next step obvious.",
+        "zh": "准确的表达让下一步变得明确。"
+      }
+    },
+    {
+      "term": "considered",
+      "meaning": {
+        "en": "Thought about carefully before being expressed or done.",
+        "zh": "经过认真思考的。"
+      },
+      "use": {
+        "en": "She gave a considered reply.",
+        "zh": "她给出了深思熟虑的回答。"
+      }
+    },
+    {
+      "term": "disguise",
+      "meaning": {
+        "en": "A form that hides the true nature of something.",
+        "zh": "掩盖事物真实性质的伪装。"
+      },
+      "use": {
+        "en": "The facts arrived without disguise.",
+        "zh": "事实毫无遮掩地呈现出来。"
+      }
+    },
+    {
+      "term": "consistent",
+      "meaning": {
+        "en": "Acting according to the same principles over time.",
+        "zh": "长期按照同一原则行事的。"
+      },
+      "use": {
+        "en": "Consistent behavior builds trust.",
+        "zh": "一贯的行为能建立信任。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in missed, asked, and fixed.",
+      "zh": "清楚读出 missed、asked 与 fixed 的词尾辅音。"
+    },
+    {
+      "en": "Stress the second syllable in precision and humiliation.",
+      "zh": "precision 与 humiliation 的重音都要准确落在相应重读音节上。"
+    },
+    {
+      "en": "Use contrastive stress in not flattered, not frightened, but more capable.",
+      "zh": "在 not flattered, not frightened, but more capable 中使用对比重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a tense team recover clarity without losing the standard.",
+      "zh": "跟读时，想象你正帮助一个紧张的团队恢复清晰，同时不降低标准。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the short sentences exact and unhurried.",
+        "zh": "第一遍：短句要准确、不慌张。"
+      },
+      {
+        "en": "Pass two: emphasize contrasts between noise and clarity.",
+        "zh": "第二遍：强调噪音与清晰之间的对比。"
+      },
+      {
+        "en": "Pass three: let the final paragraph sound calm, generous, and decisive.",
+        "zh": "第三遍：最后一段要沉着、宽厚而果断。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where could a quieter response make a difficult truth easier to hear?",
+      "zh": "在哪种情境中，更安静的回应能让难以接受的事实更容易被听见？"
+    },
+    {
+      "en": "What standard can you state more precisely this week?",
+      "zh": "本周你可以把哪一项标准说得更准确？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/lower-your-voice-raise-the-standard/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/lower-your-voice-raise-the-standard/clips/sources_0.mp3"
+    }
+  }
+}

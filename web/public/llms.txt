@@ -139,6 +139,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Leave a Place for the Unseen](https://wordpower-seven.vercel.app/read-aloud/leave-a-place-for-the-unseen): An original reflection on moral imagination, incomplete stories, and the discipline of generous judgment.
 - [Leave Clear Footprints](https://wordpower-seven.vercel.app/read-aloud/leave-clear-footprints): An original reflection on handovers, useful records, and the quiet generosity of work that others can continue.
 - [Leave One Stroke Unfinished](https://wordpower-seven.vercel.app/read-aloud/leave-one-stroke-unfinished): An original reflection on drawing, attention, and the courage to keep looking.
+- [Leave One Window Open](https://wordpower-seven.vercel.app/read-aloud/leave-one-window-open): An original reflection on science, uncertainty, and the discipline of staying curious.
 - [Leave Room for Another Story](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-another-story): An original reflection on moral imagination, careful judgment, and the stories we cannot see.
 - [Leave Room for Better Evidence](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-better-evidence): An original reflection on intellectual humility, revision, and speaking clearly under uncertainty.
 - [Leave Room for Growing](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-growing): An original reflection on patient guidance, useful boundaries, and the courage to let a child try.
@@ -184,6 +185,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Lower the Temperature of the Room](https://wordpower-seven.vercel.app/read-aloud/lower-the-temperature-of-the-room): An original reflection on calm communication, leadership, and the strength of a well-timed pause.
 - [Lower the Temperature](https://wordpower-seven.vercel.app/read-aloud/lower-the-temperature): An original reflection on calm communication, accurate disagreement, and the strength of an unhurried reply.
 - [Lower Your Voice, Keep Your Ground](https://wordpower-seven.vercel.app/read-aloud/lower-your-voice-keep-your-ground): An original reflection on calm disagreement, precise language, and strength that does not need to shout.
+- [Lower Your Voice, Raise the Standard](https://wordpower-seven.vercel.app/read-aloud/lower-your-voice-raise-the-standard): An original reflection on quiet leadership, steadiness, and authority without display.
 - [Make a Window for Wonder](https://wordpower-seven.vercel.app/read-aloud/make-a-window-for-wonder): An original reflection on experiments, useful questions, and the patient craft of discovery.
 - [Make a Window, Not a Verdict](https://wordpower-seven.vercel.app/read-aloud/make-a-window-not-a-verdict): An original reflection on moral imagination, first impressions, and the discipline of seeing a whole person.
 - [Make Care Visible](https://wordpower-seven.vercel.app/read-aloud/make-care-visible): An original reflection on practical kindness, quiet competence, and changing the conditions around a person.
@@ -198,6 +200,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Mend the Small Tear](https://wordpower-seven.vercel.app/read-aloud/mend-the-small-tear): An original reflection on friendship, repair, and the courage to return before distance hardens.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.
 - [Name the Next True Thing](https://wordpower-seven.vercel.app/read-aloud/name-the-next-true-thing): An original reflection on calm communication, uncertainty, and the discipline of speaking clearly under pressure.
+- [Notice Before You Correct](https://wordpower-seven.vercel.app/read-aloud/notice-before-you-correct): An original reflection on parenting, observation, and the patience that helps a child grow.
 - [Notice Before You Guide](https://wordpower-seven.vercel.app/read-aloud/notice-before-you-guide): An original reflection on parenting, patient observation, and the wisdom of making room.
 - [Notice the Season Turn](https://wordpower-seven.vercel.app/read-aloud/notice-the-season-turn): An original reflection on recovering attention through the small announcements of autumn.
 - [The Patient Eye Sees More](https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more): An original reflection on observation, curiosity, and the discipline of seeing before naming.
