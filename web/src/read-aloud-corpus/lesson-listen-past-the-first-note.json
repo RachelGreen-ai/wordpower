@@ -1,0 +1,229 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "listen-past-the-first-note",
+  "title": {
+    "en": "Listen Past the First Note",
+    "zh": "听见第一个音符之后"
+  },
+  "subtitle": {
+    "en": "An original reflection on sound, attention, and the hidden richness of ordinary listening.",
+    "zh": "一篇原创美文：关于声音、注意力，以及日常聆听中隐藏的丰盛。"
+  },
+  "tags": [
+    "Listening",
+    "Sound",
+    "Attention",
+    "Science"
+  ],
+  "sources": [
+    {
+      "title": "On the Sensations of Tone",
+      "author": "Hermann von Helmholtz",
+      "organization": "Internet Archive",
+      "url": "https://archive.org/details/onsensationsofto00helmrich",
+      "note": {
+        "en": "Public-domain inspiration for the science of tone and resonance; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对音调与共鸣的科学研究；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if you are tuning the room. Give bright sounds a clean edge, and let quieter details arrive without strain.",
+    "zh": "朗读时，想象你正在为房间调音。明亮的声音要有清晰边缘，细微之处则让它自然浮现，不必用力。"
+  },
+  "passage": {
+    "title": {
+      "en": "The World Inside a Sound",
+      "zh": "一个声音里的世界"
+    },
+    "intro": {
+      "en": "This original passage invites us to hear beyond labels and discover how careful listening changes both music and conversation.",
+      "zh": "这篇原创文章邀请我们越过声音的标签，发现细致聆听如何改变音乐，也改变交谈。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. More Than a Bell",
+          "zh": "1. 不只是一声钟响"
+        },
+        "text": "A spoon touches the rim of a glass, and we say, simply, a note. But stay with it. The first bright strike opens into a small weather system: a silver center, a trembling halo, a softness that thins into the room. The sound is not a bead dropped and lost. It is an event with a beginning, a body, and a long transparent edge. Most days, naming ends our attention. Bell. Engine. Rain. Voice. The label is useful, yet it can close the ear too soon. When we listen past the name, the ordinary becomes spacious. We notice the radiator ticking after sunset, the different footsteps of neighbors on the stairs, and the low breath of traffic beneath the birds. Nothing has become louder. We have become more available.",
+        "coaching": {
+          "en": "Make the glass sound vivid, then slow down through the list of its fading qualities. Let the final sentence feel quietly earned.",
+          "zh": "把玻璃杯的声音读得鲜明，再在声音逐渐消散的特质列表中放慢。最后一句要安静而有分量。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Hear the Company It Keeps",
+          "zh": "2. 听见与它相伴的声音"
+        },
+        "text": "A musical tone carries companions. Some vibrate close to its center; others shimmer above it, giving a flute, a cello, and a human voice their separate colors. We may not know their names, but the ear receives their company. Life often works this way. A colleague says, Fine, and the word is plain, while its pace and weight tell another story. A child says, I can do it, with courage in the sentence and a request for company underneath. Good listening does not invent secret meanings. It gathers more of what is actually present: timing, breath, hesitation, emphasis. It resists the impatient habit of answering only the loudest layer. To hear well is to let a voice remain complex long enough for a truthful response.",
+        "coaching": {
+          "en": "Color flute, cello, and human voice differently. Keep the examples conversational, with gentle emphasis on timing and breath.",
+          "zh": "用不同音色读出 flute、cello 和 human voice。例子要像真实交谈，并轻轻强调 timing 与 breath。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Tune Without Forcing",
+          "zh": "3. 调整，但不强求"
+        },
+        "text": "Careful listening is not a performance of perfect sensitivity. No one can catch every overtone, every mood, every meaning. The practice is humbler: pause before deciding what you heard. Ask when the signal is unclear. Allow silence to complete its work. A musician tunes by making small changes and listening again; force only bends the string too far. We can offer the same patience to a room, a friendship, or our own unsettled thoughts. Listen once for the message, once for the feeling, and once for what may still be forming. Then answer the whole sound you can honestly hear. The spoon touches the glass again. This time the note does not vanish at once. It opens, gathers the room around it, and teaches attention how to stay.",
+        "coaching": {
+          "en": "Use a grounded tone for the limits of listening. Build a three-part rhythm in listen once, then finish with clear, unforced wonder.",
+          "zh": "谈到聆听的局限时，语气要沉稳。listen once 的三段式要有节奏，结尾读出清晰而不刻意的惊奇。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "rim",
+      "meaning": {
+        "en": "The outer edge of a round object or opening.",
+        "zh": "边缘；圆形物体或开口的外沿。"
+      },
+      "use": {
+        "en": "A crack appeared near the rim of the cup.",
+        "zh": "杯沿附近出现了一道裂纹。"
+      }
+    },
+    {
+      "term": "halo",
+      "meaning": {
+        "en": "A ring or glow surrounding something.",
+        "zh": "光环；环绕某物的一圈光或朦胧区域。"
+      },
+      "use": {
+        "en": "Mist made a pale halo around the lamp.",
+        "zh": "雾气在灯周围形成了淡淡的光环。"
+      }
+    },
+    {
+      "term": "available",
+      "meaning": {
+        "en": "Ready to notice, receive, or take part.",
+        "zh": "在场的；准备好去注意、接纳或参与的。"
+      },
+      "use": {
+        "en": "She put down her phone and became fully available to the conversation.",
+        "zh": "她放下手机，全心投入交谈。"
+      }
+    },
+    {
+      "term": "shimmer",
+      "meaning": {
+        "en": "To appear or sound with a soft, wavering brightness.",
+        "zh": "闪烁；以柔和、轻微颤动的明亮感出现或发声。"
+      },
+      "use": {
+        "en": "A note from the violin seemed to shimmer in the hall.",
+        "zh": "小提琴的一个音符仿佛在大厅里闪烁。"
+      }
+    },
+    {
+      "term": "hesitation",
+      "meaning": {
+        "en": "A pause caused by uncertainty or reluctance.",
+        "zh": "犹豫；因不确定或不情愿而出现的停顿。"
+      },
+      "use": {
+        "en": "I heard hesitation in his otherwise confident reply.",
+        "zh": "他看似自信的回答里，我听出了一丝犹豫。"
+      }
+    },
+    {
+      "term": "overtone",
+      "meaning": {
+        "en": "A higher accompanying tone, or an additional suggested meaning.",
+        "zh": "泛音；伴随主音的较高音，也可指言外之意。"
+      },
+      "use": {
+        "en": "Her joke carried an overtone of disappointment.",
+        "zh": "她的玩笑里带着一丝失望的意味。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters clear in first bright strike and transparent edge.",
+      "zh": "清楚读出 first bright strike 与 transparent edge 中的辅音群。"
+    },
+    {
+      "en": "Let the voice rise lightly through timing, breath, hesitation, emphasis, then settle.",
+      "zh": "读 timing、breath、hesitation、emphasis 时轻轻递进，再自然落下。"
+    },
+    {
+      "en": "Contrast the short vowel in rim with the long sound in seem.",
+      "zh": "对比 rim 中的短元音与 seem 中的长元音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with an ear for texture. Let your voice move from bright detail to calm reflection.",
+      "zh": "跟读时留意声音的质地，让声音从明亮细节自然走向平静思考。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: give each sound image a distinct shape.",
+        "zh": "第一遍：让每一个声音意象都有清楚的形状。"
+      },
+      {
+        "en": "Pass two: make the conversational examples sound spontaneous.",
+        "zh": "第二遍：让交谈中的例子听起来自然而即兴。"
+      },
+      {
+        "en": "Pass three: soften the pace without losing final consonants.",
+        "zh": "第三遍：放缓语速，同时保留清晰的词尾辅音。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which familiar sound might become richer if you listened past its name?",
+      "zh": "哪一种熟悉的声音，会在你越过名称去聆听后变得更丰富？"
+    },
+    {
+      "en": "Whose words might you understand differently by noticing pace, breath, and silence?",
+      "zh": "如果留意语速、呼吸与沉默，你会对谁的话产生不同的理解？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/listen-past-the-first-note/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/listen-past-the-first-note/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/listen-past-the-first-note/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/listen-past-the-first-note/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/listen-past-the-first-note/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/listen-past-the-first-note/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/listen-past-the-first-note/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/listen-past-the-first-note/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/listen-past-the-first-note/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/listen-past-the-first-note/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/listen-past-the-first-note/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/listen-past-the-first-note/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/listen-past-the-first-note/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/listen-past-the-first-note/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/listen-past-the-first-note/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/listen-past-the-first-note/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/listen-past-the-first-note/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/listen-past-the-first-note/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/listen-past-the-first-note/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/listen-past-the-first-note/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/listen-past-the-first-note/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/listen-past-the-first-note/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/listen-past-the-first-note/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/listen-past-the-first-note/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/listen-past-the-first-note/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/listen-past-the-first-note/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/listen-past-the-first-note/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/listen-past-the-first-note/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/listen-past-the-first-note/clips/sources_0.mp3"
+    }
+  }
+}

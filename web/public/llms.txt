@@ -85,6 +85,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Many Hands Make the Map](https://wordpower-seven.vercel.app/read-aloud/carry-the-lantern-together): An original reflection on shared courage, neighborhood knowledge, and leadership that makes room for many hands.
 - [Carry the Smaller Lantern](https://wordpower-seven.vercel.app/read-aloud/carry-the-smaller-lantern): An original reflection on leadership, useful courage, and making uncertainty easier to cross together.
 - [Choose the Truer Sentence](https://wordpower-seven.vercel.app/read-aloud/choose-the-truer-sentence): An original reflection on calm communication, honest revision, and words that leave room for another person.
+- [Close the Gate Gently](https://wordpower-seven.vercel.app/read-aloud/close-the-gate-gently): An original reflection on rest, humane boundaries, and ending the working day without hardening the heart.
 - [Courage Is Built in the Arena.](https://wordpower-seven.vercel.app/read-aloud/courage-in-the-arena): A speech-style read-aloud lesson for practicing conviction, action vocabulary, and a stronger public voice.
 - [The Courage to Revise](https://wordpower-seven.vercel.app/read-aloud/courage-to-revise): An original passage on learning, intellectual humility, and changing your mind without losing yourself.
 - [Cross the Bridge Before You Judge](https://wordpower-seven.vercel.app/read-aloud/cross-the-bridge-before-you-judge): An original reflection on moral imagination, incomplete stories, and the discipline of seeing from another shore.
@@ -179,6 +180,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Listen for the Small Weather](https://wordpower-seven.vercel.app/read-aloud/listen-for-the-small-weather): An original reflection on attention, nature, and the quiet intelligence of noticing change.
 - [Listen for the Unfinished Sentence](https://wordpower-seven.vercel.app/read-aloud/listen-for-the-unfinished-sentence): An original reflection on civic listening, hidden experience, and the patience required to understand across difference.
 - [Listen Past the First Answer](https://wordpower-seven.vercel.app/read-aloud/listen-past-the-first-answer): An original reflection on moral imagination, patient questions, and the stories people reveal slowly.
+- [Listen Past the First Note](https://wordpower-seven.vercel.app/read-aloud/listen-past-the-first-note): An original reflection on sound, attention, and the hidden richness of ordinary listening.
 - [Listen Until the Room Has Depth](https://wordpower-seven.vercel.app/read-aloud/listen-until-the-room-has-depth): An original reflection on attention, silence, and recovering the layered world around us.
 - [Look Again Until the World Changes](https://wordpower-seven.vercel.app/read-aloud/look-again-until-the-world-changes): An original reflection on drawing, attention, and learning to see beyond familiar names.
 - [Lower the Lamp, Not the Truth](https://wordpower-seven.vercel.app/read-aloud/lower-the-lamp-not-the-truth): An original reflection on calm communication, honest boundaries, and language that leaves dignity intact.
@@ -218,6 +220,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Speak at the Temperature of Truth](https://wordpower-seven.vercel.app/read-aloud/speak-at-the-temperature-of-truth): An original reflection on calm communication, honest disagreement, and words that leave dignity intact.
 - [Stand Near, Leave Room](https://wordpower-seven.vercel.app/read-aloud/stand-near-leave-room): An original reflection on parenting, independence, and staying available without standing in the way.
 - [Stand Where the Wind Can Find You](https://wordpower-seven.vercel.app/read-aloud/stand-where-the-wind-can-find-you): An original reflection on visible courage, steady leadership, and making uncertainty easier to face together.
+- [Stand Where Your Hands Can Help](https://wordpower-seven.vercel.app/read-aloud/stand-where-your-hands-can-help): An original reflection on everyday courage, useful action, and the scale of real responsibility.
 - [Take the Last Seat](https://wordpower-seven.vercel.app/read-aloud/take-the-last-seat): An original reflection on practical leadership, shared work, and earning the clearest view of a team.
 - [Teach a Child to Notice, Not Perform](https://wordpower-seven.vercel.app/read-aloud/teach-a-child-to-notice-not-perform): An original reflection on attention, praise, and the quiet growth of an inner life.
 - [Teach the Question, Not the Answer](https://wordpower-seven.vercel.app/read-aloud/teach-the-question-not-the-answer): An original reflection on learning, patient guidance, and helping a young mind become its own companion.

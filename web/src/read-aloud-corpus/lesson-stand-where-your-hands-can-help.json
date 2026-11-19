@@ -1,0 +1,229 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "stand-where-your-hands-can-help",
+  "title": {
+    "en": "Stand Where Your Hands Can Help",
+    "zh": "站到双手能帮上忙的地方"
+  },
+  "subtitle": {
+    "en": "An original reflection on everyday courage, useful action, and the scale of real responsibility.",
+    "zh": "一篇原创美文：关于日常勇气、有用的行动，以及真实责任的尺度。"
+  },
+  "tags": [
+    "Courage",
+    "Responsibility",
+    "Action",
+    "Community"
+  ],
+  "sources": [
+    {
+      "title": "Narrative of the Life of Frederick Douglass",
+      "author": "Frederick Douglass",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/23",
+      "note": {
+        "en": "Public-domain inspiration for moral courage, agency, and the dignity of acting against injustice; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中关于道德勇气、行动能力与反抗不公之尊严的思想；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical courage, not grand drama. Let each concrete action sound possible, close, and worth doing.",
+    "zh": "用务实的勇气朗读，不要追求宏大戏剧感。让每一个具体行动听起来都可行、切近，而且值得去做。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Reach of an Ordinary Person",
+      "zh": "一个普通人伸手可及的范围"
+    },
+    "intro": {
+      "en": "This original passage considers how courage becomes useful when it moves from distant concern to a place within our reach.",
+      "zh": "这篇原创文章思考：当勇气从遥远的关切走到伸手可及之处，它如何真正变得有用。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Leave the Balcony",
+          "zh": "1. 走下看台"
+        },
+        "text": "From a distance, every problem becomes enormous. We stand on the balcony of opinion, naming what is broken below: the careless rule, the lonely neighbor, the meeting where one voice is repeatedly ignored. The view may be accurate, but accuracy alone does not lift a box, question a habit, or make room at the table. Courage begins when we leave the balcony and choose a place to stand. Not the center of every crisis. Not the role of hero. Simply the nearest point where our hands, time, skill, or honest sentence can alter what happens next. Responsibility becomes less theatrical there. It has a door number, a person's name, a task that can be started before confidence arrives.",
+        "coaching": {
+          "en": "Give the balcony image some distance, then bring the voice closer through the concrete list. Land firmly on before confidence arrives.",
+          "zh": "看台的意象要读出距离感，再通过具体列表把声音拉近。before confidence arrives 要坚定落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Choose a Useful Scale",
+          "zh": "2. 选择有用的尺度"
+        },
+        "text": "A useful scale is not a small conscience. It is a conscience with traction. Suppose a new colleague is dismissed in conversation. You may not repair the culture by noon, but you can return to her unfinished point and credit it by name. Suppose the park is littered after a crowded weekend. You cannot solve waste in one walk, but you can fill one bag, report the damaged bin, and invite another pair of hands. These acts do not excuse larger failures. They create evidence that another pattern is possible. They also train the muscles required for harder moments: noticing clearly, bearing a little discomfort, and acting without the guarantee of applause.",
+        "coaching": {
+          "en": "Keep the examples brisk and specific. Stress not a small conscience and give the final three-part list steady momentum.",
+          "zh": "例子要利落具体。强调 not a small conscience，并让结尾的三项列举稳步推进。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Stay for the Next Task",
+          "zh": "3. 为下一项任务留下来"
+        },
+        "text": "The first brave act is often visible; the second is usually maintenance. Send the follow-up note. Learn the procedure. Ask whether the person you defended now has what they need. Real courage survives the fading of excitement. It accepts correction when its help was clumsy and returns without demanding a medal for good intentions. This is how an ordinary person gains moral weight: not by appearing fearless, but by becoming dependable. The world remains larger than any pair of hands. That fact can humble us without excusing us. Find the place where your reach meets a real need. Stand there long enough to be useful. Then, when the work shifts, move with it.",
+        "coaching": {
+          "en": "Begin with calm realism. Make the short task sentences clean and direct, then end with modest forward motion.",
+          "zh": "开头带着平静的现实感。几个简短任务句要干净直接，结尾则保持谦逊的前行动势。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "agency",
+      "meaning": {
+        "en": "The ability to make choices and take effective action.",
+        "zh": "能动性；作出选择并采取有效行动的能力。"
+      },
+      "use": {
+        "en": "The new role gave her more agency in daily decisions.",
+        "zh": "新职位让她在日常决策中拥有更多主动权。"
+      }
+    },
+    {
+      "term": "alter",
+      "meaning": {
+        "en": "To change something, usually without replacing it completely.",
+        "zh": "改变；通常指在不完全替换的情况下作出变化。"
+      },
+      "use": {
+        "en": "One honest question altered the direction of the meeting.",
+        "zh": "一个坦诚的问题改变了会议的方向。"
+      }
+    },
+    {
+      "term": "traction",
+      "meaning": {
+        "en": "A firm grip that allows progress; practical influence or momentum.",
+        "zh": "抓地力；使进展成为可能的实际影响力或动能。"
+      },
+      "use": {
+        "en": "The proposal gained traction after the team tested it.",
+        "zh": "团队试行之后，这项提议开始获得支持并推进。"
+      }
+    },
+    {
+      "term": "dismiss",
+      "meaning": {
+        "en": "To treat an idea or person as unworthy of attention.",
+        "zh": "轻视；认为某个想法或某个人不值得关注。"
+      },
+      "use": {
+        "en": "Do not dismiss the concern before hearing the evidence.",
+        "zh": "在听取证据之前，不要轻率否定这种担忧。"
+      }
+    },
+    {
+      "term": "credit",
+      "meaning": {
+        "en": "To publicly recognize someone as the source of an idea or achievement.",
+        "zh": "归功于；公开承认某人是想法或成果的来源。"
+      },
+      "use": {
+        "en": "She credited her assistant for the key insight.",
+        "zh": "她把关键洞见的功劳归于自己的助理。"
+      }
+    },
+    {
+      "term": "dependable",
+      "meaning": {
+        "en": "Able to be trusted to do what is needed.",
+        "zh": "可靠的；值得信赖，能完成所需之事的。"
+      },
+      "use": {
+        "en": "He is calm, prepared, and dependable under pressure.",
+        "zh": "他在压力下冷静、有准备而且可靠。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Give clear stress to hands, time, skill, and honest sentence.",
+      "zh": "清楚重读 hands、time、skill 和 honest sentence。"
+    },
+    {
+      "en": "Link smoothly in where our reach meets a real need.",
+      "zh": "在 where our reach meets a real need 中自然连读。"
+    },
+    {
+      "en": "Keep the endings distinct in acts, shifts, asks, and needs.",
+      "zh": "清楚区分 acts、shifts、asks 和 needs 的词尾。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow with grounded conviction. Sound ready to act, not eager to impress.",
+      "zh": "跟读时保持脚踏实地的信念。声音要像准备行动，而不是急于表现。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: contrast distant opinion with nearby action.",
+        "zh": "第一遍：对比遥远的议论与近处的行动。"
+      },
+      {
+        "en": "Pass two: keep the practical examples quick and natural.",
+        "zh": "第二遍：把务实的例子读得轻快自然。"
+      },
+      {
+        "en": "Pass three: make the ending dependable rather than heroic.",
+        "zh": "第三遍：让结尾听起来可靠，而不是英雄化。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where does your reach meet a real need this week?",
+      "zh": "这一周，你伸手可及的范围在哪里与真实需要相遇？"
+    },
+    {
+      "en": "What second task would turn one good intention into dependable help?",
+      "zh": "哪一项后续任务，能把一次善意变成可靠的帮助？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/stand-where-your-hands-can-help/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/stand-where-your-hands-can-help/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/stand-where-your-hands-can-help/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/stand-where-your-hands-can-help/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/stand-where-your-hands-can-help/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/stand-where-your-hands-can-help/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/stand-where-your-hands-can-help/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/stand-where-your-hands-can-help/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/stand-where-your-hands-can-help/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/stand-where-your-hands-can-help/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/stand-where-your-hands-can-help/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/stand-where-your-hands-can-help/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/stand-where-your-hands-can-help/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/stand-where-your-hands-can-help/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/stand-where-your-hands-can-help/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/stand-where-your-hands-can-help/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/stand-where-your-hands-can-help/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/stand-where-your-hands-can-help/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/stand-where-your-hands-can-help/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/stand-where-your-hands-can-help/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/stand-where-your-hands-can-help/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/stand-where-your-hands-can-help/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/stand-where-your-hands-can-help/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/stand-where-your-hands-can-help/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/stand-where-your-hands-can-help/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/stand-where-your-hands-can-help/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/stand-where-your-hands-can-help/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/stand-where-your-hands-can-help/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/stand-where-your-hands-can-help/clips/sources_0.mp3"
+    }
+  }
+}

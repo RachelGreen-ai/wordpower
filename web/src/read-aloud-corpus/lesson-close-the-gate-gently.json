@@ -1,0 +1,229 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "close-the-gate-gently",
+  "title": {
+    "en": "Close the Gate Gently",
+    "zh": "轻轻关上那道门"
+  },
+  "subtitle": {
+    "en": "An original reflection on rest, humane boundaries, and ending the working day without hardening the heart.",
+    "zh": "一篇原创美文：关于休息、人性化的边界，以及如何在结束工作时不让心变得僵硬。"
+  },
+  "tags": [
+    "Rest",
+    "Boundaries",
+    "Work",
+    "Wellbeing"
+  ],
+  "sources": [
+    {
+      "title": "Journal 01, 1837–1846",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/57393",
+      "note": {
+        "en": "Public-domain inspiration for deliberate attention to daily rhythms, work, and the natural world; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对日常节奏、劳作与自然世界的专注观察；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with spacious calm. The boundary in this lesson is kind but real: soften the voice without making it uncertain.",
+    "zh": "用舒展平静的语气朗读。本课中的边界温和却真实：声音可以柔和，但不能犹疑。"
+  },
+  "passage": {
+    "title": {
+      "en": "An Evening With a Clear Edge",
+      "zh": "让夜晚拥有清晰的边缘"
+    },
+    "intro": {
+      "en": "This original passage explores how a deliberate ending can protect rest, improve work, and return us to the people before us.",
+      "zh": "这篇原创文章探讨：一个有意识的收尾，如何保护休息、改善工作，并让我们真正回到眼前的人身边。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Work Without a Shore",
+          "zh": "1. 没有岸的工作"
+        },
+        "text": "Modern work rarely announces that it is finished. One message waits beneath another; a document can always be polished; tomorrow's concern appears in tonight's pocket with a small vibration. Without a chosen edge, work spreads like water across a flat floor. It enters dinner in the form of a distant glance. It sits beside a conversation, asking for half the mind. We may call this dedication, yet endless availability often makes our attention thin and our judgment tired. A shore does not insult the sea. It gives the water a shape. In the same way, an ending can honor work by containing it, so that effort has rhythm instead of merely continuing.",
+        "coaching": {
+          "en": "Keep the opening observant, not bitter. Stretch the water image slightly, and give a shore does not insult the sea quiet authority.",
+          "zh": "开头要敏锐观察，而非抱怨。水的意象稍微放慢，a shore does not insult the sea 要读出安静的力量。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make a Small Closing Ritual",
+          "zh": "2. 建立一个小小的收尾仪式"
+        },
+        "text": "A boundary becomes easier to trust when it has a visible form. Write down the next action rather than carrying the whole problem in memory. Close the unnecessary tabs. Place the unfinished page where morning can find it. Then say, even if only to yourself, This is enough for today. The sentence does not claim that everything is complete. It means the day has received an honest portion of your strength. A closing ritual also reduces the fear that rest will erase progress. The work has not been abandoned; it has been given an appointment. What remains can wait without chasing you from room to room.",
+        "coaching": {
+          "en": "Make the instructions clean and reassuring. Pause around This is enough for today, with warmth on enough.",
+          "zh": "指令要清楚而令人安心。This is enough for today 前后稍作停顿，并温暖地强调 enough。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Return With Your Whole Attention",
+          "zh": "3. 带着完整的注意力回来"
+        },
+        "text": "Closing the gate is not turning cold. A good gate opens again at the right hour. It protects the field from being trampled at night and lets the path remain clear for morning. Beyond work, other forms of intelligence are waiting: the body noticing its fatigue, a friend telling a story with no agenda, a meal whose flavors disappear when eaten beside a screen. Rest is not the opposite of responsibility. It restores the person who must practice responsibility tomorrow. So close the gate gently. Let the final latch be a breath, not a slam. Notice the evening that was present all along. When you return to the work, return by choice—with steadier hands, a wider mind, and something living to bring.",
+        "coaching": {
+          "en": "Let good gate sound open and humane. Slow through the evening details, then make the last three qualities fresh and hopeful.",
+          "zh": "good gate 要读得开放而有人情味。在夜晚的细节处放慢，最后三个特质要清新而充满希望。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "availability",
+      "meaning": {
+        "en": "The state of being ready and reachable for use, work, or attention.",
+        "zh": "随时可用；准备好被联系、工作或投入注意力的状态。"
+      },
+      "use": {
+        "en": "Constant availability made deep work difficult.",
+        "zh": "随时在线让深度工作变得困难。"
+      }
+    },
+    {
+      "term": "contain",
+      "meaning": {
+        "en": "To keep something within limits or boundaries.",
+        "zh": "控制；把某事物限制在一定范围或边界内。"
+      },
+      "use": {
+        "en": "A short agenda helped contain the discussion.",
+        "zh": "一份简短议程帮助控制了讨论范围。"
+      }
+    },
+    {
+      "term": "ritual",
+      "meaning": {
+        "en": "A repeated action that gives meaning or structure to a moment.",
+        "zh": "仪式；为某个时刻赋予意义或结构的重复行动。"
+      },
+      "use": {
+        "en": "Tea and a short walk became her evening ritual.",
+        "zh": "喝茶和短途散步成了她晚间的固定仪式。"
+      }
+    },
+    {
+      "term": "portion",
+      "meaning": {
+        "en": "A part or share of a larger whole.",
+        "zh": "一部分；一个更大整体中的份额。"
+      },
+      "use": {
+        "en": "Give a reasonable portion of your energy to each task.",
+        "zh": "为每项任务分配合理的一部分精力。"
+      }
+    },
+    {
+      "term": "agenda",
+      "meaning": {
+        "en": "A list of aims or topics, sometimes an unstated purpose.",
+        "zh": "议程；目标或议题清单，有时也指未明说的目的。"
+      },
+      "use": {
+        "en": "We talked for an hour without an agenda.",
+        "zh": "我们没有任何目的地聊了一个小时。"
+      }
+    },
+    {
+      "term": "restore",
+      "meaning": {
+        "en": "To return someone or something to strength or a good condition.",
+        "zh": "恢复；使某人或某物重获力量或良好状态。"
+      },
+      "use": {
+        "en": "A quiet weekend restored her concentration.",
+        "zh": "一个安静的周末恢复了她的专注力。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link naturally in work spreads like water across a flat floor.",
+      "zh": "在 work spreads like water across a flat floor 中自然连读。"
+    },
+    {
+      "en": "Use firm, warm stress in This is enough for today.",
+      "zh": "在 This is enough for today 中用坚定而温暖的重音。"
+    },
+    {
+      "en": "Keep the contrast clear between breath and slam.",
+      "zh": "清楚读出 breath 与 slam 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are ending the day with care. Keep the pace unhurried and the boundary unmistakable.",
+      "zh": "跟读时，想象你正在用心结束一天。语速从容，边界清晰明确。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: shape the images of water, shore, gate, and field.",
+        "zh": "第一遍：塑造水、岸、门与田野的意象。"
+      },
+      {
+        "en": "Pass two: make the closing ritual sound simple enough to try tonight.",
+        "zh": "第二遍：让收尾仪式听起来简单到今晚就能尝试。"
+      },
+      {
+        "en": "Pass three: finish with restored energy, not sleepy softness.",
+        "zh": "第三遍：用恢复后的能量收尾，而不是困倦的柔弱。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What visible action could mark the end of your working day?",
+      "zh": "哪一个看得见的行动，可以标志你工作日的结束？"
+    },
+    {
+      "en": "What part of life receives only half your attention when work has no shore?",
+      "zh": "当工作没有边界时，生活中的哪一部分只能得到你一半的注意力？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/close-the-gate-gently/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/close-the-gate-gently/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/close-the-gate-gently/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/close-the-gate-gently/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/close-the-gate-gently/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/close-the-gate-gently/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/close-the-gate-gently/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/close-the-gate-gently/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/close-the-gate-gently/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/close-the-gate-gently/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/close-the-gate-gently/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/close-the-gate-gently/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/close-the-gate-gently/clips/passage_sections_2_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/close-the-gate-gently/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/close-the-gate-gently/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/close-the-gate-gently/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/close-the-gate-gently/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/close-the-gate-gently/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/close-the-gate-gently/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/close-the-gate-gently/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/close-the-gate-gently/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/close-the-gate-gently/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/close-the-gate-gently/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/close-the-gate-gently/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/close-the-gate-gently/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/close-the-gate-gently/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/close-the-gate-gently/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/close-the-gate-gently/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/close-the-gate-gently/clips/sources_0.mp3"
+    }
+  }
+}
