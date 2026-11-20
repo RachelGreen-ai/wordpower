@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-the-orchard-keep-its-time",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let the Orchard Keep Its Time",
+    "zh": "让果园按自己的时节生长"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient growth, seasonal attention, and work that cannot be hurried without being harmed.",
+    "zh": "一篇原创美文：关于耐心成长、顺应时节的观察，以及那些越催促越容易受损的事。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Patience",
+    "Nature",
+    "Growth",
+    "Attention",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "The Natural History of Selborne",
+      "author": "Gilbert White",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1408",
+      "note": {
+        "en": "Public-domain inspiration for close seasonal observation; this lesson is entirely original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中对季节变化的细致观察；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with spacious patience. Let the concrete details feel fresh, and keep the practical sentences warm rather than solemn.",
+    "zh": "用舒展而耐心的节奏朗读。具体细节要有新鲜感，实用句子要温暖，不要过于庄重。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Calendar Written in Leaves",
+      "zh": "写在叶片上的日历"
+    },
+    "intro": {
+      "en": "This original passage uses an orchard to explore the difference between steady care and anxious acceleration.",
+      "zh": "这篇原创文章借果园来探讨：稳定的照料与焦虑的催促究竟有何不同。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Temptation to Tug",
+          "zh": "1. 想要用力拉扯的冲动"
+        },
+        "text": "In early spring, an orchard can look almost idle. The branches hold a faint green promise, but there is little to harvest and nothing dramatic to report. A hurried visitor may wonder whether the trees are doing enough. Yet beneath the bark, water is rising. Roots are reading the dark soil. Buds are answering small changes in light that no calendar on a wall can command. We often meet our own unfinished work with less respect. We tug at a new skill, a friendship, or a difficult decision as if growth were a curtain stuck on a rail. But pulling harder does not summon summer. It only makes us tired enough to mistake strain for progress.",
+        "coaching": {
+          "en": "Give the hidden activity a quiet sense of movement. Stress tug, pulling, and strain without making them harsh.",
+          "zh": "把看不见的生长读出安静的动感。强调 tug、pulling 和 strain，但不要读得生硬。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Care Has a Rhythm",
+          "zh": "2. 照料自有节奏"
+        },
+        "text": "Patience is sometimes confused with leaving things alone. An orchard corrects that idea. The grower prunes before the sap runs strongly, watches for insects, repairs a fence, and carries water when the rain fails. This is not passive waiting. It is timely participation. The question is not, “How can I force the fruit?” but, “What does this season ask of my hands?” Some days ask for action; others ask for observation. Some conversations need a clear sentence, while others need a night of silence before the next reply. Mature patience is alert. It notices the moment when help becomes interference, and when delay has stopped being wise and become avoidance.",
+        "coaching": {
+          "en": "Keep the list of orchard tasks light and active. Make the two questions sound genuinely useful, not rhetorical.",
+          "zh": "果园劳作的列举要轻快、有行动感。两句提问要读得真诚实用，不要像反问。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Measure by Signs",
+          "zh": "3. 用迹象衡量"
+        },
+        "text": "When results arrive slowly, we need better measures. Instead of asking only whether the fruit is ready, notice whether the branches are stronger than last year. Has the soil become more generous? Are there more bees at noon? In human work, the early signs may be equally modest: a question becomes more precise, a paragraph needs fewer repairs, an apology comes sooner, or the body no longer tightens before a familiar task. These are not consolation prizes. They are evidence that the system is learning. A good measure makes quiet progress visible without demanding that it dress itself as a triumph. It lets us adjust our care while protecting the pace at which real capacity forms.",
+        "coaching": {
+          "en": "Use a gently rising rhythm through the questions and examples. Land clearly on evidence, adjust, and capacity.",
+          "zh": "提问和例子要用轻微上扬的节奏推进。清楚落在 evidence、adjust 和 capacity 上。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Receive the Season",
+          "zh": "4. 接住这个时节"
+        },
+        "text": "By late summer, the orchard seems to explain itself. Color gathers on the fruit; branches lean under visible weight. It is easy then to praise abundance and forget the blank-looking months that prepared it. Remember them. They teach a form of confidence quieter than optimism: the confidence to do today's necessary work without demanding today's reward. Not every tree will bear equally, and not every plan deserves another season. Patience includes honest pruning. Still, much of what matters asks us to remain present before it becomes impressive. Tend the root, read the weather, and let small signs revise your method. The orchard is not late. Perhaps your worthy work is not late either. Perhaps it is keeping the only time in which it can become sound.",
+        "coaching": {
+          "en": "Let the late-summer image open warmly. Slow down for the final four sentences and finish with grounded reassurance.",
+          "zh": "晚夏的画面要读得温暖舒展。最后四句放慢，以踏实的安定感收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "acceleration",
+      "meaning": {
+        "en": "The process of becoming faster or making something happen sooner.",
+        "zh": "加速；使某事更快发生的过程。"
+      },
+      "use": {
+        "en": "Not every project benefits from acceleration.",
+        "zh": "并非每个项目都适合加速推进。"
+      }
+    },
+    {
+      "term": "timely",
+      "meaning": {
+        "en": "Happening at the right or useful moment.",
+        "zh": "适时的；在恰当时刻发生的。"
+      },
+      "use": {
+        "en": "A timely question changed our approach.",
+        "zh": "一个适时的问题改变了我们的方法。"
+      }
+    },
+    {
+      "term": "interference",
+      "meaning": {
+        "en": "Unwanted involvement that prevents a process from working naturally.",
+        "zh": "干扰；妨碍某个过程自然进行的介入。"
+      },
+      "use": {
+        "en": "Her help became interference when she stopped listening.",
+        "zh": "当她不再倾听时，帮助就变成了干扰。"
+      }
+    },
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "Limited in size or degree, without being unimportant.",
+        "zh": "不大的；有限却并非不重要的。"
+      },
+      "use": {
+        "en": "We made modest but steady progress.",
+        "zh": "我们取得了不大却稳定的进展。"
+      }
+    },
+    {
+      "term": "capacity",
+      "meaning": {
+        "en": "The ability or room to do, hold, or understand more.",
+        "zh": "能力；承载或理解更多事物的空间。"
+      },
+      "use": {
+        "en": "Practice increased her capacity for difficult conversations.",
+        "zh": "练习提升了她应对艰难对话的能力。"
+      }
+    },
+    {
+      "term": "abundance",
+      "meaning": {
+        "en": "A plentiful supply or a sense of more than enough.",
+        "zh": "丰盛；充足有余的状态。"
+      },
+      "use": {
+        "en": "The garden offered an abundance of color.",
+        "zh": "花园呈现出丰盛的色彩。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the consonants smoothly in roots are reading and buds are answering.",
+      "zh": "在 roots are reading 和 buds are answering 中自然连读辅音与元音。"
+    },
+    {
+      "en": "Use contrastive stress in help becomes interference and delay becomes avoidance.",
+      "zh": "在 help becomes interference 和 delay becomes avoidance 中使用对比重音。"
+    },
+    {
+      "en": "Let the three final verbs—tend, read, and let—set a calm, deliberate rhythm.",
+      "zh": "让结尾的三个动词 tend、read、let 建立沉静而有意的节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are encouraging someone whose careful work has not yet become visible.",
+      "zh": "跟读时，想象你在鼓励一个认真付出、成果却尚未显现的人。"
+    },
+    "steps": [
+      {
+        "en": "Pause after each seasonal image so the listener can see it.",
+        "zh": "每个季节意象之后稍作停顿，让听者看见画面。"
+      },
+      {
+        "en": "Keep the practical questions curious and open.",
+        "zh": "把实用问题读得好奇而开放。"
+      },
+      {
+        "en": "End with reassurance, but avoid a sentimental tone.",
+        "zh": "结尾要让人安心，但避免过度煽情。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What worthy work in your life may need a better measure rather than more pressure?",
+      "zh": "你生活中哪一件值得做的事，需要的也许是更好的衡量方式，而不是更大的压力？"
+    },
+    {
+      "en": "What does this season ask of your hands: action, observation, or honest pruning?",
+      "zh": "你眼下的这个阶段需要双手做什么：行动、观察，还是诚实地修剪取舍？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-the-orchard-keep-its-time/narration.mp3",
+    "clips": {
+      "tag.2": "audio/read-aloud/let-the-orchard-keep-its-time/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-the-orchard-keep-its-time/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-the-orchard-keep-its-time/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-the-orchard-keep-its-time/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-the-orchard-keep-its-time/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-the-orchard-keep-its-time/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-the-orchard-keep-its-time/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-the-orchard-keep-its-time/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-the-orchard-keep-its-time/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-the-orchard-keep-its-time/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-the-orchard-keep-its-time/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-the-orchard-keep-its-time/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-the-orchard-keep-its-time/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-the-orchard-keep-its-time/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-the-orchard-keep-its-time/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-the-orchard-keep-its-time/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-the-orchard-keep-its-time/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-the-orchard-keep-its-time/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-the-orchard-keep-its-time/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-the-orchard-keep-its-time/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-the-orchard-keep-its-time/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-the-orchard-keep-its-time/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-the-orchard-keep-its-time/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-the-orchard-keep-its-time/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-the-orchard-keep-its-time/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-the-orchard-keep-its-time/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-the-orchard-keep-its-time/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-the-orchard-keep-its-time/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-the-orchard-keep-its-time/clips/sources_0.mp3",
+      "tag.0": "audio/read-aloud/let-the-orchard-keep-its-time/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-the-orchard-keep-its-time/clips/tag_1.mp3"
+    }
+  }
+}

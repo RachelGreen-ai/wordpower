@@ -1,0 +1,244 @@
+{
+  "lessonId": "ask-what-the-silence-is-protecting",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Ask What the Silence Is Protecting",
+    "zh": "问一问：沉默在保护什么"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral listening, guarded speech, and the patience to hear what fear cannot say directly.",
+    "zh": "一篇原创美文：关于道德倾听、防备中的表达，以及耐心听见恐惧无法直说的内容。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Listening",
+    "Empathy",
+    "Communication",
+    "Courage",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "Twenty Years at Hull-House",
+      "author": "Jane Addams",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1325",
+      "note": {
+        "en": "Public-domain inspiration for humane attention across differences of experience and power; this lesson is entirely original and reproduces none of the source text.",
+        "zh": "灵感来自这部公开领域作品中对不同经历与权力处境之间的人性关照；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with attentive warmth. Allow the questions to remain open, and give the moments of silence real breathing room.",
+    "zh": "用专注而温暖的声音朗读。让问题保持开放，也给文中的沉默留出真正的呼吸空间。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Sentence Behind the Sentence",
+      "zh": "话语背后的那句话"
+    },
+    "intro": {
+      "en": "This original passage explores how careful listening can recognize protection, power, and unspoken needs without inventing another person's story.",
+      "zh": "这篇原创文章探讨细致的倾听，如何辨认防备、权力与未说出口的需要，同时不擅自编造他人的故事。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Silence Is Not Empty",
+          "zh": "1. 沉默并非空白"
+        },
+        "text": "A silence enters a conversation with a history. It may be the pause of someone choosing careful words, the stillness of a person who has been interrupted too often, or the quiet after a question lands near an old bruise. We are tempted to fill that space. Advice rushes in; reassurance closes the gap; a brighter subject is offered like a chair pulled across a doorway. Yet silence is not always asking to be rescued. Sometimes it is performing useful work. It is holding dignity together, testing whether the room is safe, or giving a difficult truth time to approach the mouth. Before you speak, ask gently: What might this silence be protecting?",
+        "coaching": {
+          "en": "Let each kind of silence have a different shade. Leave a full pause before the final question.",
+          "zh": "把每一种沉默读出不同的色彩。最后的问题之前留出完整的停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Notice the Cost of Speaking",
+          "zh": "2. 看见开口的代价"
+        },
+        "text": "Not everyone pays the same price for a candid sentence. In one room, disagreement proves confidence; in another, it risks employment, belonging, or peace at home. Good listening includes this uneven ground. Instead of saying, “Just tell me what you think,” make the invitation more credible. Explain what will happen with the answer. Offer a private path. Allow time. Show, through smaller moments, that unwelcome information will not be punished. Trust rarely arrives because we demand honesty with a friendly face. It grows when our response to a minor truth predicts safety for a larger one. The listener's character is built in the seconds after hearing something inconvenient.",
+        "coaching": {
+          "en": "Keep the list of risks sober and specific. Read the practical invitations as usable options, not commands.",
+          "zh": "列举风险时要克制而具体。实用的邀请方式要读成可选择的方法，而不是命令。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Do Not Write the Missing Story",
+          "zh": "3. 不要代写缺失的故事"
+        },
+        "text": "Curiosity can become another form of pressure if it insists on an explanation. We may decide that a quiet colleague is angry, a distant child is hiding something, or a hesitant neighbor secretly agrees with us. These stories soothe uncertainty, but they replace the person with our interpretation. Moral imagination asks for more discipline. It lets us consider many possible rooms without claiming to know which room another person occupies. Say, “I noticed you became quiet. We can pause, or you can tell me what would help.” Observation leaves a door open; diagnosis quietly locks it. The aim is not to extract a confession. It is to make honest presence possible, including the honest choice not to speak yet.",
+        "coaching": {
+          "en": "Read the imagined stories lightly, then firm the tone at moral imagination. Make the quoted invitation spacious and unforced.",
+          "zh": "对想象出的故事轻轻带过，到 moral imagination 时语气更坚定。引语中的邀请要宽松、不施压。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Become a Safer Room",
+          "zh": "4. 让自己成为更安全的房间"
+        },
+        "text": "Listening is often described as a skill, but over time it becomes an atmosphere. People learn whether your attention is patient, whether their words will be displayed as evidence, and whether you remain kind when the story complicates your preferred conclusion. You cannot promise comfort, agreement, or secrecy beyond what is responsible. You can promise clarity about your limits and care in the way you receive what is offered. Then silence need not be treated as a wall. It can be a threshold beside which you wait without pushing. Ask what it may be protecting. Respect the answer you are not yet given. And shape your next sentence so that, if speech comes, it has somewhere humane to land.",
+        "coaching": {
+          "en": "Build steadily through the three whether phrases. Soften at threshold, then finish with humane steadiness.",
+          "zh": "三个 whether 短语要层层推进。读到 threshold 时放柔，最后以有人情味的沉稳收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "guarded",
+      "meaning": {
+        "en": "Careful not to reveal too much emotion or information.",
+        "zh": "有所保留的；谨慎不透露过多情绪或信息的。"
+      },
+      "use": {
+        "en": "His answer was polite but guarded.",
+        "zh": "他的回答礼貌，却有所保留。"
+      }
+    },
+    {
+      "term": "candid",
+      "meaning": {
+        "en": "Honest and direct, especially about something difficult.",
+        "zh": "坦率的；尤其指对难题诚实直接。"
+      },
+      "use": {
+        "en": "We had a candid conversation about the delay.",
+        "zh": "我们就延期进行了一次坦率的谈话。"
+      }
+    },
+    {
+      "term": "credible",
+      "meaning": {
+        "en": "Believable and worthy of trust.",
+        "zh": "可信的；值得信任的。"
+      },
+      "use": {
+        "en": "The apology felt credible because her behavior changed.",
+        "zh": "因为她的行为改变了，这份道歉显得可信。"
+      }
+    },
+    {
+      "term": "interpretation",
+      "meaning": {
+        "en": "An explanation of what something means.",
+        "zh": "解读；对某事含义的解释。"
+      },
+      "use": {
+        "en": "That is one interpretation, not the only one.",
+        "zh": "那只是一种解读，并非唯一解释。"
+      }
+    },
+    {
+      "term": "threshold",
+      "meaning": {
+        "en": "A point of entry or the beginning of a new experience.",
+        "zh": "门槛；进入某处或新阶段的起点。"
+      },
+      "use": {
+        "en": "The team stood at the threshold of a difficult change.",
+        "zh": "团队正站在一次艰难变化的门槛上。"
+      }
+    },
+    {
+      "term": "humane",
+      "meaning": {
+        "en": "Showing compassion, respect, and concern for suffering.",
+        "zh": "有人情味的；体现同情、尊重与关怀的。"
+      },
+      "use": {
+        "en": "They found a humane way to deliver the news.",
+        "zh": "他们找到了一种有人情味的方式来传达消息。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use a falling tone for observations and a gentle rising tone for open questions.",
+      "zh": "陈述观察时使用降调，开放式问题则使用轻柔的升调。"
+    },
+    {
+      "en": "Keep the consonant clusters clear in risks, trusts, asked, and respects.",
+      "zh": "清楚读出 risks、trusts、asked 和 respects 中的辅音组合。"
+    },
+    {
+      "en": "Pause around the contrast: Observation leaves a door open; diagnosis quietly locks it.",
+      "zh": "在对比句 Observation leaves a door open; diagnosis quietly locks it 两侧清楚停顿。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are making room for a truth that belongs to someone else.",
+      "zh": "跟读时，想象你在为一个属于他人的真相留出空间。"
+    },
+    "steps": [
+      {
+        "en": "Allow silence after each open question instead of rushing onward.",
+        "zh": "每个开放式问题之后留白，不要急着往下读。"
+      },
+      {
+        "en": "Keep the practical language calm, specific, and free of drama.",
+        "zh": "实用表达要平静、具体，不要戏剧化。"
+      },
+      {
+        "en": "Finish with warmth that does not demand a response.",
+        "zh": "以不索取回应的温暖语气收尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "When have you mistaken another person's silence for agreement, distance, or refusal?",
+      "zh": "你何时曾把他人的沉默误解为同意、疏远或拒绝？"
+    },
+    {
+      "en": "What could you change in your response to make one difficult truth safer to share?",
+      "zh": "你可以怎样改变自己的回应方式，让一个难以启齿的真相更安全地被说出来？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/ask-what-the-silence-is-protecting/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/ask-what-the-silence-is-protecting/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "lessonId": "give-the-work-a-clean-edge",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Give the Work a Clean Edge",
+    "zh": "给工作一个利落的收边"
+  },
+  "subtitle": {
+    "en": "An original reflection on craftsmanship, useful limits, and the dignity of finishing ordinary work well.",
+    "zh": "一篇原创美文：关于手艺、有效的边界，以及把平凡工作好好完成的尊严。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Craft",
+    "Career",
+    "Quality",
+    "Focus",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "Useful Work versus Useless Toil",
+      "author": "William Morris",
+      "organization": "Marxists Internet Archive",
+      "url": "https://www.marxists.org/archive/morris/works/1884/useful.htm",
+      "note": {
+        "en": "Public-domain inspiration for the dignity and purpose of useful work; this lesson is entirely original and reproduces none of the source text.",
+        "zh": "灵感来自这篇公开领域作品中对有用劳动之尊严与目的的思考；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with the calm concentration of a craftsperson. Keep the language precise, and let the final lines carry quiet pride.",
+    "zh": "带着手艺人的沉静专注来朗读。语言要精准，结尾要有克制而安静的自豪感。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Last Careful Inch",
+      "zh": "最后那一寸的认真"
+    },
+    "intro": {
+      "en": "This original passage explores how limits, handoffs, and thoughtful finishing turn effort into work that others can trust.",
+      "zh": "这篇原创文章探讨边界、交接与用心收尾，如何把付出变成他人可以信赖的成果。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Where Effort Becomes Work",
+          "zh": "1. 付出成为成果的地方"
+        },
+        "text": "A carpenter can spend all morning shaping a board, yet the usefulness of the work appears at the edge: where one surface meets another, where a hand will rest, where a drawer must close without complaint. Effort lives inside the worker; finish is what another person encounters. This is true far beyond the workshop. A report with a clear conclusion, a kitchen left ready for the next cook, or a decision recorded in language others can find—each has a clean edge. It does not merely stop. It arrives somewhere. Much professional frustration comes from work that is energetic in the middle but vague at the boundary, leaving the next person to guess what done was meant to mean.",
+        "coaching": {
+          "en": "Make the workshop details tactile. Contrast effort and finish with clear stress, then slow slightly for the final phrase.",
+          "zh": "把工坊细节读出触感。清楚重读 effort 与 finish，最后一个短语略微放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Choose the Boundary Early",
+          "zh": "2. 尽早确定边界"
+        },
+        "text": "A clean edge begins before the final hour. Ask early: Who will use this? What must they be able to do next? Which flaw would matter, and which detail is only asking for applause? These questions protect quality from perfectionism. Without them, care can spread endlessly, polishing hidden corners while the essential door still sticks. A useful boundary is not a lowering of standards. It gives standards a place to stand. It may be a deadline, a definition of ready, or a promise about what the work will not attempt. Once spoken, the boundary turns attention from anxious improvement toward purposeful completion. You can spend your best care where contact will occur.",
+        "coaching": {
+          "en": "Read the three questions distinctly. Give the contrast between quality and perfectionism an even, practical tone.",
+          "zh": "三个问题要读得层次分明。quality 与 perfectionism 的对比要平稳、务实。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Finish for the Next Pair of Hands",
+          "zh": "3. 为下一双手完成"
+        },
+        "text": "Good finishing is an act of imagination. Before you send the file, enter the room of the person receiving it. Can they see the main point? Do the names make sense? Is the difficult exception hidden in a footnote, or placed where it can prevent a mistake? This small rehearsal is a form of hospitality. It removes avoidable friction without pretending that every task can be effortless. The craftsperson does not erase the evidence of labor; the craftsperson makes the labor serve its purpose. A thoughtful handoff says, “I have carried this as far as promised. Here is its shape, here are its limits, and here is the handle by which you can lift it.”",
+        "coaching": {
+          "en": "Let the receiving-room questions sound attentive. Read the final quotation with steady generosity, not self-congratulation.",
+          "zh": "站在接收者角度的提问要读得细心。最后的引语要沉稳大方，不要带自我表扬的语气。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Stop Without Abandoning",
+          "zh": "4. 停下，但不是丢下"
+        },
+        "text": "There is courage in beginning, but another kind in declaring a piece complete. To finish is to accept that the work will leave your private control and meet the world's actual hands. It may be praised, revised, worn down, or quietly used without recognition. Let it go with honest confidence. Check the joint. Name the remaining risk. Sweep the bench. Then stop. A clean ending preserves energy for tomorrow and respect for today's promise. Over time, this habit gives your voice a recognizable character: not dazzling in every moment, but lucid, dependable, and considerate at the edges. That character is a form of mastery. It is how ordinary tasks, finished with attention, become part of a life one can stand behind.",
+        "coaching": {
+          "en": "Make the four short commands crisp but unhurried. Let lucid, dependable, and considerate form a balanced three-beat close.",
+          "zh": "四个短指令要利落但不匆忙。lucid、dependable、considerate 要形成平衡的三拍节奏。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "craftsmanship",
+      "meaning": {
+        "en": "Skill and care shown in making or completing something.",
+        "zh": "工艺水准；制作或完成某事时体现的技巧与用心。"
+      },
+      "use": {
+        "en": "Her concise proposal showed real craftsmanship.",
+        "zh": "她简洁的提案体现了真正的专业功力。"
+      }
+    },
+    {
+      "term": "handoff",
+      "meaning": {
+        "en": "The transfer of work or responsibility to another person.",
+        "zh": "交接；把工作或责任移交给他人。"
+      },
+      "use": {
+        "en": "A clear handoff prevented repeated work.",
+        "zh": "清晰的交接避免了重复劳动。"
+      }
+    },
+    {
+      "term": "friction",
+      "meaning": {
+        "en": "Difficulty or resistance that slows a process or relationship.",
+        "zh": "阻力；拖慢流程或关系的摩擦。"
+      },
+      "use": {
+        "en": "One shared checklist reduced friction.",
+        "zh": "一份共享清单减少了流程阻力。"
+      }
+    },
+    {
+      "term": "lucid",
+      "meaning": {
+        "en": "Expressed clearly and easy to understand.",
+        "zh": "清晰易懂的；表达明白的。"
+      },
+      "use": {
+        "en": "He gave a lucid account of the problem.",
+        "zh": "他把问题解释得十分清楚。"
+      }
+    },
+    {
+      "term": "purposeful",
+      "meaning": {
+        "en": "Done with a clear aim and deliberate intention.",
+        "zh": "有明确目的的；有意为之的。"
+      },
+      "use": {
+        "en": "The pause felt purposeful rather than awkward.",
+        "zh": "这个停顿显得有意而为，而不是尴尬。"
+      }
+    },
+    {
+      "term": "mastery",
+      "meaning": {
+        "en": "Deep skill or control developed through practice.",
+        "zh": "精通；通过练习形成的深厚能力。"
+      },
+      "use": {
+        "en": "Mastery often looks simple from the outside.",
+        "zh": "真正的精通从外面看往往很简单。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep final consonants clear in shaped, worked, promised, and stopped.",
+      "zh": "清楚读出 shaped、worked、promised 和 stopped 的词尾辅音。"
+    },
+    {
+      "en": "Use thought groups in Here is its shape, here are its limits, and here is the handle.",
+      "zh": "在 Here is its shape、here are its limits、and here is the handle 之间划分意群。"
+    },
+    {
+      "en": "Give equal rhythmic weight to lucid, dependable, and considerate.",
+      "zh": "让 lucid、dependable、considerate 获得均衡的节奏重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are explaining your standard of work to a trusted colleague.",
+      "zh": "跟读时，想象你在向一位信任的同事说明自己的工作标准。"
+    },
+    "steps": [
+      {
+        "en": "Keep the workshop images concrete and lightly paced.",
+        "zh": "把工坊意象读得具体，节奏轻巧。"
+      },
+      {
+        "en": "Use clean pauses around each practical question.",
+        "zh": "每个实用问题前后都要清楚停顿。"
+      },
+      {
+        "en": "Let the ending sound confident without sounding grand.",
+        "zh": "结尾要自信，但不要显得宏大夸张。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where does your current work meet the next person's hands?",
+      "zh": "你眼下的工作，会在哪里交到下一双手中？"
+    },
+    {
+      "en": "What clear boundary would help you replace endless polishing with purposeful completion?",
+      "zh": "哪一条清晰边界，能帮助你停止无尽打磨，转向有目的的完成？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/give-the-work-a-clean-edge/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/give-the-work-a-clean-edge/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/give-the-work-a-clean-edge/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/give-the-work-a-clean-edge/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/give-the-work-a-clean-edge/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/give-the-work-a-clean-edge/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/give-the-work-a-clean-edge/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/give-the-work-a-clean-edge/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/give-the-work-a-clean-edge/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/give-the-work-a-clean-edge/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/give-the-work-a-clean-edge/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/give-the-work-a-clean-edge/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/give-the-work-a-clean-edge/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/give-the-work-a-clean-edge/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/give-the-work-a-clean-edge/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/give-the-work-a-clean-edge/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/give-the-work-a-clean-edge/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/give-the-work-a-clean-edge/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/give-the-work-a-clean-edge/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/give-the-work-a-clean-edge/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/give-the-work-a-clean-edge/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/give-the-work-a-clean-edge/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/give-the-work-a-clean-edge/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/give-the-work-a-clean-edge/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/give-the-work-a-clean-edge/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/give-the-work-a-clean-edge/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/give-the-work-a-clean-edge/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/give-the-work-a-clean-edge/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/give-the-work-a-clean-edge/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/give-the-work-a-clean-edge/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/give-the-work-a-clean-edge/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/give-the-work-a-clean-edge/clips/sources_0.mp3"
+    }
+  }
+}
