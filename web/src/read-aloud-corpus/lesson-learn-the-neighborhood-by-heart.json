@@ -1,0 +1,244 @@
+{
+  "lessonId": "learn-the-neighborhood-by-heart",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Learn the Neighborhood by Heart",
+    "zh": "把附近的世界记在心里"
+  },
+  "subtitle": {
+    "en": "An original reflection on local nature, repeated walks, and the belonging that grows from careful notice.",
+    "zh": "一篇原创美文：关于身边自然、反复行走，以及从细致观察中生长的归属感。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Nature",
+    "Attention",
+    "Belonging",
+    "Observation",
+    "Calm"
+  ],
+  "sources": [
+    {
+      "title": "The Natural History of Selborne",
+      "author": "Gilbert White",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/20933",
+      "note": {
+        "en": "Public-domain inspiration for sustained observation of local landscapes and seasonal life; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对本地景物与季节生命的长期观察；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read at a walking pace. Let the concrete details arrive lightly, and give the reflective lines an unhurried stillness.",
+    "zh": "用散步般的节奏朗读。具体细节轻轻呈现，思考性的句子则要从容而安静。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Education of a Familiar Path",
+      "zh": "熟悉小路给予的教育"
+    },
+    "intro": {
+      "en": "This original passage explores how returning to one small landscape can deepen attention, memory, and care.",
+      "zh": "这篇原创文章探讨：反复回到一小片景物，如何深化我们的注意、记忆与关怀。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Choose a Modest Territory",
+          "zh": "1. 选择一片小小的领地"
+        },
+        "text": "You do not need a famous wilderness to begin noticing nature. Choose a modest territory: three blocks around your home, a path beside the station, the strip of soil behind a library. Walk it often enough for novelty to fade. At first, the place may seem too ordinary to deserve attention. Then distinctions appear. One tree keeps its leaves longer. Moss gathers on the shaded side of a wall. A sparrow returns to the same loose tile before rain. The landscape has not suddenly become richer. Your attention has learned to receive what was already being offered.",
+        "coaching": {
+          "en": "Keep the places specific and humble. Let the three observations unfold gently, then emphasize learned to receive.",
+          "zh": "地点要读得具体而朴素。三个观察细节轻轻展开，随后重读 learned to receive。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Let Repetition Become Depth",
+          "zh": "2. 让重复变成深度"
+        },
+        "text": "Repetition is sometimes mistaken for emptiness. We imagine that a meaningful walk must lead somewhere new. But a familiar path offers another kind of travel: movement through time. The bare branch of January becomes the green haze of April, then the heavy shade of August. After several seasons, you stop seeing only objects and begin seeing relationships. The puddle lasts longer because the hedge protects it from wind. Insects gather where the evening sun warms brick. Knowledge arrives not as a list of names, but as a patient sense of what belongs with what.",
+        "coaching": {
+          "en": "Contrast somewhere new with movement through time. Give the seasonal sequence a smooth, widening rhythm.",
+          "zh": "读出 somewhere new 与 movement through time 的对比。季节的推进要流畅，节奏逐渐展开。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Keep a Record Small Enough to Keep",
+          "zh": "3. 记录要小到能够坚持"
+        },
+        "text": "A record need not be impressive. Write one sentence after each walk: First chestnut bud opened. Bats above the pharmacy at dusk. Wind moved the dry grass but not the low ivy. Dates give observation a home. Over time, scattered details begin to speak to one another, and memory becomes less confident but more accurate. You discover that the swallows returned earlier than you thought, or that the bright berries lasted well into winter. A small notebook corrects the stories we tell too easily. It teaches us to prefer the particular world over our convenient idea of it.",
+        "coaching": {
+          "en": "Read the notebook entries as clean snapshots. Slow slightly on less confident but more accurate.",
+          "zh": "几条笔记要读成清晰的快照。在 less confident but more accurate 处略微放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Belonging Begins with Recognition",
+          "zh": "4. 归属始于认得"
+        },
+        "text": "To know a place by heart is not to own it. It is to become answerable to what you can now recognize. You notice when a nest is disturbed, when a stream smells wrong, when an old tree disappears between two mornings. Care grows sharper because loss is no longer abstract. Yet recognition also enlarges delight. The first swift overhead is not merely a bird; it is a returned presence. The rain is not merely weather; it is water reaching the thirsty roots you passed yesterday. Walk the same way again. The path will not repeat itself exactly, and neither will you. Between those two changes, belonging quietly takes root.",
+        "coaching": {
+          "en": "Give not to own it a clear, thoughtful pause. Warm the returned-presence image, then let the last sentence settle slowly.",
+          "zh": "在 not to own it 之后留出清晰、思考性的停顿。returned presence 的意象要温暖，末句慢慢落稳。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "modest",
+      "meaning": {
+        "en": "Limited in size or scale, without being grand.",
+        "zh": "不大的；规模有限而不宏大的。"
+      },
+      "use": {
+        "en": "She chose a modest patch of woodland to study.",
+        "zh": "她选择了一小片林地进行观察。"
+      }
+    },
+    {
+      "term": "distinction",
+      "meaning": {
+        "en": "A difference that separates one thing from another.",
+        "zh": "区别；使一事物有别于另一事物的差异。"
+      },
+      "use": {
+        "en": "Practice helped him hear the distinction between the calls.",
+        "zh": "练习帮助他听出这些叫声之间的区别。"
+      }
+    },
+    {
+      "term": "sustained",
+      "meaning": {
+        "en": "Continued steadily over a period of time.",
+        "zh": "持续的；在一段时间内稳定延续的。"
+      },
+      "use": {
+        "en": "The project required sustained attention.",
+        "zh": "这个项目需要持续的专注。"
+      }
+    },
+    {
+      "term": "particular",
+      "meaning": {
+        "en": "Specific and concrete rather than general.",
+        "zh": "具体的；特定而非笼统的。"
+      },
+      "use": {
+        "en": "Describe the particular sound that woke you.",
+        "zh": "描述一下把你唤醒的那个具体声音。"
+      }
+    },
+    {
+      "term": "abstract",
+      "meaning": {
+        "en": "Existing mainly as an idea rather than a concrete experience.",
+        "zh": "抽象的；主要作为概念而非具体经验存在的。"
+      },
+      "use": {
+        "en": "The map became less abstract after we walked the route.",
+        "zh": "走过那条路线后，地图不再那么抽象。"
+      }
+    },
+    {
+      "term": "answerable",
+      "meaning": {
+        "en": "Responsible for responding to or caring for something.",
+        "zh": "负有责任的；需要对某事作出回应或照料的。"
+      },
+      "use": {
+        "en": "We are answerable for the condition of the shared garden.",
+        "zh": "我们有责任照料公共花园的状况。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants audible in blocks, path, moss, and roots.",
+      "zh": "清楚读出 blocks、path、moss 和 roots 的词尾辅音。"
+    },
+    {
+      "en": "Use light linking in a path beside the station and the shaded side of a wall.",
+      "zh": "在 a path beside the station 和 the shaded side of a wall 中轻柔连读。"
+    },
+    {
+      "en": "Balance the contrast in the path will not repeat itself exactly, and neither will you.",
+      "zh": "平衡读出 the path will not repeat itself exactly 与 neither will you 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a friend along a path you know well.",
+      "zh": "跟读时，想象你正带一位朋友走过一条熟悉的小路。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep each natural detail precise and visible.",
+        "zh": "第一遍：让每个自然细节都准确、可见。"
+      },
+      {
+        "en": "Pass two: use pauses to mark changes in season and scale.",
+        "zh": "第二遍：用停顿标示季节与尺度的变化。"
+      },
+      {
+        "en": "Pass three: let the final paragraph sound caring, not possessive.",
+        "zh": "第三遍：最后一段要读出关怀，而不是占有。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which small territory could you learn through repeated walks?",
+      "zh": "你可以通过反复行走来认识哪一片小小的地方？"
+    },
+    {
+      "en": "What one-sentence observation would you record today?",
+      "zh": "今天你会记下哪一句观察？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/learn-the-neighborhood-by-heart/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/learn-the-neighborhood-by-heart/clips/sources_0.mp3"
+    }
+  }
+}

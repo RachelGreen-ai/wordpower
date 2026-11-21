@@ -81,6 +81,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [A Career Is Built in Drafts](https://wordpower-seven.vercel.app/read-aloud/career-built-in-drafts): An original reflection on useful work, transferable skills, and learning without a perfect map.
 - [Carry a Lantern, Not a Verdict](https://wordpower-seven.vercel.app/read-aloud/carry-a-lantern-not-a-verdict): An original reflection on moral imagination, incomplete stories, and the discipline of seeing people whole.
 - [Carry a Question](https://wordpower-seven.vercel.app/read-aloud/carry-a-question): An original reflection on scientific wonder, patient inquiry, and the value of not knowing yet.
+- [Carry Calm into the Storm](https://wordpower-seven.vercel.app/read-aloud/carry-calm-into-the-storm): An original reflection on leadership, shared uncertainty, and the practical courage of the next clear action.
 - [Carry the Decision Calmly](https://wordpower-seven.vercel.app/read-aloud/carry-the-decision-calmly): An original reflection on leadership after the meeting, when a difficult decision must become shared work.
 - [Carry the Lantern into the Fog](https://wordpower-seven.vercel.app/read-aloud/carry-the-lantern-into-the-fog): An original reflection on leadership when the map is incomplete and certainty is unavailable.
 - [Many Hands Make the Map](https://wordpower-seven.vercel.app/read-aloud/carry-the-lantern-together): An original reflection on shared courage, neighborhood knowledge, and leadership that makes room for many hands.
@@ -134,6 +135,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Learn at the Speed of Roots](https://wordpower-seven.vercel.app/read-aloud/learn-at-the-speed-of-roots): An original reflection on patient study, durable skill, and the quiet work beneath visible progress.
 - [Learn the Grain of the Work](https://wordpower-seven.vercel.app/read-aloud/learn-the-grain-of-the-work): An original reflection on apprenticeship, useful ambition, and knowledge earned through the hands.
 - [Learn the Language of Repair](https://wordpower-seven.vercel.app/read-aloud/learn-the-language-of-repair): An original reflection on mending, stewardship, and the intelligence hidden in worn things.
+- [Learn the Neighborhood by Heart](https://wordpower-seven.vercel.app/read-aloud/learn-the-neighborhood-by-heart): An original reflection on local nature, repeated walks, and the belonging that grows from careful notice.
 - [Learn the Shape of Looking](https://wordpower-seven.vercel.app/read-aloud/learn-the-shape-of-looking): An original reflection on drawing, attention, and the patient craft of seeing what is actually there.
 - [Learn the Shape of Useful Work](https://wordpower-seven.vercel.app/read-aloud/learn-the-shape-of-useful-work): An original reflection on apprenticeship, invisible standards, and becoming trustworthy through practice.
 - [Leave a Chair for Another Story](https://wordpower-seven.vercel.app/read-aloud/leave-a-chair-for-another-story): An original reflection on judgment, moral imagination, and the stories we do not yet know.
@@ -159,6 +161,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Lend the Room Your Calm](https://wordpower-seven.vercel.app/read-aloud/lend-the-room-your-calm): An original reflection on leadership as the art of making clear action possible under pressure.
 - [Lend the Stranger a History](https://wordpower-seven.vercel.app/read-aloud/lend-the-stranger-a-history): An original reflection on moral imagination, fair judgment, and the stories we cannot see.
 - [Let Curiosity Carry a Lantern](https://wordpower-seven.vercel.app/read-aloud/let-curiosity-carry-a-lantern): An original reflection on patient experiments, useful questions, and wonder with its sleeves rolled up.
+- [Let Curiosity Hold the Candle](https://wordpower-seven.vercel.app/read-aloud/let-curiosity-hold-the-candle): An original reflection on patient experiments, honest questions, and the light hidden inside ordinary things.
 - [Let Curiosity Keep Its Hands Dirty](https://wordpower-seven.vercel.app/read-aloud/let-curiosity-keep-its-hands-dirty): An original reflection on experiment, practical learning, and the intelligence of making contact with the world.
 - [Let the Child Carry the Basket](https://wordpower-seven.vercel.app/read-aloud/let-the-child-carry-the-basket): An original reflection on useful responsibility, patient guidance, and the dignity of growing capable.
 - [Let the Child Carry the Cup](https://wordpower-seven.vercel.app/read-aloud/let-the-child-carry-the-cup): An original reflection on patience, useful risk, and the dignity of learning by doing.
