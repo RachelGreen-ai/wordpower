@@ -1,0 +1,244 @@
+{
+  "lessonId": "carry-calm-into-the-storm",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Carry Calm into the Storm",
+    "zh": "把沉着带进风暴"
+  },
+  "subtitle": {
+    "en": "An original reflection on leadership, shared uncertainty, and the practical courage of the next clear action.",
+    "zh": "一篇原创美文：关于领导力、共同面对不确定，以及做好下一个清晰行动的务实勇气。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Leadership",
+    "Courage",
+    "Composure",
+    "Teamwork",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "South: The Story of Shackleton's Last Expedition",
+      "author": "Ernest Shackleton",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/5199",
+      "note": {
+        "en": "Public-domain inspiration for steadiness, resourcefulness, and care for a group under extreme uncertainty; this lesson is entirely original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中在极端不确定下保持沉着、随机应变并照顾团队的精神；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded authority. Keep urgent moments brisk, but never let the voice lose its center.",
+    "zh": "用沉稳而有权威感的声音朗读。紧急处节奏可以加快，但声音始终不要失去重心。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Weather Inside the Group",
+      "zh": "团队里的天气"
+    },
+    "intro": {
+      "en": "This original passage considers how a leader can make uncertainty bearable without pretending to control it.",
+      "zh": "这篇原创文章思考：领导者如何在不假装掌控一切的前提下，让不确定变得可以承受。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. When the Plan Breaks",
+          "zh": "1. 当计划破裂"
+        },
+        "text": "A plan can fail all at once: the road closes, the funding disappears, the instrument gives an answer no one expected. In the first stunned minute, people look not only at the problem but at one another. They are asking a silent question: What kind of group will we become now? Leadership begins before a solution is complete. It begins in the quality of attention brought to the facts. Name what has changed. Name what remains. Refuse both panic and false comfort. A calm account of reality is not cold; it is shelter built from sentences sturdy enough for everyone to stand beneath.",
+        "coaching": {
+          "en": "Open with controlled urgency. Give the silent question room, then make the three short commands firm and even.",
+          "zh": "开头带着克制的紧迫感。给那个无声的问题留出空间，随后三个短指令要坚定而均匀。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Shrink the Horizon",
+          "zh": "2. 收近地平线"
+        },
+        "text": "When the whole distance cannot be seen, shorten the horizon. Decide what must happen before noon, before nightfall, before the next conversation. Large fear feeds on shapeless time; a useful task gives time edges. Check the water. Call the client. Move the equipment. Write down the decision while memory is clear. These actions may look too ordinary for the size of the crisis, yet ordinary competence is how a group recovers its footing. Each completed step says, without boasting, that the future is still being made. Momentum does not remove danger, but it returns some agency to tired hands.",
+        "coaching": {
+          "en": "Keep the horizon image broad, then make the four practical actions crisp. Warm the line about tired hands.",
+          "zh": "地平线的意象要读得开阔，随后四个实际行动要利落。读到 tired hands 时增加温度。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Spend Morale Carefully",
+          "zh": "3. 谨慎使用士气"
+        },
+        "text": "Morale is not a speech delivered once; it is a resource spent through hundreds of small choices. Who receives the driest seat? Whose concern is heard before it becomes resentment? Does the leader take the easy portion first, or last? A team notices the distribution of discomfort with astonishing accuracy. Fairness does not require identical burdens, but it does require visible reasons and shared respect. Humor may help, if it does not disguise another person's fear. Hope may help, if it remains answerable to facts. The strongest encouragement is often evidence that no one has become invisible simply because conditions are hard.",
+        "coaching": {
+          "en": "Read the questions without accusation. Balance the two if clauses, and let the final word invisible land clearly.",
+          "zh": "几个问题不要读出责备感。平衡两个 if 从句，并让末句的 invisible 清楚落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Lend the Group Your Rhythm",
+          "zh": "4. 把你的节奏借给团队"
+        },
+        "text": "Under pressure, a leader lends the group a rhythm: look, decide, act, review. Not every decision will be right, and not every voice will stay steady. Courage is not the absence of tremor. It is the choice to remain available—to new evidence, to another person's expertise, to the next necessary duty. When you do not know, say so cleanly. When you need help, ask before pride makes the cost higher. When the way opens, move. Calm is not a private ornament. Passed from voice to voice, it becomes coordination. Passed from hand to hand, it becomes a path through weather no one could command.",
+        "coaching": {
+          "en": "Give look, decide, act, review a four-beat rhythm. Build through the repeated when clauses, then close with sober confidence.",
+          "zh": "把 look、decide、act、review 读成四拍。三个重复的 when 从句逐步推进，结尾用清醒的自信收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "resourcefulness",
+      "meaning": {
+        "en": "The ability to find practical ways through difficulty.",
+        "zh": "随机应变的能力；在困难中找到实际办法的本领。"
+      },
+      "use": {
+        "en": "Their resourcefulness kept the project moving.",
+        "zh": "他们的随机应变让项目继续推进。"
+      }
+    },
+    {
+      "term": "stunned",
+      "meaning": {
+        "en": "So surprised or shocked that clear reaction is difficult.",
+        "zh": "震惊的；惊讶到一时难以清晰反应的。"
+      },
+      "use": {
+        "en": "The team was stunned by the sudden closure.",
+        "zh": "团队对突然关闭感到震惊。"
+      }
+    },
+    {
+      "term": "agency",
+      "meaning": {
+        "en": "The capacity to act and influence what happens.",
+        "zh": "能动性；采取行动并影响结果的能力。"
+      },
+      "use": {
+        "en": "One clear choice restored her sense of agency.",
+        "zh": "一个清晰的选择恢复了她的能动感。"
+      }
+    },
+    {
+      "term": "morale",
+      "meaning": {
+        "en": "The confidence and spirit of a person or group.",
+        "zh": "士气；个人或团队的信心与精神状态。"
+      },
+      "use": {
+        "en": "Honest updates helped protect morale.",
+        "zh": "诚实的进展通报有助于保护士气。"
+      }
+    },
+    {
+      "term": "resentment",
+      "meaning": {
+        "en": "Lasting anger caused by unfair treatment.",
+        "zh": "怨愤；因受到不公平对待而产生的持久愤怒。"
+      },
+      "use": {
+        "en": "Unexplained decisions created resentment.",
+        "zh": "没有解释的决定引发了怨愤。"
+      }
+    },
+    {
+      "term": "coordination",
+      "meaning": {
+        "en": "The organization of people or actions so they work well together.",
+        "zh": "协调；组织人员或行动使其有效配合。"
+      },
+      "use": {
+        "en": "Clear roles improved coordination during the emergency.",
+        "zh": "明确的角色分工改善了紧急情况下的协调。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final sounds clear in facts, tasks, helped, and passed.",
+      "zh": "清楚读出 facts、tasks、helped 和 passed 的词尾音。"
+    },
+    {
+      "en": "Use strong contrast in name what has changed and name what remains.",
+      "zh": "在 name what has changed 与 name what remains 中读出鲜明对比。"
+    },
+    {
+      "en": "Give equal stress to look, decide, act, and review.",
+      "zh": "给 look、decide、act、review 均等的重音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice must help a capable team think clearly under pressure.",
+      "zh": "跟读时，想象你的声音需要帮助一支能干的团队在压力下清晰思考。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the facts plain and free of drama.",
+        "zh": "第一遍：事实要读得平实，不添加戏剧感。"
+      },
+      {
+        "en": "Pass two: make each practical instruction concise and usable.",
+        "zh": "第二遍：每个实际指令都要简洁、可执行。"
+      },
+      {
+        "en": "Pass three: let the closing rhythm communicate shared courage.",
+        "zh": "第三遍：让结尾的节奏传达共同的勇气。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "When a plan breaks, which fact should you name first?",
+      "zh": "当计划破裂时，你最应该先说清哪一个事实？"
+    },
+    {
+      "en": "What next clear action could give your group more agency today?",
+      "zh": "今天哪一个清晰的下一步，能让你的团队更有能动性？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/carry-calm-into-the-storm/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/carry-calm-into-the-storm/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/carry-calm-into-the-storm/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/carry-calm-into-the-storm/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/carry-calm-into-the-storm/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/carry-calm-into-the-storm/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/carry-calm-into-the-storm/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/carry-calm-into-the-storm/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/carry-calm-into-the-storm/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/carry-calm-into-the-storm/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/carry-calm-into-the-storm/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/carry-calm-into-the-storm/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/carry-calm-into-the-storm/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/carry-calm-into-the-storm/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/carry-calm-into-the-storm/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/carry-calm-into-the-storm/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/carry-calm-into-the-storm/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/carry-calm-into-the-storm/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/carry-calm-into-the-storm/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/carry-calm-into-the-storm/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/carry-calm-into-the-storm/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/carry-calm-into-the-storm/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/carry-calm-into-the-storm/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/carry-calm-into-the-storm/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/carry-calm-into-the-storm/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/carry-calm-into-the-storm/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/carry-calm-into-the-storm/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/carry-calm-into-the-storm/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/carry-calm-into-the-storm/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/carry-calm-into-the-storm/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/carry-calm-into-the-storm/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/carry-calm-into-the-storm/clips/sources_0.mp3"
+    }
+  }
+}

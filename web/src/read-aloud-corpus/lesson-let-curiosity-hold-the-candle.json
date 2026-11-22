@@ -1,0 +1,244 @@
+{
+  "lessonId": "let-curiosity-hold-the-candle",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Let Curiosity Hold the Candle",
+    "zh": "让好奇心举起烛光"
+  },
+  "subtitle": {
+    "en": "An original reflection on patient experiments, honest questions, and the light hidden inside ordinary things.",
+    "zh": "一篇原创美文：关于耐心实验、诚实提问，以及藏在寻常事物里的光。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Science",
+    "Curiosity",
+    "Attention",
+    "Learning",
+    "Wonder"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration for learning science through close attention to ordinary phenomena; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品以细致观察寻常现象来学习科学的方法；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert warmth, as if you are showing a small discovery to a friend. Let each question open rather than hurry toward an answer.",
+    "zh": "用敏锐而温暖的语气朗读，仿佛正把一个小发现展示给朋友。让每个问题慢慢打开，不要急着奔向答案。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Small Flame, A Larger World",
+      "zh": "一簇小火，一方大世界"
+    },
+    "intro": {
+      "en": "This original passage explores how scientific attention turns familiar objects into invitations to think more carefully.",
+      "zh": "这篇原创文章探讨科学式的专注如何把熟悉之物变成邀请我们认真思考的入口。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin with What Is Near",
+          "zh": "1. 从身边之物开始"
+        },
+        "text": "A candle on a table seems to offer very little: a cotton thread, a pool of wax, a flame bending whenever the door opens. Yet stay beside it for a minute and the plain object begins to ask questions. Why does the wax climb? Why is the center of the flame darker than its edge? Where does the candle go as it grows shorter? Curiosity does not always need a telescope or a distant shore. It needs permission to remain with what everyone else has already named. The familiar world is not empty of mystery; it is often protected by our habit of passing too quickly.",
+        "coaching": {
+          "en": "Keep the opening simple and visual. Give each question a distinct lift, then settle warmly on the final sentence.",
+          "zh": "开头要朴素而有画面。每个问题都读出独立的上扬语调，末句温暖地落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Ask a Question You Can Touch",
+          "zh": "2. 提一个可以触摸的问题"
+        },
+        "text": "Good inquiry often begins by making a question smaller. Instead of asking how nature works, ask what changes when the wick is trimmed, or what the smoke does beneath a cool spoon. A question you can touch gives the mind somewhere to stand. You observe, predict, try, and revise. The sequence is modest, but it teaches a brave form of honesty. The result may refuse your favorite explanation. The elegant guess may fail before the clumsy one. When that happens, the experiment has not insulted you. It has offered a correction precise enough to use. Evidence is a demanding companion, but never a cruel one.",
+        "coaching": {
+          "en": "Make the sequence observe, predict, try, and revise rhythmic. Read the correction as welcome clarity, not defeat.",
+          "zh": "把 observe、predict、try、revise 读出节奏。把“修正”读成受欢迎的清晰，而不是失败。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Protect the Unfinished Thought",
+          "zh": "3. 保护尚未完成的想法"
+        },
+        "text": "Learning has a vulnerable middle. The first surprise has arrived, but the explanation is still thin. In that interval, confidence can become theatrical: we rush to sound certain because uncertainty feels like an empty room. Resist the performance. Say, “Here is what I noticed. Here is what I think it may mean. Here is what I would test next.” Such language does not weaken your voice. It gives your voice joints that can move when better knowledge appears. A mind that can revise without humiliation remains useful for a lifetime. It can carry conviction without turning conviction into a cage.",
+        "coaching": {
+          "en": "Slow down for the three-part quotation. Stress noticed, think, and test, then give the final image quiet weight.",
+          "zh": "三段式引语要放慢。重读 noticed、think、test，最后的意象要有安静的分量。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return the Light to the Room",
+          "zh": "4. 把光带回房间"
+        },
+        "text": "Discovery becomes generous when it returns to ordinary life. Perhaps you explain why a pan warms unevenly, why breath clouds a window, or why a wet path darkens after rain. You do not need to make the explanation grand. Accuracy has its own beauty. It connects a kitchen, a street, and a laboratory without pretending that wonder belongs to experts alone. Hold the candle low enough for another person to see beside you. Point to the detail that changed your mind. Leave space for their question. The finest learning does more than fill a page; it alters the quality of our looking, until the common world appears inexhaustible again.",
+        "coaching": {
+          "en": "Let the examples feel conversational. Brighten slightly on accuracy has its own beauty, then finish with spacious wonder.",
+          "zh": "几个例子要读得自然亲切。在 accuracy has its own beauty 处略微提亮，结尾留出开阔的惊奇感。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "phenomenon",
+      "meaning": {
+        "en": "An event or fact that can be observed and studied.",
+        "zh": "现象；可以被观察和研究的事件或事实。"
+      },
+      "use": {
+        "en": "We began with a familiar phenomenon: steam on glass.",
+        "zh": "我们从一个熟悉的现象开始：玻璃上的水汽。"
+      }
+    },
+    {
+      "term": "inquiry",
+      "meaning": {
+        "en": "The process of asking questions and investigating.",
+        "zh": "探究；提出问题并进行调查的过程。"
+      },
+      "use": {
+        "en": "Her inquiry started with one careful observation.",
+        "zh": "她的探究始于一次细致的观察。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To change an idea or plan in light of new information.",
+        "zh": "修正；根据新信息改变想法或计划。"
+      },
+      "use": {
+        "en": "Strong thinkers revise their explanations when evidence changes.",
+        "zh": "优秀的思考者会在证据变化时修正解释。"
+      }
+    },
+    {
+      "term": "vulnerable",
+      "meaning": {
+        "en": "Open to harm, doubt, or criticism.",
+        "zh": "脆弱的；容易受到伤害、怀疑或批评的。"
+      },
+      "use": {
+        "en": "A new idea can feel vulnerable before it is tested.",
+        "zh": "一个新想法在得到检验之前可能显得脆弱。"
+      }
+    },
+    {
+      "term": "conviction",
+      "meaning": {
+        "en": "A firmly held belief or confident sense of truth.",
+        "zh": "确信；坚定持有的信念或对真实的信心。"
+      },
+      "use": {
+        "en": "She spoke with conviction while remaining open to correction.",
+        "zh": "她说得坚定，同时仍愿意接受修正。"
+      }
+    },
+    {
+      "term": "inexhaustible",
+      "meaning": {
+        "en": "So rich or plentiful that it seems never to run out.",
+        "zh": "取之不尽的；丰富得仿佛永远不会耗尽。"
+      },
+      "use": {
+        "en": "For an attentive child, the garden is inexhaustible.",
+        "zh": "对专注的孩子来说，花园里有无穷无尽的发现。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters clear in trimmed, clouds, and experiments.",
+      "zh": "清楚读出 trimmed、clouds 和 experiments 中的辅音连缀。"
+    },
+    {
+      "en": "Use a rising tone for genuine questions and a steady fall for observed facts.",
+      "zh": "真正的提问使用上扬语调，观察到的事实使用稳定的降调。"
+    },
+    {
+      "en": "Link naturally in what I noticed, what I think, and what I would test.",
+      "zh": "在 what I noticed、what I think、what I would test 中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are inviting a curious friend into an experiment.",
+      "zh": "跟读时，想象你正邀请一位好奇的朋友加入实验。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every concrete object easy to picture.",
+        "zh": "第一遍：把每个具体物件都读得容易想象。"
+      },
+      {
+        "en": "Pass two: let uncertainty sound attentive rather than hesitant.",
+        "zh": "第二遍：让不确定听起来是专注，而不是迟疑。"
+      },
+      {
+        "en": "Pass three: carry wonder through the final sentence without becoming dramatic.",
+        "zh": "第三遍：把惊奇带进末句，但不要读得戏剧化。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What ordinary object near you could hold a better question?",
+      "zh": "你身边哪件寻常物品，可以承载一个更好的问题？"
+    },
+    {
+      "en": "How could you state an unfinished idea with both confidence and openness?",
+      "zh": "你怎样能既自信又开放地表达一个尚未完成的想法？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-curiosity-hold-the-candle/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-curiosity-hold-the-candle/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-curiosity-hold-the-candle/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-curiosity-hold-the-candle/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-curiosity-hold-the-candle/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-curiosity-hold-the-candle/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-curiosity-hold-the-candle/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-curiosity-hold-the-candle/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-curiosity-hold-the-candle/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-curiosity-hold-the-candle/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-curiosity-hold-the-candle/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-curiosity-hold-the-candle/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-curiosity-hold-the-candle/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-curiosity-hold-the-candle/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-curiosity-hold-the-candle/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-curiosity-hold-the-candle/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-curiosity-hold-the-candle/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-curiosity-hold-the-candle/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-curiosity-hold-the-candle/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-curiosity-hold-the-candle/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-curiosity-hold-the-candle/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-curiosity-hold-the-candle/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-curiosity-hold-the-candle/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-curiosity-hold-the-candle/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-curiosity-hold-the-candle/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-curiosity-hold-the-candle/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-curiosity-hold-the-candle/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-curiosity-hold-the-candle/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-curiosity-hold-the-candle/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-curiosity-hold-the-candle/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-curiosity-hold-the-candle/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-curiosity-hold-the-candle/clips/sources_0.mp3"
+    }
+  }
+}
