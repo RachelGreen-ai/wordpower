@@ -1,0 +1,244 @@
+{
+  "lessonId": "leave-the-door-wide-enough",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Leave the Door Wide Enough",
+    "zh": "把门留得足够宽"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, neighborly attention, and making welcome practical.",
+    "zh": "一篇原创美文：关于道德想象、对邻人的关注，以及如何让欢迎变得切实可行。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Moral imagination",
+    "Community",
+    "Empathy",
+    "Listening",
+    "Service"
+  ],
+  "sources": [
+    {
+      "title": "Twenty Years at Hull-House",
+      "author": "Jane Addams",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1325",
+      "note": {
+        "en": "Public-domain inspiration for neighborly attention and practical social fellowship; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对邻里关注与务实社会联结的思考；本课完全原创，未复用原文措辞。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with humane curiosity. Let the concrete details carry the argument, and avoid making kindness sound sentimental.",
+    "zh": "以有人情味的好奇心朗读。让具体细节承载观点，不要把善意读得过于感伤。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Architecture of Welcome",
+      "zh": "欢迎的结构"
+    },
+    "intro": {
+      "en": "This original passage asks what changes when welcome becomes a design decision rather than a generous mood.",
+      "zh": "这篇原创文章追问：当欢迎不只是一时的慷慨心情，而成为一种设计决定时，会发生什么变化。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Notice Who Must Squeeze",
+          "zh": "1. 看见谁不得不侧身挤过"
+        },
+        "text": "A doorway can appear open and still be difficult to enter. Perhaps the sign is written in unfamiliar language. Perhaps the meeting begins after the last bus home. Perhaps everyone inside already knows the joke, the rule, and the name of the person to ask. That is why attention matters. Stand near the entrance long enough to notice who hesitates, who must translate, who arrives carrying a child, and who turns away without complaint. Moral imagination begins in ordinary observation. It asks not, Why did they fail to join us? but, What did joining require from them that it did not require from me?",
+        "coaching": {
+          "en": "Keep the barriers factual and specific. Build gentle pressure through the repeated who, then give the final question generous space.",
+          "zh": "把障碍读得客观而具体。通过反复的 who 逐步增加力度，最后的问题要留出充分空间。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Replace Assumption with a Chair",
+          "zh": "2. 用一把椅子替代想当然"
+        },
+        "text": "Good intentions often remain abstract because they have nowhere to sit. Give them a chair. Add a clear map to the invitation. Explain the custom that everybody supposedly knows. Offer food a person can eat, a pause in which a slower speaker can enter, a task that does not require private confidence with the organizer. These adjustments are small pieces of social furniture. They say: we expected more than one kind of person to arrive. Charity can keep the giver at the center. Thoughtful design shifts the center itself, making the room usable by people whose needs were not treated as an interruption.",
+        "coaching": {
+          "en": "Enjoy the chair metaphor without overplaying it. Read the practical list with energy, then contrast charity and design precisely.",
+          "zh": "自然呈现椅子的隐喻，不要夸张。实际做法的清单要有活力，charity 与 design 的对比要精确。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Help Travel Both Ways",
+          "zh": "3. 让帮助双向流动"
+        },
+        "text": "A welcome becomes shallow when one person is always the helper and another is always the helped. Such fixed roles flatten both lives. Ask what the newcomer knows. Let the retired mechanic repair the stubborn latch. Let the teenager show the committee how messages actually travel. Let the parent who once needed directions become the person who greets the next family. Reciprocity does more than share labor; it returns dimension to people. Each person becomes a source as well as a need. The room grows wiser because knowledge can enter through every door, including the one that polite society once marked for receiving only.",
+        "coaching": {
+          "en": "Reject fixed roles firmly but kindly. Give each person's contribution dignity, and emphasize source as well as a need.",
+          "zh": "坚定但温和地否定固定角色。每个人的贡献都要读出尊严，重读 source as well as a need。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Widen the Practice",
+          "zh": "4. 把这种做法推广开来"
+        },
+        "text": "Once you study a doorway, you begin seeing thresholds everywhere. A complicated form is a threshold. So is a conversation crowded with acronyms, a classroom where only quick answers count, or a friendship in which one history is always being explained. You will not remove every difficulty, nor should every room pretend that difference has disappeared. Discover which effort is meaningful and which is inherited inconvenience. Keep the meaningful challenge. Move the needless obstacle. Then leave the door wide enough for another person's full life to enter—not as a problem to manage, but as weather, music, memory, skill, and news from a street you have never walked.",
+        "coaching": {
+          "en": "Make each threshold recognizable. Use firm rhythm for keep and move, then open the voice across the final sequence.",
+          "zh": "把每一种门槛读得易于辨认。keep 与 move 要有坚定节奏，最后一组意象要逐渐打开声音。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "barrier",
+      "meaning": {
+        "en": "Something that prevents or makes entry or progress difficult.",
+        "zh": "障碍；阻止进入或使进展困难的事物。"
+      },
+      "use": {
+        "en": "The late schedule created a barrier for parents.",
+        "zh": "过晚的时间安排给家长造成了障碍。"
+      }
+    },
+    {
+      "term": "abstract",
+      "meaning": {
+        "en": "Existing as an idea rather than a concrete action or object.",
+        "zh": "抽象的；停留在观念而非具体行动或事物层面的。"
+      },
+      "use": {
+        "en": "We turned an abstract welcome into clear directions and seats.",
+        "zh": "我们把抽象的欢迎变成了清晰的指引和座位。"
+      }
+    },
+    {
+      "term": "adjustment",
+      "meaning": {
+        "en": "A small change made to improve how something works.",
+        "zh": "调整；为改善运作方式而做的小改变。"
+      },
+      "use": {
+        "en": "One small adjustment made the event easier to enter.",
+        "zh": "一个小调整让活动更容易参与。"
+      }
+    },
+    {
+      "term": "reciprocity",
+      "meaning": {
+        "en": "The practice of giving, receiving, and responding in both directions.",
+        "zh": "互惠；双方给予、接受并回应的做法。"
+      },
+      "use": {
+        "en": "Healthy community depends on reciprocity, not fixed roles.",
+        "zh": "健康的社群依靠互惠，而不是固定角色。"
+      }
+    },
+    {
+      "term": "threshold",
+      "meaning": {
+        "en": "An entrance or the point at which something begins.",
+        "zh": "门槛；入口或某事开始的临界点。"
+      },
+      "use": {
+        "en": "Technical language can become a threshold few people cross.",
+        "zh": "专业术语可能成为少有人跨过的门槛。"
+      }
+    },
+    {
+      "term": "inherited",
+      "meaning": {
+        "en": "Received from earlier people or systems rather than newly chosen.",
+        "zh": "沿袭下来的；从先前的人或制度中承接而非重新选择的。"
+      },
+      "use": {
+        "en": "We removed an inherited rule that served no purpose.",
+        "zh": "我们取消了一条沿袭下来却毫无作用的规定。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the repeated initial sounds clear in sign, meeting, joke, rule, and name.",
+      "zh": "读 sign、meeting、joke、rule 和 name 时，起始音要清晰。"
+    },
+    {
+      "en": "Use a steady list rhythm in a clear map, food, a pause, a task.",
+      "zh": "在 a clear map、food、a pause、a task 这一清单中保持稳定节奏。"
+    },
+    {
+      "en": "Contrast meaningful challenge with needless obstacle using strong content-word stress.",
+      "zh": "用清晰的实词重音读出 meaningful challenge 与 needless obstacle 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are inviting thoughtful neighbors to redesign one shared room together.",
+      "zh": "跟读时，想象你正邀请体贴的邻居一起重新设计一个共享空间。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every practical barrier easy to picture.",
+        "zh": "第一遍：让每个实际障碍都容易在脑中成像。"
+      },
+      {
+        "en": "Pass two: keep the solutions energetic and unsentimental.",
+        "zh": "第二遍：把解决办法读得有活力，不煽情。"
+      },
+      {
+        "en": "Pass three: widen the final images as if the room itself were opening.",
+        "zh": "第三遍：逐渐展开结尾意象，仿佛房间本身正在打开。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which apparently open doorway in your life still asks some people to squeeze?",
+      "zh": "你生活中哪扇看似敞开的门，仍要求某些人侧身挤过？"
+    },
+    {
+      "en": "What small piece of social furniture could make one shared space more usable?",
+      "zh": "你可以添加哪一件小小的“社会家具”，让一个共享空间更好用？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-the-door-wide-enough/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-the-door-wide-enough/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-the-door-wide-enough/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-the-door-wide-enough/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-the-door-wide-enough/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/leave-the-door-wide-enough/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/leave-the-door-wide-enough/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-the-door-wide-enough/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-the-door-wide-enough/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-the-door-wide-enough/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-the-door-wide-enough/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-the-door-wide-enough/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-the-door-wide-enough/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-the-door-wide-enough/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-the-door-wide-enough/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-the-door-wide-enough/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-the-door-wide-enough/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-the-door-wide-enough/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-the-door-wide-enough/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-the-door-wide-enough/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-the-door-wide-enough/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-the-door-wide-enough/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-the-door-wide-enough/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-the-door-wide-enough/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-the-door-wide-enough/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-the-door-wide-enough/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-the-door-wide-enough/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-the-door-wide-enough/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-the-door-wide-enough/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-the-door-wide-enough/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-the-door-wide-enough/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-the-door-wide-enough/clips/sources_0.mp3"
+    }
+  }
+}

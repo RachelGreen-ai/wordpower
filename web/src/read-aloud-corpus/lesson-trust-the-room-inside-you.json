@@ -1,0 +1,244 @@
+{
+  "lessonId": "trust-the-room-inside-you",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Trust the Room Inside You",
+    "zh": "相信你内心的房间"
+  },
+  "subtitle": {
+    "en": "An original reflection on self-trust, inward attention, and speaking from experience rather than performance.",
+    "zh": "一篇原创美文：关于自我信任、内在专注，以及从真实经验而非表演中发声。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Self-trust",
+    "Voice",
+    "Attention",
+    "Courage",
+    "Communication"
+  ],
+  "sources": [
+    {
+      "title": "The World I Live In",
+      "author": "Helen Keller",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/27683",
+      "note": {
+        "en": "Public-domain inspiration for the richness of inward perception; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品对内在感知丰富性的书写；本课完全原创，未复用原文措辞。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read as if you are discovering confidence beneath noise. Keep the voice intimate, steady, and free of theatrical certainty.",
+    "zh": "朗读时，想象你正从喧闹之下发现信心。声音要亲近、稳定，不要刻意表演确定感。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Voice with Its Own Address",
+      "zh": "一个有自己住址的声音"
+    },
+    "intro": {
+      "en": "This original passage explores how a dependable voice grows from noticing what you actually know, feel, and value.",
+      "zh": "这篇原创文章探讨：可靠的声音如何从你真正知道、感受与珍视的事物中生长出来。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Enter Before You Answer",
+          "zh": "1. 回答之前，先走进去"
+        },
+        "text": "Before an important answer, there is often a crowded hallway in the mind. Advice knocks from one side. Fear drags furniture across the floor. An imagined audience clears its throat. Do not answer from the hallway. Step into the quieter room behind it and ask three plain questions: What have I observed? What do I honestly feel? What am I prepared to stand beside tomorrow? The first response may be borrowed, polished, or eager to please. Wait for the one that has your own address. It will not always sound impressive. It may begin with I do not know, or I need more time. Yet a modest truth gives the voice somewhere solid to place its feet.",
+        "coaching": {
+          "en": "Make the hallway busy but not comic. Slow down for the three questions, and give the final sentence grounded warmth.",
+          "zh": "把走廊读出忙乱感，但不要滑稽。三个问题要放慢，最后一句要温暖而踏实。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Separate Signal from Applause",
+          "zh": "2. 分清信号与掌声"
+        },
+        "text": "Applause is pleasant information, but it is unreliable navigation. A room may reward speed when the work requires patience. It may admire certainty when the evidence remains incomplete. Praise can tell you that a sentence landed; it cannot tell you whether the sentence was yours. Learn to notice the quieter signals. Did your shoulders loosen after you spoke? Could you explain the idea without hiding behind fashionable phrases? Did your words make the next honest action clearer? These signs are less dazzling than approval, yet they are more useful. They reveal alignment: the small relief of sounding like the person who must live with what was said.",
+        "coaching": {
+          "en": "Contrast applause with navigation cleanly. Let each question sound investigative, then soften into the definition of alignment.",
+          "zh": "清楚读出掌声与方向感的对比。每个问题都要有探究意味，随后柔和地落到 alignment 的解释。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Revision Belong to You",
+          "zh": "3. 让修正也属于你"
+        },
+        "text": "Self-trust is not a promise to remain unchanged. It is the confidence that you can meet new evidence without abandoning yourself. Say, I was wrong, in the same voice that once said, I believe this. The correction does not erase your character; it demonstrates that your character can move. A rigid opinion may look strong from a distance, like a locked door. Up close, it is merely unavailable. A trustworthy mind has hinges. It opens, examines what has arrived, and chooses again. When you revise, name what changed your view. This turns embarrassment into a map and teaches others that conviction and curiosity can share one room.",
+        "coaching": {
+          "en": "Keep I was wrong calm and unashamed. Give the locked door and hinges images space, then brighten the final clause.",
+          "zh": "读 I was wrong 时要平静，不带羞愧。锁门与铰链的意象要留出空间，结尾分句稍微提亮。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Speak from Home",
+          "zh": "4. 从内心的家中说话"
+        },
+        "text": "With practice, the inward room becomes easier to find. You can enter it during a difficult meeting, before a family conversation, or while a question waits on the telephone. Its walls are made from remembered experience, considered values, and the willingness to pause. From there, you need fewer decorations. Your sentences become simpler because they are carrying less disguise. You can disagree without borrowing another person's volume. You can say yes without performing gratitude, and no without building a fortress. The aim is not to sound fearless. It is to sound inhabited—to let another person hear that someone is present inside the words, listening carefully and choosing them one by one.",
+        "coaching": {
+          "en": "Read the everyday settings naturally. Balance yes and no, then slow down and fully inhabit the final line.",
+          "zh": "几个日常场景要读得自然。yes 与 no 要平衡，最后一句放慢，读出真正的内在存在感。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "theatrical",
+      "meaning": {
+        "en": "Exaggerated in a way meant to attract attention.",
+        "zh": "戏剧化的；为吸引注意而夸张的。"
+      },
+      "use": {
+        "en": "Her confidence was quiet rather than theatrical.",
+        "zh": "她的自信很安静，并不戏剧化。"
+      }
+    },
+    {
+      "term": "borrowed",
+      "meaning": {
+        "en": "Taken from another person rather than truly one's own.",
+        "zh": "借来的；来自他人而非真正属于自己的。"
+      },
+      "use": {
+        "en": "The answer sounded polished but borrowed.",
+        "zh": "这个回答很精致，却像是借来的。"
+      }
+    },
+    {
+      "term": "navigation",
+      "meaning": {
+        "en": "The act of finding and following a direction.",
+        "zh": "导航；寻找并沿着方向前进。"
+      },
+      "use": {
+        "en": "Popularity is unreliable navigation for a difficult choice.",
+        "zh": "面对艰难选择时，人气并不是可靠的导航。"
+      }
+    },
+    {
+      "term": "alignment",
+      "meaning": {
+        "en": "A state in which actions and values fit together.",
+        "zh": "一致；行动与价值观彼此契合的状态。"
+      },
+      "use": {
+        "en": "The decision brought her work back into alignment with her values.",
+        "zh": "这个决定让她的工作重新与价值观一致。"
+      }
+    },
+    {
+      "term": "rigid",
+      "meaning": {
+        "en": "Unwilling or unable to bend, adapt, or change.",
+        "zh": "僵化的；不愿或不能调整改变的。"
+      },
+      "use": {
+        "en": "A rigid plan ignored the new evidence.",
+        "zh": "僵化的计划忽视了新证据。"
+      }
+    },
+    {
+      "term": "inhabited",
+      "meaning": {
+        "en": "Lived in; here, sounding fully present and genuine.",
+        "zh": "有人居住的；此处指声音中有真实而完整的存在感。"
+      },
+      "use": {
+        "en": "Her careful pauses made every sentence feel inhabited.",
+        "zh": "她谨慎的停顿让每句话都充满真实的存在感。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Give equal weight to What have I observed? What do I honestly feel? What am I prepared to stand beside?",
+      "zh": "三个问题 What have I observed? What do I honestly feel? What am I prepared to stand beside? 要用均衡重音。"
+    },
+    {
+      "en": "Keep the contrast crisp in praise can tell you and it cannot tell you.",
+      "zh": "在 praise can tell you 与 it cannot tell you 中读出清晰对比。"
+    },
+    {
+      "en": "Link naturally through sound inhabited and someone is present inside the words.",
+      "zh": "在 sound inhabited 和 someone is present inside the words 中自然连读。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking privately to someone who needs permission to trust a quieter voice.",
+      "zh": "跟读时，想象你在私下对一个需要允许自己相信安静声音的人说话。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every inward image concrete and calm.",
+        "zh": "第一遍：把每个内在意象读得具体而平静。"
+      },
+      {
+        "en": "Pass two: keep the questions open, not anxious.",
+        "zh": "第二遍：让问题保持开放，而不是焦虑。"
+      },
+      {
+        "en": "Pass three: let the final paragraph sound simple, present, and free.",
+        "zh": "第三遍：让最后一段听起来简洁、在场而自由。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which recent answer came from the crowded hallway rather than your quieter room?",
+      "zh": "最近哪个回答来自拥挤的走廊，而不是你内心更安静的房间？"
+    },
+    {
+      "en": "What new evidence could you welcome without abandoning yourself?",
+      "zh": "你可以接纳什么新证据，同时又不抛弃自己？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/trust-the-room-inside-you/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/trust-the-room-inside-you/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/trust-the-room-inside-you/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/trust-the-room-inside-you/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/trust-the-room-inside-you/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/trust-the-room-inside-you/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/trust-the-room-inside-you/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/trust-the-room-inside-you/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/trust-the-room-inside-you/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/trust-the-room-inside-you/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/trust-the-room-inside-you/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/trust-the-room-inside-you/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/trust-the-room-inside-you/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/trust-the-room-inside-you/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/trust-the-room-inside-you/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/trust-the-room-inside-you/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/trust-the-room-inside-you/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/trust-the-room-inside-you/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/trust-the-room-inside-you/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/trust-the-room-inside-you/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/trust-the-room-inside-you/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/trust-the-room-inside-you/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/trust-the-room-inside-you/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/trust-the-room-inside-you/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/trust-the-room-inside-you/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/trust-the-room-inside-you/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/trust-the-room-inside-you/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/trust-the-room-inside-you/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/trust-the-room-inside-you/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/trust-the-room-inside-you/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/trust-the-room-inside-you/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/trust-the-room-inside-you/clips/sources_0.mp3"
+    }
+  }
+}

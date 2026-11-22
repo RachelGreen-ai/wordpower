@@ -1,0 +1,244 @@
+{
+  "lessonId": "give-them-something-real-to-carry",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Give Them Something Real to Carry",
+    "zh": "给他们一件真正可以承担的事"
+  },
+  "subtitle": {
+    "en": "An original reflection on parenting, practical responsibility, and the dignity of being genuinely useful.",
+    "zh": "一篇原创美文：关于养育、实际责任，以及真正派得上用场所带来的尊严。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Parenting",
+    "Learning",
+    "Responsibility",
+    "Confidence",
+    "Family"
+  ],
+  "sources": [
+    {
+      "title": "Up from Slavery: An Autobiography",
+      "author": "Booker T. Washington",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2376",
+      "note": {
+        "en": "Public-domain inspiration for dignity in practical work and education joined to usefulness; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中实际劳动的尊严，以及教育与实用能力的结合；本课完全原创，未复用原文措辞。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with affection and respect. Let responsibility sound like an invitation into family life, never a lecture about obedience.",
+    "zh": "以关爱与尊重朗读。让责任听起来像进入家庭生活的邀请，而不是关于服从的说教。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Weight That Builds a Back",
+      "zh": "让脊背长出力量的重量"
+    },
+    "intro": {
+      "en": "This original passage considers why children grow through work that matters, especially when adults resist correcting every imperfect step.",
+      "zh": "这篇原创文章思考：为什么有意义的劳动能帮助孩子成长，尤其当大人克制住纠正每个不完美步骤的冲动时。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Choose a Necessary Task",
+          "zh": "1. 选择一件真正必要的事"
+        },
+        "text": "Children can tell the difference between a task invented to occupy them and work the household truly needs. One carries the faint smell of a worksheet; the other changes the evening. Ask a child to wash the herbs for dinner, check whether the dog has water, or place a clean towel beside each bed. The task should be small enough to complete and real enough to matter. When the family depends, even lightly, on the result, attention acquires purpose. The child is no longer rehearsing usefulness for some distant adulthood. She is useful now. That knowledge has weight, and carrying a little honest weight helps confidence grow a back.",
+        "coaching": {
+          "en": "Make the invented task feel thin, then bring warmth and substance to the real examples. Land firmly on useful now.",
+          "zh": "把虚构任务读出单薄感，再为真实例子注入温度与分量。坚定落在 useful now 上。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Teach the Edge, Then Step Back",
+          "zh": "2. 教清边界，然后后退一步"
+        },
+        "text": "A real task needs a clear edge. Show where the glasses belong, which pan is hot, what done looks like, and when to ask for help. Then step back far enough for the child's own judgment to enter. This distance is difficult for an efficient adult. You can fold the cloth faster, cut the fruit evenly, and prevent the small puddle near the sink. But constant rescue carries a hidden message: your effort is welcome only after I have perfected it. Better to protect what is dangerous and tolerate what is merely uneven. Skill needs room to make harmless mistakes, notice them, and try a second way.",
+        "coaching": {
+          "en": "Give the safety instructions calm clarity. Speed up slightly through the adult's efficiencies, then slow down for the hidden message.",
+          "zh": "安全说明要清楚平静。成人追求效率的部分可以略微加快，到了隐藏信息时要放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Describe Contribution, Not Character",
+          "zh": "3. 描述贡献，而不是评判性格"
+        },
+        "text": "When the work is finished, resist turning it into a verdict on personality. You are such a good girl can make approval feel like the wage for service. Instead, describe the contribution: The herbs are ready, so I can start cooking. You noticed the water bowl before the dog asked. Your towels made the room welcoming. Specific language connects effort to consequence. It helps a child see the path from hand to household, from attention to another person's ease. Gratitude remains, but it is no longer a shiny sticker placed on identity. It becomes accurate news about how one person's care moved through a shared day.",
+        "coaching": {
+          "en": "Avoid scolding the familiar praise. Make each specific acknowledgment sound observant, and brighten the movement from hand to household.",
+          "zh": "不要责备那句常见的表扬。每个具体认可都要读出观察力，并提亮 from hand to household 的推进。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Increase the Weight by Ounces",
+          "zh": "4. 一盎司一盎司地增加重量"
+        },
+        "text": "Responsibility should grow by ounces, not by sudden burdens. A child who rinses the herbs may later plan one simple meal. The teenager who remembers the water bowl may schedule the dog's appointment and speak to the receptionist. Each new task should stretch judgment without making love feel conditional on success. Some days the work will be forgotten. Return the responsibility without drama: the bowl is still empty; what is your plan? This is steadier than shame and more respectful than quietly doing everything yourself. Over time, the child learns a durable form of confidence: I can notice what is needed, learn what I do not know, and carry my share among people I love.",
+        "coaching": {
+          "en": "Read ounces with patience. Keep the forgotten-task question neutral, then build the final three-part confidence statement with quiet pride.",
+          "zh": "读 ounces 时要有耐心。忘记任务后的提问保持中性，最后三部分的自信宣言要带着安静的自豪感逐步增强。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "occupy",
+      "meaning": {
+        "en": "To keep someone busy or engaged for a period of time.",
+        "zh": "使忙碌；让某人在一段时间内有事可做。"
+      },
+      "use": {
+        "en": "The activity occupied the children but served no real purpose.",
+        "zh": "这项活动让孩子们有事可做，却没有真正的意义。"
+      }
+    },
+    {
+      "term": "rehearse",
+      "meaning": {
+        "en": "To practice in preparation for a later event or role.",
+        "zh": "排练；为将来的事件或角色进行练习。"
+      },
+      "use": {
+        "en": "She was not merely rehearsing responsibility for adulthood.",
+        "zh": "她并不只是在为成年后的责任做排练。"
+      }
+    },
+    {
+      "term": "tolerate",
+      "meaning": {
+        "en": "To allow something imperfect or difficult without interfering.",
+        "zh": "容忍；允许不完美或困难的事存在而不加干预。"
+      },
+      "use": {
+        "en": "We can tolerate an uneven fold while the skill develops.",
+        "zh": "在技能形成过程中，我们可以接受折得不够整齐。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A formal judgment; here, a fixed conclusion about someone's character.",
+        "zh": "裁决；此处指对某人性格下的固定结论。"
+      },
+      "use": {
+        "en": "One mistake is not a verdict on her character.",
+        "zh": "一次错误并不是对她性格的判决。"
+      }
+    },
+    {
+      "term": "consequence",
+      "meaning": {
+        "en": "A result that follows from an action.",
+        "zh": "结果；由某个行动引发的后果。"
+      },
+      "use": {
+        "en": "Specific praise showed the consequence of his effort.",
+        "zh": "具体的表扬让他看见自己努力带来的结果。"
+      }
+    },
+    {
+      "term": "conditional",
+      "meaning": {
+        "en": "Depending on another event or requirement being satisfied.",
+        "zh": "有条件的；取决于另一事件或要求是否满足的。"
+      },
+      "use": {
+        "en": "A child's sense of being loved should not feel conditional on success.",
+        "zh": "孩子不应觉得只有成功才配得到爱。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in task, invented, washed, asked, and weight.",
+      "zh": "读 task、invented、washed、asked 和 weight 时，尾辅音要清晰。"
+    },
+    {
+      "en": "Use warm emphasis on She is useful now and your effort is welcome.",
+      "zh": "温暖地重读 She is useful now 和 your effort is welcome。"
+    },
+    {
+      "en": "Build three even beats in notice what is needed, learn what I do not know, and carry my share.",
+      "zh": "在 notice what is needed、learn what I do not know、carry my share 中建立三个均匀节拍。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are encouraging a caring adult to offer trust in practical, manageable amounts.",
+      "zh": "跟读时，想象你正鼓励一位有爱心的成人，以实际且可承受的分量给予孩子信任。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every household detail vivid and ordinary.",
+        "zh": "第一遍：把每个家庭细节读得鲜明而日常。"
+      },
+      {
+        "en": "Pass two: separate safety from perfection with clear contrast.",
+        "zh": "第二遍：用清晰对比区分安全与完美。"
+      },
+      {
+        "en": "Pass three: let responsibility sound like belonging, not pressure.",
+        "zh": "第三遍：让责任听起来像归属，而不是压力。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What necessary task could a child in your life genuinely own this week?",
+      "zh": "本周，你生活中的孩子可以真正负责哪一件必要的事？"
+    },
+    {
+      "en": "Which harmless imperfection could you tolerate so that judgment has room to grow?",
+      "zh": "你可以容忍哪一种无害的不完美，好让孩子的判断力有成长空间？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/give-them-something-real-to-carry/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/give-them-something-real-to-carry/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/give-them-something-real-to-carry/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/give-them-something-real-to-carry/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/give-them-something-real-to-carry/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/give-them-something-real-to-carry/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/give-them-something-real-to-carry/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/give-them-something-real-to-carry/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/give-them-something-real-to-carry/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/give-them-something-real-to-carry/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/give-them-something-real-to-carry/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/give-them-something-real-to-carry/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/give-them-something-real-to-carry/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/give-them-something-real-to-carry/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/give-them-something-real-to-carry/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/give-them-something-real-to-carry/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/give-them-something-real-to-carry/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/give-them-something-real-to-carry/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/give-them-something-real-to-carry/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/give-them-something-real-to-carry/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/give-them-something-real-to-carry/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/give-them-something-real-to-carry/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/give-them-something-real-to-carry/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/give-them-something-real-to-carry/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/give-them-something-real-to-carry/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/give-them-something-real-to-carry/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/give-them-something-real-to-carry/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/give-them-something-real-to-carry/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/give-them-something-real-to-carry/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/give-them-something-real-to-carry/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/give-them-something-real-to-carry/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/give-them-something-real-to-carry/clips/sources_0.mp3"
+    }
+  }
+}
