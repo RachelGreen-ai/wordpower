@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "hear-the-room-before-you-answer",
+  "title": {
+    "en": "Hear the Room Before You Answer",
+    "zh": "回答之前，先听见整个房间"
+  },
+  "subtitle": {
+    "en": "An original reflection on attentive listening, hidden harmonies, and replies that belong to the moment.",
+    "zh": "一篇原创美文：关于专注倾听、隐藏的和声，以及真正契合当下的回应。"
+  },
+  "tags": [
+    "Listening",
+    "Science",
+    "Communication",
+    "Attention"
+  ],
+  "sources": [
+    {
+      "title": "On the Sensations of Tone",
+      "author": "Hermann von Helmholtz",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/37831",
+      "note": {
+        "en": "Public-domain inspiration from the science of hearing and musical resonance; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自公开领域作品中关于听觉与音乐共鸣的科学研究；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with a listening voice. Let each pause feel alert rather than empty.",
+    "zh": "用一种正在倾听的声音朗读。让每次停顿都显得敏锐，而不是空白。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Answer Already Forming in the Air",
+      "zh": "空气中正在形成的回答"
+    },
+    "intro": {
+      "en": "This original passage explores how careful listening changes both what we hear and who we become in conversation.",
+      "zh": "这篇原创文章探讨：细致倾听如何改变我们听见的内容，也改变交谈中的自己。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Sound Arrives in Layers",
+          "zh": "1. 声音分层抵达"
+        },
+        "text": "A room rarely says only one thing. Beneath the sentence you can hear the pace of breathing, the chair drawn a little closer, the laugh that arrives half a second too late. A confident statement may carry a thin note of uncertainty. A clumsy question may be protecting a serious hope. Listening begins when we stop treating words as sealed packages and hear them as part of a larger weather. Tone, timing, and silence do not replace meaning, but they reveal the pressure around it. They tell us where a thought is tender, where pride is standing guard, and where an invitation has been left almost invisible.",
+        "coaching": {
+          "en": "Keep the opening observational and precise. Give tone, timing, and silence three distinct beats.",
+          "zh": "开头要读得像细致观察。让 tone、timing 和 silence 各自占一个清晰节拍。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Do Not Tune the World Out",
+          "zh": "2. 不要把世界调成静音"
+        },
+        "text": "We often enter conversation already tuned to our own frequency. While another person speaks, we polish an argument, prepare a rescue, or search for the first convenient gap. The result may be fluent, even clever, yet strangely misplaced. It answers the sentence we expected rather than the one that was offered. Better listening asks for a small inward quiet. Put down the reply you carried into the room. Notice which word the speaker repeats. Notice what becomes more specific and what suddenly turns vague. Curiosity is not passive here; it is disciplined attention, gathering enough reality before choosing a response.",
+        "coaching": {
+          "en": "Read the three hurried impulses briskly, then slow down at Better listening. Make the repeated Notice sound practical.",
+          "zh": "三个匆忙反应要读得轻快；到 Better listening 时放慢。重复的 Notice 要读得务实。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Find the Fundamental Note",
+          "zh": "3. 找到基音"
+        },
+        "text": "In music, a crowded sound can still gather around a fundamental note. Conversation has something similar: the concern beneath the details. A colleague describing five minor delays may really be asking whether the team can still be trusted. A child arguing about bedtime may be asking for one more proof that the day will not disappear without witness. We should not pretend to read minds, but we can test what we hear with humility. It sounds as if reliability matters most here. Have I understood? Such a question does not display brilliance. It offers the other person a clean chance to correct us, and correction is one of listening’s finest gifts.",
+        "coaching": {
+          "en": "Let the examples feel compassionate, never certain. Lift gently on Have I understood? and land warmly on gifts.",
+          "zh": "例子要读出体谅，不要显得武断。Have I understood? 轻轻上扬，结尾 gifts 温暖落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Let the Reply Join the Music",
+          "zh": "4. 让回应加入音乐"
+        },
+        "text": "A good reply is not merely true in isolation; it belongs to the moment. Sometimes it is a clear decision. Sometimes it is a question narrow enough to be useful. Sometimes it is the sentence, I need a little time before I answer well. The aim is not perfect sensitivity, which can become another performance. The aim is contact: to let another person’s reality alter the shape of what we say next. When that happens, conversation stops being a contest between prepared speeches. It becomes a form of shared composition. No one controls every note, yet each person can listen closely enough to leave the room more truthful than they found it.",
+        "coaching": {
+          "en": "Give the three kinds of reply equal dignity. Broaden the final sentences and finish with quiet conviction.",
+          "zh": "三种回应要读出同等分量。最后几句逐渐展开，以安静而坚定的语气收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "misplaced",
+      "meaning": {
+        "en": "Unsuitable for a particular situation or moment.",
+        "zh": "不合时宜的；放错情境的。"
+      },
+      "use": {
+        "en": "The advice was kind but misplaced.",
+        "zh": "那条建议出于好意，却不合时宜。"
+      }
+    },
+    {
+      "term": "tune to",
+      "meaning": {
+        "en": "To adjust your attention to receive a particular signal or mood.",
+        "zh": "调到；把注意力调整到某种信号或氛围。"
+      },
+      "use": {
+        "en": "Tune to the concern beneath her quick words.",
+        "zh": "留意她急促话语之下的担忧。"
+      }
+    },
+    {
+      "term": "disciplined attention",
+      "meaning": {
+        "en": "Focused awareness guided by patience and purpose.",
+        "zh": "有纪律的专注；由耐心和目的引导的注意力。"
+      },
+      "use": {
+        "en": "Good interviews require disciplined attention.",
+        "zh": "好的访谈需要有纪律的专注。"
+      }
+    },
+    {
+      "term": "fundamental",
+      "meaning": {
+        "en": "The basic or most important part on which others depend.",
+        "zh": "根本的；构成其他部分基础的。"
+      },
+      "use": {
+        "en": "Trust is fundamental to the partnership.",
+        "zh": "信任是合作关系的根本。"
+      }
+    },
+    {
+      "term": "in isolation",
+      "meaning": {
+        "en": "Considered alone, without its surrounding context.",
+        "zh": "孤立地；脱离周围语境地。"
+      },
+      "use": {
+        "en": "The sentence sounds harsh in isolation.",
+        "zh": "这句话孤立来看显得刺耳。"
+      }
+    },
+    {
+      "term": "shared composition",
+      "meaning": {
+        "en": "Something shaped collaboratively, like music written together.",
+        "zh": "共同创作；像一起谱写音乐那样协作形成的事物。"
+      },
+      "use": {
+        "en": "A real conversation is a shared composition.",
+        "zh": "真正的交谈是一种共同创作。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link the consonants smoothly in first convenient gap.",
+      "zh": "在 first convenient gap 中顺畅连接辅音。"
+    },
+    {
+      "en": "Keep the contrast clear in not passive, but disciplined.",
+      "zh": "在 not passive, but disciplined 中读出清晰对比。"
+    },
+    {
+      "en": "Use an open, rising tone for Have I understood?",
+      "zh": "Have I understood? 要用开放、上扬的语调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your voice is making room for another person’s meaning.",
+      "zh": "跟读时，想象你的声音正在为另一个人的意思腾出空间。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every sensory detail crisp.",
+        "zh": "第一遍：把每个感官细节读清楚。"
+      },
+      {
+        "en": "Pass two: let pauses show active attention.",
+        "zh": "第二遍：让停顿体现主动的专注。"
+      },
+      {
+        "en": "Pass three: broaden the final musical image without becoming dramatic.",
+        "zh": "第三遍：展开最后的音乐意象，但不要过度戏剧化。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which signal do you often miss while preparing your reply?",
+      "zh": "在准备回应时，你经常错过哪一种信号？"
+    },
+    {
+      "en": "What question could help you test the concern beneath someone’s words?",
+      "zh": "哪个问题能帮助你核实对方话语之下的真正关切？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/hear-the-room-before-you-answer/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/hear-the-room-before-you-answer/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/hear-the-room-before-you-answer/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/hear-the-room-before-you-answer/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/hear-the-room-before-you-answer/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/hear-the-room-before-you-answer/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/hear-the-room-before-you-answer/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/hear-the-room-before-you-answer/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/hear-the-room-before-you-answer/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/hear-the-room-before-you-answer/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/hear-the-room-before-you-answer/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/hear-the-room-before-you-answer/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/hear-the-room-before-you-answer/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/hear-the-room-before-you-answer/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/hear-the-room-before-you-answer/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/hear-the-room-before-you-answer/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/hear-the-room-before-you-answer/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/hear-the-room-before-you-answer/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/hear-the-room-before-you-answer/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/hear-the-room-before-you-answer/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/hear-the-room-before-you-answer/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/hear-the-room-before-you-answer/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/hear-the-room-before-you-answer/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/hear-the-room-before-you-answer/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/hear-the-room-before-you-answer/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/hear-the-room-before-you-answer/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/hear-the-room-before-you-answer/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/hear-the-room-before-you-answer/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/hear-the-room-before-you-answer/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/hear-the-room-before-you-answer/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/hear-the-room-before-you-answer/clips/sources_0.mp3"
+    }
+  }
+}

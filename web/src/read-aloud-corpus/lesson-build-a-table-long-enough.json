@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "build-a-table-long-enough",
+  "title": {
+    "en": "Build a Table Long Enough",
+    "zh": "造一张足够长的桌子"
+  },
+  "subtitle": {
+    "en": "An original reflection on hospitality, civic imagination, and the dignity of making room.",
+    "zh": "一篇原创美文：关于款待、公民想象力，以及为他人腾出位置的尊严。"
+  },
+  "tags": [
+    "Community",
+    "Leadership",
+    "Empathy",
+    "Moral Imagination"
+  ],
+  "sources": [
+    {
+      "title": "Twenty Years at Hull-House",
+      "author": "Jane Addams",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1325",
+      "note": {
+        "en": "Public-domain inspiration from Jane Addams’s experiments in neighborly life and democratic hospitality; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自简·亚当斯关于邻里生活与民主款待的公开领域实践；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded generosity. Keep the concrete images warm and the civic ideas clear.",
+    "zh": "带着踏实的慷慨朗读。具体画面要温暖，公共理念要清晰。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Architecture of Welcome",
+      "zh": "欢迎的建筑学"
+    },
+    "intro": {
+      "en": "This original passage considers hospitality not as decoration, but as a practical way of organizing a shared world.",
+      "zh": "这篇原创文章把款待视为组织共同世界的实际方式，而非表面的装饰。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Door Is Only the Beginning",
+          "zh": "1. 门只是开始"
+        },
+        "text": "An open door can be a lovely symbol, but a symbol does not tell a newcomer where to put a wet coat, how to join the conversation, or whether the last chair is truly available. Welcome becomes real through details. Someone learns the unfamiliar name and says it without embarrassment. Someone explains the rule that everyone else seems to know. Someone notices that the meeting begins after the final bus home. Hospitality is often imagined as warmth of feeling, yet feeling alone cannot rearrange a room. Care becomes credible when it enters the schedule, the budget, the language, and the height of the handle on the door.",
+        "coaching": {
+          "en": "Make the practical questions vivid. Land firmly on schedule, budget, language, and handle.",
+          "zh": "把几个实际问题读得鲜明。schedule、budget、language 和 handle 要稳稳落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make Room Without Making a Spectacle",
+          "zh": "2. 腾出位置，不把人变成焦点"
+        },
+        "text": "There is an art to making room without turning the invited person into a ceremony. Public gratitude can feel like another price of admission: explain your hardship, praise our kindness, reassure us that we are good. A more dignified welcome asks less performance. It provides what is needed, states that the provision is ordinary, and continues with the shared work. This does not erase difference. It keeps difference from becoming a stage on which one person must stand alone. The best host is not always the most charming figure in the room. Often it is the person who has quietly arranged the room so that charm is unnecessary.",
+        "coaching": {
+          "en": "Read the list after admission with controlled discomfort. Make the final sentence understated and confident.",
+          "zh": "admission 后的列举要读出克制的不适。最后一句要低调而自信。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let the Guest Alter the House",
+          "zh": "3. 让客人改变这所房子"
+        },
+        "text": "False hospitality says, You may enter if nothing here has to change. Real hospitality expects revision. A new neighbor may reveal that the noticeboard is unreadable, the meal assumes one tradition, or the usual joke carries an old wound. These discoveries can feel inconvenient because they disturb the flattering picture we held of ourselves. But a house that cannot be altered by the people inside it is not a common home; it is an exhibition. Belonging grows when newcomers are allowed to become contributors, critics, cooks, teachers, and makers of custom. They do not merely receive a place. Their presence helps define what the place can become.",
+        "coaching": {
+          "en": "Give the opening contrast a clean edge. Expand the list of roles with increasing possibility.",
+          "zh": "开头的对比要鲜明。角色列举要逐渐读出更多可能。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Lengthen the Table Together",
+          "zh": "4. 一起把桌子加长"
+        },
+        "text": "No table is infinitely long, and honest communities admit limits. They cannot promise every resource, solve every conflict, or remove every grief. What they can do is make their limits visible and their decisions discussable. They can ask who has not spoken, who bears the hidden cost, and what small redesign would widen participation. These questions turn kindness from a mood into a craft. Board by board, the table lengthens: a translated page, a later hour, a child welcomed beside a working parent, a disagreement that does not end in exile. We inherit many rooms exactly as they are. We become neighbors by deciding, together, what must move.",
+        "coaching": {
+          "en": "Keep the limits honest, not bleak. Build rhythm through the table images and finish together.",
+          "zh": "限制要读得诚实而不灰暗。借桌子意象建立节奏，在 together 的共同感中收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "credible",
+      "meaning": {
+        "en": "Able to be believed or trusted.",
+        "zh": "可信的；值得信赖的。"
+      },
+      "use": {
+        "en": "Care becomes credible through consistent action.",
+        "zh": "关怀通过持续行动变得可信。"
+      }
+    },
+    {
+      "term": "spectacle",
+      "meaning": {
+        "en": "A public display that attracts unusual attention.",
+        "zh": "引人注目的公开场面。"
+      },
+      "use": {
+        "en": "Offer help without making a spectacle of it.",
+        "zh": "提供帮助时，不要把它变成一场表演。"
+      }
+    },
+    {
+      "term": "provision",
+      "meaning": {
+        "en": "Something supplied to meet a need.",
+        "zh": "为满足需要而提供的安排或物品。"
+      },
+      "use": {
+        "en": "Childcare is a practical provision, not a favor.",
+        "zh": "儿童照护是一项实际安排，而不是恩惠。"
+      }
+    },
+    {
+      "term": "revision",
+      "meaning": {
+        "en": "A change made after reconsidering something.",
+        "zh": "修订；重新考虑后作出的改变。"
+      },
+      "use": {
+        "en": "The policy needs revision after community feedback.",
+        "zh": "收到社区反馈后，这项政策需要修订。"
+      }
+    },
+    {
+      "term": "participation",
+      "meaning": {
+        "en": "The act of taking part in an activity or decision.",
+        "zh": "参与；加入活动或决策。"
+      },
+      "use": {
+        "en": "A later meeting time widened participation.",
+        "zh": "推迟会议时间扩大了参与范围。"
+      }
+    },
+    {
+      "term": "bear the cost",
+      "meaning": {
+        "en": "To suffer or pay the consequences of something.",
+        "zh": "承担代价或后果。"
+      },
+      "use": {
+        "en": "Ask who bears the cost of the shortcut.",
+        "zh": "要问是谁承担了走捷径的代价。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the ending consonants clear in wet coat and last chair.",
+      "zh": "读清 wet coat 和 last chair 的词尾辅音。"
+    },
+    {
+      "en": "Stress the contrast in not a common home; it is an exhibition.",
+      "zh": "在 not a common home; it is an exhibition 中强调对比。"
+    },
+    {
+      "en": "Use steady parallel rhythm for contributors, critics, cooks, teachers.",
+      "zh": "contributors、critics、cooks、teachers 要读出稳定的平行节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are inviting a diverse group into serious shared work.",
+      "zh": "跟读时，想象你正邀请一群不同的人进入严肃的共同工作。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every practical detail visible.",
+        "zh": "第一遍：让每个实际细节都清晰可见。"
+      },
+      {
+        "en": "Pass two: keep moral claims calm and precise.",
+        "zh": "第二遍：道德主张要冷静而准确。"
+      },
+      {
+        "en": "Pass three: let the table metaphor gather warmth and momentum.",
+        "zh": "第三遍：让桌子的隐喻逐渐积累温度与力量。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which detail in a place you know makes belonging easier or harder?",
+      "zh": "在你熟悉的地方，哪个细节让归属变得更容易或更困难？"
+    },
+    {
+      "en": "How could a newcomer be invited to shape the group, not merely enter it?",
+      "zh": "怎样让新来者参与塑造群体，而不只是进入其中？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/build-a-table-long-enough/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/build-a-table-long-enough/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/build-a-table-long-enough/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/build-a-table-long-enough/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/build-a-table-long-enough/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/build-a-table-long-enough/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/build-a-table-long-enough/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/build-a-table-long-enough/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/build-a-table-long-enough/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/build-a-table-long-enough/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/build-a-table-long-enough/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/build-a-table-long-enough/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/build-a-table-long-enough/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/build-a-table-long-enough/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/build-a-table-long-enough/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/build-a-table-long-enough/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/build-a-table-long-enough/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/build-a-table-long-enough/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/build-a-table-long-enough/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/build-a-table-long-enough/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/build-a-table-long-enough/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/build-a-table-long-enough/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/build-a-table-long-enough/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/build-a-table-long-enough/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/build-a-table-long-enough/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/build-a-table-long-enough/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/build-a-table-long-enough/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/build-a-table-long-enough/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/build-a-table-long-enough/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/build-a-table-long-enough/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/build-a-table-long-enough/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "practice-until-choice-becomes-grace",
+  "title": {
+    "en": "Practice Until Choice Becomes Grace",
+    "zh": "练习，直到选择变成从容"
+  },
+  "subtitle": {
+    "en": "An original reflection on habit, deliberate practice, and the freedom built by small repetitions.",
+    "zh": "一篇原创美文：关于习惯、刻意练习，以及由微小重复建成的自由。"
+  },
+  "tags": [
+    "Learning",
+    "Career",
+    "Habit",
+    "Self-Trust"
+  ],
+  "sources": [
+    {
+      "title": "Talks to Teachers on Psychology; and to Students on Some of Life's Ideals",
+      "author": "William James",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/16287",
+      "note": {
+        "en": "Public-domain inspiration from William James’s reflections on habit, attention, and education; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自威廉·詹姆斯关于习惯、注意力与教育的公开领域思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with patient energy. Let the short action verbs feel light, exact, and repeatable.",
+    "zh": "带着耐心的活力朗读。短促的动作动词要轻巧、准确、可以重复。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Freedom Hidden in Repetition",
+      "zh": "藏在重复里的自由"
+    },
+    "intro": {
+      "en": "This original passage shows how modest practice can protect our best intentions when pressure arrives.",
+      "zh": "这篇原创文章呈现：朴素的练习如何在压力到来时守住我们最好的意图。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Intention Is a Visitor",
+          "zh": "1. 意愿是一位访客"
+        },
+        "text": "A good intention can enter the mind with impressive light. Tonight I will speak more clearly. Tomorrow I will begin the difficult page before opening my messages. Next time I will pause instead of defending myself. Yet intention is a visitor; it does not automatically know where the cups are kept. Under pressure, the body reaches for familiar shelves. We return to the hurried sentence, the easy task, the old protective joke. This is not proof that character is fixed. It is evidence that desire needs a path. Practice lays down that path in movements small enough to repeat before courage feels necessary.",
+        "coaching": {
+          "en": "Brighten the three intentions, then become matter-of-fact at Yet intention. Finish the section with practical hope.",
+          "zh": "三个意愿要读得明亮；到 Yet intention 时转为平实。结尾读出务实的希望。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make the First Motion Smaller",
+          "zh": "2. 把第一个动作变小"
+        },
+        "text": "When a practice keeps failing, we often increase the speech around it: stronger promises, harsher self-judgment, a more elaborate plan. Try reducing the first motion instead. Open the document and write one honest sentence. Before a tense meeting, place both feet on the floor and release one slow breath. When learning a name, use it once before the conversation ends. A small action may look unimpressive, but it has a crucial advantage: it can cross the border from idea into muscle. Repetition then becomes less a test of heroism and more a way of teaching the body where to go.",
+        "coaching": {
+          "en": "Move briskly through the failed strategies. Give each small action a clean, doable shape.",
+          "zh": "失败策略的列举要轻快。每个小动作都要读得清楚、可执行。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Add Difficulty with Care",
+          "zh": "3. 谨慎增加难度"
+        },
+        "text": "Ease is useful at the beginning, but practice must eventually meet resistance. The singer carries a phrase through one longer breath. The manager gives clear feedback when the stakes are still low. The learner tells a familiar story without translating each sentence in advance. Difficulty should stretch the skill, not bury it. Increase one demand while keeping the others steady. Then notice the point where form begins to collapse: the shoulders rise, the words blur, attention flees. That edge is not a verdict. It is information. Step back, recover the shape, and approach again with one degree more capacity.",
+        "coaching": {
+          "en": "Give the three practitioners distinct voices. Treat the edge as useful information, not failure.",
+          "zh": "三位练习者要各有声音。把边界读成有用信息，而不是失败。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Spend Your Freedom Well",
+          "zh": "4. 好好使用你的自由"
+        },
+        "text": "The reward of practice is not that life becomes automatic. It is that some worthy actions become available without a civil war inside us. Clear speech arrives before panic occupies the whole room. The hand finds the chord while the mind listens to the band. A practiced apology can begin before pride prepares its closing argument. Habit saves a portion of attention, and attention can then serve judgment, imagination, and other people. This is why graceful action often looks effortless from the outside. Its ease is not emptiness; it is stored care. We repeat a choice until, when the living moment asks for us, we are free enough to choose again.",
+        "coaching": {
+          "en": "Read the examples with growing ease. Slow down for stored care and give the final choose again quiet freedom.",
+          "zh": "例子要越读越从容。stored care 处放慢，最后 choose again 要读出安静的自由。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "under pressure",
+      "meaning": {
+        "en": "While facing stress, urgency, or strong demands.",
+        "zh": "在压力之下；面对紧迫或强烈要求时。"
+      },
+      "use": {
+        "en": "The routine helps me think clearly under pressure.",
+        "zh": "这套流程帮助我在压力下清晰思考。"
+      }
+    },
+    {
+      "term": "lay down a path",
+      "meaning": {
+        "en": "To create a route or pattern that becomes easier to follow.",
+        "zh": "铺出一条路径；建立更容易遵循的模式。"
+      },
+      "use": {
+        "en": "Daily practice lays down a path for confident speech.",
+        "zh": "每日练习为自信表达铺出路径。"
+      }
+    },
+    {
+      "term": "elaborate",
+      "meaning": {
+        "en": "Detailed and complicated, sometimes more than necessary.",
+        "zh": "精心复杂的；有时过于繁复的。"
+      },
+      "use": {
+        "en": "We replaced the elaborate plan with one clear step.",
+        "zh": "我们用一个清晰步骤替代了复杂计划。"
+      }
+    },
+    {
+      "term": "resistance",
+      "meaning": {
+        "en": "A force or difficulty that opposes progress.",
+        "zh": "阻力；妨碍前进的力量或困难。"
+      },
+      "use": {
+        "en": "Useful practice includes manageable resistance.",
+        "zh": "有效练习包含可以应对的阻力。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment or decision.",
+        "zh": "裁决；最终判断。"
+      },
+      "use": {
+        "en": "One poor attempt is not a verdict on your ability.",
+        "zh": "一次糟糕的尝试不是对你能力的最终裁决。"
+      }
+    },
+    {
+      "term": "stored care",
+      "meaning": {
+        "en": "Past attention preserved in a skill or habit.",
+        "zh": "储存的用心；保存在技能或习惯中的过往专注。"
+      },
+      "use": {
+        "en": "Her calm response revealed years of stored care.",
+        "zh": "她从容的回应显露出多年储存的用心。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly through difficult page before opening.",
+      "zh": "顺畅连接 difficult page before opening。"
+    },
+    {
+      "en": "Give equal stress to judgment, imagination, and other people.",
+      "zh": "judgment、imagination 和 other people 要给予同等重音。"
+    },
+    {
+      "en": "Keep the final consonants clear in step back, recover the shape.",
+      "zh": "读清 step back, recover the shape 中的词尾辅音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are coaching a capable learner through patient, exact practice.",
+      "zh": "跟读时，想象你正带领一位有能力的学习者进行耐心而准确的练习。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the small actions concrete and light.",
+        "zh": "第一遍：把小动作读得具体而轻巧。"
+      },
+      {
+        "en": "Pass two: sharpen each contrast between pressure and choice.",
+        "zh": "第二遍：读清压力与选择之间的每组对比。"
+      },
+      {
+        "en": "Pass three: let the final section sound earned, spacious, and calm.",
+        "zh": "第三遍：最后一节要读得踏实、开阔而平静。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which good intention needs a smaller first motion?",
+      "zh": "你的哪个良好意愿需要一个更小的起步动作？"
+    },
+    {
+      "en": "Where could you add one degree of useful difficulty to your practice?",
+      "zh": "你可以在哪项练习中增加一度有益的难度？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/practice-until-choice-becomes-grace/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/practice-until-choice-becomes-grace/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/practice-until-choice-becomes-grace/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/practice-until-choice-becomes-grace/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/practice-until-choice-becomes-grace/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/practice-until-choice-becomes-grace/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/practice-until-choice-becomes-grace/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/practice-until-choice-becomes-grace/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/practice-until-choice-becomes-grace/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/practice-until-choice-becomes-grace/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/practice-until-choice-becomes-grace/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/practice-until-choice-becomes-grace/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/practice-until-choice-becomes-grace/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/practice-until-choice-becomes-grace/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/practice-until-choice-becomes-grace/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/practice-until-choice-becomes-grace/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/practice-until-choice-becomes-grace/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/practice-until-choice-becomes-grace/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/practice-until-choice-becomes-grace/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/practice-until-choice-becomes-grace/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/practice-until-choice-becomes-grace/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/practice-until-choice-becomes-grace/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/practice-until-choice-becomes-grace/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/practice-until-choice-becomes-grace/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/practice-until-choice-becomes-grace/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/practice-until-choice-becomes-grace/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/practice-until-choice-becomes-grace/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/practice-until-choice-becomes-grace/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/practice-until-choice-becomes-grace/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/practice-until-choice-becomes-grace/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/practice-until-choice-becomes-grace/clips/sources_0.mp3"
+    }
+  }
+}

@@ -77,6 +77,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Build a Bridge for the No](https://wordpower-seven.vercel.app/read-aloud/build-a-bridge-for-the-no): An original reflection on principled disagreement, calm language, and keeping human dignity inside a firm refusal.
 - [Build a Career with Open Doors](https://wordpower-seven.vercel.app/read-aloud/build-a-career-with-open-doors): An original reflection on useful work, changing direction, and becoming through practice.
 - [Build a Ladder from Mistakes](https://wordpower-seven.vercel.app/read-aloud/build-a-ladder-from-mistakes): An original reflection on learning, useful records, and the dignity of revision.
+- [Build a Table Long Enough](https://wordpower-seven.vercel.app/read-aloud/build-a-table-long-enough): An original reflection on hospitality, civic imagination, and the dignity of making room.
 - [Build the Bridge from Both Banks](https://wordpower-seven.vercel.app/read-aloud/build-the-bridge-from-both-banks): An original reflection on disagreement, dignity, and the patient craft of mutual understanding.
 - [A Career Is Built in Drafts](https://wordpower-seven.vercel.app/read-aloud/career-built-in-drafts): An original reflection on useful work, transferable skills, and learning without a perfect map.
 - [Carry a Lantern, Not a Verdict](https://wordpower-seven.vercel.app/read-aloud/carry-a-lantern-not-a-verdict): An original reflection on moral imagination, incomplete stories, and the discipline of seeing people whole.
@@ -106,6 +107,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Give the Work a Clean Edge](https://wordpower-seven.vercel.app/read-aloud/give-the-work-a-clean-edge): An original reflection on craftsmanship, useful limits, and the dignity of finishing ordinary work well.
 - [Give the Work Its Season](https://wordpower-seven.vercel.app/read-aloud/give-the-work-its-season): An original reflection on humane ambition, patient craft, and building a life at a sustainable pace.
 - [Give Them Something Real to Carry](https://wordpower-seven.vercel.app/read-aloud/give-them-something-real-to-carry): An original reflection on parenting, practical responsibility, and the dignity of being genuinely useful.
+- [Hear the Room Before You Answer](https://wordpower-seven.vercel.app/read-aloud/hear-the-room-before-you-answer): An original reflection on attentive listening, hidden harmonies, and replies that belong to the moment.
 - [Hear the Space Between Notes](https://wordpower-seven.vercel.app/read-aloud/hear-the-space-between-notes): An original reflection on musical attention, silence, and the courage to listen without hurrying.
 - [Hear the Work Beneath the Buzz](https://wordpower-seven.vercel.app/read-aloud/hear-the-work-beneath-the-buzz): An original reflection on cooperation, visible credit, and the quiet intelligence of a working group.
 - [Hold Steady When the Room Shifts](https://wordpower-seven.vercel.app/read-aloud/hold-steady-when-the-room-shifts): An original reflection on leadership, composure, and creating usable calm when plans begin to fail.
@@ -215,6 +217,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Notice the Season Turn](https://wordpower-seven.vercel.app/read-aloud/notice-the-season-turn): An original reflection on recovering attention through the small announcements of autumn.
 - [The Patient Eye Sees More](https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more): An original reflection on observation, curiosity, and the discipline of seeing before naming.
 - [Practice the Art of Enough](https://wordpower-seven.vercel.app/read-aloud/practice-the-art-of-enough): An original reflection on gratitude, proportion, and the quiet wealth of an ordinary day.
+- [Practice Until Choice Becomes Grace](https://wordpower-seven.vercel.app/read-aloud/practice-until-choice-becomes-grace): An original reflection on habit, deliberate practice, and the freedom built by small repetitions.
 - [Read the River at Walking Speed](https://wordpower-seven.vercel.app/read-aloud/read-the-river-at-walking-speed): An original reflection on rivers, patient attention, and learning to notice change without rushing it.
 - [Read the Weather at Ground Level](https://wordpower-seven.vercel.app/read-aloud/read-the-weather-at-ground-level): An original reflection on close observation, seasonal intelligence, and returning to the living world.
 - [Read the Weather in a Leaf](https://wordpower-seven.vercel.app/read-aloud/read-the-weather-in-a-leaf): An original reflection on close attention, seasonal change, and the intelligence of ordinary things.
