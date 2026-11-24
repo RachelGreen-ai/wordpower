@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "plant-for-a-season-you-may-not-see",
+  "title": {
+    "en": "Plant for a Season You May Not See",
+    "zh": "为未必亲见的季节播种"
+  },
+  "subtitle": {
+    "en": "An original reflection on stewardship, long horizons, and work whose reward belongs partly to the future.",
+    "zh": "一篇原创美文：关于守护、长远眼光，以及回报部分属于未来的工作。"
+  },
+  "tags": [
+    "Nature",
+    "Leadership",
+    "Patience",
+    "Moral Imagination"
+  ],
+  "sources": [
+    {
+      "title": "Man and Nature; or, Physical Geography as Modified by Human Action",
+      "author": "George Perkins Marsh",
+      "organization": "Public-domain / rights-safe inspiration",
+      "url": "https://www.gutenberg.org/ebooks/37925",
+      "note": {
+        "en": "Rights-safe thematic inspiration only; this lesson is wholly original and reproduces no source wording. Man and Nature; or, Physical Geography as Modified by Human Action informs the broad theme, not the language or structure.",
+        "zh": "乔治·珀金斯·马什关于人类照管土地及其长远影响的公开领域思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with patient forward motion. Let the concrete work feel modest, and allow the future images to widen naturally.",
+    "zh": "带着耐心的推进感朗读。具体劳动要朴素，未来图景则自然展开。"
+  },
+  "passage": {
+    "title": {
+      "en": "Work with a Longer Shadow",
+      "zh": "让工作投下更长的影子"
+    },
+    "intro": {
+      "en": "This original passage considers what changes when we work for people and seasons beyond our own immediate reward.",
+      "zh": "这篇原创文章思考：当我们为眼前回报之外的人与季节工作时，会发生什么变化。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Choose the Unphotogenic Task",
+          "zh": "1. 选择不上镜的任务"
+        },
+        "text": "The young tree receives the photograph. The old soil rarely does. Yet before a sapling can survive August, someone may need to loosen hard ground, carry compost, redirect a trickle of water, and return after the first hopeful leaves have fallen. Much useful work is unphotogenic. It happens before the visible beginning or after the ceremony has ended. A leader updates the dull instructions that will save a stranger an hour. A parent repeats the household kindness no child applauds. A neighbor clears the drain before rain. These acts do not sparkle, but they prepare the conditions in which better things can last.",
+        "coaching": {
+          "en": "Keep the opening contrast dry and clear. Give the three workers equal dignity, then let better things can last broaden gently.",
+          "zh": "开头的对比要克制清楚。三位劳动者都要读出同等尊严，better things can last 处温和展开。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Measure with More Than Harvest",
+          "zh": "2. 不只用收成衡量"
+        },
+        "text": "Short measures are useful: this week's sales, today's attendance, the number of seedlings still green. Trouble begins when the nearest measure becomes the only one. A garden may be teaching patience while producing few tomatoes. A careful meeting may prevent a conflict that will therefore never appear in a report. A book placed in a library may wait ten years for the reader who needs it. Long work asks us to notice both harvest and habitat: not only what was produced, but what kind of place our effort produced around it. Did trust deepen? Did skill travel? Can someone else continue?",
+        "coaching": {
+          "en": "Read the measures briskly, then open space around the unseen results. Make the final three questions practical, not sentimental.",
+          "zh": "短期指标要读得轻快，再为看不见的成果留出空间。最后三个问题要务实，不要煽情。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Pass the Tool Before the Torch",
+          "zh": "3. 传递火炬之前，先传递工具"
+        },
+        "text": "People praise the passing of a torch because flame makes a beautiful symbol. In practice, continuity depends on less dramatic gifts: a labeled key, an honest record of mistakes, a patient hour beside the machine. If knowledge remains trapped in the expert's hands, the work is still fragile. Stewardship means making competence portable. Explain the reason, not only the rule. Let the learner try while you are close enough to help and far enough to leave room. A true successor should not become a copy. Give them the tool, the story of its use, and permission to improve the handle.",
+        "coaching": {
+          "en": "Enjoy the contrast between torch and labeled key. Slow for making competence portable, and make the final permission sound sincere.",
+          "zh": "读出“火炬”与“贴好标签的钥匙”之间的趣味对比。making competence portable 处放慢，最后的许可要真诚。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Be a Good Ancestor of the Ordinary",
+          "zh": "4. 做日常生活里的好前人"
+        },
+        "text": "We usually reserve the word ancestor for a distant figure in a frame. But each day, we become ancestors of small systems: the team culture a new colleague enters, the patch of earth another family will inherit, the tone a child may carry into rooms we never see. This need not make every choice solemn. It can make ordinary choices more alive. Repair what you can. Label what would otherwise confuse. Plant shade where the afternoon will grow hotter. Then release the demand to witness every result. A future you cannot supervise is not an empty place. It is already approaching, and your careful work can meet it there.",
+        "coaching": {
+          "en": "Keep ancestor grounded in ordinary life. Give the three imperatives a useful, workmanlike rhythm, then widen the final two sentences.",
+          "zh": "让 ancestor 落在日常生活中。三个祈使句要有实用、干练的节奏，最后两句逐渐展开。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "sapling",
+      "meaning": {
+        "en": "A young tree.",
+        "zh": "树苗；幼小的树。"
+      },
+      "use": {
+        "en": "We protected each sapling from the summer heat.",
+        "zh": "我们保护每棵树苗免受夏日酷热。"
+      }
+    },
+    {
+      "term": "unphotogenic",
+      "meaning": {
+        "en": "Not visually attractive or likely to look impressive in a photograph.",
+        "zh": "不上镜的；在照片中不显眼或不够吸引人的。"
+      },
+      "use": {
+        "en": "Most maintenance work is necessary but unphotogenic.",
+        "zh": "大多数维护工作都很必要，却并不上镜。"
+      }
+    },
+    {
+      "term": "conditions",
+      "meaning": {
+        "en": "The circumstances that make an outcome possible.",
+        "zh": "条件；使某种结果成为可能的环境。"
+      },
+      "use": {
+        "en": "Good leaders create conditions for honest discussion.",
+        "zh": "优秀的领导者为坦诚讨论创造条件。"
+      }
+    },
+    {
+      "term": "habitat",
+      "meaning": {
+        "en": "The environment in which a living thing or activity can grow.",
+        "zh": "栖息地；生命或活动得以成长的环境。"
+      },
+      "use": {
+        "en": "Trust is the habitat of good collaboration.",
+        "zh": "信任是良好合作的生长环境。"
+      }
+    },
+    {
+      "term": "continuity",
+      "meaning": {
+        "en": "The state of continuing without harmful interruption.",
+        "zh": "连续性；不受有害中断而持续的状态。"
+      },
+      "use": {
+        "en": "Clear records protect continuity during change.",
+        "zh": "清晰的记录能在变化中保护连续性。"
+      }
+    },
+    {
+      "term": "portable",
+      "meaning": {
+        "en": "Able to be carried or transferred to another place or person.",
+        "zh": "可携带、可传递的；能转移给他人或别处的。"
+      },
+      "use": {
+        "en": "The checklist makes expert knowledge portable.",
+        "zh": "这份清单让专家知识可以传递。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly through before a sapling can survive August.",
+      "zh": "顺畅连接 before a sapling can survive August。"
+    },
+    {
+      "en": "Stress both sides of not only what was produced, but what kind of place.",
+      "zh": "重读 not only what was produced 与 but what kind of place 两部分。"
+    },
+    {
+      "en": "Keep the consonant clusters clear in trapped, fragile, and systems.",
+      "zh": "读清 trapped、fragile 和 systems 中的辅音组合。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as a patient steward explaining why quiet work matters across time.",
+      "zh": "跟读时，想象自己是一位耐心的守护者，讲述安静的工作为何能跨越时间。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every tool, tree, and task concrete.",
+        "zh": "第一遍：让每件工具、每棵树和每项任务都具体可见。"
+      },
+      {
+        "en": "Pass two: balance short measures with long consequences.",
+        "zh": "第二遍：平衡短期指标与长远影响。"
+      },
+      {
+        "en": "Pass three: let the future feel near, real, and worth serving.",
+        "zh": "第三遍：让未来显得临近、真实，值得为之付出。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What unphotogenic task would make your work easier to continue?",
+      "zh": "哪项不上镜的任务能让你的工作更容易延续？"
+    },
+    {
+      "en": "What tool or knowledge should you make portable for someone else?",
+      "zh": "你应该把哪件工具或哪项知识传递给他人？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/plant-for-a-season-you-may-not-see/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/plant-for-a-season-you-may-not-see/clips/sources_0.mp3"
+    }
+  }
+}

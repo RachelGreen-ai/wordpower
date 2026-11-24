@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "leave-room-for-the-unexpected",
+  "title": {
+    "en": "Leave Room for the Unexpected",
+    "zh": "为意外留一点空间"
+  },
+  "subtitle": {
+    "en": "An original reflection on scientific humility, close observation, and the courage to revise a cherished idea.",
+    "zh": "一篇原创美文：关于科学的谦逊、细致观察，以及修正珍爱观点的勇气。"
+  },
+  "tags": [
+    "Science",
+    "Learning",
+    "Curiosity",
+    "Humility"
+  ],
+  "sources": [
+    {
+      "title": "The Voyage of the Beagle",
+      "author": "Charles Darwin",
+      "organization": "Public-domain / rights-safe inspiration",
+      "url": "https://www.gutenberg.org/ebooks/3704",
+      "note": {
+        "en": "Rights-safe thematic inspiration only; this lesson is wholly original and reproduces no source wording. The Voyage of the Beagle informs the broad theme, not the language or structure.",
+        "zh": "Charles Darwin 对自然细节的耐心观察与不断修正判断的公开领域作品；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert curiosity. Let each observation arrive before the explanation, and keep the final sentences open rather than triumphant.",
+    "zh": "带着敏锐的好奇心朗读。让观察先于解释出现，结尾保持开放，不要读成胜利宣言。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Honest Space Beside an Answer",
+      "zh": "答案旁边诚实的空地"
+    },
+    "intro": {
+      "en": "This original passage explores how careful observers protect a small space where evidence can still surprise them.",
+      "zh": "这篇原创文章探讨：细心的观察者如何守住一小块空间，让证据仍能带来惊喜。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin with What Is There",
+          "zh": "1. 从眼前之物开始"
+        },
+        "text": "At low tide, a child turns over a stone and finds a small world refusing to match her expectations. A crab moves sideways into the shadow. Threads of green weed hold beads of water. A shell that seemed empty closes firmly around a living tenant. The quickest mind may rush to name everything. The wiser habit is slower: first notice shape, color, direction, and change. Description is not a timid form of thought. It is a clean table on which thought can work. When we begin with what is actually there, the world gains a chance to correct the picture we carried to it.",
+        "coaching": {
+          "en": "Give the tide-pool details bright precision. Slow slightly at first notice, then make the final sentence sound generous and awake.",
+          "zh": "潮池细节要读得明亮准确。first notice 处稍放慢，最后一句读得宽厚而清醒。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Keep a Margin in the Notebook",
+          "zh": "2. 在笔记本上留出空白"
+        },
+        "text": "A good notebook has margins. So does a good explanation. We need a place for the measurement that does not fit, the witness whose memory differs, the result that refuses to repeat. Without that margin, intelligence becomes an interior decorator: it rearranges every fact until the old room looks comfortable again. With a margin, intelligence becomes a host. It can say, There is something here I did not prepare for. Come in. This welcome is not gullibility. Surprise must still be tested. But before we test it, we must allow ourselves to see it without immediately sanding away its difficult edges.",
+        "coaching": {
+          "en": "Contrast the decorator with the host. Give Come in a warm pause, then return to a careful, testing tone.",
+          "zh": "读出“室内装饰者”与“主人”的对比。Come in 前温暖地停顿，随后回到谨慎求证的语气。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Revise Without Disappearing",
+          "zh": "3. 修正观点，不必否定自己"
+        },
+        "text": "Changing your mind can feel like losing face because we often sew an opinion to our identity. If the opinion tears, we imagine the whole garment ruined. Yet revision is not erasure. The sailor who adjusts a course has not betrayed the destination; she has answered the wind. The scientist who replaces a neat theory with a messier one has not wasted the first attempt; he has made it useful. Even in ordinary conversation, a calm I was wrong can create more trust than a hundred polished defenses. The self does not become smaller when it releases an error. It becomes spacious enough to keep learning.",
+        "coaching": {
+          "en": "Keep the garment image light. Land I was wrong plainly, without shame or drama, and let spacious carry quiet relief.",
+          "zh": "衣服的比喻要读得轻巧。I was wrong 要平实，不带羞耻或戏剧感；spacious 要有安静的释然。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Let Wonder Improve the Method",
+          "zh": "4. 让惊奇改进方法"
+        },
+        "text": "Wonder is often treated as the spark that begins inquiry, then dismissed once serious work arrives. But mature wonder stays for the entire journey. It asks better questions after the first answer. It notices when a tool is too blunt for the thing being measured. It invites another pair of eyes and does not resent the correction they bring. This kind of wonder is disciplined affection for reality: a wish to meet the world as it is, not merely as we can explain it today. Leave one chair empty at the table of certainty. The unexpected may sit there, carrying the fact that changes the conversation.",
+        "coaching": {
+          "en": "Build energy through the three actions of wonder. Slow for disciplined affection for reality, then end with hospitable anticipation.",
+          "zh": "三个“惊奇的动作”要逐步增强。disciplined affection for reality 处放慢，结尾读出好客般的期待。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "low tide",
+      "meaning": {
+        "en": "The time when the sea is at its lowest level.",
+        "zh": "低潮；海面处于最低水位的时候。"
+      },
+      "use": {
+        "en": "We explored the rocks at low tide.",
+        "zh": "我们在低潮时探索礁石。"
+      }
+    },
+    {
+      "term": "margin",
+      "meaning": {
+        "en": "Extra space that allows room for additions or uncertainty.",
+        "zh": "余地；为补充或不确定性留下的空间。"
+      },
+      "use": {
+        "en": "Leave a margin for new evidence.",
+        "zh": "为新证据留一点余地。"
+      }
+    },
+    {
+      "term": "refuse to repeat",
+      "meaning": {
+        "en": "To produce a result that does not happen again under the same conditions.",
+        "zh": "无法复现；同样条件下结果不再出现。"
+      },
+      "use": {
+        "en": "We investigated a result that refused to repeat.",
+        "zh": "我们调查了一个无法复现的结果。"
+      }
+    },
+    {
+      "term": "gullibility",
+      "meaning": {
+        "en": "A readiness to believe something too easily.",
+        "zh": "轻信；过于容易相信某事。"
+      },
+      "use": {
+        "en": "Open-mindedness is not the same as gullibility.",
+        "zh": "思想开放不等于轻信。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To change an idea or plan after considering new information.",
+        "zh": "修正；根据新信息改变观点或计划。"
+      },
+      "use": {
+        "en": "Strong teams revise their plans when the facts change.",
+        "zh": "优秀的团队会在事实变化时修正计划。"
+      }
+    },
+    {
+      "term": "disciplined",
+      "meaning": {
+        "en": "Controlled by careful practice and sound standards.",
+        "zh": "有自律的；受细致练习和可靠标准约束的。"
+      },
+      "use": {
+        "en": "Her curiosity was energetic but disciplined.",
+        "zh": "她的好奇心充满活力，却不失严谨。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly through a small world refusing to match.",
+      "zh": "顺畅连接 a small world refusing to match。"
+    },
+    {
+      "en": "Keep the consonants crisp in tested, blunt, and fact.",
+      "zh": "读清 tested、blunt 和 fact 中的辅音。"
+    },
+    {
+      "en": "Stress the contrast in as it is, not merely as we can explain it.",
+      "zh": "重读 as it is 与 not merely as we can explain it 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as a thoughtful observer who values accuracy more than appearing certain.",
+      "zh": "跟读时，想象自己是一位重视准确、胜过显得确定的观察者。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every physical detail visible.",
+        "zh": "第一遍：让每个具体细节都清晰可见。"
+      },
+      {
+        "en": "Pass two: sharpen the contrasts between certainty and discovery.",
+        "zh": "第二遍：读清确定与发现之间的对比。"
+      },
+      {
+        "en": "Pass three: let the final invitation sound calm, curious, and sincere.",
+        "zh": "第三遍：最后的邀请要从容、好奇而真诚。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where could a margin for new evidence improve one of your decisions?",
+      "zh": "在哪个决定中，为新证据留出余地会让它更好？"
+    },
+    {
+      "en": "What sentence helps you revise an opinion without losing confidence?",
+      "zh": "哪句话能帮助你在保持自信的同时修正观点？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-room-for-the-unexpected/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-room-for-the-unexpected/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-room-for-the-unexpected/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-room-for-the-unexpected/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-room-for-the-unexpected/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/leave-room-for-the-unexpected/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-room-for-the-unexpected/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-room-for-the-unexpected/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-room-for-the-unexpected/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-room-for-the-unexpected/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-room-for-the-unexpected/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-room-for-the-unexpected/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-room-for-the-unexpected/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-room-for-the-unexpected/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-room-for-the-unexpected/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-room-for-the-unexpected/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-room-for-the-unexpected/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-room-for-the-unexpected/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-room-for-the-unexpected/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-room-for-the-unexpected/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-room-for-the-unexpected/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-room-for-the-unexpected/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-room-for-the-unexpected/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-room-for-the-unexpected/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-room-for-the-unexpected/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-room-for-the-unexpected/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-room-for-the-unexpected/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-room-for-the-unexpected/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-room-for-the-unexpected/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-room-for-the-unexpected/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-room-for-the-unexpected/clips/sources_0.mp3"
+    }
+  }
+}

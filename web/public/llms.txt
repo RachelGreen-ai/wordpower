@@ -95,6 +95,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Cross the Street Before Judging](https://wordpower-seven.vercel.app/read-aloud/cross-the-street-before-judging): An original reflection on moral imagination, neighborhood knowledge, and the discipline of seeing from nearby.
 - [Do Some Work No One Sees](https://wordpower-seven.vercel.app/read-aloud/do-some-work-no-one-sees): An original reflection on private standards, self-trust, and the freedom of practicing beyond applause.
 - [Draw the Light, Not the Object](https://wordpower-seven.vercel.app/read-aloud/draw-the-light-not-the-object): An original reflection on art, attention, and learning to see before we name.
+- [Draw the Line with a Steady Hand](https://wordpower-seven.vercel.app/read-aloud/draw-the-line-with-a-steady-hand): An original reflection on boundaries, calm communication, and the dignity of a clear no.
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
 - [Facts Before Blame](https://wordpower-seven.vercel.app/read-aloud/facts-before-blame): An original reflection on calm leadership, accountability, and making a crisis usable.
 - [Follow the Small Question](https://wordpower-seven.vercel.app/read-aloud/follow-the-small-question): An original reflection on scientific wonder, patient observation, and the courage to take ordinary mysteries seriously.
@@ -153,6 +154,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Leave Room for Growing](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-growing): An original reflection on patient guidance, useful boundaries, and the courage to let a child try.
 - [Leave Room for the Answer](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-answer): An original reflection on parenting, patient questions, and the courage to let a child grow beyond our script.
 - [Leave Room for the Result](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-result): An original reflection on experiment, uncertainty, and the discipline of seeing what is actually there.
+- [Leave Room for the Unexpected](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-unexpected): An original reflection on scientific humility, close observation, and the courage to revise a cherished idea.
 - [Leave Room for the Unfinished Map](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-unfinished-map): An original reflection on evidence, imagination, and the dignity of revising what we think we know.
 - [Leave Room for the Weather](https://wordpower-seven.vercel.app/read-aloud/leave-room-for-the-weather): An original reflection on resilient plans, useful margins, and the freedom to adapt without surrendering direction.
 - [Leave the Door Open in Conversation](https://wordpower-seven.vercel.app/read-aloud/leave-the-door-open-in-conversation): An original reflection on calm disagreement, careful language, and making truth easier to hear.
@@ -216,6 +218,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Notice Before You Guide](https://wordpower-seven.vercel.app/read-aloud/notice-before-you-guide): An original reflection on parenting, patient observation, and the wisdom of making room.
 - [Notice the Season Turn](https://wordpower-seven.vercel.app/read-aloud/notice-the-season-turn): An original reflection on recovering attention through the small announcements of autumn.
 - [The Patient Eye Sees More](https://wordpower-seven.vercel.app/read-aloud/patient-eye-sees-more): An original reflection on observation, curiosity, and the discipline of seeing before naming.
+- [Plant for a Season You May Not See](https://wordpower-seven.vercel.app/read-aloud/plant-for-a-season-you-may-not-see): An original reflection on stewardship, long horizons, and work whose reward belongs partly to the future.
 - [Practice the Art of Enough](https://wordpower-seven.vercel.app/read-aloud/practice-the-art-of-enough): An original reflection on gratitude, proportion, and the quiet wealth of an ordinary day.
 - [Practice Until Choice Becomes Grace](https://wordpower-seven.vercel.app/read-aloud/practice-until-choice-becomes-grace): An original reflection on habit, deliberate practice, and the freedom built by small repetitions.
 - [Read the River at Walking Speed](https://wordpower-seven.vercel.app/read-aloud/read-the-river-at-walking-speed): An original reflection on rivers, patient attention, and learning to notice change without rushing it.

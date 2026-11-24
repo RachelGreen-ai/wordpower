@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "draw-the-line-with-a-steady-hand",
+  "title": {
+    "en": "Draw the Line with a Steady Hand",
+    "zh": "用沉稳的手划清界限"
+  },
+  "subtitle": {
+    "en": "An original reflection on boundaries, calm communication, and the dignity of a clear no.",
+    "zh": "一篇原创美文：关于边界、平静沟通，以及清楚说“不”的尊严。"
+  },
+  "tags": [
+    "Communication",
+    "Courage",
+    "Boundaries",
+    "Self-Trust"
+  ],
+  "sources": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "organization": "Public-domain / rights-safe inspiration",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "note": {
+        "en": "Rights-safe thematic inspiration only; this lesson is wholly original and reproduces no source wording. Meditations informs the broad theme, not the language or structure.",
+        "zh": "马可·奥勒留关于自制、责任与不受他人情绪支配的公开领域思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded warmth. Keep each refusal clear and unhurried; firmness does not require a hard voice.",
+    "zh": "带着踏实的温度朗读。每次拒绝都要清楚、不匆忙；坚定不等于声音强硬。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Quiet Architecture of a Boundary",
+      "zh": "边界的安静结构"
+    },
+    "intro": {
+      "en": "This original passage shows how a well-made boundary can protect both honesty and relationship.",
+      "zh": "这篇原创文章呈现：清晰的边界如何同时保护诚实与关系。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Notice the First Small No",
+          "zh": "1. 听见最初那个轻轻的“不”"
+        },
+        "text": "Long before resentment becomes a slammed door, the body often offers a quieter signal. The jaw tightens. A friendly yes takes one second too long. We begin composing an excuse while the request is still being made. These signals are not always commands; fatigue can distort them, and fear can make every invitation feel dangerous. But they deserve attention. A boundary begins as information about capacity, safety, time, or principle. If we ignore that information repeatedly, the eventual refusal may arrive carrying months of accumulated heat. Listening early lets us answer while the voice is still our own.",
+        "coaching": {
+          "en": "Begin intimately with the body signals. Build weight through accumulated heat, then settle into the final sentence.",
+          "zh": "从身体信号开始，读得贴近而细腻。到 accumulated heat 逐渐加重，最后一句恢复沉稳。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Use Fewer Supporting Beams",
+          "zh": "2. 少搭几根解释的梁"
+        },
+        "text": "Many of us build an enormous explanation around a simple no, hoping no one will feel disappointed. We add schedules, histories, apologies, and emergency weather reports. The structure grows so crowded that the boundary disappears inside it. A shorter answer can be kinder: I cannot take this on. I can stay for thirty minutes. Please do not speak to me that way. Clear sentences give the other person something solid to respond to. An explanation may be useful, but it should support the boundary, not bargain it out of existence. Say enough to be understood, then let the sentence stand.",
+        "coaching": {
+          "en": "Move lightly through the comic list of explanations. Give the three boundaries a low, even tone and a full stop.",
+          "zh": "解释理由的滑稽清单要轻快。三个边界句要用低而平稳的语气，并清楚收尾。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Allow the Weather to Pass",
+          "zh": "3. 允许情绪的天气经过"
+        },
+        "text": "A clear boundary does not guarantee a cheerful reception. Someone may sigh, argue, withdraw, or accuse you of changing. Their reaction matters, especially in a relationship you value, but it is not automatic proof that your limit is cruel. Disappointment is weather: real, sometimes inconvenient, and not always yours to prevent. You can listen without surrendering the line. You can acknowledge, I know this creates extra work, and still decline. Calm does not mean feeling nothing. It means refusing to turn another person's first wave of emotion into your final decision.",
+        "coaching": {
+          "en": "Name the reactions without mockery. Pause after Disappointment is weather, then make the final contrast firm but compassionate.",
+          "zh": "列举反应时不要嘲讽。Disappointment is weather 后停顿，最后的对比要坚定而有同理心。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Make the Line a Place of Meeting",
+          "zh": "4. 让界限成为相遇之处"
+        },
+        "text": "A boundary is often pictured as a wall, but the best ones also contain a doorway. They show where a truthful meeting can occur. I cannot answer messages at midnight, but I can call tomorrow morning. I will not join in the joke, but I am willing to hear what upset you. The line protects the conditions under which generosity remains genuine instead of becoming performance. Draw it without flourish. Maintain it without keeping score. When circumstances change, reconsider it without embarrassment. A steady boundary does not reduce love to a rule. It gives love a shape the people inside it can trust.",
+        "coaching": {
+          "en": "Warm the doorway image and keep the examples conversational. Give the three imperatives balanced rhythm, then close with trustworthy calm.",
+          "zh": "把“门口”的意象读得温暖，例句保持对话感。三个祈使句节奏均衡，结尾读出可信赖的平静。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "resentment",
+      "meaning": {
+        "en": "Bitter anger that grows from feeling unfairly treated.",
+        "zh": "怨恨；因感到受到不公对待而积累的愤怒。"
+      },
+      "use": {
+        "en": "Unspoken resentment damaged the partnership.",
+        "zh": "未说出口的怨恨伤害了合作关系。"
+      }
+    },
+    {
+      "term": "capacity",
+      "meaning": {
+        "en": "The amount of work, emotion, or responsibility someone can manage.",
+        "zh": "承受能力；一个人能处理的工作、情绪或责任总量。"
+      },
+      "use": {
+        "en": "I do not have the capacity for another project this month.",
+        "zh": "这个月我没有余力再接一个项目。"
+      }
+    },
+    {
+      "term": "take this on",
+      "meaning": {
+        "en": "To accept responsibility for a task or problem.",
+        "zh": "承担此事；接受一项任务或问题的责任。"
+      },
+      "use": {
+        "en": "I cannot take this on before Friday.",
+        "zh": "周五之前我无法承担这件事。"
+      }
+    },
+    {
+      "term": "bargain away",
+      "meaning": {
+        "en": "To lose something important by negotiating too much.",
+        "zh": "讨价还价中放弃；因过度协商而失去重要之物。"
+      },
+      "use": {
+        "en": "Do not bargain away the time you need to recover.",
+        "zh": "不要在协商中放弃你恢复所需的时间。"
+      }
+    },
+    {
+      "term": "reception",
+      "meaning": {
+        "en": "The way an idea, statement, or action is received.",
+        "zh": "反响；一个观点、说法或行动被接受的方式。"
+      },
+      "use": {
+        "en": "The proposal received a mixed reception.",
+        "zh": "这项提议得到的反响不一。"
+      }
+    },
+    {
+      "term": "keep score",
+      "meaning": {
+        "en": "To continually count wrongs or favors in a relationship.",
+        "zh": "记账；在人际关系中不断计算过错或人情。"
+      },
+      "use": {
+        "en": "Healthy friendship does not keep score.",
+        "zh": "健康的友谊不会处处记账。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final sounds clear in slammed door, friendly yes, and accumulated heat.",
+      "zh": "读清 slammed door、friendly yes 和 accumulated heat 的词尾音。"
+    },
+    {
+      "en": "Use a falling tone for I cannot take this on.",
+      "zh": "I cannot take this on 要使用降调。"
+    },
+    {
+      "en": "Contrast listen without surrendering with acknowledge and still decline.",
+      "zh": "读清 listen without surrendering 与 acknowledge and still decline 的对比。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as someone who is kind, prepared, and no longer asking permission to be clear.",
+      "zh": "跟读时，想象自己善意而有准备，不再为清楚表达寻求许可。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the body signals precise and quiet.",
+        "zh": "第一遍：把身体信号读得准确而克制。"
+      },
+      {
+        "en": "Pass two: give every boundary sentence a clean ending.",
+        "zh": "第二遍：每个边界句都要干净收尾。"
+      },
+      {
+        "en": "Pass three: carry warmth and firmness in equal measure.",
+        "zh": "第三遍：让温度与坚定保持平衡。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which long explanation could become one clear sentence?",
+      "zh": "哪一段冗长解释可以变成一句清楚的话？"
+    },
+    {
+      "en": "What boundary would help your generosity remain genuine?",
+      "zh": "什么样的边界能让你的慷慨保持真诚？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/draw-the-line-with-a-steady-hand/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/draw-the-line-with-a-steady-hand/clips/sources_0.mp3"
+    }
+  }
+}
