@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "borrow-another-persons-window",
+  "title": {
+    "en": "Borrow Another Person’s Window",
+    "zh": "借一扇别人的窗看世界"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, generous interpretation, and seeing beyond the limits of one life.",
+    "zh": "一篇原创美文：关于道德想象、善意理解，以及越过单一人生的边界去看见。"
+  },
+  "tags": [
+    "Empathy",
+    "Moral Imagination",
+    "Perspective",
+    "Community"
+  ],
+  "sources": [
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/145",
+      "note": {
+        "en": "Public-domain inspiration from George Eliot’s many-sided attention to ordinary motives and consequences; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自乔治·艾略特公开领域小说对普通人动机与后果的多面体察；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with thoughtful warmth. Let each change of perspective feel like a window opening, not a verdict being reversed.",
+    "zh": "带着思考的温度朗读。每次视角转换都要像一扇窗打开，而不是判决被推翻。"
+  },
+  "passage": {
+    "title": {
+      "en": "A View Larger Than One Life",
+      "zh": "比一个人的一生更宽的视野"
+    },
+    "intro": {
+      "en": "This original passage explores the discipline of imagining lives whose pressures, loyalties, and hopes are not immediately visible to us.",
+      "zh": "这篇原创文章探索一种练习：想象那些压力、牵挂与希望并未立刻向我们显现的人生。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Every Window Frames",
+          "zh": "1. 每扇窗都有取景框"
+        },
+        "text": "From your own window, the delay looks like carelessness. The quiet colleague seems uninterested. The neighbor who refuses an invitation appears cold. A window offers a real view, but never the whole street. Its frame cuts away the hospital appointment, the second job, the sentence someone is still learning how to say. Moral imagination begins with this modest fact: what I see may be true and still be incomplete. We do not need to invent a flattering story for every disappointment. We need only resist turning one visible moment into the final shape of another person’s character.",
+        "coaching": {
+          "en": "Keep the opening judgments familiar and believable. Slow down at real view, and land gently on true and still incomplete.",
+          "zh": "开头的判断要熟悉、可信。到 real view 时放慢，在 true and still incomplete 上温和落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Ask What the Choice Protects",
+          "zh": "2. 问问这个选择在保护什么"
+        },
+        "text": "Behavior that confuses us is often protecting something. A sharp answer may guard exhausted pride. Repeated caution may protect a family that cannot afford another mistake. A teenager’s shrug may hide the dangerous hope of being taken seriously. Protection does not automatically make conduct wise or harmless. It does, however, reveal a useful question: what would this action look like from inside the life that produced it? The question moves us beyond approval and blame. It helps us address the harm without pretending that the human being who caused it has no history, fear, or reason.",
+        "coaching": {
+          "en": "Give the three possibilities distinct emotional colors. Make the central question spacious, then keep the final sentence compassionate and firm.",
+          "zh": "三种可能性要有不同的情绪色彩。核心问题读得开阔，末句既有同情也有坚定。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Test the Story Gently",
+          "zh": "3. 温和地检验故事"
+        },
+        "text": "Imagination is a bridge, not proof. After forming a kinder possibility, test it with attention. Ask a question that leaves room for an answer you did not predict. I noticed you went quiet after the plan changed. What happened for you? Listen for facts that complicate your first account. Perhaps the silence was anger; perhaps it was concentration; perhaps it was both. Generous interpretation is not mind reading. It is the willingness to hold our story lightly enough for another voice to enter. Sometimes that voice confirms a painful truth. Even then, we have met reality instead of arguing with our own invention.",
+        "coaching": {
+          "en": "Read the sample question with open concern. Balance the three perhaps phrases, and keep the ending clear-eyed.",
+          "zh": "示例问题要带着开放的关心。三个 perhaps 要读得平衡，结尾保持清醒。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return to Your Own Room",
+          "zh": "4. 回到自己的房间"
+        },
+        "text": "To borrow another person’s window is not to abandon your own. You return carrying a wider map. The late friend may still owe an apology. The manager may still need to change an unfair rule. But response can now be shaped by proportion rather than fantasy. You can name the effect, ask for repair, and leave dignity intact. This is how moral imagination becomes practical: it changes the sentence we choose, the punishment we refuse, the second chance we make specific. One life cannot contain every view. Yet for a moment, through attention and honest curiosity, we can stand elsewhere and let the world become larger than our hurt.",
+        "coaching": {
+          "en": "Keep the boundaries in the opening firm. Build calm momentum through the practical actions, then finish with a widened horizon.",
+          "zh": "开头的边界要坚定。实际行动部分平静推进，结尾读出视野被拓宽的感觉。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "frame",
+      "meaning": {
+        "en": "To shape what is seen or how a situation is understood.",
+        "zh": "框定；塑造所见内容或理解情境的方式。"
+      },
+      "use": {
+        "en": "The first question can frame the entire conversation.",
+        "zh": "第一个问题可以框定整场对话。"
+      }
+    },
+    {
+      "term": "flattering",
+      "meaning": {
+        "en": "Making someone or something appear better than reality.",
+        "zh": "美化的；让人或事物显得比真实情况更好。"
+      },
+      "use": {
+        "en": "We do not need a flattering explanation, only a fair one.",
+        "zh": "我们不需要美化的解释，只需要公平的解释。"
+      }
+    },
+    {
+      "term": "conduct",
+      "meaning": {
+        "en": "A person’s behavior, especially in a particular situation.",
+        "zh": "行为；尤指某个具体情境中的表现。"
+      },
+      "use": {
+        "en": "Understanding the pressure does not excuse harmful conduct.",
+        "zh": "理解压力并不等于为有害行为开脱。"
+      }
+    },
+    {
+      "term": "complicate",
+      "meaning": {
+        "en": "To show that something has more parts or meanings than first believed.",
+        "zh": "使复杂化；显示某事比最初认为的有更多层面。"
+      },
+      "use": {
+        "en": "Her explanation complicated my first impression.",
+        "zh": "她的解释让我的第一印象变得更有层次。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "A balanced judgment about the size or importance of things.",
+        "zh": "分寸；对事物大小或重要性的平衡判断。"
+      },
+      "use": {
+        "en": "A night’s rest helped me recover a sense of proportion.",
+        "zh": "睡了一晚帮助我重新找回了分寸感。"
+      }
+    },
+    {
+      "term": "leave dignity intact",
+      "meaning": {
+        "en": "To correct a problem without destroying someone’s self-respect.",
+        "zh": "保全尊严；在纠正问题时不摧毁一个人的自尊。"
+      },
+      "use": {
+        "en": "Clear feedback can leave dignity intact.",
+        "zh": "清晰的反馈可以保全人的尊严。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link naturally through what I see may be true and still be incomplete.",
+      "zh": "顺畅连接 what I see may be true and still be incomplete。"
+    },
+    {
+      "en": "Use balanced stress in perhaps it was anger, perhaps it was concentration, perhaps it was both.",
+      "zh": "在 perhaps it was anger、perhaps it was concentration、perhaps it was both 中使用平衡重音。"
+    },
+    {
+      "en": "Keep the final consonants clear in effect, intact, and hurt.",
+      "zh": "清楚读出 effect、intact 和 hurt 的词尾辅音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping two reasonable people see beyond the limits of their own windows.",
+      "zh": "跟读时，想象你正在帮助两个讲道理的人，看见各自窗口之外的世界。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make each first impression sound plausible, not foolish.",
+        "zh": "第一遍：让每个第一印象听起来合理，而不是愚蠢。"
+      },
+      {
+        "en": "Pass two: open the central questions with genuine curiosity.",
+        "zh": "第二遍：带着真正的好奇打开核心问题。"
+      },
+      {
+        "en": "Pass three: keep compassion and accountability in equal balance.",
+        "zh": "第三遍：让同情与责任保持同等分量。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Whose behavior might look different through a wider frame?",
+      "zh": "如果取景框更宽一些，谁的行为可能会显得不同？"
+    },
+    {
+      "en": "What question could test your current story without abandoning your own experience?",
+      "zh": "什么问题既能检验你当前的故事，又不必否定你自己的体验？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/borrow-another-persons-window/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/borrow-another-persons-window/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/borrow-another-persons-window/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/borrow-another-persons-window/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/borrow-another-persons-window/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/borrow-another-persons-window/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/borrow-another-persons-window/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/borrow-another-persons-window/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/borrow-another-persons-window/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/borrow-another-persons-window/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/borrow-another-persons-window/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/borrow-another-persons-window/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/borrow-another-persons-window/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/borrow-another-persons-window/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/borrow-another-persons-window/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/borrow-another-persons-window/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/borrow-another-persons-window/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/borrow-another-persons-window/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/borrow-another-persons-window/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/borrow-another-persons-window/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/borrow-another-persons-window/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/borrow-another-persons-window/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/borrow-another-persons-window/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/borrow-another-persons-window/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/borrow-another-persons-window/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/borrow-another-persons-window/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/borrow-another-persons-window/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/borrow-another-persons-window/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/borrow-another-persons-window/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/borrow-another-persons-window/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/borrow-another-persons-window/clips/sources_0.mp3"
+    }
+  }
+}

@@ -70,6 +70,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Before You Name the Stranger](https://wordpower-seven.vercel.app/read-aloud/before-you-name-the-stranger): An original reflection on moral imagination, incomplete stories, and the discipline of humane attention.
 - [Begin Before You Feel Ready.](https://wordpower-seven.vercel.app/read-aloud/begin-before-ready): A William James-inspired passage on habit, attention, and the quiet courage of first actions.
 - [Bend Before You Break](https://wordpower-seven.vercel.app/read-aloud/bend-before-you-break): An original reflection on resilient strength, adaptation, and staying rooted while circumstances change.
+- [Borrow Another Person’s Window](https://wordpower-seven.vercel.app/read-aloud/borrow-another-persons-window): An original reflection on moral imagination, generous interpretation, and seeing beyond the limits of one life.
 - [Borrow Another Window](https://wordpower-seven.vercel.app/read-aloud/borrow-another-window): An original reflection on moral imagination, incomplete stories, and the effort required to judge fairly.
 - [Borrow Courage from Evidence](https://wordpower-seven.vercel.app/read-aloud/borrow-courage-from-evidence): An original reflection on self-trust, tested judgment, and acting before certainty arrives.
 - [Borrow No One Else’s Voice](https://wordpower-seven.vercel.app/read-aloud/borrow-no-one-elses-voice): An original reflection on self-trust, honest speech, and the slow making of a voice that is truly yours.
@@ -97,6 +98,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Draw the Light, Not the Object](https://wordpower-seven.vercel.app/read-aloud/draw-the-light-not-the-object): An original reflection on art, attention, and learning to see before we name.
 - [Draw the Line with a Steady Hand](https://wordpower-seven.vercel.app/read-aloud/draw-the-line-with-a-steady-hand): An original reflection on boundaries, calm communication, and the dignity of a clear no.
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
+- [Draw What the Eye Almost Misses](https://wordpower-seven.vercel.app/read-aloud/draw-what-the-eye-almost-misses): An original reflection on observation, art, and the patient intelligence of looking twice.
 - [Facts Before Blame](https://wordpower-seven.vercel.app/read-aloud/facts-before-blame): An original reflection on calm leadership, accountability, and making a crisis usable.
 - [Follow the Small Question](https://wordpower-seven.vercel.app/read-aloud/follow-the-small-question): An original reflection on scientific wonder, patient observation, and the courage to take ordinary mysteries seriously.
 - [Follow the Smallest Change](https://wordpower-seven.vercel.app/read-aloud/follow-the-smallest-change): An original reflection on scientific attention, patient wonder, and the art of asking the next exact question.
@@ -130,6 +132,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Keep One Chair Empty](https://wordpower-seven.vercel.app/read-aloud/keep-one-chair-empty): An original reflection on composure, disagreement, and leaving room for a better interpretation.
 - [Keep One Promise to Yourself](https://wordpower-seven.vercel.app/read-aloud/keep-one-promise-to-yourself): An original reflection on self-trust, modest habits, and becoming someone whose own word has weight.
 - [Keep One Question in Your Pocket](https://wordpower-seven.vercel.app/read-aloud/keep-one-question-in-your-pocket): An original reflection on useful uncertainty, patient learning, and questions that mature beside our work.
+- [Keep One Sentence Free](https://wordpower-seven.vercel.app/read-aloud/keep-one-sentence-free): An original reflection on moral courage, truthful speech, and the small refusals that preserve a voice.
 - [Keep the Counterexample](https://wordpower-seven.vercel.app/read-aloud/keep-the-counterexample): An original reflection on intellectual honesty, useful doubt, and the fact that refuses to fit.
 - [Keep the Door in the Conversation](https://wordpower-seven.vercel.app/read-aloud/keep-the-door-in-the-conversation): An original reflection on disagreement, dignity, and the language that keeps understanding possible.
 - [Keep the Failed Sketch](https://wordpower-seven.vercel.app/read-aloud/keep-the-failed-sketch): An original reflection on experiments, useful mistakes, and learning to think with your hands.

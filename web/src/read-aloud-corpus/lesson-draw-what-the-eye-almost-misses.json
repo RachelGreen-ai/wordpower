@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "draw-what-the-eye-almost-misses",
+  "title": {
+    "en": "Draw What the Eye Almost Misses",
+    "zh": "画下目光差点错过的事物"
+  },
+  "subtitle": {
+    "en": "An original reflection on observation, art, and the patient intelligence of looking twice.",
+    "zh": "一篇原创美文：关于观察、艺术，以及再次凝视所需要的耐心智慧。"
+  },
+  "tags": [
+    "Art",
+    "Science",
+    "Attention",
+    "Curiosity"
+  ],
+  "sources": [
+    {
+      "title": "The Notebooks of Leonardo Da Vinci — Complete",
+      "author": "Leonardo da Vinci",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/5000",
+      "note": {
+        "en": "Public-domain inspiration from Leonardo’s union of close observation, drawing, and inquiry; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自达·芬奇公开领域笔记中观察、绘画与探究的结合；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert calm. Make each physical detail precise, then allow the questions to open naturally.",
+    "zh": "带着清醒的平静朗读。把每个物理细节读得准确，再让问题自然展开。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Second Look",
+      "zh": "第二次凝视"
+    },
+    "intro": {
+      "en": "This original passage explores how careful looking can turn ordinary scenes into questions, discoveries, and honest work.",
+      "zh": "这篇原创文章探索细致观察如何把日常景象变成问题、发现与诚实的创作。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The First Look Names",
+          "zh": "1. 第一眼负责命名"
+        },
+        "text": "The first look is efficient. It says: tree, cup, tired face, rain. It gives the world a label and moves on. This speed keeps us from colliding with doors, but it is a poor artist and an impatient scientist. Look again at the tree. One side is silver where the wind has turned the leaves; the other is nearly black with rain. The cup is not round from where you sit. The tired face contains one bright, attentive eye. A second look loosens the name and returns the object to mystery. It does not make the ordinary strange. It reveals that the ordinary was never simple.",
+        "coaching": {
+          "en": "Keep the opening labels brisk. Slow down at Look again, and let the final sentence carry quiet wonder.",
+          "zh": "开头的标签要读得轻快。到 Look again 时放慢，末句读出安静的惊奇。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Let the Hand Ask",
+          "zh": "2. 让手来提问"
+        },
+        "text": "Drawing is useful even when the result is awkward. The hand cannot hide behind a general impression; it must decide where the line bends, where the shadow begins, and what overlaps what. Each uncertain mark becomes a question. Does the stem truly meet the leaf here? Is that edge sharp, or only darker? You do not need to produce a picture worth framing. Sketch the hinge of a pair of scissors, the folds in a sleeve, the route water takes around a stone. The page will show you the distance between seeing and assuming. That distance is not an embarrassment. It is room for discovery.",
+        "coaching": {
+          "en": "Give the practical questions a curious lift. Read the final contrast with warmth, not judgment.",
+          "zh": "几个实际问题要带着好奇的上扬。最后的对比要温和，不要评判。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Compare Without Hurrying",
+          "zh": "3. 不慌不忙地比较"
+        },
+        "text": "Observation grows stronger through comparison. Watch two shadows at different hours. Listen to the same stairwell when it is empty and when people are arriving. Notice how one apology makes space while another tries to close the subject. Comparison protects us from the drama of a single example. It teaches proportion: this change is real but small; this pattern appears often but not always. Such language is valuable beyond studios and laboratories. In a meeting, a friendship, or a difficult decision, careful comparison keeps confidence from hardening into certainty. It gives evidence time to revise the story we wanted to tell.",
+        "coaching": {
+          "en": "Keep the examples distinct and measured. Stress real but small and often but not always as balanced pairs.",
+          "zh": "各个例子要清楚、节制。把 real but small 与 often but not always 读成平衡的对照。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return with Better Eyes",
+          "zh": "4. 带着更好的眼睛归来"
+        },
+        "text": "The reward of looking closely is not perfect accuracy. Every observer has a blind side; every drawing leaves something out. The reward is a more honest relationship with the visible world. You become slower to declare that nothing is happening. A cloud is building its architecture. A colleague is gathering courage before speaking. Your own familiar street is changing color one window at a time. Attention does not require a grand expedition. It asks you to return, carrying fewer conclusions and better eyes. Draw what you nearly missed. Describe it without decoration. Then look once more, because reality is generous to the person willing to revise a line.",
+        "coaching": {
+          "en": "Let the images accumulate gently. Pause after Draw what you nearly missed, and finish with open curiosity.",
+          "zh": "让意象轻轻累积。Draw what you nearly missed 之后停顿，结尾读出开放的好奇。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "efficient",
+      "meaning": {
+        "en": "Working quickly without wasting time or effort.",
+        "zh": "高效的；不浪费时间或精力的。"
+      },
+      "use": {
+        "en": "The checklist makes our morning routine more efficient.",
+        "zh": "这份清单让我们的晨间流程更高效。"
+      }
+    },
+    {
+      "term": "loosen",
+      "meaning": {
+        "en": "To make something less fixed, tight, or certain.",
+        "zh": "松开；使某事不再那么固定或确定。"
+      },
+      "use": {
+        "en": "One good question can loosen an old assumption.",
+        "zh": "一个好问题可以松动旧有假设。"
+      }
+    },
+    {
+      "term": "overlap",
+      "meaning": {
+        "en": "To partly cover or share an area with something else.",
+        "zh": "重叠；与另一事物部分覆盖或共有。"
+      },
+      "use": {
+        "en": "Our responsibilities overlap during the afternoon shift.",
+        "zh": "下午班期间，我们的职责有一部分重叠。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "A balanced sense of the size or importance of things.",
+        "zh": "分寸；对事物大小或重要性的平衡判断。"
+      },
+      "use": {
+        "en": "A walk helped me recover a sense of proportion.",
+        "zh": "一次散步帮助我重新找回了分寸感。"
+      }
+    },
+    {
+      "term": "revise",
+      "meaning": {
+        "en": "To reconsider and improve an idea, plan, or piece of work.",
+        "zh": "修订；重新考虑并改进想法、计划或作品。"
+      },
+      "use": {
+        "en": "New evidence made us revise our explanation.",
+        "zh": "新证据让我们修正了原先的解释。"
+      }
+    },
+    {
+      "term": "blind side",
+      "meaning": {
+        "en": "An area that a person cannot easily notice or understand.",
+        "zh": "盲区；一个人不容易察觉或理解的方面。"
+      },
+      "use": {
+        "en": "Trusted colleagues can help us see our blind side.",
+        "zh": "值得信赖的同事能帮助我们看见自己的盲区。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly through silver where the wind has turned the leaves.",
+      "zh": "顺畅连接 silver where the wind has turned the leaves。"
+    },
+    {
+      "en": "Use balanced stress in real but small and often but not always.",
+      "zh": "在 real but small 和 often but not always 中使用平衡重音。"
+    },
+    {
+      "en": "Keep the final consonants clear in sketch, sharp, and dark.",
+      "zh": "清楚读出 sketch、sharp 和 dark 的词尾辅音。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a curious friend through a gallery of ordinary things.",
+      "zh": "跟读时，想象你正带一位好奇的朋友参观日常事物的画廊。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: give every observed detail a clean outline.",
+        "zh": "第一遍：为每个观察到的细节勾出清晰轮廓。"
+      },
+      {
+        "en": "Pass two: lift the genuine questions without sounding theatrical.",
+        "zh": "第二遍：自然托起真正的问题，不要戏剧化。"
+      },
+      {
+        "en": "Pass three: let the final section become spacious and quietly amazed.",
+        "zh": "第三遍：让末段变得开阔，带着安静的惊叹。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What familiar object would reward a careful second look today?",
+      "zh": "今天，哪件熟悉的事物值得你认真再看一眼？"
+    },
+    {
+      "en": "Where might comparison help you revise a confident conclusion?",
+      "zh": "在哪件事上，比较能帮助你修正一个过于自信的结论？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/draw-what-the-eye-almost-misses/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/draw-what-the-eye-almost-misses/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "keep-one-sentence-free",
+  "title": {
+    "en": "Keep One Sentence Free",
+    "zh": "让一句话保持自由"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral courage, truthful speech, and the small refusals that preserve a voice.",
+    "zh": "一篇原创美文：关于道德勇气、诚实表达，以及守住声音的微小拒绝。"
+  },
+  "tags": [
+    "Courage",
+    "Leadership",
+    "Integrity",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "author": "Frederick Douglass",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/23",
+      "note": {
+        "en": "Public-domain inspiration from Douglass’s witness to literacy, dignity, and self-authored freedom; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自道格拉斯公开领域自传中对识字、尊严与自我书写自由的见证；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with restrained courage. Keep the voice clear and human; strength should grow from accuracy, not volume.",
+    "zh": "带着克制的勇气朗读。声音要清楚而有人情味；力量应来自准确，而非音量。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Grammar of Refusal",
+      "zh": "拒绝的语法"
+    },
+    "intro": {
+      "en": "This original passage explores how truthful speech can begin with one precise sentence when pressure asks us to surrender our judgment.",
+      "zh": "这篇原创文章探索：当压力要求我们交出判断时，诚实表达如何从一句准确的话开始。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Pressure Edits the Room",
+          "zh": "1. 压力会改写房间"
+        },
+        "text": "A room under pressure develops its own grammar. Bad news becomes a temporary challenge. A broken promise becomes a misunderstanding. Everyone learns which facts require a softer voice and which questions make the table suddenly interesting. No order may be spoken. The editing happens through glances, promotions, jokes, and the quick reward of agreement. Soon a person can repeat the approved sentence while privately knowing it is incomplete. This division is exhausting. Moral courage often begins before any heroic act: it begins when we notice the edit and refuse to perform it inside our own mind.",
+        "coaching": {
+          "en": "Keep the euphemisms smooth but slightly hollow. Slow down at This division is exhausting, then finish with inward resolve.",
+          "zh": "委婉说法要流畅，却略显空洞。到 This division is exhausting 时放慢，结尾读出内在决心。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make the Sentence Exact",
+          "zh": "2. 把句子说准确"
+        },
+        "text": "Truth does not become braver by becoming careless. Before speaking, remove the decoration that anger enjoys. Name what you observed, what you do not know, and why the difference matters. Say, The deadline changed after the team agreed to it. Say, I heard the concern, but I did not hear consent. An exact sentence gives others something they can examine. It also protects you from the temptation to turn one wrong action into a complete portrait of a person. Precision is not timidity. It is a form of respect strong enough to remain standing when the conversation becomes difficult.",
+        "coaching": {
+          "en": "Deliver the two sample sentences plainly. Stress observed, do not know, and matters as a disciplined sequence.",
+          "zh": "两句示例要平实地说。把 observed、do not know 和 matters 读成有纪律的顺序。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Refuse Without Theater",
+          "zh": "3. 不表演地拒绝"
+        },
+        "text": "Some refusals need a raised voice, but many become stronger when they are not performed for applause. I cannot sign this yet. I will not describe her absence as agreement. Please record that I asked for the safety check. The sentences are small enough to carry into an ordinary workplace, family, or committee. They do not guarantee victory. A truthful speaker may lose comfort, status, or the flattering image of being easy to work with. Courage is not a bargain in which honesty purchases a clean reward. It is the decision that certain inner losses would cost more than the consequence of speaking.",
+        "coaching": {
+          "en": "Give each refusal a low, steady center. Avoid drama; let the cost become visible through restraint.",
+          "zh": "每句拒绝都要低沉、稳定。避免戏剧化，让代价在克制中显现。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave a Door for Return",
+          "zh": "4. 为回归留一扇门"
+        },
+        "text": "A free sentence should not imprison the speaker in permanent certainty. New evidence may arrive. Another person may reveal the part of the story you could not see. Leave a door for correction: This is what I understand now. I am willing to revise it, but not to pretend. Such language joins firmness to humility. It keeps conscience from becoming vanity. Over time, one accurate sentence can change the weather of a room. It gives the next person permission to compare notes, ask the missing question, or withdraw a false yes. Keep one sentence free—free from exaggeration, free from fear, and free to become more truthful tomorrow.",
+        "coaching": {
+          "en": "Brighten the possibility of correction. Build gentle momentum through the final three freedoms, ending with hope rather than triumph.",
+          "zh": "点亮修正的可能。最后三个 free 要温和推进，以希望而非胜利感收尾。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "euphemism",
+      "meaning": {
+        "en": "A mild expression used in place of a direct or uncomfortable one.",
+        "zh": "委婉语；用温和说法替代直接或令人不适的表达。"
+      },
+      "use": {
+        "en": "The euphemism hid the seriousness of the delay.",
+        "zh": "这个委婉说法掩盖了延误的严重性。"
+      }
+    },
+    {
+      "term": "incomplete",
+      "meaning": {
+        "en": "Missing information or parts needed to be whole.",
+        "zh": "不完整的；缺少构成整体所需的信息或部分。"
+      },
+      "use": {
+        "en": "The report was accurate but incomplete.",
+        "zh": "这份报告准确，却不完整。"
+      }
+    },
+    {
+      "term": "precision",
+      "meaning": {
+        "en": "The quality of being exact, clear, and careful.",
+        "zh": "精确；准确、清楚而严谨的品质。"
+      },
+      "use": {
+        "en": "She described the problem with calm precision.",
+        "zh": "她以冷静而精确的语言描述了问题。"
+      }
+    },
+    {
+      "term": "timidity",
+      "meaning": {
+        "en": "A lack of courage or confidence.",
+        "zh": "胆怯；缺乏勇气或信心。"
+      },
+      "use": {
+        "en": "His quiet tone was discipline, not timidity.",
+        "zh": "他安静的语气是克制，而不是胆怯。"
+      }
+    },
+    {
+      "term": "withdraw",
+      "meaning": {
+        "en": "To take back something that was offered or stated.",
+        "zh": "撤回；收回曾经提出或说出的话。"
+      },
+      "use": {
+        "en": "I need to withdraw my earlier approval.",
+        "zh": "我需要撤回先前的同意。"
+      }
+    },
+    {
+      "term": "conscience",
+      "meaning": {
+        "en": "The inner sense of what is right or wrong.",
+        "zh": "良知；对是非对错的内在感受。"
+      },
+      "use": {
+        "en": "She could not support the plan in good conscience.",
+        "zh": "凭着良知，她无法支持这个计划。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in fact, asked, and cost.",
+      "zh": "清楚读出 fact、asked 和 cost 的词尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress in I heard the concern, but I did not hear consent.",
+      "zh": "在 I heard the concern, but I did not hear consent 中使用对比重音。"
+    },
+    {
+      "en": "Build a three-part rhythm through free from exaggeration, free from fear, and free to become more truthful.",
+      "zh": "在 free from exaggeration、free from fear 和 free to become more truthful 中建立三段式节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking carefully in a room where accuracy requires courage.",
+      "zh": "跟读时，想象你正在一个需要勇气才能保持准确的房间里谨慎发言。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep every factual sentence plain and steady.",
+        "zh": "第一遍：每句事实陈述都要平实、稳定。"
+      },
+      {
+        "en": "Pass two: sharpen the contrasts without raising the volume.",
+        "zh": "第二遍：不提高音量，却让对比更清晰。"
+      },
+      {
+        "en": "Pass three: join firmness to humility in the final section.",
+        "zh": "第三遍：在末段把坚定与谦逊结合起来。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which sentence in your life needs more precision and less decoration?",
+      "zh": "你生活中的哪句话需要更多准确、少一些修饰？"
+    },
+    {
+      "en": "How could you leave room for correction without pretending agreement?",
+      "zh": "你怎样既为修正留出空间，又不假装同意？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-one-sentence-free/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-one-sentence-free/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-one-sentence-free/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-one-sentence-free/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-one-sentence-free/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/keep-one-sentence-free/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-one-sentence-free/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-one-sentence-free/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-one-sentence-free/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-one-sentence-free/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-one-sentence-free/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-one-sentence-free/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-one-sentence-free/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-one-sentence-free/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-one-sentence-free/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-one-sentence-free/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-one-sentence-free/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-one-sentence-free/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-one-sentence-free/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-one-sentence-free/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-one-sentence-free/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-one-sentence-free/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-one-sentence-free/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-one-sentence-free/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-one-sentence-free/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-one-sentence-free/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-one-sentence-free/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-one-sentence-free/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-one-sentence-free/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-one-sentence-free/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-one-sentence-free/clips/sources_0.mp3"
+    }
+  }
+}
