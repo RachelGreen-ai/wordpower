@@ -1,0 +1,242 @@
+{
+  "lessonId": "make-your-work-a-better-teacher",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Make Your Work a Better Teacher",
+    "zh": "让工作成为更好的老师"
+  },
+  "subtitle": {
+    "en": "An original reflection on useful work, apprenticeship, and turning ordinary tasks into durable learning.",
+    "zh": "一篇原创美文：关于有用的工作、学徒精神，以及如何把日常任务变成持久的学习。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Learning",
+    "Career",
+    "Craft",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "Up from Slavery",
+      "author": "Booker T. Washington",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2376",
+      "note": {
+        "en": "Public-domain inspiration for education joined to useful work and self-respect; this lesson is entirely original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中把教育、有用的工作与自尊相结合的思想；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with practical energy. Let the concrete actions sound capable, and let the reflective lines remain modest.",
+    "zh": "用务实的活力朗读。具体行动要显得能干，思考性的句子则保持谦逊。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Lesson Hidden in the Task",
+      "zh": "藏在任务里的课"
+    },
+    "intro": {
+      "en": "This original passage explores how work teaches best when we question, test, and improve the way we do it.",
+      "zh": "这篇原创文章探讨：当我们不断提问、检验并改进做事方式时，工作如何成为最好的老师。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Begin with the Real Thing",
+          "zh": "1. 从真实的事物开始"
+        },
+        "text": "A real task has edges that an exercise cannot imitate. The shelf must carry weight. The customer needs an answer before five. The new colleague must understand the handover without guessing. Such work corrects us with useful honesty. A vague idea meets a stubborn measurement; an elegant plan meets a missing tool. This is not an insult to intelligence. It is intelligence receiving material to work upon. Begin with the real thing, however small. Then ask what quality requires, where failure appears, and whose life becomes easier when the task is done well.",
+        "coaching": {
+          "en": "Make the three opening requirements crisp. Contrast vague idea with stubborn measurement, then broaden the final question generously.",
+          "zh": "开头三个要求要利落。突出 vague idea 与 stubborn measurement 的对比，最后的问题读得开阔而真诚。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Invite Correction Early",
+          "zh": "2. 尽早邀请纠正"
+        },
+        "text": "Many people hide unfinished work because they confuse correction with disgrace. Yet a draft seen early is cheaper to repair and richer to discuss. Show the rough join. Run the uncertain calculation. Ask the experienced person where your hands are wasting motion. Good feedback does more than point at error; it reveals a standard you have not learned to see. Receive it without collapsing and without performing gratitude. Listen, restate the problem, and try again. The goal is not to appear teachable. The goal is to let teaching alter the next version of the work.",
+        "coaching": {
+          "en": "Keep the short commands direct but not harsh. Slow down through listen, restate, and try again so the sequence feels usable.",
+          "zh": "短指令直接但不要严厉。读 listen、restate、try again 时放慢，让步骤真正可用。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Name What the Task Taught",
+          "zh": "3. 说清任务教会了什么"
+        },
+        "text": "Experience alone does not guarantee learning. A crowded week can pass through us without leaving a principle behind. At the end of a task, name one surprise, one mistake, and one method worth keeping. Perhaps the meeting improved when the document came first. Perhaps the machine failed because everyone trusted the same unchecked assumption. Perhaps a quiet teammate saw the risk before the confident voices did. Write the lesson in plain language. A named lesson becomes portable: it can travel from this project to the next, from your private memory to the shared practice of a team.",
+        "coaching": {
+          "en": "Give one surprise, one mistake, and one method a steady three-part rhythm. Keep the perhaps examples curious rather than regretful.",
+          "zh": "把 one surprise、one mistake、one method 读成稳定的三拍。几个 perhaps 例句要带着好奇，而非懊悔。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave the Bench Ready",
+          "zh": "4. 把工作台留在可用状态"
+        },
+        "text": "Mastery is often visible in what remains after the worker leaves. Are the tools returned? Can another person follow the notes? Has the process become clearer, safer, or kinder than it was yesterday? Ambition likes the dramatic beginning, but craft respects the condition of the bench at the end. Leave a clean trail for the person who follows, including your future self. Then your work produces two things: the result that was requested and a stronger way of producing results. A career grows durable when each finished task quietly improves the hands, the judgment, and the workplace that will receive the next one.",
+        "coaching": {
+          "en": "Read the questions as a calm inspection. Stress two things, then close with confidence that feels earned rather than grand.",
+          "zh": "把几个问题读成一次平静的检查。强调 two things，结尾的自信要踏实，而非宏大。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "handover",
+      "meaning": {
+        "en": "The transfer of responsibility or information to another person.",
+        "zh": "交接；把责任或信息转交给另一个人。"
+      },
+      "use": {
+        "en": "A clear handover prevented delays the next morning.",
+        "zh": "清晰的交接避免了第二天早上的延误。"
+      }
+    },
+    {
+      "term": "stubborn",
+      "meaning": {
+        "en": "Difficult to move, change, or overcome.",
+        "zh": "顽固的；难以移动、改变或克服的。"
+      },
+      "use": {
+        "en": "We finally solved the stubborn design problem.",
+        "zh": "我们终于解决了那个棘手的设计问题。"
+      }
+    },
+    {
+      "term": "disgrace",
+      "meaning": {
+        "en": "A state of shame or loss of respect.",
+        "zh": "耻辱；失去尊重的状态。"
+      },
+      "use": {
+        "en": "Needing help is not a disgrace.",
+        "zh": "需要帮助并不是耻辱。"
+      }
+    },
+    {
+      "term": "restate",
+      "meaning": {
+        "en": "To say something again in a clearer or different way.",
+        "zh": "重述；用更清晰或不同的方式再说一遍。"
+      },
+      "use": {
+        "en": "Could you restate the goal in one sentence?",
+        "zh": "你能用一句话重新说明目标吗？"
+      }
+    },
+    {
+      "term": "portable",
+      "meaning": {
+        "en": "Able to be carried or applied in another place or situation.",
+        "zh": "可携带的；可迁移到另一情境中应用的。"
+      },
+      "use": {
+        "en": "The team turned one mistake into portable knowledge.",
+        "zh": "团队把一次错误转化成了可迁移的知识。"
+      }
+    },
+    {
+      "term": "durable",
+      "meaning": {
+        "en": "Able to remain useful or strong for a long time.",
+        "zh": "持久的；能长期保持有用或坚固的。"
+      },
+      "use": {
+        "en": "Trust is a durable advantage in difficult work.",
+        "zh": "在艰难的工作中，信任是一种持久优势。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters clear in task, draft, asked, and results.",
+      "zh": "清楚读出 task、draft、asked、results 中的辅音组合。"
+    },
+    {
+      "en": "Stress the contrast in not to appear teachable, but to let teaching alter the work.",
+      "zh": "在 not to appear teachable 与 but to let teaching alter the work 之间读出对比。"
+    },
+    {
+      "en": "Use even beats for listen, restate the problem, and try again.",
+      "zh": "listen、restate the problem、try again 使用均匀节拍。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are giving practical advice to a talented colleague you respect.",
+      "zh": "跟读时，想象你正在给一位你尊重且有才华的同事提出务实建议。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the task language concrete and energetic.",
+        "zh": "第一遍：任务语言要具体、有活力。"
+      },
+      {
+        "en": "Pass two: make every contrast easy to hear.",
+        "zh": "第二遍：让每组对比都清晰可听。"
+      },
+      {
+        "en": "Pass three: let the final paragraph sound quietly accomplished.",
+        "zh": "第三遍：让最后一段呈现安静而踏实的成就感。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What did your most recent task teach that no instruction could have taught as well?",
+      "zh": "你最近的一项任务，教会了你什么是说明书很难同样教好的？"
+    },
+    {
+      "en": "What could you leave clearer for the next person, including your future self?",
+      "zh": "你能为下一个人——也包括未来的自己——把什么留得更清楚？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/make-your-work-a-better-teacher/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/make-your-work-a-better-teacher/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/make-your-work-a-better-teacher/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/make-your-work-a-better-teacher/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/make-your-work-a-better-teacher/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/make-your-work-a-better-teacher/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/make-your-work-a-better-teacher/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/make-your-work-a-better-teacher/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/make-your-work-a-better-teacher/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/make-your-work-a-better-teacher/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/make-your-work-a-better-teacher/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/make-your-work-a-better-teacher/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/make-your-work-a-better-teacher/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/make-your-work-a-better-teacher/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/make-your-work-a-better-teacher/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/make-your-work-a-better-teacher/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/make-your-work-a-better-teacher/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/make-your-work-a-better-teacher/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/make-your-work-a-better-teacher/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/make-your-work-a-better-teacher/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/make-your-work-a-better-teacher/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/make-your-work-a-better-teacher/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/make-your-work-a-better-teacher/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/make-your-work-a-better-teacher/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/make-your-work-a-better-teacher/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/make-your-work-a-better-teacher/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/make-your-work-a-better-teacher/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/make-your-work-a-better-teacher/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/make-your-work-a-better-teacher/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/make-your-work-a-better-teacher/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/make-your-work-a-better-teacher/clips/sources_0.mp3"
+    }
+  }
+}

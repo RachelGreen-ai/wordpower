@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wordpower-seven.vercel.app/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://wordpower-seven.vercel.app/method</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://wordpower-seven.vercel.app/test</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://wordpower-seven.vercel.app/professional-english</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://wordpower-seven.vercel.app/parenting</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://wordpower-seven.vercel.app/read-aloud</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -571,6 +571,12 @@
     <priority>0.75</priority>
   </url>
   <url>
+    <loc>https://wordpower-seven.vercel.app/read-aloud/choose-the-work-that-teaches-you</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
     <loc>https://wordpower-seven.vercel.app/read-aloud/close-the-gate-gently</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -637,6 +643,12 @@
     <priority>0.75</priority>
   </url>
   <url>
+    <loc>https://wordpower-seven.vercel.app/read-aloud/follow-the-question-past-the-first-answer</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
     <loc>https://wordpower-seven.vercel.app/read-aloud/follow-the-small-question</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -663,6 +675,12 @@
   <url>
     <loc>https://wordpower-seven.vercel.app/read-aloud/give-the-child-a-real-task</loc>
     <lastmod>2026-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://wordpower-seven.vercel.app/read-aloud/give-the-day-a-clean-ending</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>

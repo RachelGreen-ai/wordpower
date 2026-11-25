@@ -1,0 +1,242 @@
+{
+  "lessonId": "answer-after-the-room-gets-quiet",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "title": {
+    "en": "Answer After the Room Gets Quiet",
+    "zh": "等房间安静下来再回答"
+  },
+  "subtitle": {
+    "en": "An original reflection on composure, difficult conversations, and choosing a voice that can carry the truth.",
+    "zh": "一篇原创美文：关于沉着、艰难对话，以及选择一种能够承载真话的声音。"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "tags": [
+    "Communication",
+    "Composure",
+    "Self-trust",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "Moral Letters to Lucilius",
+      "author": "Seneca",
+      "organization": "Wikisource",
+      "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius",
+      "note": {
+        "en": "Public-domain inspiration for self-command and deliberate speech; this lesson is entirely original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域书信中关于自制与审慎表达的思想；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with contained strength. Allow silence to do some of the work, especially before the clearest sentences.",
+    "zh": "用克制的力量朗读。让沉默承担一部分表达，尤其是在最清晰的句子之前。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Voice with Enough Room",
+      "zh": "一种留有余地的声音"
+    },
+    "intro": {
+      "en": "This original passage considers how a short pause can turn reaction into a truthful and useful reply.",
+      "zh": "这篇原创文章思考：短暂的停顿如何把本能反应变成真实而有用的回应。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Notice the First Answer",
+          "zh": "1. 留意第一个答案"
+        },
+        "text": "The first answer often arrives wearing armor. It wants to correct the record, defeat the accusation, or make the other person feel the weight we just felt. Notice it without handing it the microphone. Your body may already be preparing the speech: breath high in the chest, jaw set, sentences gathering speed. None of this makes you weak or unreasonable. It means the alarm system is working. But an alarm is not a judge. Before you answer, lower your shoulders and ask one private question: What do I want this conversation to make possible after the heat has passed?",
+        "coaching": {
+          "en": "Let the opening sentence land firmly. Increase pace through the body signals, then pause before the private question.",
+          "zh": "开头一句要坚定落下。读身体反应时逐渐加速，在那个私下的问题前停顿。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Separate Heat from Light",
+          "zh": "2. 把热度与光亮分开"
+        },
+        "text": "A heated voice can contain a true point, and a calm voice can conceal contempt. Do not confuse temperature with accuracy. Listen for the claim beneath the delivery. Is there a missed promise, an unclear boundary, a cost no one acknowledged? You can recognize the substance without accepting every word around it. Try saying, I hear that the delay affected you, and I want to understand where the handoff failed. This sentence does not surrender your view. It places one fact on the table where both people can examine it. Light enters a conversation when facts become more important than victory.",
+        "coaching": {
+          "en": "Balance the opening contrast carefully. Read the sample sentence with calm sincerity, then make facts and victory the final opposition.",
+          "zh": "仔细平衡开头的对比。示范句要真诚平静，结尾突出 facts 与 victory 的对照。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Use the Smallest True Sentence",
+          "zh": "3. 使用最短的真实句子"
+        },
+        "text": "When tension rises, we are tempted to bring the whole history into the room. Always and never appear. Old evidence marches in without being summoned. Instead, use the smallest true sentence that can move the present moment. I agreed to Friday, and I did not deliver. Or: I can discuss the decision, but I cannot continue while we are insulting each other. A small sentence is not evasive when it contains the necessary truth. Its clean edges reduce the number of doors through which misunderstanding can enter. Say it once. Let the silence test whether you need to add anything.",
+        "coaching": {
+          "en": "Give always and never a warning tone. Keep both sample sentences plain, and leave a real pause after Say it once.",
+          "zh": "读 always 与 never 时带出警示意味。两个示范句保持平实，在 Say it once 之后真正停一下。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Keep Your Voice Available",
+          "zh": "4. 让你的声音保持可用"
+        },
+        "text": "Composure is not a polished mask. It is the decision to keep your voice available to your values. Sometimes that voice will apologize. Sometimes it will disagree, name a consequence, or end the meeting. Calm does not require softness at every moment; it requires proportion. Let the size of your response fit the size of what happened. Then, when firmness is necessary, it will not be blurred by all the force you spent too early. Wait until the room inside you grows quiet enough to hear the sentence worth saying. You are not delaying the truth. You are giving it a voice strong enough to arrive intact.",
+        "coaching": {
+          "en": "Build steadily through the sometimes sentences. Stress proportion, then close with a low, assured tone rather than a dramatic one.",
+          "zh": "几个 sometimes 句逐步推进。强调 proportion，结尾用低沉笃定而非戏剧化的语气。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "accusation",
+      "meaning": {
+        "en": "A claim that someone has done something wrong.",
+        "zh": "指责；声称某人做错了事。"
+      },
+      "use": {
+        "en": "She answered the accusation with specific facts.",
+        "zh": "她用具体事实回应了指责。"
+      }
+    },
+    {
+      "term": "contempt",
+      "meaning": {
+        "en": "The feeling that someone is unworthy of respect.",
+        "zh": "轻蔑；认为某人不值得尊重的情绪。"
+      },
+      "use": {
+        "en": "Disagreement does not need to become contempt.",
+        "zh": "分歧不必变成轻蔑。"
+      }
+    },
+    {
+      "term": "acknowledge",
+      "meaning": {
+        "en": "To accept or recognize that something is true or exists.",
+        "zh": "承认；认可某事真实存在。"
+      },
+      "use": {
+        "en": "He acknowledged the cost of the delay.",
+        "zh": "他承认了延误造成的代价。"
+      }
+    },
+    {
+      "term": "substance",
+      "meaning": {
+        "en": "The central meaning or important content of something.",
+        "zh": "实质；某事的核心意义或重要内容。"
+      },
+      "use": {
+        "en": "Focus on the substance of her concern.",
+        "zh": "请关注她所担忧问题的实质。"
+      }
+    },
+    {
+      "term": "evasive",
+      "meaning": {
+        "en": "Avoiding a clear or direct answer.",
+        "zh": "回避的；避免给出清晰直接的答案。"
+      },
+      "use": {
+        "en": "His reply sounded careful, not evasive.",
+        "zh": "他的回答听起来谨慎，但并不回避。"
+      }
+    },
+    {
+      "term": "proportion",
+      "meaning": {
+        "en": "A balanced relation between the size of two things.",
+        "zh": "适度；两件事在程度或大小上的均衡关系。"
+      },
+      "use": {
+        "en": "Keep the response in proportion to the mistake.",
+        "zh": "让回应的程度与错误相称。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the ending sounds clear in first, passed, facts, and intact.",
+      "zh": "清楚读出 first、passed、facts、intact 的词尾音。"
+    },
+    {
+      "en": "Use contrastive stress in an alarm is not a judge and temperature is not accuracy.",
+      "zh": "在 an alarm is not a judge 与 temperature is not accuracy 中使用对比重音。"
+    },
+    {
+      "en": "Let your pitch fall at the end of the smallest true sentences.",
+      "zh": "在最短的真实句子结尾使用降调。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if your calm must protect both honesty and dignity in a difficult room.",
+      "zh": "跟读时，想象你的沉着必须在艰难的场合中同时保护诚实与尊严。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: notice where the body language asks you to speed up.",
+        "zh": "第一遍：留意描写身体反应时需要加速的地方。"
+      },
+      {
+        "en": "Pass two: give each sample sentence clean, firm edges.",
+        "zh": "第二遍：让每个示范句都清晰而坚定。"
+      },
+      {
+        "en": "Pass three: use silence before the final truth instead of adding force.",
+        "zh": "第三遍：在最后的真话前使用沉默，而不是增加力度。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which conversation would improve if you separated its heat from its light?",
+      "zh": "哪一场对话，会因为你把其中的热度与光亮分开而得到改善？"
+    },
+    {
+      "en": "What is the smallest true sentence you need to say clearly?",
+      "zh": "你需要清楚说出的、最短的真实句子是什么？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/answer-after-the-room-gets-quiet/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/answer-after-the-room-gets-quiet/clips/sources_0.mp3"
+    }
+  }
+}

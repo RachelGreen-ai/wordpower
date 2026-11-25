@@ -89,6 +89,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Many Hands Make the Map](https://wordpower-seven.vercel.app/read-aloud/carry-the-lantern-together): An original reflection on shared courage, neighborhood knowledge, and leadership that makes room for many hands.
 - [Carry the Smaller Lantern](https://wordpower-seven.vercel.app/read-aloud/carry-the-smaller-lantern): An original reflection on leadership, useful courage, and making uncertainty easier to cross together.
 - [Choose the Truer Sentence](https://wordpower-seven.vercel.app/read-aloud/choose-the-truer-sentence): An original reflection on calm communication, honest revision, and words that leave room for another person.
+- [Choose the Work That Teaches You](https://wordpower-seven.vercel.app/read-aloud/choose-the-work-that-teaches-you): An original reflection on ambition, apprenticeship, and becoming larger than a job title.
 - [Close the Gate Gently](https://wordpower-seven.vercel.app/read-aloud/close-the-gate-gently): An original reflection on rest, humane boundaries, and ending the working day without hardening the heart.
 - [Courage Is Built in the Arena.](https://wordpower-seven.vercel.app/read-aloud/courage-in-the-arena): A speech-style read-aloud lesson for practicing conviction, action vocabulary, and a stronger public voice.
 - [The Courage to Revise](https://wordpower-seven.vercel.app/read-aloud/courage-to-revise): An original passage on learning, intellectual humility, and changing your mind without losing yourself.
@@ -100,11 +101,13 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Draw What the Light Is Doing](https://wordpower-seven.vercel.app/read-aloud/draw-what-light-is-doing): An original reflection on art, patient seeing, and the courage to notice before naming.
 - [Draw What the Eye Almost Misses](https://wordpower-seven.vercel.app/read-aloud/draw-what-the-eye-almost-misses): An original reflection on observation, art, and the patient intelligence of looking twice.
 - [Facts Before Blame](https://wordpower-seven.vercel.app/read-aloud/facts-before-blame): An original reflection on calm leadership, accountability, and making a crisis usable.
+- [Follow the Question Past the First Answer](https://wordpower-seven.vercel.app/read-aloud/follow-the-question-past-the-first-answer): An original reflection on disciplined curiosity, useful doubt, and the courage to investigate further.
 - [Follow the Small Question](https://wordpower-seven.vercel.app/read-aloud/follow-the-small-question): An original reflection on scientific wonder, patient observation, and the courage to take ordinary mysteries seriously.
 - [Follow the Smallest Change](https://wordpower-seven.vercel.app/read-aloud/follow-the-smallest-change): An original reflection on scientific attention, patient wonder, and the art of asking the next exact question.
 - [Freedom Needs an Inner Home.](https://wordpower-seven.vercel.app/read-aloud/freedom-needs-inner-home): A Fromm-inspired reflective passage on why freedom can feel frightening unless the self has somewhere to stand.
 - [Give Conviction a Listening Ear](https://wordpower-seven.vercel.app/read-aloud/give-conviction-a-listening-ear): An original reflection on principled speech, intellectual courage, and disagreement without domination.
 - [Give the Child a Real Task](https://wordpower-seven.vercel.app/read-aloud/give-the-child-a-real-task): An original reflection on trust, capable hands, and the dignity of contributing to family life.
+- [Give the Day a Clean Ending](https://wordpower-seven.vercel.app/read-aloud/give-the-day-a-clean-ending): An original reflection on evening attention, honest closure, and the quiet art of beginning again.
 - [Give the Idea a Smaller Room](https://wordpower-seven.vercel.app/read-aloud/give-the-idea-a-smaller-room): An original reflection on how creative limits can turn hesitation into invention.
 - [Give the Room a Center](https://wordpower-seven.vercel.app/read-aloud/give-the-room-a-center): An original reflection on leadership, steady speech, and restoring purpose when a group loses its way.
 - [Give the Work a Clean Edge](https://wordpower-seven.vercel.app/read-aloud/give-the-work-a-clean-edge): An original reflection on craftsmanship, useful limits, and the dignity of finishing ordinary work well.
