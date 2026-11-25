@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "follow-the-question-past-the-first-answer",
+  "title": {
+    "en": "Follow the Question Past the First Answer",
+    "zh": "跟着问题，走过第一个答案"
+  },
+  "subtitle": {
+    "en": "An original reflection on disciplined curiosity, useful doubt, and the courage to investigate further.",
+    "zh": "一篇原创美文：关于有纪律的好奇、有价值的怀疑，以及继续探究的勇气。"
+  },
+  "tags": [
+    "Learning",
+    "Science",
+    "Curiosity",
+    "Career"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration from Faraday’s patient experimental questioning; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自法拉第耐心的实验式追问；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert curiosity. Let each question open the voice rather than tighten it.",
+    "zh": "带着敏锐的好奇朗读。让每个问题打开声音，而不是让声音变紧。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Second Question",
+      "zh": "第二个问题"
+    },
+    "intro": {
+      "en": "This original passage shows how better questions turn quick explanations into durable understanding.",
+      "zh": "这篇原创文章呈现：更好的问题如何把仓促的解释变成经得起时间的理解。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. A Useful Answer Can Arrive Too Soon",
+          "zh": "1. 有用的答案也可能来得太早"
+        },
+        "text": "The first answer often brings relief. Sales fell because the market changed. The plant bent because it needed water. The new colleague is quiet because she lacks confidence. Each sentence may contain a piece of truth, and that piece can feel satisfying enough to stop the search. But explanation is not the same as understanding. A label can close a door before we have entered the room. The disciplined questioner accepts the first answer as a place to stand, not a place to build a house. Then comes the useful disturbance: what else could produce the same appearance?",
+        "coaching": {
+          "en": "Let the examples sound plausible, not foolish. Open the voice on the final question.",
+          "zh": "例子要读得合理，不要显得愚蠢。最后的问题要打开声线。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Change One Thing",
+          "zh": "2. 一次只改变一件事"
+        },
+        "text": "Curiosity becomes powerful when it learns restraint. Change one condition and watch what follows. Ask the customer about the moment of hesitation, not the entire history of the purchase. Move the plant nearer the window before changing its soil, pot, and schedule. Invite the quiet colleague to contribute in writing and notice whether her thinking becomes more visible. A good experiment is modest enough to teach us something. It does not demand that reality perform a grand revelation. It creates a clean comparison, then waits without secretly editing the result.",
+        "coaching": {
+          "en": "Keep the three experiments measured and precise. Give clean comparison a little emphasis.",
+          "zh": "三个实验要读得克制而准确。稍重读 clean comparison。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Protect the Inconvenient Detail",
+          "zh": "3. 保护那个不方便的细节"
+        },
+        "text": "The detail that does not fit is easy to treat as noise. One customer stayed. The shaded plant recovered first. The colleague spoke freely in a different meeting. Such details inconvenience a tidy story, which is exactly why they deserve protection. Record them before memory smooths their edges. Ask whether the exception reveals another cause, a hidden condition, or a weakness in the question itself. Intellectual honesty is not a gloomy suspicion of everything. It is a form of hospitality toward evidence, especially evidence that arrives without flattering our intelligence.",
+        "coaching": {
+          "en": "Sharpen each inconvenient detail. Warm the phrase hospitality toward evidence.",
+          "zh": "把每个不方便的细节读清楚。hospitality toward evidence 要有温度。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Let Understanding Remain Alive",
+          "zh": "4. 让理解保持活性"
+        },
+        "text": "Eventually we must decide, publish, repair, or act. Endless inquiry can become an elegant hiding place. The goal is not permanent uncertainty; it is a conclusion with working hinges. Say what the evidence supports, name what it cannot yet settle, and leave a clear route back when new facts arrive. This kind of confidence is sturdy because it can move. It does not collapse when corrected. It becomes more exact. Follow the question far enough to earn an answer, then hold that answer with capable hands: firmly enough to use it, lightly enough to improve it.",
+        "coaching": {
+          "en": "Move with purpose through the four action verbs. Balance firmly enough with lightly enough.",
+          "zh": "四个动作动词要读得有方向。平衡 firmly enough 与 lightly enough。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "disciplined",
+      "meaning": {
+        "en": "Controlled by careful practice and clear standards.",
+        "zh": "有纪律的；受认真练习和明确标准约束的。"
+      },
+      "use": {
+        "en": "Disciplined curiosity tests its assumptions.",
+        "zh": "有纪律的好奇心会检验自己的假设。"
+      }
+    },
+    {
+      "term": "place to stand",
+      "meaning": {
+        "en": "A temporary position from which to observe or proceed.",
+        "zh": "立足点；用来观察或继续前进的暂时位置。"
+      },
+      "use": {
+        "en": "The estimate gave us a place to stand.",
+        "zh": "初步估算给了我们一个立足点。"
+      }
+    },
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "The ability to limit an action or impulse.",
+        "zh": "克制；限制行动或冲动的能力。"
+      },
+      "use": {
+        "en": "Good analysis requires imagination and restraint.",
+        "zh": "好的分析既需要想象力，也需要克制。"
+      }
+    },
+    {
+      "term": "tidy story",
+      "meaning": {
+        "en": "An attractively simple explanation that may omit complexity.",
+        "zh": "整齐的故事；看似简洁却可能遗漏复杂性的解释。"
+      },
+      "use": {
+        "en": "The exception challenged our tidy story.",
+        "zh": "这个例外挑战了我们过于整齐的解释。"
+      }
+    },
+    {
+      "term": "settle",
+      "meaning": {
+        "en": "To decide or resolve a question conclusively.",
+        "zh": "确定；最终解决一个问题。"
+      },
+      "use": {
+        "en": "The data cannot yet settle the debate.",
+        "zh": "这些数据还无法为争论定论。"
+      }
+    },
+    {
+      "term": "working hinges",
+      "meaning": {
+        "en": "A metaphor for conclusions that can reopen and adapt.",
+        "zh": "可活动的铰链；比喻能够重新打开并调整的结论。"
+      },
+      "use": {
+        "en": "A useful plan needs working hinges.",
+        "zh": "有用的计划需要保留调整的余地。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly through the longest phrase without rushing.",
+      "zh": "顺畅连读最长的短语，不要抢拍。"
+    },
+    {
+      "en": "Keep final consonants clear while preserving a natural rhythm.",
+      "zh": "保持自然节奏，同时读清词尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress to carry the central idea.",
+      "zh": "用对比重音承载核心思想。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are inviting a team to think carefully without making anyone defensive.",
+      "zh": "跟读时，想象你正邀请团队认真思考，同时不让任何人产生防御感。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make the examples concrete and conversational.",
+        "zh": "第一遍：把例子读得具体而自然。"
+      },
+      {
+        "en": "Pass two: give the questions genuine openness.",
+        "zh": "第二遍：让问题真正保持开放。"
+      },
+      {
+        "en": "Pass three: balance confidence with intellectual flexibility.",
+        "zh": "第三遍：平衡自信与思维上的灵活。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where might your first explanation be only a place to stand?",
+      "zh": "在哪件事上，你的第一个解释可能只是一个立足点？"
+    },
+    {
+      "en": "What inconvenient detail deserves protection in your current work?",
+      "zh": "你目前的工作中，哪个“不方便的细节”值得被保护？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/follow-the-question-past-the-first-answer/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/follow-the-question-past-the-first-answer/clips/sources_0.mp3"
+    }
+  }
+}

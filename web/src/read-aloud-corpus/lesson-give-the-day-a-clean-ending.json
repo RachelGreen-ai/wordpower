@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "give-the-day-a-clean-ending",
+  "title": {
+    "en": "Give the Day a Clean Ending",
+    "zh": "给一天一个清爽的结尾"
+  },
+  "subtitle": {
+    "en": "An original reflection on evening attention, honest closure, and the quiet art of beginning again.",
+    "zh": "一篇原创美文：关于夜晚的专注、坦诚的收尾，以及重新开始的安静艺术。"
+  },
+  "tags": [
+    "Calm",
+    "Attention",
+    "Renewal",
+    "Self-Trust"
+  ],
+  "sources": [
+    {
+      "title": "The Journal of Henry David Thoreau, Volume 1",
+      "author": "Henry David Thoreau",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/57393",
+      "note": {
+        "en": "Public-domain inspiration from Thoreau’s practice of noticing and recording ordinary days; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自梭罗观察并记录日常生活的公开领域作品；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with the unhurried clarity of someone closing a window, setting down a cup, and making room for rest.",
+    "zh": "用不疾不徐的清晰感朗读，仿佛你正关上一扇窗、放下一只杯子，为休息腾出空间。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Small Ceremony of Enough",
+      "zh": "“已经足够”的小小仪式"
+    },
+    "intro": {
+      "en": "This original passage explores how a deliberate evening can release unfinished work without denying what still matters.",
+      "zh": "这篇原创文章探讨：一个有意识的夜晚，如何在不否认重要之事的前提下，放下尚未完成的工作。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Day Keeps Echoing",
+          "zh": "1. 白日仍有回声"
+        },
+        "text": "Even after the laptop closes, the day may continue speaking in fragments. A difficult sentence returns while we wash a plate. An unanswered message glows at the edge of thought. We replay a meeting, improving our reply several hours too late. The body has entered evening, but attention remains under office light. This lingering is understandable; the mind dislikes an open loop. Yet not every loop must be closed tonight. Some need sleep, another conversation, or simply the wider intelligence of morning. A clean ending begins when we stop confusing continued tension with continued care.",
+        "coaching": {
+          "en": "Let the first three images arrive gently. Give the final contrast a firm, relieving cadence.",
+          "zh": "前三个画面要轻柔呈现。结尾的对比要读得坚定而释然。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Name What Is Still Open",
+          "zh": "2. 说出尚未完成之事"
+        },
+        "text": "Before rest, give unfinished things a brief and honest inventory. The proposal needs one clearer example. The apology has not yet been made. The appointment must be moved. Write each item in language small enough to hold. Then add the next visible action, not an entire rescue plan: find the figures, ask for ten minutes, call after breakfast. Precision reassures the mind because it turns a cloud into a door. You do not have to walk through every door tonight. You only need to know which handle you will reach for when the day begins again.",
+        "coaching": {
+          "en": "Keep the inventory practical and light. Slow slightly for cloud into a door.",
+          "zh": "清单部分读得务实而轻巧。cloud into a door 处稍放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Notice What Was Complete",
+          "zh": "3. 看见已经完成的部分"
+        },
+        "text": "Closure is not only a list of what remains. Ask what the day has already given and received. Perhaps you kept your patience during an awkward call. Perhaps you changed your mind when better evidence arrived. Perhaps the most important work was invisible: listening without arranging your answer, leaving a margin around someone else’s grief, choosing not to send the clever but cutting line. These acts rarely announce themselves as achievements. If we do not notice them, urgency becomes the only measure of a life. An evening record can restore proportion. It says: this mattered too; this is also part of the work.",
+        "coaching": {
+          "en": "Give each perhaps a distinct warmth. Read this mattered too as a quiet correction.",
+          "zh": "每个 perhaps 都要有不同的温度。this mattered too 要像安静的校正。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return the Hours to Darkness",
+          "zh": "4. 把时间还给夜色"
+        },
+        "text": "At last, let the day become past tense. Dim a lamp. Put one object back where it belongs. Stand for a moment at the window and allow the street, the weather, or a single patient star to exist without requiring anything from you. Rest is not a reward granted only to the flawless. It is part of the rhythm by which judgment clears and courage is repaired. Tomorrow may ask for effort, revision, and difficult honesty. Tonight asks for a boundary. Say, with neither triumph nor defeat: enough for this day. Then carry no courtroom into sleep. Leave the evidence on the table. Morning will know how to read it.",
+        "coaching": {
+          "en": "Widen the pace around the window. Make enough for this day sound plain and settled.",
+          "zh": "读到窗边时放宽节奏。enough for this day 要平实笃定。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "linger",
+      "meaning": {
+        "en": "To remain longer than expected or necessary.",
+        "zh": "逗留；比预期或需要停留更久。"
+      },
+      "use": {
+        "en": "The worry lingered after the meeting ended.",
+        "zh": "会议结束后，那份担忧仍挥之不去。"
+      }
+    },
+    {
+      "term": "open loop",
+      "meaning": {
+        "en": "An unfinished matter that continues to occupy attention.",
+        "zh": "未闭合事项；持续占据注意力的未完成之事。"
+      },
+      "use": {
+        "en": "I wrote down the open loop so I could rest.",
+        "zh": "我把未完成的事写下来，好让自己休息。"
+      }
+    },
+    {
+      "term": "inventory",
+      "meaning": {
+        "en": "A careful list or review of what is present.",
+        "zh": "清单；对现有事物的仔细盘点。"
+      },
+      "use": {
+        "en": "We made a brief inventory of the remaining tasks.",
+        "zh": "我们简要盘点了剩余任务。"
+      }
+    },
+    {
+      "term": "restore proportion",
+      "meaning": {
+        "en": "To return things to a fair and balanced perspective.",
+        "zh": "恢复恰当比例；重新获得平衡的视角。"
+      },
+      "use": {
+        "en": "A quiet walk helped restore proportion.",
+        "zh": "一次安静的散步帮助我重新找回平衡。"
+      }
+    },
+    {
+      "term": "past tense",
+      "meaning": {
+        "en": "A form for what has ended; figuratively, something released into the past.",
+        "zh": "过去时；也比喻把某事放回已经过去的位置。"
+      },
+      "use": {
+        "en": "I needed to let the argument become past tense.",
+        "zh": "我需要让那场争论成为过去。"
+      }
+    },
+    {
+      "term": "granted",
+      "meaning": {
+        "en": "Given or allowed, often by someone in authority.",
+        "zh": "被给予；被准许。"
+      },
+      "use": {
+        "en": "Rest should not be granted only after perfect work.",
+        "zh": "休息不应只在工作完美后才被准许。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly through the longest phrase without rushing.",
+      "zh": "顺畅连读最长的短语，不要抢拍。"
+    },
+    {
+      "en": "Keep final consonants clear while preserving a natural rhythm.",
+      "zh": "保持自然节奏，同时读清词尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress to carry the central idea.",
+      "zh": "用对比重音承载核心思想。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are helping a thoughtful friend set down the day without dismissing it.",
+      "zh": "跟读时，想象你正帮助一位善于思考的朋友放下一天，同时并不轻视这一天。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: let the domestic images feel concrete and unhurried.",
+        "zh": "第一遍：让日常画面具体而从容。"
+      },
+      {
+        "en": "Pass two: clarify every contrast between urgency and care.",
+        "zh": "第二遍：读清紧迫与用心之间的每组对比。"
+      },
+      {
+        "en": "Pass three: make the final boundary calm, humane, and complete.",
+        "zh": "第三遍：把最后的边界读得平静、温厚而完整。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What open loop could you reduce to one visible next action?",
+      "zh": "哪件未完成的事可以被缩小为一个看得见的下一步？"
+    },
+    {
+      "en": "What quiet act from today deserves to be counted as real work?",
+      "zh": "今天哪一个安静的行动，值得被算作真正的工作？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/give-the-day-a-clean-ending/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/give-the-day-a-clean-ending/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/give-the-day-a-clean-ending/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/give-the-day-a-clean-ending/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/give-the-day-a-clean-ending/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/give-the-day-a-clean-ending/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/give-the-day-a-clean-ending/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/give-the-day-a-clean-ending/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/give-the-day-a-clean-ending/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/give-the-day-a-clean-ending/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/give-the-day-a-clean-ending/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/give-the-day-a-clean-ending/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/give-the-day-a-clean-ending/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/give-the-day-a-clean-ending/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/give-the-day-a-clean-ending/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/give-the-day-a-clean-ending/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/give-the-day-a-clean-ending/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/give-the-day-a-clean-ending/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/give-the-day-a-clean-ending/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/give-the-day-a-clean-ending/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/give-the-day-a-clean-ending/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/give-the-day-a-clean-ending/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/give-the-day-a-clean-ending/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/give-the-day-a-clean-ending/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/give-the-day-a-clean-ending/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/give-the-day-a-clean-ending/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/give-the-day-a-clean-ending/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/give-the-day-a-clean-ending/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/give-the-day-a-clean-ending/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/give-the-day-a-clean-ending/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/give-the-day-a-clean-ending/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "choose-the-work-that-teaches-you",
+  "title": {
+    "en": "Choose the Work That Teaches You",
+    "zh": "选择那份能教会你的工作"
+  },
+  "subtitle": {
+    "en": "An original reflection on ambition, apprenticeship, and becoming larger than a job title.",
+    "zh": "一篇原创美文：关于抱负、学徒心态，以及成长为比职位名称更丰富的人。"
+  },
+  "tags": [
+    "Career",
+    "Learning",
+    "Ambition",
+    "Character"
+  ],
+  "sources": [
+    {
+      "title": "Up from Slavery: An Autobiography",
+      "author": "Booker T. Washington",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/2376",
+      "note": {
+        "en": "Public-domain inspiration from Washington’s reflections on education, service, and useful skill; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自华盛顿关于教育、服务与实用技能的公开领域思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with grounded ambition. Keep the practical images clear and let the larger ideas rise naturally.",
+    "zh": "带着脚踏实地的抱负朗读。把实际画面读清楚，让更大的思想自然升起。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Career with Windows",
+      "zh": "一份有窗户的事业"
+    },
+    "intro": {
+      "en": "This original passage asks us to judge opportunities by the capacities and character they help us build.",
+      "zh": "这篇原创文章邀请我们以一份机会所培养的能力与品格，来判断它的价值。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Shining Name",
+          "zh": "1. 闪亮的名称"
+        },
+        "text": "At the beginning of a career, a title can look like a finished portrait of the person we hope to become. We imagine saying it at a crowded table and hearing the sentence land well. Yet the shining name tells us little about the hours inside it. Will the work sharpen judgment or merely reward speed? Will we learn how decisions are made, how trust is repaired, how a vague need becomes a useful thing? Prestige is visible from a distance. Education happens close up, in the repeated contact between our present limits and a task that asks for more.",
+        "coaching": {
+          "en": "Begin with the social brightness of the title, then grow more thoughtful through the questions.",
+          "zh": "开头读出职位名称的社交光泽，几个问题逐渐转为深思。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Look for Honest Friction",
+          "zh": "2. 寻找真实的摩擦"
+        },
+        "text": "The best learning is not always comfortable, but discomfort alone proves nothing. Look for honest friction: a standard you can respect, feedback specific enough to use, responsibility slightly larger than your current reach. A good apprenticeship lets you attempt real work while making the cost of early mistakes survivable. It gives you people whose craft can be observed at human distance. Notice how they prepare, where they slow down, what they refuse to fake, and how they behave when nobody is impressed. Skill often travels through these quiet details before it enters any formal lesson.",
+        "coaching": {
+          "en": "Define honest friction with clean emphasis. Give the observed details a steady rhythm.",
+          "zh": "清楚重读 honest friction 的定义。观察到的细节要读得稳定。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Ask What the Work Is Making of You",
+          "zh": "3. 问问工作正在把你变成怎样的人"
+        },
+        "text": "Every role trains more than the skill named in its description. A workplace may teach you to bring bad news early, or to hide it until blame can be shared. It may strengthen your appetite for difficult questions, or make every uncertainty feel dangerous. It may enlarge your respect for other people’s time, or quietly persuade you that urgency excuses carelessness. These lessons accumulate in posture, language, and instinct. The important career question is therefore not only, What can I get from this place? It is also, What am I practicing here, and who will repeated practice allow me to become?",
+        "coaching": {
+          "en": "Make each pair of alternatives distinct. Open the final questions with seriousness, not anxiety.",
+          "zh": "每组对立选择都要读得分明。最后的问题要严肃而不焦虑。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry the Classroom with You",
+          "zh": "4. 把课堂带在身上"
+        },
+        "text": "No job can promise permanent growth. A generous teacher may leave; a demanding season may become mere repetition; the lesson you needed may finally be complete. Then gratitude and departure can occupy the same sentence. Take the craft, the tested habits, the names of those who helped you, and a clearer knowledge of the conditions in which you do good work. Leave without pretending the place was perfect or worthless. A career becomes spacious when each chapter gives the next one better questions. Choose work that teaches you; then become the kind of worker who keeps learning wherever the title changes.",
+        "coaching": {
+          "en": "Acknowledge change without bitterness. Build quiet forward motion toward the final line.",
+          "zh": "承认变化但不带苦涩。向最后一句逐渐建立安静的前行动力。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "prestige",
+      "meaning": {
+        "en": "Respect or admiration attached to status or achievement.",
+        "zh": "声望；与地位或成就相连的尊重与仰慕。"
+      },
+      "use": {
+        "en": "Prestige should not be the only measure.",
+        "zh": "声望不应成为唯一标准。"
+      }
+    },
+    {
+      "term": "friction",
+      "meaning": {
+        "en": "Difficulty or resistance that can create learning.",
+        "zh": "摩擦；能够带来学习的困难或阻力。"
+      },
+      "use": {
+        "en": "The role offered enough friction to help me grow.",
+        "zh": "这份工作提供了足够的挑战，帮助我成长。"
+      }
+    },
+    {
+      "term": "apprenticeship",
+      "meaning": {
+        "en": "A period of learning a craft through guided practical work.",
+        "zh": "学徒期；通过有指导的实践学习技艺的阶段。"
+      },
+      "use": {
+        "en": "She treated her first year as an apprenticeship.",
+        "zh": "她把第一年当作学徒期。"
+      }
+    },
+    {
+      "term": "survivable",
+      "meaning": {
+        "en": "Difficult but possible to endure and recover from.",
+        "zh": "可承受的；虽困难但能够挺过并恢复的。"
+      },
+      "use": {
+        "en": "Good training keeps early mistakes survivable.",
+        "zh": "好的训练让早期错误保持在可承受范围内。"
+      }
+    },
+    {
+      "term": "accumulate",
+      "meaning": {
+        "en": "To gather gradually over time.",
+        "zh": "积累；随着时间逐渐聚集。"
+      },
+      "use": {
+        "en": "Small habits accumulate into character.",
+        "zh": "微小习惯会逐渐积累成品格。"
+      }
+    },
+    {
+      "term": "occupy the same sentence",
+      "meaning": {
+        "en": "To be true at the same time, even if seemingly opposed.",
+        "zh": "存在于同一句话中；看似相反的两件事可以同时成立。"
+      },
+      "use": {
+        "en": "Pride and humility can occupy the same sentence.",
+        "zh": "自豪与谦逊可以同时成立。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly through the longest phrase without rushing.",
+      "zh": "顺畅连读最长的短语，不要抢拍。"
+    },
+    {
+      "en": "Keep final consonants clear while preserving a natural rhythm.",
+      "zh": "保持自然节奏，同时读清词尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress to carry the central idea.",
+      "zh": "用对比重音承载核心思想。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are advising an ambitious friend with warmth, honesty, and practical respect.",
+      "zh": "跟读时，想象你正以温暖、坦诚和务实的尊重，为一位有抱负的朋友提供建议。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the workplace images vivid and specific.",
+        "zh": "第一遍：让职场画面鲜明而具体。"
+      },
+      {
+        "en": "Pass two: sharpen the contrasts without sounding judgmental.",
+        "zh": "第二遍：读清对比，但不要带评判口吻。"
+      },
+      {
+        "en": "Pass three: let the final section carry mature forward motion.",
+        "zh": "第三遍：让最后一节带着成熟的前行动力。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What capacity is your current work teaching beyond its job description?",
+      "zh": "除了职位描述中的技能，你目前的工作还在培养什么能力？"
+    },
+    {
+      "en": "Which kind of honest friction would help you grow next?",
+      "zh": "接下来，哪一种真实而有益的摩擦能帮助你成长？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/choose-the-work-that-teaches-you/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/choose-the-work-that-teaches-you/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/choose-the-work-that-teaches-you/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/choose-the-work-that-teaches-you/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/choose-the-work-that-teaches-you/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/choose-the-work-that-teaches-you/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/choose-the-work-that-teaches-you/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/choose-the-work-that-teaches-you/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/choose-the-work-that-teaches-you/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/choose-the-work-that-teaches-you/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/choose-the-work-that-teaches-you/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/choose-the-work-that-teaches-you/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/choose-the-work-that-teaches-you/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/choose-the-work-that-teaches-you/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/choose-the-work-that-teaches-you/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/choose-the-work-that-teaches-you/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/choose-the-work-that-teaches-you/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/choose-the-work-that-teaches-you/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/choose-the-work-that-teaches-you/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/choose-the-work-that-teaches-you/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/choose-the-work-that-teaches-you/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/choose-the-work-that-teaches-you/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/choose-the-work-that-teaches-you/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/choose-the-work-that-teaches-you/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/choose-the-work-that-teaches-you/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/choose-the-work-that-teaches-you/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/choose-the-work-that-teaches-you/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/choose-the-work-that-teaches-you/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/choose-the-work-that-teaches-you/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/choose-the-work-that-teaches-you/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/choose-the-work-that-teaches-you/clips/sources_0.mp3"
+    }
+  }
+}
