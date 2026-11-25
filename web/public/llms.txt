@@ -58,6 +58,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 
 ## Beautiful English Read-Aloud Lessons
 
+- [Answer After the Room Gets Quiet](https://wordpower-seven.vercel.app/read-aloud/answer-after-the-room-gets-quiet): An original reflection on composure, difficult conversations, and choosing a voice that can carry the truth.
 - [Answer with Room](https://wordpower-seven.vercel.app/read-aloud/answer-with-room): An original reflection on keeping dignity and clarity inside a difficult conversation.
 - [Ask the Apprenticeship Question](https://wordpower-seven.vercel.app/read-aloud/ask-the-apprenticeship-question): An original reflection on career learning, useful work, and the courage to begin below mastery.
 - [Ask the Candle Why](https://wordpower-seven.vercel.app/read-aloud/ask-the-candle-why): An original reflection on scientific curiosity, patient questions, and the wonder hidden in ordinary things.
@@ -192,6 +193,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Let the River Set the Pace](https://wordpower-seven.vercel.app/read-aloud/let-the-river-set-the-pace): An original reflection on attention, recovery, and finding a pace that can carry a whole life.
 - [Let the Stars Correct Your Scale](https://wordpower-seven.vercel.app/read-aloud/let-the-stars-correct-your-scale): An original reflection on scientific wonder, proportion, and the freedom of a larger view.
 - [Let the Trail Correct the Map](https://wordpower-seven.vercel.app/read-aloud/let-the-trail-correct-the-map): An original reflection on observation, changing plans, and the confidence to be corrected by reality.
+- [Let the Weather Teach Your Eyes](https://wordpower-seven.vercel.app/read-aloud/let-the-weather-teach-your-eyes): An original reflection on attention, weather, and learning to notice a living world before naming it.
 - [Let the Work Ripen](https://wordpower-seven.vercel.app/read-aloud/let-the-work-ripen): An original reflection on patient craft, revision, and knowing when careful work is ready.
 - [Let the Work Teach You](https://wordpower-seven.vercel.app/read-aloud/let-the-work-teach-you): An original reflection on artistic practice, revision, and learning to see what the work actually needs.
 - [Listen Before You Mend](https://wordpower-seven.vercel.app/read-aloud/listen-before-you-mend): An original reflection on craftsmanship, attentive listening, and repairs that respect a thing's history.
@@ -217,6 +219,7 @@ Word Power, Reread teaches advanced English vocabulary in compact lessons. Each 
 - [Make the Mistake Useful](https://wordpower-seven.vercel.app/read-aloud/make-the-mistake-useful): An original reflection on learning, intelligent practice, and turning error into better judgment.
 - [Make the Pause Part of the Answer](https://wordpower-seven.vercel.app/read-aloud/make-the-pause-part-of-the-answer): An original reflection on calm communication, honest timing, and replies that do not abandon the truth.
 - [Make the Work Worthy of Hands](https://wordpower-seven.vercel.app/read-aloud/make-the-work-worthy-of-hands): An original reflection on craft, useful beauty, and the dignity hidden in careful work.
+- [Make Your Work a Better Teacher](https://wordpower-seven.vercel.app/read-aloud/make-your-work-a-better-teacher): An original reflection on useful work, apprenticeship, and turning ordinary tasks into durable learning.
 - [Mend the Small Tear](https://wordpower-seven.vercel.app/read-aloud/mend-the-small-tear): An original reflection on friendship, repair, and the courage to return before distance hardens.
 - [A Strong Mind Can Return.](https://wordpower-seven.vercel.app/read-aloud/mind-that-can-return): A Stoic-inspired passage for practicing composure, judgment, and the voice of quiet self-command.
 - [Name the Next True Thing](https://wordpower-seven.vercel.app/read-aloud/name-the-next-true-thing): An original reflection on calm communication, uncertainty, and the discipline of speaking clearly under pressure.
