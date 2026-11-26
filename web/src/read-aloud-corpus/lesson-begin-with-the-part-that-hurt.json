@@ -1,0 +1,244 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "begin-with-the-part-that-hurt",
+  "title": {
+    "en": "Begin with the Part That Hurt",
+    "zh": "先从受伤之处说起"
+  },
+  "subtitle": {
+    "en": "An original reflection on calm communication, responsibility, and the courage to make trust usable again.",
+    "zh": "一篇原创美文：关于平静沟通、承担责任，以及让信任重新可用的勇气。"
+  },
+  "tags": [
+    "Communication",
+    "Trust",
+    "Courage",
+    "Relationships",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "The Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/20203",
+      "note": {
+        "en": "Public-domain inspiration from Franklin’s practice of examining conduct and improving habits; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自富兰克林在公开领域自传中反省行为、改善习惯的实践；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with quiet accountability. Let the practical language feel warmer than self-defense.",
+    "zh": "带着安静的担当朗读。让务实的语言比自我辩护更温暖。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Work After the Wrong Note",
+      "zh": "走音之后的功课"
+    },
+    "intro": {
+      "en": "This original passage explores how a clear apology can turn a damaged conversation toward honest repair.",
+      "zh": "这篇原创文章探讨：清晰的道歉如何让受损的对话转向真诚修复。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Hear the Change in the Room",
+          "zh": "1. 听见房间里的变化"
+        },
+        "text": "A conversation can change temperature in a single sentence. A joke lands as contempt. A promise is missed. Someone offers an idea, and we answer the fear beneath it instead of the words actually spoken. Often we sense the change immediately: a shoulder closes, the table grows formal, ordinary silence becomes crowded. Our first impulse is to explain our intention. We reach for context as if context could erase impact. But repair begins with attention. Before defending the person you meant to be, notice the experience you helped create. The room is giving you information. Be brave enough to receive it.",
+        "coaching": {
+          "en": "Make the room’s change audible, then slow down at the turn from defense to attention.",
+          "zh": "把房间氛围的变化读出来；从辩护转向关注时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Put the Harm Before the History",
+          "zh": "2. 先说伤害，再说来龙去脉"
+        },
+        "text": "A useful apology has a simple order. Name what you did. Name the likely cost. Say what should have happened instead. “I interrupted you twice, and it made your contribution easier to dismiss. I should have let you finish.” This is not a courtroom confession; it is accurate description in the service of trust. Explanations may matter later. Fatigue, confusion, and pressure are real. Yet when history arrives too early, it sounds like a request for the injured person to comfort us. Put the harm first. Let your account be plain enough that the other person does not have to argue for the reality of their own experience.",
+        "coaching": {
+          "en": "Keep the example direct and unadorned. Stress the order: action, cost, better choice.",
+          "zh": "示例要直接朴素。重读顺序：行为、代价、更好的选择。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Offer a Repair That Can Be Seen",
+          "zh": "3. 提出看得见的修复"
+        },
+        "text": "Remorse is a feeling; repair is a practice. Ask what would make the next exchange safer or fairer, then offer something observable. Send the correction to everyone who received the mistake. Return the time you took. Invite the unfinished idea back into the meeting and protect space for its answer. A visible repair does not purchase instant forgiveness. It shows that your regret can organize behavior, not merely decorate language. Sometimes the other person will need distance. Respecting that distance may be part of the work. Trust is not restored by demanding reassurance; it is rebuilt through repeated evidence that the lesson has entered your habits.",
+        "coaching": {
+          "en": "Give each repair action firm energy, then soften when speaking about distance and time.",
+          "zh": "每个修复行动要读得坚定；谈到距离和时间时放柔。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Leave Dignity on Both Sides",
+          "zh": "4. 给双方都留下尊严"
+        },
+        "text": "The aim of repair is not to make one person small so the other can feel whole. Shame keeps the self at the center; responsibility turns toward relationship. You can say, “That was wrong,” without saying, “I am beyond change.” You can hear anger without turning it into a verdict on your entire life. This steadiness protects dignity on both sides. It allows truth to be specific, and therefore useful. After the apology, listen. After listening, change one repeatable thing. Then let time do the quiet work that language cannot finish. A mature voice is not one that never strikes a wrong note. It is one that knows how to return, tune carefully, and rejoin the song.",
+        "coaching": {
+          "en": "Hold shame and responsibility in clear contrast. Let the musical ending feel hopeful but earned.",
+          "zh": "清楚对比羞耻与责任。音乐性的结尾要有希望，但不能轻飘。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "contempt",
+      "meaning": {
+        "en": "A feeling that someone is beneath respect.",
+        "zh": "轻蔑；认为某人不值得尊重的感受。"
+      },
+      "use": {
+        "en": "Contempt can close a conversation quickly.",
+        "zh": "轻蔑会很快关闭一场对话。"
+      }
+    },
+    {
+      "term": "accountability",
+      "meaning": {
+        "en": "Willingness to accept responsibility for actions and effects.",
+        "zh": "担当；愿意为行为及其影响负责。"
+      },
+      "use": {
+        "en": "Her apology showed real accountability.",
+        "zh": "她的道歉体现了真正的担当。"
+      }
+    },
+    {
+      "term": "dismiss",
+      "meaning": {
+        "en": "To treat an idea or person as unworthy of attention.",
+        "zh": "轻视；把某个想法或人视为不值得关注。"
+      },
+      "use": {
+        "en": "Do not dismiss the concern before hearing it.",
+        "zh": "听清之前，不要轻视这一担忧。"
+      }
+    },
+    {
+      "term": "remorse",
+      "meaning": {
+        "en": "Deep regret for having done something wrong.",
+        "zh": "悔意；对错误行为的深切懊悔。"
+      },
+      "use": {
+        "en": "Remorse matters when it changes conduct.",
+        "zh": "悔意在改变行为时才真正重要。"
+      }
+    },
+    {
+      "term": "observable",
+      "meaning": {
+        "en": "Able to be seen, noticed, or measured.",
+        "zh": "可观察的；能够被看见、察觉或衡量的。"
+      },
+      "use": {
+        "en": "We agreed on one observable change.",
+        "zh": "我们商定了一项看得见的改变。"
+      }
+    },
+    {
+      "term": "verdict",
+      "meaning": {
+        "en": "A final judgment or decision.",
+        "zh": "裁决；最终的判断或决定。"
+      },
+      "use": {
+        "en": "One mistake is not a verdict on your character.",
+        "zh": "一次错误并不是对你品格的最终判决。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the final consonants clear in missed, cost, trust, and respect.",
+      "zh": "清楚读出 missed、cost、trust、respect 的词尾辅音。"
+    },
+    {
+      "en": "Use contrastive stress in remorse is a feeling; repair is a practice.",
+      "zh": "在 remorse is a feeling; repair is a practice 中使用对比重音。"
+    },
+    {
+      "en": "Let the three actions in return, tune carefully, and rejoin the song rise naturally.",
+      "zh": "让 return、tune carefully、rejoin the song 三个动作自然递进。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are repairing trust without surrendering steadiness or dignity.",
+      "zh": "跟读时，想象你正修复信任，同时不放弃沉着与尊严。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep every admission specific and clean.",
+        "zh": "第一遍：每个承认都要具体、清楚。"
+      },
+      {
+        "en": "Pass two: make the practical repairs sound sincere and usable.",
+        "zh": "第二遍：让实际修复听起来真诚、可行。"
+      },
+      {
+        "en": "Pass three: carry earned hope into the final image.",
+        "zh": "第三遍：把来之不易的希望带入最后的意象。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which explanation are you tempted to give before naming the impact?",
+      "zh": "在说清影响之前，你最想先给出哪种解释？"
+    },
+    {
+      "en": "What visible repair could make one relationship more trustworthy?",
+      "zh": "哪一项看得见的修复，能让一段关系更值得信任？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/begin-with-the-part-that-hurt/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/begin-with-the-part-that-hurt/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/begin-with-the-part-that-hurt/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/begin-with-the-part-that-hurt/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/begin-with-the-part-that-hurt/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/begin-with-the-part-that-hurt/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/begin-with-the-part-that-hurt/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/begin-with-the-part-that-hurt/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/begin-with-the-part-that-hurt/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/begin-with-the-part-that-hurt/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/begin-with-the-part-that-hurt/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/begin-with-the-part-that-hurt/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/begin-with-the-part-that-hurt/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/begin-with-the-part-that-hurt/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/begin-with-the-part-that-hurt/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/begin-with-the-part-that-hurt/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/begin-with-the-part-that-hurt/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/begin-with-the-part-that-hurt/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/begin-with-the-part-that-hurt/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/begin-with-the-part-that-hurt/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/begin-with-the-part-that-hurt/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/begin-with-the-part-that-hurt/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/begin-with-the-part-that-hurt/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/begin-with-the-part-that-hurt/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/begin-with-the-part-that-hurt/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/begin-with-the-part-that-hurt/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/begin-with-the-part-that-hurt/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/begin-with-the-part-that-hurt/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/begin-with-the-part-that-hurt/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/begin-with-the-part-that-hurt/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/begin-with-the-part-that-hurt/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/begin-with-the-part-that-hurt/clips/sources_0.mp3"
+    }
+  }
+}

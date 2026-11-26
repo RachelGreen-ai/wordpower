@@ -1,0 +1,244 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "keep-a-small-room-for-delight",
+  "title": {
+    "en": "Keep a Small Room for Delight",
+    "zh": "为欢喜留一间小屋"
+  },
+  "subtitle": {
+    "en": "An original reflection on beauty, making, and the quiet usefulness of delight in a demanding life.",
+    "zh": "一篇原创美文：关于美、创造，以及欢喜在忙碌生活中的安静用处。"
+  },
+  "tags": [
+    "Art",
+    "Attention",
+    "Creativity",
+    "Beauty",
+    "Daily Life"
+  ],
+  "sources": [
+    {
+      "title": "Hopes and Fears for Art",
+      "author": "William Morris",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/3773",
+      "note": {
+        "en": "Public-domain inspiration from Morris’s belief that beauty and meaningful making belong in ordinary life; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自莫里斯公开领域著作中“美与有意义的创造属于日常生活”的信念；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with clear-eyed warmth. Let beauty feel practical, intimate, and free of grand performance.",
+    "zh": "带着清醒的温暖朗读。让美显得务实、亲近，不必宏大表演。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Use for What Delights Us",
+      "zh": "欢喜之物的用处"
+    },
+    "intro": {
+      "en": "This original passage argues that small acts of beauty can restore attention and deepen our participation in daily life.",
+      "zh": "这篇原创文章提出：微小的美能够恢复注意力，加深我们对日常生活的参与。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Day Becomes All Corridor",
+          "zh": "1. 日子只剩走廊"
+        },
+        "text": "There are seasons when life becomes all corridor. We move from alarm to inbox, from errand to obligation, passing through each hour on the way to the next. Nothing is exactly wrong, yet the day has no room in which to turn around and look. Delight begins by interrupting this narrow architecture. A blue cup catches morning light. Someone has arranged oranges in a market stall as carefully as lanterns. A melody from an open window makes the familiar street briefly larger. These moments do not solve the schedule. They give us back the person who is living it. Attention returns, and with attention, choice.",
+        "coaching": {
+          "en": "Keep the corridor brisk and narrow, then open the voice as color and music enter.",
+          "zh": "走廊部分读得紧凑狭窄；色彩与音乐进入时，让声音打开。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Make One Thing More Carefully",
+          "zh": "2. 更用心地做一件事"
+        },
+        "text": "We sometimes treat beauty as a luxury added after useful work is complete. But care can enter the work itself. Slice the pear so its pale pattern appears. Write the heading by hand. Mend the torn pocket with thread chosen for pleasure, not disguise. The result need not be displayed or admired. Making one thing more carefully changes the maker. The hand slows enough for judgment to wake; material begins to answer back; impatience loses its command. Craft is attention made visible. Even a modest object can carry evidence that a human being was present, awake, and unwilling to let necessity have the final word.",
+        "coaching": {
+          "en": "Give the making actions tactile precision. Let craft is attention made visible stand alone.",
+          "zh": "把制作动作读出触感与精确。让 craft is attention made visible 独立成句。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Refuse the Performance of Taste",
+          "zh": "3. 拒绝表演品味"
+        },
+        "text": "Delight becomes fragile when it must prove sophistication. We begin to borrow other people’s preferences, praising what sounds correct and hiding what is sincerely loved. Keep one room free from that performance. In it, a cheap postcard may matter more than a famous print. A crooked bowl may earn its place because a friend made it. Taste grows through honest encounters, not anxious ranking. Ask simpler questions. Do I return to this color? Does this sentence sharpen the air? Does this object make an ordinary action kinder? Your answers may change, and that is not failure. A living sensibility should be capable of surprise.",
+        "coaching": {
+          "en": "Read without snobbery or apology. Make the three questions curious and genuinely open.",
+          "zh": "不带优越感，也不带歉意。三个问题要读得好奇而开放。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Carry Delight Back to the Work",
+          "zh": "4. 把欢喜带回工作"
+        },
+        "text": "A small room for delight is not an escape hatch from responsibility. Leave the room, and you may return to duty with finer perception. You notice the colleague whose effort was nearly invisible. You revise the sentence until it becomes hospitable. You set the table as if those arriving are worth preparing for. Beauty, at its most useful, rehearses regard. It teaches us to linger without possessing, to choose without shouting, and to shape the shared world with care. Protect what delights you, then let it enlarge your usefulness. The lamp is not kept because life is always gentle. It is kept because difficult work also deserves good light.",
+        "coaching": {
+          "en": "Bring delight back into service without losing lightness. Give the final lamp image quiet strength.",
+          "zh": "把欢喜带回服务与责任，同时保持轻盈。最后的灯光意象要安静有力。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "obligation",
+      "meaning": {
+        "en": "A duty or responsibility one is expected to meet.",
+        "zh": "义务；被期待履行的责任。"
+      },
+      "use": {
+        "en": "The week filled with small obligations.",
+        "zh": "这一周被各种小义务填满。"
+      }
+    },
+    {
+      "term": "architecture",
+      "meaning": {
+        "en": "The structure or design of something.",
+        "zh": "结构；某物的设计或组织方式。"
+      },
+      "use": {
+        "en": "Rest changed the architecture of her day.",
+        "zh": "休息改变了她一天的结构。"
+      }
+    },
+    {
+      "term": "tactile",
+      "meaning": {
+        "en": "Connected with the sense of touch.",
+        "zh": "触觉的；与触摸感受有关的。"
+      },
+      "use": {
+        "en": "Clay offers a rich tactile experience.",
+        "zh": "陶土带来丰富的触觉体验。"
+      }
+    },
+    {
+      "term": "sophistication",
+      "meaning": {
+        "en": "Refined knowledge, taste, or complexity.",
+        "zh": "精致与见识；成熟的知识、品味或复杂性。"
+      },
+      "use": {
+        "en": "The simple design did not need to prove sophistication.",
+        "zh": "这个简洁设计不需要证明自己的精致。"
+      }
+    },
+    {
+      "term": "sensibility",
+      "meaning": {
+        "en": "A person’s way of noticing and responding to beauty or feeling.",
+        "zh": "感受力；一个人感知并回应美与情感的方式。"
+      },
+      "use": {
+        "en": "Travel widened her artistic sensibility.",
+        "zh": "旅行拓宽了她的艺术感受力。"
+      }
+    },
+    {
+      "term": "hospitable",
+      "meaning": {
+        "en": "Welcoming and easy for others to enter or use.",
+        "zh": "友好宜人的；让他人容易进入或使用的。"
+      },
+      "use": {
+        "en": "Clear language makes an idea more hospitable.",
+        "zh": "清晰的语言让一个想法更容易亲近。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Link smoothly through from alarm to inbox, from errand to obligation.",
+      "zh": "顺畅连读 from alarm to inbox, from errand to obligation。"
+    },
+    {
+      "en": "Keep final sounds crisp in craft, taste, light, and world.",
+      "zh": "清楚读出 craft、taste、light、world 的词尾音。"
+    },
+    {
+      "en": "Use a gentle three-part rhythm in linger, choose, and shape.",
+      "zh": "在 linger、choose、shape 中使用柔和的三段节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are inviting a busy friend to recover one honest source of delight.",
+      "zh": "跟读时，想象你在邀请一位忙碌的朋友找回一种真实的欢喜。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make each color, object, and texture visible.",
+        "zh": "第一遍：让每种颜色、物件和质感都清晰可见。"
+      },
+      {
+        "en": "Pass two: keep the argument grounded and free of performance.",
+        "zh": "第二遍：让观点脚踏实地，不带表演感。"
+      },
+      {
+        "en": "Pass three: let the final lamp glow without sentimentality.",
+        "zh": "第三遍：让最后的灯光发亮，却不煽情。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What small object reliably returns you to attention?",
+      "zh": "哪件小物总能让你重新回到专注？"
+    },
+    {
+      "en": "How could delight make one necessary task more humane today?",
+      "zh": "今天，欢喜如何让一项必要任务更有人情味？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/keep-a-small-room-for-delight/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/keep-a-small-room-for-delight/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/keep-a-small-room-for-delight/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/keep-a-small-room-for-delight/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/keep-a-small-room-for-delight/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/keep-a-small-room-for-delight/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/keep-a-small-room-for-delight/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/keep-a-small-room-for-delight/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/keep-a-small-room-for-delight/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/keep-a-small-room-for-delight/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/keep-a-small-room-for-delight/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/keep-a-small-room-for-delight/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/keep-a-small-room-for-delight/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/keep-a-small-room-for-delight/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/keep-a-small-room-for-delight/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/keep-a-small-room-for-delight/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/keep-a-small-room-for-delight/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/keep-a-small-room-for-delight/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/keep-a-small-room-for-delight/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/keep-a-small-room-for-delight/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/keep-a-small-room-for-delight/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/keep-a-small-room-for-delight/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/keep-a-small-room-for-delight/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/keep-a-small-room-for-delight/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/keep-a-small-room-for-delight/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/keep-a-small-room-for-delight/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/keep-a-small-room-for-delight/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/keep-a-small-room-for-delight/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/keep-a-small-room-for-delight/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/keep-a-small-room-for-delight/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/keep-a-small-room-for-delight/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/keep-a-small-room-for-delight/clips/sources_0.mp3"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "let-them-carry-one-corner",
+  "title": {
+    "en": "Let Them Carry One Corner",
+    "zh": "让孩子抬起一角"
+  },
+  "subtitle": {
+    "en": "An original reflection on children, useful responsibility, and the patient art of helping without taking over.",
+    "zh": "一篇原创美文：关于孩子、真实责任，以及帮助却不代替的耐心艺术。"
+  },
+  "tags": [
+    "Parenting",
+    "Learning",
+    "Responsibility",
+    "Patience",
+    "Growth"
+  ],
+  "sources": [
+    {
+      "title": "The Montessori Method",
+      "author": "Maria Montessori",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/39863",
+      "note": {
+        "en": "Public-domain inspiration from Montessori’s respect for children’s purposeful activity and growing independence; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自蒙台梭利公开领域著作中对儿童有目的活动与逐渐独立的尊重；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with patient confidence. Keep the household images light and the respect for the child unmistakable.",
+    "zh": "带着耐心的信心朗读。家庭画面要轻盈，对孩子的尊重要清晰。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Share of the Real Work",
+      "zh": "分担真正的工作"
+    },
+    "intro": {
+      "en": "This original passage considers how small, genuine duties help children build competence and belonging.",
+      "zh": "这篇原创文章思考：小而真实的任务如何帮助孩子建立能力与归属。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Faster Pair of Hands",
+          "zh": "1. 那双更快的手"
+        },
+        "text": "An adult can button the coat, pour the milk, and pack the bag in half the time. Morning is narrow; the bus will not wait; juice is already shining on the floor. Efficiency makes a persuasive case. Yet childhood is full of tasks that can be completed quickly or learned slowly, and those are not the same achievement. When we always choose speed, a child receives a hidden message: real life is happening, but you are not yet useful inside it. Love then becomes a service performed around them. Another kind of love makes room at the table and says, “Here is one corner of the work. It is truly yours.”",
+        "coaching": {
+          "en": "Begin briskly, then make the hidden message quieter and more serious.",
+          "zh": "开头读得利落；说到隐藏的信息时，语气更安静、更认真。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Give Work with Consequences",
+          "zh": "2. 给有真实结果的任务"
+        },
+        "text": "Children can tell the difference between a decorative chore and a necessary one. If the napkins are forgotten, dinner feels different. If the plant is not watered, its leaves answer. Real responsibility connects effort with consequence, but the consequence should fit the learner. A six-year-old can match socks, carry unbreakable cups, or check whether the dog has water. An older child can plan one simple meal, read directions aloud, or keep track of a shared list. The task need not be impressive. It needs a clear beginning, an understandable standard, and a result that belongs to more than the child alone. Contribution is one of belonging’s strongest languages.",
+        "coaching": {
+          "en": "Keep the examples lively and concrete. Land firmly on contribution and belonging.",
+          "zh": "示例要生动具体。结尾的“贡献”与“归属”要落得坚定。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Help at the Edge of Ability",
+          "zh": "3. 在能力边缘提供帮助"
+        },
+        "text": "The difficult moment arrives when small hands struggle. A knot tightens. Flour leaves the bowl. The explanation you gave so clearly disappears. Help, but help at the edge. Hold the jar while the child turns the lid. Ask which step comes next. Move the heavy end while they carry the lighter one. This preserves the structure of success: the child’s action still changes the world. Rescue too quickly, and frustration ends but learning ends with it. Withhold help completely, and challenge may harden into humiliation. Patient guidance is neither absence nor control. It is close attention to the smallest assistance that allows effort to continue.",
+        "coaching": {
+          "en": "Use gentle humor for the mishaps, then slow down through the balance between rescue and neglect.",
+          "zh": "小意外可以带一点温柔幽默；谈到代劳与放任的平衡时放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Make Room for Their Way",
+          "zh": "4. 给他们自己的方法留空间"
+        },
+        "text": "Competence rarely arrives in the shape an adult would choose. Towels are folded into surprising geometries. The sandwiches lean. A careful child may invent a route that seems absurd until it works. Correct what concerns safety, kindness, or the agreed result. Let preference remain preference. If every task must display the parent’s method, responsibility becomes imitation under inspection. The deeper gift is not a perfectly ordered drawer. It is the sentence growing quietly inside a young person: I can notice what needs doing. I can begin. I can ask for help without surrendering the work. One day the corner you gave them will no longer feel heavy, and they will reach for a larger share.",
+        "coaching": {
+          "en": "Smile through the imperfect results. Build confidence through the child’s three inner sentences.",
+          "zh": "带着微笑读不完美的结果。孩子内心的三句话要逐步建立信心。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "persuasive",
+      "meaning": {
+        "en": "Able to make an idea seem convincing.",
+        "zh": "有说服力的；能使某个观点显得可信。"
+      },
+      "use": {
+        "en": "Convenience can be a persuasive argument.",
+        "zh": "便利可能是很有说服力的理由。"
+      }
+    },
+    {
+      "term": "decorative",
+      "meaning": {
+        "en": "Intended mainly to look attractive rather than be useful.",
+        "zh": "装饰性的；主要为了好看而非实用。"
+      },
+      "use": {
+        "en": "The role was real, not merely decorative.",
+        "zh": "这个角色是真实的，并非只是装饰。"
+      }
+    },
+    {
+      "term": "consequence",
+      "meaning": {
+        "en": "A result that follows from an action.",
+        "zh": "后果；由某一行动带来的结果。"
+      },
+      "use": {
+        "en": "The consequence matched the small mistake.",
+        "zh": "这个后果与小小的错误相称。"
+      }
+    },
+    {
+      "term": "withhold",
+      "meaning": {
+        "en": "To choose not to give something that could be given.",
+        "zh": "不给予；有意不提供本可提供的东西。"
+      },
+      "use": {
+        "en": "Do not withhold all help when a learner is stuck.",
+        "zh": "学习者卡住时，不要完全不给帮助。"
+      }
+    },
+    {
+      "term": "humiliation",
+      "meaning": {
+        "en": "A painful loss of dignity or self-respect.",
+        "zh": "羞辱；尊严或自尊受到伤害的痛苦。"
+      },
+      "use": {
+        "en": "Correction should never become humiliation.",
+        "zh": "纠正绝不应变成羞辱。"
+      }
+    },
+    {
+      "term": "competence",
+      "meaning": {
+        "en": "The ability to do something effectively.",
+        "zh": "胜任能力；有效完成某事的能力。"
+      },
+      "use": {
+        "en": "Practice turned hesitation into competence.",
+        "zh": "练习把迟疑变成了胜任。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep consonant clusters clear in tasks, plants, asks, and works.",
+      "zh": "清楚读出 tasks、plants、asks、works 中的辅音连缀。"
+    },
+    {
+      "en": "Use contrastive stress in completed quickly or learned slowly.",
+      "zh": "在 completed quickly 与 learned slowly 中使用对比重音。"
+    },
+    {
+      "en": "Give each short sentence—I can notice, I can begin, I can ask—its own calm beat.",
+      "zh": "让 I can notice、I can begin、I can ask 每个短句都有独立而平静的节拍。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are speaking to a loving adult who is learning to step back wisely.",
+      "zh": "跟读时，想象你在对一位慈爱的成人说话，而他正在学习如何明智地退后一步。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: keep the family scenes warm and recognizable.",
+        "zh": "第一遍：让家庭场景温暖而熟悉。"
+      },
+      {
+        "en": "Pass two: clarify the balance between help and control.",
+        "zh": "第二遍：读清帮助与控制之间的平衡。"
+      },
+      {
+        "en": "Pass three: let the child’s growing confidence lead the ending.",
+        "zh": "第三遍：让孩子增长的信心引领结尾。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "What real household task could a child carry one corner of?",
+      "zh": "哪一项真实的家务，可以让孩子承担其中一角？"
+    },
+    {
+      "en": "Where could you offer less help without withdrawing your attention?",
+      "zh": "在哪件事上，你可以少帮一点，却仍保持关注？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/let-them-carry-one-corner/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/let-them-carry-one-corner/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/let-them-carry-one-corner/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/let-them-carry-one-corner/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/let-them-carry-one-corner/clips/tag_3.mp3",
+      "tag.4": "audio/read-aloud/let-them-carry-one-corner/clips/tag_4.mp3",
+      "warmup": "audio/read-aloud/let-them-carry-one-corner/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/let-them-carry-one-corner/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/let-them-carry-one-corner/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/let-them-carry-one-corner/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/let-them-carry-one-corner/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/let-them-carry-one-corner/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/let-them-carry-one-corner/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/let-them-carry-one-corner/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/let-them-carry-one-corner/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/let-them-carry-one-corner/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/let-them-carry-one-corner/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/let-them-carry-one-corner/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/let-them-carry-one-corner/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/let-them-carry-one-corner/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/let-them-carry-one-corner/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/let-them-carry-one-corner/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/let-them-carry-one-corner/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/let-them-carry-one-corner/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/let-them-carry-one-corner/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/let-them-carry-one-corner/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/let-them-carry-one-corner/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/let-them-carry-one-corner/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/let-them-carry-one-corner/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/let-them-carry-one-corner/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/let-them-carry-one-corner/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/let-them-carry-one-corner/clips/sources_0.mp3"
+    }
+  }
+}
