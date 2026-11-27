@@ -1,0 +1,242 @@
+{
+  "lessonId": "turn-one-chair-toward-the-door",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "title": {
+    "en": "Turn One Chair Toward the Door",
+    "zh": "把一把椅子转向门口"
+  },
+  "subtitle": {
+    "en": "An original reflection on moral imagination, ordinary hospitality, and the lives just beyond our notice.",
+    "zh": "一篇原创美文：关于道德想象、日常好客，以及那些刚好在我们视线之外的人生。"
+  },
+  "tags": [
+    "Kindness",
+    "Moral Imagination",
+    "Community",
+    "Voice"
+  ],
+  "sources": [
+    {
+      "title": "A Christmas Carol",
+      "author": "Charles Dickens",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/46",
+      "note": {
+        "en": "Public-domain inspiration for moral awakening and attention to neglected lives; this lesson is entirely original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中关于道德觉醒与关注被忽视人生的主题；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with clear-eyed tenderness. Avoid sentimentality; let concrete details carry the feeling.",
+    "zh": "用清醒而温柔的声音朗读。避免煽情，让具体细节承载情感。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Empty Chair at the Edge",
+      "zh": "边上的空椅子"
+    },
+    "intro": {
+      "en": "This original passage asks how ordinary acts of welcome can enlarge our moral field of view.",
+      "zh": "这篇原创文章追问：日常的欢迎之举，如何扩大我们的道德视野。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Edge of the Room",
+          "zh": "1. 房间的边缘"
+        },
+        "text": "Every gathering has a center and an edge. At the center, stories move easily among people who know one another’s names. At the edge, someone studies a paper cup, waits for a pause that never comes, or prepares to leave without being noticed. Loneliness is not always dramatic. Often it is a series of tiny closed doors: an inside joke, a chair angled inward, a question answered too quickly. Moral imagination begins when we notice the architecture of belonging. Who can enter this conversation without asking permission? Who must spend courage merely to stand nearby? A small shift of the chair can become an answer.",
+        "coaching": {
+          "en": "Sketch the room calmly. Give the two questions generous space, and make the last sentence simple rather than grand.",
+          "zh": "平静地描画房间。给两个问题充分停顿，最后一句要朴素，不要宏大。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Imagine Without Inventing",
+          "zh": "2. 想象，但不要替人编造"
+        },
+        "text": "To imagine another life is not to claim that we understand it. The stranger’s silence may hold fatigue, shyness, grief, concentration, or nothing painful at all. Curiosity becomes humane when it remains humble. We can offer an opening without demanding a confession: “Would you like to join us?” “Have you been here before?” “Can I bring you some tea?” The person may accept, decline, or answer briefly. Welcome is not a performance that requires gratitude. It is the creation of a genuine choice where none existed a moment earlier. Respect keeps the door open and also permits someone to pass it by.",
+        "coaching": {
+          "en": "Keep the list of possible feelings light. Read the invitations warmly, then make accept, decline, or answer briefly evenly balanced.",
+          "zh": "可能的感受列表要轻读。几个邀请要温暖，accept、decline、answer briefly 保持平衡。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Practice on Ordinary Days",
+          "zh": "3. 在普通日子里练习"
+        },
+        "text": "Generosity rarely announces its rehearsal. It grows in ordinary places: the kitchen where one portion is saved, the meeting where credit is returned to a quiet colleague, the bus where a bag is moved from a seat. These gestures are modest, but they train perception. We begin to see that comfort is distributed, not accidental. Someone always chooses who receives time, warmth, information, and the benefit of the doubt. If we wait for a heroic occasion, our attention may remain clumsy. Better to practice with the next name we almost forget and the next person whose sentence needs ten more patient seconds.",
+        "coaching": {
+          "en": "Use a steady listing rhythm through the ordinary examples. Warm the phrase ten more patient seconds.",
+          "zh": "普通场景要用稳定的列举节奏。读到 ten more patient seconds 时增加温度。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Let Welcome Change the Host",
+          "zh": "4. 让欢迎也改变主人"
+        },
+        "text": "Hospitality is often described as something the host gives, yet a true welcome changes the host as well. Another person brings a scale of experience that unsettles our neat measurements. Their question exposes an assumption. Their story gives a familiar street a second history. Their presence makes the room less complete and more alive. We do not become generous by imagining ourselves above need. We become generous by remembering how often our own courage depended on an invitation, a patient listener, or a chair turned slightly outward. Keep such a chair ready. Not as proof of goodness, but as a quiet admission: the world is larger than the company we already know.",
+        "coaching": {
+          "en": "Let the middle sentences broaden the room. Close with humility and a firm, quiet final phrase.",
+          "zh": "中段让房间逐渐变宽。结尾保持谦逊，最后短语坚定而安静。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "hospitality",
+      "meaning": {
+        "en": "Friendly and generous treatment of guests or strangers.",
+        "zh": "好客；友善而慷慨地对待客人或陌生人。"
+      },
+      "use": {
+        "en": "Their hospitality made the newcomer relax.",
+        "zh": "他们的热情接待让新来的人放松下来。"
+      }
+    },
+    {
+      "term": "sentimentality",
+      "meaning": {
+        "en": "Excessive emotion that can feel false or shallow.",
+        "zh": "滥情；显得虚假或浅薄的过度情绪。"
+      },
+      "use": {
+        "en": "The story avoids sentimentality through precise detail.",
+        "zh": "这个故事用准确细节避免了滥情。"
+      }
+    },
+    {
+      "term": "humane",
+      "meaning": {
+        "en": "Showing compassion and respect for people.",
+        "zh": "仁厚的；对人表现出同情与尊重的。"
+      },
+      "use": {
+        "en": "They found a more humane way to disagree.",
+        "zh": "他们找到了一种更有人情味的分歧方式。"
+      }
+    },
+    {
+      "term": "rehearsal",
+      "meaning": {
+        "en": "Practice done before a later performance or event.",
+        "zh": "排练；为之后表现所做的练习。"
+      },
+      "use": {
+        "en": "Daily courtesy is a rehearsal for courage.",
+        "zh": "日常礼貌是勇气的预演。"
+      }
+    },
+    {
+      "term": "assumption",
+      "meaning": {
+        "en": "Something accepted as true without enough proof.",
+        "zh": "假设；未经充分证明便认定为真的事。"
+      },
+      "use": {
+        "en": "Her question exposed our assumption.",
+        "zh": "她的问题揭示了我们的想当然。"
+      }
+    },
+    {
+      "term": "unsettle",
+      "meaning": {
+        "en": "Disturb a settled belief or feeling.",
+        "zh": "动摇；扰乱既定看法或感受。"
+      },
+      "use": {
+        "en": "New evidence can unsettle a neat theory.",
+        "zh": "新证据会动摇一个整齐的理论。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Contrast center and edge with clear stress.",
+      "zh": "用清晰重音对比 center 与 edge。"
+    },
+    {
+      "en": "Keep the h sound audible in humane, humble, heroic, and hospitality.",
+      "zh": "清楚读出 humane、humble、heroic、hospitality 中的 h 音。"
+    },
+    {
+      "en": "Use parallel rhythm for time, warmth, information, and the benefit of the doubt.",
+      "zh": "time、warmth、information、the benefit of the doubt 要读出平行节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are widening a conversation without putting anyone on display.",
+      "zh": "跟读时，想象你在扩大一场对话，同时不把任何人置于众目之下。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: let the room details carry the emotion.",
+        "zh": "第一遍：让房间里的细节承载情绪。"
+      },
+      {
+        "en": "Pass two: make each invitation warm but pressure-free.",
+        "zh": "第二遍：每个邀请都要温暖，却不给人压力。"
+      },
+      {
+        "en": "Pass three: end with quiet moral clarity.",
+        "zh": "第三遍：用安静而清晰的道德感收束。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Who is currently standing at the edge of one of your familiar rooms?",
+      "zh": "在你熟悉的某个“房间”里，现在谁正站在边缘？"
+    },
+    {
+      "en": "What small invitation could create a genuine choice today?",
+      "zh": "今天哪一个小小的邀请，可以创造一个真正的选择？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/turn-one-chair-toward-the-door/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/turn-one-chair-toward-the-door/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/turn-one-chair-toward-the-door/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/turn-one-chair-toward-the-door/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/turn-one-chair-toward-the-door/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/turn-one-chair-toward-the-door/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/turn-one-chair-toward-the-door/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/turn-one-chair-toward-the-door/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/turn-one-chair-toward-the-door/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/turn-one-chair-toward-the-door/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/turn-one-chair-toward-the-door/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/turn-one-chair-toward-the-door/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/turn-one-chair-toward-the-door/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/turn-one-chair-toward-the-door/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/turn-one-chair-toward-the-door/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/turn-one-chair-toward-the-door/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/turn-one-chair-toward-the-door/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/turn-one-chair-toward-the-door/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/turn-one-chair-toward-the-door/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/turn-one-chair-toward-the-door/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/turn-one-chair-toward-the-door/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/turn-one-chair-toward-the-door/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/turn-one-chair-toward-the-door/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/turn-one-chair-toward-the-door/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/turn-one-chair-toward-the-door/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/turn-one-chair-toward-the-door/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/turn-one-chair-toward-the-door/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/turn-one-chair-toward-the-door/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/turn-one-chair-toward-the-door/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/turn-one-chair-toward-the-door/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/turn-one-chair-toward-the-door/clips/sources_0.mp3"
+    }
+  }
+}

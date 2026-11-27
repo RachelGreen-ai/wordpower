@@ -1,0 +1,242 @@
+{
+  "lessonId": "ask-the-ordinary-thing-again",
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "title": {
+    "en": "Ask the Ordinary Thing Again",
+    "zh": "再问一次平常之物"
+  },
+  "subtitle": {
+    "en": "An original reflection on scientific wonder, disciplined questions, and the hidden depth of familiar things.",
+    "zh": "一篇原创美文：关于科学惊奇、严谨提问，以及熟悉事物中隐藏的深度。"
+  },
+  "tags": [
+    "Science",
+    "Curiosity",
+    "Observation",
+    "Learning"
+  ],
+  "sources": [
+    {
+      "title": "The Chemical History of a Candle",
+      "author": "Michael Faraday",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14474",
+      "note": {
+        "en": "Public-domain inspiration for investigating ordinary phenomena with disciplined wonder; this lesson is entirely original and reproduces no source wording.",
+        "zh": "灵感来自这部公开领域作品中以严谨的惊奇研究日常现象的方法；本课全文原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with alert curiosity. Make each observation exact, and let wonder rise from accuracy rather than excitement alone.",
+    "zh": "用敏锐的好奇心朗读。每个观察都要准确，让惊奇从准确中生长，而不只靠兴奋。"
+  },
+  "passage": {
+    "title": {
+      "en": "A Familiar Object Is Not a Finished Question",
+      "zh": "熟悉之物不是一个已经结束的问题"
+    },
+    "intro": {
+      "en": "This original passage follows the habit of looking twice at what daily life has made invisible.",
+      "zh": "这篇原创文章追随一种习惯：重新凝视那些因日常而变得不可见的事物。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. Familiarity Is a Kind of Curtain",
+          "zh": "1. 熟悉是一层帘幕"
+        },
+        "text": "Set a glass of water on the table. Nothing could appear more settled. Yet the surface bends the window light, holds a trembling reflection, and curves almost invisibly against the glass. Familiarity tells us there is nothing left to see. Attention replies that seeing has barely begun. Science often starts with this second look, when an ordinary object stops serving its usual purpose and becomes a field of questions. Why does a droplet keep its rounded edge? Where does the cold on the outside of the glass come from? A useful question does not make the world less beautiful. It gives beauty joints and hinges.",
+        "coaching": {
+          "en": "Begin with stillness. Let the questions brighten, then land firmly on joints and hinges.",
+          "zh": "开头保持静止感。问题处变得明亮，最后让 joints and hinges 稳稳落下。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Describe Before You Explain",
+          "zh": "2. 解释之前先描述"
+        },
+        "text": "The mind enjoys arriving early at an explanation. It sees steam above a cup and says, “The water is becoming smoke.” But disciplined curiosity slows the leap. What exactly is visible? Where does it appear, and where does it vanish? Does the same thing happen above a cold cup? Description is not a timid stage before real thinking; it is protection against the story we expected to find. Precise language makes observation testable. “A pale cloud forms above the rim” is more useful than “something strange happens.” The better the sentence, the easier it becomes for another person to look, disagree, and look again.",
+        "coaching": {
+          "en": "Contrast the quick claim with the careful questions. Give the two quoted descriptions crisp edges.",
+          "zh": "对比快速判断与谨慎问题。两处引语要读得轮廓清晰。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Let Error Become Equipment",
+          "zh": "3. 让错误成为工具"
+        },
+        "text": "An experiment that refuses our prediction has not necessarily failed. It may have removed a comfortable mistake. The crucial habit is to keep surprise from turning into embarrassment. Record what happened. Check the instrument. Change one condition. Invite another pair of eyes. Error becomes equipment when it sharpens the next attempt. This attitude belongs beyond the laboratory. A conversation, a lesson plan, or a business decision can also contradict our model of the world. The question is whether pride will defend the model or attention will revise it. Curiosity is courageous when it values correction more than the appearance of being right.",
+        "coaching": {
+          "en": "Make the four short instructions practical and clean. Build contrast through pride and attention.",
+          "zh": "四个短指令要实用利落。通过 pride 与 attention 推进对比。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Return Wonder to the Hand",
+          "zh": "4. 把惊奇交还给双手"
+        },
+        "text": "Knowledge is sometimes presented as a shelf of finished answers. In practice, it is more like a well-used workbench: marked by trials, crowded with tools, and open to the next visitor. Touch restores scale to thought. Fold the paper. Turn the lens. Listen to the difference between the full jar and the empty one. When the hand participates, an idea gains weight, resistance, and sound. We remember that understanding was built by people who asked the ordinary thing again, then devised a careful way to hear its reply. The world has not run out of wonders. It has only grown skilled at waiting beneath our habits.",
+        "coaching": {
+          "en": "Give the workbench image texture. Read the three hand actions distinctly, then close in a tone of renewed wonder.",
+          "zh": "让工作台的意象有质感。三个动手动作要读得分明，最后用重新发现惊奇的语气收束。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "phenomenon",
+      "meaning": {
+        "en": "An event or fact that can be observed and studied.",
+        "zh": "现象；可以观察和研究的事件或事实。"
+      },
+      "use": {
+        "en": "The rainbow is a familiar phenomenon.",
+        "zh": "彩虹是一种熟悉的现象。"
+      }
+    },
+    {
+      "term": "disciplined",
+      "meaning": {
+        "en": "Controlled by careful method and steady practice.",
+        "zh": "严谨的；由仔细方法与稳定练习约束的。"
+      },
+      "use": {
+        "en": "Disciplined curiosity improved the experiment.",
+        "zh": "严谨的好奇心改进了实验。"
+      }
+    },
+    {
+      "term": "testable",
+      "meaning": {
+        "en": "Able to be checked by evidence or experiment.",
+        "zh": "可检验的；能够由证据或实验核查的。"
+      },
+      "use": {
+        "en": "Turn the claim into a testable question.",
+        "zh": "把这个说法变成一个可检验的问题。"
+      }
+    },
+    {
+      "term": "prediction",
+      "meaning": {
+        "en": "A statement about what is expected to happen.",
+        "zh": "预测；对将会发生什么的判断。"
+      },
+      "use": {
+        "en": "The result challenged our prediction.",
+        "zh": "结果挑战了我们的预测。"
+      }
+    },
+    {
+      "term": "devise",
+      "meaning": {
+        "en": "Create a method or plan through careful thought.",
+        "zh": "设计；经过认真思考创造方法或计划。"
+      },
+      "use": {
+        "en": "They devised a simple test.",
+        "zh": "他们设计了一个简单测试。"
+      }
+    },
+    {
+      "term": "resistance",
+      "meaning": {
+        "en": "A force or difficulty that opposes movement or change.",
+        "zh": "阻力；阻碍移动或变化的力量或困难。"
+      },
+      "use": {
+        "en": "The material offered unexpected resistance.",
+        "zh": "这种材料产生了意外的阻力。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Keep the consonant clusters clear in glass, starts, asks, and facts.",
+      "zh": "清楚读出 glass、starts、asks、facts 中的辅音群。"
+    },
+    {
+      "en": "Stress the key contrast in describe before you explain.",
+      "zh": "在 describe before you explain 中突出关键对比。"
+    },
+    {
+      "en": "Use even rhythm for record, check, change, and invite.",
+      "zh": "record、check、change、invite 要使用均匀节奏。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a curious listener through a live demonstration.",
+      "zh": "跟读时，想象你正在带领一位好奇的听众观看现场演示。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make every visible detail exact.",
+        "zh": "第一遍：让每个可见细节都准确。"
+      },
+      {
+        "en": "Pass two: let the questions sound investigative, not theatrical.",
+        "zh": "第二遍：问题要有探究感，不要戏剧化。"
+      },
+      {
+        "en": "Pass three: build from careful method toward genuine wonder.",
+        "zh": "第三遍：从严谨方法逐步走向真实惊奇。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Which familiar object near you could become a field of better questions?",
+      "zh": "你身边哪件熟悉的物品，可以成为更好问题的天地？"
+    },
+    {
+      "en": "Where might a recent error become equipment for your next attempt?",
+      "zh": "最近的哪个错误，可以成为你下一次尝试的工具？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/ask-the-ordinary-thing-again/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/ask-the-ordinary-thing-again/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/ask-the-ordinary-thing-again/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/ask-the-ordinary-thing-again/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/ask-the-ordinary-thing-again/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/ask-the-ordinary-thing-again/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/ask-the-ordinary-thing-again/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/ask-the-ordinary-thing-again/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/ask-the-ordinary-thing-again/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/ask-the-ordinary-thing-again/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/ask-the-ordinary-thing-again/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/ask-the-ordinary-thing-again/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/ask-the-ordinary-thing-again/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/ask-the-ordinary-thing-again/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/ask-the-ordinary-thing-again/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/ask-the-ordinary-thing-again/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/ask-the-ordinary-thing-again/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/ask-the-ordinary-thing-again/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/ask-the-ordinary-thing-again/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/ask-the-ordinary-thing-again/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/ask-the-ordinary-thing-again/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/ask-the-ordinary-thing-again/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/ask-the-ordinary-thing-again/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/ask-the-ordinary-thing-again/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/ask-the-ordinary-thing-again/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/ask-the-ordinary-thing-again/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/ask-the-ordinary-thing-again/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/ask-the-ordinary-thing-again/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/ask-the-ordinary-thing-again/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/ask-the-ordinary-thing-again/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/ask-the-ordinary-thing-again/clips/sources_0.mp3"
+    }
+  }
+}

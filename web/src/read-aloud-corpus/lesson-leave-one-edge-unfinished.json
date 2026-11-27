@@ -1,0 +1,242 @@
+{
+  "series": {
+    "en": "Beautiful English Read-Aloud",
+    "zh": "美文跟读"
+  },
+  "level": "Upper intermediate",
+  "duration": "3-5 min",
+  "lessonId": "leave-one-edge-unfinished",
+  "title": {
+    "en": "Leave One Edge Unfinished",
+    "zh": "留一处边缘不完成"
+  },
+  "subtitle": {
+    "en": "An original reflection on art, restraint, and the creative power of deliberate incompleteness.",
+    "zh": "一篇原创美文：关于艺术、克制，以及有意留白所释放的创造力。"
+  },
+  "tags": [
+    "Art",
+    "Creativity",
+    "Restraint",
+    "Attention"
+  ],
+  "sources": [
+    {
+      "title": "The Practice and Science of Drawing",
+      "author": "Harold Speed",
+      "organization": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/14264",
+      "note": {
+        "en": "Public-domain inspiration from Speed’s reflections on seeing, selection, and expressive drawing; this lesson is wholly original and reproduces no source wording.",
+        "zh": "灵感来自斯皮德关于观察、取舍与表现性绘画的公版思考；本课为全新原创，不复述原文。"
+      }
+    }
+  ],
+  "warmup": {
+    "en": "Read with a maker’s concentration. Allow the sentences to breathe where the passage speaks of space and restraint.",
+    "zh": "带着创作者的专注朗读。写到空间与克制时，让句子充分呼吸。"
+  },
+  "passage": {
+    "title": {
+      "en": "The Work the Viewer Completes",
+      "zh": "由观看者完成的作品"
+    },
+    "intro": {
+      "en": "This original passage considers why strong creative work often depends on what the maker chooses not to finish for us.",
+      "zh": "这篇原创文章思考：为什么有力量的创作，常常取决于创作者选择不替我们完成的部分。"
+    },
+    "sections": [
+      {
+        "title": {
+          "en": "1. The Temptation to Explain Everything",
+          "zh": "1. 解释一切的诱惑"
+        },
+        "text": "When a work matters to us, we want to protect it from misunderstanding. The painter sharpens every outline. The writer adds one more sentence after the meaning has already arrived. The speaker repeats the point in brighter language, then repeats the brightness. This impulse is generous, but generosity can crowd a room. If every shadow is labeled and every silence filled, the audience has nowhere to stand. Complete explanation may secure agreement while removing discovery. The work becomes a locked house whose owner proudly describes each room through the door.",
+        "coaching": {
+          "en": "Let the examples gather gentle humor. Make the locked-house image crisp and memorable.",
+          "zh": "几个例子可带一点温和幽默。把锁住房子的画面读得清晰难忘。"
+        }
+      },
+      {
+        "title": {
+          "en": "2. Choose the Living Edge",
+          "zh": "2. 选择有生命的边缘"
+        },
+        "text": "An unfinished edge is not the same as careless work. Carelessness fails to see what is missing; restraint sees it and decides the absence can speak. A sketch may let a shoulder dissolve into paper while preserving the exact tilt of the head. A story may close before the apology is answered, because the reader already feels the difficult air around the reply. The maker’s task is not to remove every uncertainty. It is to decide which uncertainty is alive—which one invites attention instead of merely causing confusion.",
+        "coaching": {
+          "en": "Give the definition of restraint clean emphasis. Slow slightly through the visual and narrative examples.",
+          "zh": "清楚强调“克制”的定义。视觉与叙事例子处稍微放慢。"
+        }
+      },
+      {
+        "title": {
+          "en": "3. Trust the Other Mind",
+          "zh": "3. 相信另一颗心"
+        },
+        "text": "Leaving space is an act of trust. It assumes that the person meeting the work brings memory, intelligence, and weather of their own. Two listeners may hear the same pause differently, and neither response reduces the craft. Meaning is not always a parcel transferred intact from one mind to another. Sometimes it is a current completed only when two shores are present. This does not excuse vagueness. The artist must build strong banks: precise images, deliberate rhythm, a structure that can carry weight. Then the open water can do its work.",
+        "coaching": {
+          "en": "Sound confident through the abstract idea, then ground it firmly in the river image.",
+          "zh": "抽象观点处保持自信，再用河流意象稳稳落地。"
+        }
+      },
+      {
+        "title": {
+          "en": "4. Stop While the Door Is Open",
+          "zh": "4. 趁门还开着时停下"
+        },
+        "text": "The final creative decision is often not what to add but when to stop. Read the page aloud. Step back from the canvas. End the rehearsal before fatigue makes every choice look doubtful. Ask whether the remaining roughness is dead material or an open door. Remove what only proves how hard you worked. Keep what gives the audience a meaningful task. A finished work need not close every path behind it. Sometimes its deepest courtesy is to leave one edge breathing, so another person may enter and discover that their attention was part of the making all along.",
+        "coaching": {
+          "en": "Make the practical instructions decisive. Let the final sentence open gradually and breathe.",
+          "zh": "实用指令要读得果断。最后一句逐渐打开，并留出呼吸感。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "restraint",
+      "meaning": {
+        "en": "Deliberate control that prevents excess.",
+        "zh": "克制；为避免过度而进行的有意识控制。"
+      },
+      "use": {
+        "en": "The design gains power from restraint.",
+        "zh": "这项设计因克制而更有力量。"
+      }
+    },
+    {
+      "term": "crowd",
+      "meaning": {
+        "en": "To fill a space so fully that little room remains.",
+        "zh": "挤满；把空间填得几乎没有余地。"
+      },
+      "use": {
+        "en": "Too many explanations can crowd the idea.",
+        "zh": "过多解释会挤压观点的空间。"
+      }
+    },
+    {
+      "term": "dissolve",
+      "meaning": {
+        "en": "To fade or blend gradually into something else.",
+        "zh": "消融；逐渐淡去或融入另一事物。"
+      },
+      "use": {
+        "en": "The final note dissolved into silence.",
+        "zh": "最后一个音符渐渐融入寂静。"
+      }
+    },
+    {
+      "term": "vagueness",
+      "meaning": {
+        "en": "A lack of clear or specific meaning.",
+        "zh": "含糊；缺少清楚或具体的意义。"
+      },
+      "use": {
+        "en": "Openness should not become vagueness.",
+        "zh": "开放不应变成含糊。"
+      }
+    },
+    {
+      "term": "intact",
+      "meaning": {
+        "en": "Whole and not damaged or changed.",
+        "zh": "完整无损的；没有受损或改变的。"
+      },
+      "use": {
+        "en": "The message arrived intact.",
+        "zh": "信息完整无误地传达到了。"
+      }
+    },
+    {
+      "term": "roughness",
+      "meaning": {
+        "en": "An unfinished or uneven quality in a work.",
+        "zh": "粗糙感；作品中未完成或不平整的质感。"
+      },
+      "use": {
+        "en": "A little roughness kept the performance alive.",
+        "zh": "一点粗粝感让表演保持了生命力。"
+      }
+    }
+  ],
+  "pronunciationFocus": [
+    {
+      "en": "Use controlled pauses to embody the lesson’s idea of space.",
+      "zh": "用有控制的停顿体现文章关于空间的思想。"
+    },
+    {
+      "en": "Clarify contrasts between carelessness and restraint, closure and invitation.",
+      "zh": "读清粗心与克制、封闭与邀请之间的对比。"
+    },
+    {
+      "en": "Let image-rich sentences flow without flattening their key nouns.",
+      "zh": "让意象丰富的句子流动，同时重读关键名词。"
+    }
+  ],
+  "shadowingDrill": {
+    "prompt": {
+      "en": "Shadow as if you are guiding a fellow maker toward greater confidence and less excess.",
+      "zh": "跟读时，想象你正引导一位创作者获得更多自信，减少多余表达。"
+    },
+    "steps": [
+      {
+        "en": "Pass one: make each studio image visible.",
+        "zh": "第一遍：让每个创作场景清晰可见。"
+      },
+      {
+        "en": "Pass two: use silence as part of the rhythm.",
+        "zh": "第二遍：把停顿也变成节奏的一部分。"
+      },
+      {
+        "en": "Pass three: let the ending invite the listener inward.",
+        "zh": "第三遍：让结尾邀请听者走进作品。"
+      }
+    ]
+  },
+  "reflection": [
+    {
+      "en": "Where are you explaining after the meaning has already arrived?",
+      "zh": "在哪件事上，意义已经抵达，你却仍在继续解释？"
+    },
+    {
+      "en": "Which unfinished edge could become an invitation rather than a flaw?",
+      "zh": "哪一处未完成的边缘，可以成为邀请而不是缺陷？"
+    }
+  ],
+  "audio": {
+    "narration": "audio/read-aloud/leave-one-edge-unfinished/narration.mp3",
+    "clips": {
+      "tag.0": "audio/read-aloud/leave-one-edge-unfinished/clips/tag_0.mp3",
+      "tag.1": "audio/read-aloud/leave-one-edge-unfinished/clips/tag_1.mp3",
+      "tag.2": "audio/read-aloud/leave-one-edge-unfinished/clips/tag_2.mp3",
+      "tag.3": "audio/read-aloud/leave-one-edge-unfinished/clips/tag_3.mp3",
+      "warmup": "audio/read-aloud/leave-one-edge-unfinished/clips/warmup.mp3",
+      "passage.intro": "audio/read-aloud/leave-one-edge-unfinished/clips/passage_intro.mp3",
+      "passage.sections.0": "audio/read-aloud/leave-one-edge-unfinished/clips/passage_sections_0.mp3",
+      "passage.sections.0.coaching": "audio/read-aloud/leave-one-edge-unfinished/clips/passage_sections_0_coaching.mp3",
+      "passage.sections.1": "audio/read-aloud/leave-one-edge-unfinished/clips/passage_sections_1.mp3",
+      "passage.sections.1.coaching": "audio/read-aloud/leave-one-edge-unfinished/clips/passage_sections_1_coaching.mp3",
+      "passage.sections.2": "audio/read-aloud/leave-one-edge-unfinished/clips/passage_sections_2.mp3",
+      "passage.sections.2.coaching": "audio/read-aloud/leave-one-edge-unfinished/clips/passage_sections_2_coaching.mp3",
+      "passage.sections.3": "audio/read-aloud/leave-one-edge-unfinished/clips/passage_sections_3.mp3",
+      "passage.sections.3.coaching": "audio/read-aloud/leave-one-edge-unfinished/clips/passage_sections_3_coaching.mp3",
+      "vocabulary.0": "audio/read-aloud/leave-one-edge-unfinished/clips/vocabulary_0.mp3",
+      "vocabulary.1": "audio/read-aloud/leave-one-edge-unfinished/clips/vocabulary_1.mp3",
+      "vocabulary.2": "audio/read-aloud/leave-one-edge-unfinished/clips/vocabulary_2.mp3",
+      "vocabulary.3": "audio/read-aloud/leave-one-edge-unfinished/clips/vocabulary_3.mp3",
+      "vocabulary.4": "audio/read-aloud/leave-one-edge-unfinished/clips/vocabulary_4.mp3",
+      "vocabulary.5": "audio/read-aloud/leave-one-edge-unfinished/clips/vocabulary_5.mp3",
+      "pronunciationFocus.0": "audio/read-aloud/leave-one-edge-unfinished/clips/pronunciationFocus_0.mp3",
+      "pronunciationFocus.1": "audio/read-aloud/leave-one-edge-unfinished/clips/pronunciationFocus_1.mp3",
+      "pronunciationFocus.2": "audio/read-aloud/leave-one-edge-unfinished/clips/pronunciationFocus_2.mp3",
+      "shadowingDrill.prompt": "audio/read-aloud/leave-one-edge-unfinished/clips/shadowingDrill_prompt.mp3",
+      "shadowingDrill.steps.0": "audio/read-aloud/leave-one-edge-unfinished/clips/shadowingDrill_steps_0.mp3",
+      "shadowingDrill.steps.1": "audio/read-aloud/leave-one-edge-unfinished/clips/shadowingDrill_steps_1.mp3",
+      "shadowingDrill.steps.2": "audio/read-aloud/leave-one-edge-unfinished/clips/shadowingDrill_steps_2.mp3",
+      "reflection.0": "audio/read-aloud/leave-one-edge-unfinished/clips/reflection_0.mp3",
+      "reflection.1": "audio/read-aloud/leave-one-edge-unfinished/clips/reflection_1.mp3",
+      "sources.0": "audio/read-aloud/leave-one-edge-unfinished/clips/sources_0.mp3"
+    }
+  }
+}
